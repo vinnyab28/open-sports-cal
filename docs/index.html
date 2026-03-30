@@ -831,6 +831,13 @@
         </footer>
 
         <script>
+            // ── HTML escaping ─────────────────────────────────────────────────────────────
+            function escapeHtml(str) {
+                const div = document.createElement("div");
+                div.textContent = str;
+                return div.innerHTML;
+            }
+
             // ── URL helpers ──────────────────────────────────────────────────────────────
             const RAW_BASE = (() => {
                 const h = window.location.hostname;
@@ -987,7 +994,7 @@
                 });
 
                 if (visible.length === 0) {
-                    grid.innerHTML = `<div class="empty"><div class="empty-icon">🔍</div><p>No calendars match "<strong>${q}</strong>"</p></div>`;
+                    grid.innerHTML = `<div class="empty"><div class="empty-icon">🔍</div><p>No calendars match "<strong>${escapeHtml(q)}</strong>"</p></div>`;
                     return;
                 }
                 grid.innerHTML = visible.map(renderCard).join("");
@@ -1162,8 +1169,8 @@
                                 const venue = (ev.location || "").split(",")[0].trim();
                                 return `<div class="match-row">
                                     <span class="match-time">${fmtTime(dt, allDay)}</span>
-                                    <span class="match-teams">${ev.summary || ""}</span>
-                                    <span class="match-venue" title="${ev.location || ""}">${venue}</span>
+                                    <span class="match-teams">${escapeHtml(ev.summary || "")}</span>
+                                    <span class="match-venue" title="${escapeHtml(ev.location || "")}">${escapeHtml(venue)}</span>
                                 </div>`;
                             })
                             .join("");

@@ -148,7 +148,7 @@ for sport_dir in sorted(ROOT.iterdir()):
         )
 
         for season_dir in seasons:
-            ics_files = sorted(season_dir.glob("*.ics"))
+            ics_files = sorted(f for f in season_dir.glob("*.ics") if not f.is_symlink())
             if not ics_files:
                 continue
 
