@@ -1,0 +1,316 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//F1 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Formula 1 2026
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:f1-2026-r01-race@open-sports-cal
+DTSTART:20260308T040000Z
+DTEND:20260308T060000Z
+SUMMARY:Australian Grand Prix
+DESCRIPTION:F1 2026 — Round 1 of 22\nAustralian Grand Prix\nAlbert Park Grand Prix Circuit\nMelbourne, Australia
+LOCATION:Albert Park Grand Prix Circuit, Melbourne, Australia
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r02-sprint@open-sports-cal
+DTSTART:20260314T030000Z
+DTEND:20260314T040000Z
+SUMMARY:Chinese Grand Prix — Sprint
+DESCRIPTION:F1 2026 — Round 2 of 22\nChinese Grand Prix — Sprint\nShanghai International Circuit\nShanghai, China
+LOCATION:Shanghai International Circuit, Shanghai, China
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r02-race@open-sports-cal
+DTSTART:20260315T070000Z
+DTEND:20260315T090000Z
+SUMMARY:Chinese Grand Prix (Sprint Weekend)
+DESCRIPTION:F1 2026 — Round 2 of 22\nChinese Grand Prix\nShanghai International Circuit\nShanghai, China
+LOCATION:Shanghai International Circuit, Shanghai, China
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r03-race@open-sports-cal
+DTSTART:20260329T050000Z
+DTEND:20260329T070000Z
+SUMMARY:Japanese Grand Prix
+DESCRIPTION:F1 2026 — Round 3 of 22\nJapanese Grand Prix\nSuzuka International Racing Course\nSuzuka, Japan
+LOCATION:Suzuka International Racing Course, Suzuka, Japan
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r04-sprint@open-sports-cal
+DTSTART:20260502T160000Z
+DTEND:20260502T170000Z
+SUMMARY:Miami Grand Prix — Sprint
+DESCRIPTION:F1 2026 — Round 4 of 22\nMiami Grand Prix — Sprint\nMiami International Autodrome\nMiami, USA
+LOCATION:Miami International Autodrome, Miami, USA
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r04-race@open-sports-cal
+DTSTART:20260503T200000Z
+DTEND:20260503T220000Z
+SUMMARY:Miami Grand Prix (Sprint Weekend)
+DESCRIPTION:F1 2026 — Round 4 of 22\nMiami Grand Prix\nMiami International Autodrome\nMiami, USA
+LOCATION:Miami International Autodrome, Miami, USA
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r05-sprint@open-sports-cal
+DTSTART:20260523T160000Z
+DTEND:20260523T170000Z
+SUMMARY:Canadian Grand Prix — Sprint
+DESCRIPTION:F1 2026 — Round 5 of 22\nCanadian Grand Prix — Sprint\nCircuit Gilles Villeneuve\nMontreal, Canada
+LOCATION:Circuit Gilles Villeneuve, Montreal, Canada
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r05-race@open-sports-cal
+DTSTART:20260524T200000Z
+DTEND:20260524T220000Z
+SUMMARY:Canadian Grand Prix (Sprint Weekend)
+DESCRIPTION:F1 2026 — Round 5 of 22\nCanadian Grand Prix\nCircuit Gilles Villeneuve\nMontreal, Canada
+LOCATION:Circuit Gilles Villeneuve, Montreal, Canada
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r06-race@open-sports-cal
+DTSTART:20260607T130000Z
+DTEND:20260607T150000Z
+SUMMARY:Monaco Grand Prix
+DESCRIPTION:F1 2026 — Round 6 of 22\nMonaco Grand Prix\nCircuit de Monaco\nMonte Carlo, Monaco
+LOCATION:Circuit de Monaco, Monte Carlo, Monaco
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r07-race@open-sports-cal
+DTSTART:20260614T130000Z
+DTEND:20260614T150000Z
+SUMMARY:Barcelona-Catalunya Grand Prix
+DESCRIPTION:F1 2026 — Round 7 of 22\nBarcelona-Catalunya Grand Prix\nCircuit de Barcelona-Catalunya\nBarcelona, Spain
+LOCATION:Circuit de Barcelona-Catalunya, Barcelona, Spain
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r08-race@open-sports-cal
+DTSTART:20260628T130000Z
+DTEND:20260628T150000Z
+SUMMARY:Austrian Grand Prix
+DESCRIPTION:F1 2026 — Round 8 of 22\nAustrian Grand Prix\nRed Bull Ring\nSpielberg, Austria
+LOCATION:Red Bull Ring, Spielberg, Austria
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r09-sprint@open-sports-cal
+DTSTART:20260704T110000Z
+DTEND:20260704T120000Z
+SUMMARY:British Grand Prix — Sprint
+DESCRIPTION:F1 2026 — Round 9 of 22\nBritish Grand Prix — Sprint\nSilverstone Circuit\nSilverstone, United Kingdom
+LOCATION:Silverstone Circuit, Silverstone, United Kingdom
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r09-race@open-sports-cal
+DTSTART:20260705T140000Z
+DTEND:20260705T160000Z
+SUMMARY:British Grand Prix (Sprint Weekend)
+DESCRIPTION:F1 2026 — Round 9 of 22\nBritish Grand Prix\nSilverstone Circuit\nSilverstone, United Kingdom
+LOCATION:Silverstone Circuit, Silverstone, United Kingdom
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r10-race@open-sports-cal
+DTSTART:20260719T130000Z
+DTEND:20260719T150000Z
+SUMMARY:Belgian Grand Prix
+DESCRIPTION:F1 2026 — Round 10 of 22\nBelgian Grand Prix\nCircuit de Spa-Francorchamps\nSpa-Francorchamps, Belgium
+LOCATION:Circuit de Spa-Francorchamps, Spa-Francorchamps, Belgium
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r11-race@open-sports-cal
+DTSTART:20260726T130000Z
+DTEND:20260726T150000Z
+SUMMARY:Hungarian Grand Prix
+DESCRIPTION:F1 2026 — Round 11 of 22\nHungarian Grand Prix\nHungaroring\nBudapest, Hungary
+LOCATION:Hungaroring, Budapest, Hungary
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r12-sprint@open-sports-cal
+DTSTART:20260822T100000Z
+DTEND:20260822T110000Z
+SUMMARY:Dutch Grand Prix — Sprint
+DESCRIPTION:F1 2026 — Round 12 of 22\nDutch Grand Prix — Sprint\nCircuit Zandvoort\nZandvoort, Netherlands
+LOCATION:Circuit Zandvoort, Zandvoort, Netherlands
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r12-race@open-sports-cal
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:Dutch Grand Prix (Sprint Weekend)
+DESCRIPTION:F1 2026 — Round 12 of 22\nDutch Grand Prix\nCircuit Zandvoort\nZandvoort, Netherlands
+LOCATION:Circuit Zandvoort, Zandvoort, Netherlands
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r13-race@open-sports-cal
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:Italian Grand Prix
+DESCRIPTION:F1 2026 — Round 13 of 22\nItalian Grand Prix\nAutodromo Nazionale Monza\nMonza, Italy
+LOCATION:Autodromo Nazionale Monza, Monza, Italy
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r14-race@open-sports-cal
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:Spanish Grand Prix
+DESCRIPTION:F1 2026 — Round 14 of 22\nSpanish Grand Prix\nMadring (Madrid Street Circuit)\nMadrid, Spain
+LOCATION:Madring (Madrid Street Circuit), Madrid, Spain
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r15-race@open-sports-cal
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:Azerbaijan Grand Prix
+DESCRIPTION:F1 2026 — Round 15 of 22\nAzerbaijan Grand Prix\nBaku City Circuit\nBaku, Azerbaijan
+LOCATION:Baku City Circuit, Baku, Azerbaijan
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r16-sprint@open-sports-cal
+DTSTART:20261010T040000Z
+DTEND:20261010T050000Z
+SUMMARY:Singapore Grand Prix — Sprint
+DESCRIPTION:F1 2026 — Round 16 of 22\nSingapore Grand Prix — Sprint\nMarina Bay Street Circuit\nMarina Bay, Singapore
+LOCATION:Marina Bay Street Circuit, Marina Bay, Singapore
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r16-race@open-sports-cal
+DTSTART:20261011T120000Z
+DTEND:20261011T140000Z
+SUMMARY:Singapore Grand Prix (Sprint Weekend)
+DESCRIPTION:F1 2026 — Round 16 of 22\nSingapore Grand Prix\nMarina Bay Street Circuit\nMarina Bay, Singapore
+LOCATION:Marina Bay Street Circuit, Marina Bay, Singapore
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r17-race@open-sports-cal
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+SUMMARY:United States Grand Prix
+DESCRIPTION:F1 2026 — Round 17 of 22\nUnited States Grand Prix\nCircuit of the Americas\nAustin, USA
+LOCATION:Circuit of the Americas, Austin, USA
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r18-race@open-sports-cal
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+SUMMARY:Mexican Grand Prix
+DESCRIPTION:F1 2026 — Round 18 of 22\nMexican Grand Prix\nAutodromo Hermanos Rodriguez\nMexico City, Mexico
+LOCATION:Autodromo Hermanos Rodriguez, Mexico City, Mexico
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r19-race@open-sports-cal
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:Brazilian Grand Prix
+DESCRIPTION:F1 2026 — Round 19 of 22\nBrazilian Grand Prix\nAutodromo Jose Carlos Pace (Interlagos)\nSao Paulo, Brazil
+LOCATION:Autodromo Jose Carlos Pace (Interlagos), Sao Paulo, Brazil
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r20-race@open-sports-cal
+DTSTART:20261122T040000Z
+DTEND:20261122T060000Z
+SUMMARY:Las Vegas Grand Prix
+DESCRIPTION:F1 2026 — Round 20 of 22\nLas Vegas Grand Prix\nLas Vegas Street Circuit\nLas Vegas, USA
+LOCATION:Las Vegas Street Circuit, Las Vegas, USA
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r21-race@open-sports-cal
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:Qatar Grand Prix
+DESCRIPTION:F1 2026 — Round 21 of 22\nQatar Grand Prix\nLusail International Circuit\nLusail, Qatar
+LOCATION:Lusail International Circuit, Lusail, Qatar
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r22-race@open-sports-cal
+DTSTART:20261206T130000Z
+DTEND:20261206T150000Z
+SUMMARY:Abu Dhabi Grand Prix
+DESCRIPTION:F1 2026 — Round 22 of 22\nAbu Dhabi Grand Prix\nYas Marina Circuit\nYas Island, Abu Dhabi, UAE
+LOCATION:Yas Marina Circuit, Yas Island, Abu Dhabi, UAE
+CATEGORIES:Motorsport,Formula 1,F1 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T231717Z
+END:VEVENT
+END:VCALENDAR
