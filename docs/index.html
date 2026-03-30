@@ -1117,7 +1117,9 @@
                 }
 
                 // Open modal + loading state
-                document.getElementById("scheduleBody").innerHTML = '<div class="sched-msg">Loading schedule…</div>';
+                const scheduleBody = document.getElementById("scheduleBody");
+                scheduleBody.innerHTML = '<div class="sched-msg">Loading schedule…</div>';
+                scheduleBody.scrollTop = 0;
                 document.getElementById("scheduleModal").classList.add("open");
                 document.body.style.overflow = "hidden";
 
