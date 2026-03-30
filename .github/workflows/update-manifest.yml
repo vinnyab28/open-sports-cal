@@ -1,0 +1,35 @@
+name: Update Calendar Manifest
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "**/*.ics"
+      - "generate_manifest.py"
+
+jobs:
+  generate:
+    name: Regenerate docs/data.js
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate manifest
+        run: python3 generate_manifest.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data.js
+          git diff --cached --quiet && echo "No changes to commit." && exit 0
+          git commit -m "chore: regenerate docs/data.js [skip ci]"
+          git push

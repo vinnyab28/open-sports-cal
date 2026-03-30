@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Generation scripts (run-and-delete, never committed)
+_gen_*.py
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp / cache
+*.tmp
+*.log

@@ -1,0 +1,72 @@
+name: Validate Calendars
+
+on:
+  pull_request:
+    paths:
+      - "**/*.ics"
+      - "**/README.md"
+      - "validate.py"
+  push:
+    branches:
+      - main
+
+jobs:
+  check-structure:
+    name: "Check: VCALENDAR structure & PRODID"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python3 validate.py --check structure
+
+  check-fields:
+    name: "Check: Required VEVENT fields"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python3 validate.py --check fields
+
+  check-uids:
+    name: "Check: UID format & uniqueness"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python3 validate.py --check uids
+
+  check-naming:
+    name: "Check: Filename slug format"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python3 validate.py --check naming
+
+  check-readmes:
+    name: "Check: README.md presence"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python3 validate.py --check readmes
+
+  check-readme-sync:
+    name: "Check: README content sync"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python3 validate.py --check readme-sync
