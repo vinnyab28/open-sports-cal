@@ -689,7 +689,7 @@
             }
             .match-row {
                 display: grid;
-                grid-template-columns: 4.5rem 1fr auto;
+                grid-template-columns: 5.5rem 1fr auto;
                 align-items: center;
                 gap: 0.75rem;
                 padding: 0.5rem 1.25rem;
@@ -700,10 +700,18 @@
                 background: var(--subtle);
             }
             .match-time {
+                display: flex;
+                flex-direction: column;
+                gap: 0.1rem;
                 font-size: 0.72rem;
                 font-weight: 600;
                 color: var(--indigo);
                 white-space: nowrap;
+            }
+            .event-tz {
+                font-size: 0.65rem;
+                font-weight: 400;
+                color: var(--muted);
             }
             .match-teams {
                 font-size: 0.82rem;
@@ -724,7 +732,7 @@
             }
             @media (max-width: 500px) {
                 .match-row {
-                    grid-template-columns: 4rem 1fr;
+                    grid-template-columns: 5.5rem 1fr;
                 }
                 .match-venue {
                     display: none;
@@ -1160,6 +1168,16 @@
                 const fmtDate = dt => dt.toLocaleDateString("en-GB", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
                 const fmtTime = (dt, allDay) => (allDay ? "All day" : dt.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit" }));
 
+                // Returns event's local time string if the user is in a different timezone
+                const userOffsetMin = new Date().getTimezoneOffset();
+                const fmtEventTz = (dt, tz) => {
+                    if (tz === "IST" && userOffsetMin !== -330)
+                        return new Intl.DateTimeFormat("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "Asia/Kolkata" }).format(dt) + " IST";
+                    if (tz === "" && userOffsetMin !== 0)
+                        return new Intl.DateTimeFormat("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "UTC" }).format(dt) + " UTC";
+                    return null;
+                };
+
                 const html = Object.entries(groups)
                     .sort(([a], [b]) => a.localeCompare(b))
                     .map(([, grp]) => {
@@ -1167,8 +1185,12 @@
                             .sort((a, b) => a.dt - b.dt)
                             .map(({ ev, dt, allDay }) => {
                                 const venue = (ev.location || "").split(",")[0].trim();
+                                const eventTz = allDay ? null : fmtEventTz(dt, ev.tz);
+                                const timeCell = eventTz
+                                    ? `${fmtTime(dt, allDay)}<span class="event-tz">${escapeHtml(eventTz)}</span>`
+                                    : fmtTime(dt, allDay);
                                 return `<div class="match-row">
-                                    <span class="match-time">${fmtTime(dt, allDay)}</span>
+                                    <span class="match-time">${timeCell}</span>
                                     <span class="match-teams">${escapeHtml(ev.summary || "")}</span>
                                     <span class="match-venue" title="${escapeHtml(ev.location || "")}">${escapeHtml(venue)}</span>
                                 </div>`;
