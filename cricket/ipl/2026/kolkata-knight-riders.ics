@@ -1,0 +1,171 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//IPL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IPL 2026 - Kolkata Knight Riders
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ipl2026-match02@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260329T193000
+DTEND;TZID=Asia/Kolkata:20260329T233000
+SUMMARY:Mumbai Indians vs Kolkata Knight Riders
+DESCRIPTION:IPL 2026 — Match 2\nMumbai Indians vs Kolkata Knight Riders\n7:30 PM IST\nWankhede Stadium, Mumbai
+LOCATION:Wankhede Stadium, Mumbai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match06@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260402T193000
+DTEND;TZID=Asia/Kolkata:20260402T233000
+SUMMARY:Kolkata Knight Riders vs Sunrisers Hyderabad
+DESCRIPTION:IPL 2026 — Match 6\nKolkata Knight Riders vs Sunrisers Hyderabad\n7:30 PM IST\nEden Gardens, Kolkata
+LOCATION:Eden Gardens, Kolkata
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match12@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260406T193000
+DTEND;TZID=Asia/Kolkata:20260406T233000
+SUMMARY:Kolkata Knight Riders vs Punjab Kings
+DESCRIPTION:IPL 2026 — Match 12\nKolkata Knight Riders vs Punjab Kings\n7:30 PM IST\nEden Gardens, Kolkata
+LOCATION:Eden Gardens, Kolkata
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match15@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260409T193000
+DTEND;TZID=Asia/Kolkata:20260409T233000
+SUMMARY:Kolkata Knight Riders vs Lucknow Super Giants
+DESCRIPTION:IPL 2026 — Match 15\nKolkata Knight Riders vs Lucknow Super Giants\n7:30 PM IST\nEden Gardens, Kolkata
+LOCATION:Eden Gardens, Kolkata
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match22@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260414T193000
+DTEND;TZID=Asia/Kolkata:20260414T233000
+SUMMARY:Chennai Super Kings vs Kolkata Knight Riders
+DESCRIPTION:IPL 2026 — Match 22\nChennai Super Kings vs Kolkata Knight Riders\n7:30 PM IST\nMA Chidambaram Stadium, Chennai
+LOCATION:MA Chidambaram Stadium, Chennai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match25@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260417T193000
+DTEND;TZID=Asia/Kolkata:20260417T233000
+SUMMARY:Gujarat Titans vs Kolkata Knight Riders
+DESCRIPTION:IPL 2026 — Match 25\nGujarat Titans vs Kolkata Knight Riders\n7:30 PM IST\nNarendra Modi Stadium, Ahmedabad
+LOCATION:Narendra Modi Stadium, Ahmedabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match28@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260419T153000
+DTEND;TZID=Asia/Kolkata:20260419T193000
+SUMMARY:Kolkata Knight Riders vs Rajasthan Royals
+DESCRIPTION:IPL 2026 — Match 28\nKolkata Knight Riders vs Rajasthan Royals\n3:30 PM IST\nEden Gardens, Kolkata
+LOCATION:Eden Gardens, Kolkata
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match38@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260426T193000
+DTEND;TZID=Asia/Kolkata:20260426T233000
+SUMMARY:Lucknow Super Giants vs Kolkata Knight Riders
+DESCRIPTION:IPL 2026 — Match 38\nLucknow Super Giants vs Kolkata Knight Riders\n7:30 PM IST\nBRSABV Ekana Cricket Stadium, Lucknow
+LOCATION:BRSABV Ekana Cricket Stadium, Lucknow
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match45@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260503T153000
+DTEND;TZID=Asia/Kolkata:20260503T193000
+SUMMARY:Sunrisers Hyderabad vs Kolkata Knight Riders
+DESCRIPTION:IPL 2026 — Match 45\nSunrisers Hyderabad vs Kolkata Knight Riders\n3:30 PM IST\nRajiv Gandhi International Cricket Stadium, Hyderabad
+LOCATION:Rajiv Gandhi International Cricket Stadium, Hyderabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match51@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260508T193000
+DTEND;TZID=Asia/Kolkata:20260508T233000
+SUMMARY:Delhi Capitals vs Kolkata Knight Riders
+DESCRIPTION:IPL 2026 — Match 51\nDelhi Capitals vs Kolkata Knight Riders\n7:30 PM IST\nArun Jaitley Stadium, Delhi
+LOCATION:Arun Jaitley Stadium, Delhi
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match57@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260513T193000
+DTEND;TZID=Asia/Kolkata:20260513T233000
+SUMMARY:Royal Challengers Bengaluru vs Kolkata Knight Riders
+DESCRIPTION:IPL 2026 — Match 57\nRoyal Challengers Bengaluru vs Kolkata Knight Riders\n7:30 PM IST\nShaheed Veer Narayan Singh International Cricket Stadium, Raipur
+LOCATION:Shaheed Veer Narayan Singh International Cricket Stadium, Raipur
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match60@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260516T193000
+DTEND;TZID=Asia/Kolkata:20260516T233000
+SUMMARY:Kolkata Knight Riders vs Gujarat Titans
+DESCRIPTION:IPL 2026 — Match 60\nKolkata Knight Riders vs Gujarat Titans\n7:30 PM IST\nEden Gardens, Kolkata
+LOCATION:Eden Gardens, Kolkata
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match65@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260520T193000
+DTEND;TZID=Asia/Kolkata:20260520T233000
+SUMMARY:Kolkata Knight Riders vs Mumbai Indians
+DESCRIPTION:IPL 2026 — Match 65\nKolkata Knight Riders vs Mumbai Indians\n7:30 PM IST\nEden Gardens, Kolkata
+LOCATION:Eden Gardens, Kolkata
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match70@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260524T193000
+DTEND;TZID=Asia/Kolkata:20260524T233000
+SUMMARY:Kolkata Knight Riders vs Delhi Capitals
+DESCRIPTION:IPL 2026 — Match 70\nKolkata Knight Riders vs Delhi Capitals\n7:30 PM IST\nEden Gardens, Kolkata
+LOCATION:Eden Gardens, Kolkata
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,171 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//IPL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IPL 2026 - Gujarat Titans
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ipl2026-match04@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260331T193000
+DTEND;TZID=Asia/Kolkata:20260331T233000
+SUMMARY:Punjab Kings vs Gujarat Titans
+DESCRIPTION:IPL 2026 — Match 4\nPunjab Kings vs Gujarat Titans\n7:30 PM IST\nMullanpur Stadium, New Chandigarh
+LOCATION:Mullanpur Stadium, New Chandigarh
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match09@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260404T193000
+DTEND;TZID=Asia/Kolkata:20260404T233000
+SUMMARY:Gujarat Titans vs Rajasthan Royals
+DESCRIPTION:IPL 2026 — Match 9\nGujarat Titans vs Rajasthan Royals\n7:30 PM IST\nNarendra Modi Stadium, Ahmedabad
+LOCATION:Narendra Modi Stadium, Ahmedabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match14@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260408T193000
+DTEND;TZID=Asia/Kolkata:20260408T233000
+SUMMARY:Delhi Capitals vs Gujarat Titans
+DESCRIPTION:IPL 2026 — Match 14\nDelhi Capitals vs Gujarat Titans\n7:30 PM IST\nArun Jaitley Stadium, Delhi
+LOCATION:Arun Jaitley Stadium, Delhi
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match19@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260412T153000
+DTEND;TZID=Asia/Kolkata:20260412T193000
+SUMMARY:Lucknow Super Giants vs Gujarat Titans
+DESCRIPTION:IPL 2026 — Match 19\nLucknow Super Giants vs Gujarat Titans\n3:30 PM IST\nBRSABV Ekana Cricket Stadium, Lucknow
+LOCATION:BRSABV Ekana Cricket Stadium, Lucknow
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match25@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260417T193000
+DTEND;TZID=Asia/Kolkata:20260417T233000
+SUMMARY:Gujarat Titans vs Kolkata Knight Riders
+DESCRIPTION:IPL 2026 — Match 25\nGujarat Titans vs Kolkata Knight Riders\n7:30 PM IST\nNarendra Modi Stadium, Ahmedabad
+LOCATION:Narendra Modi Stadium, Ahmedabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match30@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260420T193000
+DTEND;TZID=Asia/Kolkata:20260420T233000
+SUMMARY:Gujarat Titans vs Mumbai Indians
+DESCRIPTION:IPL 2026 — Match 30\nGujarat Titans vs Mumbai Indians\n7:30 PM IST\nNarendra Modi Stadium, Ahmedabad
+LOCATION:Narendra Modi Stadium, Ahmedabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match34@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260424T193000
+DTEND;TZID=Asia/Kolkata:20260424T233000
+SUMMARY:Royal Challengers Bengaluru vs Gujarat Titans
+DESCRIPTION:IPL 2026 — Match 34\nRoyal Challengers Bengaluru vs Gujarat Titans\n7:30 PM IST\nM. Chinnaswamy Stadium, Bengaluru
+LOCATION:M. Chinnaswamy Stadium, Bengaluru
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match37@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260426T153000
+DTEND;TZID=Asia/Kolkata:20260426T193000
+SUMMARY:Gujarat Titans vs Chennai Super Kings
+DESCRIPTION:IPL 2026 — Match 37\nGujarat Titans vs Chennai Super Kings\n3:30 PM IST\nNarendra Modi Stadium, Ahmedabad
+LOCATION:Narendra Modi Stadium, Ahmedabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match42@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260430T193000
+DTEND;TZID=Asia/Kolkata:20260430T233000
+SUMMARY:Gujarat Titans vs Royal Challengers Bengaluru
+DESCRIPTION:IPL 2026 — Match 42\nGujarat Titans vs Royal Challengers Bengaluru\n7:30 PM IST\nNarendra Modi Stadium, Ahmedabad
+LOCATION:Narendra Modi Stadium, Ahmedabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match46@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260503T193000
+DTEND;TZID=Asia/Kolkata:20260503T233000
+SUMMARY:Gujarat Titans vs Punjab Kings
+DESCRIPTION:IPL 2026 — Match 46\nGujarat Titans vs Punjab Kings\n7:30 PM IST\nNarendra Modi Stadium, Ahmedabad
+LOCATION:Narendra Modi Stadium, Ahmedabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match52@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260509T193000
+DTEND;TZID=Asia/Kolkata:20260509T233000
+SUMMARY:Rajasthan Royals vs Gujarat Titans
+DESCRIPTION:IPL 2026 — Match 52\nRajasthan Royals vs Gujarat Titans\n7:30 PM IST\nSawai Mansingh Stadium, Jaipur
+LOCATION:Sawai Mansingh Stadium, Jaipur
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match56@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260512T193000
+DTEND;TZID=Asia/Kolkata:20260512T233000
+SUMMARY:Gujarat Titans vs Sunrisers Hyderabad
+DESCRIPTION:IPL 2026 — Match 56\nGujarat Titans vs Sunrisers Hyderabad\n7:30 PM IST\nNarendra Modi Stadium, Ahmedabad
+LOCATION:Narendra Modi Stadium, Ahmedabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match60@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260516T193000
+DTEND;TZID=Asia/Kolkata:20260516T233000
+SUMMARY:Kolkata Knight Riders vs Gujarat Titans
+DESCRIPTION:IPL 2026 — Match 60\nKolkata Knight Riders vs Gujarat Titans\n7:30 PM IST\nEden Gardens, Kolkata
+LOCATION:Eden Gardens, Kolkata
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match66@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260521T193000
+DTEND;TZID=Asia/Kolkata:20260521T233000
+SUMMARY:Chennai Super Kings vs Gujarat Titans
+DESCRIPTION:IPL 2026 — Match 66\nChennai Super Kings vs Gujarat Titans\n7:30 PM IST\nMA Chidambaram Stadium, Chennai
+LOCATION:MA Chidambaram Stadium, Chennai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+END:VCALENDAR

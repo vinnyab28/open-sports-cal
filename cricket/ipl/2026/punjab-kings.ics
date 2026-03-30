@@ -1,0 +1,171 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//IPL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IPL 2026 - Punjab Kings
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ipl2026-match04@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260331T193000
+DTEND;TZID=Asia/Kolkata:20260331T233000
+SUMMARY:Punjab Kings vs Gujarat Titans
+DESCRIPTION:IPL 2026 — Match 4\nPunjab Kings vs Gujarat Titans\n7:30 PM IST\nMullanpur Stadium, New Chandigarh
+LOCATION:Mullanpur Stadium, New Chandigarh
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match07@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260403T193000
+DTEND;TZID=Asia/Kolkata:20260403T233000
+SUMMARY:Chennai Super Kings vs Punjab Kings
+DESCRIPTION:IPL 2026 — Match 7\nChennai Super Kings vs Punjab Kings\n7:30 PM IST\nMA Chidambaram Stadium, Chennai
+LOCATION:MA Chidambaram Stadium, Chennai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match12@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260406T193000
+DTEND;TZID=Asia/Kolkata:20260406T233000
+SUMMARY:Kolkata Knight Riders vs Punjab Kings
+DESCRIPTION:IPL 2026 — Match 12\nKolkata Knight Riders vs Punjab Kings\n7:30 PM IST\nEden Gardens, Kolkata
+LOCATION:Eden Gardens, Kolkata
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match17@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260411T153000
+DTEND;TZID=Asia/Kolkata:20260411T193000
+SUMMARY:Punjab Kings vs Sunrisers Hyderabad
+DESCRIPTION:IPL 2026 — Match 17\nPunjab Kings vs Sunrisers Hyderabad\n3:30 PM IST\nMullanpur Stadium, New Chandigarh
+LOCATION:Mullanpur Stadium, New Chandigarh
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match24@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260416T193000
+DTEND;TZID=Asia/Kolkata:20260416T233000
+SUMMARY:Mumbai Indians vs Punjab Kings
+DESCRIPTION:IPL 2026 — Match 24\nMumbai Indians vs Punjab Kings\n7:30 PM IST\nWankhede Stadium, Mumbai
+LOCATION:Wankhede Stadium, Mumbai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match29@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260419T193000
+DTEND;TZID=Asia/Kolkata:20260419T233000
+SUMMARY:Punjab Kings vs Lucknow Super Giants
+DESCRIPTION:IPL 2026 — Match 29\nPunjab Kings vs Lucknow Super Giants\n7:30 PM IST\nMullanpur Stadium, New Chandigarh
+LOCATION:Mullanpur Stadium, New Chandigarh
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match35@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260425T153000
+DTEND;TZID=Asia/Kolkata:20260425T193000
+SUMMARY:Delhi Capitals vs Punjab Kings
+DESCRIPTION:IPL 2026 — Match 35\nDelhi Capitals vs Punjab Kings\n3:30 PM IST\nArun Jaitley Stadium, Delhi
+LOCATION:Arun Jaitley Stadium, Delhi
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match40@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260428T193000
+DTEND;TZID=Asia/Kolkata:20260428T233000
+SUMMARY:Punjab Kings vs Rajasthan Royals
+DESCRIPTION:IPL 2026 — Match 40\nPunjab Kings vs Rajasthan Royals\n7:30 PM IST\nMullanpur Stadium, New Chandigarh
+LOCATION:Mullanpur Stadium, New Chandigarh
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match46@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260503T193000
+DTEND;TZID=Asia/Kolkata:20260503T233000
+SUMMARY:Gujarat Titans vs Punjab Kings
+DESCRIPTION:IPL 2026 — Match 46\nGujarat Titans vs Punjab Kings\n7:30 PM IST\nNarendra Modi Stadium, Ahmedabad
+LOCATION:Narendra Modi Stadium, Ahmedabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match49@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260506T193000
+DTEND;TZID=Asia/Kolkata:20260506T233000
+SUMMARY:Sunrisers Hyderabad vs Punjab Kings
+DESCRIPTION:IPL 2026 — Match 49\nSunrisers Hyderabad vs Punjab Kings\n7:30 PM IST\nRajiv Gandhi International Cricket Stadium, Hyderabad
+LOCATION:Rajiv Gandhi International Cricket Stadium, Hyderabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match55@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260511T193000
+DTEND;TZID=Asia/Kolkata:20260511T233000
+SUMMARY:Punjab Kings vs Delhi Capitals
+DESCRIPTION:IPL 2026 — Match 55\nPunjab Kings vs Delhi Capitals\n7:30 PM IST\nHPCA Stadium, Dharamshala
+LOCATION:HPCA Stadium, Dharamshala
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match58@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260514T193000
+DTEND;TZID=Asia/Kolkata:20260514T233000
+SUMMARY:Punjab Kings vs Mumbai Indians
+DESCRIPTION:IPL 2026 — Match 58\nPunjab Kings vs Mumbai Indians\n7:30 PM IST\nHPCA Stadium, Dharamshala
+LOCATION:HPCA Stadium, Dharamshala
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match61@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260517T153000
+DTEND;TZID=Asia/Kolkata:20260517T193000
+SUMMARY:Punjab Kings vs Royal Challengers Bengaluru
+DESCRIPTION:IPL 2026 — Match 61\nPunjab Kings vs Royal Challengers Bengaluru\n3:30 PM IST\nHPCA Stadium, Dharamshala
+LOCATION:HPCA Stadium, Dharamshala
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match68@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260523T193000
+DTEND;TZID=Asia/Kolkata:20260523T233000
+SUMMARY:Lucknow Super Giants vs Punjab Kings
+DESCRIPTION:IPL 2026 — Match 68\nLucknow Super Giants vs Punjab Kings\n7:30 PM IST\nBRSABV Ekana Cricket Stadium, Lucknow
+LOCATION:BRSABV Ekana Cricket Stadium, Lucknow
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+END:VCALENDAR

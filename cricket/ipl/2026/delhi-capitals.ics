@@ -1,0 +1,171 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//IPL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IPL 2026 - Delhi Capitals
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ipl2026-match05@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260401T193000
+DTEND;TZID=Asia/Kolkata:20260401T233000
+SUMMARY:Lucknow Super Giants vs Delhi Capitals
+DESCRIPTION:IPL 2026 — Match 5\nLucknow Super Giants vs Delhi Capitals\n7:30 PM IST\nBRSABV Ekana Cricket Stadium, Lucknow
+LOCATION:BRSABV Ekana Cricket Stadium, Lucknow
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match08@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260404T153000
+DTEND;TZID=Asia/Kolkata:20260404T193000
+SUMMARY:Delhi Capitals vs Mumbai Indians
+DESCRIPTION:IPL 2026 — Match 8\nDelhi Capitals vs Mumbai Indians\n3:30 PM IST\nArun Jaitley Stadium, Delhi
+LOCATION:Arun Jaitley Stadium, Delhi
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match14@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260408T193000
+DTEND;TZID=Asia/Kolkata:20260408T233000
+SUMMARY:Delhi Capitals vs Gujarat Titans
+DESCRIPTION:IPL 2026 — Match 14\nDelhi Capitals vs Gujarat Titans\n7:30 PM IST\nArun Jaitley Stadium, Delhi
+LOCATION:Arun Jaitley Stadium, Delhi
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match18@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260411T193000
+DTEND;TZID=Asia/Kolkata:20260411T233000
+SUMMARY:Chennai Super Kings vs Delhi Capitals
+DESCRIPTION:IPL 2026 — Match 18\nChennai Super Kings vs Delhi Capitals\n7:30 PM IST\nMA Chidambaram Stadium, Chennai
+LOCATION:MA Chidambaram Stadium, Chennai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match26@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260418T153000
+DTEND;TZID=Asia/Kolkata:20260418T193000
+SUMMARY:Royal Challengers Bengaluru vs Delhi Capitals
+DESCRIPTION:IPL 2026 — Match 26\nRoyal Challengers Bengaluru vs Delhi Capitals\n3:30 PM IST\nM. Chinnaswamy Stadium, Bengaluru
+LOCATION:M. Chinnaswamy Stadium, Bengaluru
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match31@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260421T193000
+DTEND;TZID=Asia/Kolkata:20260421T233000
+SUMMARY:Sunrisers Hyderabad vs Delhi Capitals
+DESCRIPTION:IPL 2026 — Match 31\nSunrisers Hyderabad vs Delhi Capitals\n7:30 PM IST\nRajiv Gandhi International Cricket Stadium, Hyderabad
+LOCATION:Rajiv Gandhi International Cricket Stadium, Hyderabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match35@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260425T153000
+DTEND;TZID=Asia/Kolkata:20260425T193000
+SUMMARY:Delhi Capitals vs Punjab Kings
+DESCRIPTION:IPL 2026 — Match 35\nDelhi Capitals vs Punjab Kings\n3:30 PM IST\nArun Jaitley Stadium, Delhi
+LOCATION:Arun Jaitley Stadium, Delhi
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match39@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260427T193000
+DTEND;TZID=Asia/Kolkata:20260427T233000
+SUMMARY:Delhi Capitals vs Royal Challengers Bengaluru
+DESCRIPTION:IPL 2026 — Match 39\nDelhi Capitals vs Royal Challengers Bengaluru\n7:30 PM IST\nArun Jaitley Stadium, Delhi
+LOCATION:Arun Jaitley Stadium, Delhi
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match43@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260501T193000
+DTEND;TZID=Asia/Kolkata:20260501T233000
+SUMMARY:Rajasthan Royals vs Delhi Capitals
+DESCRIPTION:IPL 2026 — Match 43\nRajasthan Royals vs Delhi Capitals\n7:30 PM IST\nSawai Mansingh Stadium, Jaipur
+LOCATION:Sawai Mansingh Stadium, Jaipur
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match48@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260505T193000
+DTEND;TZID=Asia/Kolkata:20260505T233000
+SUMMARY:Delhi Capitals vs Chennai Super Kings
+DESCRIPTION:IPL 2026 — Match 48\nDelhi Capitals vs Chennai Super Kings\n7:30 PM IST\nArun Jaitley Stadium, Delhi
+LOCATION:Arun Jaitley Stadium, Delhi
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match51@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260508T193000
+DTEND;TZID=Asia/Kolkata:20260508T233000
+SUMMARY:Delhi Capitals vs Kolkata Knight Riders
+DESCRIPTION:IPL 2026 — Match 51\nDelhi Capitals vs Kolkata Knight Riders\n7:30 PM IST\nArun Jaitley Stadium, Delhi
+LOCATION:Arun Jaitley Stadium, Delhi
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match55@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260511T193000
+DTEND;TZID=Asia/Kolkata:20260511T233000
+SUMMARY:Punjab Kings vs Delhi Capitals
+DESCRIPTION:IPL 2026 — Match 55\nPunjab Kings vs Delhi Capitals\n7:30 PM IST\nHPCA Stadium, Dharamshala
+LOCATION:HPCA Stadium, Dharamshala
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match62@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260517T193000
+DTEND;TZID=Asia/Kolkata:20260517T233000
+SUMMARY:Delhi Capitals vs Rajasthan Royals
+DESCRIPTION:IPL 2026 — Match 62\nDelhi Capitals vs Rajasthan Royals\n7:30 PM IST\nArun Jaitley Stadium, Delhi
+LOCATION:Arun Jaitley Stadium, Delhi
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match70@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260524T193000
+DTEND;TZID=Asia/Kolkata:20260524T233000
+SUMMARY:Kolkata Knight Riders vs Delhi Capitals
+DESCRIPTION:IPL 2026 — Match 70\nKolkata Knight Riders vs Delhi Capitals\n7:30 PM IST\nEden Gardens, Kolkata
+LOCATION:Eden Gardens, Kolkata
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+END:VCALENDAR

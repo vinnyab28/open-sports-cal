@@ -1,0 +1,171 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//IPL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IPL 2026 - Rajasthan Royals
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ipl2026-match03@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260330T193000
+DTEND;TZID=Asia/Kolkata:20260330T233000
+SUMMARY:Rajasthan Royals vs Chennai Super Kings
+DESCRIPTION:IPL 2026 — Match 3\nRajasthan Royals vs Chennai Super Kings\n7:30 PM IST\nBarsapara Cricket Stadium, Guwahati
+LOCATION:Barsapara Cricket Stadium, Guwahati
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match09@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260404T193000
+DTEND;TZID=Asia/Kolkata:20260404T233000
+SUMMARY:Gujarat Titans vs Rajasthan Royals
+DESCRIPTION:IPL 2026 — Match 9\nGujarat Titans vs Rajasthan Royals\n7:30 PM IST\nNarendra Modi Stadium, Ahmedabad
+LOCATION:Narendra Modi Stadium, Ahmedabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match13@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260407T193000
+DTEND;TZID=Asia/Kolkata:20260407T233000
+SUMMARY:Rajasthan Royals vs Mumbai Indians
+DESCRIPTION:IPL 2026 — Match 13\nRajasthan Royals vs Mumbai Indians\n7:30 PM IST\nBarsapara Cricket Stadium, Guwahati
+LOCATION:Barsapara Cricket Stadium, Guwahati
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match16@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260410T193000
+DTEND;TZID=Asia/Kolkata:20260410T233000
+SUMMARY:Rajasthan Royals vs Royal Challengers Bengaluru
+DESCRIPTION:IPL 2026 — Match 16\nRajasthan Royals vs Royal Challengers Bengaluru\n7:30 PM IST\nBarsapara Cricket Stadium, Guwahati
+LOCATION:Barsapara Cricket Stadium, Guwahati
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match21@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260413T193000
+DTEND;TZID=Asia/Kolkata:20260413T233000
+SUMMARY:Sunrisers Hyderabad vs Rajasthan Royals
+DESCRIPTION:IPL 2026 — Match 21\nSunrisers Hyderabad vs Rajasthan Royals\n7:30 PM IST\nRajiv Gandhi International Cricket Stadium, Hyderabad
+LOCATION:Rajiv Gandhi International Cricket Stadium, Hyderabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match28@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260419T153000
+DTEND;TZID=Asia/Kolkata:20260419T193000
+SUMMARY:Kolkata Knight Riders vs Rajasthan Royals
+DESCRIPTION:IPL 2026 — Match 28\nKolkata Knight Riders vs Rajasthan Royals\n3:30 PM IST\nEden Gardens, Kolkata
+LOCATION:Eden Gardens, Kolkata
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match32@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260422T193000
+DTEND;TZID=Asia/Kolkata:20260422T233000
+SUMMARY:Lucknow Super Giants vs Rajasthan Royals
+DESCRIPTION:IPL 2026 — Match 32\nLucknow Super Giants vs Rajasthan Royals\n7:30 PM IST\nBRSABV Ekana Cricket Stadium, Lucknow
+LOCATION:BRSABV Ekana Cricket Stadium, Lucknow
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match36@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260425T193000
+DTEND;TZID=Asia/Kolkata:20260425T233000
+SUMMARY:Rajasthan Royals vs Sunrisers Hyderabad
+DESCRIPTION:IPL 2026 — Match 36\nRajasthan Royals vs Sunrisers Hyderabad\n7:30 PM IST\nSawai Mansingh Stadium, Jaipur
+LOCATION:Sawai Mansingh Stadium, Jaipur
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match40@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260428T193000
+DTEND;TZID=Asia/Kolkata:20260428T233000
+SUMMARY:Punjab Kings vs Rajasthan Royals
+DESCRIPTION:IPL 2026 — Match 40\nPunjab Kings vs Rajasthan Royals\n7:30 PM IST\nMullanpur Stadium, New Chandigarh
+LOCATION:Mullanpur Stadium, New Chandigarh
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match43@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260501T193000
+DTEND;TZID=Asia/Kolkata:20260501T233000
+SUMMARY:Rajasthan Royals vs Delhi Capitals
+DESCRIPTION:IPL 2026 — Match 43\nRajasthan Royals vs Delhi Capitals\n7:30 PM IST\nSawai Mansingh Stadium, Jaipur
+LOCATION:Sawai Mansingh Stadium, Jaipur
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match52@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260509T193000
+DTEND;TZID=Asia/Kolkata:20260509T233000
+SUMMARY:Rajasthan Royals vs Gujarat Titans
+DESCRIPTION:IPL 2026 — Match 52\nRajasthan Royals vs Gujarat Titans\n7:30 PM IST\nSawai Mansingh Stadium, Jaipur
+LOCATION:Sawai Mansingh Stadium, Jaipur
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match62@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260517T193000
+DTEND;TZID=Asia/Kolkata:20260517T233000
+SUMMARY:Delhi Capitals vs Rajasthan Royals
+DESCRIPTION:IPL 2026 — Match 62\nDelhi Capitals vs Rajasthan Royals\n7:30 PM IST\nArun Jaitley Stadium, Delhi
+LOCATION:Arun Jaitley Stadium, Delhi
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match64@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260519T193000
+DTEND;TZID=Asia/Kolkata:20260519T233000
+SUMMARY:Rajasthan Royals vs Lucknow Super Giants
+DESCRIPTION:IPL 2026 — Match 64\nRajasthan Royals vs Lucknow Super Giants\n7:30 PM IST\nSawai Mansingh Stadium, Jaipur
+LOCATION:Sawai Mansingh Stadium, Jaipur
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match69@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260524T153000
+DTEND;TZID=Asia/Kolkata:20260524T193000
+SUMMARY:Mumbai Indians vs Rajasthan Royals
+DESCRIPTION:IPL 2026 — Match 69\nMumbai Indians vs Rajasthan Royals\n3:30 PM IST\nWankhede Stadium, Mumbai
+LOCATION:Wankhede Stadium, Mumbai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+END:VCALENDAR

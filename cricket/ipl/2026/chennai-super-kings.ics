@@ -1,0 +1,171 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//IPL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IPL 2026 - Chennai Super Kings
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ipl2026-match03@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260330T193000
+DTEND;TZID=Asia/Kolkata:20260330T233000
+SUMMARY:Rajasthan Royals vs Chennai Super Kings
+DESCRIPTION:IPL 2026 — Match 3\nRajasthan Royals vs Chennai Super Kings\n7:30 PM IST\nBarsapara Cricket Stadium, Guwahati
+LOCATION:Barsapara Cricket Stadium, Guwahati
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match07@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260403T193000
+DTEND;TZID=Asia/Kolkata:20260403T233000
+SUMMARY:Chennai Super Kings vs Punjab Kings
+DESCRIPTION:IPL 2026 — Match 7\nChennai Super Kings vs Punjab Kings\n7:30 PM IST\nMA Chidambaram Stadium, Chennai
+LOCATION:MA Chidambaram Stadium, Chennai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match11@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260405T193000
+DTEND;TZID=Asia/Kolkata:20260405T233000
+SUMMARY:Royal Challengers Bengaluru vs Chennai Super Kings
+DESCRIPTION:IPL 2026 — Match 11\nRoyal Challengers Bengaluru vs Chennai Super Kings\n7:30 PM IST\nM. Chinnaswamy Stadium, Bengaluru
+LOCATION:M. Chinnaswamy Stadium, Bengaluru
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match18@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260411T193000
+DTEND;TZID=Asia/Kolkata:20260411T233000
+SUMMARY:Chennai Super Kings vs Delhi Capitals
+DESCRIPTION:IPL 2026 — Match 18\nChennai Super Kings vs Delhi Capitals\n7:30 PM IST\nMA Chidambaram Stadium, Chennai
+LOCATION:MA Chidambaram Stadium, Chennai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match22@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260414T193000
+DTEND;TZID=Asia/Kolkata:20260414T233000
+SUMMARY:Chennai Super Kings vs Kolkata Knight Riders
+DESCRIPTION:IPL 2026 — Match 22\nChennai Super Kings vs Kolkata Knight Riders\n7:30 PM IST\nMA Chidambaram Stadium, Chennai
+LOCATION:MA Chidambaram Stadium, Chennai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match27@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260418T193000
+DTEND;TZID=Asia/Kolkata:20260418T233000
+SUMMARY:Sunrisers Hyderabad vs Chennai Super Kings
+DESCRIPTION:IPL 2026 — Match 27\nSunrisers Hyderabad vs Chennai Super Kings\n7:30 PM IST\nRajiv Gandhi International Cricket Stadium, Hyderabad
+LOCATION:Rajiv Gandhi International Cricket Stadium, Hyderabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match33@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260423T193000
+DTEND;TZID=Asia/Kolkata:20260423T233000
+SUMMARY:Mumbai Indians vs Chennai Super Kings
+DESCRIPTION:IPL 2026 — Match 33\nMumbai Indians vs Chennai Super Kings\n7:30 PM IST\nWankhede Stadium, Mumbai
+LOCATION:Wankhede Stadium, Mumbai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match37@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260426T153000
+DTEND;TZID=Asia/Kolkata:20260426T193000
+SUMMARY:Gujarat Titans vs Chennai Super Kings
+DESCRIPTION:IPL 2026 — Match 37\nGujarat Titans vs Chennai Super Kings\n3:30 PM IST\nNarendra Modi Stadium, Ahmedabad
+LOCATION:Narendra Modi Stadium, Ahmedabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match44@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260502T193000
+DTEND;TZID=Asia/Kolkata:20260502T233000
+SUMMARY:Chennai Super Kings vs Mumbai Indians
+DESCRIPTION:IPL 2026 — Match 44\nChennai Super Kings vs Mumbai Indians\n7:30 PM IST\nMA Chidambaram Stadium, Chennai
+LOCATION:MA Chidambaram Stadium, Chennai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match48@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260505T193000
+DTEND;TZID=Asia/Kolkata:20260505T233000
+SUMMARY:Delhi Capitals vs Chennai Super Kings
+DESCRIPTION:IPL 2026 — Match 48\nDelhi Capitals vs Chennai Super Kings\n7:30 PM IST\nArun Jaitley Stadium, Delhi
+LOCATION:Arun Jaitley Stadium, Delhi
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match53@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260510T153000
+DTEND;TZID=Asia/Kolkata:20260510T193000
+SUMMARY:Chennai Super Kings vs Lucknow Super Giants
+DESCRIPTION:IPL 2026 — Match 53\nChennai Super Kings vs Lucknow Super Giants\n3:30 PM IST\nMA Chidambaram Stadium, Chennai
+LOCATION:MA Chidambaram Stadium, Chennai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match59@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260515T193000
+DTEND;TZID=Asia/Kolkata:20260515T233000
+SUMMARY:Lucknow Super Giants vs Chennai Super Kings
+DESCRIPTION:IPL 2026 — Match 59\nLucknow Super Giants vs Chennai Super Kings\n7:30 PM IST\nBRSABV Ekana Cricket Stadium, Lucknow
+LOCATION:BRSABV Ekana Cricket Stadium, Lucknow
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match63@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260518T193000
+DTEND;TZID=Asia/Kolkata:20260518T233000
+SUMMARY:Chennai Super Kings vs Sunrisers Hyderabad
+DESCRIPTION:IPL 2026 — Match 63\nChennai Super Kings vs Sunrisers Hyderabad\n7:30 PM IST\nMA Chidambaram Stadium, Chennai
+LOCATION:MA Chidambaram Stadium, Chennai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match66@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260521T193000
+DTEND;TZID=Asia/Kolkata:20260521T233000
+SUMMARY:Chennai Super Kings vs Gujarat Titans
+DESCRIPTION:IPL 2026 — Match 66\nChennai Super Kings vs Gujarat Titans\n7:30 PM IST\nMA Chidambaram Stadium, Chennai
+LOCATION:MA Chidambaram Stadium, Chennai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+END:VCALENDAR

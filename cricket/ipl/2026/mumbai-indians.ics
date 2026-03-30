@@ -1,0 +1,171 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//IPL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IPL 2026 - Mumbai Indians
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ipl2026-match02@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260329T193000
+DTEND;TZID=Asia/Kolkata:20260329T233000
+SUMMARY:Mumbai Indians vs Kolkata Knight Riders
+DESCRIPTION:IPL 2026 — Match 2\nMumbai Indians vs Kolkata Knight Riders\n7:30 PM IST\nWankhede Stadium, Mumbai
+LOCATION:Wankhede Stadium, Mumbai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match08@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260404T153000
+DTEND;TZID=Asia/Kolkata:20260404T193000
+SUMMARY:Delhi Capitals vs Mumbai Indians
+DESCRIPTION:IPL 2026 — Match 8\nDelhi Capitals vs Mumbai Indians\n3:30 PM IST\nArun Jaitley Stadium, Delhi
+LOCATION:Arun Jaitley Stadium, Delhi
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match13@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260407T193000
+DTEND;TZID=Asia/Kolkata:20260407T233000
+SUMMARY:Rajasthan Royals vs Mumbai Indians
+DESCRIPTION:IPL 2026 — Match 13\nRajasthan Royals vs Mumbai Indians\n7:30 PM IST\nBarsapara Cricket Stadium, Guwahati
+LOCATION:Barsapara Cricket Stadium, Guwahati
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match20@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260412T193000
+DTEND;TZID=Asia/Kolkata:20260412T233000
+SUMMARY:Mumbai Indians vs Royal Challengers Bengaluru
+DESCRIPTION:IPL 2026 — Match 20\nMumbai Indians vs Royal Challengers Bengaluru\n7:30 PM IST\nWankhede Stadium, Mumbai
+LOCATION:Wankhede Stadium, Mumbai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match24@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260416T193000
+DTEND;TZID=Asia/Kolkata:20260416T233000
+SUMMARY:Mumbai Indians vs Punjab Kings
+DESCRIPTION:IPL 2026 — Match 24\nMumbai Indians vs Punjab Kings\n7:30 PM IST\nWankhede Stadium, Mumbai
+LOCATION:Wankhede Stadium, Mumbai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match30@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260420T193000
+DTEND;TZID=Asia/Kolkata:20260420T233000
+SUMMARY:Gujarat Titans vs Mumbai Indians
+DESCRIPTION:IPL 2026 — Match 30\nGujarat Titans vs Mumbai Indians\n7:30 PM IST\nNarendra Modi Stadium, Ahmedabad
+LOCATION:Narendra Modi Stadium, Ahmedabad
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match33@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260423T193000
+DTEND;TZID=Asia/Kolkata:20260423T233000
+SUMMARY:Mumbai Indians vs Chennai Super Kings
+DESCRIPTION:IPL 2026 — Match 33\nMumbai Indians vs Chennai Super Kings\n7:30 PM IST\nWankhede Stadium, Mumbai
+LOCATION:Wankhede Stadium, Mumbai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match41@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260429T193000
+DTEND;TZID=Asia/Kolkata:20260429T233000
+SUMMARY:Mumbai Indians vs Sunrisers Hyderabad
+DESCRIPTION:IPL 2026 — Match 41\nMumbai Indians vs Sunrisers Hyderabad\n7:30 PM IST\nWankhede Stadium, Mumbai
+LOCATION:Wankhede Stadium, Mumbai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match44@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260502T193000
+DTEND;TZID=Asia/Kolkata:20260502T233000
+SUMMARY:Chennai Super Kings vs Mumbai Indians
+DESCRIPTION:IPL 2026 — Match 44\nChennai Super Kings vs Mumbai Indians\n7:30 PM IST\nMA Chidambaram Stadium, Chennai
+LOCATION:MA Chidambaram Stadium, Chennai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match47@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260504T193000
+DTEND;TZID=Asia/Kolkata:20260504T233000
+SUMMARY:Mumbai Indians vs Lucknow Super Giants
+DESCRIPTION:IPL 2026 — Match 47\nMumbai Indians vs Lucknow Super Giants\n7:30 PM IST\nWankhede Stadium, Mumbai
+LOCATION:Wankhede Stadium, Mumbai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match54@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260510T193000
+DTEND;TZID=Asia/Kolkata:20260510T233000
+SUMMARY:Royal Challengers Bengaluru vs Mumbai Indians
+DESCRIPTION:IPL 2026 — Match 54\nRoyal Challengers Bengaluru vs Mumbai Indians\n7:30 PM IST\nShaheed Veer Narayan Singh International Cricket Stadium, Raipur
+LOCATION:Shaheed Veer Narayan Singh International Cricket Stadium, Raipur
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match58@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260514T193000
+DTEND;TZID=Asia/Kolkata:20260514T233000
+SUMMARY:Punjab Kings vs Mumbai Indians
+DESCRIPTION:IPL 2026 — Match 58\nPunjab Kings vs Mumbai Indians\n7:30 PM IST\nHPCA Stadium, Dharamshala
+LOCATION:HPCA Stadium, Dharamshala
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match65@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260520T193000
+DTEND;TZID=Asia/Kolkata:20260520T233000
+SUMMARY:Kolkata Knight Riders vs Mumbai Indians
+DESCRIPTION:IPL 2026 — Match 65\nKolkata Knight Riders vs Mumbai Indians\n7:30 PM IST\nEden Gardens, Kolkata
+LOCATION:Eden Gardens, Kolkata
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ipl2026-match69@open-sports-cal
+DTSTART;TZID=Asia/Kolkata:20260524T153000
+DTEND;TZID=Asia/Kolkata:20260524T193000
+SUMMARY:Mumbai Indians vs Rajasthan Royals
+DESCRIPTION:IPL 2026 — Match 69\nMumbai Indians vs Rajasthan Royals\n3:30 PM IST\nWankhede Stadium, Mumbai
+LOCATION:Wankhede Stadium, Mumbai
+CATEGORIES:Cricket,IPL,IPL 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T230449Z
+END:VEVENT
+END:VCALENDAR
