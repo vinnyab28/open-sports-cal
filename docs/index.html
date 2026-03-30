@@ -1168,14 +1168,20 @@
                 const fmtDate = dt => dt.toLocaleDateString("en-GB", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
                 const fmtTime = (dt, allDay) => (allDay ? "All day" : dt.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit" }));
 
-                // Returns event's local time string if the user is in a different timezone
-                const userOffsetMin = new Date().getTimezoneOffset();
+                // Returns venue-local time when it differs from the user's clock.
+                // ev.tz is an IANA timezone embedded via X-TIMEZONE in the ICS file,
+                // "IST" for IPL, or "" when unknown.
                 const fmtEventTz = (dt, tz) => {
-                    if (tz === "IST" && userOffsetMin !== -330)
-                        return new Intl.DateTimeFormat("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "Asia/Kolkata" }).format(dt) + " IST";
-                    if (tz === "" && userOffsetMin !== 0)
-                        return new Intl.DateTimeFormat("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "UTC" }).format(dt) + " UTC";
-                    return null;
+                    if (!tz || tz === "DATE") return null;
+                    const ianaZone = tz === "IST" ? "Asia/Kolkata" : tz;
+                    try {
+                        const localTime = new Intl.DateTimeFormat("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: ianaZone }).format(dt);
+                        const userTime  = new Intl.DateTimeFormat("en-GB", { hour: "2-digit", minute: "2-digit" }).format(dt);
+                        if (localTime === userTime) return null;
+                        const abbr = new Intl.DateTimeFormat("en-US", { timeZoneName: "short", timeZone: ianaZone })
+                            .formatToParts(dt).find(p => p.type === "timeZoneName")?.value || "";
+                        return `${localTime} ${abbr}`;
+                    } catch (e) { return null; }
                 };
 
                 const html = Object.entries(groups)
