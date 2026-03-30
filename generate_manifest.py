@@ -115,7 +115,7 @@ def parse_events(path: Path) -> list:
         elif "Asia/Kolkata" in dtparam:
             tz = "IST"
         else:
-            tz = ""
+            tz = ev.get("X-TIMEZONE", "")
         result.append({
             "dt":       ev.get("DTSTART", ""),
             "tz":       tz,
