@@ -1,0 +1,348 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//Bundesliga 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bundesliga 2025-26 - Borussia Mönchengladbach
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:bundesliga-2025-8@open-sports-cal
+DTSTART:20250824T153000Z
+DTEND:20250824T173000Z
+SUMMARY:Hamburger SV @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\nHamburger SV @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-11@open-sports-cal
+DTSTART:20250830T133000Z
+DTEND:20250830T153000Z
+SUMMARY:Borussia Mönchengladbach @ VfB Stuttgart
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ VfB Stuttgart\nMHPArena
+LOCATION:MHPArena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-26@open-sports-cal
+DTSTART:20250914T153000Z
+DTEND:20250914T173000Z
+SUMMARY:SV Werder Bremen @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-34@open-sports-cal
+DTSTART:20250921T153000Z
+DTEND:20250921T173000Z
+SUMMARY:Borussia Mönchengladbach @ Bayer 04 Leverkusen
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ Bayer 04 Leverkusen\nBayArena
+LOCATION:BayArena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-41@open-sports-cal
+DTSTART:20250927T163000Z
+DTEND:20250927T183000Z
+SUMMARY:Eintracht Frankfurt @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-53@open-sports-cal
+DTSTART:20251005T173000Z
+DTEND:20251005T193000Z
+SUMMARY:Sport-Club Freiburg @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\nSport-Club Freiburg @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-54@open-sports-cal
+DTSTART:20251017T183000Z
+DTEND:20251017T203000Z
+SUMMARY:Borussia Mönchengladbach @ 1. FC Union Berlin
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ 1. FC Union Berlin\nAn der Alten Försterei
+LOCATION:An der Alten Försterei
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-67@open-sports-cal
+DTSTART:20251025T133000Z
+DTEND:20251025T153000Z
+SUMMARY:FC Bayern München @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\nFC Bayern München @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-74@open-sports-cal
+DTSTART:20251101T143000Z
+DTEND:20251101T163000Z
+SUMMARY:Borussia Mönchengladbach @ FC St. Pauli
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ FC St. Pauli\nMillerntor-Stadion
+LOCATION:Millerntor-Stadion
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-86@open-sports-cal
+DTSTART:20251108T173000Z
+DTEND:20251108T193000Z
+SUMMARY:1. FC Köln @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\n1. FC Köln @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-91@open-sports-cal
+DTSTART:20251122T143000Z
+DTEND:20251122T163000Z
+SUMMARY:Borussia Mönchengladbach @ 1. FC Heidenheim 1846
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ 1. FC Heidenheim 1846\nVoith-Arena
+LOCATION:Voith-Arena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-99@open-sports-cal
+DTSTART:20251128T193000Z
+DTEND:20251128T213000Z
+SUMMARY:RB Leipzig @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\nRB Leipzig @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-108@open-sports-cal
+DTSTART:20251205T193000Z
+DTEND:20251205T213000Z
+SUMMARY:Borussia Mönchengladbach @ 1. FSV Mainz 05
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ 1. FSV Mainz 05\nMewa Arena
+LOCATION:Mewa Arena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-120@open-sports-cal
+DTSTART:20251213T143000Z
+DTEND:20251213T163000Z
+SUMMARY:VfL Wolfsburg @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\nVfL Wolfsburg @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-126@open-sports-cal
+DTSTART:20251219T193000Z
+DTEND:20251219T213000Z
+SUMMARY:Borussia Mönchengladbach @ Borussia Dortmund
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ Borussia Dortmund\nSignal Iduna Park
+LOCATION:Signal Iduna Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-140@open-sports-cal
+DTSTART:20260111T143000Z
+DTEND:20260111T163000Z
+SUMMARY:FC Augsburg @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\nFC Augsburg @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-149@open-sports-cal
+DTSTART:20260114T193000Z
+DTEND:20260114T213000Z
+SUMMARY:Borussia Mönchengladbach @ TSG Hoffenheim
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ TSG Hoffenheim\nPreZero Arena
+LOCATION:PreZero Arena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-154@open-sports-cal
+DTSTART:20260117T143000Z
+DTEND:20260117T163000Z
+SUMMARY:Borussia Mönchengladbach @ Hamburger SV
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ Hamburger SV\nVolksparkstadion
+LOCATION:Volksparkstadion
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-169@open-sports-cal
+DTSTART:20260125T143000Z
+DTEND:20260125T163000Z
+SUMMARY:VfB Stuttgart @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\nVfB Stuttgart @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-174@open-sports-cal
+DTSTART:20260131T143000Z
+DTEND:20260131T163000Z
+SUMMARY:Borussia Mönchengladbach @ SV Werder Bremen
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ SV Werder Bremen\nWeserstadion
+LOCATION:Weserstadion
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-186@open-sports-cal
+DTSTART:20260207T173000Z
+DTEND:20260207T193000Z
+SUMMARY:Bayer 04 Leverkusen @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\nBayer 04 Leverkusen @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-193@open-sports-cal
+DTSTART:20260214T143000Z
+DTEND:20260214T163000Z
+SUMMARY:Borussia Mönchengladbach @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-204@open-sports-cal
+DTSTART:20260222T143000Z
+DTEND:20260222T163000Z
+SUMMARY:Borussia Mönchengladbach @ Sport-Club Freiburg
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ Sport-Club Freiburg\nEuropa-Park Stadion
+LOCATION:Europa-Park Stadion
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-209@open-sports-cal
+DTSTART:20260228T143000Z
+DTEND:20260228T163000Z
+SUMMARY:1. FC Union Berlin @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\n1. FC Union Berlin @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-216@open-sports-cal
+DTSTART:20260306T193000Z
+DTEND:20260306T213000Z
+SUMMARY:Borussia Mönchengladbach @ FC Bayern München
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ FC Bayern München\nAllianz Arena
+LOCATION:Allianz Arena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-225@open-sports-cal
+DTSTART:20260313T193000Z
+DTEND:20260313T213000Z
+SUMMARY:FC St. Pauli @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\nFC St. Pauli @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-235@open-sports-cal
+DTSTART:20260321T143000Z
+DTEND:20260321T163000Z
+SUMMARY:Borussia Mönchengladbach @ 1. FC Köln
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ 1. FC Köln\nRheinEnergieStadion
+LOCATION:RheinEnergieStadion
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-245@open-sports-cal
+DTSTART:20260404T133000Z
+DTEND:20260404T153000Z
+SUMMARY:1. FC Heidenheim 1846 @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\n1. FC Heidenheim 1846 @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-255@open-sports-cal
+DTSTART:20260411T133000Z
+DTEND:20260411T153000Z
+SUMMARY:Borussia Mönchengladbach @ RB Leipzig
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ RB Leipzig\nRed Bull Arena
+LOCATION:Red Bull Arena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-269@open-sports-cal
+DTSTART:20260419T173000Z
+DTEND:20260419T193000Z
+SUMMARY:1. FSV Mainz 05 @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-274@open-sports-cal
+DTSTART:20260425T133000Z
+DTEND:20260425T153000Z
+SUMMARY:Borussia Mönchengladbach @ VfL Wolfsburg
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ VfL Wolfsburg\nVolkswagen Arena
+LOCATION:Volkswagen Arena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-282@open-sports-cal
+DTSTART:20260502T133000Z
+DTEND:20260502T153000Z
+SUMMARY:Borussia Dortmund @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\nBorussia Dortmund @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-291@open-sports-cal
+DTSTART:20260509T133000Z
+DTEND:20260509T153000Z
+SUMMARY:Borussia Mönchengladbach @ FC Augsburg
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ FC Augsburg\nWWK Arena
+LOCATION:WWK Arena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-300@open-sports-cal
+DTSTART:20260516T133000Z
+DTEND:20260516T153000Z
+SUMMARY:TSG Hoffenheim @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\nTSG Hoffenheim @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+END:VCALENDAR

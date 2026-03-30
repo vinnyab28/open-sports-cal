@@ -1,0 +1,348 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//Bundesliga 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bundesliga 2025-26 - Eintracht Frankfurt
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:bundesliga-2025-4@open-sports-cal
+DTSTART:20250823T133000Z
+DTEND:20250823T153000Z
+SUMMARY:SV Werder Bremen @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-10@open-sports-cal
+DTSTART:20250830T133000Z
+DTEND:20250830T153000Z
+SUMMARY:Eintracht Frankfurt @ TSG Hoffenheim
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ TSG Hoffenheim\nPreZero Arena
+LOCATION:PreZero Arena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-18@open-sports-cal
+DTSTART:20250912T183000Z
+DTEND:20250912T203000Z
+SUMMARY:Eintracht Frankfurt @ Bayer 04 Leverkusen
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ Bayer 04 Leverkusen\nBayArena
+LOCATION:BayArena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-33@open-sports-cal
+DTSTART:20250921T133000Z
+DTEND:20250921T153000Z
+SUMMARY:1. FC Union Berlin @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\n1. FC Union Berlin @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-41@open-sports-cal
+DTSTART:20250927T163000Z
+DTEND:20250927T183000Z
+SUMMARY:Eintracht Frankfurt @ Borussia Mönchengladbach
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ Borussia Mönchengladbach\nBorussia-Park
+LOCATION:Borussia-Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-50@open-sports-cal
+DTSTART:20251004T163000Z
+DTEND:20251004T183000Z
+SUMMARY:FC Bayern München @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\nFC Bayern München @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-61@open-sports-cal
+DTSTART:20251019T133000Z
+DTEND:20251019T153000Z
+SUMMARY:Eintracht Frankfurt @ Sport-Club Freiburg
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ Sport-Club Freiburg\nEuropa-Park Stadion
+LOCATION:Europa-Park Stadion
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-68@open-sports-cal
+DTSTART:20251025T133000Z
+DTEND:20251025T153000Z
+SUMMARY:FC St. Pauli @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\nFC St. Pauli @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-73@open-sports-cal
+DTSTART:20251101T143000Z
+DTEND:20251101T163000Z
+SUMMARY:Eintracht Frankfurt @ 1. FC Heidenheim 1846
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ 1. FC Heidenheim 1846\nVoith-Arena
+LOCATION:Voith-Arena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-89@open-sports-cal
+DTSTART:20251109T183000Z
+DTEND:20251109T203000Z
+SUMMARY:1. FSV Mainz 05 @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-96@open-sports-cal
+DTSTART:20251122T173000Z
+DTEND:20251122T193000Z
+SUMMARY:Eintracht Frankfurt @ 1. FC Köln
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ 1. FC Köln\nRheinEnergieStadion
+LOCATION:RheinEnergieStadion
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-106@open-sports-cal
+DTSTART:20251130T163000Z
+DTEND:20251130T183000Z
+SUMMARY:VfL Wolfsburg @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\nVfL Wolfsburg @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-114@open-sports-cal
+DTSTART:20251206T173000Z
+DTEND:20251206T193000Z
+SUMMARY:Eintracht Frankfurt @ RB Leipzig
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ RB Leipzig\nRed Bull Arena
+LOCATION:Red Bull Arena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-121@open-sports-cal
+DTSTART:20251213T143000Z
+DTEND:20251213T163000Z
+SUMMARY:FC Augsburg @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\nFC Augsburg @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-127@open-sports-cal
+DTSTART:20251220T143000Z
+DTEND:20251220T163000Z
+SUMMARY:Eintracht Frankfurt @ Hamburger SV
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ Hamburger SV\nVolksparkstadion
+LOCATION:Volksparkstadion
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-135@open-sports-cal
+DTSTART:20260109T193000Z
+DTEND:20260109T213000Z
+SUMMARY:Borussia Dortmund @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\nBorussia Dortmund @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-144@open-sports-cal
+DTSTART:20260113T173000Z
+DTEND:20260113T193000Z
+SUMMARY:Eintracht Frankfurt @ VfB Stuttgart
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ VfB Stuttgart\nMHPArena
+LOCATION:MHPArena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-153@open-sports-cal
+DTSTART:20260116T193000Z
+DTEND:20260116T213000Z
+SUMMARY:Eintracht Frankfurt @ SV Werder Bremen
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ SV Werder Bremen\nWeserstadion
+LOCATION:Weserstadion
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-165@open-sports-cal
+DTSTART:20260124T143000Z
+DTEND:20260124T163000Z
+SUMMARY:TSG Hoffenheim @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\nTSG Hoffenheim @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-176@open-sports-cal
+DTSTART:20260131T143000Z
+DTEND:20260131T163000Z
+SUMMARY:Bayer 04 Leverkusen @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\nBayer 04 Leverkusen @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-180@open-sports-cal
+DTSTART:20260206T193000Z
+DTEND:20260206T213000Z
+SUMMARY:Eintracht Frankfurt @ 1. FC Union Berlin
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ 1. FC Union Berlin\nAn der Alten Försterei
+LOCATION:An der Alten Försterei
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-193@open-sports-cal
+DTSTART:20260214T143000Z
+DTEND:20260214T163000Z
+SUMMARY:Borussia Mönchengladbach @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-202@open-sports-cal
+DTSTART:20260221T143000Z
+DTEND:20260221T163000Z
+SUMMARY:Eintracht Frankfurt @ FC Bayern München
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ FC Bayern München\nAllianz Arena
+LOCATION:Allianz Arena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-214@open-sports-cal
+DTSTART:20260301T163000Z
+DTEND:20260301T183000Z
+SUMMARY:Sport-Club Freiburg @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\nSport-Club Freiburg @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-223@open-sports-cal
+DTSTART:20260308T143000Z
+DTEND:20260308T163000Z
+SUMMARY:Eintracht Frankfurt @ FC St. Pauli
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ FC St. Pauli\nMillerntor-Stadion
+LOCATION:Millerntor-Stadion
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-228@open-sports-cal
+DTSTART:20260314T143000Z
+DTEND:20260314T163000Z
+SUMMARY:1. FC Heidenheim 1846 @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\n1. FC Heidenheim 1846 @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-240@open-sports-cal
+DTSTART:20260322T143000Z
+DTEND:20260322T163000Z
+SUMMARY:Eintracht Frankfurt @ 1. FSV Mainz 05
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ 1. FSV Mainz 05\nMewa Arena
+LOCATION:Mewa Arena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-251@open-sports-cal
+DTSTART:20260405T153000Z
+DTEND:20260405T173000Z
+SUMMARY:1. FC Köln @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\n1. FC Köln @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-254@open-sports-cal
+DTSTART:20260411T133000Z
+DTEND:20260411T153000Z
+SUMMARY:Eintracht Frankfurt @ VfL Wolfsburg
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ VfL Wolfsburg\nVolkswagen Arena
+LOCATION:Volkswagen Arena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-266@open-sports-cal
+DTSTART:20260418T163000Z
+DTEND:20260418T183000Z
+SUMMARY:RB Leipzig @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\nRB Leipzig @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-273@open-sports-cal
+DTSTART:20260425T133000Z
+DTEND:20260425T153000Z
+SUMMARY:Eintracht Frankfurt @ FC Augsburg
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ FC Augsburg\nWWK Arena
+LOCATION:WWK Arena
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-285@open-sports-cal
+DTSTART:20260502T133000Z
+DTEND:20260502T153000Z
+SUMMARY:Hamburger SV @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\nHamburger SV @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-296@open-sports-cal
+DTSTART:20260509T133000Z
+DTEND:20260509T153000Z
+SUMMARY:Eintracht Frankfurt @ Borussia Dortmund
+DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ Borussia Dortmund\nSignal Iduna Park
+LOCATION:Signal Iduna Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bundesliga-2025-303@open-sports-cal
+DTSTART:20260516T133000Z
+DTEND:20260516T153000Z
+SUMMARY:VfB Stuttgart @ Eintracht Frankfurt
+DESCRIPTION:Bundesliga 2025-26\nVfB Stuttgart @ Eintracht Frankfurt\nDeutsche Bank Park
+LOCATION:Deutsche Bank Park
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+END:VCALENDAR
