@@ -1,0 +1,1790 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MLB 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLB 2026 - Pittsburgh Pirates
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-26-pittsburgh-pirates-vs-new-york-mets@open-sports-cal
+DTSTART:20260326T171500Z
+DTEND:20260326T201500Z
+SUMMARY:Pittsburgh Pirates @ New York Mets
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-28-pittsburgh-pirates-vs-new-york-mets@open-sports-cal
+DTSTART:20260328T201000Z
+DTEND:20260328T231000Z
+SUMMARY:Pittsburgh Pirates @ New York Mets
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-29-pittsburgh-pirates-vs-new-york-mets@open-sports-cal
+DTSTART:20260329T174000Z
+DTEND:20260329T204000Z
+SUMMARY:Pittsburgh Pirates @ New York Mets
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-30-pittsburgh-pirates-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260330T224000Z
+DTEND:20260331T014000Z
+SUMMARY:Pittsburgh Pirates @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-31-pittsburgh-pirates-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260331T224000Z
+DTEND:20260401T014000Z
+SUMMARY:Pittsburgh Pirates @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-01-pittsburgh-pirates-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260401T164000Z
+DTEND:20260401T194000Z
+SUMMARY:Pittsburgh Pirates @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-03-baltimore-orioles-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260403T201200Z
+DTEND:20260403T231200Z
+SUMMARY:Baltimore Orioles @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-04-baltimore-orioles-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260404T200500Z
+DTEND:20260404T230500Z
+SUMMARY:Baltimore Orioles @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-05-baltimore-orioles-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260405T173500Z
+DTEND:20260405T203500Z
+SUMMARY:Baltimore Orioles @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-06-san-diego-padres-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260406T224000Z
+DTEND:20260407T014000Z
+SUMMARY:San Diego Padres @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-07-san-diego-padres-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260407T224000Z
+DTEND:20260408T014000Z
+SUMMARY:San Diego Padres @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-08-san-diego-padres-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260408T163500Z
+DTEND:20260408T193500Z
+SUMMARY:San Diego Padres @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-10-pittsburgh-pirates-vs-chicago-cubs@open-sports-cal
+DTSTART:20260410T182000Z
+DTEND:20260410T212000Z
+SUMMARY:Pittsburgh Pirates @ Chicago Cubs
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-11-pittsburgh-pirates-vs-chicago-cubs@open-sports-cal
+DTSTART:20260411T182000Z
+DTEND:20260411T212000Z
+SUMMARY:Pittsburgh Pirates @ Chicago Cubs
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-12-pittsburgh-pirates-vs-chicago-cubs@open-sports-cal
+DTSTART:20260412T182000Z
+DTEND:20260412T212000Z
+SUMMARY:Pittsburgh Pirates @ Chicago Cubs
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-13-washington-nationals-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260413T224000Z
+DTEND:20260414T014000Z
+SUMMARY:Washington Nationals @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nWashington Nationals @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-14-washington-nationals-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260414T224000Z
+DTEND:20260415T014000Z
+SUMMARY:Washington Nationals @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nWashington Nationals @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-15-washington-nationals-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260415T224000Z
+DTEND:20260416T014000Z
+SUMMARY:Washington Nationals @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nWashington Nationals @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-16-washington-nationals-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260416T163500Z
+DTEND:20260416T193500Z
+SUMMARY:Washington Nationals @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nWashington Nationals @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-17-tampa-bay-rays-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260417T224500Z
+DTEND:20260418T014500Z
+SUMMARY:Tampa Bay Rays @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-18-tampa-bay-rays-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260418T200500Z
+DTEND:20260418T230500Z
+SUMMARY:Tampa Bay Rays @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-19-tampa-bay-rays-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260419T173500Z
+DTEND:20260419T203500Z
+SUMMARY:Tampa Bay Rays @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-21-pittsburgh-pirates-vs-texas-rangers@open-sports-cal
+DTSTART:20260422T000500Z
+DTEND:20260422T030500Z
+SUMMARY:Pittsburgh Pirates @ Texas Rangers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-22-pittsburgh-pirates-vs-texas-rangers@open-sports-cal
+DTSTART:20260423T000500Z
+DTEND:20260423T030500Z
+SUMMARY:Pittsburgh Pirates @ Texas Rangers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-23-pittsburgh-pirates-vs-texas-rangers@open-sports-cal
+DTSTART:20260424T000500Z
+DTEND:20260424T030500Z
+SUMMARY:Pittsburgh Pirates @ Texas Rangers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-24-pittsburgh-pirates-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260424T234000Z
+DTEND:20260425T024000Z
+SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-25-pittsburgh-pirates-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260425T231000Z
+DTEND:20260426T021000Z
+SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-26-pittsburgh-pirates-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260426T181000Z
+DTEND:20260426T211000Z
+SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-27-st-louis-cardinals-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260427T224000Z
+DTEND:20260428T014000Z
+SUMMARY:St. Louis Cardinals @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-28-st-louis-cardinals-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260428T224000Z
+DTEND:20260429T014000Z
+SUMMARY:St. Louis Cardinals @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-29-st-louis-cardinals-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260429T224000Z
+DTEND:20260430T014000Z
+SUMMARY:St. Louis Cardinals @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-30-st-louis-cardinals-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260430T163500Z
+DTEND:20260430T193500Z
+SUMMARY:St. Louis Cardinals @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-01-cincinnati-reds-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260501T224500Z
+DTEND:20260502T014500Z
+SUMMARY:Cincinnati Reds @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-02-cincinnati-reds-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260502T200500Z
+DTEND:20260502T230500Z
+SUMMARY:Cincinnati Reds @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-03-cincinnati-reds-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260503T173500Z
+DTEND:20260503T203500Z
+SUMMARY:Cincinnati Reds @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-05-pittsburgh-pirates-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260506T014000Z
+DTEND:20260506T044000Z
+SUMMARY:Pittsburgh Pirates @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-06-pittsburgh-pirates-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260507T014000Z
+DTEND:20260507T044000Z
+SUMMARY:Pittsburgh Pirates @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-07-pittsburgh-pirates-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260507T194000Z
+DTEND:20260507T224000Z
+SUMMARY:Pittsburgh Pirates @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-08-pittsburgh-pirates-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260509T021500Z
+DTEND:20260509T051500Z
+SUMMARY:Pittsburgh Pirates @ San Francisco Giants
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-09-pittsburgh-pirates-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260510T010500Z
+DTEND:20260510T040500Z
+SUMMARY:Pittsburgh Pirates @ San Francisco Giants
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-10-pittsburgh-pirates-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260510T200500Z
+DTEND:20260510T230500Z
+SUMMARY:Pittsburgh Pirates @ San Francisco Giants
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-12-colorado-rockies-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260512T224000Z
+DTEND:20260513T014000Z
+SUMMARY:Colorado Rockies @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nColorado Rockies @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-13-colorado-rockies-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260513T224000Z
+DTEND:20260514T014000Z
+SUMMARY:Colorado Rockies @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nColorado Rockies @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-14-colorado-rockies-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260514T163500Z
+DTEND:20260514T193500Z
+SUMMARY:Colorado Rockies @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nColorado Rockies @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-15-philadelphia-phillies-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260515T224000Z
+DTEND:20260516T014000Z
+SUMMARY:Philadelphia Phillies @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-16-philadelphia-phillies-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260516T200500Z
+DTEND:20260516T230500Z
+SUMMARY:Philadelphia Phillies @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-17-philadelphia-phillies-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260517T173500Z
+DTEND:20260517T203500Z
+SUMMARY:Philadelphia Phillies @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-19-pittsburgh-pirates-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260519T234500Z
+DTEND:20260520T024500Z
+SUMMARY:Pittsburgh Pirates @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-20-pittsburgh-pirates-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260520T234500Z
+DTEND:20260521T024500Z
+SUMMARY:Pittsburgh Pirates @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-21-pittsburgh-pirates-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260521T171500Z
+DTEND:20260521T201500Z
+SUMMARY:Pittsburgh Pirates @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-22-pittsburgh-pirates-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260522T230700Z
+DTEND:20260523T020700Z
+SUMMARY:Pittsburgh Pirates @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-23-pittsburgh-pirates-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260523T190700Z
+DTEND:20260523T220700Z
+SUMMARY:Pittsburgh Pirates @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-24-pittsburgh-pirates-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260524T161500Z
+DTEND:20260524T191500Z
+SUMMARY:Pittsburgh Pirates @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-25-chicago-cubs-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260525T224000Z
+DTEND:20260526T014000Z
+SUMMARY:Chicago Cubs @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nChicago Cubs @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-26-chicago-cubs-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260526T224000Z
+DTEND:20260527T014000Z
+SUMMARY:Chicago Cubs @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nChicago Cubs @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-27-chicago-cubs-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260527T224000Z
+DTEND:20260528T014000Z
+SUMMARY:Chicago Cubs @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nChicago Cubs @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-28-chicago-cubs-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260528T224000Z
+DTEND:20260529T014000Z
+SUMMARY:Chicago Cubs @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nChicago Cubs @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-29-minnesota-twins-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260529T224500Z
+DTEND:20260530T014500Z
+SUMMARY:Minnesota Twins @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-30-minnesota-twins-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260530T200500Z
+DTEND:20260530T230500Z
+SUMMARY:Minnesota Twins @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-31-minnesota-twins-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260531T173500Z
+DTEND:20260531T203500Z
+SUMMARY:Minnesota Twins @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-02-pittsburgh-pirates-vs-houston-astros@open-sports-cal
+DTSTART:20260603T001000Z
+DTEND:20260603T031000Z
+SUMMARY:Pittsburgh Pirates @ Houston Astros
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-03-pittsburgh-pirates-vs-houston-astros@open-sports-cal
+DTSTART:20260604T001000Z
+DTEND:20260604T031000Z
+SUMMARY:Pittsburgh Pirates @ Houston Astros
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-04-pittsburgh-pirates-vs-houston-astros@open-sports-cal
+DTSTART:20260605T001000Z
+DTEND:20260605T031000Z
+SUMMARY:Pittsburgh Pirates @ Houston Astros
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-05-pittsburgh-pirates-vs-atlanta-braves@open-sports-cal
+DTSTART:20260605T231500Z
+DTEND:20260606T021500Z
+SUMMARY:Pittsburgh Pirates @ Atlanta Braves
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-06-pittsburgh-pirates-vs-atlanta-braves@open-sports-cal
+DTSTART:20260606T201000Z
+DTEND:20260606T231000Z
+SUMMARY:Pittsburgh Pirates @ Atlanta Braves
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-07-pittsburgh-pirates-vs-atlanta-braves@open-sports-cal
+DTSTART:20260607T173500Z
+DTEND:20260607T203500Z
+SUMMARY:Pittsburgh Pirates @ Atlanta Braves
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-09-los-angeles-dodgers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260609T224000Z
+DTEND:20260610T014000Z
+SUMMARY:Los Angeles Dodgers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-10-los-angeles-dodgers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260610T224000Z
+DTEND:20260611T014000Z
+SUMMARY:Los Angeles Dodgers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-11-los-angeles-dodgers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260611T224000Z
+DTEND:20260612T014000Z
+SUMMARY:Los Angeles Dodgers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-12-miami-marlins-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260612T224000Z
+DTEND:20260613T014000Z
+SUMMARY:Miami Marlins @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nMiami Marlins @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-13-miami-marlins-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260613T200500Z
+DTEND:20260613T230500Z
+SUMMARY:Miami Marlins @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nMiami Marlins @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-14-miami-marlins-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260614T161500Z
+DTEND:20260614T191500Z
+SUMMARY:Miami Marlins @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nMiami Marlins @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-15-pittsburgh-pirates-vs-athletics@open-sports-cal
+DTSTART:20260616T014000Z
+DTEND:20260616T044000Z
+SUMMARY:Pittsburgh Pirates @ Athletics
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-16-pittsburgh-pirates-vs-athletics@open-sports-cal
+DTSTART:20260617T014000Z
+DTEND:20260617T044000Z
+SUMMARY:Pittsburgh Pirates @ Athletics
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-17-pittsburgh-pirates-vs-athletics@open-sports-cal
+DTSTART:20260618T014000Z
+DTEND:20260618T044000Z
+SUMMARY:Pittsburgh Pirates @ Athletics
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-19-pittsburgh-pirates-vs-colorado-rockies@open-sports-cal
+DTSTART:20260620T004000Z
+DTEND:20260620T034000Z
+SUMMARY:Pittsburgh Pirates @ Colorado Rockies
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-20-pittsburgh-pirates-vs-colorado-rockies@open-sports-cal
+DTSTART:20260621T011000Z
+DTEND:20260621T041000Z
+SUMMARY:Pittsburgh Pirates @ Colorado Rockies
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-21-pittsburgh-pirates-vs-colorado-rockies@open-sports-cal
+DTSTART:20260621T191000Z
+DTEND:20260621T221000Z
+SUMMARY:Pittsburgh Pirates @ Colorado Rockies
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-23-seattle-mariners-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260623T224000Z
+DTEND:20260624T014000Z
+SUMMARY:Seattle Mariners @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-24-seattle-mariners-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260624T224000Z
+DTEND:20260625T014000Z
+SUMMARY:Seattle Mariners @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-25-seattle-mariners-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260625T163500Z
+DTEND:20260625T193500Z
+SUMMARY:Seattle Mariners @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-26-cincinnati-reds-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260626T224000Z
+DTEND:20260627T014000Z
+SUMMARY:Cincinnati Reds @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-27-cincinnati-reds-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260627T200500Z
+DTEND:20260627T230500Z
+SUMMARY:Cincinnati Reds @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-28-cincinnati-reds-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260628T173500Z
+DTEND:20260628T203500Z
+SUMMARY:Cincinnati Reds @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-29-pittsburgh-pirates-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260629T224000Z
+DTEND:20260630T014000Z
+SUMMARY:Pittsburgh Pirates @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-30-pittsburgh-pirates-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260630T224000Z
+DTEND:20260701T014000Z
+SUMMARY:Pittsburgh Pirates @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-01-pittsburgh-pirates-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260701T224000Z
+DTEND:20260702T014000Z
+SUMMARY:Pittsburgh Pirates @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-02-pittsburgh-pirates-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260702T163500Z
+DTEND:20260702T193500Z
+SUMMARY:Pittsburgh Pirates @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-03-pittsburgh-pirates-vs-washington-nationals@open-sports-cal
+DTSTART:20260703T224500Z
+DTEND:20260704T014500Z
+SUMMARY:Pittsburgh Pirates @ Washington Nationals
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-04-pittsburgh-pirates-vs-washington-nationals@open-sports-cal
+DTSTART:20260704T150500Z
+DTEND:20260704T180500Z
+SUMMARY:Pittsburgh Pirates @ Washington Nationals
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-05-pittsburgh-pirates-vs-washington-nationals@open-sports-cal
+DTSTART:20260705T170000Z
+DTEND:20260705T200000Z
+SUMMARY:Pittsburgh Pirates @ Washington Nationals
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-07-atlanta-braves-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260707T224000Z
+DTEND:20260708T014000Z
+SUMMARY:Atlanta Braves @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-08-atlanta-braves-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260708T224000Z
+DTEND:20260709T014000Z
+SUMMARY:Atlanta Braves @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-09-atlanta-braves-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260709T163500Z
+DTEND:20260709T193500Z
+SUMMARY:Atlanta Braves @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-10-milwaukee-brewers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260710T224000Z
+DTEND:20260711T014000Z
+SUMMARY:Milwaukee Brewers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-11-milwaukee-brewers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260711T200500Z
+DTEND:20260711T230500Z
+SUMMARY:Milwaukee Brewers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-12-milwaukee-brewers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260712T161500Z
+DTEND:20260712T191500Z
+SUMMARY:Milwaukee Brewers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-17-pittsburgh-pirates-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260717T231000Z
+DTEND:20260718T021000Z
+SUMMARY:Pittsburgh Pirates @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-18-pittsburgh-pirates-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260718T201000Z
+DTEND:20260718T231000Z
+SUMMARY:Pittsburgh Pirates @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-19-pittsburgh-pirates-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260719T174000Z
+DTEND:20260719T204000Z
+SUMMARY:Pittsburgh Pirates @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-20-pittsburgh-pirates-vs-new-york-yankees@open-sports-cal
+DTSTART:20260720T230500Z
+DTEND:20260721T020500Z
+SUMMARY:Pittsburgh Pirates @ New York Yankees
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-21-pittsburgh-pirates-vs-new-york-yankees@open-sports-cal
+DTSTART:20260721T230500Z
+DTEND:20260722T020500Z
+SUMMARY:Pittsburgh Pirates @ New York Yankees
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-22-pittsburgh-pirates-vs-new-york-yankees@open-sports-cal
+DTSTART:20260722T173500Z
+DTEND:20260722T203500Z
+SUMMARY:Pittsburgh Pirates @ New York Yankees
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-24-chicago-cubs-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260724T224000Z
+DTEND:20260725T014000Z
+SUMMARY:Chicago Cubs @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nChicago Cubs @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-25-chicago-cubs-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260725T224000Z
+DTEND:20260726T014000Z
+SUMMARY:Chicago Cubs @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nChicago Cubs @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-26-chicago-cubs-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260726T173500Z
+DTEND:20260726T203500Z
+SUMMARY:Chicago Cubs @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nChicago Cubs @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-27-arizona-diamondbacks-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260727T224000Z
+DTEND:20260728T014000Z
+SUMMARY:Arizona Diamondbacks @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-28-arizona-diamondbacks-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260728T224000Z
+DTEND:20260729T014000Z
+SUMMARY:Arizona Diamondbacks @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-29-arizona-diamondbacks-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260729T163500Z
+DTEND:20260729T193500Z
+SUMMARY:Arizona Diamondbacks @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-30-pittsburgh-pirates-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260730T231000Z
+DTEND:20260731T021000Z
+SUMMARY:Pittsburgh Pirates @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-31-pittsburgh-pirates-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260731T221000Z
+DTEND:20260801T011000Z
+SUMMARY:Pittsburgh Pirates @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-01-pittsburgh-pirates-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260801T224000Z
+DTEND:20260802T014000Z
+SUMMARY:Pittsburgh Pirates @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-02-pittsburgh-pirates-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260802T174000Z
+DTEND:20260802T204000Z
+SUMMARY:Pittsburgh Pirates @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-03-pittsburgh-pirates-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260803T234000Z
+DTEND:20260804T024000Z
+SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-04-pittsburgh-pirates-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260804T234000Z
+DTEND:20260805T024000Z
+SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-05-pittsburgh-pirates-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260805T234000Z
+DTEND:20260806T024000Z
+SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-06-pittsburgh-pirates-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260806T181000Z
+DTEND:20260806T211000Z
+SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-07-new-york-mets-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260807T224000Z
+DTEND:20260808T014000Z
+SUMMARY:New York Mets @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nNew York Mets @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-08-new-york-mets-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260808T224000Z
+DTEND:20260809T014000Z
+SUMMARY:New York Mets @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nNew York Mets @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-09-new-york-mets-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260809T173500Z
+DTEND:20260809T203500Z
+SUMMARY:New York Mets @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nNew York Mets @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-11-pittsburgh-pirates-vs-miami-marlins@open-sports-cal
+DTSTART:20260811T224000Z
+DTEND:20260812T014000Z
+SUMMARY:Pittsburgh Pirates @ Miami Marlins
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-12-pittsburgh-pirates-vs-miami-marlins@open-sports-cal
+DTSTART:20260812T224000Z
+DTEND:20260813T014000Z
+SUMMARY:Pittsburgh Pirates @ Miami Marlins
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-13-pittsburgh-pirates-vs-miami-marlins@open-sports-cal
+DTSTART:20260813T171000Z
+DTEND:20260813T201000Z
+SUMMARY:Pittsburgh Pirates @ Miami Marlins
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-14-boston-red-sox-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260814T224000Z
+DTEND:20260815T014000Z
+SUMMARY:Boston Red Sox @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-15-boston-red-sox-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260815T224000Z
+DTEND:20260816T014000Z
+SUMMARY:Boston Red Sox @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-16-boston-red-sox-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260816T173500Z
+DTEND:20260816T203500Z
+SUMMARY:Boston Red Sox @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-17-detroit-tigers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260817T230500Z
+DTEND:20260818T020500Z
+SUMMARY:Detroit Tigers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-18-detroit-tigers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260818T224000Z
+DTEND:20260819T014000Z
+SUMMARY:Detroit Tigers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-19-detroit-tigers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260819T163500Z
+DTEND:20260819T193500Z
+SUMMARY:Detroit Tigers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-21-pittsburgh-pirates-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260822T021000Z
+DTEND:20260822T051000Z
+SUMMARY:Pittsburgh Pirates @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-22-pittsburgh-pirates-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260823T011000Z
+DTEND:20260823T041000Z
+SUMMARY:Pittsburgh Pirates @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-23-pittsburgh-pirates-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260823T201000Z
+DTEND:20260823T231000Z
+SUMMARY:Pittsburgh Pirates @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-24-pittsburgh-pirates-vs-san-diego-padres@open-sports-cal
+DTSTART:20260825T014000Z
+DTEND:20260825T044000Z
+SUMMARY:Pittsburgh Pirates @ San Diego Padres
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-25-pittsburgh-pirates-vs-san-diego-padres@open-sports-cal
+DTSTART:20260826T014000Z
+DTEND:20260826T044000Z
+SUMMARY:Pittsburgh Pirates @ San Diego Padres
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-26-pittsburgh-pirates-vs-san-diego-padres@open-sports-cal
+DTSTART:20260826T201000Z
+DTEND:20260826T231000Z
+SUMMARY:Pittsburgh Pirates @ San Diego Padres
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-28-pittsburgh-pirates-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260829T001500Z
+DTEND:20260829T031500Z
+SUMMARY:Pittsburgh Pirates @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-29-pittsburgh-pirates-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260829T181500Z
+DTEND:20260829T211500Z
+SUMMARY:Pittsburgh Pirates @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-30-pittsburgh-pirates-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260830T181500Z
+DTEND:20260830T211500Z
+SUMMARY:Pittsburgh Pirates @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-01-san-francisco-giants-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260901T224000Z
+DTEND:20260902T014000Z
+SUMMARY:San Francisco Giants @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-02-san-francisco-giants-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260902T224000Z
+DTEND:20260903T014000Z
+SUMMARY:San Francisco Giants @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-03-san-francisco-giants-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260903T163500Z
+DTEND:20260903T193500Z
+SUMMARY:San Francisco Giants @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-04-los-angeles-angels-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260904T224000Z
+DTEND:20260905T014000Z
+SUMMARY:Los Angeles Angels @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-05-los-angeles-angels-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260905T224000Z
+DTEND:20260906T014000Z
+SUMMARY:Los Angeles Angels @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-06-los-angeles-angels-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260906T173500Z
+DTEND:20260906T203500Z
+SUMMARY:Los Angeles Angels @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-08-pittsburgh-pirates-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260908T234000Z
+DTEND:20260909T024000Z
+SUMMARY:Pittsburgh Pirates @ Chicago White Sox
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-09-pittsburgh-pirates-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260909T234000Z
+DTEND:20260910T024000Z
+SUMMARY:Pittsburgh Pirates @ Chicago White Sox
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-10-pittsburgh-pirates-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260910T234000Z
+DTEND:20260911T024000Z
+SUMMARY:Pittsburgh Pirates @ Chicago White Sox
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-11-pittsburgh-pirates-vs-chicago-cubs@open-sports-cal
+DTSTART:20260911T182000Z
+DTEND:20260911T212000Z
+SUMMARY:Pittsburgh Pirates @ Chicago Cubs
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-12-pittsburgh-pirates-vs-chicago-cubs@open-sports-cal
+DTSTART:20260912T182000Z
+DTEND:20260912T212000Z
+SUMMARY:Pittsburgh Pirates @ Chicago Cubs
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-13-pittsburgh-pirates-vs-chicago-cubs@open-sports-cal
+DTSTART:20260913T182000Z
+DTEND:20260913T212000Z
+SUMMARY:Pittsburgh Pirates @ Chicago Cubs
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-15-milwaukee-brewers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260915T224000Z
+DTEND:20260916T014000Z
+SUMMARY:Milwaukee Brewers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-16-milwaukee-brewers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260916T224000Z
+DTEND:20260917T014000Z
+SUMMARY:Milwaukee Brewers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-17-milwaukee-brewers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260917T163500Z
+DTEND:20260917T193500Z
+SUMMARY:Milwaukee Brewers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-18-kansas-city-royals-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260918T224000Z
+DTEND:20260919T014000Z
+SUMMARY:Kansas City Royals @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nKansas City Royals @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-19-kansas-city-royals-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260919T224000Z
+DTEND:20260920T014000Z
+SUMMARY:Kansas City Royals @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nKansas City Royals @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-20-kansas-city-royals-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260920T173500Z
+DTEND:20260920T203500Z
+SUMMARY:Kansas City Royals @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nKansas City Royals @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-22-st-louis-cardinals-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260922T224000Z
+DTEND:20260923T014000Z
+SUMMARY:St. Louis Cardinals @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-23-st-louis-cardinals-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260923T224000Z
+DTEND:20260924T014000Z
+SUMMARY:St. Louis Cardinals @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-24-st-louis-cardinals-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260924T163500Z
+DTEND:20260924T193500Z
+SUMMARY:St. Louis Cardinals @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-25-pittsburgh-pirates-vs-detroit-tigers@open-sports-cal
+DTSTART:20260925T224000Z
+DTEND:20260926T014000Z
+SUMMARY:Pittsburgh Pirates @ Detroit Tigers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-26-pittsburgh-pirates-vs-detroit-tigers@open-sports-cal
+DTSTART:20260926T171000Z
+DTEND:20260926T201000Z
+SUMMARY:Pittsburgh Pirates @ Detroit Tigers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-27-pittsburgh-pirates-vs-detroit-tigers@open-sports-cal
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:Pittsburgh Pirates @ Detroit Tigers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+END:VCALENDAR

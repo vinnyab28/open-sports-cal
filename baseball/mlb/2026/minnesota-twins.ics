@@ -1,0 +1,1790 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MLB 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLB 2026 - Minnesota Twins
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-26-minnesota-twins-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260326T190500Z
+DTEND:20260326T220500Z
+SUMMARY:Minnesota Twins @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-28-minnesota-twins-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260328T200500Z
+DTEND:20260328T230500Z
+SUMMARY:Minnesota Twins @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-29-minnesota-twins-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260329T173500Z
+DTEND:20260329T203500Z
+SUMMARY:Minnesota Twins @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-30-minnesota-twins-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260330T201000Z
+DTEND:20260330T231000Z
+SUMMARY:Minnesota Twins @ Kansas City Royals
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-01-minnesota-twins-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260401T234000Z
+DTEND:20260402T024000Z
+SUMMARY:Minnesota Twins @ Kansas City Royals
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-02-minnesota-twins-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260402T181000Z
+DTEND:20260402T211000Z
+SUMMARY:Minnesota Twins @ Kansas City Royals
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-03-tampa-bay-rays-vs-minnesota-twins@open-sports-cal
+DTSTART:20260403T201000Z
+DTEND:20260403T231000Z
+SUMMARY:Tampa Bay Rays @ Minnesota Twins
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-04-tampa-bay-rays-vs-minnesota-twins@open-sports-cal
+DTSTART:20260404T231000Z
+DTEND:20260405T021000Z
+SUMMARY:Tampa Bay Rays @ Minnesota Twins
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-05-tampa-bay-rays-vs-minnesota-twins@open-sports-cal
+DTSTART:20260405T181000Z
+DTEND:20260405T211000Z
+SUMMARY:Tampa Bay Rays @ Minnesota Twins
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-06-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260406T234000Z
+DTEND:20260407T024000Z
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-07-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260407T234000Z
+DTEND:20260408T024000Z
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-08-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260408T234000Z
+DTEND:20260409T024000Z
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-09-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260409T174000Z
+DTEND:20260409T204000Z
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-10-minnesota-twins-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260410T230700Z
+DTEND:20260411T020700Z
+SUMMARY:Minnesota Twins @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-11-minnesota-twins-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260411T190700Z
+DTEND:20260411T220700Z
+SUMMARY:Minnesota Twins @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-12-minnesota-twins-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260412T173700Z
+DTEND:20260412T203700Z
+SUMMARY:Minnesota Twins @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-13-boston-red-sox-vs-minnesota-twins@open-sports-cal
+DTSTART:20260413T234000Z
+DTEND:20260414T024000Z
+SUMMARY:Boston Red Sox @ Minnesota Twins
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-14-boston-red-sox-vs-minnesota-twins@open-sports-cal
+DTSTART:20260414T234000Z
+DTEND:20260415T024000Z
+SUMMARY:Boston Red Sox @ Minnesota Twins
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-15-boston-red-sox-vs-minnesota-twins@open-sports-cal
+DTSTART:20260415T174000Z
+DTEND:20260415T204000Z
+SUMMARY:Boston Red Sox @ Minnesota Twins
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-17-cincinnati-reds-vs-minnesota-twins@open-sports-cal
+DTSTART:20260418T001000Z
+DTEND:20260418T031000Z
+SUMMARY:Cincinnati Reds @ Minnesota Twins
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-18-cincinnati-reds-vs-minnesota-twins@open-sports-cal
+DTSTART:20260418T181000Z
+DTEND:20260418T211000Z
+SUMMARY:Cincinnati Reds @ Minnesota Twins
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-19-cincinnati-reds-vs-minnesota-twins@open-sports-cal
+DTSTART:20260419T181000Z
+DTEND:20260419T211000Z
+SUMMARY:Cincinnati Reds @ Minnesota Twins
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-21-minnesota-twins-vs-new-york-mets@open-sports-cal
+DTSTART:20260421T231000Z
+DTEND:20260422T021000Z
+SUMMARY:Minnesota Twins @ New York Mets
+DESCRIPTION:MLB 2026\nMinnesota Twins @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-22-minnesota-twins-vs-new-york-mets@open-sports-cal
+DTSTART:20260422T231000Z
+DTEND:20260423T021000Z
+SUMMARY:Minnesota Twins @ New York Mets
+DESCRIPTION:MLB 2026\nMinnesota Twins @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-23-minnesota-twins-vs-new-york-mets@open-sports-cal
+DTSTART:20260423T231000Z
+DTEND:20260424T021000Z
+SUMMARY:Minnesota Twins @ New York Mets
+DESCRIPTION:MLB 2026\nMinnesota Twins @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-24-minnesota-twins-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260424T231000Z
+DTEND:20260425T021000Z
+SUMMARY:Minnesota Twins @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-25-minnesota-twins-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260425T201000Z
+DTEND:20260425T231000Z
+SUMMARY:Minnesota Twins @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-26-minnesota-twins-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260426T174000Z
+DTEND:20260426T204000Z
+SUMMARY:Minnesota Twins @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-27-seattle-mariners-vs-minnesota-twins@open-sports-cal
+DTSTART:20260427T234000Z
+DTEND:20260428T024000Z
+SUMMARY:Seattle Mariners @ Minnesota Twins
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-28-seattle-mariners-vs-minnesota-twins@open-sports-cal
+DTSTART:20260428T234000Z
+DTEND:20260429T024000Z
+SUMMARY:Seattle Mariners @ Minnesota Twins
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-29-seattle-mariners-vs-minnesota-twins@open-sports-cal
+DTSTART:20260429T174000Z
+DTEND:20260429T204000Z
+SUMMARY:Seattle Mariners @ Minnesota Twins
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-30-toronto-blue-jays-vs-minnesota-twins@open-sports-cal
+DTSTART:20260430T234000Z
+DTEND:20260501T024000Z
+SUMMARY:Toronto Blue Jays @ Minnesota Twins
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-01-toronto-blue-jays-vs-minnesota-twins@open-sports-cal
+DTSTART:20260502T001000Z
+DTEND:20260502T031000Z
+SUMMARY:Toronto Blue Jays @ Minnesota Twins
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-02-toronto-blue-jays-vs-minnesota-twins@open-sports-cal
+DTSTART:20260502T181000Z
+DTEND:20260502T211000Z
+SUMMARY:Toronto Blue Jays @ Minnesota Twins
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-03-toronto-blue-jays-vs-minnesota-twins@open-sports-cal
+DTSTART:20260503T164500Z
+DTEND:20260503T194500Z
+SUMMARY:Toronto Blue Jays @ Minnesota Twins
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-05-minnesota-twins-vs-washington-nationals@open-sports-cal
+DTSTART:20260505T224500Z
+DTEND:20260506T014500Z
+SUMMARY:Minnesota Twins @ Washington Nationals
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-06-minnesota-twins-vs-washington-nationals@open-sports-cal
+DTSTART:20260506T224500Z
+DTEND:20260507T014500Z
+SUMMARY:Minnesota Twins @ Washington Nationals
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-07-minnesota-twins-vs-washington-nationals@open-sports-cal
+DTSTART:20260507T170500Z
+DTEND:20260507T200500Z
+SUMMARY:Minnesota Twins @ Washington Nationals
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-08-minnesota-twins-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260508T231500Z
+DTEND:20260509T021500Z
+SUMMARY:Minnesota Twins @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-09-minnesota-twins-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260509T221000Z
+DTEND:20260510T011000Z
+SUMMARY:Minnesota Twins @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-10-minnesota-twins-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260510T174000Z
+DTEND:20260510T204000Z
+SUMMARY:Minnesota Twins @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-12-miami-marlins-vs-minnesota-twins@open-sports-cal
+DTSTART:20260512T234000Z
+DTEND:20260513T024000Z
+SUMMARY:Miami Marlins @ Minnesota Twins
+DESCRIPTION:MLB 2026\nMiami Marlins @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-13-miami-marlins-vs-minnesota-twins@open-sports-cal
+DTSTART:20260513T234000Z
+DTEND:20260514T024000Z
+SUMMARY:Miami Marlins @ Minnesota Twins
+DESCRIPTION:MLB 2026\nMiami Marlins @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-14-miami-marlins-vs-minnesota-twins@open-sports-cal
+DTSTART:20260514T174000Z
+DTEND:20260514T204000Z
+SUMMARY:Miami Marlins @ Minnesota Twins
+DESCRIPTION:MLB 2026\nMiami Marlins @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-15-milwaukee-brewers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260516T001000Z
+DTEND:20260516T031000Z
+SUMMARY:Milwaukee Brewers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-16-milwaukee-brewers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260516T231000Z
+DTEND:20260517T021000Z
+SUMMARY:Milwaukee Brewers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-17-milwaukee-brewers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260517T181000Z
+DTEND:20260517T211000Z
+SUMMARY:Milwaukee Brewers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-18-houston-astros-vs-minnesota-twins@open-sports-cal
+DTSTART:20260518T234000Z
+DTEND:20260519T024000Z
+SUMMARY:Houston Astros @ Minnesota Twins
+DESCRIPTION:MLB 2026\nHouston Astros @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-19-houston-astros-vs-minnesota-twins@open-sports-cal
+DTSTART:20260519T234000Z
+DTEND:20260520T024000Z
+SUMMARY:Houston Astros @ Minnesota Twins
+DESCRIPTION:MLB 2026\nHouston Astros @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-20-houston-astros-vs-minnesota-twins@open-sports-cal
+DTSTART:20260520T174000Z
+DTEND:20260520T204000Z
+SUMMARY:Houston Astros @ Minnesota Twins
+DESCRIPTION:MLB 2026\nHouston Astros @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-22-minnesota-twins-vs-boston-red-sox@open-sports-cal
+DTSTART:20260522T231000Z
+DTEND:20260523T021000Z
+SUMMARY:Minnesota Twins @ Boston Red Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-23-minnesota-twins-vs-boston-red-sox@open-sports-cal
+DTSTART:20260523T201000Z
+DTEND:20260523T231000Z
+SUMMARY:Minnesota Twins @ Boston Red Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-24-minnesota-twins-vs-boston-red-sox@open-sports-cal
+DTSTART:20260524T173500Z
+DTEND:20260524T203500Z
+SUMMARY:Minnesota Twins @ Boston Red Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-25-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260525T181000Z
+DTEND:20260525T211000Z
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-26-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260526T234000Z
+DTEND:20260527T024000Z
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-27-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260527T234000Z
+DTEND:20260528T024000Z
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-28-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260528T181000Z
+DTEND:20260528T211000Z
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-29-minnesota-twins-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260529T224500Z
+DTEND:20260530T014500Z
+SUMMARY:Minnesota Twins @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-30-minnesota-twins-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260530T200500Z
+DTEND:20260530T230500Z
+SUMMARY:Minnesota Twins @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-31-minnesota-twins-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260531T173500Z
+DTEND:20260531T203500Z
+SUMMARY:Minnesota Twins @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-01-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART:20260601T234000Z
+DTEND:20260602T024000Z
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2026\nChicago White Sox @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-02-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART:20260602T234000Z
+DTEND:20260603T024000Z
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2026\nChicago White Sox @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-03-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART:20260603T174000Z
+DTEND:20260603T204000Z
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2026\nChicago White Sox @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-04-kansas-city-royals-vs-minnesota-twins@open-sports-cal
+DTSTART:20260604T234000Z
+DTEND:20260605T024000Z
+SUMMARY:Kansas City Royals @ Minnesota Twins
+DESCRIPTION:MLB 2026\nKansas City Royals @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-05-kansas-city-royals-vs-minnesota-twins@open-sports-cal
+DTSTART:20260606T001500Z
+DTEND:20260606T031500Z
+SUMMARY:Kansas City Royals @ Minnesota Twins
+DESCRIPTION:MLB 2026\nKansas City Royals @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-06-kansas-city-royals-vs-minnesota-twins@open-sports-cal
+DTSTART:20260606T181000Z
+DTEND:20260606T211000Z
+SUMMARY:Kansas City Royals @ Minnesota Twins
+DESCRIPTION:MLB 2026\nKansas City Royals @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-07-kansas-city-royals-vs-minnesota-twins@open-sports-cal
+DTSTART:20260607T181000Z
+DTEND:20260607T211000Z
+SUMMARY:Kansas City Royals @ Minnesota Twins
+DESCRIPTION:MLB 2026\nKansas City Royals @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-09-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART:20260609T224000Z
+DTEND:20260610T014000Z
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-10-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART:20260610T224000Z
+DTEND:20260611T014000Z
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-11-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART:20260611T171000Z
+DTEND:20260611T201000Z
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-12-st-louis-cardinals-vs-minnesota-twins@open-sports-cal
+DTSTART:20260613T001000Z
+DTEND:20260613T031000Z
+SUMMARY:St. Louis Cardinals @ Minnesota Twins
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-13-st-louis-cardinals-vs-minnesota-twins@open-sports-cal
+DTSTART:20260613T181000Z
+DTEND:20260613T211000Z
+SUMMARY:St. Louis Cardinals @ Minnesota Twins
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-14-st-louis-cardinals-vs-minnesota-twins@open-sports-cal
+DTSTART:20260614T181000Z
+DTEND:20260614T211000Z
+SUMMARY:St. Louis Cardinals @ Minnesota Twins
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-15-minnesota-twins-vs-texas-rangers@open-sports-cal
+DTSTART:20260616T000500Z
+DTEND:20260616T030500Z
+SUMMARY:Minnesota Twins @ Texas Rangers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-16-minnesota-twins-vs-texas-rangers@open-sports-cal
+DTSTART:20260617T000500Z
+DTEND:20260617T030500Z
+SUMMARY:Minnesota Twins @ Texas Rangers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-18-minnesota-twins-vs-texas-rangers@open-sports-cal
+DTSTART:20260618T183500Z
+DTEND:20260618T213500Z
+SUMMARY:Minnesota Twins @ Texas Rangers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-19-minnesota-twins-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260620T014500Z
+DTEND:20260620T044500Z
+SUMMARY:Minnesota Twins @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-20-minnesota-twins-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260621T021000Z
+DTEND:20260621T051000Z
+SUMMARY:Minnesota Twins @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-21-minnesota-twins-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260621T191500Z
+DTEND:20260621T221500Z
+SUMMARY:Minnesota Twins @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-22-los-angeles-dodgers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260622T234000Z
+DTEND:20260623T024000Z
+SUMMARY:Los Angeles Dodgers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-23-los-angeles-dodgers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260623T234000Z
+DTEND:20260624T024000Z
+SUMMARY:Los Angeles Dodgers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-24-los-angeles-dodgers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260624T234000Z
+DTEND:20260625T024000Z
+SUMMARY:Los Angeles Dodgers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-26-colorado-rockies-vs-minnesota-twins@open-sports-cal
+DTSTART:20260627T001000Z
+DTEND:20260627T031000Z
+SUMMARY:Colorado Rockies @ Minnesota Twins
+DESCRIPTION:MLB 2026\nColorado Rockies @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-27-colorado-rockies-vs-minnesota-twins@open-sports-cal
+DTSTART:20260627T231000Z
+DTEND:20260628T021000Z
+SUMMARY:Colorado Rockies @ Minnesota Twins
+DESCRIPTION:MLB 2026\nColorado Rockies @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-28-colorado-rockies-vs-minnesota-twins@open-sports-cal
+DTSTART:20260628T181000Z
+DTEND:20260628T211000Z
+SUMMARY:Colorado Rockies @ Minnesota Twins
+DESCRIPTION:MLB 2026\nColorado Rockies @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-29-minnesota-twins-vs-houston-astros@open-sports-cal
+DTSTART:20260630T001000Z
+DTEND:20260630T031000Z
+SUMMARY:Minnesota Twins @ Houston Astros
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-30-minnesota-twins-vs-houston-astros@open-sports-cal
+DTSTART:20260701T001000Z
+DTEND:20260701T031000Z
+SUMMARY:Minnesota Twins @ Houston Astros
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-01-minnesota-twins-vs-houston-astros@open-sports-cal
+DTSTART:20260702T001000Z
+DTEND:20260702T031000Z
+SUMMARY:Minnesota Twins @ Houston Astros
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-03-minnesota-twins-vs-new-york-yankees@open-sports-cal
+DTSTART:20260703T230500Z
+DTEND:20260704T020500Z
+SUMMARY:Minnesota Twins @ New York Yankees
+DESCRIPTION:MLB 2026\nMinnesota Twins @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-04-minnesota-twins-vs-new-york-yankees@open-sports-cal
+DTSTART:20260704T173500Z
+DTEND:20260704T203500Z
+SUMMARY:Minnesota Twins @ New York Yankees
+DESCRIPTION:MLB 2026\nMinnesota Twins @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-05-minnesota-twins-vs-new-york-yankees@open-sports-cal
+DTSTART:20260705T173500Z
+DTEND:20260705T203500Z
+SUMMARY:Minnesota Twins @ New York Yankees
+DESCRIPTION:MLB 2026\nMinnesota Twins @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-07-cleveland-guardians-vs-minnesota-twins@open-sports-cal
+DTSTART:20260707T234000Z
+DTEND:20260708T024000Z
+SUMMARY:Cleveland Guardians @ Minnesota Twins
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-08-cleveland-guardians-vs-minnesota-twins@open-sports-cal
+DTSTART:20260708T234000Z
+DTEND:20260709T024000Z
+SUMMARY:Cleveland Guardians @ Minnesota Twins
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-09-cleveland-guardians-vs-minnesota-twins@open-sports-cal
+DTSTART:20260709T174000Z
+DTEND:20260709T204000Z
+SUMMARY:Cleveland Guardians @ Minnesota Twins
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-10-los-angeles-angels-vs-minnesota-twins@open-sports-cal
+DTSTART:20260711T001000Z
+DTEND:20260711T031000Z
+SUMMARY:Los Angeles Angels @ Minnesota Twins
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-11-los-angeles-angels-vs-minnesota-twins@open-sports-cal
+DTSTART:20260711T181000Z
+DTEND:20260711T211000Z
+SUMMARY:Los Angeles Angels @ Minnesota Twins
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-12-los-angeles-angels-vs-minnesota-twins@open-sports-cal
+DTSTART:20260712T181000Z
+DTEND:20260712T211000Z
+SUMMARY:Los Angeles Angels @ Minnesota Twins
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-17-minnesota-twins-vs-chicago-cubs@open-sports-cal
+DTSTART:20260718T000500Z
+DTEND:20260718T030500Z
+SUMMARY:Minnesota Twins @ Chicago Cubs
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-18-minnesota-twins-vs-chicago-cubs@open-sports-cal
+DTSTART:20260718T182000Z
+DTEND:20260718T212000Z
+SUMMARY:Minnesota Twins @ Chicago Cubs
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-19-minnesota-twins-vs-chicago-cubs@open-sports-cal
+DTSTART:20260719T182000Z
+DTEND:20260719T212000Z
+SUMMARY:Minnesota Twins @ Chicago Cubs
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-20-minnesota-twins-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260720T224000Z
+DTEND:20260721T014000Z
+SUMMARY:Minnesota Twins @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-21-minnesota-twins-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260721T224000Z
+DTEND:20260722T014000Z
+SUMMARY:Minnesota Twins @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-22-minnesota-twins-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260722T224000Z
+DTEND:20260723T014000Z
+SUMMARY:Minnesota Twins @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-23-minnesota-twins-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260723T171000Z
+DTEND:20260723T201000Z
+SUMMARY:Minnesota Twins @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-24-athletics-vs-minnesota-twins@open-sports-cal
+DTSTART:20260725T001000Z
+DTEND:20260725T031000Z
+SUMMARY:Athletics @ Minnesota Twins
+DESCRIPTION:MLB 2026\nAthletics @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-25-athletics-vs-minnesota-twins@open-sports-cal
+DTSTART:20260725T231000Z
+DTEND:20260726T021000Z
+SUMMARY:Athletics @ Minnesota Twins
+DESCRIPTION:MLB 2026\nAthletics @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-26-athletics-vs-minnesota-twins@open-sports-cal
+DTSTART:20260726T181000Z
+DTEND:20260726T211000Z
+SUMMARY:Athletics @ Minnesota Twins
+DESCRIPTION:MLB 2026\nAthletics @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-28-kansas-city-royals-vs-minnesota-twins@open-sports-cal
+DTSTART:20260728T234000Z
+DTEND:20260729T024000Z
+SUMMARY:Kansas City Royals @ Minnesota Twins
+DESCRIPTION:MLB 2026\nKansas City Royals @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-29-kansas-city-royals-vs-minnesota-twins@open-sports-cal
+DTSTART:20260729T234000Z
+DTEND:20260730T024000Z
+SUMMARY:Kansas City Royals @ Minnesota Twins
+DESCRIPTION:MLB 2026\nKansas City Royals @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-30-kansas-city-royals-vs-minnesota-twins@open-sports-cal
+DTSTART:20260730T174000Z
+DTEND:20260730T204000Z
+SUMMARY:Kansas City Royals @ Minnesota Twins
+DESCRIPTION:MLB 2026\nKansas City Royals @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-31-minnesota-twins-vs-seattle-mariners@open-sports-cal
+DTSTART:20260801T021000Z
+DTEND:20260801T051000Z
+SUMMARY:Minnesota Twins @ Seattle Mariners
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-01-minnesota-twins-vs-seattle-mariners@open-sports-cal
+DTSTART:20260801T201000Z
+DTEND:20260801T231000Z
+SUMMARY:Minnesota Twins @ Seattle Mariners
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-02-minnesota-twins-vs-seattle-mariners@open-sports-cal
+DTSTART:20260802T201000Z
+DTEND:20260802T231000Z
+SUMMARY:Minnesota Twins @ Seattle Mariners
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-04-minnesota-twins-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260804T234000Z
+DTEND:20260805T024000Z
+SUMMARY:Minnesota Twins @ Kansas City Royals
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-05-minnesota-twins-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260805T234000Z
+DTEND:20260806T024000Z
+SUMMARY:Minnesota Twins @ Kansas City Royals
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-06-minnesota-twins-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260806T234000Z
+DTEND:20260807T024000Z
+SUMMARY:Minnesota Twins @ Kansas City Royals
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-07-minnesota-twins-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260807T234000Z
+DTEND:20260808T024000Z
+SUMMARY:Minnesota Twins @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-08-minnesota-twins-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260808T231000Z
+DTEND:20260809T021000Z
+SUMMARY:Minnesota Twins @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-09-minnesota-twins-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260809T181000Z
+DTEND:20260809T211000Z
+SUMMARY:Minnesota Twins @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-10-baltimore-orioles-vs-minnesota-twins@open-sports-cal
+DTSTART:20260810T234000Z
+DTEND:20260811T024000Z
+SUMMARY:Baltimore Orioles @ Minnesota Twins
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-11-baltimore-orioles-vs-minnesota-twins@open-sports-cal
+DTSTART:20260811T234000Z
+DTEND:20260812T024000Z
+SUMMARY:Baltimore Orioles @ Minnesota Twins
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-12-baltimore-orioles-vs-minnesota-twins@open-sports-cal
+DTSTART:20260812T174000Z
+DTEND:20260812T204000Z
+SUMMARY:Baltimore Orioles @ Minnesota Twins
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-13-philadelphia-phillies-vs-minnesota-twins@open-sports-cal
+DTSTART:20260813T233000Z
+DTEND:20260814T023000Z
+SUMMARY:Philadelphia Phillies @ Minnesota Twins
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Minnesota Twins\nField of Dreams
+LOCATION:Field of Dreams
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-15-philadelphia-phillies-vs-minnesota-twins@open-sports-cal
+DTSTART:20260815T231000Z
+DTEND:20260816T021000Z
+SUMMARY:Philadelphia Phillies @ Minnesota Twins
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-16-philadelphia-phillies-vs-minnesota-twins@open-sports-cal
+DTSTART:20260816T181000Z
+DTEND:20260816T211000Z
+SUMMARY:Philadelphia Phillies @ Minnesota Twins
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-17-atlanta-braves-vs-minnesota-twins@open-sports-cal
+DTSTART:20260817T234000Z
+DTEND:20260818T024000Z
+SUMMARY:Atlanta Braves @ Minnesota Twins
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-18-atlanta-braves-vs-minnesota-twins@open-sports-cal
+DTSTART:20260818T234000Z
+DTEND:20260819T024000Z
+SUMMARY:Atlanta Braves @ Minnesota Twins
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-19-atlanta-braves-vs-minnesota-twins@open-sports-cal
+DTSTART:20260819T174000Z
+DTEND:20260819T204000Z
+SUMMARY:Atlanta Braves @ Minnesota Twins
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-21-minnesota-twins-vs-san-diego-padres@open-sports-cal
+DTSTART:20260822T014000Z
+DTEND:20260822T044000Z
+SUMMARY:Minnesota Twins @ San Diego Padres
+DESCRIPTION:MLB 2026\nMinnesota Twins @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-22-minnesota-twins-vs-san-diego-padres@open-sports-cal
+DTSTART:20260823T004000Z
+DTEND:20260823T034000Z
+SUMMARY:Minnesota Twins @ San Diego Padres
+DESCRIPTION:MLB 2026\nMinnesota Twins @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-23-minnesota-twins-vs-san-diego-padres@open-sports-cal
+DTSTART:20260823T201000Z
+DTEND:20260823T231000Z
+SUMMARY:Minnesota Twins @ San Diego Padres
+DESCRIPTION:MLB 2026\nMinnesota Twins @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-24-minnesota-twins-vs-athletics@open-sports-cal
+DTSTART:20260825T014000Z
+DTEND:20260825T044000Z
+SUMMARY:Minnesota Twins @ Athletics
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-25-minnesota-twins-vs-athletics@open-sports-cal
+DTSTART:20260826T014000Z
+DTEND:20260826T044000Z
+SUMMARY:Minnesota Twins @ Athletics
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-26-minnesota-twins-vs-athletics@open-sports-cal
+DTSTART:20260827T010500Z
+DTEND:20260827T040500Z
+SUMMARY:Minnesota Twins @ Athletics
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-28-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART:20260829T001000Z
+DTEND:20260829T031000Z
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2026\nChicago White Sox @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-29-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART:20260829T181000Z
+DTEND:20260829T211000Z
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2026\nChicago White Sox @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-30-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART:20260830T181000Z
+DTEND:20260830T211000Z
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2026\nChicago White Sox @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-31-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260831T234000Z
+DTEND:20260901T024000Z
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-01-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260901T234000Z
+DTEND:20260902T024000Z
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-02-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260902T234000Z
+DTEND:20260903T024000Z
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-04-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260904T234000Z
+DTEND:20260905T024000Z
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-05-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260905T231000Z
+DTEND:20260906T021000Z
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-06-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260906T181000Z
+DTEND:20260906T211000Z
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-07-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART:20260907T171000Z
+DTEND:20260907T201000Z
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-08-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART:20260908T224000Z
+DTEND:20260909T014000Z
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-09-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART:20260909T171000Z
+DTEND:20260909T201000Z
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-11-cleveland-guardians-vs-minnesota-twins@open-sports-cal
+DTSTART:20260912T001000Z
+DTEND:20260912T031000Z
+SUMMARY:Cleveland Guardians @ Minnesota Twins
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-12-cleveland-guardians-vs-minnesota-twins@open-sports-cal
+DTSTART:20260912T201000Z
+DTEND:20260912T231000Z
+SUMMARY:Cleveland Guardians @ Minnesota Twins
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-13-cleveland-guardians-vs-minnesota-twins@open-sports-cal
+DTSTART:20260913T181000Z
+DTEND:20260913T211000Z
+SUMMARY:Cleveland Guardians @ Minnesota Twins
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-14-new-york-yankees-vs-minnesota-twins@open-sports-cal
+DTSTART:20260914T234000Z
+DTEND:20260915T024000Z
+SUMMARY:New York Yankees @ Minnesota Twins
+DESCRIPTION:MLB 2026\nNew York Yankees @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-15-new-york-yankees-vs-minnesota-twins@open-sports-cal
+DTSTART:20260915T234000Z
+DTEND:20260916T024000Z
+SUMMARY:New York Yankees @ Minnesota Twins
+DESCRIPTION:MLB 2026\nNew York Yankees @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-16-new-york-yankees-vs-minnesota-twins@open-sports-cal
+DTSTART:20260916T174000Z
+DTEND:20260916T204000Z
+SUMMARY:New York Yankees @ Minnesota Twins
+DESCRIPTION:MLB 2026\nNew York Yankees @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-17-minnesota-twins-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260918T013800Z
+DTEND:20260918T043800Z
+SUMMARY:Minnesota Twins @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-18-minnesota-twins-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260919T013800Z
+DTEND:20260919T043800Z
+SUMMARY:Minnesota Twins @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-19-minnesota-twins-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260920T013800Z
+DTEND:20260920T043800Z
+SUMMARY:Minnesota Twins @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-20-minnesota-twins-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260920T200700Z
+DTEND:20260920T230700Z
+SUMMARY:Minnesota Twins @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-21-minnesota-twins-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260922T014500Z
+DTEND:20260922T044500Z
+SUMMARY:Minnesota Twins @ San Francisco Giants
+DESCRIPTION:MLB 2026\nMinnesota Twins @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-22-minnesota-twins-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260923T014500Z
+DTEND:20260923T044500Z
+SUMMARY:Minnesota Twins @ San Francisco Giants
+DESCRIPTION:MLB 2026\nMinnesota Twins @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-23-minnesota-twins-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260923T194500Z
+DTEND:20260923T224500Z
+SUMMARY:Minnesota Twins @ San Francisco Giants
+DESCRIPTION:MLB 2026\nMinnesota Twins @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-25-texas-rangers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260926T001000Z
+DTEND:20260926T031000Z
+SUMMARY:Texas Rangers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nTexas Rangers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-26-texas-rangers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260926T201000Z
+DTEND:20260926T231000Z
+SUMMARY:Texas Rangers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nTexas Rangers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-27-texas-rangers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:Texas Rangers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nTexas Rangers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+END:VCALENDAR

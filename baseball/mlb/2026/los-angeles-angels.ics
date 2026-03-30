@@ -1,0 +1,1790 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MLB 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLB 2026 - Los Angeles Angels
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-26-los-angeles-angels-vs-houston-astros@open-sports-cal
+DTSTART:20260326T201000Z
+DTEND:20260326T231000Z
+SUMMARY:Los Angeles Angels @ Houston Astros
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-27-los-angeles-angels-vs-houston-astros@open-sports-cal
+DTSTART:20260328T001500Z
+DTEND:20260328T031500Z
+SUMMARY:Los Angeles Angels @ Houston Astros
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-28-los-angeles-angels-vs-houston-astros@open-sports-cal
+DTSTART:20260328T231000Z
+DTEND:20260329T021000Z
+SUMMARY:Los Angeles Angels @ Houston Astros
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-29-los-angeles-angels-vs-houston-astros@open-sports-cal
+DTSTART:20260329T181000Z
+DTEND:20260329T211000Z
+SUMMARY:Los Angeles Angels @ Houston Astros
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-30-los-angeles-angels-vs-chicago-cubs@open-sports-cal
+DTSTART:20260330T234000Z
+DTEND:20260331T024000Z
+SUMMARY:Los Angeles Angels @ Chicago Cubs
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-31-los-angeles-angels-vs-chicago-cubs@open-sports-cal
+DTSTART:20260331T234000Z
+DTEND:20260401T024000Z
+SUMMARY:Los Angeles Angels @ Chicago Cubs
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-01-los-angeles-angels-vs-chicago-cubs@open-sports-cal
+DTSTART:20260401T182000Z
+DTEND:20260401T212000Z
+SUMMARY:Los Angeles Angels @ Chicago Cubs
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-03-seattle-mariners-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260404T013800Z
+DTEND:20260404T043800Z
+SUMMARY:Seattle Mariners @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-04-seattle-mariners-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260405T013800Z
+DTEND:20260405T043800Z
+SUMMARY:Seattle Mariners @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-05-seattle-mariners-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260405T200700Z
+DTEND:20260405T230700Z
+SUMMARY:Seattle Mariners @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-06-atlanta-braves-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260407T013800Z
+DTEND:20260407T043800Z
+SUMMARY:Atlanta Braves @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-07-atlanta-braves-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260408T013800Z
+DTEND:20260408T043800Z
+SUMMARY:Atlanta Braves @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-08-atlanta-braves-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260408T200700Z
+DTEND:20260408T230700Z
+SUMMARY:Atlanta Braves @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-10-los-angeles-angels-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260410T224500Z
+DTEND:20260411T014500Z
+SUMMARY:Los Angeles Angels @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-11-los-angeles-angels-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260411T201000Z
+DTEND:20260411T231000Z
+SUMMARY:Los Angeles Angels @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-12-los-angeles-angels-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260412T174000Z
+DTEND:20260412T204000Z
+SUMMARY:Los Angeles Angels @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-13-los-angeles-angels-vs-new-york-yankees@open-sports-cal
+DTSTART:20260413T230500Z
+DTEND:20260414T020500Z
+SUMMARY:Los Angeles Angels @ New York Yankees
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-14-los-angeles-angels-vs-new-york-yankees@open-sports-cal
+DTSTART:20260414T230500Z
+DTEND:20260415T020500Z
+SUMMARY:Los Angeles Angels @ New York Yankees
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-15-los-angeles-angels-vs-new-york-yankees@open-sports-cal
+DTSTART:20260415T230500Z
+DTEND:20260416T020500Z
+SUMMARY:Los Angeles Angels @ New York Yankees
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-16-los-angeles-angels-vs-new-york-yankees@open-sports-cal
+DTSTART:20260416T173500Z
+DTEND:20260416T203500Z
+SUMMARY:Los Angeles Angels @ New York Yankees
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-17-san-diego-padres-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260418T013800Z
+DTEND:20260418T043800Z
+SUMMARY:San Diego Padres @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-18-san-diego-padres-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260419T013800Z
+DTEND:20260419T043800Z
+SUMMARY:San Diego Padres @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-19-san-diego-padres-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260419T200700Z
+DTEND:20260419T230700Z
+SUMMARY:San Diego Padres @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-20-toronto-blue-jays-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260421T013800Z
+DTEND:20260421T043800Z
+SUMMARY:Toronto Blue Jays @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-21-toronto-blue-jays-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260422T013800Z
+DTEND:20260422T043800Z
+SUMMARY:Toronto Blue Jays @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-22-toronto-blue-jays-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260422T190700Z
+DTEND:20260422T220700Z
+SUMMARY:Toronto Blue Jays @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-24-los-angeles-angels-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260424T234000Z
+DTEND:20260425T024000Z
+SUMMARY:Los Angeles Angels @ Kansas City Royals
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-25-los-angeles-angels-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260425T231000Z
+DTEND:20260426T021000Z
+SUMMARY:Los Angeles Angels @ Kansas City Royals
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-26-los-angeles-angels-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260426T232000Z
+DTEND:20260427T022000Z
+SUMMARY:Los Angeles Angels @ Kansas City Royals
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-27-los-angeles-angels-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260427T234000Z
+DTEND:20260428T024000Z
+SUMMARY:Los Angeles Angels @ Chicago White Sox
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-28-los-angeles-angels-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260428T234000Z
+DTEND:20260429T024000Z
+SUMMARY:Los Angeles Angels @ Chicago White Sox
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-29-los-angeles-angels-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260429T171000Z
+DTEND:20260429T201000Z
+SUMMARY:Los Angeles Angels @ Chicago White Sox
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-01-new-york-mets-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260502T013800Z
+DTEND:20260502T043800Z
+SUMMARY:New York Mets @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nNew York Mets @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-02-new-york-mets-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260503T013800Z
+DTEND:20260503T043800Z
+SUMMARY:New York Mets @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nNew York Mets @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-03-new-york-mets-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260503T200700Z
+DTEND:20260503T230700Z
+SUMMARY:New York Mets @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nNew York Mets @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-04-chicago-white-sox-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260505T013800Z
+DTEND:20260505T043800Z
+SUMMARY:Chicago White Sox @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nChicago White Sox @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-05-chicago-white-sox-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260506T013800Z
+DTEND:20260506T043800Z
+SUMMARY:Chicago White Sox @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nChicago White Sox @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-06-chicago-white-sox-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260506T200700Z
+DTEND:20260506T230700Z
+SUMMARY:Chicago White Sox @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nChicago White Sox @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-08-los-angeles-angels-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260508T230700Z
+DTEND:20260509T020700Z
+SUMMARY:Los Angeles Angels @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-09-los-angeles-angels-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260509T190700Z
+DTEND:20260509T220700Z
+SUMMARY:Los Angeles Angels @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-10-los-angeles-angels-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260510T173700Z
+DTEND:20260510T203700Z
+SUMMARY:Los Angeles Angels @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-11-los-angeles-angels-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260511T221000Z
+DTEND:20260512T011000Z
+SUMMARY:Los Angeles Angels @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-12-los-angeles-angels-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260512T221000Z
+DTEND:20260513T011000Z
+SUMMARY:Los Angeles Angels @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-13-los-angeles-angels-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260513T171000Z
+DTEND:20260513T201000Z
+SUMMARY:Los Angeles Angels @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-15-los-angeles-dodgers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260516T013800Z
+DTEND:20260516T043800Z
+SUMMARY:Los Angeles Dodgers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-16-los-angeles-dodgers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260517T013800Z
+DTEND:20260517T043800Z
+SUMMARY:Los Angeles Dodgers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-17-los-angeles-dodgers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260517T200700Z
+DTEND:20260517T230700Z
+SUMMARY:Los Angeles Dodgers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-18-athletics-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260519T013800Z
+DTEND:20260519T043800Z
+SUMMARY:Athletics @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nAthletics @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-19-athletics-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260520T013800Z
+DTEND:20260520T043800Z
+SUMMARY:Athletics @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nAthletics @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-20-athletics-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260521T013800Z
+DTEND:20260521T043800Z
+SUMMARY:Athletics @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nAthletics @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-21-athletics-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260522T013800Z
+DTEND:20260522T043800Z
+SUMMARY:Athletics @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nAthletics @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-22-texas-rangers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260523T013800Z
+DTEND:20260523T043800Z
+SUMMARY:Texas Rangers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nTexas Rangers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-23-texas-rangers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260524T020500Z
+DTEND:20260524T050500Z
+SUMMARY:Texas Rangers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nTexas Rangers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-24-texas-rangers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260524T232000Z
+DTEND:20260525T022000Z
+SUMMARY:Texas Rangers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nTexas Rangers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-26-los-angeles-angels-vs-detroit-tigers@open-sports-cal
+DTSTART:20260526T224000Z
+DTEND:20260527T014000Z
+SUMMARY:Los Angeles Angels @ Detroit Tigers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-27-los-angeles-angels-vs-detroit-tigers@open-sports-cal
+DTSTART:20260527T224000Z
+DTEND:20260528T014000Z
+SUMMARY:Los Angeles Angels @ Detroit Tigers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-28-los-angeles-angels-vs-detroit-tigers@open-sports-cal
+DTSTART:20260528T171000Z
+DTEND:20260528T201000Z
+SUMMARY:Los Angeles Angels @ Detroit Tigers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-29-los-angeles-angels-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260529T231000Z
+DTEND:20260530T021000Z
+SUMMARY:Los Angeles Angels @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-30-los-angeles-angels-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260530T201000Z
+DTEND:20260530T231000Z
+SUMMARY:Los Angeles Angels @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-31-los-angeles-angels-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260531T174000Z
+DTEND:20260531T204000Z
+SUMMARY:Los Angeles Angels @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-01-colorado-rockies-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260602T013800Z
+DTEND:20260602T043800Z
+SUMMARY:Colorado Rockies @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nColorado Rockies @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-02-colorado-rockies-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260603T013800Z
+DTEND:20260603T043800Z
+SUMMARY:Colorado Rockies @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nColorado Rockies @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-03-colorado-rockies-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260604T013800Z
+DTEND:20260604T043800Z
+SUMMARY:Colorado Rockies @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nColorado Rockies @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-05-los-angeles-angels-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260606T021000Z
+DTEND:20260606T051000Z
+SUMMARY:Los Angeles Angels @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-06-los-angeles-angels-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260607T021000Z
+DTEND:20260607T051000Z
+SUMMARY:Los Angeles Angels @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-07-los-angeles-angels-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260607T201000Z
+DTEND:20260607T231000Z
+SUMMARY:Los Angeles Angels @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-08-houston-astros-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260609T013800Z
+DTEND:20260609T043800Z
+SUMMARY:Houston Astros @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nHouston Astros @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-09-houston-astros-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260610T013800Z
+DTEND:20260610T043800Z
+SUMMARY:Houston Astros @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nHouston Astros @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-10-houston-astros-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260611T013800Z
+DTEND:20260611T043800Z
+SUMMARY:Houston Astros @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nHouston Astros @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-12-tampa-bay-rays-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260613T013800Z
+DTEND:20260613T043800Z
+SUMMARY:Tampa Bay Rays @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-13-tampa-bay-rays-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260614T020700Z
+DTEND:20260614T050700Z
+SUMMARY:Tampa Bay Rays @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-14-tampa-bay-rays-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260614T200700Z
+DTEND:20260614T230700Z
+SUMMARY:Tampa Bay Rays @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-15-los-angeles-angels-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260616T014000Z
+DTEND:20260616T044000Z
+SUMMARY:Los Angeles Angels @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-16-los-angeles-angels-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260617T014000Z
+DTEND:20260617T044000Z
+SUMMARY:Los Angeles Angels @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-17-los-angeles-angels-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260617T194000Z
+DTEND:20260617T224000Z
+SUMMARY:Los Angeles Angels @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-18-los-angeles-angels-vs-athletics@open-sports-cal
+DTSTART:20260619T014000Z
+DTEND:20260619T044000Z
+SUMMARY:Los Angeles Angels @ Athletics
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-19-los-angeles-angels-vs-athletics@open-sports-cal
+DTSTART:20260620T014000Z
+DTEND:20260620T044000Z
+SUMMARY:Los Angeles Angels @ Athletics
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-20-los-angeles-angels-vs-athletics@open-sports-cal
+DTSTART:20260621T020500Z
+DTEND:20260621T050500Z
+SUMMARY:Los Angeles Angels @ Athletics
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-21-los-angeles-angels-vs-athletics@open-sports-cal
+DTSTART:20260621T200500Z
+DTEND:20260621T230500Z
+SUMMARY:Los Angeles Angels @ Athletics
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-22-baltimore-orioles-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260623T013800Z
+DTEND:20260623T043800Z
+SUMMARY:Baltimore Orioles @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-23-baltimore-orioles-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260624T013800Z
+DTEND:20260624T043800Z
+SUMMARY:Baltimore Orioles @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-24-baltimore-orioles-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260624T200700Z
+DTEND:20260624T230700Z
+SUMMARY:Baltimore Orioles @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-26-athletics-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260627T013800Z
+DTEND:20260627T043800Z
+SUMMARY:Athletics @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nAthletics @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-27-athletics-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260628T013800Z
+DTEND:20260628T043800Z
+SUMMARY:Athletics @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nAthletics @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-28-athletics-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260628T191500Z
+DTEND:20260628T221500Z
+SUMMARY:Athletics @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nAthletics @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-29-los-angeles-angels-vs-seattle-mariners@open-sports-cal
+DTSTART:20260630T014000Z
+DTEND:20260630T044000Z
+SUMMARY:Los Angeles Angels @ Seattle Mariners
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-30-los-angeles-angels-vs-seattle-mariners@open-sports-cal
+DTSTART:20260701T014000Z
+DTEND:20260701T044000Z
+SUMMARY:Los Angeles Angels @ Seattle Mariners
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-02-los-angeles-angels-vs-seattle-mariners@open-sports-cal
+DTSTART:20260703T014000Z
+DTEND:20260703T044000Z
+SUMMARY:Los Angeles Angels @ Seattle Mariners
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-03-boston-red-sox-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260704T013800Z
+DTEND:20260704T043800Z
+SUMMARY:Boston Red Sox @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-04-boston-red-sox-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260705T013800Z
+DTEND:20260705T043800Z
+SUMMARY:Boston Red Sox @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-05-boston-red-sox-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260706T013000Z
+DTEND:20260706T043000Z
+SUMMARY:Boston Red Sox @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-07-los-angeles-angels-vs-texas-rangers@open-sports-cal
+DTSTART:20260708T000500Z
+DTEND:20260708T030500Z
+SUMMARY:Los Angeles Angels @ Texas Rangers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-08-los-angeles-angels-vs-texas-rangers@open-sports-cal
+DTSTART:20260709T000500Z
+DTEND:20260709T030500Z
+SUMMARY:Los Angeles Angels @ Texas Rangers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-09-los-angeles-angels-vs-texas-rangers@open-sports-cal
+DTSTART:20260710T000500Z
+DTEND:20260710T030500Z
+SUMMARY:Los Angeles Angels @ Texas Rangers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-10-los-angeles-angels-vs-minnesota-twins@open-sports-cal
+DTSTART:20260711T001000Z
+DTEND:20260711T031000Z
+SUMMARY:Los Angeles Angels @ Minnesota Twins
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-11-los-angeles-angels-vs-minnesota-twins@open-sports-cal
+DTSTART:20260711T181000Z
+DTEND:20260711T211000Z
+SUMMARY:Los Angeles Angels @ Minnesota Twins
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-12-los-angeles-angels-vs-minnesota-twins@open-sports-cal
+DTSTART:20260712T181000Z
+DTEND:20260712T211000Z
+SUMMARY:Los Angeles Angels @ Minnesota Twins
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-17-detroit-tigers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260718T013800Z
+DTEND:20260718T043800Z
+SUMMARY:Detroit Tigers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-18-detroit-tigers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260719T020700Z
+DTEND:20260719T050700Z
+SUMMARY:Detroit Tigers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-19-detroit-tigers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260719T200700Z
+DTEND:20260719T230700Z
+SUMMARY:Detroit Tigers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-20-st-louis-cardinals-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260721T021000Z
+DTEND:20260721T051000Z
+SUMMARY:St. Louis Cardinals @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-21-st-louis-cardinals-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260722T013800Z
+DTEND:20260722T043800Z
+SUMMARY:St. Louis Cardinals @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-22-st-louis-cardinals-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260722T200700Z
+DTEND:20260722T230700Z
+SUMMARY:St. Louis Cardinals @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-24-los-angeles-angels-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260725T021500Z
+DTEND:20260725T051500Z
+SUMMARY:Los Angeles Angels @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-25-los-angeles-angels-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260725T200500Z
+DTEND:20260725T230500Z
+SUMMARY:Los Angeles Angels @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-26-los-angeles-angels-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260726T200500Z
+DTEND:20260726T230500Z
+SUMMARY:Los Angeles Angels @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-27-houston-astros-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260728T013800Z
+DTEND:20260728T043800Z
+SUMMARY:Houston Astros @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nHouston Astros @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-28-houston-astros-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260729T013800Z
+DTEND:20260729T043800Z
+SUMMARY:Houston Astros @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nHouston Astros @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-29-houston-astros-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260730T013800Z
+DTEND:20260730T043800Z
+SUMMARY:Houston Astros @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nHouston Astros @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-31-milwaukee-brewers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260801T013800Z
+DTEND:20260801T043800Z
+SUMMARY:Milwaukee Brewers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-01-milwaukee-brewers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260802T013800Z
+DTEND:20260802T043800Z
+SUMMARY:Milwaukee Brewers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-02-milwaukee-brewers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260802T191500Z
+DTEND:20260802T221500Z
+SUMMARY:Milwaukee Brewers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-04-los-angeles-angels-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260804T223500Z
+DTEND:20260805T013500Z
+SUMMARY:Los Angeles Angels @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-05-los-angeles-angels-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260805T223500Z
+DTEND:20260806T013500Z
+SUMMARY:Los Angeles Angels @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-06-los-angeles-angels-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260806T163500Z
+DTEND:20260806T193500Z
+SUMMARY:Los Angeles Angels @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-07-los-angeles-angels-vs-miami-marlins@open-sports-cal
+DTSTART:20260807T231000Z
+DTEND:20260808T021000Z
+SUMMARY:Los Angeles Angels @ Miami Marlins
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-08-los-angeles-angels-vs-miami-marlins@open-sports-cal
+DTSTART:20260808T201000Z
+DTEND:20260808T231000Z
+SUMMARY:Los Angeles Angels @ Miami Marlins
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-09-los-angeles-angels-vs-miami-marlins@open-sports-cal
+DTSTART:20260809T174000Z
+DTEND:20260809T204000Z
+SUMMARY:Los Angeles Angels @ Miami Marlins
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-10-texas-rangers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260811T013800Z
+DTEND:20260811T043800Z
+SUMMARY:Texas Rangers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nTexas Rangers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-11-texas-rangers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260812T013800Z
+DTEND:20260812T043800Z
+SUMMARY:Texas Rangers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nTexas Rangers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-12-texas-rangers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260813T021000Z
+DTEND:20260813T051000Z
+SUMMARY:Texas Rangers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nTexas Rangers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-13-texas-rangers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260814T020700Z
+DTEND:20260814T050700Z
+SUMMARY:Texas Rangers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nTexas Rangers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-14-kansas-city-royals-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260815T013800Z
+DTEND:20260815T043800Z
+SUMMARY:Kansas City Royals @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nKansas City Royals @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-15-kansas-city-royals-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260816T013800Z
+DTEND:20260816T043800Z
+SUMMARY:Kansas City Royals @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nKansas City Royals @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-16-kansas-city-royals-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260816T200700Z
+DTEND:20260816T230700Z
+SUMMARY:Kansas City Royals @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nKansas City Royals @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-18-los-angeles-angels-vs-houston-astros@open-sports-cal
+DTSTART:20260819T001000Z
+DTEND:20260819T031000Z
+SUMMARY:Los Angeles Angels @ Houston Astros
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-19-los-angeles-angels-vs-houston-astros@open-sports-cal
+DTSTART:20260820T001000Z
+DTEND:20260820T031000Z
+SUMMARY:Los Angeles Angels @ Houston Astros
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-20-los-angeles-angels-vs-houston-astros@open-sports-cal
+DTSTART:20260821T001000Z
+DTEND:20260821T031000Z
+SUMMARY:Los Angeles Angels @ Houston Astros
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-21-los-angeles-angels-vs-texas-rangers@open-sports-cal
+DTSTART:20260822T000500Z
+DTEND:20260822T030500Z
+SUMMARY:Los Angeles Angels @ Texas Rangers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-22-los-angeles-angels-vs-texas-rangers@open-sports-cal
+DTSTART:20260822T230500Z
+DTEND:20260823T020500Z
+SUMMARY:Los Angeles Angels @ Texas Rangers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-23-los-angeles-angels-vs-texas-rangers@open-sports-cal
+DTSTART:20260823T183500Z
+DTEND:20260823T213500Z
+SUMMARY:Los Angeles Angels @ Texas Rangers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-24-cleveland-guardians-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260825T013800Z
+DTEND:20260825T043800Z
+SUMMARY:Cleveland Guardians @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-25-cleveland-guardians-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260826T013800Z
+DTEND:20260826T043800Z
+SUMMARY:Cleveland Guardians @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-26-cleveland-guardians-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260826T200700Z
+DTEND:20260826T230700Z
+SUMMARY:Cleveland Guardians @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-28-philadelphia-phillies-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260829T013800Z
+DTEND:20260829T043800Z
+SUMMARY:Philadelphia Phillies @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-29-philadelphia-phillies-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260830T020700Z
+DTEND:20260830T050700Z
+SUMMARY:Philadelphia Phillies @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-30-philadelphia-phillies-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260830T200700Z
+DTEND:20260830T230700Z
+SUMMARY:Philadelphia Phillies @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-31-new-york-yankees-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260901T013800Z
+DTEND:20260901T043800Z
+SUMMARY:New York Yankees @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nNew York Yankees @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-01-new-york-yankees-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260902T013800Z
+DTEND:20260902T043800Z
+SUMMARY:New York Yankees @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nNew York Yankees @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-02-new-york-yankees-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260903T013800Z
+DTEND:20260903T043800Z
+SUMMARY:New York Yankees @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nNew York Yankees @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-04-los-angeles-angels-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260904T224000Z
+DTEND:20260905T014000Z
+SUMMARY:Los Angeles Angels @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-05-los-angeles-angels-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260905T224000Z
+DTEND:20260906T014000Z
+SUMMARY:Los Angeles Angels @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-06-los-angeles-angels-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260906T173500Z
+DTEND:20260906T203500Z
+SUMMARY:Los Angeles Angels @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-07-los-angeles-angels-vs-boston-red-sox@open-sports-cal
+DTSTART:20260907T173500Z
+DTEND:20260907T203500Z
+SUMMARY:Los Angeles Angels @ Boston Red Sox
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-08-los-angeles-angels-vs-boston-red-sox@open-sports-cal
+DTSTART:20260908T224500Z
+DTEND:20260909T014500Z
+SUMMARY:Los Angeles Angels @ Boston Red Sox
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-09-los-angeles-angels-vs-boston-red-sox@open-sports-cal
+DTSTART:20260909T224500Z
+DTEND:20260910T014500Z
+SUMMARY:Los Angeles Angels @ Boston Red Sox
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-11-los-angeles-angels-vs-washington-nationals@open-sports-cal
+DTSTART:20260911T224500Z
+DTEND:20260912T014500Z
+SUMMARY:Los Angeles Angels @ Washington Nationals
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-12-los-angeles-angels-vs-washington-nationals@open-sports-cal
+DTSTART:20260912T200500Z
+DTEND:20260912T230500Z
+SUMMARY:Los Angeles Angels @ Washington Nationals
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-13-los-angeles-angels-vs-washington-nationals@open-sports-cal
+DTSTART:20260913T173500Z
+DTEND:20260913T203500Z
+SUMMARY:Los Angeles Angels @ Washington Nationals
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-14-seattle-mariners-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260915T013800Z
+DTEND:20260915T043800Z
+SUMMARY:Seattle Mariners @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-15-seattle-mariners-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260916T013800Z
+DTEND:20260916T043800Z
+SUMMARY:Seattle Mariners @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-16-seattle-mariners-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260917T013800Z
+DTEND:20260917T043800Z
+SUMMARY:Seattle Mariners @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-17-minnesota-twins-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260918T013800Z
+DTEND:20260918T043800Z
+SUMMARY:Minnesota Twins @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-18-minnesota-twins-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260919T013800Z
+DTEND:20260919T043800Z
+SUMMARY:Minnesota Twins @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-19-minnesota-twins-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260920T013800Z
+DTEND:20260920T043800Z
+SUMMARY:Minnesota Twins @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-20-minnesota-twins-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260920T200700Z
+DTEND:20260920T230700Z
+SUMMARY:Minnesota Twins @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-22-los-angeles-angels-vs-athletics@open-sports-cal
+DTSTART:20260923T014000Z
+DTEND:20260923T044000Z
+SUMMARY:Los Angeles Angels @ Athletics
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-23-los-angeles-angels-vs-athletics@open-sports-cal
+DTSTART:20260924T014000Z
+DTEND:20260924T044000Z
+SUMMARY:Los Angeles Angels @ Athletics
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-24-los-angeles-angels-vs-seattle-mariners@open-sports-cal
+DTSTART:20260925T014000Z
+DTEND:20260925T044000Z
+SUMMARY:Los Angeles Angels @ Seattle Mariners
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-25-los-angeles-angels-vs-seattle-mariners@open-sports-cal
+DTSTART:20260926T021000Z
+DTEND:20260926T051000Z
+SUMMARY:Los Angeles Angels @ Seattle Mariners
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-26-los-angeles-angels-vs-seattle-mariners@open-sports-cal
+DTSTART:20260927T014000Z
+DTEND:20260927T044000Z
+SUMMARY:Los Angeles Angels @ Seattle Mariners
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-27-los-angeles-angels-vs-seattle-mariners@open-sports-cal
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:Los Angeles Angels @ Seattle Mariners
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+END:VCALENDAR

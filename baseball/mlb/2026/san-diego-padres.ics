@@ -1,0 +1,1790 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MLB 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLB 2026 - San Diego Padres
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-26-detroit-tigers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260326T201000Z
+DTEND:20260326T231000Z
+SUMMARY:Detroit Tigers @ San Diego Padres
+DESCRIPTION:MLB 2026\nDetroit Tigers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-27-detroit-tigers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260328T014000Z
+DTEND:20260328T044000Z
+SUMMARY:Detroit Tigers @ San Diego Padres
+DESCRIPTION:MLB 2026\nDetroit Tigers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-28-detroit-tigers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260329T004000Z
+DTEND:20260329T034000Z
+SUMMARY:Detroit Tigers @ San Diego Padres
+DESCRIPTION:MLB 2026\nDetroit Tigers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-30-san-francisco-giants-vs-san-diego-padres@open-sports-cal
+DTSTART:20260331T014000Z
+DTEND:20260331T044000Z
+SUMMARY:San Francisco Giants @ San Diego Padres
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-31-san-francisco-giants-vs-san-diego-padres@open-sports-cal
+DTSTART:20260401T014000Z
+DTEND:20260401T044000Z
+SUMMARY:San Francisco Giants @ San Diego Padres
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-01-san-francisco-giants-vs-san-diego-padres@open-sports-cal
+DTSTART:20260401T201000Z
+DTEND:20260401T231000Z
+SUMMARY:San Francisco Giants @ San Diego Padres
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-03-san-diego-padres-vs-boston-red-sox@open-sports-cal
+DTSTART:20260403T181000Z
+DTEND:20260403T211000Z
+SUMMARY:San Diego Padres @ Boston Red Sox
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-04-san-diego-padres-vs-boston-red-sox@open-sports-cal
+DTSTART:20260404T201000Z
+DTEND:20260404T231000Z
+SUMMARY:San Diego Padres @ Boston Red Sox
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-05-san-diego-padres-vs-boston-red-sox@open-sports-cal
+DTSTART:20260405T173500Z
+DTEND:20260405T203500Z
+SUMMARY:San Diego Padres @ Boston Red Sox
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-06-san-diego-padres-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260406T224000Z
+DTEND:20260407T014000Z
+SUMMARY:San Diego Padres @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-07-san-diego-padres-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260407T224000Z
+DTEND:20260408T014000Z
+SUMMARY:San Diego Padres @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-08-san-diego-padres-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260408T163500Z
+DTEND:20260408T193500Z
+SUMMARY:San Diego Padres @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-09-colorado-rockies-vs-san-diego-padres@open-sports-cal
+DTSTART:20260410T014000Z
+DTEND:20260410T044000Z
+SUMMARY:Colorado Rockies @ San Diego Padres
+DESCRIPTION:MLB 2026\nColorado Rockies @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-10-colorado-rockies-vs-san-diego-padres@open-sports-cal
+DTSTART:20260411T014000Z
+DTEND:20260411T044000Z
+SUMMARY:Colorado Rockies @ San Diego Padres
+DESCRIPTION:MLB 2026\nColorado Rockies @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-11-colorado-rockies-vs-san-diego-padres@open-sports-cal
+DTSTART:20260412T004000Z
+DTEND:20260412T034000Z
+SUMMARY:Colorado Rockies @ San Diego Padres
+DESCRIPTION:MLB 2026\nColorado Rockies @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-12-colorado-rockies-vs-san-diego-padres@open-sports-cal
+DTSTART:20260412T201000Z
+DTEND:20260412T231000Z
+SUMMARY:Colorado Rockies @ San Diego Padres
+DESCRIPTION:MLB 2026\nColorado Rockies @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-14-seattle-mariners-vs-san-diego-padres@open-sports-cal
+DTSTART:20260415T014000Z
+DTEND:20260415T044000Z
+SUMMARY:Seattle Mariners @ San Diego Padres
+DESCRIPTION:MLB 2026\nSeattle Mariners @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-15-seattle-mariners-vs-san-diego-padres@open-sports-cal
+DTSTART:20260416T014000Z
+DTEND:20260416T044000Z
+SUMMARY:Seattle Mariners @ San Diego Padres
+DESCRIPTION:MLB 2026\nSeattle Mariners @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-16-seattle-mariners-vs-san-diego-padres@open-sports-cal
+DTSTART:20260417T004000Z
+DTEND:20260417T034000Z
+SUMMARY:Seattle Mariners @ San Diego Padres
+DESCRIPTION:MLB 2026\nSeattle Mariners @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-17-san-diego-padres-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260418T013800Z
+DTEND:20260418T043800Z
+SUMMARY:San Diego Padres @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-18-san-diego-padres-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260419T013800Z
+DTEND:20260419T043800Z
+SUMMARY:San Diego Padres @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-19-san-diego-padres-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260419T200700Z
+DTEND:20260419T230700Z
+SUMMARY:San Diego Padres @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-21-san-diego-padres-vs-colorado-rockies@open-sports-cal
+DTSTART:20260422T004000Z
+DTEND:20260422T034000Z
+SUMMARY:San Diego Padres @ Colorado Rockies
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-22-san-diego-padres-vs-colorado-rockies@open-sports-cal
+DTSTART:20260423T004000Z
+DTEND:20260423T034000Z
+SUMMARY:San Diego Padres @ Colorado Rockies
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-23-san-diego-padres-vs-colorado-rockies@open-sports-cal
+DTSTART:20260423T191000Z
+DTEND:20260423T221000Z
+SUMMARY:San Diego Padres @ Colorado Rockies
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-25-san-diego-padres-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260425T220500Z
+DTEND:20260426T010500Z
+SUMMARY:San Diego Padres @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Arizona Diamondbacks\nEstadio Alfredo Harp Helu
+LOCATION:Estadio Alfredo Harp Helu
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-26-san-diego-padres-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260426T200500Z
+DTEND:20260426T230500Z
+SUMMARY:San Diego Padres @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Arizona Diamondbacks\nEstadio Alfredo Harp Helu
+LOCATION:Estadio Alfredo Harp Helu
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-27-chicago-cubs-vs-san-diego-padres@open-sports-cal
+DTSTART:20260428T014000Z
+DTEND:20260428T044000Z
+SUMMARY:Chicago Cubs @ San Diego Padres
+DESCRIPTION:MLB 2026\nChicago Cubs @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-28-chicago-cubs-vs-san-diego-padres@open-sports-cal
+DTSTART:20260429T014000Z
+DTEND:20260429T044000Z
+SUMMARY:Chicago Cubs @ San Diego Padres
+DESCRIPTION:MLB 2026\nChicago Cubs @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-29-chicago-cubs-vs-san-diego-padres@open-sports-cal
+DTSTART:20260429T201000Z
+DTEND:20260429T231000Z
+SUMMARY:Chicago Cubs @ San Diego Padres
+DESCRIPTION:MLB 2026\nChicago Cubs @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-01-chicago-white-sox-vs-san-diego-padres@open-sports-cal
+DTSTART:20260502T014000Z
+DTEND:20260502T044000Z
+SUMMARY:Chicago White Sox @ San Diego Padres
+DESCRIPTION:MLB 2026\nChicago White Sox @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-02-chicago-white-sox-vs-san-diego-padres@open-sports-cal
+DTSTART:20260503T004000Z
+DTEND:20260503T034000Z
+SUMMARY:Chicago White Sox @ San Diego Padres
+DESCRIPTION:MLB 2026\nChicago White Sox @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-03-chicago-white-sox-vs-san-diego-padres@open-sports-cal
+DTSTART:20260503T201000Z
+DTEND:20260503T231000Z
+SUMMARY:Chicago White Sox @ San Diego Padres
+DESCRIPTION:MLB 2026\nChicago White Sox @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-04-san-diego-padres-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260505T014500Z
+DTEND:20260505T044500Z
+SUMMARY:San Diego Padres @ San Francisco Giants
+DESCRIPTION:MLB 2026\nSan Diego Padres @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-05-san-diego-padres-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260506T014500Z
+DTEND:20260506T044500Z
+SUMMARY:San Diego Padres @ San Francisco Giants
+DESCRIPTION:MLB 2026\nSan Diego Padres @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-06-san-diego-padres-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260506T194500Z
+DTEND:20260506T224500Z
+SUMMARY:San Diego Padres @ San Francisco Giants
+DESCRIPTION:MLB 2026\nSan Diego Padres @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-07-st-louis-cardinals-vs-san-diego-padres@open-sports-cal
+DTSTART:20260508T021000Z
+DTEND:20260508T051000Z
+SUMMARY:St. Louis Cardinals @ San Diego Padres
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-08-st-louis-cardinals-vs-san-diego-padres@open-sports-cal
+DTSTART:20260509T014500Z
+DTEND:20260509T044500Z
+SUMMARY:St. Louis Cardinals @ San Diego Padres
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-09-st-louis-cardinals-vs-san-diego-padres@open-sports-cal
+DTSTART:20260509T231500Z
+DTEND:20260510T021500Z
+SUMMARY:St. Louis Cardinals @ San Diego Padres
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-10-st-louis-cardinals-vs-san-diego-padres@open-sports-cal
+DTSTART:20260510T201000Z
+DTEND:20260510T231000Z
+SUMMARY:St. Louis Cardinals @ San Diego Padres
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-12-san-diego-padres-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260512T234000Z
+DTEND:20260513T024000Z
+SUMMARY:San Diego Padres @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-13-san-diego-padres-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260513T234000Z
+DTEND:20260514T024000Z
+SUMMARY:San Diego Padres @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-14-san-diego-padres-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260514T174000Z
+DTEND:20260514T204000Z
+SUMMARY:San Diego Padres @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-15-san-diego-padres-vs-seattle-mariners@open-sports-cal
+DTSTART:20260516T014000Z
+DTEND:20260516T044000Z
+SUMMARY:San Diego Padres @ Seattle Mariners
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-16-san-diego-padres-vs-seattle-mariners@open-sports-cal
+DTSTART:20260516T231500Z
+DTEND:20260517T021500Z
+SUMMARY:San Diego Padres @ Seattle Mariners
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-17-san-diego-padres-vs-seattle-mariners@open-sports-cal
+DTSTART:20260517T232000Z
+DTEND:20260518T022000Z
+SUMMARY:San Diego Padres @ Seattle Mariners
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-18-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260519T014000Z
+DTEND:20260519T044000Z
+SUMMARY:Los Angeles Dodgers @ San Diego Padres
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-19-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260520T014000Z
+DTEND:20260520T044000Z
+SUMMARY:Los Angeles Dodgers @ San Diego Padres
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-20-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260521T004000Z
+DTEND:20260521T034000Z
+SUMMARY:Los Angeles Dodgers @ San Diego Padres
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-22-athletics-vs-san-diego-padres@open-sports-cal
+DTSTART:20260523T014000Z
+DTEND:20260523T044000Z
+SUMMARY:Athletics @ San Diego Padres
+DESCRIPTION:MLB 2026\nAthletics @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-23-athletics-vs-san-diego-padres@open-sports-cal
+DTSTART:20260524T014000Z
+DTEND:20260524T044000Z
+SUMMARY:Athletics @ San Diego Padres
+DESCRIPTION:MLB 2026\nAthletics @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-24-athletics-vs-san-diego-padres@open-sports-cal
+DTSTART:20260524T201000Z
+DTEND:20260524T231000Z
+SUMMARY:Athletics @ San Diego Padres
+DESCRIPTION:MLB 2026\nAthletics @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-25-philadelphia-phillies-vs-san-diego-padres@open-sports-cal
+DTSTART:20260525T224000Z
+DTEND:20260526T014000Z
+SUMMARY:Philadelphia Phillies @ San Diego Padres
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-26-philadelphia-phillies-vs-san-diego-padres@open-sports-cal
+DTSTART:20260527T014000Z
+DTEND:20260527T044000Z
+SUMMARY:Philadelphia Phillies @ San Diego Padres
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-27-philadelphia-phillies-vs-san-diego-padres@open-sports-cal
+DTSTART:20260527T201000Z
+DTEND:20260527T231000Z
+SUMMARY:Philadelphia Phillies @ San Diego Padres
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-29-san-diego-padres-vs-washington-nationals@open-sports-cal
+DTSTART:20260529T224500Z
+DTEND:20260530T014500Z
+SUMMARY:San Diego Padres @ Washington Nationals
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-30-san-diego-padres-vs-washington-nationals@open-sports-cal
+DTSTART:20260530T200500Z
+DTEND:20260530T230500Z
+SUMMARY:San Diego Padres @ Washington Nationals
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-31-san-diego-padres-vs-washington-nationals@open-sports-cal
+DTSTART:20260531T173500Z
+DTEND:20260531T203500Z
+SUMMARY:San Diego Padres @ Washington Nationals
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-02-san-diego-padres-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260602T224000Z
+DTEND:20260603T014000Z
+SUMMARY:San Diego Padres @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-03-san-diego-padres-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260603T224000Z
+DTEND:20260604T014000Z
+SUMMARY:San Diego Padres @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-04-san-diego-padres-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260604T170500Z
+DTEND:20260604T200500Z
+SUMMARY:San Diego Padres @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-05-new-york-mets-vs-san-diego-padres@open-sports-cal
+DTSTART:20260606T014000Z
+DTEND:20260606T044000Z
+SUMMARY:New York Mets @ San Diego Padres
+DESCRIPTION:MLB 2026\nNew York Mets @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-06-new-york-mets-vs-san-diego-padres@open-sports-cal
+DTSTART:20260607T021000Z
+DTEND:20260607T051000Z
+SUMMARY:New York Mets @ San Diego Padres
+DESCRIPTION:MLB 2026\nNew York Mets @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-07-new-york-mets-vs-san-diego-padres@open-sports-cal
+DTSTART:20260607T201000Z
+DTEND:20260607T231000Z
+SUMMARY:New York Mets @ San Diego Padres
+DESCRIPTION:MLB 2026\nNew York Mets @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-08-cincinnati-reds-vs-san-diego-padres@open-sports-cal
+DTSTART:20260609T014000Z
+DTEND:20260609T044000Z
+SUMMARY:Cincinnati Reds @ San Diego Padres
+DESCRIPTION:MLB 2026\nCincinnati Reds @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-09-cincinnati-reds-vs-san-diego-padres@open-sports-cal
+DTSTART:20260610T014000Z
+DTEND:20260610T044000Z
+SUMMARY:Cincinnati Reds @ San Diego Padres
+DESCRIPTION:MLB 2026\nCincinnati Reds @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-10-cincinnati-reds-vs-san-diego-padres@open-sports-cal
+DTSTART:20260610T201000Z
+DTEND:20260610T231000Z
+SUMMARY:Cincinnati Reds @ San Diego Padres
+DESCRIPTION:MLB 2026\nCincinnati Reds @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-12-san-diego-padres-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260612T230500Z
+DTEND:20260613T020500Z
+SUMMARY:San Diego Padres @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-13-san-diego-padres-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260613T200500Z
+DTEND:20260613T230500Z
+SUMMARY:San Diego Padres @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-14-san-diego-padres-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260614T173500Z
+DTEND:20260614T203500Z
+SUMMARY:San Diego Padres @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-15-san-diego-padres-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260615T234500Z
+DTEND:20260616T024500Z
+SUMMARY:San Diego Padres @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nSan Diego Padres @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-16-san-diego-padres-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260616T234500Z
+DTEND:20260617T024500Z
+SUMMARY:San Diego Padres @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nSan Diego Padres @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-17-san-diego-padres-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260617T181500Z
+DTEND:20260617T211500Z
+SUMMARY:San Diego Padres @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nSan Diego Padres @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-19-san-diego-padres-vs-texas-rangers@open-sports-cal
+DTSTART:20260620T000500Z
+DTEND:20260620T030500Z
+SUMMARY:San Diego Padres @ Texas Rangers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-20-san-diego-padres-vs-texas-rangers@open-sports-cal
+DTSTART:20260620T200500Z
+DTEND:20260620T230500Z
+SUMMARY:San Diego Padres @ Texas Rangers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-21-san-diego-padres-vs-texas-rangers@open-sports-cal
+DTSTART:20260621T183500Z
+DTEND:20260621T213500Z
+SUMMARY:San Diego Padres @ Texas Rangers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-22-atlanta-braves-vs-san-diego-padres@open-sports-cal
+DTSTART:20260623T021000Z
+DTEND:20260623T051000Z
+SUMMARY:Atlanta Braves @ San Diego Padres
+DESCRIPTION:MLB 2026\nAtlanta Braves @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-23-atlanta-braves-vs-san-diego-padres@open-sports-cal
+DTSTART:20260624T014000Z
+DTEND:20260624T044000Z
+SUMMARY:Atlanta Braves @ San Diego Padres
+DESCRIPTION:MLB 2026\nAtlanta Braves @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-24-atlanta-braves-vs-san-diego-padres@open-sports-cal
+DTSTART:20260625T004000Z
+DTEND:20260625T034000Z
+SUMMARY:Atlanta Braves @ San Diego Padres
+DESCRIPTION:MLB 2026\nAtlanta Braves @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-26-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260627T014500Z
+DTEND:20260627T044500Z
+SUMMARY:Los Angeles Dodgers @ San Diego Padres
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-27-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260628T004000Z
+DTEND:20260628T034000Z
+SUMMARY:Los Angeles Dodgers @ San Diego Padres
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-28-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260628T201000Z
+DTEND:20260628T231000Z
+SUMMARY:Los Angeles Dodgers @ San Diego Padres
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-29-san-diego-padres-vs-chicago-cubs@open-sports-cal
+DTSTART:20260630T000500Z
+DTEND:20260630T030500Z
+SUMMARY:San Diego Padres @ Chicago Cubs
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-30-san-diego-padres-vs-chicago-cubs@open-sports-cal
+DTSTART:20260701T000500Z
+DTEND:20260701T030500Z
+SUMMARY:San Diego Padres @ Chicago Cubs
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-01-san-diego-padres-vs-chicago-cubs@open-sports-cal
+DTSTART:20260701T182000Z
+DTEND:20260701T212000Z
+SUMMARY:San Diego Padres @ Chicago Cubs
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-02-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260703T021000Z
+DTEND:20260703T051000Z
+SUMMARY:San Diego Padres @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-03-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260704T021000Z
+DTEND:20260704T051000Z
+SUMMARY:San Diego Padres @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-04-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260705T021000Z
+DTEND:20260705T051000Z
+SUMMARY:San Diego Padres @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-05-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260705T232000Z
+DTEND:20260706T022000Z
+SUMMARY:San Diego Padres @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-06-arizona-diamondbacks-vs-san-diego-padres@open-sports-cal
+DTSTART:20260707T014000Z
+DTEND:20260707T044000Z
+SUMMARY:Arizona Diamondbacks @ San Diego Padres
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-07-arizona-diamondbacks-vs-san-diego-padres@open-sports-cal
+DTSTART:20260708T014000Z
+DTEND:20260708T044000Z
+SUMMARY:Arizona Diamondbacks @ San Diego Padres
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-08-arizona-diamondbacks-vs-san-diego-padres@open-sports-cal
+DTSTART:20260709T021000Z
+DTEND:20260709T051000Z
+SUMMARY:Arizona Diamondbacks @ San Diego Padres
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-09-arizona-diamondbacks-vs-san-diego-padres@open-sports-cal
+DTSTART:20260710T014000Z
+DTEND:20260710T044000Z
+SUMMARY:Arizona Diamondbacks @ San Diego Padres
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-10-toronto-blue-jays-vs-san-diego-padres@open-sports-cal
+DTSTART:20260711T014000Z
+DTEND:20260711T044000Z
+SUMMARY:Toronto Blue Jays @ San Diego Padres
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-11-toronto-blue-jays-vs-san-diego-padres@open-sports-cal
+DTSTART:20260712T004000Z
+DTEND:20260712T034000Z
+SUMMARY:Toronto Blue Jays @ San Diego Padres
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-12-toronto-blue-jays-vs-san-diego-padres@open-sports-cal
+DTSTART:20260712T201000Z
+DTEND:20260712T231000Z
+SUMMARY:Toronto Blue Jays @ San Diego Padres
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-17-san-diego-padres-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260718T001000Z
+DTEND:20260718T031000Z
+SUMMARY:San Diego Padres @ Kansas City Royals
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-18-san-diego-padres-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260718T201000Z
+DTEND:20260718T231000Z
+SUMMARY:San Diego Padres @ Kansas City Royals
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-19-san-diego-padres-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260719T181000Z
+DTEND:20260719T211000Z
+SUMMARY:San Diego Padres @ Kansas City Royals
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-20-san-diego-padres-vs-atlanta-braves@open-sports-cal
+DTSTART:20260720T231500Z
+DTEND:20260721T021500Z
+SUMMARY:San Diego Padres @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-21-san-diego-padres-vs-atlanta-braves@open-sports-cal
+DTSTART:20260721T231500Z
+DTEND:20260722T021500Z
+SUMMARY:San Diego Padres @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-22-san-diego-padres-vs-atlanta-braves@open-sports-cal
+DTSTART:20260722T231500Z
+DTEND:20260723T021500Z
+SUMMARY:San Diego Padres @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-23-san-diego-padres-vs-atlanta-braves@open-sports-cal
+DTSTART:20260723T161500Z
+DTEND:20260723T191500Z
+SUMMARY:San Diego Padres @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-24-san-diego-padres-vs-miami-marlins@open-sports-cal
+DTSTART:20260724T231000Z
+DTEND:20260725T021000Z
+SUMMARY:San Diego Padres @ Miami Marlins
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-25-san-diego-padres-vs-miami-marlins@open-sports-cal
+DTSTART:20260725T201000Z
+DTEND:20260725T231000Z
+SUMMARY:San Diego Padres @ Miami Marlins
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-26-san-diego-padres-vs-miami-marlins@open-sports-cal
+DTSTART:20260726T174000Z
+DTEND:20260726T204000Z
+SUMMARY:San Diego Padres @ Miami Marlins
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-28-colorado-rockies-vs-san-diego-padres@open-sports-cal
+DTSTART:20260729T014000Z
+DTEND:20260729T044000Z
+SUMMARY:Colorado Rockies @ San Diego Padres
+DESCRIPTION:MLB 2026\nColorado Rockies @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-29-colorado-rockies-vs-san-diego-padres@open-sports-cal
+DTSTART:20260729T201000Z
+DTEND:20260729T231000Z
+SUMMARY:Colorado Rockies @ San Diego Padres
+DESCRIPTION:MLB 2026\nColorado Rockies @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-30-san-francisco-giants-vs-san-diego-padres@open-sports-cal
+DTSTART:20260731T014000Z
+DTEND:20260731T044000Z
+SUMMARY:San Francisco Giants @ San Diego Padres
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-31-san-francisco-giants-vs-san-diego-padres@open-sports-cal
+DTSTART:20260801T014000Z
+DTEND:20260801T044000Z
+SUMMARY:San Francisco Giants @ San Diego Padres
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-01-san-francisco-giants-vs-san-diego-padres@open-sports-cal
+DTSTART:20260802T004000Z
+DTEND:20260802T034000Z
+SUMMARY:San Francisco Giants @ San Diego Padres
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-02-san-francisco-giants-vs-san-diego-padres@open-sports-cal
+DTSTART:20260802T201000Z
+DTEND:20260802T231000Z
+SUMMARY:San Francisco Giants @ San Diego Padres
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-03-san-diego-padres-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260804T014000Z
+DTEND:20260804T044000Z
+SUMMARY:San Diego Padres @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-04-san-diego-padres-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260805T014000Z
+DTEND:20260805T044000Z
+SUMMARY:San Diego Padres @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-05-san-diego-padres-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260806T014000Z
+DTEND:20260806T044000Z
+SUMMARY:San Diego Padres @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-06-san-diego-padres-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260807T014000Z
+DTEND:20260807T044000Z
+SUMMARY:San Diego Padres @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-07-houston-astros-vs-san-diego-padres@open-sports-cal
+DTSTART:20260808T014000Z
+DTEND:20260808T044000Z
+SUMMARY:Houston Astros @ San Diego Padres
+DESCRIPTION:MLB 2026\nHouston Astros @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-08-houston-astros-vs-san-diego-padres@open-sports-cal
+DTSTART:20260808T231500Z
+DTEND:20260809T021500Z
+SUMMARY:Houston Astros @ San Diego Padres
+DESCRIPTION:MLB 2026\nHouston Astros @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-09-houston-astros-vs-san-diego-padres@open-sports-cal
+DTSTART:20260810T002000Z
+DTEND:20260810T032000Z
+SUMMARY:Houston Astros @ San Diego Padres
+DESCRIPTION:MLB 2026\nHouston Astros @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-10-milwaukee-brewers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260811T014000Z
+DTEND:20260811T044000Z
+SUMMARY:Milwaukee Brewers @ San Diego Padres
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-11-milwaukee-brewers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260812T014000Z
+DTEND:20260812T044000Z
+SUMMARY:Milwaukee Brewers @ San Diego Padres
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-12-milwaukee-brewers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260812T201000Z
+DTEND:20260812T231000Z
+SUMMARY:Milwaukee Brewers @ San Diego Padres
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-14-san-diego-padres-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260814T231000Z
+DTEND:20260815T021000Z
+SUMMARY:San Diego Padres @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-15-san-diego-padres-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260815T231000Z
+DTEND:20260816T021000Z
+SUMMARY:San Diego Padres @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-16-san-diego-padres-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260816T174000Z
+DTEND:20260816T204000Z
+SUMMARY:San Diego Padres @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-17-san-diego-padres-vs-new-york-mets@open-sports-cal
+DTSTART:20260817T231000Z
+DTEND:20260818T021000Z
+SUMMARY:San Diego Padres @ New York Mets
+DESCRIPTION:MLB 2026\nSan Diego Padres @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-18-san-diego-padres-vs-new-york-mets@open-sports-cal
+DTSTART:20260818T231000Z
+DTEND:20260819T021000Z
+SUMMARY:San Diego Padres @ New York Mets
+DESCRIPTION:MLB 2026\nSan Diego Padres @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-19-san-diego-padres-vs-new-york-mets@open-sports-cal
+DTSTART:20260819T171000Z
+DTEND:20260819T201000Z
+SUMMARY:San Diego Padres @ New York Mets
+DESCRIPTION:MLB 2026\nSan Diego Padres @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-21-minnesota-twins-vs-san-diego-padres@open-sports-cal
+DTSTART:20260822T014000Z
+DTEND:20260822T044000Z
+SUMMARY:Minnesota Twins @ San Diego Padres
+DESCRIPTION:MLB 2026\nMinnesota Twins @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-22-minnesota-twins-vs-san-diego-padres@open-sports-cal
+DTSTART:20260823T004000Z
+DTEND:20260823T034000Z
+SUMMARY:Minnesota Twins @ San Diego Padres
+DESCRIPTION:MLB 2026\nMinnesota Twins @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-23-minnesota-twins-vs-san-diego-padres@open-sports-cal
+DTSTART:20260823T201000Z
+DTEND:20260823T231000Z
+SUMMARY:Minnesota Twins @ San Diego Padres
+DESCRIPTION:MLB 2026\nMinnesota Twins @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-24-pittsburgh-pirates-vs-san-diego-padres@open-sports-cal
+DTSTART:20260825T014000Z
+DTEND:20260825T044000Z
+SUMMARY:Pittsburgh Pirates @ San Diego Padres
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-25-pittsburgh-pirates-vs-san-diego-padres@open-sports-cal
+DTSTART:20260826T014000Z
+DTEND:20260826T044000Z
+SUMMARY:Pittsburgh Pirates @ San Diego Padres
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-26-pittsburgh-pirates-vs-san-diego-padres@open-sports-cal
+DTSTART:20260826T201000Z
+DTEND:20260826T231000Z
+SUMMARY:Pittsburgh Pirates @ San Diego Padres
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-28-san-diego-padres-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260828T231000Z
+DTEND:20260829T021000Z
+SUMMARY:San Diego Padres @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-29-san-diego-padres-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260829T201000Z
+DTEND:20260829T231000Z
+SUMMARY:San Diego Padres @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-30-san-diego-padres-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260830T174000Z
+DTEND:20260830T204000Z
+SUMMARY:San Diego Padres @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-31-san-diego-padres-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260831T224000Z
+DTEND:20260901T014000Z
+SUMMARY:San Diego Padres @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-01-san-diego-padres-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260901T224000Z
+DTEND:20260902T014000Z
+SUMMARY:San Diego Padres @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-02-san-diego-padres-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260902T164000Z
+DTEND:20260902T194000Z
+SUMMARY:San Diego Padres @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-04-new-york-yankees-vs-san-diego-padres@open-sports-cal
+DTSTART:20260905T014000Z
+DTEND:20260905T044000Z
+SUMMARY:New York Yankees @ San Diego Padres
+DESCRIPTION:MLB 2026\nNew York Yankees @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-05-new-york-yankees-vs-san-diego-padres@open-sports-cal
+DTSTART:20260906T004000Z
+DTEND:20260906T034000Z
+SUMMARY:New York Yankees @ San Diego Padres
+DESCRIPTION:MLB 2026\nNew York Yankees @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-06-new-york-yankees-vs-san-diego-padres@open-sports-cal
+DTSTART:20260906T201000Z
+DTEND:20260906T231000Z
+SUMMARY:New York Yankees @ San Diego Padres
+DESCRIPTION:MLB 2026\nNew York Yankees @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-07-washington-nationals-vs-san-diego-padres@open-sports-cal
+DTSTART:20260907T211000Z
+DTEND:20260908T001000Z
+SUMMARY:Washington Nationals @ San Diego Padres
+DESCRIPTION:MLB 2026\nWashington Nationals @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-08-washington-nationals-vs-san-diego-padres@open-sports-cal
+DTSTART:20260909T014000Z
+DTEND:20260909T044000Z
+SUMMARY:Washington Nationals @ San Diego Padres
+DESCRIPTION:MLB 2026\nWashington Nationals @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-09-washington-nationals-vs-san-diego-padres@open-sports-cal
+DTSTART:20260909T201000Z
+DTEND:20260909T231000Z
+SUMMARY:Washington Nationals @ San Diego Padres
+DESCRIPTION:MLB 2026\nWashington Nationals @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-11-san-diego-padres-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260912T021500Z
+DTEND:20260912T051500Z
+SUMMARY:San Diego Padres @ San Francisco Giants
+DESCRIPTION:MLB 2026\nSan Diego Padres @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-12-san-diego-padres-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260912T200500Z
+DTEND:20260912T230500Z
+SUMMARY:San Diego Padres @ San Francisco Giants
+DESCRIPTION:MLB 2026\nSan Diego Padres @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-13-san-diego-padres-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260913T232000Z
+DTEND:20260914T022000Z
+SUMMARY:San Diego Padres @ San Francisco Giants
+DESCRIPTION:MLB 2026\nSan Diego Padres @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-14-san-diego-padres-vs-colorado-rockies@open-sports-cal
+DTSTART:20260915T004000Z
+DTEND:20260915T034000Z
+SUMMARY:San Diego Padres @ Colorado Rockies
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-15-san-diego-padres-vs-colorado-rockies@open-sports-cal
+DTSTART:20260916T004000Z
+DTEND:20260916T034000Z
+SUMMARY:San Diego Padres @ Colorado Rockies
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-16-san-diego-padres-vs-colorado-rockies@open-sports-cal
+DTSTART:20260917T004000Z
+DTEND:20260917T034000Z
+SUMMARY:San Diego Padres @ Colorado Rockies
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-17-san-diego-padres-vs-colorado-rockies@open-sports-cal
+DTSTART:20260917T191000Z
+DTEND:20260917T221000Z
+SUMMARY:San Diego Padres @ Colorado Rockies
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-18-miami-marlins-vs-san-diego-padres@open-sports-cal
+DTSTART:20260919T014000Z
+DTEND:20260919T044000Z
+SUMMARY:Miami Marlins @ San Diego Padres
+DESCRIPTION:MLB 2026\nMiami Marlins @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-19-miami-marlins-vs-san-diego-padres@open-sports-cal
+DTSTART:20260920T004000Z
+DTEND:20260920T034000Z
+SUMMARY:Miami Marlins @ San Diego Padres
+DESCRIPTION:MLB 2026\nMiami Marlins @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-20-miami-marlins-vs-san-diego-padres@open-sports-cal
+DTSTART:20260920T201000Z
+DTEND:20260920T231000Z
+SUMMARY:Miami Marlins @ San Diego Padres
+DESCRIPTION:MLB 2026\nMiami Marlins @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-22-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260923T021000Z
+DTEND:20260923T051000Z
+SUMMARY:San Diego Padres @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-23-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260924T021000Z
+DTEND:20260924T051000Z
+SUMMARY:San Diego Padres @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-24-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260925T021000Z
+DTEND:20260925T051000Z
+SUMMARY:San Diego Padres @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-25-arizona-diamondbacks-vs-san-diego-padres@open-sports-cal
+DTSTART:20260926T014000Z
+DTEND:20260926T044000Z
+SUMMARY:Arizona Diamondbacks @ San Diego Padres
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-26-arizona-diamondbacks-vs-san-diego-padres@open-sports-cal
+DTSTART:20260927T004000Z
+DTEND:20260927T034000Z
+SUMMARY:Arizona Diamondbacks @ San Diego Padres
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-27-arizona-diamondbacks-vs-san-diego-padres@open-sports-cal
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:Arizona Diamondbacks @ San Diego Padres
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+END:VCALENDAR

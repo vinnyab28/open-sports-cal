@@ -1,0 +1,1790 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MLB 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLB 2026 - Toronto Blue Jays
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-27-athletics-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260327T230700Z
+DTEND:20260328T020700Z
+SUMMARY:Athletics @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nAthletics @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-28-athletics-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260328T190700Z
+DTEND:20260328T220700Z
+SUMMARY:Athletics @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nAthletics @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-29-athletics-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260329T173700Z
+DTEND:20260329T203700Z
+SUMMARY:Athletics @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nAthletics @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-30-colorado-rockies-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260330T230700Z
+DTEND:20260331T020700Z
+SUMMARY:Colorado Rockies @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nColorado Rockies @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-31-colorado-rockies-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260331T230700Z
+DTEND:20260401T020700Z
+SUMMARY:Colorado Rockies @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nColorado Rockies @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-01-colorado-rockies-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260401T170700Z
+DTEND:20260401T200700Z
+SUMMARY:Colorado Rockies @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nColorado Rockies @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-02-toronto-blue-jays-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260402T201000Z
+DTEND:20260402T231000Z
+SUMMARY:Toronto Blue Jays @ Chicago White Sox
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-04-toronto-blue-jays-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260404T181000Z
+DTEND:20260404T211000Z
+SUMMARY:Toronto Blue Jays @ Chicago White Sox
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-05-toronto-blue-jays-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260405T181000Z
+DTEND:20260405T211000Z
+SUMMARY:Toronto Blue Jays @ Chicago White Sox
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-06-los-angeles-dodgers-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260406T230700Z
+DTEND:20260407T020700Z
+SUMMARY:Los Angeles Dodgers @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-07-los-angeles-dodgers-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260407T230700Z
+DTEND:20260408T020700Z
+SUMMARY:Los Angeles Dodgers @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-08-los-angeles-dodgers-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260408T190700Z
+DTEND:20260408T220700Z
+SUMMARY:Los Angeles Dodgers @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-10-minnesota-twins-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260410T230700Z
+DTEND:20260411T020700Z
+SUMMARY:Minnesota Twins @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-11-minnesota-twins-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260411T190700Z
+DTEND:20260411T220700Z
+SUMMARY:Minnesota Twins @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-12-minnesota-twins-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260412T173700Z
+DTEND:20260412T203700Z
+SUMMARY:Minnesota Twins @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-14-toronto-blue-jays-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260414T234000Z
+DTEND:20260415T024000Z
+SUMMARY:Toronto Blue Jays @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-15-toronto-blue-jays-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260415T234000Z
+DTEND:20260416T024000Z
+SUMMARY:Toronto Blue Jays @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-16-toronto-blue-jays-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260416T174000Z
+DTEND:20260416T204000Z
+SUMMARY:Toronto Blue Jays @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-17-toronto-blue-jays-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260418T014000Z
+DTEND:20260418T044000Z
+SUMMARY:Toronto Blue Jays @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-18-toronto-blue-jays-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260419T001000Z
+DTEND:20260419T031000Z
+SUMMARY:Toronto Blue Jays @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-19-toronto-blue-jays-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260419T201000Z
+DTEND:20260419T231000Z
+SUMMARY:Toronto Blue Jays @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-20-toronto-blue-jays-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260421T013800Z
+DTEND:20260421T043800Z
+SUMMARY:Toronto Blue Jays @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-21-toronto-blue-jays-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260422T013800Z
+DTEND:20260422T043800Z
+SUMMARY:Toronto Blue Jays @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-22-toronto-blue-jays-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260422T190700Z
+DTEND:20260422T220700Z
+SUMMARY:Toronto Blue Jays @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-24-cleveland-guardians-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260424T230700Z
+DTEND:20260425T020700Z
+SUMMARY:Cleveland Guardians @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-25-cleveland-guardians-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260425T190700Z
+DTEND:20260425T220700Z
+SUMMARY:Cleveland Guardians @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-26-cleveland-guardians-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260426T173700Z
+DTEND:20260426T203700Z
+SUMMARY:Cleveland Guardians @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-27-boston-red-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260427T230700Z
+DTEND:20260428T020700Z
+SUMMARY:Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-28-boston-red-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260428T230700Z
+DTEND:20260429T020700Z
+SUMMARY:Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-29-boston-red-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260429T190700Z
+DTEND:20260429T220700Z
+SUMMARY:Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-30-toronto-blue-jays-vs-minnesota-twins@open-sports-cal
+DTSTART:20260430T234000Z
+DTEND:20260501T024000Z
+SUMMARY:Toronto Blue Jays @ Minnesota Twins
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-01-toronto-blue-jays-vs-minnesota-twins@open-sports-cal
+DTSTART:20260502T001000Z
+DTEND:20260502T031000Z
+SUMMARY:Toronto Blue Jays @ Minnesota Twins
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-02-toronto-blue-jays-vs-minnesota-twins@open-sports-cal
+DTSTART:20260502T181000Z
+DTEND:20260502T211000Z
+SUMMARY:Toronto Blue Jays @ Minnesota Twins
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-03-toronto-blue-jays-vs-minnesota-twins@open-sports-cal
+DTSTART:20260503T164500Z
+DTEND:20260503T194500Z
+SUMMARY:Toronto Blue Jays @ Minnesota Twins
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-04-toronto-blue-jays-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260504T224000Z
+DTEND:20260505T014000Z
+SUMMARY:Toronto Blue Jays @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-05-toronto-blue-jays-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260505T224000Z
+DTEND:20260506T014000Z
+SUMMARY:Toronto Blue Jays @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-06-toronto-blue-jays-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260506T171000Z
+DTEND:20260506T201000Z
+SUMMARY:Toronto Blue Jays @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-08-los-angeles-angels-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260508T230700Z
+DTEND:20260509T020700Z
+SUMMARY:Los Angeles Angels @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-09-los-angeles-angels-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260509T190700Z
+DTEND:20260509T220700Z
+SUMMARY:Los Angeles Angels @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-10-los-angeles-angels-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260510T173700Z
+DTEND:20260510T203700Z
+SUMMARY:Los Angeles Angels @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-11-tampa-bay-rays-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260511T230700Z
+DTEND:20260512T020700Z
+SUMMARY:Tampa Bay Rays @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-12-tampa-bay-rays-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260512T230700Z
+DTEND:20260513T020700Z
+SUMMARY:Tampa Bay Rays @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-13-tampa-bay-rays-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260513T230700Z
+DTEND:20260514T020700Z
+SUMMARY:Tampa Bay Rays @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-15-toronto-blue-jays-vs-detroit-tigers@open-sports-cal
+DTSTART:20260515T224500Z
+DTEND:20260516T014500Z
+SUMMARY:Toronto Blue Jays @ Detroit Tigers
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-16-toronto-blue-jays-vs-detroit-tigers@open-sports-cal
+DTSTART:20260516T171000Z
+DTEND:20260516T201000Z
+SUMMARY:Toronto Blue Jays @ Detroit Tigers
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-17-toronto-blue-jays-vs-detroit-tigers@open-sports-cal
+DTSTART:20260517T174000Z
+DTEND:20260517T204000Z
+SUMMARY:Toronto Blue Jays @ Detroit Tigers
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-18-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART:20260518T230500Z
+DTEND:20260519T020500Z
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-19-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART:20260519T230500Z
+DTEND:20260520T020500Z
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-20-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART:20260520T230500Z
+DTEND:20260521T020500Z
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-21-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART:20260521T230500Z
+DTEND:20260522T020500Z
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-22-pittsburgh-pirates-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260522T230700Z
+DTEND:20260523T020700Z
+SUMMARY:Pittsburgh Pirates @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-23-pittsburgh-pirates-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260523T190700Z
+DTEND:20260523T220700Z
+SUMMARY:Pittsburgh Pirates @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-24-pittsburgh-pirates-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260524T161500Z
+DTEND:20260524T191500Z
+SUMMARY:Pittsburgh Pirates @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-25-miami-marlins-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260525T230700Z
+DTEND:20260526T020700Z
+SUMMARY:Miami Marlins @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nMiami Marlins @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-26-miami-marlins-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260526T230700Z
+DTEND:20260527T020700Z
+SUMMARY:Miami Marlins @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nMiami Marlins @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-27-miami-marlins-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260527T170700Z
+DTEND:20260527T200700Z
+SUMMARY:Miami Marlins @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nMiami Marlins @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-28-toronto-blue-jays-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260528T223500Z
+DTEND:20260529T013500Z
+SUMMARY:Toronto Blue Jays @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-29-toronto-blue-jays-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260529T230500Z
+DTEND:20260530T020500Z
+SUMMARY:Toronto Blue Jays @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-30-toronto-blue-jays-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260530T200500Z
+DTEND:20260530T230500Z
+SUMMARY:Toronto Blue Jays @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-31-toronto-blue-jays-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260531T161500Z
+DTEND:20260531T191500Z
+SUMMARY:Toronto Blue Jays @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-02-toronto-blue-jays-vs-atlanta-braves@open-sports-cal
+DTSTART:20260602T231500Z
+DTEND:20260603T021500Z
+SUMMARY:Toronto Blue Jays @ Atlanta Braves
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-03-toronto-blue-jays-vs-atlanta-braves@open-sports-cal
+DTSTART:20260603T231500Z
+DTEND:20260604T021500Z
+SUMMARY:Toronto Blue Jays @ Atlanta Braves
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-04-toronto-blue-jays-vs-atlanta-braves@open-sports-cal
+DTSTART:20260604T231500Z
+DTEND:20260605T021500Z
+SUMMARY:Toronto Blue Jays @ Atlanta Braves
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-05-baltimore-orioles-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260605T230700Z
+DTEND:20260606T020700Z
+SUMMARY:Baltimore Orioles @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-06-baltimore-orioles-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260606T190700Z
+DTEND:20260606T220700Z
+SUMMARY:Baltimore Orioles @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-07-baltimore-orioles-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260607T173700Z
+DTEND:20260607T203700Z
+SUMMARY:Baltimore Orioles @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-08-philadelphia-phillies-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260608T230700Z
+DTEND:20260609T020700Z
+SUMMARY:Philadelphia Phillies @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-09-philadelphia-phillies-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260609T230700Z
+DTEND:20260610T020700Z
+SUMMARY:Philadelphia Phillies @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-10-philadelphia-phillies-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260610T230700Z
+DTEND:20260611T020700Z
+SUMMARY:Philadelphia Phillies @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-12-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260612T233700Z
+DTEND:20260613T023700Z
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nNew York Yankees @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-13-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260613T190700Z
+DTEND:20260613T220700Z
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nNew York Yankees @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-14-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260614T173700Z
+DTEND:20260614T203700Z
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nNew York Yankees @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-16-toronto-blue-jays-vs-boston-red-sox@open-sports-cal
+DTSTART:20260616T224500Z
+DTEND:20260617T014500Z
+SUMMARY:Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-17-toronto-blue-jays-vs-boston-red-sox@open-sports-cal
+DTSTART:20260617T224500Z
+DTEND:20260618T014500Z
+SUMMARY:Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-18-toronto-blue-jays-vs-boston-red-sox@open-sports-cal
+DTSTART:20260618T173500Z
+DTEND:20260618T203500Z
+SUMMARY:Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-19-toronto-blue-jays-vs-chicago-cubs@open-sports-cal
+DTSTART:20260619T182000Z
+DTEND:20260619T212000Z
+SUMMARY:Toronto Blue Jays @ Chicago Cubs
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-20-toronto-blue-jays-vs-chicago-cubs@open-sports-cal
+DTSTART:20260620T182000Z
+DTEND:20260620T212000Z
+SUMMARY:Toronto Blue Jays @ Chicago Cubs
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-21-toronto-blue-jays-vs-chicago-cubs@open-sports-cal
+DTSTART:20260621T182000Z
+DTEND:20260621T212000Z
+SUMMARY:Toronto Blue Jays @ Chicago Cubs
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-22-houston-astros-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260622T230700Z
+DTEND:20260623T020700Z
+SUMMARY:Houston Astros @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nHouston Astros @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-23-houston-astros-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260623T230700Z
+DTEND:20260624T020700Z
+SUMMARY:Houston Astros @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nHouston Astros @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-24-houston-astros-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260624T230700Z
+DTEND:20260625T020700Z
+SUMMARY:Houston Astros @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nHouston Astros @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-25-texas-rangers-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260625T230700Z
+DTEND:20260626T020700Z
+SUMMARY:Texas Rangers @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nTexas Rangers @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-26-texas-rangers-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260626T230700Z
+DTEND:20260627T020700Z
+SUMMARY:Texas Rangers @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nTexas Rangers @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-27-texas-rangers-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260627T190700Z
+DTEND:20260627T220700Z
+SUMMARY:Texas Rangers @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nTexas Rangers @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-28-texas-rangers-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260628T173700Z
+DTEND:20260628T203700Z
+SUMMARY:Texas Rangers @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nTexas Rangers @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-29-new-york-mets-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260629T230700Z
+DTEND:20260630T020700Z
+SUMMARY:New York Mets @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nNew York Mets @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-30-new-york-mets-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260630T230700Z
+DTEND:20260701T020700Z
+SUMMARY:New York Mets @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nNew York Mets @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-01-new-york-mets-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260701T190700Z
+DTEND:20260701T220700Z
+SUMMARY:New York Mets @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nNew York Mets @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-03-toronto-blue-jays-vs-seattle-mariners@open-sports-cal
+DTSTART:20260704T021000Z
+DTEND:20260704T051000Z
+SUMMARY:Toronto Blue Jays @ Seattle Mariners
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-04-toronto-blue-jays-vs-seattle-mariners@open-sports-cal
+DTSTART:20260704T201000Z
+DTEND:20260704T231000Z
+SUMMARY:Toronto Blue Jays @ Seattle Mariners
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-05-toronto-blue-jays-vs-seattle-mariners@open-sports-cal
+DTSTART:20260705T210000Z
+DTEND:20260706T000000Z
+SUMMARY:Toronto Blue Jays @ Seattle Mariners
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-06-toronto-blue-jays-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260707T014500Z
+DTEND:20260707T044500Z
+SUMMARY:Toronto Blue Jays @ San Francisco Giants
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-07-toronto-blue-jays-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260708T014500Z
+DTEND:20260708T044500Z
+SUMMARY:Toronto Blue Jays @ San Francisco Giants
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-08-toronto-blue-jays-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260708T194500Z
+DTEND:20260708T224500Z
+SUMMARY:Toronto Blue Jays @ San Francisco Giants
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-10-toronto-blue-jays-vs-san-diego-padres@open-sports-cal
+DTSTART:20260711T014000Z
+DTEND:20260711T044000Z
+SUMMARY:Toronto Blue Jays @ San Diego Padres
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-11-toronto-blue-jays-vs-san-diego-padres@open-sports-cal
+DTSTART:20260712T004000Z
+DTEND:20260712T034000Z
+SUMMARY:Toronto Blue Jays @ San Diego Padres
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-12-toronto-blue-jays-vs-san-diego-padres@open-sports-cal
+DTSTART:20260712T201000Z
+DTEND:20260712T231000Z
+SUMMARY:Toronto Blue Jays @ San Diego Padres
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-17-chicago-white-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260717T230700Z
+DTEND:20260718T020700Z
+SUMMARY:Chicago White Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nChicago White Sox @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-18-chicago-white-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260718T190700Z
+DTEND:20260718T220700Z
+SUMMARY:Chicago White Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nChicago White Sox @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-19-chicago-white-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260719T161500Z
+DTEND:20260719T191500Z
+SUMMARY:Chicago White Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nChicago White Sox @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-20-tampa-bay-rays-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260720T230700Z
+DTEND:20260721T020700Z
+SUMMARY:Tampa Bay Rays @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-21-tampa-bay-rays-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260721T230700Z
+DTEND:20260722T020700Z
+SUMMARY:Tampa Bay Rays @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-22-tampa-bay-rays-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260722T230700Z
+DTEND:20260723T020700Z
+SUMMARY:Tampa Bay Rays @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-23-tampa-bay-rays-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260723T190700Z
+DTEND:20260723T220700Z
+SUMMARY:Tampa Bay Rays @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-24-toronto-blue-jays-vs-boston-red-sox@open-sports-cal
+DTSTART:20260724T231000Z
+DTEND:20260725T021000Z
+SUMMARY:Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-25-toronto-blue-jays-vs-boston-red-sox@open-sports-cal
+DTSTART:20260725T201000Z
+DTEND:20260725T231000Z
+SUMMARY:Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-26-toronto-blue-jays-vs-boston-red-sox@open-sports-cal
+DTSTART:20260726T173500Z
+DTEND:20260726T203500Z
+SUMMARY:Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-27-toronto-blue-jays-vs-washington-nationals@open-sports-cal
+DTSTART:20260727T224500Z
+DTEND:20260728T014500Z
+SUMMARY:Toronto Blue Jays @ Washington Nationals
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-28-toronto-blue-jays-vs-washington-nationals@open-sports-cal
+DTSTART:20260728T224500Z
+DTEND:20260729T014500Z
+SUMMARY:Toronto Blue Jays @ Washington Nationals
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-29-toronto-blue-jays-vs-washington-nationals@open-sports-cal
+DTSTART:20260729T170500Z
+DTEND:20260729T200500Z
+SUMMARY:Toronto Blue Jays @ Washington Nationals
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-31-st-louis-cardinals-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260731T230700Z
+DTEND:20260801T020700Z
+SUMMARY:St. Louis Cardinals @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-01-st-louis-cardinals-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260801T190700Z
+DTEND:20260801T220700Z
+SUMMARY:St. Louis Cardinals @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-02-st-louis-cardinals-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260802T173700Z
+DTEND:20260802T203700Z
+SUMMARY:St. Louis Cardinals @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-03-toronto-blue-jays-vs-houston-astros@open-sports-cal
+DTSTART:20260804T001000Z
+DTEND:20260804T031000Z
+SUMMARY:Toronto Blue Jays @ Houston Astros
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-04-toronto-blue-jays-vs-houston-astros@open-sports-cal
+DTSTART:20260805T001000Z
+DTEND:20260805T031000Z
+SUMMARY:Toronto Blue Jays @ Houston Astros
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-05-toronto-blue-jays-vs-houston-astros@open-sports-cal
+DTSTART:20260805T181000Z
+DTEND:20260805T211000Z
+SUMMARY:Toronto Blue Jays @ Houston Astros
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-07-toronto-blue-jays-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260807T224000Z
+DTEND:20260808T014000Z
+SUMMARY:Toronto Blue Jays @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-08-toronto-blue-jays-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260808T220500Z
+DTEND:20260809T010500Z
+SUMMARY:Toronto Blue Jays @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-09-toronto-blue-jays-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260809T173500Z
+DTEND:20260809T203500Z
+SUMMARY:Toronto Blue Jays @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-10-boston-red-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260810T230700Z
+DTEND:20260811T020700Z
+SUMMARY:Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-11-boston-red-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260811T230700Z
+DTEND:20260812T020700Z
+SUMMARY:Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-12-boston-red-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260812T230700Z
+DTEND:20260813T020700Z
+SUMMARY:Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-13-boston-red-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260813T190700Z
+DTEND:20260813T220700Z
+SUMMARY:Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-14-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260814T230700Z
+DTEND:20260815T020700Z
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nNew York Yankees @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-15-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260815T190700Z
+DTEND:20260815T220700Z
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nNew York Yankees @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-16-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260816T173700Z
+DTEND:20260816T203700Z
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nNew York Yankees @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-18-toronto-blue-jays-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260818T224000Z
+DTEND:20260819T014000Z
+SUMMARY:Toronto Blue Jays @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-19-toronto-blue-jays-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260819T224000Z
+DTEND:20260820T014000Z
+SUMMARY:Toronto Blue Jays @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-20-toronto-blue-jays-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260820T171000Z
+DTEND:20260820T201000Z
+SUMMARY:Toronto Blue Jays @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-21-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART:20260821T230500Z
+DTEND:20260822T020500Z
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-22-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART:20260822T173500Z
+DTEND:20260822T203500Z
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-23-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART:20260823T173500Z
+DTEND:20260823T203500Z
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-25-kansas-city-royals-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260825T230700Z
+DTEND:20260826T020700Z
+SUMMARY:Kansas City Royals @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nKansas City Royals @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-26-kansas-city-royals-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260826T230700Z
+DTEND:20260827T020700Z
+SUMMARY:Kansas City Royals @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nKansas City Royals @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-27-kansas-city-royals-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260827T230700Z
+DTEND:20260828T020700Z
+SUMMARY:Kansas City Royals @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nKansas City Royals @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-28-seattle-mariners-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260828T230700Z
+DTEND:20260829T020700Z
+SUMMARY:Seattle Mariners @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-29-seattle-mariners-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260829T190700Z
+DTEND:20260829T220700Z
+SUMMARY:Seattle Mariners @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-30-seattle-mariners-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260830T173700Z
+DTEND:20260830T203700Z
+SUMMARY:Seattle Mariners @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-01-toronto-blue-jays-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260901T224000Z
+DTEND:20260902T014000Z
+SUMMARY:Toronto Blue Jays @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-02-toronto-blue-jays-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260902T224000Z
+DTEND:20260903T014000Z
+SUMMARY:Toronto Blue Jays @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-03-toronto-blue-jays-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260903T171000Z
+DTEND:20260903T201000Z
+SUMMARY:Toronto Blue Jays @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-04-toronto-blue-jays-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260905T001000Z
+DTEND:20260905T031000Z
+SUMMARY:Toronto Blue Jays @ Kansas City Royals
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-05-toronto-blue-jays-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260905T231000Z
+DTEND:20260906T021000Z
+SUMMARY:Toronto Blue Jays @ Kansas City Royals
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-06-toronto-blue-jays-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260906T232000Z
+DTEND:20260907T022000Z
+SUMMARY:Toronto Blue Jays @ Kansas City Royals
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-07-toronto-blue-jays-vs-athletics@open-sports-cal
+DTSTART:20260908T020500Z
+DTEND:20260908T050500Z
+SUMMARY:Toronto Blue Jays @ Athletics
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-08-toronto-blue-jays-vs-athletics@open-sports-cal
+DTSTART:20260909T014000Z
+DTEND:20260909T044000Z
+SUMMARY:Toronto Blue Jays @ Athletics
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-09-toronto-blue-jays-vs-athletics@open-sports-cal
+DTSTART:20260909T190500Z
+DTEND:20260909T220500Z
+SUMMARY:Toronto Blue Jays @ Athletics
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-11-baltimore-orioles-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260911T230700Z
+DTEND:20260912T020700Z
+SUMMARY:Baltimore Orioles @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-12-baltimore-orioles-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260912T190700Z
+DTEND:20260912T220700Z
+SUMMARY:Baltimore Orioles @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-13-baltimore-orioles-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260913T173700Z
+DTEND:20260913T203700Z
+SUMMARY:Baltimore Orioles @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-14-detroit-tigers-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260914T230700Z
+DTEND:20260915T020700Z
+SUMMARY:Detroit Tigers @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-15-detroit-tigers-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260915T230700Z
+DTEND:20260916T020700Z
+SUMMARY:Detroit Tigers @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-16-detroit-tigers-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260916T190700Z
+DTEND:20260916T220700Z
+SUMMARY:Detroit Tigers @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-18-toronto-blue-jays-vs-texas-rangers@open-sports-cal
+DTSTART:20260919T000500Z
+DTEND:20260919T030500Z
+SUMMARY:Toronto Blue Jays @ Texas Rangers
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-19-toronto-blue-jays-vs-texas-rangers@open-sports-cal
+DTSTART:20260919T230500Z
+DTEND:20260920T020500Z
+SUMMARY:Toronto Blue Jays @ Texas Rangers
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-20-toronto-blue-jays-vs-texas-rangers@open-sports-cal
+DTSTART:20260920T183500Z
+DTEND:20260920T213500Z
+SUMMARY:Toronto Blue Jays @ Texas Rangers
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-21-toronto-blue-jays-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260921T223500Z
+DTEND:20260922T013500Z
+SUMMARY:Toronto Blue Jays @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-22-toronto-blue-jays-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260922T223500Z
+DTEND:20260923T013500Z
+SUMMARY:Toronto Blue Jays @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-23-toronto-blue-jays-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260923T223500Z
+DTEND:20260924T013500Z
+SUMMARY:Toronto Blue Jays @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-25-cincinnati-reds-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260925T230700Z
+DTEND:20260926T020700Z
+SUMMARY:Cincinnati Reds @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-26-cincinnati-reds-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260926T190700Z
+DTEND:20260926T220700Z
+SUMMARY:Cincinnati Reds @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-27-cincinnati-reds-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260927T190700Z
+DTEND:20260927T220700Z
+SUMMARY:Cincinnati Reds @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+END:VCALENDAR

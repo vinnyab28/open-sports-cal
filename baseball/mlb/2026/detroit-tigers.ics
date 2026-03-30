@@ -1,0 +1,1790 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MLB 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLB 2026 - Detroit Tigers
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-26-detroit-tigers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260326T201000Z
+DTEND:20260326T231000Z
+SUMMARY:Detroit Tigers @ San Diego Padres
+DESCRIPTION:MLB 2026\nDetroit Tigers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-27-detroit-tigers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260328T014000Z
+DTEND:20260328T044000Z
+SUMMARY:Detroit Tigers @ San Diego Padres
+DESCRIPTION:MLB 2026\nDetroit Tigers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-28-detroit-tigers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260329T004000Z
+DTEND:20260329T034000Z
+SUMMARY:Detroit Tigers @ San Diego Padres
+DESCRIPTION:MLB 2026\nDetroit Tigers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-30-detroit-tigers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260331T021000Z
+DTEND:20260331T051000Z
+SUMMARY:Detroit Tigers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-31-detroit-tigers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260401T014000Z
+DTEND:20260401T044000Z
+SUMMARY:Detroit Tigers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-01-detroit-tigers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260401T194000Z
+DTEND:20260401T224000Z
+SUMMARY:Detroit Tigers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-03-st-louis-cardinals-vs-detroit-tigers@open-sports-cal
+DTSTART:20260403T171000Z
+DTEND:20260403T201000Z
+SUMMARY:St. Louis Cardinals @ Detroit Tigers
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-04-st-louis-cardinals-vs-detroit-tigers@open-sports-cal
+DTSTART:20260404T171000Z
+DTEND:20260404T201000Z
+SUMMARY:St. Louis Cardinals @ Detroit Tigers
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-05-st-louis-cardinals-vs-detroit-tigers@open-sports-cal
+DTSTART:20260405T232000Z
+DTEND:20260406T022000Z
+SUMMARY:St. Louis Cardinals @ Detroit Tigers
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-06-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260406T234000Z
+DTEND:20260407T024000Z
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-07-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260407T234000Z
+DTEND:20260408T024000Z
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-08-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260408T234000Z
+DTEND:20260409T024000Z
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-09-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260409T174000Z
+DTEND:20260409T204000Z
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-10-miami-marlins-vs-detroit-tigers@open-sports-cal
+DTSTART:20260410T224000Z
+DTEND:20260411T014000Z
+SUMMARY:Miami Marlins @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMiami Marlins @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-11-miami-marlins-vs-detroit-tigers@open-sports-cal
+DTSTART:20260411T171000Z
+DTEND:20260411T201000Z
+SUMMARY:Miami Marlins @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMiami Marlins @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-12-miami-marlins-vs-detroit-tigers@open-sports-cal
+DTSTART:20260412T174000Z
+DTEND:20260412T204000Z
+SUMMARY:Miami Marlins @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMiami Marlins @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-14-kansas-city-royals-vs-detroit-tigers@open-sports-cal
+DTSTART:20260414T224000Z
+DTEND:20260415T014000Z
+SUMMARY:Kansas City Royals @ Detroit Tigers
+DESCRIPTION:MLB 2026\nKansas City Royals @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-15-kansas-city-royals-vs-detroit-tigers@open-sports-cal
+DTSTART:20260415T224000Z
+DTEND:20260416T014000Z
+SUMMARY:Kansas City Royals @ Detroit Tigers
+DESCRIPTION:MLB 2026\nKansas City Royals @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-16-kansas-city-royals-vs-detroit-tigers@open-sports-cal
+DTSTART:20260416T171000Z
+DTEND:20260416T201000Z
+SUMMARY:Kansas City Royals @ Detroit Tigers
+DESCRIPTION:MLB 2026\nKansas City Royals @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-17-detroit-tigers-vs-boston-red-sox@open-sports-cal
+DTSTART:20260417T231500Z
+DTEND:20260418T021500Z
+SUMMARY:Detroit Tigers @ Boston Red Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-18-detroit-tigers-vs-boston-red-sox@open-sports-cal
+DTSTART:20260418T201000Z
+DTEND:20260418T231000Z
+SUMMARY:Detroit Tigers @ Boston Red Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-19-detroit-tigers-vs-boston-red-sox@open-sports-cal
+DTSTART:20260419T173500Z
+DTEND:20260419T203500Z
+SUMMARY:Detroit Tigers @ Boston Red Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-20-detroit-tigers-vs-boston-red-sox@open-sports-cal
+DTSTART:20260420T151000Z
+DTEND:20260420T181000Z
+SUMMARY:Detroit Tigers @ Boston Red Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-21-milwaukee-brewers-vs-detroit-tigers@open-sports-cal
+DTSTART:20260421T224000Z
+DTEND:20260422T014000Z
+SUMMARY:Milwaukee Brewers @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-22-milwaukee-brewers-vs-detroit-tigers@open-sports-cal
+DTSTART:20260422T224000Z
+DTEND:20260423T014000Z
+SUMMARY:Milwaukee Brewers @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-23-milwaukee-brewers-vs-detroit-tigers@open-sports-cal
+DTSTART:20260423T171000Z
+DTEND:20260423T201000Z
+SUMMARY:Milwaukee Brewers @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-24-detroit-tigers-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260424T224000Z
+DTEND:20260425T014000Z
+SUMMARY:Detroit Tigers @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-25-detroit-tigers-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260425T231500Z
+DTEND:20260426T021500Z
+SUMMARY:Detroit Tigers @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-26-detroit-tigers-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260426T174000Z
+DTEND:20260426T204000Z
+SUMMARY:Detroit Tigers @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-28-detroit-tigers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260428T231500Z
+DTEND:20260429T021500Z
+SUMMARY:Detroit Tigers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-29-detroit-tigers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260429T231500Z
+DTEND:20260430T021500Z
+SUMMARY:Detroit Tigers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-30-detroit-tigers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260430T161500Z
+DTEND:20260430T191500Z
+SUMMARY:Detroit Tigers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-01-texas-rangers-vs-detroit-tigers@open-sports-cal
+DTSTART:20260501T224000Z
+DTEND:20260502T014000Z
+SUMMARY:Texas Rangers @ Detroit Tigers
+DESCRIPTION:MLB 2026\nTexas Rangers @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-02-texas-rangers-vs-detroit-tigers@open-sports-cal
+DTSTART:20260502T231500Z
+DTEND:20260503T021500Z
+SUMMARY:Texas Rangers @ Detroit Tigers
+DESCRIPTION:MLB 2026\nTexas Rangers @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-03-texas-rangers-vs-detroit-tigers@open-sports-cal
+DTSTART:20260503T232000Z
+DTEND:20260504T022000Z
+SUMMARY:Texas Rangers @ Detroit Tigers
+DESCRIPTION:MLB 2026\nTexas Rangers @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-04-boston-red-sox-vs-detroit-tigers@open-sports-cal
+DTSTART:20260504T224000Z
+DTEND:20260505T014000Z
+SUMMARY:Boston Red Sox @ Detroit Tigers
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-05-boston-red-sox-vs-detroit-tigers@open-sports-cal
+DTSTART:20260505T224000Z
+DTEND:20260506T014000Z
+SUMMARY:Boston Red Sox @ Detroit Tigers
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-06-boston-red-sox-vs-detroit-tigers@open-sports-cal
+DTSTART:20260506T224000Z
+DTEND:20260507T014000Z
+SUMMARY:Boston Red Sox @ Detroit Tigers
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-08-detroit-tigers-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260508T234000Z
+DTEND:20260509T024000Z
+SUMMARY:Detroit Tigers @ Kansas City Royals
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-09-detroit-tigers-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260509T231000Z
+DTEND:20260510T021000Z
+SUMMARY:Detroit Tigers @ Kansas City Royals
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-10-detroit-tigers-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260510T232000Z
+DTEND:20260511T022000Z
+SUMMARY:Detroit Tigers @ Kansas City Royals
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-12-detroit-tigers-vs-new-york-mets@open-sports-cal
+DTSTART:20260512T231000Z
+DTEND:20260513T021000Z
+SUMMARY:Detroit Tigers @ New York Mets
+DESCRIPTION:MLB 2026\nDetroit Tigers @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-13-detroit-tigers-vs-new-york-mets@open-sports-cal
+DTSTART:20260513T231000Z
+DTEND:20260514T021000Z
+SUMMARY:Detroit Tigers @ New York Mets
+DESCRIPTION:MLB 2026\nDetroit Tigers @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-14-detroit-tigers-vs-new-york-mets@open-sports-cal
+DTSTART:20260514T171000Z
+DTEND:20260514T201000Z
+SUMMARY:Detroit Tigers @ New York Mets
+DESCRIPTION:MLB 2026\nDetroit Tigers @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-15-toronto-blue-jays-vs-detroit-tigers@open-sports-cal
+DTSTART:20260515T224500Z
+DTEND:20260516T014500Z
+SUMMARY:Toronto Blue Jays @ Detroit Tigers
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-16-toronto-blue-jays-vs-detroit-tigers@open-sports-cal
+DTSTART:20260516T171000Z
+DTEND:20260516T201000Z
+SUMMARY:Toronto Blue Jays @ Detroit Tigers
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-17-toronto-blue-jays-vs-detroit-tigers@open-sports-cal
+DTSTART:20260517T174000Z
+DTEND:20260517T204000Z
+SUMMARY:Toronto Blue Jays @ Detroit Tigers
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-18-cleveland-guardians-vs-detroit-tigers@open-sports-cal
+DTSTART:20260518T224000Z
+DTEND:20260519T014000Z
+SUMMARY:Cleveland Guardians @ Detroit Tigers
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-19-cleveland-guardians-vs-detroit-tigers@open-sports-cal
+DTSTART:20260519T224000Z
+DTEND:20260520T014000Z
+SUMMARY:Cleveland Guardians @ Detroit Tigers
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-20-cleveland-guardians-vs-detroit-tigers@open-sports-cal
+DTSTART:20260520T224000Z
+DTEND:20260521T014000Z
+SUMMARY:Cleveland Guardians @ Detroit Tigers
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-21-cleveland-guardians-vs-detroit-tigers@open-sports-cal
+DTSTART:20260521T171000Z
+DTEND:20260521T201000Z
+SUMMARY:Cleveland Guardians @ Detroit Tigers
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-22-detroit-tigers-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260522T231500Z
+DTEND:20260523T021500Z
+SUMMARY:Detroit Tigers @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-23-detroit-tigers-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260523T200500Z
+DTEND:20260523T230500Z
+SUMMARY:Detroit Tigers @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-24-detroit-tigers-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260524T173500Z
+DTEND:20260524T203500Z
+SUMMARY:Detroit Tigers @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-26-los-angeles-angels-vs-detroit-tigers@open-sports-cal
+DTSTART:20260526T224000Z
+DTEND:20260527T014000Z
+SUMMARY:Los Angeles Angels @ Detroit Tigers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-27-los-angeles-angels-vs-detroit-tigers@open-sports-cal
+DTSTART:20260527T224000Z
+DTEND:20260528T014000Z
+SUMMARY:Los Angeles Angels @ Detroit Tigers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-28-los-angeles-angels-vs-detroit-tigers@open-sports-cal
+DTSTART:20260528T171000Z
+DTEND:20260528T201000Z
+SUMMARY:Los Angeles Angels @ Detroit Tigers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-29-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260529T234000Z
+DTEND:20260530T024000Z
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-30-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260530T181000Z
+DTEND:20260530T211000Z
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-31-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260531T181000Z
+DTEND:20260531T211000Z
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-01-detroit-tigers-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260601T224000Z
+DTEND:20260602T014000Z
+SUMMARY:Detroit Tigers @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-02-detroit-tigers-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260602T224000Z
+DTEND:20260603T014000Z
+SUMMARY:Detroit Tigers @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-03-detroit-tigers-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260603T171000Z
+DTEND:20260603T201000Z
+SUMMARY:Detroit Tigers @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-05-seattle-mariners-vs-detroit-tigers@open-sports-cal
+DTSTART:20260605T224000Z
+DTEND:20260606T014000Z
+SUMMARY:Seattle Mariners @ Detroit Tigers
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-06-seattle-mariners-vs-detroit-tigers@open-sports-cal
+DTSTART:20260606T171000Z
+DTEND:20260606T201000Z
+SUMMARY:Seattle Mariners @ Detroit Tigers
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-07-seattle-mariners-vs-detroit-tigers@open-sports-cal
+DTSTART:20260607T174000Z
+DTEND:20260607T204000Z
+SUMMARY:Seattle Mariners @ Detroit Tigers
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-09-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART:20260609T224000Z
+DTEND:20260610T014000Z
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-10-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART:20260610T224000Z
+DTEND:20260611T014000Z
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-11-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART:20260611T171000Z
+DTEND:20260611T201000Z
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-12-detroit-tigers-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260612T231000Z
+DTEND:20260613T021000Z
+SUMMARY:Detroit Tigers @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-13-detroit-tigers-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260613T201000Z
+DTEND:20260613T231000Z
+SUMMARY:Detroit Tigers @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-14-detroit-tigers-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260614T174000Z
+DTEND:20260614T204000Z
+SUMMARY:Detroit Tigers @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-15-detroit-tigers-vs-houston-astros@open-sports-cal
+DTSTART:20260616T001000Z
+DTEND:20260616T031000Z
+SUMMARY:Detroit Tigers @ Houston Astros
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-16-detroit-tigers-vs-houston-astros@open-sports-cal
+DTSTART:20260617T001000Z
+DTEND:20260617T031000Z
+SUMMARY:Detroit Tigers @ Houston Astros
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-17-detroit-tigers-vs-houston-astros@open-sports-cal
+DTSTART:20260617T181000Z
+DTEND:20260617T211000Z
+SUMMARY:Detroit Tigers @ Houston Astros
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-19-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART:20260619T224000Z
+DTEND:20260620T014000Z
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-20-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART:20260620T171000Z
+DTEND:20260620T201000Z
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-21-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART:20260621T174000Z
+DTEND:20260621T204000Z
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-22-new-york-yankees-vs-detroit-tigers@open-sports-cal
+DTSTART:20260622T224000Z
+DTEND:20260623T014000Z
+SUMMARY:New York Yankees @ Detroit Tigers
+DESCRIPTION:MLB 2026\nNew York Yankees @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-23-new-york-yankees-vs-detroit-tigers@open-sports-cal
+DTSTART:20260623T224000Z
+DTEND:20260624T014000Z
+SUMMARY:New York Yankees @ Detroit Tigers
+DESCRIPTION:MLB 2026\nNew York Yankees @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-24-new-york-yankees-vs-detroit-tigers@open-sports-cal
+DTSTART:20260624T224000Z
+DTEND:20260625T014000Z
+SUMMARY:New York Yankees @ Detroit Tigers
+DESCRIPTION:MLB 2026\nNew York Yankees @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-25-houston-astros-vs-detroit-tigers@open-sports-cal
+DTSTART:20260625T224000Z
+DTEND:20260626T014000Z
+SUMMARY:Houston Astros @ Detroit Tigers
+DESCRIPTION:MLB 2026\nHouston Astros @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-26-houston-astros-vs-detroit-tigers@open-sports-cal
+DTSTART:20260626T224000Z
+DTEND:20260627T014000Z
+SUMMARY:Houston Astros @ Detroit Tigers
+DESCRIPTION:MLB 2026\nHouston Astros @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-27-houston-astros-vs-detroit-tigers@open-sports-cal
+DTSTART:20260627T171000Z
+DTEND:20260627T201000Z
+SUMMARY:Houston Astros @ Detroit Tigers
+DESCRIPTION:MLB 2026\nHouston Astros @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-28-houston-astros-vs-detroit-tigers@open-sports-cal
+DTSTART:20260628T174000Z
+DTEND:20260628T204000Z
+SUMMARY:Houston Astros @ Detroit Tigers
+DESCRIPTION:MLB 2026\nHouston Astros @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-29-detroit-tigers-vs-new-york-yankees@open-sports-cal
+DTSTART:20260629T230500Z
+DTEND:20260630T020500Z
+SUMMARY:Detroit Tigers @ New York Yankees
+DESCRIPTION:MLB 2026\nDetroit Tigers @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-30-detroit-tigers-vs-new-york-yankees@open-sports-cal
+DTSTART:20260630T230500Z
+DTEND:20260701T020500Z
+SUMMARY:Detroit Tigers @ New York Yankees
+DESCRIPTION:MLB 2026\nDetroit Tigers @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-01-detroit-tigers-vs-new-york-yankees@open-sports-cal
+DTSTART:20260701T173500Z
+DTEND:20260701T203500Z
+SUMMARY:Detroit Tigers @ New York Yankees
+DESCRIPTION:MLB 2026\nDetroit Tigers @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-02-detroit-tigers-vs-texas-rangers@open-sports-cal
+DTSTART:20260703T000500Z
+DTEND:20260703T030500Z
+SUMMARY:Detroit Tigers @ Texas Rangers
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-04-detroit-tigers-vs-texas-rangers@open-sports-cal
+DTSTART:20260704T200500Z
+DTEND:20260704T230500Z
+SUMMARY:Detroit Tigers @ Texas Rangers
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-05-detroit-tigers-vs-texas-rangers@open-sports-cal
+DTSTART:20260705T193000Z
+DTEND:20260705T223000Z
+SUMMARY:Detroit Tigers @ Texas Rangers
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-07-athletics-vs-detroit-tigers@open-sports-cal
+DTSTART:20260707T224000Z
+DTEND:20260708T014000Z
+SUMMARY:Athletics @ Detroit Tigers
+DESCRIPTION:MLB 2026\nAthletics @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-08-athletics-vs-detroit-tigers@open-sports-cal
+DTSTART:20260708T224000Z
+DTEND:20260709T014000Z
+SUMMARY:Athletics @ Detroit Tigers
+DESCRIPTION:MLB 2026\nAthletics @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-09-athletics-vs-detroit-tigers@open-sports-cal
+DTSTART:20260709T224000Z
+DTEND:20260710T014000Z
+SUMMARY:Athletics @ Detroit Tigers
+DESCRIPTION:MLB 2026\nAthletics @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-10-philadelphia-phillies-vs-detroit-tigers@open-sports-cal
+DTSTART:20260710T224000Z
+DTEND:20260711T014000Z
+SUMMARY:Philadelphia Phillies @ Detroit Tigers
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-11-philadelphia-phillies-vs-detroit-tigers@open-sports-cal
+DTSTART:20260711T221000Z
+DTEND:20260712T011000Z
+SUMMARY:Philadelphia Phillies @ Detroit Tigers
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-12-philadelphia-phillies-vs-detroit-tigers@open-sports-cal
+DTSTART:20260712T174000Z
+DTEND:20260712T204000Z
+SUMMARY:Philadelphia Phillies @ Detroit Tigers
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-17-detroit-tigers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260718T013800Z
+DTEND:20260718T043800Z
+SUMMARY:Detroit Tigers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-18-detroit-tigers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260719T020700Z
+DTEND:20260719T050700Z
+SUMMARY:Detroit Tigers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-19-detroit-tigers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260719T200700Z
+DTEND:20260719T230700Z
+SUMMARY:Detroit Tigers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-20-detroit-tigers-vs-chicago-cubs@open-sports-cal
+DTSTART:20260721T000500Z
+DTEND:20260721T030500Z
+SUMMARY:Detroit Tigers @ Chicago Cubs
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-21-detroit-tigers-vs-chicago-cubs@open-sports-cal
+DTSTART:20260722T000500Z
+DTEND:20260722T030500Z
+SUMMARY:Detroit Tigers @ Chicago Cubs
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-22-detroit-tigers-vs-chicago-cubs@open-sports-cal
+DTSTART:20260723T000500Z
+DTEND:20260723T030500Z
+SUMMARY:Detroit Tigers @ Chicago Cubs
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-23-kansas-city-royals-vs-detroit-tigers@open-sports-cal
+DTSTART:20260723T224000Z
+DTEND:20260724T014000Z
+SUMMARY:Kansas City Royals @ Detroit Tigers
+DESCRIPTION:MLB 2026\nKansas City Royals @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-24-kansas-city-royals-vs-detroit-tigers@open-sports-cal
+DTSTART:20260724T224000Z
+DTEND:20260725T014000Z
+SUMMARY:Kansas City Royals @ Detroit Tigers
+DESCRIPTION:MLB 2026\nKansas City Royals @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-25-kansas-city-royals-vs-detroit-tigers@open-sports-cal
+DTSTART:20260725T171000Z
+DTEND:20260725T201000Z
+SUMMARY:Kansas City Royals @ Detroit Tigers
+DESCRIPTION:MLB 2026\nKansas City Royals @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-26-kansas-city-royals-vs-detroit-tigers@open-sports-cal
+DTSTART:20260726T174000Z
+DTEND:20260726T204000Z
+SUMMARY:Kansas City Royals @ Detroit Tigers
+DESCRIPTION:MLB 2026\nKansas City Royals @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-27-baltimore-orioles-vs-detroit-tigers@open-sports-cal
+DTSTART:20260727T224000Z
+DTEND:20260728T014000Z
+SUMMARY:Baltimore Orioles @ Detroit Tigers
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-28-baltimore-orioles-vs-detroit-tigers@open-sports-cal
+DTSTART:20260728T224000Z
+DTEND:20260729T014000Z
+SUMMARY:Baltimore Orioles @ Detroit Tigers
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-29-baltimore-orioles-vs-detroit-tigers@open-sports-cal
+DTSTART:20260729T171000Z
+DTEND:20260729T201000Z
+SUMMARY:Baltimore Orioles @ Detroit Tigers
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-31-detroit-tigers-vs-athletics@open-sports-cal
+DTSTART:20260801T014000Z
+DTEND:20260801T044000Z
+SUMMARY:Detroit Tigers @ Athletics
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-01-detroit-tigers-vs-athletics@open-sports-cal
+DTSTART:20260802T014000Z
+DTEND:20260802T044000Z
+SUMMARY:Detroit Tigers @ Athletics
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-02-detroit-tigers-vs-athletics@open-sports-cal
+DTSTART:20260802T200500Z
+DTEND:20260802T230500Z
+SUMMARY:Detroit Tigers @ Athletics
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-04-detroit-tigers-vs-seattle-mariners@open-sports-cal
+DTSTART:20260805T014000Z
+DTEND:20260805T044000Z
+SUMMARY:Detroit Tigers @ Seattle Mariners
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-05-detroit-tigers-vs-seattle-mariners@open-sports-cal
+DTSTART:20260806T014000Z
+DTEND:20260806T044000Z
+SUMMARY:Detroit Tigers @ Seattle Mariners
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-06-detroit-tigers-vs-seattle-mariners@open-sports-cal
+DTSTART:20260806T201000Z
+DTEND:20260806T231000Z
+SUMMARY:Detroit Tigers @ Seattle Mariners
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-07-detroit-tigers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260808T021500Z
+DTEND:20260808T051500Z
+SUMMARY:Detroit Tigers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nDetroit Tigers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-08-detroit-tigers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260808T231500Z
+DTEND:20260809T021500Z
+SUMMARY:Detroit Tigers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nDetroit Tigers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-09-detroit-tigers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260809T200500Z
+DTEND:20260809T230500Z
+SUMMARY:Detroit Tigers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nDetroit Tigers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-11-cleveland-guardians-vs-detroit-tigers@open-sports-cal
+DTSTART:20260811T224000Z
+DTEND:20260812T014000Z
+SUMMARY:Cleveland Guardians @ Detroit Tigers
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-12-cleveland-guardians-vs-detroit-tigers@open-sports-cal
+DTSTART:20260812T224000Z
+DTEND:20260813T014000Z
+SUMMARY:Cleveland Guardians @ Detroit Tigers
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-13-cleveland-guardians-vs-detroit-tigers@open-sports-cal
+DTSTART:20260813T171000Z
+DTEND:20260813T201000Z
+SUMMARY:Cleveland Guardians @ Detroit Tigers
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-14-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART:20260814T224000Z
+DTEND:20260815T014000Z
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-15-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART:20260815T171000Z
+DTEND:20260815T201000Z
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-16-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART:20260816T174000Z
+DTEND:20260816T204000Z
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-17-detroit-tigers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260817T230500Z
+DTEND:20260818T020500Z
+SUMMARY:Detroit Tigers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-18-detroit-tigers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260818T224000Z
+DTEND:20260819T014000Z
+SUMMARY:Detroit Tigers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-19-detroit-tigers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260819T163500Z
+DTEND:20260819T193500Z
+SUMMARY:Detroit Tigers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-21-detroit-tigers-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260822T001000Z
+DTEND:20260822T031000Z
+SUMMARY:Detroit Tigers @ Kansas City Royals
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-22-detroit-tigers-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260822T231500Z
+DTEND:20260823T021500Z
+SUMMARY:Detroit Tigers @ Kansas City Royals
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-23-detroit-tigers-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260823T181000Z
+DTEND:20260823T211000Z
+SUMMARY:Detroit Tigers @ Kansas City Royals
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-24-tampa-bay-rays-vs-detroit-tigers@open-sports-cal
+DTSTART:20260824T224000Z
+DTEND:20260825T014000Z
+SUMMARY:Tampa Bay Rays @ Detroit Tigers
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-25-tampa-bay-rays-vs-detroit-tigers@open-sports-cal
+DTSTART:20260825T224000Z
+DTEND:20260826T014000Z
+SUMMARY:Tampa Bay Rays @ Detroit Tigers
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-26-tampa-bay-rays-vs-detroit-tigers@open-sports-cal
+DTSTART:20260826T171000Z
+DTEND:20260826T201000Z
+SUMMARY:Tampa Bay Rays @ Detroit Tigers
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-28-los-angeles-dodgers-vs-detroit-tigers@open-sports-cal
+DTSTART:20260828T224000Z
+DTEND:20260829T014000Z
+SUMMARY:Los Angeles Dodgers @ Detroit Tigers
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-29-los-angeles-dodgers-vs-detroit-tigers@open-sports-cal
+DTSTART:20260829T171000Z
+DTEND:20260829T201000Z
+SUMMARY:Los Angeles Dodgers @ Detroit Tigers
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-30-los-angeles-dodgers-vs-detroit-tigers@open-sports-cal
+DTSTART:20260830T174000Z
+DTEND:20260830T204000Z
+SUMMARY:Los Angeles Dodgers @ Detroit Tigers
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-31-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260831T234000Z
+DTEND:20260901T024000Z
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-01-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260901T234000Z
+DTEND:20260902T024000Z
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-02-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260902T234000Z
+DTEND:20260903T024000Z
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-04-detroit-tigers-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260904T231000Z
+DTEND:20260905T021000Z
+SUMMARY:Detroit Tigers @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-05-detroit-tigers-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260905T231500Z
+DTEND:20260906T021500Z
+SUMMARY:Detroit Tigers @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-06-detroit-tigers-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260906T174000Z
+DTEND:20260906T204000Z
+SUMMARY:Detroit Tigers @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-07-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART:20260907T171000Z
+DTEND:20260907T201000Z
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-08-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART:20260908T224000Z
+DTEND:20260909T014000Z
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-09-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART:20260909T171000Z
+DTEND:20260909T201000Z
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-11-colorado-rockies-vs-detroit-tigers@open-sports-cal
+DTSTART:20260911T224000Z
+DTEND:20260912T014000Z
+SUMMARY:Colorado Rockies @ Detroit Tigers
+DESCRIPTION:MLB 2026\nColorado Rockies @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-12-colorado-rockies-vs-detroit-tigers@open-sports-cal
+DTSTART:20260912T171000Z
+DTEND:20260912T201000Z
+SUMMARY:Colorado Rockies @ Detroit Tigers
+DESCRIPTION:MLB 2026\nColorado Rockies @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-13-colorado-rockies-vs-detroit-tigers@open-sports-cal
+DTSTART:20260913T174000Z
+DTEND:20260913T204000Z
+SUMMARY:Colorado Rockies @ Detroit Tigers
+DESCRIPTION:MLB 2026\nColorado Rockies @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-14-detroit-tigers-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260914T230700Z
+DTEND:20260915T020700Z
+SUMMARY:Detroit Tigers @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-15-detroit-tigers-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260915T230700Z
+DTEND:20260916T020700Z
+SUMMARY:Detroit Tigers @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-16-detroit-tigers-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260916T190700Z
+DTEND:20260916T220700Z
+SUMMARY:Detroit Tigers @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-17-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260917T234000Z
+DTEND:20260918T024000Z
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-18-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260918T234000Z
+DTEND:20260919T024000Z
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-19-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260919T231000Z
+DTEND:20260920T021000Z
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-20-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260920T181000Z
+DTEND:20260920T211000Z
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-21-washington-nationals-vs-detroit-tigers@open-sports-cal
+DTSTART:20260921T224000Z
+DTEND:20260922T014000Z
+SUMMARY:Washington Nationals @ Detroit Tigers
+DESCRIPTION:MLB 2026\nWashington Nationals @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-22-washington-nationals-vs-detroit-tigers@open-sports-cal
+DTSTART:20260922T224000Z
+DTEND:20260923T014000Z
+SUMMARY:Washington Nationals @ Detroit Tigers
+DESCRIPTION:MLB 2026\nWashington Nationals @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-23-washington-nationals-vs-detroit-tigers@open-sports-cal
+DTSTART:20260923T171000Z
+DTEND:20260923T201000Z
+SUMMARY:Washington Nationals @ Detroit Tigers
+DESCRIPTION:MLB 2026\nWashington Nationals @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-25-pittsburgh-pirates-vs-detroit-tigers@open-sports-cal
+DTSTART:20260925T224000Z
+DTEND:20260926T014000Z
+SUMMARY:Pittsburgh Pirates @ Detroit Tigers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-26-pittsburgh-pirates-vs-detroit-tigers@open-sports-cal
+DTSTART:20260926T171000Z
+DTEND:20260926T201000Z
+SUMMARY:Pittsburgh Pirates @ Detroit Tigers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-27-pittsburgh-pirates-vs-detroit-tigers@open-sports-cal
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:Pittsburgh Pirates @ Detroit Tigers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+END:VCALENDAR

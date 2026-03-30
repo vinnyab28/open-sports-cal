@@ -1,0 +1,1790 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MLB 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLB 2026 - Atlanta Braves
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-27-kansas-city-royals-vs-atlanta-braves@open-sports-cal
+DTSTART:20260327T231500Z
+DTEND:20260328T021500Z
+SUMMARY:Kansas City Royals @ Atlanta Braves
+DESCRIPTION:MLB 2026\nKansas City Royals @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-28-kansas-city-royals-vs-atlanta-braves@open-sports-cal
+DTSTART:20260328T231500Z
+DTEND:20260329T021500Z
+SUMMARY:Kansas City Royals @ Atlanta Braves
+DESCRIPTION:MLB 2026\nKansas City Royals @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-29-kansas-city-royals-vs-atlanta-braves@open-sports-cal
+DTSTART:20260329T173500Z
+DTEND:20260329T203500Z
+SUMMARY:Kansas City Royals @ Atlanta Braves
+DESCRIPTION:MLB 2026\nKansas City Royals @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-30-athletics-vs-atlanta-braves@open-sports-cal
+DTSTART:20260330T231500Z
+DTEND:20260331T021500Z
+SUMMARY:Athletics @ Atlanta Braves
+DESCRIPTION:MLB 2026\nAthletics @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-31-athletics-vs-atlanta-braves@open-sports-cal
+DTSTART:20260331T231500Z
+DTEND:20260401T021500Z
+SUMMARY:Athletics @ Atlanta Braves
+DESCRIPTION:MLB 2026\nAthletics @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-01-athletics-vs-atlanta-braves@open-sports-cal
+DTSTART:20260401T161500Z
+DTEND:20260401T191500Z
+SUMMARY:Athletics @ Atlanta Braves
+DESCRIPTION:MLB 2026\nAthletics @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-02-atlanta-braves-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260403T014000Z
+DTEND:20260403T044000Z
+SUMMARY:Atlanta Braves @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-03-atlanta-braves-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260404T014500Z
+DTEND:20260404T044500Z
+SUMMARY:Atlanta Braves @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-04-atlanta-braves-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260404T231500Z
+DTEND:20260405T021500Z
+SUMMARY:Atlanta Braves @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-05-atlanta-braves-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260405T201000Z
+DTEND:20260405T231000Z
+SUMMARY:Atlanta Braves @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-06-atlanta-braves-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260407T013800Z
+DTEND:20260407T043800Z
+SUMMARY:Atlanta Braves @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-07-atlanta-braves-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260408T013800Z
+DTEND:20260408T043800Z
+SUMMARY:Atlanta Braves @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-08-atlanta-braves-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260408T200700Z
+DTEND:20260408T230700Z
+SUMMARY:Atlanta Braves @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-10-cleveland-guardians-vs-atlanta-braves@open-sports-cal
+DTSTART:20260410T231500Z
+DTEND:20260411T021500Z
+SUMMARY:Cleveland Guardians @ Atlanta Braves
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-11-cleveland-guardians-vs-atlanta-braves@open-sports-cal
+DTSTART:20260411T231500Z
+DTEND:20260412T021500Z
+SUMMARY:Cleveland Guardians @ Atlanta Braves
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-12-cleveland-guardians-vs-atlanta-braves@open-sports-cal
+DTSTART:20260412T232000Z
+DTEND:20260413T022000Z
+SUMMARY:Cleveland Guardians @ Atlanta Braves
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-13-miami-marlins-vs-atlanta-braves@open-sports-cal
+DTSTART:20260413T231500Z
+DTEND:20260414T021500Z
+SUMMARY:Miami Marlins @ Atlanta Braves
+DESCRIPTION:MLB 2026\nMiami Marlins @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-14-miami-marlins-vs-atlanta-braves@open-sports-cal
+DTSTART:20260414T231500Z
+DTEND:20260415T021500Z
+SUMMARY:Miami Marlins @ Atlanta Braves
+DESCRIPTION:MLB 2026\nMiami Marlins @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-15-miami-marlins-vs-atlanta-braves@open-sports-cal
+DTSTART:20260415T231500Z
+DTEND:20260416T021500Z
+SUMMARY:Miami Marlins @ Atlanta Braves
+DESCRIPTION:MLB 2026\nMiami Marlins @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-17-atlanta-braves-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260417T224000Z
+DTEND:20260418T014000Z
+SUMMARY:Atlanta Braves @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-18-atlanta-braves-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260418T231500Z
+DTEND:20260419T021500Z
+SUMMARY:Atlanta Braves @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-19-atlanta-braves-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260419T232000Z
+DTEND:20260420T022000Z
+SUMMARY:Atlanta Braves @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-20-atlanta-braves-vs-washington-nationals@open-sports-cal
+DTSTART:20260420T224500Z
+DTEND:20260421T014500Z
+SUMMARY:Atlanta Braves @ Washington Nationals
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-21-atlanta-braves-vs-washington-nationals@open-sports-cal
+DTSTART:20260421T224500Z
+DTEND:20260422T014500Z
+SUMMARY:Atlanta Braves @ Washington Nationals
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-22-atlanta-braves-vs-washington-nationals@open-sports-cal
+DTSTART:20260422T224500Z
+DTEND:20260423T014500Z
+SUMMARY:Atlanta Braves @ Washington Nationals
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-23-atlanta-braves-vs-washington-nationals@open-sports-cal
+DTSTART:20260423T170500Z
+DTEND:20260423T200500Z
+SUMMARY:Atlanta Braves @ Washington Nationals
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-24-philadelphia-phillies-vs-atlanta-braves@open-sports-cal
+DTSTART:20260424T231500Z
+DTEND:20260425T021500Z
+SUMMARY:Philadelphia Phillies @ Atlanta Braves
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-25-philadelphia-phillies-vs-atlanta-braves@open-sports-cal
+DTSTART:20260425T231500Z
+DTEND:20260426T021500Z
+SUMMARY:Philadelphia Phillies @ Atlanta Braves
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-26-philadelphia-phillies-vs-atlanta-braves@open-sports-cal
+DTSTART:20260426T173500Z
+DTEND:20260426T203500Z
+SUMMARY:Philadelphia Phillies @ Atlanta Braves
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-28-detroit-tigers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260428T231500Z
+DTEND:20260429T021500Z
+SUMMARY:Detroit Tigers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-29-detroit-tigers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260429T231500Z
+DTEND:20260430T021500Z
+SUMMARY:Detroit Tigers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-30-detroit-tigers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260430T161500Z
+DTEND:20260430T191500Z
+SUMMARY:Detroit Tigers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-01-atlanta-braves-vs-colorado-rockies@open-sports-cal
+DTSTART:20260502T004000Z
+DTEND:20260502T034000Z
+SUMMARY:Atlanta Braves @ Colorado Rockies
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-02-atlanta-braves-vs-colorado-rockies@open-sports-cal
+DTSTART:20260503T001000Z
+DTEND:20260503T031000Z
+SUMMARY:Atlanta Braves @ Colorado Rockies
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-03-atlanta-braves-vs-colorado-rockies@open-sports-cal
+DTSTART:20260503T191000Z
+DTEND:20260503T221000Z
+SUMMARY:Atlanta Braves @ Colorado Rockies
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-04-atlanta-braves-vs-seattle-mariners@open-sports-cal
+DTSTART:20260505T014000Z
+DTEND:20260505T044000Z
+SUMMARY:Atlanta Braves @ Seattle Mariners
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-05-atlanta-braves-vs-seattle-mariners@open-sports-cal
+DTSTART:20260506T014000Z
+DTEND:20260506T044000Z
+SUMMARY:Atlanta Braves @ Seattle Mariners
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-06-atlanta-braves-vs-seattle-mariners@open-sports-cal
+DTSTART:20260506T201000Z
+DTEND:20260506T231000Z
+SUMMARY:Atlanta Braves @ Seattle Mariners
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-08-atlanta-braves-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260509T021000Z
+DTEND:20260509T051000Z
+SUMMARY:Atlanta Braves @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-09-atlanta-braves-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260510T011000Z
+DTEND:20260510T041000Z
+SUMMARY:Atlanta Braves @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-10-atlanta-braves-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260510T201000Z
+DTEND:20260510T231000Z
+SUMMARY:Atlanta Braves @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-12-chicago-cubs-vs-atlanta-braves@open-sports-cal
+DTSTART:20260512T231500Z
+DTEND:20260513T021500Z
+SUMMARY:Chicago Cubs @ Atlanta Braves
+DESCRIPTION:MLB 2026\nChicago Cubs @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-13-chicago-cubs-vs-atlanta-braves@open-sports-cal
+DTSTART:20260513T231500Z
+DTEND:20260514T021500Z
+SUMMARY:Chicago Cubs @ Atlanta Braves
+DESCRIPTION:MLB 2026\nChicago Cubs @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-14-chicago-cubs-vs-atlanta-braves@open-sports-cal
+DTSTART:20260514T231500Z
+DTEND:20260515T021500Z
+SUMMARY:Chicago Cubs @ Atlanta Braves
+DESCRIPTION:MLB 2026\nChicago Cubs @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-15-boston-red-sox-vs-atlanta-braves@open-sports-cal
+DTSTART:20260515T231500Z
+DTEND:20260516T021500Z
+SUMMARY:Boston Red Sox @ Atlanta Braves
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-16-boston-red-sox-vs-atlanta-braves@open-sports-cal
+DTSTART:20260516T231500Z
+DTEND:20260517T021500Z
+SUMMARY:Boston Red Sox @ Atlanta Braves
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-17-boston-red-sox-vs-atlanta-braves@open-sports-cal
+DTSTART:20260517T173500Z
+DTEND:20260517T203500Z
+SUMMARY:Boston Red Sox @ Atlanta Braves
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-18-atlanta-braves-vs-miami-marlins@open-sports-cal
+DTSTART:20260518T224000Z
+DTEND:20260519T014000Z
+SUMMARY:Atlanta Braves @ Miami Marlins
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-19-atlanta-braves-vs-miami-marlins@open-sports-cal
+DTSTART:20260519T201000Z
+DTEND:20260519T231000Z
+SUMMARY:Atlanta Braves @ Miami Marlins
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-20-atlanta-braves-vs-miami-marlins@open-sports-cal
+DTSTART:20260520T224000Z
+DTEND:20260521T014000Z
+SUMMARY:Atlanta Braves @ Miami Marlins
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-21-atlanta-braves-vs-miami-marlins@open-sports-cal
+DTSTART:20260521T224000Z
+DTEND:20260522T014000Z
+SUMMARY:Atlanta Braves @ Miami Marlins
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-22-washington-nationals-vs-atlanta-braves@open-sports-cal
+DTSTART:20260522T231500Z
+DTEND:20260523T021500Z
+SUMMARY:Washington Nationals @ Atlanta Braves
+DESCRIPTION:MLB 2026\nWashington Nationals @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-23-washington-nationals-vs-atlanta-braves@open-sports-cal
+DTSTART:20260523T201000Z
+DTEND:20260523T231000Z
+SUMMARY:Washington Nationals @ Atlanta Braves
+DESCRIPTION:MLB 2026\nWashington Nationals @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-24-washington-nationals-vs-atlanta-braves@open-sports-cal
+DTSTART:20260524T201000Z
+DTEND:20260524T231000Z
+SUMMARY:Washington Nationals @ Atlanta Braves
+DESCRIPTION:MLB 2026\nWashington Nationals @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-26-atlanta-braves-vs-boston-red-sox@open-sports-cal
+DTSTART:20260526T224500Z
+DTEND:20260527T014500Z
+SUMMARY:Atlanta Braves @ Boston Red Sox
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-27-atlanta-braves-vs-boston-red-sox@open-sports-cal
+DTSTART:20260527T224500Z
+DTEND:20260528T014500Z
+SUMMARY:Atlanta Braves @ Boston Red Sox
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-28-atlanta-braves-vs-boston-red-sox@open-sports-cal
+DTSTART:20260528T201000Z
+DTEND:20260528T231000Z
+SUMMARY:Atlanta Braves @ Boston Red Sox
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-29-atlanta-braves-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260529T224000Z
+DTEND:20260530T014000Z
+SUMMARY:Atlanta Braves @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-30-atlanta-braves-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260530T231500Z
+DTEND:20260531T021500Z
+SUMMARY:Atlanta Braves @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-31-atlanta-braves-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260531T174000Z
+DTEND:20260531T204000Z
+SUMMARY:Atlanta Braves @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-02-toronto-blue-jays-vs-atlanta-braves@open-sports-cal
+DTSTART:20260602T231500Z
+DTEND:20260603T021500Z
+SUMMARY:Toronto Blue Jays @ Atlanta Braves
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-03-toronto-blue-jays-vs-atlanta-braves@open-sports-cal
+DTSTART:20260603T231500Z
+DTEND:20260604T021500Z
+SUMMARY:Toronto Blue Jays @ Atlanta Braves
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-04-toronto-blue-jays-vs-atlanta-braves@open-sports-cal
+DTSTART:20260604T231500Z
+DTEND:20260605T021500Z
+SUMMARY:Toronto Blue Jays @ Atlanta Braves
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-05-pittsburgh-pirates-vs-atlanta-braves@open-sports-cal
+DTSTART:20260605T231500Z
+DTEND:20260606T021500Z
+SUMMARY:Pittsburgh Pirates @ Atlanta Braves
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-06-pittsburgh-pirates-vs-atlanta-braves@open-sports-cal
+DTSTART:20260606T201000Z
+DTEND:20260606T231000Z
+SUMMARY:Pittsburgh Pirates @ Atlanta Braves
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-07-pittsburgh-pirates-vs-atlanta-braves@open-sports-cal
+DTSTART:20260607T173500Z
+DTEND:20260607T203500Z
+SUMMARY:Pittsburgh Pirates @ Atlanta Braves
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-09-atlanta-braves-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260609T234000Z
+DTEND:20260610T024000Z
+SUMMARY:Atlanta Braves @ Chicago White Sox
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-10-atlanta-braves-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260610T234000Z
+DTEND:20260611T024000Z
+SUMMARY:Atlanta Braves @ Chicago White Sox
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-11-atlanta-braves-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260611T234000Z
+DTEND:20260612T024000Z
+SUMMARY:Atlanta Braves @ Chicago White Sox
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-12-atlanta-braves-vs-new-york-mets@open-sports-cal
+DTSTART:20260612T231500Z
+DTEND:20260613T021500Z
+SUMMARY:Atlanta Braves @ New York Mets
+DESCRIPTION:MLB 2026\nAtlanta Braves @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-13-atlanta-braves-vs-new-york-mets@open-sports-cal
+DTSTART:20260613T201000Z
+DTEND:20260613T231000Z
+SUMMARY:Atlanta Braves @ New York Mets
+DESCRIPTION:MLB 2026\nAtlanta Braves @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-14-atlanta-braves-vs-new-york-mets@open-sports-cal
+DTSTART:20260614T174000Z
+DTEND:20260614T204000Z
+SUMMARY:Atlanta Braves @ New York Mets
+DESCRIPTION:MLB 2026\nAtlanta Braves @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-16-san-francisco-giants-vs-atlanta-braves@open-sports-cal
+DTSTART:20260616T231500Z
+DTEND:20260617T021500Z
+SUMMARY:San Francisco Giants @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-17-san-francisco-giants-vs-atlanta-braves@open-sports-cal
+DTSTART:20260617T231500Z
+DTEND:20260618T021500Z
+SUMMARY:San Francisco Giants @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-18-san-francisco-giants-vs-atlanta-braves@open-sports-cal
+DTSTART:20260618T231500Z
+DTEND:20260619T021500Z
+SUMMARY:San Francisco Giants @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-19-milwaukee-brewers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260619T231500Z
+DTEND:20260620T021500Z
+SUMMARY:Milwaukee Brewers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-20-milwaukee-brewers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260620T201000Z
+DTEND:20260620T231000Z
+SUMMARY:Milwaukee Brewers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-21-milwaukee-brewers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260621T173500Z
+DTEND:20260621T203500Z
+SUMMARY:Milwaukee Brewers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-22-atlanta-braves-vs-san-diego-padres@open-sports-cal
+DTSTART:20260623T021000Z
+DTEND:20260623T051000Z
+SUMMARY:Atlanta Braves @ San Diego Padres
+DESCRIPTION:MLB 2026\nAtlanta Braves @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-23-atlanta-braves-vs-san-diego-padres@open-sports-cal
+DTSTART:20260624T014000Z
+DTEND:20260624T044000Z
+SUMMARY:Atlanta Braves @ San Diego Padres
+DESCRIPTION:MLB 2026\nAtlanta Braves @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-24-atlanta-braves-vs-san-diego-padres@open-sports-cal
+DTSTART:20260625T004000Z
+DTEND:20260625T034000Z
+SUMMARY:Atlanta Braves @ San Diego Padres
+DESCRIPTION:MLB 2026\nAtlanta Braves @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-26-atlanta-braves-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260627T021500Z
+DTEND:20260627T051500Z
+SUMMARY:Atlanta Braves @ San Francisco Giants
+DESCRIPTION:MLB 2026\nAtlanta Braves @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-27-atlanta-braves-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260628T010500Z
+DTEND:20260628T040500Z
+SUMMARY:Atlanta Braves @ San Francisco Giants
+DESCRIPTION:MLB 2026\nAtlanta Braves @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-28-atlanta-braves-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260628T200500Z
+DTEND:20260628T230500Z
+SUMMARY:Atlanta Braves @ San Francisco Giants
+DESCRIPTION:MLB 2026\nAtlanta Braves @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-30-st-louis-cardinals-vs-atlanta-braves@open-sports-cal
+DTSTART:20260630T231500Z
+DTEND:20260701T021500Z
+SUMMARY:St. Louis Cardinals @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-01-st-louis-cardinals-vs-atlanta-braves@open-sports-cal
+DTSTART:20260701T231500Z
+DTEND:20260702T021500Z
+SUMMARY:St. Louis Cardinals @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-02-st-louis-cardinals-vs-atlanta-braves@open-sports-cal
+DTSTART:20260702T231500Z
+DTEND:20260703T021500Z
+SUMMARY:St. Louis Cardinals @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-03-new-york-mets-vs-atlanta-braves@open-sports-cal
+DTSTART:20260703T231500Z
+DTEND:20260704T021500Z
+SUMMARY:New York Mets @ Atlanta Braves
+DESCRIPTION:MLB 2026\nNew York Mets @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-04-new-york-mets-vs-atlanta-braves@open-sports-cal
+DTSTART:20260705T000800Z
+DTEND:20260705T030800Z
+SUMMARY:New York Mets @ Atlanta Braves
+DESCRIPTION:MLB 2026\nNew York Mets @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-05-new-york-mets-vs-atlanta-braves@open-sports-cal
+DTSTART:20260705T163000Z
+DTEND:20260705T193000Z
+SUMMARY:New York Mets @ Atlanta Braves
+DESCRIPTION:MLB 2026\nNew York Mets @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-06-new-york-mets-vs-atlanta-braves@open-sports-cal
+DTSTART:20260706T231500Z
+DTEND:20260707T021500Z
+SUMMARY:New York Mets @ Atlanta Braves
+DESCRIPTION:MLB 2026\nNew York Mets @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-07-atlanta-braves-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260707T224000Z
+DTEND:20260708T014000Z
+SUMMARY:Atlanta Braves @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-08-atlanta-braves-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260708T224000Z
+DTEND:20260709T014000Z
+SUMMARY:Atlanta Braves @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-09-atlanta-braves-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260709T163500Z
+DTEND:20260709T193500Z
+SUMMARY:Atlanta Braves @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-10-atlanta-braves-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260711T001500Z
+DTEND:20260711T031500Z
+SUMMARY:Atlanta Braves @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nAtlanta Braves @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-11-atlanta-braves-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260711T231500Z
+DTEND:20260712T021500Z
+SUMMARY:Atlanta Braves @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nAtlanta Braves @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-12-atlanta-braves-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260712T181500Z
+DTEND:20260712T211500Z
+SUMMARY:Atlanta Braves @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nAtlanta Braves @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-17-texas-rangers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260717T231500Z
+DTEND:20260718T021500Z
+SUMMARY:Texas Rangers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nTexas Rangers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-18-texas-rangers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260718T201000Z
+DTEND:20260718T231000Z
+SUMMARY:Texas Rangers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nTexas Rangers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-19-texas-rangers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260719T173500Z
+DTEND:20260719T203500Z
+SUMMARY:Texas Rangers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nTexas Rangers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-20-san-diego-padres-vs-atlanta-braves@open-sports-cal
+DTSTART:20260720T231500Z
+DTEND:20260721T021500Z
+SUMMARY:San Diego Padres @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-21-san-diego-padres-vs-atlanta-braves@open-sports-cal
+DTSTART:20260721T231500Z
+DTEND:20260722T021500Z
+SUMMARY:San Diego Padres @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-22-san-diego-padres-vs-atlanta-braves@open-sports-cal
+DTSTART:20260722T231500Z
+DTEND:20260723T021500Z
+SUMMARY:San Diego Padres @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-23-san-diego-padres-vs-atlanta-braves@open-sports-cal
+DTSTART:20260723T161500Z
+DTEND:20260723T191500Z
+SUMMARY:San Diego Padres @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-24-atlanta-braves-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260724T230500Z
+DTEND:20260725T020500Z
+SUMMARY:Atlanta Braves @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-25-atlanta-braves-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260725T230500Z
+DTEND:20260726T020500Z
+SUMMARY:Atlanta Braves @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-26-atlanta-braves-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260726T173500Z
+DTEND:20260726T203500Z
+SUMMARY:Atlanta Braves @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-27-atlanta-braves-vs-new-york-mets@open-sports-cal
+DTSTART:20260727T231000Z
+DTEND:20260728T021000Z
+SUMMARY:Atlanta Braves @ New York Mets
+DESCRIPTION:MLB 2026\nAtlanta Braves @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-28-atlanta-braves-vs-new-york-mets@open-sports-cal
+DTSTART:20260728T231000Z
+DTEND:20260729T021000Z
+SUMMARY:Atlanta Braves @ New York Mets
+DESCRIPTION:MLB 2026\nAtlanta Braves @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-29-atlanta-braves-vs-new-york-mets@open-sports-cal
+DTSTART:20260729T171000Z
+DTEND:20260729T201000Z
+SUMMARY:Atlanta Braves @ New York Mets
+DESCRIPTION:MLB 2026\nAtlanta Braves @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-30-washington-nationals-vs-atlanta-braves@open-sports-cal
+DTSTART:20260730T231500Z
+DTEND:20260731T021500Z
+SUMMARY:Washington Nationals @ Atlanta Braves
+DESCRIPTION:MLB 2026\nWashington Nationals @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-31-washington-nationals-vs-atlanta-braves@open-sports-cal
+DTSTART:20260731T231500Z
+DTEND:20260801T021500Z
+SUMMARY:Washington Nationals @ Atlanta Braves
+DESCRIPTION:MLB 2026\nWashington Nationals @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-01-washington-nationals-vs-atlanta-braves@open-sports-cal
+DTSTART:20260801T231500Z
+DTEND:20260802T021500Z
+SUMMARY:Washington Nationals @ Atlanta Braves
+DESCRIPTION:MLB 2026\nWashington Nationals @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-02-washington-nationals-vs-atlanta-braves@open-sports-cal
+DTSTART:20260802T173500Z
+DTEND:20260802T203500Z
+SUMMARY:Washington Nationals @ Atlanta Braves
+DESCRIPTION:MLB 2026\nWashington Nationals @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-04-miami-marlins-vs-atlanta-braves@open-sports-cal
+DTSTART:20260804T231500Z
+DTEND:20260805T021500Z
+SUMMARY:Miami Marlins @ Atlanta Braves
+DESCRIPTION:MLB 2026\nMiami Marlins @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-05-miami-marlins-vs-atlanta-braves@open-sports-cal
+DTSTART:20260805T231500Z
+DTEND:20260806T021500Z
+SUMMARY:Miami Marlins @ Atlanta Braves
+DESCRIPTION:MLB 2026\nMiami Marlins @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-06-miami-marlins-vs-atlanta-braves@open-sports-cal
+DTSTART:20260806T231500Z
+DTEND:20260807T021500Z
+SUMMARY:Miami Marlins @ Atlanta Braves
+DESCRIPTION:MLB 2026\nMiami Marlins @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-07-atlanta-braves-vs-new-york-yankees@open-sports-cal
+DTSTART:20260807T230500Z
+DTEND:20260808T020500Z
+SUMMARY:Atlanta Braves @ New York Yankees
+DESCRIPTION:MLB 2026\nAtlanta Braves @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-08-atlanta-braves-vs-new-york-yankees@open-sports-cal
+DTSTART:20260808T190500Z
+DTEND:20260808T220500Z
+SUMMARY:Atlanta Braves @ New York Yankees
+DESCRIPTION:MLB 2026\nAtlanta Braves @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-09-atlanta-braves-vs-new-york-yankees@open-sports-cal
+DTSTART:20260809T173500Z
+DTEND:20260809T203500Z
+SUMMARY:Atlanta Braves @ New York Yankees
+DESCRIPTION:MLB 2026\nAtlanta Braves @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-10-new-york-mets-vs-atlanta-braves@open-sports-cal
+DTSTART:20260810T231500Z
+DTEND:20260811T021500Z
+SUMMARY:New York Mets @ Atlanta Braves
+DESCRIPTION:MLB 2026\nNew York Mets @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-11-new-york-mets-vs-atlanta-braves@open-sports-cal
+DTSTART:20260811T231500Z
+DTEND:20260812T021500Z
+SUMMARY:New York Mets @ Atlanta Braves
+DESCRIPTION:MLB 2026\nNew York Mets @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-12-new-york-mets-vs-atlanta-braves@open-sports-cal
+DTSTART:20260812T231500Z
+DTEND:20260813T021500Z
+SUMMARY:New York Mets @ Atlanta Braves
+DESCRIPTION:MLB 2026\nNew York Mets @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-14-arizona-diamondbacks-vs-atlanta-braves@open-sports-cal
+DTSTART:20260814T231500Z
+DTEND:20260815T021500Z
+SUMMARY:Arizona Diamondbacks @ Atlanta Braves
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-15-arizona-diamondbacks-vs-atlanta-braves@open-sports-cal
+DTSTART:20260815T231500Z
+DTEND:20260816T021500Z
+SUMMARY:Arizona Diamondbacks @ Atlanta Braves
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-16-arizona-diamondbacks-vs-atlanta-braves@open-sports-cal
+DTSTART:20260816T173500Z
+DTEND:20260816T203500Z
+SUMMARY:Arizona Diamondbacks @ Atlanta Braves
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-17-atlanta-braves-vs-minnesota-twins@open-sports-cal
+DTSTART:20260817T234000Z
+DTEND:20260818T024000Z
+SUMMARY:Atlanta Braves @ Minnesota Twins
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-18-atlanta-braves-vs-minnesota-twins@open-sports-cal
+DTSTART:20260818T234000Z
+DTEND:20260819T024000Z
+SUMMARY:Atlanta Braves @ Minnesota Twins
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-19-atlanta-braves-vs-minnesota-twins@open-sports-cal
+DTSTART:20260819T174000Z
+DTEND:20260819T204000Z
+SUMMARY:Atlanta Braves @ Minnesota Twins
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-21-atlanta-braves-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260821T201000Z
+DTEND:20260821T231000Z
+SUMMARY:Atlanta Braves @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-22-atlanta-braves-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260822T181000Z
+DTEND:20260822T211000Z
+SUMMARY:Atlanta Braves @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-23-atlanta-braves-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260823T231000Z
+DTEND:20260824T021000Z
+SUMMARY:Atlanta Braves @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Milwaukee Brewers\nJourney Bank Ballpark
+LOCATION:Journey Bank Ballpark
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-25-los-angeles-dodgers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260825T231500Z
+DTEND:20260826T021500Z
+SUMMARY:Los Angeles Dodgers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-26-los-angeles-dodgers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260826T231500Z
+DTEND:20260827T021500Z
+SUMMARY:Los Angeles Dodgers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-27-los-angeles-dodgers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260827T231500Z
+DTEND:20260828T021500Z
+SUMMARY:Los Angeles Dodgers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-28-colorado-rockies-vs-atlanta-braves@open-sports-cal
+DTSTART:20260828T231500Z
+DTEND:20260829T021500Z
+SUMMARY:Colorado Rockies @ Atlanta Braves
+DESCRIPTION:MLB 2026\nColorado Rockies @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-29-colorado-rockies-vs-atlanta-braves@open-sports-cal
+DTSTART:20260829T201000Z
+DTEND:20260829T231000Z
+SUMMARY:Colorado Rockies @ Atlanta Braves
+DESCRIPTION:MLB 2026\nColorado Rockies @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-30-colorado-rockies-vs-atlanta-braves@open-sports-cal
+DTSTART:20260830T173500Z
+DTEND:20260830T203500Z
+SUMMARY:Colorado Rockies @ Atlanta Braves
+DESCRIPTION:MLB 2026\nColorado Rockies @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-01-atlanta-braves-vs-washington-nationals@open-sports-cal
+DTSTART:20260901T224500Z
+DTEND:20260902T014500Z
+SUMMARY:Atlanta Braves @ Washington Nationals
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-02-atlanta-braves-vs-washington-nationals@open-sports-cal
+DTSTART:20260902T170500Z
+DTEND:20260902T200500Z
+SUMMARY:Atlanta Braves @ Washington Nationals
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-04-atlanta-braves-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260904T224000Z
+DTEND:20260905T014000Z
+SUMMARY:Atlanta Braves @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-05-atlanta-braves-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260905T220500Z
+DTEND:20260906T010500Z
+SUMMARY:Atlanta Braves @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-06-atlanta-braves-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260906T171000Z
+DTEND:20260906T201000Z
+SUMMARY:Atlanta Braves @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-07-atlanta-braves-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260907T170500Z
+DTEND:20260907T200500Z
+SUMMARY:Atlanta Braves @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-08-tampa-bay-rays-vs-atlanta-braves@open-sports-cal
+DTSTART:20260908T231500Z
+DTEND:20260909T021500Z
+SUMMARY:Tampa Bay Rays @ Atlanta Braves
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-09-tampa-bay-rays-vs-atlanta-braves@open-sports-cal
+DTSTART:20260909T231500Z
+DTEND:20260910T021500Z
+SUMMARY:Tampa Bay Rays @ Atlanta Braves
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-10-tampa-bay-rays-vs-atlanta-braves@open-sports-cal
+DTSTART:20260910T161500Z
+DTEND:20260910T191500Z
+SUMMARY:Tampa Bay Rays @ Atlanta Braves
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-11-philadelphia-phillies-vs-atlanta-braves@open-sports-cal
+DTSTART:20260911T231500Z
+DTEND:20260912T021500Z
+SUMMARY:Philadelphia Phillies @ Atlanta Braves
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-12-philadelphia-phillies-vs-atlanta-braves@open-sports-cal
+DTSTART:20260912T231500Z
+DTEND:20260913T021500Z
+SUMMARY:Philadelphia Phillies @ Atlanta Braves
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-13-philadelphia-phillies-vs-atlanta-braves@open-sports-cal
+DTSTART:20260913T173500Z
+DTEND:20260913T203500Z
+SUMMARY:Philadelphia Phillies @ Atlanta Braves
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-14-atlanta-braves-vs-chicago-cubs@open-sports-cal
+DTSTART:20260914T234000Z
+DTEND:20260915T024000Z
+SUMMARY:Atlanta Braves @ Chicago Cubs
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-15-atlanta-braves-vs-chicago-cubs@open-sports-cal
+DTSTART:20260915T234000Z
+DTEND:20260916T024000Z
+SUMMARY:Atlanta Braves @ Chicago Cubs
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-16-atlanta-braves-vs-chicago-cubs@open-sports-cal
+DTSTART:20260916T234000Z
+DTEND:20260917T024000Z
+SUMMARY:Atlanta Braves @ Chicago Cubs
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-18-atlanta-braves-vs-houston-astros@open-sports-cal
+DTSTART:20260919T001000Z
+DTEND:20260919T031000Z
+SUMMARY:Atlanta Braves @ Houston Astros
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-19-atlanta-braves-vs-houston-astros@open-sports-cal
+DTSTART:20260919T231000Z
+DTEND:20260920T021000Z
+SUMMARY:Atlanta Braves @ Houston Astros
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-20-atlanta-braves-vs-houston-astros@open-sports-cal
+DTSTART:20260920T181000Z
+DTEND:20260920T211000Z
+SUMMARY:Atlanta Braves @ Houston Astros
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-22-cincinnati-reds-vs-atlanta-braves@open-sports-cal
+DTSTART:20260922T231500Z
+DTEND:20260923T021500Z
+SUMMARY:Cincinnati Reds @ Atlanta Braves
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-23-cincinnati-reds-vs-atlanta-braves@open-sports-cal
+DTSTART:20260923T231500Z
+DTEND:20260924T021500Z
+SUMMARY:Cincinnati Reds @ Atlanta Braves
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-24-cincinnati-reds-vs-atlanta-braves@open-sports-cal
+DTSTART:20260924T231500Z
+DTEND:20260925T021500Z
+SUMMARY:Cincinnati Reds @ Atlanta Braves
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-25-atlanta-braves-vs-miami-marlins@open-sports-cal
+DTSTART:20260925T231000Z
+DTEND:20260926T021000Z
+SUMMARY:Atlanta Braves @ Miami Marlins
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-26-atlanta-braves-vs-miami-marlins@open-sports-cal
+DTSTART:20260926T201000Z
+DTEND:20260926T231000Z
+SUMMARY:Atlanta Braves @ Miami Marlins
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-27-atlanta-braves-vs-miami-marlins@open-sports-cal
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:Atlanta Braves @ Miami Marlins
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+END:VCALENDAR

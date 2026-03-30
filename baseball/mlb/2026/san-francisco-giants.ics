@@ -1,0 +1,1790 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MLB 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLB 2026 - San Francisco Giants
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-25-new-york-yankees-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260326T000500Z
+DTEND:20260326T030500Z
+SUMMARY:New York Yankees @ San Francisco Giants
+DESCRIPTION:MLB 2026\nNew York Yankees @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-27-new-york-yankees-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260327T203500Z
+DTEND:20260327T233500Z
+SUMMARY:New York Yankees @ San Francisco Giants
+DESCRIPTION:MLB 2026\nNew York Yankees @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-28-new-york-yankees-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260328T231500Z
+DTEND:20260329T021500Z
+SUMMARY:New York Yankees @ San Francisco Giants
+DESCRIPTION:MLB 2026\nNew York Yankees @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-30-san-francisco-giants-vs-san-diego-padres@open-sports-cal
+DTSTART:20260331T014000Z
+DTEND:20260331T044000Z
+SUMMARY:San Francisco Giants @ San Diego Padres
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-31-san-francisco-giants-vs-san-diego-padres@open-sports-cal
+DTSTART:20260401T014000Z
+DTEND:20260401T044000Z
+SUMMARY:San Francisco Giants @ San Diego Padres
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-01-san-francisco-giants-vs-san-diego-padres@open-sports-cal
+DTSTART:20260401T201000Z
+DTEND:20260401T231000Z
+SUMMARY:San Francisco Giants @ San Diego Padres
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-02-new-york-mets-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260403T014500Z
+DTEND:20260403T044500Z
+SUMMARY:New York Mets @ San Francisco Giants
+DESCRIPTION:MLB 2026\nNew York Mets @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-03-new-york-mets-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260404T021500Z
+DTEND:20260404T051500Z
+SUMMARY:New York Mets @ San Francisco Giants
+DESCRIPTION:MLB 2026\nNew York Mets @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-04-new-york-mets-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260405T010500Z
+DTEND:20260405T040500Z
+SUMMARY:New York Mets @ San Francisco Giants
+DESCRIPTION:MLB 2026\nNew York Mets @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-05-new-york-mets-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260405T200500Z
+DTEND:20260405T230500Z
+SUMMARY:New York Mets @ San Francisco Giants
+DESCRIPTION:MLB 2026\nNew York Mets @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-06-philadelphia-phillies-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260407T014500Z
+DTEND:20260407T044500Z
+SUMMARY:Philadelphia Phillies @ San Francisco Giants
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-07-philadelphia-phillies-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260408T014500Z
+DTEND:20260408T044500Z
+SUMMARY:Philadelphia Phillies @ San Francisco Giants
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-08-philadelphia-phillies-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260408T194500Z
+DTEND:20260408T224500Z
+SUMMARY:Philadelphia Phillies @ San Francisco Giants
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-10-san-francisco-giants-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260410T231500Z
+DTEND:20260411T021500Z
+SUMMARY:San Francisco Giants @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-11-san-francisco-giants-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260411T231500Z
+DTEND:20260412T021500Z
+SUMMARY:San Francisco Giants @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-12-san-francisco-giants-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260412T173500Z
+DTEND:20260412T203500Z
+SUMMARY:San Francisco Giants @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-14-san-francisco-giants-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260414T224000Z
+DTEND:20260415T014000Z
+SUMMARY:San Francisco Giants @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-15-san-francisco-giants-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260415T224000Z
+DTEND:20260416T014000Z
+SUMMARY:San Francisco Giants @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-16-san-francisco-giants-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260416T164000Z
+DTEND:20260416T194000Z
+SUMMARY:San Francisco Giants @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-17-san-francisco-giants-vs-washington-nationals@open-sports-cal
+DTSTART:20260417T224500Z
+DTEND:20260418T014500Z
+SUMMARY:San Francisco Giants @ Washington Nationals
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-18-san-francisco-giants-vs-washington-nationals@open-sports-cal
+DTSTART:20260418T200500Z
+DTEND:20260418T230500Z
+SUMMARY:San Francisco Giants @ Washington Nationals
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-19-san-francisco-giants-vs-washington-nationals@open-sports-cal
+DTSTART:20260419T173500Z
+DTEND:20260419T203500Z
+SUMMARY:San Francisco Giants @ Washington Nationals
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-21-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260422T014500Z
+DTEND:20260422T044500Z
+SUMMARY:Los Angeles Dodgers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-22-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260423T014500Z
+DTEND:20260423T044500Z
+SUMMARY:Los Angeles Dodgers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-23-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260423T194500Z
+DTEND:20260423T224500Z
+SUMMARY:Los Angeles Dodgers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-24-miami-marlins-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260425T021500Z
+DTEND:20260425T051500Z
+SUMMARY:Miami Marlins @ San Francisco Giants
+DESCRIPTION:MLB 2026\nMiami Marlins @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-25-miami-marlins-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260425T200500Z
+DTEND:20260425T230500Z
+SUMMARY:Miami Marlins @ San Francisco Giants
+DESCRIPTION:MLB 2026\nMiami Marlins @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-26-miami-marlins-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260426T200500Z
+DTEND:20260426T230500Z
+SUMMARY:Miami Marlins @ San Francisco Giants
+DESCRIPTION:MLB 2026\nMiami Marlins @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-28-san-francisco-giants-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260428T224000Z
+DTEND:20260429T014000Z
+SUMMARY:San Francisco Giants @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-29-san-francisco-giants-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260429T224000Z
+DTEND:20260430T014000Z
+SUMMARY:San Francisco Giants @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-30-san-francisco-giants-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260430T170500Z
+DTEND:20260430T200500Z
+SUMMARY:San Francisco Giants @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-01-san-francisco-giants-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260501T231000Z
+DTEND:20260502T021000Z
+SUMMARY:San Francisco Giants @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-02-san-francisco-giants-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260502T221000Z
+DTEND:20260503T011000Z
+SUMMARY:San Francisco Giants @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-03-san-francisco-giants-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260503T174000Z
+DTEND:20260503T204000Z
+SUMMARY:San Francisco Giants @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-04-san-diego-padres-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260505T014500Z
+DTEND:20260505T044500Z
+SUMMARY:San Diego Padres @ San Francisco Giants
+DESCRIPTION:MLB 2026\nSan Diego Padres @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-05-san-diego-padres-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260506T014500Z
+DTEND:20260506T044500Z
+SUMMARY:San Diego Padres @ San Francisco Giants
+DESCRIPTION:MLB 2026\nSan Diego Padres @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-06-san-diego-padres-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260506T194500Z
+DTEND:20260506T224500Z
+SUMMARY:San Diego Padres @ San Francisco Giants
+DESCRIPTION:MLB 2026\nSan Diego Padres @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-08-pittsburgh-pirates-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260509T021500Z
+DTEND:20260509T051500Z
+SUMMARY:Pittsburgh Pirates @ San Francisco Giants
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-09-pittsburgh-pirates-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260510T010500Z
+DTEND:20260510T040500Z
+SUMMARY:Pittsburgh Pirates @ San Francisco Giants
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-10-pittsburgh-pirates-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260510T200500Z
+DTEND:20260510T230500Z
+SUMMARY:Pittsburgh Pirates @ San Francisco Giants
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-11-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260512T021000Z
+DTEND:20260512T051000Z
+SUMMARY:San Francisco Giants @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-12-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260513T021000Z
+DTEND:20260513T051000Z
+SUMMARY:San Francisco Giants @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-13-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260514T021000Z
+DTEND:20260514T051000Z
+SUMMARY:San Francisco Giants @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-14-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260515T021000Z
+DTEND:20260515T051000Z
+SUMMARY:San Francisco Giants @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-15-san-francisco-giants-vs-athletics@open-sports-cal
+DTSTART:20260516T014000Z
+DTEND:20260516T044000Z
+SUMMARY:San Francisco Giants @ Athletics
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-16-san-francisco-giants-vs-athletics@open-sports-cal
+DTSTART:20260517T014000Z
+DTEND:20260517T044000Z
+SUMMARY:San Francisco Giants @ Athletics
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-17-san-francisco-giants-vs-athletics@open-sports-cal
+DTSTART:20260517T200500Z
+DTEND:20260517T230500Z
+SUMMARY:San Francisco Giants @ Athletics
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-18-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260519T014000Z
+DTEND:20260519T044000Z
+SUMMARY:San Francisco Giants @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-19-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260520T014000Z
+DTEND:20260520T044000Z
+SUMMARY:San Francisco Giants @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-20-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260520T194000Z
+DTEND:20260520T224000Z
+SUMMARY:San Francisco Giants @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-22-chicago-white-sox-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260523T021500Z
+DTEND:20260523T051500Z
+SUMMARY:Chicago White Sox @ San Francisco Giants
+DESCRIPTION:MLB 2026\nChicago White Sox @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-23-chicago-white-sox-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260523T200500Z
+DTEND:20260523T230500Z
+SUMMARY:Chicago White Sox @ San Francisco Giants
+DESCRIPTION:MLB 2026\nChicago White Sox @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-24-chicago-white-sox-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260524T200500Z
+DTEND:20260524T230500Z
+SUMMARY:Chicago White Sox @ San Francisco Giants
+DESCRIPTION:MLB 2026\nChicago White Sox @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-25-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260525T210500Z
+DTEND:20260526T000500Z
+SUMMARY:Arizona Diamondbacks @ San Francisco Giants
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-26-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260527T014500Z
+DTEND:20260527T044500Z
+SUMMARY:Arizona Diamondbacks @ San Francisco Giants
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-27-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260527T194500Z
+DTEND:20260527T224500Z
+SUMMARY:Arizona Diamondbacks @ San Francisco Giants
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-29-san-francisco-giants-vs-colorado-rockies@open-sports-cal
+DTSTART:20260530T004000Z
+DTEND:20260530T034000Z
+SUMMARY:San Francisco Giants @ Colorado Rockies
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-30-san-francisco-giants-vs-colorado-rockies@open-sports-cal
+DTSTART:20260531T011000Z
+DTEND:20260531T041000Z
+SUMMARY:San Francisco Giants @ Colorado Rockies
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-31-san-francisco-giants-vs-colorado-rockies@open-sports-cal
+DTSTART:20260531T191000Z
+DTEND:20260531T221000Z
+SUMMARY:San Francisco Giants @ Colorado Rockies
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-01-san-francisco-giants-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260601T234000Z
+DTEND:20260602T024000Z
+SUMMARY:San Francisco Giants @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-02-san-francisco-giants-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260602T234000Z
+DTEND:20260603T024000Z
+SUMMARY:San Francisco Giants @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-03-san-francisco-giants-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260603T234000Z
+DTEND:20260604T024000Z
+SUMMARY:San Francisco Giants @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-04-san-francisco-giants-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260604T181000Z
+DTEND:20260604T211000Z
+SUMMARY:San Francisco Giants @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-05-san-francisco-giants-vs-chicago-cubs@open-sports-cal
+DTSTART:20260605T182000Z
+DTEND:20260605T212000Z
+SUMMARY:San Francisco Giants @ Chicago Cubs
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-06-san-francisco-giants-vs-chicago-cubs@open-sports-cal
+DTSTART:20260606T182000Z
+DTEND:20260606T212000Z
+SUMMARY:San Francisco Giants @ Chicago Cubs
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-07-san-francisco-giants-vs-chicago-cubs@open-sports-cal
+DTSTART:20260608T002000Z
+DTEND:20260608T032000Z
+SUMMARY:San Francisco Giants @ Chicago Cubs
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-08-washington-nationals-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260609T014500Z
+DTEND:20260609T044500Z
+SUMMARY:Washington Nationals @ San Francisco Giants
+DESCRIPTION:MLB 2026\nWashington Nationals @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-09-washington-nationals-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260610T014500Z
+DTEND:20260610T044500Z
+SUMMARY:Washington Nationals @ San Francisco Giants
+DESCRIPTION:MLB 2026\nWashington Nationals @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-10-washington-nationals-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260610T194500Z
+DTEND:20260610T224500Z
+SUMMARY:Washington Nationals @ San Francisco Giants
+DESCRIPTION:MLB 2026\nWashington Nationals @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-12-chicago-cubs-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260613T021500Z
+DTEND:20260613T051500Z
+SUMMARY:Chicago Cubs @ San Francisco Giants
+DESCRIPTION:MLB 2026\nChicago Cubs @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-13-chicago-cubs-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260614T020500Z
+DTEND:20260614T050500Z
+SUMMARY:Chicago Cubs @ San Francisco Giants
+DESCRIPTION:MLB 2026\nChicago Cubs @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-14-chicago-cubs-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260614T191000Z
+DTEND:20260614T221000Z
+SUMMARY:Chicago Cubs @ San Francisco Giants
+DESCRIPTION:MLB 2026\nChicago Cubs @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-16-san-francisco-giants-vs-atlanta-braves@open-sports-cal
+DTSTART:20260616T231500Z
+DTEND:20260617T021500Z
+SUMMARY:San Francisco Giants @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-17-san-francisco-giants-vs-atlanta-braves@open-sports-cal
+DTSTART:20260617T231500Z
+DTEND:20260618T021500Z
+SUMMARY:San Francisco Giants @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-18-san-francisco-giants-vs-atlanta-braves@open-sports-cal
+DTSTART:20260618T231500Z
+DTEND:20260619T021500Z
+SUMMARY:San Francisco Giants @ Atlanta Braves
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-19-san-francisco-giants-vs-miami-marlins@open-sports-cal
+DTSTART:20260619T231000Z
+DTEND:20260620T021000Z
+SUMMARY:San Francisco Giants @ Miami Marlins
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-20-san-francisco-giants-vs-miami-marlins@open-sports-cal
+DTSTART:20260620T201000Z
+DTEND:20260620T231000Z
+SUMMARY:San Francisco Giants @ Miami Marlins
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-21-san-francisco-giants-vs-miami-marlins@open-sports-cal
+DTSTART:20260621T174000Z
+DTEND:20260621T204000Z
+SUMMARY:San Francisco Giants @ Miami Marlins
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-23-athletics-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260624T014500Z
+DTEND:20260624T044500Z
+SUMMARY:Athletics @ San Francisco Giants
+DESCRIPTION:MLB 2026\nAthletics @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-24-athletics-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260625T014500Z
+DTEND:20260625T044500Z
+SUMMARY:Athletics @ San Francisco Giants
+DESCRIPTION:MLB 2026\nAthletics @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-25-athletics-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260625T194500Z
+DTEND:20260625T224500Z
+SUMMARY:Athletics @ San Francisco Giants
+DESCRIPTION:MLB 2026\nAthletics @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-26-atlanta-braves-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260627T021500Z
+DTEND:20260627T051500Z
+SUMMARY:Atlanta Braves @ San Francisco Giants
+DESCRIPTION:MLB 2026\nAtlanta Braves @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-27-atlanta-braves-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260628T010500Z
+DTEND:20260628T040500Z
+SUMMARY:Atlanta Braves @ San Francisco Giants
+DESCRIPTION:MLB 2026\nAtlanta Braves @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-28-atlanta-braves-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260628T200500Z
+DTEND:20260628T230500Z
+SUMMARY:Atlanta Braves @ San Francisco Giants
+DESCRIPTION:MLB 2026\nAtlanta Braves @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-29-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260630T014000Z
+DTEND:20260630T044000Z
+SUMMARY:San Francisco Giants @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-30-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260701T014000Z
+DTEND:20260701T044000Z
+SUMMARY:San Francisco Giants @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-01-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260702T014000Z
+DTEND:20260702T044000Z
+SUMMARY:San Francisco Giants @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-03-san-francisco-giants-vs-colorado-rockies@open-sports-cal
+DTSTART:20260704T001000Z
+DTEND:20260704T031000Z
+SUMMARY:San Francisco Giants @ Colorado Rockies
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-04-san-francisco-giants-vs-colorado-rockies@open-sports-cal
+DTSTART:20260705T001000Z
+DTEND:20260705T031000Z
+SUMMARY:San Francisco Giants @ Colorado Rockies
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-05-san-francisco-giants-vs-colorado-rockies@open-sports-cal
+DTSTART:20260705T200000Z
+DTEND:20260705T230000Z
+SUMMARY:San Francisco Giants @ Colorado Rockies
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-06-toronto-blue-jays-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260707T014500Z
+DTEND:20260707T044500Z
+SUMMARY:Toronto Blue Jays @ San Francisco Giants
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-07-toronto-blue-jays-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260708T014500Z
+DTEND:20260708T044500Z
+SUMMARY:Toronto Blue Jays @ San Francisco Giants
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-08-toronto-blue-jays-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260708T194500Z
+DTEND:20260708T224500Z
+SUMMARY:Toronto Blue Jays @ San Francisco Giants
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-09-colorado-rockies-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260710T014500Z
+DTEND:20260710T044500Z
+SUMMARY:Colorado Rockies @ San Francisco Giants
+DESCRIPTION:MLB 2026\nColorado Rockies @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-10-colorado-rockies-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260711T021500Z
+DTEND:20260711T051500Z
+SUMMARY:Colorado Rockies @ San Francisco Giants
+DESCRIPTION:MLB 2026\nColorado Rockies @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-11-colorado-rockies-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260711T200500Z
+DTEND:20260711T230500Z
+SUMMARY:Colorado Rockies @ San Francisco Giants
+DESCRIPTION:MLB 2026\nColorado Rockies @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-12-colorado-rockies-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260712T200500Z
+DTEND:20260712T230500Z
+SUMMARY:Colorado Rockies @ San Francisco Giants
+DESCRIPTION:MLB 2026\nColorado Rockies @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-17-san-francisco-giants-vs-seattle-mariners@open-sports-cal
+DTSTART:20260718T021000Z
+DTEND:20260718T051000Z
+SUMMARY:San Francisco Giants @ Seattle Mariners
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-18-san-francisco-giants-vs-seattle-mariners@open-sports-cal
+DTSTART:20260719T000800Z
+DTEND:20260719T030800Z
+SUMMARY:San Francisco Giants @ Seattle Mariners
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-19-san-francisco-giants-vs-seattle-mariners@open-sports-cal
+DTSTART:20260719T201000Z
+DTEND:20260719T231000Z
+SUMMARY:San Francisco Giants @ Seattle Mariners
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-20-san-francisco-giants-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260720T234000Z
+DTEND:20260721T024000Z
+SUMMARY:San Francisco Giants @ Kansas City Royals
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-21-san-francisco-giants-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260721T234000Z
+DTEND:20260722T024000Z
+SUMMARY:San Francisco Giants @ Kansas City Royals
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-22-san-francisco-giants-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260722T181000Z
+DTEND:20260722T211000Z
+SUMMARY:San Francisco Giants @ Kansas City Royals
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-24-los-angeles-angels-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260725T021500Z
+DTEND:20260725T051500Z
+SUMMARY:Los Angeles Angels @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-25-los-angeles-angels-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260725T200500Z
+DTEND:20260725T230500Z
+SUMMARY:Los Angeles Angels @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-26-los-angeles-angels-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260726T200500Z
+DTEND:20260726T230500Z
+SUMMARY:Los Angeles Angels @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-27-milwaukee-brewers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260728T014500Z
+DTEND:20260728T044500Z
+SUMMARY:Milwaukee Brewers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-28-milwaukee-brewers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260729T014500Z
+DTEND:20260729T044500Z
+SUMMARY:Milwaukee Brewers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-29-milwaukee-brewers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260729T194500Z
+DTEND:20260729T224500Z
+SUMMARY:Milwaukee Brewers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-30-san-francisco-giants-vs-san-diego-padres@open-sports-cal
+DTSTART:20260731T014000Z
+DTEND:20260731T044000Z
+SUMMARY:San Francisco Giants @ San Diego Padres
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-31-san-francisco-giants-vs-san-diego-padres@open-sports-cal
+DTSTART:20260801T014000Z
+DTEND:20260801T044000Z
+SUMMARY:San Francisco Giants @ San Diego Padres
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-01-san-francisco-giants-vs-san-diego-padres@open-sports-cal
+DTSTART:20260802T004000Z
+DTEND:20260802T034000Z
+SUMMARY:San Francisco Giants @ San Diego Padres
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-02-san-francisco-giants-vs-san-diego-padres@open-sports-cal
+DTSTART:20260802T201000Z
+DTEND:20260802T231000Z
+SUMMARY:San Francisco Giants @ San Diego Padres
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-03-san-francisco-giants-vs-texas-rangers@open-sports-cal
+DTSTART:20260804T000500Z
+DTEND:20260804T030500Z
+SUMMARY:San Francisco Giants @ Texas Rangers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-04-san-francisco-giants-vs-texas-rangers@open-sports-cal
+DTSTART:20260805T000500Z
+DTEND:20260805T030500Z
+SUMMARY:San Francisco Giants @ Texas Rangers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-05-san-francisco-giants-vs-texas-rangers@open-sports-cal
+DTSTART:20260805T183500Z
+DTEND:20260805T213500Z
+SUMMARY:San Francisco Giants @ Texas Rangers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-07-detroit-tigers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260808T021500Z
+DTEND:20260808T051500Z
+SUMMARY:Detroit Tigers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nDetroit Tigers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-08-detroit-tigers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260808T231500Z
+DTEND:20260809T021500Z
+SUMMARY:Detroit Tigers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nDetroit Tigers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-09-detroit-tigers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260809T200500Z
+DTEND:20260809T230500Z
+SUMMARY:Detroit Tigers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nDetroit Tigers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-10-houston-astros-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260811T014500Z
+DTEND:20260811T044500Z
+SUMMARY:Houston Astros @ San Francisco Giants
+DESCRIPTION:MLB 2026\nHouston Astros @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-11-houston-astros-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260812T014500Z
+DTEND:20260812T044500Z
+SUMMARY:Houston Astros @ San Francisco Giants
+DESCRIPTION:MLB 2026\nHouston Astros @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-12-houston-astros-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260812T194500Z
+DTEND:20260812T224500Z
+SUMMARY:Houston Astros @ San Francisco Giants
+DESCRIPTION:MLB 2026\nHouston Astros @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-14-colorado-rockies-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260815T021500Z
+DTEND:20260815T051500Z
+SUMMARY:Colorado Rockies @ San Francisco Giants
+DESCRIPTION:MLB 2026\nColorado Rockies @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-15-colorado-rockies-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260815T200500Z
+DTEND:20260815T230500Z
+SUMMARY:Colorado Rockies @ San Francisco Giants
+DESCRIPTION:MLB 2026\nColorado Rockies @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-16-colorado-rockies-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260816T200500Z
+DTEND:20260816T230500Z
+SUMMARY:Colorado Rockies @ San Francisco Giants
+DESCRIPTION:MLB 2026\nColorado Rockies @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-18-san-francisco-giants-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260818T224000Z
+DTEND:20260819T014000Z
+SUMMARY:San Francisco Giants @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-19-san-francisco-giants-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260819T224000Z
+DTEND:20260820T014000Z
+SUMMARY:San Francisco Giants @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-20-san-francisco-giants-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260820T171000Z
+DTEND:20260820T201000Z
+SUMMARY:San Francisco Giants @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-21-san-francisco-giants-vs-boston-red-sox@open-sports-cal
+DTSTART:20260821T231000Z
+DTEND:20260822T021000Z
+SUMMARY:San Francisco Giants @ Boston Red Sox
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-22-san-francisco-giants-vs-boston-red-sox@open-sports-cal
+DTSTART:20260822T231500Z
+DTEND:20260823T021500Z
+SUMMARY:San Francisco Giants @ Boston Red Sox
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-23-san-francisco-giants-vs-boston-red-sox@open-sports-cal
+DTSTART:20260823T191000Z
+DTEND:20260823T221000Z
+SUMMARY:San Francisco Giants @ Boston Red Sox
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-24-cincinnati-reds-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260825T014500Z
+DTEND:20260825T044500Z
+SUMMARY:Cincinnati Reds @ San Francisco Giants
+DESCRIPTION:MLB 2026\nCincinnati Reds @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-25-cincinnati-reds-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260826T014500Z
+DTEND:20260826T044500Z
+SUMMARY:Cincinnati Reds @ San Francisco Giants
+DESCRIPTION:MLB 2026\nCincinnati Reds @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-26-cincinnati-reds-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260826T194500Z
+DTEND:20260826T224500Z
+SUMMARY:Cincinnati Reds @ San Francisco Giants
+DESCRIPTION:MLB 2026\nCincinnati Reds @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-27-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260828T014500Z
+DTEND:20260828T044500Z
+SUMMARY:Arizona Diamondbacks @ San Francisco Giants
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-28-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260829T021500Z
+DTEND:20260829T051500Z
+SUMMARY:Arizona Diamondbacks @ San Francisco Giants
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-29-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260830T020500Z
+DTEND:20260830T050500Z
+SUMMARY:Arizona Diamondbacks @ San Francisco Giants
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-30-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260830T200500Z
+DTEND:20260830T230500Z
+SUMMARY:Arizona Diamondbacks @ San Francisco Giants
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-01-san-francisco-giants-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260901T224000Z
+DTEND:20260902T014000Z
+SUMMARY:San Francisco Giants @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-02-san-francisco-giants-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260902T224000Z
+DTEND:20260903T014000Z
+SUMMARY:San Francisco Giants @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-03-san-francisco-giants-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260903T163500Z
+DTEND:20260903T193500Z
+SUMMARY:San Francisco Giants @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-04-san-francisco-giants-vs-new-york-mets@open-sports-cal
+DTSTART:20260904T231000Z
+DTEND:20260905T021000Z
+SUMMARY:San Francisco Giants @ New York Mets
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-05-san-francisco-giants-vs-new-york-mets@open-sports-cal
+DTSTART:20260905T201000Z
+DTEND:20260905T231000Z
+SUMMARY:San Francisco Giants @ New York Mets
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-06-san-francisco-giants-vs-new-york-mets@open-sports-cal
+DTSTART:20260906T174000Z
+DTEND:20260906T204000Z
+SUMMARY:San Francisco Giants @ New York Mets
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-07-st-louis-cardinals-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260908T001000Z
+DTEND:20260908T031000Z
+SUMMARY:St. Louis Cardinals @ San Francisco Giants
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-08-st-louis-cardinals-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260909T014500Z
+DTEND:20260909T044500Z
+SUMMARY:St. Louis Cardinals @ San Francisco Giants
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-09-st-louis-cardinals-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260909T194500Z
+DTEND:20260909T224500Z
+SUMMARY:St. Louis Cardinals @ San Francisco Giants
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-11-san-diego-padres-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260912T021500Z
+DTEND:20260912T051500Z
+SUMMARY:San Diego Padres @ San Francisco Giants
+DESCRIPTION:MLB 2026\nSan Diego Padres @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-12-san-diego-padres-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260912T200500Z
+DTEND:20260912T230500Z
+SUMMARY:San Diego Padres @ San Francisco Giants
+DESCRIPTION:MLB 2026\nSan Diego Padres @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-13-san-diego-padres-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260913T232000Z
+DTEND:20260914T022000Z
+SUMMARY:San Diego Padres @ San Francisco Giants
+DESCRIPTION:MLB 2026\nSan Diego Padres @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-14-san-francisco-giants-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260914T234500Z
+DTEND:20260915T024500Z
+SUMMARY:San Francisco Giants @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-15-san-francisco-giants-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260915T234500Z
+DTEND:20260916T024500Z
+SUMMARY:San Francisco Giants @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-16-san-francisco-giants-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260916T171500Z
+DTEND:20260916T201500Z
+SUMMARY:San Francisco Giants @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-18-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260919T021000Z
+DTEND:20260919T051000Z
+SUMMARY:San Francisco Giants @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-19-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260920T011000Z
+DTEND:20260920T041000Z
+SUMMARY:San Francisco Giants @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-20-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260920T201000Z
+DTEND:20260920T231000Z
+SUMMARY:San Francisco Giants @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-21-minnesota-twins-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260922T014500Z
+DTEND:20260922T044500Z
+SUMMARY:Minnesota Twins @ San Francisco Giants
+DESCRIPTION:MLB 2026\nMinnesota Twins @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-22-minnesota-twins-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260923T014500Z
+DTEND:20260923T044500Z
+SUMMARY:Minnesota Twins @ San Francisco Giants
+DESCRIPTION:MLB 2026\nMinnesota Twins @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-23-minnesota-twins-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260923T194500Z
+DTEND:20260923T224500Z
+SUMMARY:Minnesota Twins @ San Francisco Giants
+DESCRIPTION:MLB 2026\nMinnesota Twins @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-25-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260926T021500Z
+DTEND:20260926T051500Z
+SUMMARY:Los Angeles Dodgers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-26-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260926T200500Z
+DTEND:20260926T230500Z
+SUMMARY:Los Angeles Dodgers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-27-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260927T190500Z
+DTEND:20260927T220500Z
+SUMMARY:Los Angeles Dodgers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+END:VCALENDAR

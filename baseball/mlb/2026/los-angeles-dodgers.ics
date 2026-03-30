@@ -1,0 +1,1790 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MLB 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLB 2026 - Los Angeles Dodgers
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-26-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260327T003000Z
+DTEND:20260327T033000Z
+SUMMARY:Arizona Diamondbacks @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-27-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260328T021000Z
+DTEND:20260328T051000Z
+SUMMARY:Arizona Diamondbacks @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-28-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260329T011000Z
+DTEND:20260329T041000Z
+SUMMARY:Arizona Diamondbacks @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-30-cleveland-guardians-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260331T021000Z
+DTEND:20260331T051000Z
+SUMMARY:Cleveland Guardians @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-31-cleveland-guardians-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260401T021000Z
+DTEND:20260401T051000Z
+SUMMARY:Cleveland Guardians @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-01-cleveland-guardians-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260402T002000Z
+DTEND:20260402T032000Z
+SUMMARY:Cleveland Guardians @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-03-los-angeles-dodgers-vs-washington-nationals@open-sports-cal
+DTSTART:20260403T170500Z
+DTEND:20260403T200500Z
+SUMMARY:Los Angeles Dodgers @ Washington Nationals
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-04-los-angeles-dodgers-vs-washington-nationals@open-sports-cal
+DTSTART:20260404T200500Z
+DTEND:20260404T230500Z
+SUMMARY:Los Angeles Dodgers @ Washington Nationals
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-05-los-angeles-dodgers-vs-washington-nationals@open-sports-cal
+DTSTART:20260405T173500Z
+DTEND:20260405T203500Z
+SUMMARY:Los Angeles Dodgers @ Washington Nationals
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Washington Nationals\nNationals Park
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-06-los-angeles-dodgers-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260406T230700Z
+DTEND:20260407T020700Z
+SUMMARY:Los Angeles Dodgers @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-07-los-angeles-dodgers-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260407T230700Z
+DTEND:20260408T020700Z
+SUMMARY:Los Angeles Dodgers @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-08-los-angeles-dodgers-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260408T190700Z
+DTEND:20260408T220700Z
+SUMMARY:Los Angeles Dodgers @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-10-texas-rangers-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260411T021000Z
+DTEND:20260411T051000Z
+SUMMARY:Texas Rangers @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nTexas Rangers @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-11-texas-rangers-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260412T011000Z
+DTEND:20260412T041000Z
+SUMMARY:Texas Rangers @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nTexas Rangers @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-12-texas-rangers-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260412T201000Z
+DTEND:20260412T231000Z
+SUMMARY:Texas Rangers @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nTexas Rangers @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-13-new-york-mets-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260414T021000Z
+DTEND:20260414T051000Z
+SUMMARY:New York Mets @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nNew York Mets @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-14-new-york-mets-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260415T021000Z
+DTEND:20260415T051000Z
+SUMMARY:New York Mets @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nNew York Mets @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-15-new-york-mets-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260416T021000Z
+DTEND:20260416T051000Z
+SUMMARY:New York Mets @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nNew York Mets @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-17-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
+DTSTART:20260418T004000Z
+DTEND:20260418T034000Z
+SUMMARY:Los Angeles Dodgers @ Colorado Rockies
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-18-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
+DTSTART:20260419T001000Z
+DTEND:20260419T031000Z
+SUMMARY:Los Angeles Dodgers @ Colorado Rockies
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-19-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
+DTSTART:20260419T191000Z
+DTEND:20260419T221000Z
+SUMMARY:Los Angeles Dodgers @ Colorado Rockies
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-20-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
+DTSTART:20260421T004000Z
+DTEND:20260421T034000Z
+SUMMARY:Los Angeles Dodgers @ Colorado Rockies
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-21-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260422T014500Z
+DTEND:20260422T044500Z
+SUMMARY:Los Angeles Dodgers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-22-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260423T014500Z
+DTEND:20260423T044500Z
+SUMMARY:Los Angeles Dodgers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-23-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260423T194500Z
+DTEND:20260423T224500Z
+SUMMARY:Los Angeles Dodgers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-24-chicago-cubs-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260425T021500Z
+DTEND:20260425T051500Z
+SUMMARY:Chicago Cubs @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nChicago Cubs @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-25-chicago-cubs-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260425T231500Z
+DTEND:20260426T021500Z
+SUMMARY:Chicago Cubs @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nChicago Cubs @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-26-chicago-cubs-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260426T201000Z
+DTEND:20260426T231000Z
+SUMMARY:Chicago Cubs @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nChicago Cubs @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-27-miami-marlins-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260428T021000Z
+DTEND:20260428T051000Z
+SUMMARY:Miami Marlins @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nMiami Marlins @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-28-miami-marlins-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260429T021000Z
+DTEND:20260429T051000Z
+SUMMARY:Miami Marlins @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nMiami Marlins @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-29-miami-marlins-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260429T191000Z
+DTEND:20260429T221000Z
+SUMMARY:Miami Marlins @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nMiami Marlins @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-01-los-angeles-dodgers-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260502T001500Z
+DTEND:20260502T031500Z
+SUMMARY:Los Angeles Dodgers @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-02-los-angeles-dodgers-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260502T231500Z
+DTEND:20260503T021500Z
+SUMMARY:Los Angeles Dodgers @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-03-los-angeles-dodgers-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260503T181500Z
+DTEND:20260503T211500Z
+SUMMARY:Los Angeles Dodgers @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-04-los-angeles-dodgers-vs-houston-astros@open-sports-cal
+DTSTART:20260505T001000Z
+DTEND:20260505T031000Z
+SUMMARY:Los Angeles Dodgers @ Houston Astros
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-05-los-angeles-dodgers-vs-houston-astros@open-sports-cal
+DTSTART:20260506T001000Z
+DTEND:20260506T031000Z
+SUMMARY:Los Angeles Dodgers @ Houston Astros
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-06-los-angeles-dodgers-vs-houston-astros@open-sports-cal
+DTSTART:20260506T181000Z
+DTEND:20260506T211000Z
+SUMMARY:Los Angeles Dodgers @ Houston Astros
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-08-atlanta-braves-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260509T021000Z
+DTEND:20260509T051000Z
+SUMMARY:Atlanta Braves @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-09-atlanta-braves-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260510T011000Z
+DTEND:20260510T041000Z
+SUMMARY:Atlanta Braves @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-10-atlanta-braves-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260510T201000Z
+DTEND:20260510T231000Z
+SUMMARY:Atlanta Braves @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-11-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260512T021000Z
+DTEND:20260512T051000Z
+SUMMARY:San Francisco Giants @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-12-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260513T021000Z
+DTEND:20260513T051000Z
+SUMMARY:San Francisco Giants @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-13-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260514T021000Z
+DTEND:20260514T051000Z
+SUMMARY:San Francisco Giants @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-14-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260515T021000Z
+DTEND:20260515T051000Z
+SUMMARY:San Francisco Giants @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-15-los-angeles-dodgers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260516T013800Z
+DTEND:20260516T043800Z
+SUMMARY:Los Angeles Dodgers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-16-los-angeles-dodgers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260517T013800Z
+DTEND:20260517T043800Z
+SUMMARY:Los Angeles Dodgers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-17-los-angeles-dodgers-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260517T200700Z
+DTEND:20260517T230700Z
+SUMMARY:Los Angeles Dodgers @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-18-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260519T014000Z
+DTEND:20260519T044000Z
+SUMMARY:Los Angeles Dodgers @ San Diego Padres
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-19-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260520T014000Z
+DTEND:20260520T044000Z
+SUMMARY:Los Angeles Dodgers @ San Diego Padres
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-20-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260521T004000Z
+DTEND:20260521T034000Z
+SUMMARY:Los Angeles Dodgers @ San Diego Padres
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-22-los-angeles-dodgers-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260522T234000Z
+DTEND:20260523T024000Z
+SUMMARY:Los Angeles Dodgers @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-23-los-angeles-dodgers-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260523T231500Z
+DTEND:20260524T021500Z
+SUMMARY:Los Angeles Dodgers @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-24-los-angeles-dodgers-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260524T181000Z
+DTEND:20260524T211000Z
+SUMMARY:Los Angeles Dodgers @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-25-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260526T011000Z
+DTEND:20260526T041000Z
+SUMMARY:Colorado Rockies @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-26-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260527T021000Z
+DTEND:20260527T051000Z
+SUMMARY:Colorado Rockies @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-27-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260528T021000Z
+DTEND:20260528T051000Z
+SUMMARY:Colorado Rockies @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-29-philadelphia-phillies-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260530T021500Z
+DTEND:20260530T051500Z
+SUMMARY:Philadelphia Phillies @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-30-philadelphia-phillies-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260531T021000Z
+DTEND:20260531T051000Z
+SUMMARY:Philadelphia Phillies @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-31-philadelphia-phillies-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260531T201000Z
+DTEND:20260531T231000Z
+SUMMARY:Philadelphia Phillies @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nPhiladelphia Phillies @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-01-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260602T014000Z
+DTEND:20260602T044000Z
+SUMMARY:Los Angeles Dodgers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-02-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260603T014000Z
+DTEND:20260603T044000Z
+SUMMARY:Los Angeles Dodgers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-03-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260604T014000Z
+DTEND:20260604T044000Z
+SUMMARY:Los Angeles Dodgers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-04-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260605T014000Z
+DTEND:20260605T044000Z
+SUMMARY:Los Angeles Dodgers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-05-los-angeles-angels-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260606T021000Z
+DTEND:20260606T051000Z
+SUMMARY:Los Angeles Angels @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-06-los-angeles-angels-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260607T021000Z
+DTEND:20260607T051000Z
+SUMMARY:Los Angeles Angels @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-07-los-angeles-angels-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260607T201000Z
+DTEND:20260607T231000Z
+SUMMARY:Los Angeles Angels @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-09-los-angeles-dodgers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260609T224000Z
+DTEND:20260610T014000Z
+SUMMARY:Los Angeles Dodgers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-10-los-angeles-dodgers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260610T224000Z
+DTEND:20260611T014000Z
+SUMMARY:Los Angeles Dodgers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-11-los-angeles-dodgers-vs-pittsburgh-pirates@open-sports-cal
+DTSTART:20260611T224000Z
+DTEND:20260612T014000Z
+SUMMARY:Los Angeles Dodgers @ Pittsburgh Pirates
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Pittsburgh Pirates\nPNC Park
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-12-los-angeles-dodgers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260612T234000Z
+DTEND:20260613T024000Z
+SUMMARY:Los Angeles Dodgers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-13-los-angeles-dodgers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260613T201000Z
+DTEND:20260613T231000Z
+SUMMARY:Los Angeles Dodgers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-14-los-angeles-dodgers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260614T181000Z
+DTEND:20260614T211000Z
+SUMMARY:Los Angeles Dodgers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-15-tampa-bay-rays-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260616T021000Z
+DTEND:20260616T051000Z
+SUMMARY:Tampa Bay Rays @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-16-tampa-bay-rays-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260617T021000Z
+DTEND:20260617T051000Z
+SUMMARY:Tampa Bay Rays @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-17-tampa-bay-rays-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260617T191000Z
+DTEND:20260617T221000Z
+SUMMARY:Tampa Bay Rays @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-19-baltimore-orioles-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260620T021000Z
+DTEND:20260620T051000Z
+SUMMARY:Baltimore Orioles @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-20-baltimore-orioles-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260621T021000Z
+DTEND:20260621T051000Z
+SUMMARY:Baltimore Orioles @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-21-baltimore-orioles-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260621T201000Z
+DTEND:20260621T231000Z
+SUMMARY:Baltimore Orioles @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-22-los-angeles-dodgers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260622T234000Z
+DTEND:20260623T024000Z
+SUMMARY:Los Angeles Dodgers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-23-los-angeles-dodgers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260623T234000Z
+DTEND:20260624T024000Z
+SUMMARY:Los Angeles Dodgers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-24-los-angeles-dodgers-vs-minnesota-twins@open-sports-cal
+DTSTART:20260624T234000Z
+DTEND:20260625T024000Z
+SUMMARY:Los Angeles Dodgers @ Minnesota Twins
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-26-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260627T014500Z
+DTEND:20260627T044500Z
+SUMMARY:Los Angeles Dodgers @ San Diego Padres
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-27-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260628T004000Z
+DTEND:20260628T034000Z
+SUMMARY:Los Angeles Dodgers @ San Diego Padres
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-28-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
+DTSTART:20260628T201000Z
+DTEND:20260628T231000Z
+SUMMARY:Los Angeles Dodgers @ San Diego Padres
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-29-los-angeles-dodgers-vs-athletics@open-sports-cal
+DTSTART:20260630T014000Z
+DTEND:20260630T044000Z
+SUMMARY:Los Angeles Dodgers @ Athletics
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-30-los-angeles-dodgers-vs-athletics@open-sports-cal
+DTSTART:20260701T014000Z
+DTEND:20260701T044000Z
+SUMMARY:Los Angeles Dodgers @ Athletics
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-01-los-angeles-dodgers-vs-athletics@open-sports-cal
+DTSTART:20260702T014000Z
+DTEND:20260702T044000Z
+SUMMARY:Los Angeles Dodgers @ Athletics
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-02-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260703T021000Z
+DTEND:20260703T051000Z
+SUMMARY:San Diego Padres @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-03-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260704T021000Z
+DTEND:20260704T051000Z
+SUMMARY:San Diego Padres @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-04-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260705T021000Z
+DTEND:20260705T051000Z
+SUMMARY:San Diego Padres @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-05-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260705T232000Z
+DTEND:20260706T022000Z
+SUMMARY:San Diego Padres @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-06-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260707T021000Z
+DTEND:20260707T051000Z
+SUMMARY:Colorado Rockies @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-07-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260708T021000Z
+DTEND:20260708T051000Z
+SUMMARY:Colorado Rockies @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-08-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260709T021000Z
+DTEND:20260709T051000Z
+SUMMARY:Colorado Rockies @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-10-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260711T021000Z
+DTEND:20260711T051000Z
+SUMMARY:Arizona Diamondbacks @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-11-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260712T011000Z
+DTEND:20260712T041000Z
+SUMMARY:Arizona Diamondbacks @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-12-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260712T201000Z
+DTEND:20260712T231000Z
+SUMMARY:Arizona Diamondbacks @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-17-los-angeles-dodgers-vs-new-york-yankees@open-sports-cal
+DTSTART:20260717T230500Z
+DTEND:20260718T020500Z
+SUMMARY:Los Angeles Dodgers @ New York Yankees
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-18-los-angeles-dodgers-vs-new-york-yankees@open-sports-cal
+DTSTART:20260719T000800Z
+DTEND:20260719T030800Z
+SUMMARY:Los Angeles Dodgers @ New York Yankees
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-19-los-angeles-dodgers-vs-new-york-yankees@open-sports-cal
+DTSTART:20260719T232000Z
+DTEND:20260720T022000Z
+SUMMARY:Los Angeles Dodgers @ New York Yankees
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-20-los-angeles-dodgers-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260720T231000Z
+DTEND:20260721T021000Z
+SUMMARY:Los Angeles Dodgers @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-21-los-angeles-dodgers-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260721T224000Z
+DTEND:20260722T014000Z
+SUMMARY:Los Angeles Dodgers @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-22-los-angeles-dodgers-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260722T224000Z
+DTEND:20260723T014000Z
+SUMMARY:Los Angeles Dodgers @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-24-los-angeles-dodgers-vs-new-york-mets@open-sports-cal
+DTSTART:20260724T231000Z
+DTEND:20260725T021000Z
+SUMMARY:Los Angeles Dodgers @ New York Mets
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-25-los-angeles-dodgers-vs-new-york-mets@open-sports-cal
+DTSTART:20260725T231500Z
+DTEND:20260726T021500Z
+SUMMARY:Los Angeles Dodgers @ New York Mets
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-26-los-angeles-dodgers-vs-new-york-mets@open-sports-cal
+DTSTART:20260726T174000Z
+DTEND:20260726T204000Z
+SUMMARY:Los Angeles Dodgers @ New York Mets
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ New York Mets\nCiti Field
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-28-seattle-mariners-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260729T021000Z
+DTEND:20260729T051000Z
+SUMMARY:Seattle Mariners @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-29-seattle-mariners-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260730T021000Z
+DTEND:20260730T051000Z
+SUMMARY:Seattle Mariners @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-30-seattle-mariners-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260731T021000Z
+DTEND:20260731T051000Z
+SUMMARY:Seattle Mariners @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-31-boston-red-sox-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260801T021000Z
+DTEND:20260801T051000Z
+SUMMARY:Boston Red Sox @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-01-boston-red-sox-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260802T011000Z
+DTEND:20260802T041000Z
+SUMMARY:Boston Red Sox @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-02-boston-red-sox-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260802T232000Z
+DTEND:20260803T022000Z
+SUMMARY:Boston Red Sox @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-03-los-angeles-dodgers-vs-chicago-cubs@open-sports-cal
+DTSTART:20260804T000500Z
+DTEND:20260804T030500Z
+SUMMARY:Los Angeles Dodgers @ Chicago Cubs
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-04-los-angeles-dodgers-vs-chicago-cubs@open-sports-cal
+DTSTART:20260805T000500Z
+DTEND:20260805T030500Z
+SUMMARY:Los Angeles Dodgers @ Chicago Cubs
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-05-los-angeles-dodgers-vs-chicago-cubs@open-sports-cal
+DTSTART:20260805T182000Z
+DTEND:20260805T212000Z
+SUMMARY:Los Angeles Dodgers @ Chicago Cubs
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-07-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260808T014000Z
+DTEND:20260808T044000Z
+SUMMARY:Los Angeles Dodgers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-08-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260809T001000Z
+DTEND:20260809T031000Z
+SUMMARY:Los Angeles Dodgers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-09-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260809T201000Z
+DTEND:20260809T231000Z
+SUMMARY:Los Angeles Dodgers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-10-kansas-city-royals-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260811T021000Z
+DTEND:20260811T051000Z
+SUMMARY:Kansas City Royals @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nKansas City Royals @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-11-kansas-city-royals-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260812T021000Z
+DTEND:20260812T051000Z
+SUMMARY:Kansas City Royals @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nKansas City Royals @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-12-kansas-city-royals-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260813T021000Z
+DTEND:20260813T051000Z
+SUMMARY:Kansas City Royals @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nKansas City Royals @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-13-milwaukee-brewers-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260814T021000Z
+DTEND:20260814T051000Z
+SUMMARY:Milwaukee Brewers @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-14-milwaukee-brewers-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260815T021000Z
+DTEND:20260815T051000Z
+SUMMARY:Milwaukee Brewers @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-15-milwaukee-brewers-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260815T231500Z
+DTEND:20260816T021500Z
+SUMMARY:Milwaukee Brewers @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-16-milwaukee-brewers-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260816T201000Z
+DTEND:20260816T231000Z
+SUMMARY:Milwaukee Brewers @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nMilwaukee Brewers @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-17-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
+DTSTART:20260818T004000Z
+DTEND:20260818T034000Z
+SUMMARY:Los Angeles Dodgers @ Colorado Rockies
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-18-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
+DTSTART:20260819T004000Z
+DTEND:20260819T034000Z
+SUMMARY:Los Angeles Dodgers @ Colorado Rockies
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-19-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
+DTSTART:20260820T004000Z
+DTEND:20260820T034000Z
+SUMMARY:Los Angeles Dodgers @ Colorado Rockies
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-21-pittsburgh-pirates-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260822T021000Z
+DTEND:20260822T051000Z
+SUMMARY:Pittsburgh Pirates @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-22-pittsburgh-pirates-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260823T011000Z
+DTEND:20260823T041000Z
+SUMMARY:Pittsburgh Pirates @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-23-pittsburgh-pirates-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260823T201000Z
+DTEND:20260823T231000Z
+SUMMARY:Pittsburgh Pirates @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-25-los-angeles-dodgers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260825T231500Z
+DTEND:20260826T021500Z
+SUMMARY:Los Angeles Dodgers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-26-los-angeles-dodgers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260826T231500Z
+DTEND:20260827T021500Z
+SUMMARY:Los Angeles Dodgers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-27-los-angeles-dodgers-vs-atlanta-braves@open-sports-cal
+DTSTART:20260827T231500Z
+DTEND:20260828T021500Z
+SUMMARY:Los Angeles Dodgers @ Atlanta Braves
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Atlanta Braves\nTruist Park
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-28-los-angeles-dodgers-vs-detroit-tigers@open-sports-cal
+DTSTART:20260828T224000Z
+DTEND:20260829T014000Z
+SUMMARY:Los Angeles Dodgers @ Detroit Tigers
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-29-los-angeles-dodgers-vs-detroit-tigers@open-sports-cal
+DTSTART:20260829T171000Z
+DTEND:20260829T201000Z
+SUMMARY:Los Angeles Dodgers @ Detroit Tigers
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-30-los-angeles-dodgers-vs-detroit-tigers@open-sports-cal
+DTSTART:20260830T174000Z
+DTEND:20260830T204000Z
+SUMMARY:Los Angeles Dodgers @ Detroit Tigers
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-01-st-louis-cardinals-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260902T021000Z
+DTEND:20260902T051000Z
+SUMMARY:St. Louis Cardinals @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-02-st-louis-cardinals-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260903T021000Z
+DTEND:20260903T051000Z
+SUMMARY:St. Louis Cardinals @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-03-st-louis-cardinals-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260904T021000Z
+DTEND:20260904T051000Z
+SUMMARY:St. Louis Cardinals @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSt. Louis Cardinals @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-04-washington-nationals-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260905T021000Z
+DTEND:20260905T051000Z
+SUMMARY:Washington Nationals @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nWashington Nationals @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-05-washington-nationals-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260906T011000Z
+DTEND:20260906T041000Z
+SUMMARY:Washington Nationals @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nWashington Nationals @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-06-washington-nationals-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260907T021000Z
+DTEND:20260907T051000Z
+SUMMARY:Washington Nationals @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nWashington Nationals @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-07-cincinnati-reds-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260908T011000Z
+DTEND:20260908T041000Z
+SUMMARY:Cincinnati Reds @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-08-cincinnati-reds-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260909T021000Z
+DTEND:20260909T051000Z
+SUMMARY:Cincinnati Reds @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-09-cincinnati-reds-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260910T021000Z
+DTEND:20260910T051000Z
+SUMMARY:Cincinnati Reds @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-11-los-angeles-dodgers-vs-miami-marlins@open-sports-cal
+DTSTART:20260911T231000Z
+DTEND:20260912T021000Z
+SUMMARY:Los Angeles Dodgers @ Miami Marlins
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-12-los-angeles-dodgers-vs-miami-marlins@open-sports-cal
+DTSTART:20260912T201000Z
+DTEND:20260912T231000Z
+SUMMARY:Los Angeles Dodgers @ Miami Marlins
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-13-los-angeles-dodgers-vs-miami-marlins@open-sports-cal
+DTSTART:20260913T174000Z
+DTEND:20260913T204000Z
+SUMMARY:Los Angeles Dodgers @ Miami Marlins
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-14-los-angeles-dodgers-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260914T224000Z
+DTEND:20260915T014000Z
+SUMMARY:Los Angeles Dodgers @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-15-los-angeles-dodgers-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260915T224000Z
+DTEND:20260916T014000Z
+SUMMARY:Los Angeles Dodgers @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-16-los-angeles-dodgers-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260916T224000Z
+DTEND:20260917T014000Z
+SUMMARY:Los Angeles Dodgers @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-17-los-angeles-dodgers-vs-cincinnati-reds@open-sports-cal
+DTSTART:20260917T164000Z
+DTEND:20260917T194000Z
+SUMMARY:Los Angeles Dodgers @ Cincinnati Reds
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Cincinnati Reds\nGreat American Ball Park
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-18-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260919T021000Z
+DTEND:20260919T051000Z
+SUMMARY:San Francisco Giants @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-19-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260920T011000Z
+DTEND:20260920T041000Z
+SUMMARY:San Francisco Giants @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-20-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260920T201000Z
+DTEND:20260920T231000Z
+SUMMARY:San Francisco Giants @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-22-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260923T021000Z
+DTEND:20260923T051000Z
+SUMMARY:San Diego Padres @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-23-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260924T021000Z
+DTEND:20260924T051000Z
+SUMMARY:San Diego Padres @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-24-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
+DTSTART:20260925T021000Z
+DTEND:20260925T051000Z
+SUMMARY:San Diego Padres @ Los Angeles Dodgers
+DESCRIPTION:MLB 2026\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-25-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260926T021500Z
+DTEND:20260926T051500Z
+SUMMARY:Los Angeles Dodgers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-26-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260926T200500Z
+DTEND:20260926T230500Z
+SUMMARY:Los Angeles Dodgers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-27-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260927T190500Z
+DTEND:20260927T220500Z
+SUMMARY:Los Angeles Dodgers @ San Francisco Giants
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+END:VCALENDAR

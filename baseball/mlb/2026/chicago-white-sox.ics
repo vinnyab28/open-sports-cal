@@ -1,0 +1,1790 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MLB 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLB 2026 - Chicago White Sox
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-26-chicago-white-sox-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260326T181000Z
+DTEND:20260326T211000Z
+SUMMARY:Chicago White Sox @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-28-chicago-white-sox-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260328T231000Z
+DTEND:20260329T021000Z
+SUMMARY:Chicago White Sox @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-29-chicago-white-sox-vs-milwaukee-brewers@open-sports-cal
+DTSTART:20260329T181000Z
+DTEND:20260329T211000Z
+SUMMARY:Chicago White Sox @ Milwaukee Brewers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Milwaukee Brewers\nAmerican Family Field
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-30-chicago-white-sox-vs-miami-marlins@open-sports-cal
+DTSTART:20260330T224000Z
+DTEND:20260331T014000Z
+SUMMARY:Chicago White Sox @ Miami Marlins
+DESCRIPTION:MLB 2026\nChicago White Sox @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-03-31-chicago-white-sox-vs-miami-marlins@open-sports-cal
+DTSTART:20260331T224000Z
+DTEND:20260401T014000Z
+SUMMARY:Chicago White Sox @ Miami Marlins
+DESCRIPTION:MLB 2026\nChicago White Sox @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-01-chicago-white-sox-vs-miami-marlins@open-sports-cal
+DTSTART:20260401T171000Z
+DTEND:20260401T201000Z
+SUMMARY:Chicago White Sox @ Miami Marlins
+DESCRIPTION:MLB 2026\nChicago White Sox @ Miami Marlins\nloanDepot park
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-02-toronto-blue-jays-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260402T201000Z
+DTEND:20260402T231000Z
+SUMMARY:Toronto Blue Jays @ Chicago White Sox
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-04-toronto-blue-jays-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260404T181000Z
+DTEND:20260404T211000Z
+SUMMARY:Toronto Blue Jays @ Chicago White Sox
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-05-toronto-blue-jays-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260405T181000Z
+DTEND:20260405T211000Z
+SUMMARY:Toronto Blue Jays @ Chicago White Sox
+DESCRIPTION:MLB 2026\nToronto Blue Jays @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-06-baltimore-orioles-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260406T234000Z
+DTEND:20260407T024000Z
+SUMMARY:Baltimore Orioles @ Chicago White Sox
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-07-baltimore-orioles-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260407T234000Z
+DTEND:20260408T024000Z
+SUMMARY:Baltimore Orioles @ Chicago White Sox
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-08-baltimore-orioles-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260408T181000Z
+DTEND:20260408T211000Z
+SUMMARY:Baltimore Orioles @ Chicago White Sox
+DESCRIPTION:MLB 2026\nBaltimore Orioles @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-09-chicago-white-sox-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260409T234000Z
+DTEND:20260410T024000Z
+SUMMARY:Chicago White Sox @ Kansas City Royals
+DESCRIPTION:MLB 2026\nChicago White Sox @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-10-chicago-white-sox-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260410T234000Z
+DTEND:20260411T024000Z
+SUMMARY:Chicago White Sox @ Kansas City Royals
+DESCRIPTION:MLB 2026\nChicago White Sox @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-11-chicago-white-sox-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260411T201000Z
+DTEND:20260411T231000Z
+SUMMARY:Chicago White Sox @ Kansas City Royals
+DESCRIPTION:MLB 2026\nChicago White Sox @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-12-chicago-white-sox-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260412T181000Z
+DTEND:20260412T211000Z
+SUMMARY:Chicago White Sox @ Kansas City Royals
+DESCRIPTION:MLB 2026\nChicago White Sox @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-14-tampa-bay-rays-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260414T234000Z
+DTEND:20260415T024000Z
+SUMMARY:Tampa Bay Rays @ Chicago White Sox
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-15-tampa-bay-rays-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260415T234000Z
+DTEND:20260416T024000Z
+SUMMARY:Tampa Bay Rays @ Chicago White Sox
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-16-tampa-bay-rays-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260416T181000Z
+DTEND:20260416T211000Z
+SUMMARY:Tampa Bay Rays @ Chicago White Sox
+DESCRIPTION:MLB 2026\nTampa Bay Rays @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-17-chicago-white-sox-vs-athletics@open-sports-cal
+DTSTART:20260418T014000Z
+DTEND:20260418T044000Z
+SUMMARY:Chicago White Sox @ Athletics
+DESCRIPTION:MLB 2026\nChicago White Sox @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-18-chicago-white-sox-vs-athletics@open-sports-cal
+DTSTART:20260418T200500Z
+DTEND:20260418T230500Z
+SUMMARY:Chicago White Sox @ Athletics
+DESCRIPTION:MLB 2026\nChicago White Sox @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-19-chicago-white-sox-vs-athletics@open-sports-cal
+DTSTART:20260419T200500Z
+DTEND:20260419T230500Z
+SUMMARY:Chicago White Sox @ Athletics
+DESCRIPTION:MLB 2026\nChicago White Sox @ Athletics\nSutter Health Park
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-21-chicago-white-sox-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260422T014000Z
+DTEND:20260422T044000Z
+SUMMARY:Chicago White Sox @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nChicago White Sox @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-22-chicago-white-sox-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260423T014000Z
+DTEND:20260423T044000Z
+SUMMARY:Chicago White Sox @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nChicago White Sox @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-23-chicago-white-sox-vs-arizona-diamondbacks@open-sports-cal
+DTSTART:20260423T194000Z
+DTEND:20260423T224000Z
+SUMMARY:Chicago White Sox @ Arizona Diamondbacks
+DESCRIPTION:MLB 2026\nChicago White Sox @ Arizona Diamondbacks\nChase Field
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-24-washington-nationals-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260424T234000Z
+DTEND:20260425T024000Z
+SUMMARY:Washington Nationals @ Chicago White Sox
+DESCRIPTION:MLB 2026\nWashington Nationals @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-25-washington-nationals-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260425T201000Z
+DTEND:20260425T231000Z
+SUMMARY:Washington Nationals @ Chicago White Sox
+DESCRIPTION:MLB 2026\nWashington Nationals @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-26-washington-nationals-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260426T181000Z
+DTEND:20260426T211000Z
+SUMMARY:Washington Nationals @ Chicago White Sox
+DESCRIPTION:MLB 2026\nWashington Nationals @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-27-los-angeles-angels-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260427T234000Z
+DTEND:20260428T024000Z
+SUMMARY:Los Angeles Angels @ Chicago White Sox
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-28-los-angeles-angels-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260428T234000Z
+DTEND:20260429T024000Z
+SUMMARY:Los Angeles Angels @ Chicago White Sox
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-04-29-los-angeles-angels-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260429T171000Z
+DTEND:20260429T201000Z
+SUMMARY:Los Angeles Angels @ Chicago White Sox
+DESCRIPTION:MLB 2026\nLos Angeles Angels @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-01-chicago-white-sox-vs-san-diego-padres@open-sports-cal
+DTSTART:20260502T014000Z
+DTEND:20260502T044000Z
+SUMMARY:Chicago White Sox @ San Diego Padres
+DESCRIPTION:MLB 2026\nChicago White Sox @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-02-chicago-white-sox-vs-san-diego-padres@open-sports-cal
+DTSTART:20260503T004000Z
+DTEND:20260503T034000Z
+SUMMARY:Chicago White Sox @ San Diego Padres
+DESCRIPTION:MLB 2026\nChicago White Sox @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-03-chicago-white-sox-vs-san-diego-padres@open-sports-cal
+DTSTART:20260503T201000Z
+DTEND:20260503T231000Z
+SUMMARY:Chicago White Sox @ San Diego Padres
+DESCRIPTION:MLB 2026\nChicago White Sox @ San Diego Padres\nPetco Park
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-04-chicago-white-sox-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260505T013800Z
+DTEND:20260505T043800Z
+SUMMARY:Chicago White Sox @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nChicago White Sox @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-05-chicago-white-sox-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260506T013800Z
+DTEND:20260506T043800Z
+SUMMARY:Chicago White Sox @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nChicago White Sox @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-06-chicago-white-sox-vs-los-angeles-angels@open-sports-cal
+DTSTART:20260506T200700Z
+DTEND:20260506T230700Z
+SUMMARY:Chicago White Sox @ Los Angeles Angels
+DESCRIPTION:MLB 2026\nChicago White Sox @ Los Angeles Angels\nAngel Stadium
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-08-seattle-mariners-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260508T234000Z
+DTEND:20260509T024000Z
+SUMMARY:Seattle Mariners @ Chicago White Sox
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-09-seattle-mariners-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260509T231000Z
+DTEND:20260510T021000Z
+SUMMARY:Seattle Mariners @ Chicago White Sox
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-10-seattle-mariners-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260510T181000Z
+DTEND:20260510T211000Z
+SUMMARY:Seattle Mariners @ Chicago White Sox
+DESCRIPTION:MLB 2026\nSeattle Mariners @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-12-kansas-city-royals-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260512T234000Z
+DTEND:20260513T024000Z
+SUMMARY:Kansas City Royals @ Chicago White Sox
+DESCRIPTION:MLB 2026\nKansas City Royals @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-13-kansas-city-royals-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260513T234000Z
+DTEND:20260514T024000Z
+SUMMARY:Kansas City Royals @ Chicago White Sox
+DESCRIPTION:MLB 2026\nKansas City Royals @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-14-kansas-city-royals-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260514T234000Z
+DTEND:20260515T024000Z
+SUMMARY:Kansas City Royals @ Chicago White Sox
+DESCRIPTION:MLB 2026\nKansas City Royals @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-15-chicago-cubs-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260515T234000Z
+DTEND:20260516T024000Z
+SUMMARY:Chicago Cubs @ Chicago White Sox
+DESCRIPTION:MLB 2026\nChicago Cubs @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-16-chicago-cubs-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260516T231000Z
+DTEND:20260517T021000Z
+SUMMARY:Chicago Cubs @ Chicago White Sox
+DESCRIPTION:MLB 2026\nChicago Cubs @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-17-chicago-cubs-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260517T181000Z
+DTEND:20260517T211000Z
+SUMMARY:Chicago Cubs @ Chicago White Sox
+DESCRIPTION:MLB 2026\nChicago Cubs @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-18-chicago-white-sox-vs-seattle-mariners@open-sports-cal
+DTSTART:20260519T014000Z
+DTEND:20260519T044000Z
+SUMMARY:Chicago White Sox @ Seattle Mariners
+DESCRIPTION:MLB 2026\nChicago White Sox @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-19-chicago-white-sox-vs-seattle-mariners@open-sports-cal
+DTSTART:20260520T014000Z
+DTEND:20260520T044000Z
+SUMMARY:Chicago White Sox @ Seattle Mariners
+DESCRIPTION:MLB 2026\nChicago White Sox @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-20-chicago-white-sox-vs-seattle-mariners@open-sports-cal
+DTSTART:20260520T201000Z
+DTEND:20260520T231000Z
+SUMMARY:Chicago White Sox @ Seattle Mariners
+DESCRIPTION:MLB 2026\nChicago White Sox @ Seattle Mariners\nT-Mobile Park
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-22-chicago-white-sox-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260523T021500Z
+DTEND:20260523T051500Z
+SUMMARY:Chicago White Sox @ San Francisco Giants
+DESCRIPTION:MLB 2026\nChicago White Sox @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-23-chicago-white-sox-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260523T200500Z
+DTEND:20260523T230500Z
+SUMMARY:Chicago White Sox @ San Francisco Giants
+DESCRIPTION:MLB 2026\nChicago White Sox @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-24-chicago-white-sox-vs-san-francisco-giants@open-sports-cal
+DTSTART:20260524T200500Z
+DTEND:20260524T230500Z
+SUMMARY:Chicago White Sox @ San Francisco Giants
+DESCRIPTION:MLB 2026\nChicago White Sox @ San Francisco Giants\nOracle Park
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-25-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260525T181000Z
+DTEND:20260525T211000Z
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-26-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260526T234000Z
+DTEND:20260527T024000Z
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-27-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260527T234000Z
+DTEND:20260528T024000Z
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-28-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260528T181000Z
+DTEND:20260528T211000Z
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-29-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260529T234000Z
+DTEND:20260530T024000Z
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-30-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260530T181000Z
+DTEND:20260530T211000Z
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-05-31-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260531T181000Z
+DTEND:20260531T211000Z
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-01-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART:20260601T234000Z
+DTEND:20260602T024000Z
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2026\nChicago White Sox @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-02-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART:20260602T234000Z
+DTEND:20260603T024000Z
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2026\nChicago White Sox @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-03-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART:20260603T174000Z
+DTEND:20260603T204000Z
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2026\nChicago White Sox @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-05-chicago-white-sox-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260605T224000Z
+DTEND:20260606T014000Z
+SUMMARY:Chicago White Sox @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nChicago White Sox @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-06-chicago-white-sox-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260606T200500Z
+DTEND:20260606T230500Z
+SUMMARY:Chicago White Sox @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nChicago White Sox @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-07-chicago-white-sox-vs-philadelphia-phillies@open-sports-cal
+DTSTART:20260607T173500Z
+DTEND:20260607T203500Z
+SUMMARY:Chicago White Sox @ Philadelphia Phillies
+DESCRIPTION:MLB 2026\nChicago White Sox @ Philadelphia Phillies\nCitizens Bank Park
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-09-atlanta-braves-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260609T234000Z
+DTEND:20260610T024000Z
+SUMMARY:Atlanta Braves @ Chicago White Sox
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-10-atlanta-braves-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260610T234000Z
+DTEND:20260611T024000Z
+SUMMARY:Atlanta Braves @ Chicago White Sox
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-11-atlanta-braves-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260611T234000Z
+DTEND:20260612T024000Z
+SUMMARY:Atlanta Braves @ Chicago White Sox
+DESCRIPTION:MLB 2026\nAtlanta Braves @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-12-los-angeles-dodgers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260612T234000Z
+DTEND:20260613T024000Z
+SUMMARY:Los Angeles Dodgers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-13-los-angeles-dodgers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260613T201000Z
+DTEND:20260613T231000Z
+SUMMARY:Los Angeles Dodgers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-14-los-angeles-dodgers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260614T181000Z
+DTEND:20260614T211000Z
+SUMMARY:Los Angeles Dodgers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nLos Angeles Dodgers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-16-chicago-white-sox-vs-new-york-yankees@open-sports-cal
+DTSTART:20260616T230500Z
+DTEND:20260617T020500Z
+SUMMARY:Chicago White Sox @ New York Yankees
+DESCRIPTION:MLB 2026\nChicago White Sox @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-17-chicago-white-sox-vs-new-york-yankees@open-sports-cal
+DTSTART:20260617T230500Z
+DTEND:20260618T020500Z
+SUMMARY:Chicago White Sox @ New York Yankees
+DESCRIPTION:MLB 2026\nChicago White Sox @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-18-chicago-white-sox-vs-new-york-yankees@open-sports-cal
+DTSTART:20260618T230500Z
+DTEND:20260619T020500Z
+SUMMARY:Chicago White Sox @ New York Yankees
+DESCRIPTION:MLB 2026\nChicago White Sox @ New York Yankees\nYankee Stadium
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-19-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART:20260619T224000Z
+DTEND:20260620T014000Z
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-20-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART:20260620T171000Z
+DTEND:20260620T201000Z
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-21-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART:20260621T174000Z
+DTEND:20260621T204000Z
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-22-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260622T234000Z
+DTEND:20260623T024000Z
+SUMMARY:Cleveland Guardians @ Chicago White Sox
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-23-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260623T234000Z
+DTEND:20260624T024000Z
+SUMMARY:Cleveland Guardians @ Chicago White Sox
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-24-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260624T181000Z
+DTEND:20260624T211000Z
+SUMMARY:Cleveland Guardians @ Chicago White Sox
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-26-kansas-city-royals-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260626T234000Z
+DTEND:20260627T024000Z
+SUMMARY:Kansas City Royals @ Chicago White Sox
+DESCRIPTION:MLB 2026\nKansas City Royals @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-27-kansas-city-royals-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260627T201000Z
+DTEND:20260627T231000Z
+SUMMARY:Kansas City Royals @ Chicago White Sox
+DESCRIPTION:MLB 2026\nKansas City Royals @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-28-kansas-city-royals-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260628T181000Z
+DTEND:20260628T211000Z
+SUMMARY:Kansas City Royals @ Chicago White Sox
+DESCRIPTION:MLB 2026\nKansas City Royals @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-29-chicago-white-sox-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260629T223500Z
+DTEND:20260630T013500Z
+SUMMARY:Chicago White Sox @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nChicago White Sox @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-06-30-chicago-white-sox-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260630T223500Z
+DTEND:20260701T013500Z
+SUMMARY:Chicago White Sox @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nChicago White Sox @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-01-chicago-white-sox-vs-baltimore-orioles@open-sports-cal
+DTSTART:20260701T163500Z
+DTEND:20260701T193500Z
+SUMMARY:Chicago White Sox @ Baltimore Orioles
+DESCRIPTION:MLB 2026\nChicago White Sox @ Baltimore Orioles\nOriole Park at Camden Yards
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-02-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260702T224000Z
+DTEND:20260703T014000Z
+SUMMARY:Chicago White Sox @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nChicago White Sox @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-03-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260703T231000Z
+DTEND:20260704T021000Z
+SUMMARY:Chicago White Sox @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nChicago White Sox @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-04-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260704T231000Z
+DTEND:20260705T021000Z
+SUMMARY:Chicago White Sox @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nChicago White Sox @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-05-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260705T180000Z
+DTEND:20260705T210000Z
+SUMMARY:Chicago White Sox @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nChicago White Sox @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-07-boston-red-sox-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260707T234000Z
+DTEND:20260708T024000Z
+SUMMARY:Boston Red Sox @ Chicago White Sox
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-08-boston-red-sox-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260708T234000Z
+DTEND:20260709T024000Z
+SUMMARY:Boston Red Sox @ Chicago White Sox
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-09-boston-red-sox-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260709T181000Z
+DTEND:20260709T211000Z
+SUMMARY:Boston Red Sox @ Chicago White Sox
+DESCRIPTION:MLB 2026\nBoston Red Sox @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-10-athletics-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260710T234000Z
+DTEND:20260711T024000Z
+SUMMARY:Athletics @ Chicago White Sox
+DESCRIPTION:MLB 2026\nAthletics @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-11-athletics-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260711T201000Z
+DTEND:20260711T231000Z
+SUMMARY:Athletics @ Chicago White Sox
+DESCRIPTION:MLB 2026\nAthletics @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-12-athletics-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260712T181000Z
+DTEND:20260712T211000Z
+SUMMARY:Athletics @ Chicago White Sox
+DESCRIPTION:MLB 2026\nAthletics @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-17-chicago-white-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260717T230700Z
+DTEND:20260718T020700Z
+SUMMARY:Chicago White Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nChicago White Sox @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-18-chicago-white-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260718T190700Z
+DTEND:20260718T220700Z
+SUMMARY:Chicago White Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nChicago White Sox @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-19-chicago-white-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20260719T161500Z
+DTEND:20260719T191500Z
+SUMMARY:Chicago White Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2026\nChicago White Sox @ Toronto Blue Jays\nRogers Centre
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-20-chicago-white-sox-vs-texas-rangers@open-sports-cal
+DTSTART:20260721T000500Z
+DTEND:20260721T030500Z
+SUMMARY:Chicago White Sox @ Texas Rangers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-21-chicago-white-sox-vs-texas-rangers@open-sports-cal
+DTSTART:20260722T000500Z
+DTEND:20260722T030500Z
+SUMMARY:Chicago White Sox @ Texas Rangers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-22-chicago-white-sox-vs-texas-rangers@open-sports-cal
+DTSTART:20260723T000500Z
+DTEND:20260723T030500Z
+SUMMARY:Chicago White Sox @ Texas Rangers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Texas Rangers\nGlobe Life Field
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-24-houston-astros-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260724T234000Z
+DTEND:20260725T024000Z
+SUMMARY:Houston Astros @ Chicago White Sox
+DESCRIPTION:MLB 2026\nHouston Astros @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-25-houston-astros-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260725T231000Z
+DTEND:20260726T021000Z
+SUMMARY:Houston Astros @ Chicago White Sox
+DESCRIPTION:MLB 2026\nHouston Astros @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-26-houston-astros-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260726T181000Z
+DTEND:20260726T211000Z
+SUMMARY:Houston Astros @ Chicago White Sox
+DESCRIPTION:MLB 2026\nHouston Astros @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-27-new-york-yankees-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260727T234000Z
+DTEND:20260728T024000Z
+SUMMARY:New York Yankees @ Chicago White Sox
+DESCRIPTION:MLB 2026\nNew York Yankees @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-28-new-york-yankees-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260728T234000Z
+DTEND:20260729T024000Z
+SUMMARY:New York Yankees @ Chicago White Sox
+DESCRIPTION:MLB 2026\nNew York Yankees @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-29-new-york-yankees-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260729T234000Z
+DTEND:20260730T024000Z
+SUMMARY:New York Yankees @ Chicago White Sox
+DESCRIPTION:MLB 2026\nNew York Yankees @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-30-new-york-yankees-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260730T181000Z
+DTEND:20260730T211000Z
+SUMMARY:New York Yankees @ Chicago White Sox
+DESCRIPTION:MLB 2026\nNew York Yankees @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-07-31-chicago-white-sox-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260731T231000Z
+DTEND:20260801T021000Z
+SUMMARY:Chicago White Sox @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nChicago White Sox @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-01-chicago-white-sox-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260801T201000Z
+DTEND:20260801T231000Z
+SUMMARY:Chicago White Sox @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nChicago White Sox @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-02-chicago-white-sox-vs-tampa-bay-rays@open-sports-cal
+DTSTART:20260802T174000Z
+DTEND:20260802T204000Z
+SUMMARY:Chicago White Sox @ Tampa Bay Rays
+DESCRIPTION:MLB 2026\nChicago White Sox @ Tampa Bay Rays\nTropicana Field
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-04-chicago-white-sox-vs-boston-red-sox@open-sports-cal
+DTSTART:20260804T231000Z
+DTEND:20260805T021000Z
+SUMMARY:Chicago White Sox @ Boston Red Sox
+DESCRIPTION:MLB 2026\nChicago White Sox @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-05-chicago-white-sox-vs-boston-red-sox@open-sports-cal
+DTSTART:20260805T231000Z
+DTEND:20260806T021000Z
+SUMMARY:Chicago White Sox @ Boston Red Sox
+DESCRIPTION:MLB 2026\nChicago White Sox @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-06-chicago-white-sox-vs-boston-red-sox@open-sports-cal
+DTSTART:20260806T231000Z
+DTEND:20260807T021000Z
+SUMMARY:Chicago White Sox @ Boston Red Sox
+DESCRIPTION:MLB 2026\nChicago White Sox @ Boston Red Sox\nFenway Park
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-07-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260807T234000Z
+DTEND:20260808T024000Z
+SUMMARY:Cleveland Guardians @ Chicago White Sox
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-08-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260808T231000Z
+DTEND:20260809T021000Z
+SUMMARY:Cleveland Guardians @ Chicago White Sox
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-09-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260809T181000Z
+DTEND:20260809T211000Z
+SUMMARY:Cleveland Guardians @ Chicago White Sox
+DESCRIPTION:MLB 2026\nCleveland Guardians @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-11-cincinnati-reds-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260811T234000Z
+DTEND:20260812T024000Z
+SUMMARY:Cincinnati Reds @ Chicago White Sox
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-12-cincinnati-reds-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260812T234000Z
+DTEND:20260813T024000Z
+SUMMARY:Cincinnati Reds @ Chicago White Sox
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-13-cincinnati-reds-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260813T181000Z
+DTEND:20260813T211000Z
+SUMMARY:Cincinnati Reds @ Chicago White Sox
+DESCRIPTION:MLB 2026\nCincinnati Reds @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-14-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART:20260814T224000Z
+DTEND:20260815T014000Z
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-15-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART:20260815T171000Z
+DTEND:20260815T201000Z
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-16-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART:20260816T174000Z
+DTEND:20260816T204000Z
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2026\nChicago White Sox @ Detroit Tigers\nComerica Park
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-17-chicago-white-sox-vs-chicago-cubs@open-sports-cal
+DTSTART:20260818T000500Z
+DTEND:20260818T030500Z
+SUMMARY:Chicago White Sox @ Chicago Cubs
+DESCRIPTION:MLB 2026\nChicago White Sox @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-18-chicago-white-sox-vs-chicago-cubs@open-sports-cal
+DTSTART:20260819T000500Z
+DTEND:20260819T030500Z
+SUMMARY:Chicago White Sox @ Chicago Cubs
+DESCRIPTION:MLB 2026\nChicago White Sox @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-19-chicago-white-sox-vs-chicago-cubs@open-sports-cal
+DTSTART:20260819T182000Z
+DTEND:20260819T212000Z
+SUMMARY:Chicago White Sox @ Chicago Cubs
+DESCRIPTION:MLB 2026\nChicago White Sox @ Chicago Cubs\nWrigley Field
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-21-new-york-mets-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260821T234000Z
+DTEND:20260822T024000Z
+SUMMARY:New York Mets @ Chicago White Sox
+DESCRIPTION:MLB 2026\nNew York Mets @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-22-new-york-mets-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260822T231000Z
+DTEND:20260823T021000Z
+SUMMARY:New York Mets @ Chicago White Sox
+DESCRIPTION:MLB 2026\nNew York Mets @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-23-new-york-mets-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260823T181000Z
+DTEND:20260823T211000Z
+SUMMARY:New York Mets @ Chicago White Sox
+DESCRIPTION:MLB 2026\nNew York Mets @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-24-texas-rangers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260824T234000Z
+DTEND:20260825T024000Z
+SUMMARY:Texas Rangers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nTexas Rangers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-25-texas-rangers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260825T234000Z
+DTEND:20260826T024000Z
+SUMMARY:Texas Rangers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nTexas Rangers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-26-texas-rangers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260826T234000Z
+DTEND:20260827T024000Z
+SUMMARY:Texas Rangers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nTexas Rangers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-28-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART:20260829T001000Z
+DTEND:20260829T031000Z
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2026\nChicago White Sox @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-29-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART:20260829T181000Z
+DTEND:20260829T211000Z
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2026\nChicago White Sox @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-30-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART:20260830T181000Z
+DTEND:20260830T211000Z
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2026\nChicago White Sox @ Minnesota Twins\nTarget Field
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-08-31-chicago-white-sox-vs-houston-astros@open-sports-cal
+DTSTART:20260901T001000Z
+DTEND:20260901T031000Z
+SUMMARY:Chicago White Sox @ Houston Astros
+DESCRIPTION:MLB 2026\nChicago White Sox @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-01-chicago-white-sox-vs-houston-astros@open-sports-cal
+DTSTART:20260902T001000Z
+DTEND:20260902T031000Z
+SUMMARY:Chicago White Sox @ Houston Astros
+DESCRIPTION:MLB 2026\nChicago White Sox @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-02-chicago-white-sox-vs-houston-astros@open-sports-cal
+DTSTART:20260903T001000Z
+DTEND:20260903T031000Z
+SUMMARY:Chicago White Sox @ Houston Astros
+DESCRIPTION:MLB 2026\nChicago White Sox @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-03-chicago-white-sox-vs-houston-astros@open-sports-cal
+DTSTART:20260903T181000Z
+DTEND:20260903T211000Z
+SUMMARY:Chicago White Sox @ Houston Astros
+DESCRIPTION:MLB 2026\nChicago White Sox @ Houston Astros\nDaikin Park
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-04-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260904T234000Z
+DTEND:20260905T024000Z
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-05-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260905T231000Z
+DTEND:20260906T021000Z
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-06-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260906T181000Z
+DTEND:20260906T211000Z
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2026\nMinnesota Twins @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-08-pittsburgh-pirates-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260908T234000Z
+DTEND:20260909T024000Z
+SUMMARY:Pittsburgh Pirates @ Chicago White Sox
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-09-pittsburgh-pirates-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260909T234000Z
+DTEND:20260910T024000Z
+SUMMARY:Pittsburgh Pirates @ Chicago White Sox
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-10-pittsburgh-pirates-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260910T234000Z
+DTEND:20260911T024000Z
+SUMMARY:Pittsburgh Pirates @ Chicago White Sox
+DESCRIPTION:MLB 2026\nPittsburgh Pirates @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-11-chicago-white-sox-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260912T001500Z
+DTEND:20260912T031500Z
+SUMMARY:Chicago White Sox @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nChicago White Sox @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-12-chicago-white-sox-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260912T231500Z
+DTEND:20260913T021500Z
+SUMMARY:Chicago White Sox @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nChicago White Sox @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-13-chicago-white-sox-vs-st-louis-cardinals@open-sports-cal
+DTSTART:20260913T181500Z
+DTEND:20260913T211500Z
+SUMMARY:Chicago White Sox @ St. Louis Cardinals
+DESCRIPTION:MLB 2026\nChicago White Sox @ St. Louis Cardinals\nBusch Stadium
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-14-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260914T224000Z
+DTEND:20260915T014000Z
+SUMMARY:Chicago White Sox @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nChicago White Sox @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-15-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260915T224000Z
+DTEND:20260916T014000Z
+SUMMARY:Chicago White Sox @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nChicago White Sox @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-16-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
+DTSTART:20260916T171000Z
+DTEND:20260916T201000Z
+SUMMARY:Chicago White Sox @ Cleveland Guardians
+DESCRIPTION:MLB 2026\nChicago White Sox @ Cleveland Guardians\nProgressive Field
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-17-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260917T234000Z
+DTEND:20260918T024000Z
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-18-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260918T234000Z
+DTEND:20260919T024000Z
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-19-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260919T231000Z
+DTEND:20260920T021000Z
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-20-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260920T181000Z
+DTEND:20260920T211000Z
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2026\nDetroit Tigers @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-22-chicago-white-sox-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260922T234000Z
+DTEND:20260923T024000Z
+SUMMARY:Chicago White Sox @ Kansas City Royals
+DESCRIPTION:MLB 2026\nChicago White Sox @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-23-chicago-white-sox-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260923T234000Z
+DTEND:20260924T024000Z
+SUMMARY:Chicago White Sox @ Kansas City Royals
+DESCRIPTION:MLB 2026\nChicago White Sox @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-24-chicago-white-sox-vs-kansas-city-royals@open-sports-cal
+DTSTART:20260924T181000Z
+DTEND:20260924T211000Z
+SUMMARY:Chicago White Sox @ Kansas City Royals
+DESCRIPTION:MLB 2026\nChicago White Sox @ Kansas City Royals\nKauffman Stadium
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-25-colorado-rockies-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260925T234000Z
+DTEND:20260926T024000Z
+SUMMARY:Colorado Rockies @ Chicago White Sox
+DESCRIPTION:MLB 2026\nColorado Rockies @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-26-colorado-rockies-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260926T231000Z
+DTEND:20260927T021000Z
+SUMMARY:Colorado Rockies @ Chicago White Sox
+DESCRIPTION:MLB 2026\nColorado Rockies @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2026-2026-09-27-colorado-rockies-vs-chicago-white-sox@open-sports-cal
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:Colorado Rockies @ Chicago White Sox
+DESCRIPTION:MLB 2026\nColorado Rockies @ Chicago White Sox\nRate Field
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2026
+STATUS:CONFIRMED
+DTSTAMP:20260329T232357Z
+END:VEVENT
+END:VCALENDAR
