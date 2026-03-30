@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MotoGP 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MotoGP 2026
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:motogp-2026-r01@open-sports-cal
+DTSTART:20260301T080000Z
+DTEND:20260301T093000Z
+SUMMARY:Thai Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 1 of 22\nThai Grand Prix\nChang International Circuit\nBuriram, Thailand
+LOCATION:Chang International Circuit, Buriram, Thailand
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r02@open-sports-cal
+DTSTART:20260322T190000Z
+DTEND:20260322T203000Z
+SUMMARY:Brazilian Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 2 of 22\nBrazilian Grand Prix\nGoiânia Int'l Racetrack Ayrton Senna\nGoiânia, Brazil
+LOCATION:Goiânia Int'l Racetrack Ayrton Senna, Goiânia, Brazil
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r03@open-sports-cal
+DTSTART:20260329T200000Z
+DTEND:20260329T213000Z
+SUMMARY:Americas Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 3 of 22\nAmericas Grand Prix\nCircuit of the Americas\nAustin, USA
+LOCATION:Circuit of the Americas, Austin, USA
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r04@open-sports-cal
+DTSTART:20260426T130000Z
+DTEND:20260426T143000Z
+SUMMARY:Spanish Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 4 of 22\nSpanish Grand Prix\nCircuito de Jerez - Angel Nieto\nJerez, Spain
+LOCATION:Circuito de Jerez - Angel Nieto, Jerez, Spain
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r05@open-sports-cal
+DTSTART:20260510T130000Z
+DTEND:20260510T143000Z
+SUMMARY:French Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 5 of 22\nFrench Grand Prix\nCircuit de Le Mans\nLe Mans, France
+LOCATION:Circuit de Le Mans, Le Mans, France
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r06@open-sports-cal
+DTSTART:20260517T130000Z
+DTEND:20260517T143000Z
+SUMMARY:Catalan Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 6 of 22\nCatalan Grand Prix\nCircuit de Barcelona-Catalunya\nBarcelona, Spain
+LOCATION:Circuit de Barcelona-Catalunya, Barcelona, Spain
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r07@open-sports-cal
+DTSTART:20260531T130000Z
+DTEND:20260531T143000Z
+SUMMARY:Italian Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 7 of 22\nItalian Grand Prix\nAutodromo Internazionale del Mugello\nMugello, Italy
+LOCATION:Autodromo Internazionale del Mugello, Mugello, Italy
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r08@open-sports-cal
+DTSTART:20260607T130000Z
+DTEND:20260607T143000Z
+SUMMARY:Hungarian Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 8 of 22\nHungarian Grand Prix\nBalaton Park Circuit\nHajdúnánás, Hungary
+LOCATION:Balaton Park Circuit, Hajdúnánás, Hungary
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r09@open-sports-cal
+DTSTART:20260621T130000Z
+DTEND:20260621T143000Z
+SUMMARY:Czech Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 9 of 22\nCzech Grand Prix\nAutomotodrom Brno\nBrno, Czechia
+LOCATION:Automotodrom Brno, Brno, Czechia
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r10@open-sports-cal
+DTSTART:20260628T130000Z
+DTEND:20260628T143000Z
+SUMMARY:Dutch Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 10 of 22\nDutch Grand Prix\nTT Circuit Assen\nAssen, Netherlands
+LOCATION:TT Circuit Assen, Assen, Netherlands
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r11@open-sports-cal
+DTSTART:20260712T130000Z
+DTEND:20260712T143000Z
+SUMMARY:German Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 11 of 22\nGerman Grand Prix\nSachsenring\nHohenstein-Ernstthal, Germany
+LOCATION:Sachsenring, Hohenstein-Ernstthal, Germany
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r12@open-sports-cal
+DTSTART:20260809T130000Z
+DTEND:20260809T143000Z
+SUMMARY:British Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 12 of 22\nBritish Grand Prix\nSilverstone Circuit\nSilverstone, UK
+LOCATION:Silverstone Circuit, Silverstone, UK
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r13@open-sports-cal
+DTSTART:20260830T130000Z
+DTEND:20260830T143000Z
+SUMMARY:Aragon Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 13 of 22\nAragon Grand Prix\nMotorLand Aragon\nAlcañiz, Spain
+LOCATION:MotorLand Aragon, Alcañiz, Spain
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r14@open-sports-cal
+DTSTART:20260913T130000Z
+DTEND:20260913T143000Z
+SUMMARY:San Marino Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 14 of 22\nSan Marino Grand Prix\nMisano World Circuit Marco Simoncelli\nMisano Adriatico, Italy
+LOCATION:Misano World Circuit Marco Simoncelli, Misano Adriatico, Italy
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r15@open-sports-cal
+DTSTART:20260920T130000Z
+DTEND:20260920T143000Z
+SUMMARY:Austrian Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 15 of 22\nAustrian Grand Prix\nRed Bull Ring\nSpielberg, Austria
+LOCATION:Red Bull Ring, Spielberg, Austria
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r16@open-sports-cal
+DTSTART:20260927T050000Z
+DTEND:20260927T063000Z
+SUMMARY:Japanese Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 16 of 22\nJapanese Grand Prix\nTwin Ring Motegi\nMotegi, Japan
+LOCATION:Twin Ring Motegi, Motegi, Japan
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r17@open-sports-cal
+DTSTART:20261004T090000Z
+DTEND:20261004T103000Z
+SUMMARY:Indonesian Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 17 of 22\nIndonesian Grand Prix\nMandalika International Street Circuit\nLombok, Indonesia
+LOCATION:Mandalika International Street Circuit, Lombok, Indonesia
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r18@open-sports-cal
+DTSTART:20261018T050000Z
+DTEND:20261018T063000Z
+SUMMARY:Australian Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 18 of 22\nAustralian Grand Prix\nPhillip Island Grand Prix Circuit\nPhillip Island, Australia
+LOCATION:Phillip Island Grand Prix Circuit, Phillip Island, Australia
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r19@open-sports-cal
+DTSTART:20261101T090000Z
+DTEND:20261101T103000Z
+SUMMARY:Malaysian Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 19 of 22\nMalaysian Grand Prix\nSepang International Circuit\nSepang, Malaysia
+LOCATION:Sepang International Circuit, Sepang, Malaysia
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r20@open-sports-cal
+DTSTART:20261108T150000Z
+DTEND:20261108T163000Z
+SUMMARY:Qatar Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 20 of 22\nQatar Grand Prix\nLosail International Circuit\nLusail, Qatar
+LOCATION:Losail International Circuit, Lusail, Qatar
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r21@open-sports-cal
+DTSTART:20261115T140000Z
+DTEND:20261115T153000Z
+SUMMARY:Portuguese Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 21 of 22\nPortuguese Grand Prix\nAutodromo Internacional do Algarve\nPortimao, Portugal
+LOCATION:Autodromo Internacional do Algarve, Portimao, Portugal
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:motogp-2026-r22@open-sports-cal
+DTSTART:20261129T140000Z
+DTEND:20261129T153000Z
+SUMMARY:Valencian Grand Prix
+DESCRIPTION:MotoGP 2026 — Round 22 of 22\nValencian Grand Prix\nCircuit Ricardo Tormo\nValencia, Spain
+LOCATION:Circuit Ricardo Tormo, Valencia, Spain
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+END:VCALENDAR
