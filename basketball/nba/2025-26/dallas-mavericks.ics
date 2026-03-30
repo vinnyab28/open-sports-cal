@@ -14,6 +14,7 @@ DESCRIPTION:NBA 2025-26\nSan Antonio Spurs @ Dallas Mavericks\nAmerican Airlines
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-23@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:NBA 2025-26\nWashington Wizards @ Dallas Mavericks\nAmerican Airline
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-39@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Dallas Mavericks\nAmerican Airlines C
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-48@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Dallas Mavericks\nAmerican Airl
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-63@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Dallas Mavericks\nAmerican Airlines Ce
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-85@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Detroit Pistons\nArena CDMX
 LOCATION:Arena CDMX
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-98@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Houston Rockets\nToyota Center
 LOCATION:Toyota Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-115@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:NBA 2025-26\nNew Orleans Pelicans @ Dallas Mavericks\nAmerican Airli
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-127@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-132@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Washington Wizards\nCapital One Aren
 LOCATION:Capital One Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-152@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:NBA 2025-26\nMilwaukee Bucks @ Dallas Mavericks\nAmerican Airlines C
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-170@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:NBA 2025-26\nPhoenix Suns @ Dallas Mavericks\nAmerican Airlines Cent
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-184@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:NBA 2025-26\nLA Clippers @ Dallas Mavericks\nAmerican Airlines Cente
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-196@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Dallas Mavericks\nAmerican Air
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-204@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Minnesota Timberwolves\nTarget Cente
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-220@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:NBA 2025-26\nNew York Knicks @ Dallas Mavericks\nAmerican Airlines C
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-230@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:NBA 2025-26\nNew Orleans Pelicans @ Dallas Mavericks\nAmerican Airli
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-240@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Dallas Mavericks\nAmerican Airlines
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-253@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Miami Heat\nKaseya Center
 LOCATION:Kaseya Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-281@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Los Angeles Lakers\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-290@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-305@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-322@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:NBA 2025-26\nMiami Heat @ Dallas Mavericks\nAmerican Airlines Center
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-339@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Oklahoma City Thunder\nPaycom Center
 LOCATION:Paycom Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-346@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Dallas Mavericks\nAmerican Airlines C
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-370@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Dallas Mavericks\nAmerican Airlines Cen
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-384@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-397@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:NBA 2025-26\nDetroit Pistons @ Dallas Mavericks\nAmerican Airlines C
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-408@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Philadelphia 76ers\nXfinity Mobile A
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-425@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ New Orleans Pelicans\nSmoothie King 
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-436@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Dallas Mavericks\nAmerican Airlines Ce
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-446@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-458@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Sacramento Kings\nGolden 1 Center
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-483@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-499@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Dallas Mavericks\nAmerican Airline
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-517@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Dallas Mavericks\nAmerican Airlines C
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-541@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Sacramento Kings\nGolden 1 Center
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-556@open-sports-cal
@@ -384,6 +421,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-571@open-sports-cal
@@ -394,6 +432,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Chicago Bulls\nUnited Center
 LOCATION:United Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-586@open-sports-cal
@@ -404,6 +443,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Dallas Mavericks\nAmerican Airlines Cen
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-600@open-sports-cal
@@ -414,6 +454,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Dallas Mavericks\nAmerican Airlines Ce
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-608@open-sports-cal
@@ -424,6 +465,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Dallas Mavericks\nAmerican Airlines Center
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-618@open-sports-cal
@@ -434,6 +476,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Dallas Mavericks\nAmerican Airlines Center
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-636@open-sports-cal
@@ -444,6 +487,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ New York Knicks\nMadison Square Gard
 LOCATION:Madison Square Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-659@open-sports-cal
@@ -454,6 +498,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Dallas Mavericks\nAmerican Airl
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-676@open-sports-cal
@@ -464,6 +509,7 @@ DESCRIPTION:NBA 2025-26\nLos Angeles Lakers @ Dallas Mavericks\nAmerican Airline
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-704@open-sports-cal
@@ -474,6 +520,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Dallas Mavericks\nAmerican Air
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-711@open-sports-cal
@@ -484,6 +531,7 @@ DESCRIPTION:NBA 2025-26\nCharlotte Hornets @ Dallas Mavericks\nAmerican Airlines
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-729@open-sports-cal
@@ -494,6 +542,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Houston Rockets\nToyota Center
 LOCATION:Toyota Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-749@open-sports-cal
@@ -504,6 +553,7 @@ DESCRIPTION:NBA 2025-26\nBoston Celtics @ Dallas Mavericks\nAmerican Airlines Ce
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-766@open-sports-cal
@@ -514,6 +564,7 @@ DESCRIPTION:NBA 2025-26\nSan Antonio Spurs @ Dallas Mavericks\nAmerican Airlines
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-777@open-sports-cal
@@ -524,6 +575,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ San Antonio Spurs\nFrost Bank Center
 LOCATION:Frost Bank Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-801@open-sports-cal
@@ -534,6 +586,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Phoenix Suns\nMortgage Matchup Cente
 LOCATION:Mortgage Matchup Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-819@open-sports-cal
@@ -544,6 +597,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Los Angeles Lakers\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-834@open-sports-cal
@@ -554,6 +608,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Minnesota Timberwolves\nTarget Cente
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-849@open-sports-cal
@@ -564,6 +619,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Indiana Pacers\nGainbridge Fieldhous
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-861@open-sports-cal
@@ -574,6 +630,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-882@open-sports-cal
@@ -584,6 +641,7 @@ DESCRIPTION:NBA 2025-26\nSacramento Kings @ Dallas Mavericks\nAmerican Airlines 
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-889@open-sports-cal
@@ -594,6 +652,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Dallas Mavericks\nAmerican Airlines
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-904@open-sports-cal
@@ -604,6 +663,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Dallas Mavericks\nAmerican Airl
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-911@open-sports-cal
@@ -614,6 +674,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Charlotte Hornets\nSpectrum Center
 LOCATION:Spectrum Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-927@open-sports-cal
@@ -624,6 +685,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Orlando Magic\nKia Center
 LOCATION:Kia Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-936@open-sports-cal
@@ -634,6 +696,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Boston Celtics\nTD Garden
 LOCATION:TD Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-952@open-sports-cal
@@ -644,6 +707,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-967@open-sports-cal
@@ -654,6 +718,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Atlanta Hawks\nState Farm Arena
 LOCATION:State Farm Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-986@open-sports-cal
@@ -664,6 +729,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-993@open-sports-cal
@@ -674,6 +740,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Dallas Mavericks\nAmerican Airlin
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1006@open-sports-cal
@@ -684,6 +751,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1017@open-sports-cal
@@ -694,6 +762,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ New Orleans Pelicans\nSmoothie King 
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1035@open-sports-cal
@@ -704,6 +773,7 @@ DESCRIPTION:NBA 2025-26\nAtlanta Hawks @ Dallas Mavericks\nAmerican Airlines Cen
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1058@open-sports-cal
@@ -714,6 +784,7 @@ DESCRIPTION:NBA 2025-26\nLA Clippers @ Dallas Mavericks\nAmerican Airlines Cente
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1073@open-sports-cal
@@ -724,6 +795,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Dallas Mavericks\nAmerican Airl
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1088@open-sports-cal
@@ -734,6 +806,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1103@open-sports-cal
@@ -744,6 +817,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1124@open-sports-cal
@@ -754,6 +828,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Dallas Mavericks\nAmerican Air
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1130@open-sports-cal
@@ -764,6 +839,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Milwaukee Bucks\nFiserv Forum
 LOCATION:Fiserv Forum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1157@open-sports-cal
@@ -774,6 +850,7 @@ DESCRIPTION:NBA 2025-26\nOrlando Magic @ Dallas Mavericks\nAmerican Airlines Cen
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1170@open-sports-cal
@@ -784,6 +861,7 @@ DESCRIPTION:NBA 2025-26\nLos Angeles Lakers @ Dallas Mavericks\nAmerican Airline
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1186@open-sports-cal
@@ -794,6 +872,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1194@open-sports-cal
@@ -804,6 +883,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Phoenix Suns\nMortgage Matchup Cente
 LOCATION:Mortgage Matchup Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1209@open-sports-cal
@@ -814,6 +894,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ San Antonio Spurs\nFrost Bank Center
 LOCATION:Frost Bank Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1223@open-sports-cal
@@ -824,5 +905,6 @@ DESCRIPTION:NBA 2025-26\nChicago Bulls @ Dallas Mavericks\nAmerican Airlines Cen
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

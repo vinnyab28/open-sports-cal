@@ -14,6 +14,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Boston Celtics\nTD Garden
 LOCATION:TD Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-30@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:NBA 2025-26\nCharlotte Hornets @ Philadelphia 76ers\nXfinity Mobile 
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-43@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:NBA 2025-26\nOrlando Magic @ Philadelphia 76ers\nXfinity Mobile Aren
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-53@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Washington Wizards\nCapital One Ar
 LOCATION:Capital One Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-73@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:NBA 2025-26\nBoston Celtics @ Philadelphia 76ers\nXfinity Mobile Are
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-87@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-105@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Chicago Bulls\nUnited Center
 LOCATION:United Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-109@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-133@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Philadelphia 76ers\nXfinity Mobile Ar
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-144@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:NBA 2025-26\nDetroit Pistons @ Philadelphia 76ers\nXfinity Mobile Ar
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-158@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:NBA 2025-26\nBoston Celtics @ Philadelphia 76ers\nXfinity Mobile Are
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-179@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Detroit Pistons\nLittle Caesars Ar
 LOCATION:Little Caesars Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-201@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:NBA 2025-26\nLA Clippers @ Philadelphia 76ers\nXfinity Mobile Arena
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-215@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Philadelphia 76ers\nXfinity Mobile Ar
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-224@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Milwaukee Bucks\nFiserv Forum
 LOCATION:Fiserv Forum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-242@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:NBA 2025-26\nMiami Heat @ Philadelphia 76ers\nXfinity Mobile Arena
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-261@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:NBA 2025-26\nOrlando Magic @ Philadelphia 76ers\nXfinity Mobile Aren
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-273@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-294@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:NBA 2025-26\nAtlanta Hawks @ Philadelphia 76ers\nXfinity Mobile Aren
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-308@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:NBA 2025-26\nWashington Wizards @ Philadelphia 76ers\nXfinity Mobile
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-323@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Philadelphia 76ers\nXfinity Mob
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-338@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Milwaukee Bucks\nFiserv Forum
 LOCATION:Fiserv Forum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-352@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:NBA 2025-26\nLos Angeles Lakers @ Philadelphia 76ers\nXfinity Mobile
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-367@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Philadelphia 76ers\nXfinity Mobile Are
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-376@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Atlanta Hawks\nState Farm Arena
 LOCATION:State Farm Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-403@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ New York Knicks\nMadison Square Ga
 LOCATION:Madison Square Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-408@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Philadelphia 76ers\nXfinity Mobile A
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-431@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Philadelphia 76ers\nXfinity Mobile Aren
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-453@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Chicago Bulls\nUnited Center
 LOCATION:United Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-468@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Oklahoma City Thunder\nPaycom Cent
 LOCATION:Paycom Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-484@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-499@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Dallas Mavericks\nAmerican Airline
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-513@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ New York Knicks\nMadison Square Ga
 LOCATION:Madison Square Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-533@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Philadelphia 76ers\nXfinity Mobile Are
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-544@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:NBA 2025-26\nWashington Wizards @ Philadelphia 76ers\nXfinity Mobile
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-558@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Orlando Magic\nKia Center
 LOCATION:Kia Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-575@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-585@open-sports-cal
@@ -384,6 +421,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-597@open-sports-cal
@@ -394,6 +432,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Philadelphia 76ers\nXfinity Mobil
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-613@open-sports-cal
@@ -404,6 +443,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Philadelphia 76ers\nXfinity Mobil
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-638@open-sports-cal
@@ -414,6 +454,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Philadelphia 76ers\nXfinity Mobile Are
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-642@open-sports-cal
@@ -424,6 +465,7 @@ DESCRIPTION:NBA 2025-26\nPhoenix Suns @ Philadelphia 76ers\nXfinity Mobile Arena
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-657@open-sports-cal
@@ -434,6 +476,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Philadelphia 76ers\nXfinity Mobile Ar
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-673@open-sports-cal
@@ -444,6 +487,7 @@ DESCRIPTION:NBA 2025-26\nNew York Knicks @ Philadelphia 76ers\nXfinity Mobile Ar
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-685@open-sports-cal
@@ -454,6 +498,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Charlotte Hornets\nSpectrum Center
 LOCATION:Spectrum Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-693@open-sports-cal
@@ -464,6 +509,7 @@ DESCRIPTION:NBA 2025-26\nMilwaukee Bucks @ Philadelphia 76ers\nXfinity Mobile Ar
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-707@open-sports-cal
@@ -474,6 +520,7 @@ DESCRIPTION:NBA 2025-26\nSacramento Kings @ Philadelphia 76ers\nXfinity Mobile A
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-726@open-sports-cal
@@ -484,6 +531,7 @@ DESCRIPTION:NBA 2025-26\nNew Orleans Pelicans @ Philadelphia 76ers\nXfinity Mobi
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-743@open-sports-cal
@@ -494,6 +542,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-752@open-sports-cal
@@ -504,6 +553,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Golden State Warriors\nChase Cente
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-768@open-sports-cal
@@ -514,6 +564,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Los Angeles Lakers\nCrypto.com Are
 LOCATION:Crypto.com Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-782@open-sports-cal
@@ -524,6 +575,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Phoenix Suns\nMortgage Matchup Cen
 LOCATION:Mortgage Matchup Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-798@open-sports-cal
@@ -534,6 +586,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Portland Trail Blazers\nModa Cente
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-808@open-sports-cal
@@ -544,6 +597,7 @@ DESCRIPTION:NBA 2025-26\nNew York Knicks @ Philadelphia 76ers\nXfinity Mobile Ar
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-822@open-sports-cal
@@ -554,6 +608,7 @@ DESCRIPTION:NBA 2025-26\nAtlanta Hawks @ Philadelphia 76ers\nXfinity Mobile Aren
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-840@open-sports-cal
@@ -564,6 +619,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ New Orleans Pelicans\nSmoothie Kin
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-852@open-sports-cal
@@ -574,6 +630,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Minnesota Timberwolves\nTarget Cen
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-859@open-sports-cal
@@ -584,6 +641,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Indiana Pacers\nGainbridge Fieldho
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-877@open-sports-cal
@@ -594,6 +652,7 @@ DESCRIPTION:NBA 2025-26\nMiami Heat @ Philadelphia 76ers\nXfinity Mobile Arena
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-903@open-sports-cal
@@ -604,6 +663,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Boston Celtics\nTD Garden
 LOCATION:TD Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-916@open-sports-cal
@@ -614,6 +674,7 @@ DESCRIPTION:NBA 2025-26\nSan Antonio Spurs @ Philadelphia 76ers\nXfinity Mobile 
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-923@open-sports-cal
@@ -624,6 +685,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Philadelphia 76ers\nXfinity Mobile Arena
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-945@open-sports-cal
@@ -634,6 +696,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Atlanta Hawks\nState Farm Arena
 LOCATION:State Farm Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-959@open-sports-cal
@@ -644,6 +707,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-964@open-sports-cal
@@ -654,6 +718,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Philadelphia 76ers\nXfinity Mobile 
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-981@open-sports-cal
@@ -664,6 +729,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Detroit Pistons\nLittle Caesars Ar
 LOCATION:Little Caesars Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-998@open-sports-cal
@@ -674,6 +740,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Philadelphia 76ers\nXfinity Mobile Aren
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1009@open-sports-cal
@@ -684,6 +751,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Philadelphia 76ers\nXfinity Mo
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1026@open-sports-cal
@@ -694,6 +762,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1044@open-sports-cal
@@ -704,6 +773,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Sacramento Kings\nGolden 1 Center
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1059@open-sports-cal
@@ -714,6 +784,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1068@open-sports-cal
@@ -724,6 +795,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Philadelphia 76ers\nXfinity Mob
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1082@open-sports-cal
@@ -734,6 +806,7 @@ DESCRIPTION:NBA 2025-26\nChicago Bulls @ Philadelphia 76ers\nXfinity Mobile Aren
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1107@open-sports-cal
@@ -744,6 +817,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Charlotte Hornets\nSpectrum Center
 LOCATION:Spectrum Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1120@open-sports-cal
@@ -754,6 +828,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Miami Heat\nKaseya Center
 LOCATION:Kaseya Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1135@open-sports-cal
@@ -764,6 +839,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Washington Wizards\nCapital One Ar
 LOCATION:Capital One Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1151@open-sports-cal
@@ -774,6 +850,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Philadelphia 76ers\nXfinity Mo
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1161@open-sports-cal
@@ -784,6 +861,7 @@ DESCRIPTION:NBA 2025-26\nDetroit Pistons @ Philadelphia 76ers\nXfinity Mobile Ar
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1176@open-sports-cal
@@ -794,6 +872,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ San Antonio Spurs\nFrost Bank Cent
 LOCATION:Frost Bank Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1199@open-sports-cal
@@ -804,6 +883,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Houston Rockets\nToyota Center
 LOCATION:Toyota Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1205@open-sports-cal
@@ -814,6 +894,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Indiana Pacers\nGainbridge Fieldho
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1221@open-sports-cal
@@ -824,5 +905,6 @@ DESCRIPTION:NBA 2025-26\nMilwaukee Bucks @ Philadelphia 76ers\nXfinity Mobile Ar
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

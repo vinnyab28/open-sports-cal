@@ -14,6 +14,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Portland Trail Blazers\nModa C
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-25@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Portland Trail Blazers\nModa Ce
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-40@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-52@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Los Angeles Lakers\nCrypto.com
 LOCATION:Crypto.com Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-65@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-78@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-101@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:NBA 2025-26\nLos Angeles Lakers @ Portland Trail Blazers\nModa Cente
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-118@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Portland Trail Blazers\nModa Ce
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-136@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Miami Heat\nKaseya Center
 LOCATION:Kaseya Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-149@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Orlando Magic\nKia Center
 LOCATION:Kia Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-168@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ New Orleans Pelicans\nSmoothie
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-180@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Houston Rockets\nToyota Center
 LOCATION:Toyota Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-196@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Dallas Mavericks\nAmerican Air
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-212@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:NBA 2025-26\nPhoenix Suns @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-221@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:NBA 2025-26\nChicago Bulls @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-234@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Golden State Warriors\nChase C
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-247@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Oklahoma City Thunder\nPaycom 
 LOCATION:Paycom Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-255@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Milwaukee Bucks\nFiserv Forum
 LOCATION:Fiserv Forum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-270@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:NBA 2025-26\nSan Antonio Spurs @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-295@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Portland Trail Blazers\nModa Ce
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-309@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Toronto Raptors\nScotiabank Ar
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-314@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Cleveland Cavaliers\nRocket Ar
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-332@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Detroit Pistons\nLittle Caesar
 LOCATION:Little Caesars Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-350@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-363@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ New Orleans Pelicans\nSmoothie
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-381@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Portland Trail Blazers\nModa Ce
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-401@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:NBA 2025-26\nSacramento Kings @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-415@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Sacramento Kings\nGolden 1 Cen
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-429@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:NBA 2025-26\nDetroit Pistons @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-441@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:NBA 2025-26\nOrlando Magic @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-457@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:NBA 2025-26\nLA Clippers @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-470@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:NBA 2025-26\nBoston Celtics @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-483@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-496@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Oklahoma City Thunder\nPaycom 
 LOCATION:Paycom Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-508@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ New Orleans Pelicans\nSmoothie
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-516@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ San Antonio Spurs\nFrost Bank 
 LOCATION:Frost Bank Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-535@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-553@open-sports-cal
@@ -384,6 +421,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-565@open-sports-cal
@@ -394,6 +432,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-576@open-sports-cal
@@ -404,6 +443,7 @@ DESCRIPTION:NBA 2025-26\nNew York Knicks @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-595@open-sports-cal
@@ -414,6 +454,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Golden State Warriors\nChase C
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-610@open-sports-cal
@@ -424,6 +465,7 @@ DESCRIPTION:NBA 2025-26\nAtlanta Hawks @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-626@open-sports-cal
@@ -434,6 +476,7 @@ DESCRIPTION:NBA 2025-26\nLos Angeles Lakers @ Portland Trail Blazers\nModa Cente
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-631@open-sports-cal
@@ -444,6 +487,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Sacramento Kings\nGolden 1 Cen
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-663@open-sports-cal
@@ -454,6 +498,7 @@ DESCRIPTION:NBA 2025-26\nMiami Heat @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-671@open-sports-cal
@@ -464,6 +509,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-687@open-sports-cal
@@ -474,6 +520,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Boston Celtics\nTD Garden
 LOCATION:TD Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-691@open-sports-cal
@@ -484,6 +531,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Washington Wizards\nCapital On
 LOCATION:Capital One Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-718@open-sports-cal
@@ -494,6 +542,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ New York Knicks\nMadison Squar
 LOCATION:Madison Square Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-738@open-sports-cal
@@ -504,6 +553,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Portland Trail Blazers\nModa Cent
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-753@open-sports-cal
@@ -514,6 +564,7 @@ DESCRIPTION:NBA 2025-26\nPhoenix Suns @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-773@open-sports-cal
@@ -524,6 +575,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-783@open-sports-cal
@@ -534,6 +586,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-798@open-sports-cal
@@ -544,6 +597,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Portland Trail Blazers\nModa Cente
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-811@open-sports-cal
@@ -554,6 +608,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Minnesota Timberwolves\nTarget
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-818@open-sports-cal
@@ -564,6 +619,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-838@open-sports-cal
@@ -574,6 +630,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-854@open-sports-cal
@@ -584,6 +641,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Phoenix Suns\nMortgage Matchup
 LOCATION:Mortgage Matchup Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-868@open-sports-cal
@@ -594,6 +652,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Portland Trail Blazers\nModa C
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-881@open-sports-cal
@@ -604,6 +663,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Chicago Bulls\nUnited Center
 LOCATION:United Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-891@open-sports-cal
@@ -614,6 +674,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Charlotte Hornets\nSpectrum Ce
 LOCATION:Spectrum Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-901@open-sports-cal
@@ -624,6 +685,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Atlanta Hawks\nState Farm Aren
 LOCATION:State Farm Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-924@open-sports-cal
@@ -634,6 +696,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-938@open-sports-cal
@@ -644,6 +707,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Houston Rockets\nToyota Center
 LOCATION:Toyota Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-956@open-sports-cal
@@ -654,6 +718,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-972@open-sports-cal
@@ -664,6 +729,7 @@ DESCRIPTION:NBA 2025-26\nCharlotte Hornets @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-996@open-sports-cal
@@ -674,6 +740,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1009@open-sports-cal
@@ -684,6 +751,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Philadelphia 76ers\nXfinity Mo
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1014@open-sports-cal
@@ -694,6 +762,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1030@open-sports-cal
@@ -704,6 +773,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Indiana Pacers\nGainbridge Fie
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1049@open-sports-cal
@@ -714,6 +784,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Minnesota Timberwolves\nTarget
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1061@open-sports-cal
@@ -724,6 +795,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1074@open-sports-cal
@@ -734,6 +806,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1090@open-sports-cal
@@ -744,6 +817,7 @@ DESCRIPTION:NBA 2025-26\nMilwaukee Bucks @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1103@open-sports-cal
@@ -754,6 +828,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1116@open-sports-cal
@@ -764,6 +839,7 @@ DESCRIPTION:NBA 2025-26\nWashington Wizards @ Portland Trail Blazers\nModa Cente
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1134@open-sports-cal
@@ -774,6 +850,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1148@open-sports-cal
@@ -784,6 +861,7 @@ DESCRIPTION:NBA 2025-26\nNew Orleans Pelicans @ Portland Trail Blazers\nModa Cen
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1177@open-sports-cal
@@ -794,6 +872,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1192@open-sports-cal
@@ -804,6 +883,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ San Antonio Spurs\nFrost Bank 
 LOCATION:Frost Bank Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1213@open-sports-cal
@@ -814,6 +894,7 @@ DESCRIPTION:NBA 2025-26\nLA Clippers @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1230@open-sports-cal
@@ -824,5 +905,6 @@ DESCRIPTION:NBA 2025-26\nSacramento Kings @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

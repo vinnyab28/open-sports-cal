@@ -14,6 +14,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ RC Lens\nStade Bollaert-Deleli
 LOCATION:Stade Bollaert-Delelis
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-12@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Ligue 1 2025-26\nFC Metz @ Olympique Lyonnais\nParc Olympique Lyonna
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-26@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique de Marseille @ Olympique Lyonnais\nParc O
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-35@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ Stade Rennais FC\nRoazhon Park
 LOCATION:Roazhon Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-36@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Ligue 1 2025-26\nAngers SCO @ Olympique Lyonnais\nParc Olympique Lyo
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-51@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ LOSC Lille\nStade Pierre-Mauro
 LOCATION:Stade Pierre-Mauroy
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-58@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ Olympique Lyonnais\nParc Olympique Ly
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-64@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ OGC Nice\nAllianz Riviera
 LOCATION:Allianz Riviera
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-80@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ Olympique Lyonnais\nParc Oly
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-87@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ Paris FC\nStade Charléty
 LOCATION:Stade Charléty
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-98@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ Stade Brestois 29\nStade Franc
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-107@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Ligue 1 2025-26\nParis Saint-Germain @ Olympique Lyonnais\nParc Olym
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-112@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ AJ Auxerre\nStade de l'Abbé-D
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-125@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Ligue 1 2025-26\nFC Nantes @ Olympique Lyonnais\nParc Olympique Lyon
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-134@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ FC Lorient\nStade du Moustoir
 LOCATION:Stade du Moustoir
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-139@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Ligue 1 2025-26\nHavre Athletic Club @ Olympique Lyonnais\nParc Olym
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-145@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ AS Monaco\nStade Louis II
 LOCATION:Stade Louis II
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-161@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ Olympique Lyonnais\nParc Olympi
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-168@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ FC Metz\nStade Saint-Symphorie
 LOCATION:Stade Saint-Symphorien
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-175@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Ligue 1 2025-26\nLOSC Lille @ Olympique Lyonnais\nParc Olympique Lyo
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-183@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ FC Nantes\nStade de la Beaujoi
 LOCATION:Stade de la Beaujoire
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-197@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Ligue 1 2025-26\nOGC Nice @ Olympique Lyonnais\nParc Olympique Lyonn
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-206@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ RC Strasbourg Alsace\nStade de
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-215@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ Olympique de Marseille\nStade 
 LOCATION:Stade Vélodrome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-224@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Ligue 1 2025-26\nParis FC @ Olympique Lyonnais\nParc Olympique Lyonn
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-231@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ Havre Athletic Club\nStade Oc�
 LOCATION:Stade Océane
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-238@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Ligue 1 2025-26\nAS Monaco @ Olympique Lyonnais\nParc Olympique Lyon
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-247@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ Angers SCO\nStade Raymond Kopa
 LOCATION:Stade Raymond Kopa
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-260@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Ligue 1 2025-26\nFC Lorient @ Olympique Lyonnais\nParc Olympique Lyo
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-268@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ Paris Saint-Germain\nParc des 
 LOCATION:Parc des Princes
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-274@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ Olympique Lyonnais\nParc Olympique Lyo
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-281@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Rennais FC @ Olympique Lyonnais\nParc Olympiq
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-296@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ Toulouse FC\nStadium de Toulou
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-300@open-sports-cal
@@ -344,5 +377,6 @@ DESCRIPTION:Ligue 1 2025-26\nRC Lens @ Olympique Lyonnais\nParc Olympique Lyonna
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 END:VCALENDAR

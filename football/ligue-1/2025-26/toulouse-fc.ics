@@ -14,6 +14,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ OGC Nice\nAllianz Riviera
 LOCATION:Allianz Riviera
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-16@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ Toulouse FC\nStadium de Toulous
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-21@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Ligue 1 2025-26\nParis Saint-Germain @ Toulouse FC\nStadium de Toulo
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-30@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ LOSC Lille\nStade Pierre-Mauroy
 LOCATION:Stade Pierre-Mauroy
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-41@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ AJ Auxerre\nStade de l'Abbé-Deschamp
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-47@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Ligue 1 2025-26\nFC Nantes @ Toulouse FC\nStadium de Toulouse
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-58@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ Olympique Lyonnais\nParc Olympique Ly
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-70@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Ligue 1 2025-26\nFC Metz @ Toulouse FC\nStadium de Toulouse
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-74@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ AS Monaco\nStade Louis II
 LOCATION:Stade Louis II
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-89@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Rennais FC @ Toulouse FC\nStadium de Toulouse
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-97@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Ligue 1 2025-26\nHavre Athletic Club @ Toulouse FC\nStadium de Toulo
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-103@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ FC Lorient\nStade du Moustoir
 LOCATION:Stade du Moustoir
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-115@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Ligue 1 2025-26\nAngers SCO @ Toulouse FC\nStadium de Toulouse
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-120@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ Olympique de Marseille\nStade Vélodr
 LOCATION:Stade Vélodrome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-129@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ Toulouse FC\nStadium de Toul
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-138@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ Paris FC\nStade Charléty
 LOCATION:Stade Charléty
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-144@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Lens @ Toulouse FC\nStadium de Toulouse
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-156@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Ligue 1 2025-26\nOGC Nice @ Toulouse FC\nStadium de Toulouse
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-167@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ Stade Brestois 29\nStade Francis-Le B
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-178@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ Toulouse FC\nStadium de Toulouse
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-185@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ Angers SCO\nStade Raymond Kopa
 LOCATION:Stade Raymond Kopa
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-194@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ Havre Athletic Club\nStade Océane
 LOCATION:Stade Océane
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-200@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Ligue 1 2025-26\nParis FC @ Toulouse FC\nStadium de Toulouse
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-208@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ Stade Rennais FC\nRoazhon Park
 LOCATION:Roazhon Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-219@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique de Marseille @ Toulouse FC\nStadium de To
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-232@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ FC Metz\nStade Saint-Symphorien
 LOCATION:Stade Saint-Symphorien
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-235@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Ligue 1 2025-26\nFC Lorient @ Toulouse FC\nStadium de Toulouse
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-243@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ Paris Saint-Germain\nParc des Princes
 LOCATION:Parc des Princes
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-259@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Ligue 1 2025-26\nLOSC Lille @ Toulouse FC\nStadium de Toulouse
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-262@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ RC Lens\nStade Bollaert-Delelis
 LOCATION:Stade Bollaert-Delelis
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-278@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Ligue 1 2025-26\nAS Monaco @ Toulouse FC\nStadium de Toulouse
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-287@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ RC Strasbourg Alsace\nStade de la Mei
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-296@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ Toulouse FC\nStadium de Toulou
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-302@open-sports-cal
@@ -344,5 +377,6 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ FC Nantes\nStade de la Beaujoire
 LOCATION:Stade de la Beaujoire
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 END:VCALENDAR

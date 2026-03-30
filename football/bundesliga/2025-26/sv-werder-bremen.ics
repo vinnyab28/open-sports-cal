@@ -14,6 +14,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ Eintracht Frankfurt\nDeutsche
 LOCATION:Deutsche Bank Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-12@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Bundesliga 2025-26\nBayer 04 Leverkusen @ SV Werder Bremen\nWesersta
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-26@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ Borussia Mönchengladbach\nBo
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-31@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Bundesliga 2025-26\nSport-Club Freiburg @ SV Werder Bremen\nWesersta
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-36@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ FC Bayern München\nAllianz A
 LOCATION:Allianz Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-47@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Bundesliga 2025-26\nFC St. Pauli @ SV Werder Bremen\nWeserstadion
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-56@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ 1. FC Heidenheim 1846\nVoith-
 LOCATION:Voith-Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-63@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FC Union Berlin @ SV Werder Bremen\nWeserstad
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-77@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ 1. FSV Mainz 05\nMewa Arena
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-81@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Bundesliga 2025-26\nVfL Wolfsburg @ SV Werder Bremen\nWeserstadion
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-97@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ RB Leipzig\nRed Bull Arena
 LOCATION:Red Bull Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-102@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FC Köln @ SV Werder Bremen\nWeserstadion
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-115@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ Hamburger SV\nVolksparkstadio
 LOCATION:Volksparkstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-125@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Bundesliga 2025-26\nVfB Stuttgart @ SV Werder Bremen\nWeserstadion
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-129@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ FC Augsburg\nWWK Arena
 LOCATION:WWK Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-146@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ Borussia Dortmund\nSignal Idu
 LOCATION:Signal Iduna Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-153@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ SV Werder Bremen\nWesersta
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-166@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ Bayer 04 Leverkusen\nBayArena
 LOCATION:BayArena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-143@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Bundesliga 2025-26\nTSG Hoffenheim @ SV Werder Bremen\nWeserstadion
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-174@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ SV Werder Bremen\nWe
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-185@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ Sport-Club Freiburg\nEuropa-P
 LOCATION:Europa-Park Stadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-192@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Bundesliga 2025-26\nFC Bayern München @ SV Werder Bremen\nWeserstad
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-205@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ FC St. Pauli\nMillerntor-Stad
 LOCATION:Millerntor-Stadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-210@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FC Heidenheim 1846 @ SV Werder Bremen\nWesers
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-224@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ 1. FC Union Berlin\nAn der Al
 LOCATION:An der Alten Försterei
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-231@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ SV Werder Bremen\nWeserstadion
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-237@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ VfL Wolfsburg\nVolkswagen Are
 LOCATION:Volkswagen Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-246@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Bundesliga 2025-26\nRB Leipzig @ SV Werder Bremen\nWeserstadion
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-258@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ 1. FC Köln\nRheinEnergieStad
 LOCATION:RheinEnergieStadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-264@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Bundesliga 2025-26\nHamburger SV @ SV Werder Bremen\nWeserstadion
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-275@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ VfB Stuttgart\nMHPArena
 LOCATION:MHPArena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-283@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Bundesliga 2025-26\nFC Augsburg @ SV Werder Bremen\nWeserstadion
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-290@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ TSG Hoffenheim\nPreZero Arena
 LOCATION:PreZero Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-301@open-sports-cal
@@ -344,5 +377,6 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Dortmund @ SV Werder Bremen\nWeserstadi
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 END:VCALENDAR

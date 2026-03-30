@@ -14,6 +14,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-19@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-28@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-38@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-40@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-52@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-64@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-78@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-84@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Brentford\nGtech Community Stadi
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-96@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-109@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-114@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-128@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-138@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-146@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-151@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-165@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-175@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-187@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-198@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-209@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-213@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-224@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-234@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-249@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-258@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-266@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-273@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-283@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-298@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-302@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Brighton\nAmerican Express Stadi
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-314@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-326@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-333@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-347@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-354@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-361@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-374@open-sports-cal
@@ -384,5 +421,6 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 END:VCALENDAR

@@ -14,6 +14,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Roma\nOlimpico
 LOCATION:Olimpico
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-12@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Serie A 2025-26\nComo @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-27@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Milan\nSan Siro
 LOCATION:San Siro
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-31@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Serie A 2025-26\nGenoa @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-46@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Lecce\nEttore Giardiniero - Via del mare
 LOCATION:Ettore Giardiniero - Via del mare
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-56@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Serie A 2025-26\nPisa @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-65@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Cagliari\nUnipol Domus
 LOCATION:Unipol Domus
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-78@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Fiorentina\nArtemio Franchi
 LOCATION:Artemio Franchi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-85@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Serie A 2025-26\nTorino @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-96@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Parma\nEnnio Tardini
 LOCATION:Ennio Tardini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-106@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Serie A 2025-26\nNapoli @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-111@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Udinese\nFriuli
 LOCATION:Friuli
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-129@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-135@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Lazio\nOlimpico
 LOCATION:Olimpico
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-148@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Serie A 2025-26\nJuventus @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-167@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-179@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Inter\nSan Siro
 LOCATION:San Siro
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-183@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Serie A 2025-26\nAtalanta @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-190@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Como\nGiuseppe Sinigaglia
 LOCATION:Giuseppe Sinigaglia
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-158@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-205@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Serie A 2025-26\nFiorentina @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-216@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Genoa\nLuigi Ferraris
 LOCATION:Luigi Ferraris
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-229@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Serie A 2025-26\nMilan @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-233@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Serie A 2025-26\nParma @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-247@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Torino\nOlimpico Grande Torino
 LOCATION:Olimpico Grande Torino
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-259@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Serie A 2025-26\nUdinese @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-268@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Pisa\nGaribaldi
 LOCATION:Garibaldi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-276@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-286@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Sassuolo\nMapei Stadium - Città del Tric
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-297@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Serie A 2025-26\nLazio @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-303@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-317@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Serie A 2025-26\nLecce @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-328@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Juventus\nJuventus Stadium
 LOCATION:Juventus Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-332@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:Serie A 2025-26\nRoma @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-341@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:Serie A 2025-26\nCagliari @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-357@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Napoli\nDiego Armando Maradona
 LOCATION:Diego Armando Maradona
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-360@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Atalanta\nAtleti Azzurri d'Italia
 LOCATION:Atleti Azzurri d'Italia
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-370@open-sports-cal
@@ -384,5 +421,6 @@ DESCRIPTION:Serie A 2025-26\nInter @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 END:VCALENDAR

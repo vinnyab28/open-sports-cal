@@ -14,6 +14,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Deportivo Alavés\nMendizorroza
 LOCATION:Mendizorroza
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-13@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:La Liga 2025-26\nFC Barcelona @ Levante UD\nEstadio Ciutat de Valèn
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-20@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Elche CF\nEstadio Martínez Valero
 LOCATION:Estadio Martínez Valero
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-36@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:La Liga 2025-26\nReal Betis @ Levante UD\nEstadio Ciutat de Valènci
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-41@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Girona FC\nEstadio Municipal de Montil
 LOCATION:Estadio Municipal de Montilivi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-53@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Levante UD\nEstadio Ciutat de Valènc
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-61@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Getafe CF\nColiseum
 LOCATION:Coliseum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-71@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Real Oviedo\nEstadio Carlos Tartiere
 LOCATION:Estadio Carlos Tartiere
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-87@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Levante UD\nEstadio Ciutat de Val�
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-95@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ RCD Mallorca\nEstadi Mallorca Son Moix
 LOCATION:Estadi Mallorca Son Moix
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-105@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:La Liga 2025-26\nCelta @ Levante UD\nEstadio Ciutat de València
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-113@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Atlético de Madrid\nRiyadh Air Metrop
 LOCATION:Riyadh Air Metropolitano
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-120@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Valencia CF\nCamp de Mestalla
 LOCATION:Camp de Mestalla
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-133@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Levante UD\nEstadio Ciutat de Valè
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-149@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ CA Osasuna\nEstadio El Sadar
 LOCATION:Estadio El Sadar
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-162@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:La Liga 2025-26\nReal Sociedad @ Levante UD\nEstadio Ciutat de Valè
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-175@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Sevilla FC\nRamón Sánchez-Pizjuán
 LOCATION:Ramón Sánchez-Pizjuán
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-188@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Levante UD\nEstadio Ciu
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-191@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Real Madrid\nEstadio Santiago Bernabé
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-200@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:La Liga 2025-26\nElche CF @ Levante UD\nEstadio Ciutat de València
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-213@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:La Liga 2025-26\nAtlético de Madrid @ Levante UD\nEstadio Ciutat de
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-224@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-237@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:La Liga 2025-26\nValencia CF @ Levante UD\nEstadio Ciutat de Valènc
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-159@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:La Liga 2025-26\nVillarreal CF @ Levante UD\nEstadio Ciutat de Valè
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-246@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ FC Barcelona\nSpotify Camp Nou
 LOCATION:Spotify Camp Nou
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-250@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:La Liga 2025-26\nDeportivo Alavés @ Levante UD\nEstadio Ciutat de V
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-262@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:La Liga 2025-26\nGirona FC @ Levante UD\nEstadio Ciutat de València
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-279@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-283@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:La Liga 2025-26\nReal Oviedo @ Levante UD\nEstadio Ciutat de Valènc
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-291@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Real Sociedad\nAnoeta
 LOCATION:Anoeta
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-309@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:La Liga 2025-26\nGetafe CF @ Levante UD\nEstadio Ciutat de València
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-312@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:La Liga 2025-26\nSevilla FC @ Levante UD\nEstadio Ciutat de Valènci
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-322@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ RCD Espanyol de Barcelona\nRCDE Stadiu
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-338@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Villarreal CF\nEstadio de la Cerámica
 LOCATION:Estadio de la Cerámica
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-343@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:La Liga 2025-26\nCA Osasuna @ Levante UD\nEstadio Ciutat de Valènci
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-352@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Celta\nEstadio ABANCA Balaídos
 LOCATION:Estadio ABANCA Balaídos
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-364@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Mallorca @ Levante UD\nEstadio Ciutat de Valèn
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-371@open-sports-cal
@@ -384,5 +421,6 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Real Betis\nEstadio Olímpico de La Ca
 LOCATION:Estadio Olímpico de La Cartuja
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 END:VCALENDAR

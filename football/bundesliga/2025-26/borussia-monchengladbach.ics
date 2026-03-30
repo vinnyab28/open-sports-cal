@@ -14,6 +14,7 @@ DESCRIPTION:Bundesliga 2025-26\nHamburger SV @ Borussia Mönchengladbach\nBoruss
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-11@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ VfB Stuttgart\nMHPAr
 LOCATION:MHPArena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-26@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ Borussia Mönchengladbach\nBo
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-34@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ Bayer 04 Leverkusen\
 LOCATION:BayArena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-41@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ Borussia Mönchengladbach\
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-53@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Bundesliga 2025-26\nSport-Club Freiburg @ Borussia Mönchengladbach\
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-54@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ 1. FC Union Berlin\n
 LOCATION:An der Alten Försterei
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-67@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Bundesliga 2025-26\nFC Bayern München @ Borussia Mönchengladbach\n
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-74@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ FC St. Pauli\nMiller
 LOCATION:Millerntor-Stadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-86@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FC Köln @ Borussia Mönchengladbach\nBorussi
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-91@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ 1. FC Heidenheim 184
 LOCATION:Voith-Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-99@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Bundesliga 2025-26\nRB Leipzig @ Borussia Mönchengladbach\nBorussia
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-108@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ 1. FSV Mainz 05\nMew
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-120@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Bundesliga 2025-26\nVfL Wolfsburg @ Borussia Mönchengladbach\nBorus
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-126@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ Borussia Dortmund\nS
 LOCATION:Signal Iduna Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-140@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Bundesliga 2025-26\nFC Augsburg @ Borussia Mönchengladbach\nBorussi
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-149@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ TSG Hoffenheim\nPreZ
 LOCATION:PreZero Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-154@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ Hamburger SV\nVolksp
 LOCATION:Volksparkstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-169@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Bundesliga 2025-26\nVfB Stuttgart @ Borussia Mönchengladbach\nBorus
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-174@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ SV Werder Bremen\nWe
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-186@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Bundesliga 2025-26\nBayer 04 Leverkusen @ Borussia Mönchengladbach\
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-193@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ Eintracht Frankfurt\
 LOCATION:Deutsche Bank Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-204@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ Sport-Club Freiburg\
 LOCATION:Europa-Park Stadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-209@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FC Union Berlin @ Borussia Mönchengladbach\n
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-216@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ FC Bayern München\n
 LOCATION:Allianz Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-225@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Bundesliga 2025-26\nFC St. Pauli @ Borussia Mönchengladbach\nBoruss
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-235@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ 1. FC Köln\nRheinEn
 LOCATION:RheinEnergieStadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-245@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FC Heidenheim 1846 @ Borussia Mönchengladbac
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-255@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ RB Leipzig\nRed Bull
 LOCATION:Red Bull Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-269@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ Borussia Mönchengladbach\nBor
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-274@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ VfL Wolfsburg\nVolks
 LOCATION:Volkswagen Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-282@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Dortmund @ Borussia Mönchengladbach\nB
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-291@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ FC Augsburg\nWWK Are
 LOCATION:WWK Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-300@open-sports-cal
@@ -344,5 +377,6 @@ DESCRIPTION:Bundesliga 2025-26\nTSG Hoffenheim @ Borussia Mönchengladbach\nBoru
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 END:VCALENDAR

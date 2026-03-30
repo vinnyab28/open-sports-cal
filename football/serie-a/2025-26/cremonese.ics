@@ -14,6 +14,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Milan\nSan Siro
 LOCATION:San Siro
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-10@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-28@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-36@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Serie A 2025-26\nParma @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-40@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Como\nGiuseppe Sinigaglia
 LOCATION:Giuseppe Sinigaglia
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-53@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Inter\nSan Siro
 LOCATION:San Siro
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-69@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Serie A 2025-26\nUdinese @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-74@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Serie A 2025-26\nAtalanta @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-86@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Genoa\nLuigi Ferraris
 LOCATION:Luigi Ferraris
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-92@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Serie A 2025-26\nJuventus @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-100@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Pisa\nGaribaldi
 LOCATION:Garibaldi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-115@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Serie A 2025-26\nRoma @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-129@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-133@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Serie A 2025-26\nLecce @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-141@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Torino\nOlimpico Grande Torino
 LOCATION:Olimpico Grande Torino
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-150@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Lazio\nOlimpico
 LOCATION:Olimpico
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-166@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Serie A 2025-26\nNapoli @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-177@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Fiorentina\nArtemio Franchi
 LOCATION:Artemio Franchi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-188@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Serie A 2025-26\nCagliari @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-199@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Juventus\nJuventus Stadium
 LOCATION:Juventus Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-208@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-214@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Sassuolo\nMapei Stadium - Città del Tr
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-226@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Serie A 2025-26\nInter @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-237@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Atalanta\nAtleti Azzurri d'Italia
 LOCATION:Atleti Azzurri d'Italia
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-245@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Serie A 2025-26\nGenoa @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-257@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Roma\nOlimpico
 LOCATION:Olimpico
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-264@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Serie A 2025-26\nMilan @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-274@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Lecce\nEttore Giardiniero - Via del mar
 LOCATION:Ettore Giardiniero - Via del mare
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-289@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Serie A 2025-26\nFiorentina @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-292@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Parma\nEnnio Tardini
 LOCATION:Ennio Tardini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-303@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-311@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Cagliari\nUnipol Domus
 LOCATION:Unipol Domus
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-325@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Serie A 2025-26\nTorino @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-330@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Napoli\nDiego Armando Maradona
 LOCATION:Diego Armando Maradona
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-343@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:Serie A 2025-26\nLazio @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-352@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:Serie A 2025-26\nPisa @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-369@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Udinese\nFriuli
 LOCATION:Friuli
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-371@open-sports-cal
@@ -384,5 +421,6 @@ DESCRIPTION:Serie A 2025-26\nComo @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 END:VCALENDAR

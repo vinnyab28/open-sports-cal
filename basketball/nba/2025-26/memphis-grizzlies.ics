@@ -14,6 +14,7 @@ DESCRIPTION:NBA 2025-26\nNew Orleans Pelicans @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-21@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:NBA 2025-26\nMiami Heat @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-31@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-51@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-67@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Phoenix Suns\nMortgage Matchup Cent
 LOCATION:Mortgage Matchup Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-76@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:NBA 2025-26\nLos Angeles Lakers @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-90@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-99@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:NBA 2025-26\nDetroit Pistons @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-114@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-127@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-143@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-157@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ New York Knicks\nMadison Square Gar
 LOCATION:Madison Square Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-165@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Boston Celtics\nTD Garden
 LOCATION:TD Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-186@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-210@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ San Antonio Spurs\nFrost Bank Cente
 LOCATION:Frost Bank Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-223@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:NBA 2025-26\nSacramento Kings @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-240@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Dallas Mavericks\nAmerican Airlines
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-254@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-268@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ New Orleans Pelicans\nSmoothie King
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-282@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-297@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Sacramento Kings\nGolden 1 Center
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-312@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ San Antonio Spurs\nFrost Bank Cente
 LOCATION:Frost Bank Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-337@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:NBA 2025-26\nLA Clippers @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-350@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-369@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-386@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-389@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Minnesota Timberwolves\nTarget Cent
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-412@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:NBA 2025-26\nWashington Wizards @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-427@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Oklahoma City Thunder\nPaycom Cente
 LOCATION:Paycom Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-440@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-454@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:NBA 2025-26\nMilwaukee Bucks @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-469@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Washington Wizards\nCapital One Are
 LOCATION:Capital One Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-484@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-511@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Los Angeles Lakers\nCrypto.com Aren
 LOCATION:Crypto.com Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-527@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Los Angeles Lakers\nCrypto.com Aren
 LOCATION:Crypto.com Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-538@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:NBA 2025-26\nSan Antonio Spurs @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-549@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:NBA 2025-26\nPhoenix Suns @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-561@open-sports-cal
@@ -384,6 +421,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-574@open-sports-cal
@@ -394,6 +432,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-603@open-sports-cal
@@ -404,6 +443,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Orlando Magic\nUber Arena
 LOCATION:Uber Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-627@open-sports-cal
@@ -414,6 +454,7 @@ DESCRIPTION:NBA 2025-26\nOrlando Magic @ Memphis Grizzlies\nThe O2 Arena
 LOCATION:The O2 Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-652@open-sports-cal
@@ -424,6 +465,7 @@ DESCRIPTION:NBA 2025-26\nAtlanta Hawks @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-668@open-sports-cal
@@ -434,6 +476,7 @@ DESCRIPTION:NBA 2025-26\nNew Orleans Pelicans @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-689@open-sports-cal
@@ -444,6 +487,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Houston Rockets\nToyota Center
 LOCATION:Toyota Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-703@open-sports-cal
@@ -454,6 +498,7 @@ DESCRIPTION:NBA 2025-26\nCharlotte Hornets @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-719@open-sports-cal
@@ -464,6 +509,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ New Orleans Pelicans\nSmoothie King
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-728@open-sports-cal
@@ -474,6 +520,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-742@open-sports-cal
@@ -484,6 +531,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-759@open-sports-cal
@@ -494,6 +542,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Sacramento Kings\nGolden 1 Center
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-773@open-sports-cal
@@ -504,6 +553,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-783@open-sports-cal
@@ -514,6 +564,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-796@open-sports-cal
@@ -524,6 +575,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-815@open-sports-cal
@@ -534,6 +586,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-832@open-sports-cal
@@ -544,6 +597,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-841@open-sports-cal
@@ -554,6 +608,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Miami Heat\nKaseya Center
 LOCATION:Kaseya Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-857@open-sports-cal
@@ -564,6 +619,7 @@ DESCRIPTION:NBA 2025-26\nSacramento Kings @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-872@open-sports-cal
@@ -574,6 +630,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-889@open-sports-cal
@@ -584,6 +641,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Dallas Mavericks\nAmerican Airlines
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-900@open-sports-cal
@@ -594,6 +652,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Indiana Pacers\nGainbridge Fieldhou
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-918@open-sports-cal
@@ -604,6 +663,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Minnesota Timberwolves\nTarget Cent
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-924@open-sports-cal
@@ -614,6 +674,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-946@open-sports-cal
@@ -624,6 +685,7 @@ DESCRIPTION:NBA 2025-26\nLA Clippers @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-960@open-sports-cal
@@ -634,6 +696,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-964@open-sports-cal
@@ -644,6 +707,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Philadelphia 76ers\nXfinity Mobile 
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-986@open-sports-cal
@@ -654,6 +718,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-990@open-sports-cal
@@ -664,6 +729,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Detroit Pistons\nLittle Caesars Are
 LOCATION:Little Caesars Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1016@open-sports-cal
@@ -674,6 +740,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Chicago Bulls\nUnited Center
 LOCATION:United Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1034@open-sports-cal
@@ -684,6 +751,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1048@open-sports-cal
@@ -694,6 +762,7 @@ DESCRIPTION:NBA 2025-26\nBoston Celtics @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1052@open-sports-cal
@@ -704,6 +773,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Charlotte Hornets\nSpectrum Center
 LOCATION:Spectrum Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1070@open-sports-cal
@@ -714,6 +784,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Atlanta Hawks\nState Farm Arena
 LOCATION:State Farm Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1085@open-sports-cal
@@ -724,6 +795,7 @@ DESCRIPTION:NBA 2025-26\nSan Antonio Spurs @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1098@open-sports-cal
@@ -734,6 +806,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1109@open-sports-cal
@@ -744,6 +817,7 @@ DESCRIPTION:NBA 2025-26\nChicago Bulls @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1122@open-sports-cal
@@ -754,6 +828,7 @@ DESCRIPTION:NBA 2025-26\nPhoenix Suns @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1138@open-sports-cal
@@ -764,6 +839,7 @@ DESCRIPTION:NBA 2025-26\nNew York Knicks @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1155@open-sports-cal
@@ -774,6 +850,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1165@open-sports-cal
@@ -784,6 +861,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Milwaukee Bucks\nFiserv Forum
 LOCATION:Fiserv Forum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1175@open-sports-cal
@@ -794,6 +872,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1191@open-sports-cal
@@ -804,6 +883,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1212@open-sports-cal
@@ -814,6 +894,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1224@open-sports-cal
@@ -824,5 +905,6 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Houston Rockets\nToyota Center
 LOCATION:Toyota Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

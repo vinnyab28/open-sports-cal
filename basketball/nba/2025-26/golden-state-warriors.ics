@@ -14,6 +14,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Los Angeles Lakers\nCrypto.com 
 LOCATION:Crypto.com Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-15@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-25@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Portland Trail Blazers\nModa Ce
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-51@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-57@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:NBA 2025-26\nLA Clippers @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-69@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Milwaukee Bucks\nFiserv Forum
 LOCATION:Fiserv Forum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-82@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Indiana Pacers\nGainbridge Fiel
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-107@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:NBA 2025-26\nPhoenix Suns @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-119@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Sacramento Kings\nGolden 1 Cent
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-130@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-145@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-159@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Oklahoma City Thunder\nPaycom C
 LOCATION:Paycom Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-169@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ San Antonio Spurs\nFrost Bank C
 LOCATION:Frost Bank Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-185@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ San Antonio Spurs\nFrost Bank C
 LOCATION:Frost Bank Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-195@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ New Orleans Pelicans\nSmoothie 
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-207@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Orlando Magic\nKia Center
 LOCATION:Kia Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-216@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Miami Heat\nKaseya Center
 LOCATION:Kaseya Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-234@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Golden State Warriors\nChase C
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-258@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-269@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-288@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:NBA 2025-26\nNew Orleans Pelicans @ Golden State Warriors\nChase Cen
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-313@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Golden State Warriors\nChase Ce
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-323@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Philadelphia 76ers\nXfinity Mob
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-342@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Cleveland Cavaliers\nRocket Are
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-351@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Chicago Bulls\nUnited Center
 LOCATION:United Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-371@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Golden State Warriors\nChase C
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-381@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Portland Trail Blazers\nModa Ce
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-399@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Phoenix Suns\nMortgage Matchup 
 LOCATION:Mortgage Matchup Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-413@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:NBA 2025-26\nPhoenix Suns @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-428@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:NBA 2025-26\nOrlando Magic @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-446@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-467@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Toronto Raptors\nScotiabank Are
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-475@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-488@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Charlotte Hornets\nSpectrum Cen
 LOCATION:Spectrum Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-510@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Golden State Warriors\nChase Ce
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-518@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-534@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-552@open-sports-cal
@@ -384,6 +421,7 @@ DESCRIPTION:NBA 2025-26\nMilwaukee Bucks @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-564@open-sports-cal
@@ -394,6 +432,7 @@ DESCRIPTION:NBA 2025-26\nSacramento Kings @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-581@open-sports-cal
@@ -404,6 +443,7 @@ DESCRIPTION:NBA 2025-26\nAtlanta Hawks @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-595@open-sports-cal
@@ -414,6 +454,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Golden State Warriors\nChase C
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-609@open-sports-cal
@@ -424,6 +465,7 @@ DESCRIPTION:NBA 2025-26\nNew York Knicks @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-624@open-sports-cal
@@ -434,6 +476,7 @@ DESCRIPTION:NBA 2025-26\nCharlotte Hornets @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-641@open-sports-cal
@@ -444,6 +487,7 @@ DESCRIPTION:NBA 2025-26\nMiami Heat @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-647@open-sports-cal
@@ -454,6 +498,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-659@open-sports-cal
@@ -464,6 +509,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Dallas Mavericks\nAmerican Airl
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-679@open-sports-cal
@@ -474,6 +520,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Minnesota Timberwolves\nTarget 
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-690@open-sports-cal
@@ -484,6 +531,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Minnesota Timberwolves\nTarget 
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-705@open-sports-cal
@@ -494,6 +542,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-723@open-sports-cal
@@ -504,6 +553,7 @@ DESCRIPTION:NBA 2025-26\nDetroit Pistons @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-752@open-sports-cal
@@ -514,6 +564,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Golden State Warriors\nChase Cente
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-767@open-sports-cal
@@ -524,6 +575,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Phoenix Suns\nMortgage Matchup 
 LOCATION:Mortgage Matchup Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-781@open-sports-cal
@@ -534,6 +586,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Los Angeles Lakers\nCrypto.com 
 LOCATION:Crypto.com Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-796@open-sports-cal
@@ -544,6 +597,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-816@open-sports-cal
@@ -554,6 +608,7 @@ DESCRIPTION:NBA 2025-26\nSan Antonio Spurs @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-827@open-sports-cal
@@ -564,6 +619,7 @@ DESCRIPTION:NBA 2025-26\nBoston Celtics @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-848@open-sports-cal
@@ -574,6 +630,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-866@open-sports-cal
@@ -584,6 +641,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ New Orleans Pelicans\nSmoothie 
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-872@open-sports-cal
@@ -594,6 +652,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-894@open-sports-cal
@@ -604,6 +663,7 @@ DESCRIPTION:NBA 2025-26\nLos Angeles Lakers @ Golden State Warriors\nChase Cente
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-910@open-sports-cal
@@ -614,6 +674,7 @@ DESCRIPTION:NBA 2025-26\nLA Clippers @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-930@open-sports-cal
@@ -624,6 +685,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Houston Rockets\nToyota Center
 LOCATION:Toyota Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-948@open-sports-cal
@@ -634,6 +696,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Oklahoma City Thunder\nPaycom C
 LOCATION:Paycom Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-962@open-sports-cal
@@ -644,6 +707,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-971@open-sports-cal
@@ -654,6 +718,7 @@ DESCRIPTION:NBA 2025-26\nChicago Bulls @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-995@open-sports-cal
@@ -664,6 +729,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Golden State Warriors\nChase C
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1010@open-sports-cal
@@ -674,6 +740,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ New York Knicks\nMadison Square
 LOCATION:Madison Square Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1013@open-sports-cal
@@ -684,6 +751,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Washington Wizards\nCapital One
 LOCATION:Capital One Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1028@open-sports-cal
@@ -694,6 +762,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Boston Celtics\nTD Garden
 LOCATION:TD Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1046@open-sports-cal
@@ -704,6 +773,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Detroit Pistons\nLittle Caesars
 LOCATION:Little Caesars Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1055@open-sports-cal
@@ -714,6 +784,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Atlanta Hawks\nState Farm Arena
 LOCATION:State Farm Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1073@open-sports-cal
@@ -724,6 +795,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Dallas Mavericks\nAmerican Airl
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1089@open-sports-cal
@@ -734,6 +806,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1102@open-sports-cal
@@ -744,6 +817,7 @@ DESCRIPTION:NBA 2025-26\nWashington Wizards @ Golden State Warriors\nChase Cente
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1119@open-sports-cal
@@ -754,6 +828,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1143@open-sports-cal
@@ -764,6 +839,7 @@ DESCRIPTION:NBA 2025-26\nSan Antonio Spurs @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1147@open-sports-cal
@@ -774,6 +850,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Golden State Warriors\nChase Cent
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1172@open-sports-cal
@@ -784,6 +861,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1184@open-sports-cal
@@ -794,6 +872,7 @@ DESCRIPTION:NBA 2025-26\nSacramento Kings @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1200@open-sports-cal
@@ -804,6 +883,7 @@ DESCRIPTION:NBA 2025-26\nLos Angeles Lakers @ Golden State Warriors\nChase Cente
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1214@open-sports-cal
@@ -814,6 +894,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Sacramento Kings\nGolden 1 Cent
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1229@open-sports-cal
@@ -824,5 +905,6 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

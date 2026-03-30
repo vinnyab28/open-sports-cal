@@ -14,6 +14,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-12@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-24@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-35@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-44@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-56@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-68@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-75@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-87@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-93@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-104@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-115@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-126@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-136@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-149@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-153@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-164@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-175@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-185@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-192@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-204@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-217@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-223@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-232@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-246@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-256@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-300@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-265@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-270@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-283@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-299@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-310@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-321@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-335@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-345@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-350@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-369@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-371@open-sports-cal
@@ -384,5 +421,6 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 END:VCALENDAR

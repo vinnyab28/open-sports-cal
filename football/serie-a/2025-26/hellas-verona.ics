@@ -14,6 +14,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Udinese\nFriuli
 LOCATION:Friuli
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-19@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Lazio\nOlimpico
 LOCATION:Olimpico
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-28@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-32@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Serie A 2025-26\nJuventus @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-45@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Roma\nOlimpico
 LOCATION:Olimpico
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-50@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-61@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Pisa\nGaribaldi
 LOCATION:Garibaldi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-76@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Serie A 2025-26\nCagliari @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-82@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Como\nGiuseppe Sinigaglia
 LOCATION:Giuseppe Sinigaglia
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-93@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Serie A 2025-26\nInter @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-102@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Lecce\nEttore Giardiniero - Via del
 LOCATION:Ettore Giardiniero - Via del mare
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-114@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Serie A 2025-26\nParma @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-121@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Genoa\nLuigi Ferraris
 LOCATION:Luigi Ferraris
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-132@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Serie A 2025-26\nAtalanta @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-145@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Fiorentina\nArtemio Franchi
 LOCATION:Artemio Franchi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-165@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Milan\nSan Siro
 LOCATION:San Siro
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-178@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Serie A 2025-26\nTorino @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-184@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Napoli\nDiego Armando Maradona
 LOCATION:Diego Armando Maradona
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-196@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Serie A 2025-26\nLazio @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-158@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-208@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-219@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Serie A 2025-26\nUdinese @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-223@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Cagliari\nUnipol Domus
 LOCATION:Unipol Domus
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-230@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Serie A 2025-26\nPisa @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-246@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Parma\nEnnio Tardini
 LOCATION:Ennio Tardini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-250@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Sassuolo\nMapei Stadium - Città de
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-262@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Serie A 2025-26\nNapoli @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-276@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-284@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Serie A 2025-26\nGenoa @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-296@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Atalanta\nAtleti Azzurri d'Italia
 LOCATION:Atleti Azzurri d'Italia
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-301@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Serie A 2025-26\nFiorentina @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-312@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Torino\nOlimpico Grande Torino
 LOCATION:Olimpico Grande Torino
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-326@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Serie A 2025-26\nMilan @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-333@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:Serie A 2025-26\nLecce @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-345@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Juventus\nJuventus Stadium
 LOCATION:Juventus Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-350@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:Serie A 2025-26\nComo @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-364@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Inter\nSan Siro
 LOCATION:San Siro
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-379@open-sports-cal
@@ -384,5 +421,6 @@ DESCRIPTION:Serie A 2025-26\nRoma @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 END:VCALENDAR

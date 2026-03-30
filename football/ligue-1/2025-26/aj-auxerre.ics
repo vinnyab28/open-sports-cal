@@ -14,6 +14,7 @@ DESCRIPTION:Ligue 1 2025-26\nFC Lorient @ AJ Auxerre\nStade de l'Abbé-Deschamps
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-11@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ OGC Nice\nAllianz Riviera
 LOCATION:Allianz Riviera
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-20@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ FC Nantes\nStade de la Beaujoire
 LOCATION:Stade de la Beaujoire
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-29@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Ligue 1 2025-26\nAS Monaco @ AJ Auxerre\nStade de l'Abbé-Deschamps
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-41@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ AJ Auxerre\nStade de l'Abbé-Deschamp
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-48@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ Paris Saint-Germain\nParc des Princes
 LOCATION:Parc des Princes
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-57@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Lens @ AJ Auxerre\nStade de l'Abbé-Deschamps
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-69@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ Stade Rennais FC\nRoazhon Park
 LOCATION:Roazhon Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-78@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Ligue 1 2025-26\nHavre Athletic Club @ AJ Auxerre\nStade de l'Abbé-
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-88@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ RC Strasbourg Alsace\nStade de la Mein
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-92@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique de Marseille @ AJ Auxerre\nStade de l'Abb
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-104@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ Angers SCO\nStade Raymond Kopa
 LOCATION:Stade Raymond Kopa
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-112@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ AJ Auxerre\nStade de l'Abbé-D
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-119@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ Paris FC\nStade Charléty
 LOCATION:Stade Charléty
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-132@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Ligue 1 2025-26\nFC Metz @ AJ Auxerre\nStade de l'Abbé-Deschamps
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-140@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Ligue 1 2025-26\nLOSC Lille @ AJ Auxerre\nStade de l'Abbé-Deschamps
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-149@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ Stade Brestois 29\nStade Francis-Le Bl
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-155@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ RC Lens\nStade Bollaert-Delelis
 LOCATION:Stade Bollaert-Delelis
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-162@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Ligue 1 2025-26\nParis Saint-Germain @ AJ Auxerre\nStade de l'Abbé-
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-178@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ Toulouse FC\nStadium de Toulouse
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-186@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Ligue 1 2025-26\nParis FC @ AJ Auxerre\nStade de l'Abbé-Deschamps
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-196@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ FC Metz\nStade Saint-Symphorien
 LOCATION:Stade Saint-Symphorien
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-202@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Rennais FC @ AJ Auxerre\nStade de l'Abbé-Des
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-213@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ FC Lorient\nStade du Moustoir
 LOCATION:Stade du Moustoir
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-218@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ AJ Auxerre\nStade de l'Abbé
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-225@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ Olympique de Marseille\nStade Vélodro
 LOCATION:Stade Vélodrome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-236@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ AJ Auxerre\nStade de l'Abbé-De
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-248@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ Havre Athletic Club\nStade Océane
 LOCATION:Stade Océane
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-255@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Ligue 1 2025-26\nFC Nantes @ AJ Auxerre\nStade de l'Abbé-Deschamps
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-266@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ AS Monaco\nStade Louis II
 LOCATION:Stade Louis II
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-274@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ Olympique Lyonnais\nParc Olympique Lyo
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-279@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Ligue 1 2025-26\nAngers SCO @ AJ Auxerre\nStade de l'Abbé-Deschamps
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-289@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Ligue 1 2025-26\nOGC Nice @ AJ Auxerre\nStade de l'Abbé-Deschamps
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-298@open-sports-cal
@@ -344,5 +377,6 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ LOSC Lille\nStade Pierre-Mauroy
 LOCATION:Stade Pierre-Mauroy
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 END:VCALENDAR

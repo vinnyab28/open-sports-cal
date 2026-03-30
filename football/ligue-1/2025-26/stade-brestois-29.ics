@@ -14,6 +14,7 @@ DESCRIPTION:Ligue 1 2025-26\nLOSC Lille @ Stade Brestois 29\nStade Francis-Le Bl
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-16@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ Toulouse FC\nStadium de Toulous
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-18@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ RC Lens\nStade Bollaert-Delelis
 LOCATION:Stade Bollaert-Delelis
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-31@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Ligue 1 2025-26\nParis FC @ Stade Brestois 29\nStade Francis-Le Blé
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-38@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Ligue 1 2025-26\nOGC Nice @ Stade Brestois 29\nStade Francis-Le Blé
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-50@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ Angers SCO\nStade Raymond Kopa
 LOCATION:Stade Raymond Kopa
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-56@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Ligue 1 2025-26\nFC Nantes @ Stade Brestois 29\nStade Francis-Le Bl�
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-68@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ FC Lorient\nStade du Moustoir
 LOCATION:Stade du Moustoir
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-73@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Ligue 1 2025-26\nParis Saint-Germain @ Stade Brestois 29\nStade Fran
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-81@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ Havre Athletic Club\nStade Océ
 LOCATION:Stade Océane
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-98@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ Stade Brestois 29\nStade Franc
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-100@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ Olympique de Marseille\nStade V
 LOCATION:Stade Vélodrome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-113@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Ligue 1 2025-26\nFC Metz @ Stade Brestois 29\nStade Francis-Le Blé
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-121@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ RC Strasbourg Alsace\nStade de 
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-126@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Ligue 1 2025-26\nAS Monaco @ Stade Brestois 29\nStade Francis-Le Bl�
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-136@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ Stade Rennais FC\nRoazhon Park
 LOCATION:Roazhon Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-149@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ Stade Brestois 29\nStade Francis-Le Bl
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-161@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ Olympique Lyonnais\nParc Olympi
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-167@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ Stade Brestois 29\nStade Francis-Le B
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-177@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ OGC Nice\nAllianz Riviera
 LOCATION:Allianz Riviera
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-182@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Ligue 1 2025-26\nFC Lorient @ Stade Brestois 29\nStade Francis-Le Bl
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-192@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ LOSC Lille\nStade Pierre-Mauroy
 LOCATION:Stade Pierre-Mauroy
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-198@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique de Marseille @ Stade Brestois 29\nStade F
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-214@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ FC Metz\nStade Saint-Symphorien
 LOCATION:Stade Saint-Symphorien
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-221@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Ligue 1 2025-26\nHavre Athletic Club @ Stade Brestois 29\nStade Fran
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-228@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ AS Monaco\nStade Louis II
 LOCATION:Stade Louis II
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-236@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ AJ Auxerre\nStade de l'Abbé-De
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-245@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Rennais FC @ Stade Brestois 29\nStade Francis
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-257@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ Stade Brestois 29\nStade Fra
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-267@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ FC Nantes\nStade de la Beaujoir
 LOCATION:Stade de la Beaujoire
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-271@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Lens @ Stade Brestois 29\nStade Francis-Le Blé
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-285@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ Paris FC\nStade Charléty
 LOCATION:Stade Charléty
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-294@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ Paris Saint-Germain\nParc des P
 LOCATION:Parc des Princes
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-297@open-sports-cal
@@ -344,5 +377,6 @@ DESCRIPTION:Ligue 1 2025-26\nAngers SCO @ Stade Brestois 29\nStade Francis-Le Bl
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 END:VCALENDAR

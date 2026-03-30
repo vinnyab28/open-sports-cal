@@ -14,6 +14,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ FC Metz\nStade Saint-Symphor
 LOCATION:Stade Saint-Symphorien
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-15@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Ligue 1 2025-26\nFC Nantes @ RC Strasbourg Alsace\nStade de la Meina
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-24@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ AS Monaco\nStade Louis II
 LOCATION:Stade Louis II
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-34@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Ligue 1 2025-26\nHavre Athletic Club @ RC Strasbourg Alsace\nStade d
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-40@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ Paris FC\nStade Charléty
 LOCATION:Stade Charléty
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-45@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique de Marseille @ RC Strasbourg Alsace\nStad
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-61@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Ligue 1 2025-26\nAngers SCO @ RC Strasbourg Alsace\nStade de la Mein
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-63@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ Paris Saint-Germain\nParc de
 LOCATION:Parc des Princes
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-80@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ Olympique Lyonnais\nParc Oly
 LOCATION:Parc Olympique Lyonnais
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-88@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Ligue 1 2025-26\nAJ Auxerre @ RC Strasbourg Alsace\nStade de la Mein
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-93@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ Stade Rennais FC\nRoazhon Pa
 LOCATION:Roazhon Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-106@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Ligue 1 2025-26\nLOSC Lille @ RC Strasbourg Alsace\nStade de la Mein
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-109@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ RC Lens\nStade Bollaert-Dele
 LOCATION:Stade Bollaert-Delelis
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-121@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Brestois 29 @ RC Strasbourg Alsace\nStade de 
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-129@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ Toulouse FC\nStadium de Toul
 LOCATION:Stadium de Toulouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-142@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Ligue 1 2025-26\nFC Lorient @ RC Strasbourg Alsace\nStade de la Mein
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-146@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ OGC Nice\nAllianz Riviera
 LOCATION:Allianz Riviera
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-158@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Ligue 1 2025-26\nFC Metz @ RC Strasbourg Alsace\nStade de la Meinau
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-170@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ LOSC Lille\nStade Pierre-Mau
 LOCATION:Stade Pierre-Mauroy
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-179@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Ligue 1 2025-26\nParis Saint-Germain @ RC Strasbourg Alsace\nStade d
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-187@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ Havre Athletic Club\nStade O
 LOCATION:Stade Océane
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-191@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ Olympique de Marseille\nStad
 LOCATION:Stade Vélodrome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-206@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Ligue 1 2025-26\nOlympique Lyonnais @ RC Strasbourg Alsace\nStade de
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-207@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Lens @ RC Strasbourg Alsace\nStade de la Meinau
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-218@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ AJ Auxerre\nStade de l'Abbé
 LOCATION:Stade de l'Abbé-Deschamps
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-230@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Ligue 1 2025-26\nParis FC @ RC Strasbourg Alsace\nStade de la Meinau
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-242@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ FC Nantes\nStade de la Beauj
 LOCATION:Stade de la Beaujoire
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-244@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Ligue 1 2025-26\nOGC Nice @ RC Strasbourg Alsace\nStade de la Meinau
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-257@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ Stade Brestois 29\nStade Fra
 LOCATION:Stade Francis-Le Blé
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-269@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Ligue 1 2025-26\nStade Rennais FC @ RC Strasbourg Alsace\nStade de l
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-273@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ FC Lorient\nStade du Moustoi
 LOCATION:Stade du Moustoir
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-287@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Ligue 1 2025-26\nToulouse FC @ RC Strasbourg Alsace\nStade de la Mei
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-288@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Ligue 1 2025-26\nRC Strasbourg Alsace @ Angers SCO\nStade Raymond Ko
 LOCATION:Stade Raymond Kopa
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:ligue-1-2025-305@open-sports-cal
@@ -344,5 +377,6 @@ DESCRIPTION:Ligue 1 2025-26\nAS Monaco @ RC Strasbourg Alsace\nStade de la Meina
 LOCATION:Stade de la Meinau
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 END:VCALENDAR

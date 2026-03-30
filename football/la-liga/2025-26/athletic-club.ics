@@ -14,6 +14,7 @@ DESCRIPTION:La Liga 2025-26\nSevilla FC @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-18@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-27@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Real Betis\nEstadio Olímpico de La
 LOCATION:Estadio Olímpico de La Cartuja
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-33@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:La Liga 2025-26\nDeportivo Alavés @ Athletic Club\nEstadio San Mam�
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-45@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Valencia CF\nCamp de Mestalla
 LOCATION:Camp de Mestalla
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-51@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:La Liga 2025-26\nGirona FC @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-64@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Villarreal CF\nEstadio de la Cerám
 LOCATION:Estadio de la Cerámica
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-73@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Mallorca @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-85@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Elche CF\nEstadio Martínez Valero
 LOCATION:Estadio Martínez Valero
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-93@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:La Liga 2025-26\nGetafe CF @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-103@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Real Sociedad\nAnoeta
 LOCATION:Anoeta
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-115@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:La Liga 2025-26\nReal Oviedo @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-122@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ FC Barcelona\nSpotify Camp Nou
 LOCATION:Spotify Camp Nou
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-133@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Levante UD\nEstadio Ciutat de Valè
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-181@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-144@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:La Liga 2025-26\nAtlético de Madrid @ Athletic Club\nEstadio San Ma
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-156@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Celta\nEstadio ABANCA Balaídos
 LOCATION:Estadio ABANCA Balaídos
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-169@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Athletic Club\nEstadio 
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-172@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ CA Osasuna\nEstadio El Sadar
 LOCATION:Estadio El Sadar
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-192@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ RCD Mallorca\nEstadi Mallorca Son M
 LOCATION:Estadi Mallorca Son Moix
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-203@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Sevilla FC\nRamón Sánchez-Pizjuá
 LOCATION:Ramón Sánchez-Pizjuán
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-218@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:La Liga 2025-26\nReal Sociedad @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-224@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-235@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Real Oviedo\nEstadio Carlos Tartier
 LOCATION:Estadio Carlos Tartiere
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-240@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:La Liga 2025-26\nElche CF @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-251@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-264@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:La Liga 2025-26\nFC Barcelona @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-271@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Girona FC\nEstadio Municipal de Mon
 LOCATION:Estadio Municipal de Montilivi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-288@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:La Liga 2025-26\nReal Betis @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-295@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Getafe CF\nColiseum
 LOCATION:Coliseum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-308@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:La Liga 2025-26\nVillarreal CF @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-310@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:La Liga 2025-26\nCA Osasuna @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-325@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Atlético de Madrid\nRiyadh Air Met
 LOCATION:Riyadh Air Metropolitano
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-330@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Deportivo Alavés\nMendizorroza
 LOCATION:Mendizorroza
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-340@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:La Liga 2025-26\nValencia CF @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-355@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ RCD Espanyol de Barcelona\nRCDE Sta
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-360@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:La Liga 2025-26\nCelta @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-376@open-sports-cal
@@ -384,5 +421,6 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Real Madrid\nEstadio Santiago Berna
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 END:VCALENDAR

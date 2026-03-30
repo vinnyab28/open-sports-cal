@@ -14,6 +14,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Girona FC\nEstadio Municipal de Mo
 LOCATION:Estadio Municipal de Montilivi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-18@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-29@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:La Liga 2025-26\nFC Barcelona @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-37@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ CA Osasuna\nEstadio El Sadar
 LOCATION:Estadio El Sadar
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-46@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:La Liga 2025-26\nCelta @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-56@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Atlético de Madrid\nRiyadh Air Me
 LOCATION:Riyadh Air Metropolitano
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-65@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:La Liga 2025-26\nSevilla FC @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-78@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Real Sociedad\nAnoeta
 LOCATION:Anoeta
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-87@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Levante UD\nEstadio Ciutat de Val�
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-98@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:La Liga 2025-26\nDeportivo Alavés @ Rayo Vallecano\nEstadio de Vall
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-101@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Villarreal CF\nEstadio de la Cerá
 LOCATION:Estadio de la Cerámica
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-116@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-125@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Real Oviedo\nEstadio Carlos Tartie
 LOCATION:Estadio Carlos Tartiere
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-139@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:La Liga 2025-26\nValencia CF @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-147@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ RCD Espanyol de Barcelona\nRCDE St
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-158@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:La Liga 2025-26\nReal Betis @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-167@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Elche CF\nEstadio Martínez Valero
 LOCATION:Estadio Martínez Valero
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-170@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:La Liga 2025-26\nGetafe CF @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-187@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Mallorca @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-197@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Celta\nEstadio ABANCA Balaídos
 LOCATION:Estadio ABANCA Balaídos
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-201@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:La Liga 2025-26\nCA Osasuna @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-215@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Real Madrid\nEstadio Santiago Bern
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-236@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:La Liga 2025-26\nAtlético de Madrid @ Rayo Vallecano\nEstadio Ontim
 LOCATION:Estadio Ontime Butarque
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-242@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Real Betis\nEstadio Olímpico de L
 LOCATION:Estadio Olímpico de La Cartuja
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-251@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-229@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:La Liga 2025-26\nReal Oviedo @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-267@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Sevilla FC\nRamón Sánchez-Pizju�
 LOCATION:Ramón Sánchez-Pizjuán
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-279@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-286@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ FC Barcelona\nSpotify Camp Nou
 LOCATION:Spotify Camp Nou
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-290@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:La Liga 2025-26\nElche CF @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-306@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ RCD Mallorca\nEstadi Mallorca Son 
 LOCATION:Estadi Mallorca Son Moix
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-318@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Rayo Vallecano\nEstadio
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-324@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:La Liga 2025-26\nReal Sociedad @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-334@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Getafe CF\nColiseum
 LOCATION:Coliseum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-349@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:La Liga 2025-26\nGirona FC @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-357@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Valencia CF\nCamp de Mestalla
 LOCATION:Camp de Mestalla
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-365@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:La Liga 2025-26\nVillarreal CF @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-370@open-sports-cal
@@ -384,5 +421,6 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Deportivo Alavés\nMendizorroza
 LOCATION:Mendizorroza
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 END:VCALENDAR

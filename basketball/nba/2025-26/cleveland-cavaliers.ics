@@ -14,6 +14,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ New York Knicks\nMadison Square G
 LOCATION:Madison Square Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-19@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-35@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:NBA 2025-26\nMilwaukee Bucks @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-42@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Detroit Pistons\nLittle Caesars A
 LOCATION:Little Caesars Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-59@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Boston Celtics\nTD Garden
 LOCATION:TD Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-74@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-89@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:NBA 2025-26\nAtlanta Hawks @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-109@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-122@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Washington Wizards\nCapital One A
 LOCATION:Capital One Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-135@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:NBA 2025-26\nChicago Bulls @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-150@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Miami Heat\nKaseya Center
 LOCATION:Kaseya Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-166@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Miami Heat\nKaseya Center
 LOCATION:Kaseya Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-174@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-186@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-199@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:NBA 2025-26\nMilwaukee Bucks @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-213@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-226@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-245@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:NBA 2025-26\nLA Clippers @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-251@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-272@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Atlanta Hawks\nState Farm Arena
 LOCATION:State Farm Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-292@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:NBA 2025-26\nBoston Celtics @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-300@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Indiana Pacers\nGainbridge Fieldh
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-314@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Cleveland Cavaliers\nRocket Ar
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-331@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:NBA 2025-26\nSan Antonio Spurs @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-342@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Cleveland Cavaliers\nRocket Are
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-368@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Washington Wizards\nCapital One A
 LOCATION:Capital One Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-375@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:NBA 2025-26\nCharlotte Hornets @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-388@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Chicago Bulls\nUnited Center
 LOCATION:United Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-405@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:NBA 2025-26\nChicago Bulls @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-423@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:NBA 2025-26\nCharlotte Hornets @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-433@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:NBA 2025-26\nNew Orleans Pelicans @ Cleveland Cavaliers\nRocket Aren
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-444@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ New York Knicks\nMadison Square G
 LOCATION:Madison Square Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-464@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Houston Rockets\nToyota Center
 LOCATION:Toyota Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-482@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ San Antonio Spurs\nFrost Bank Cen
 LOCATION:Frost Bank Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-491@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:NBA 2025-26\nPhoenix Suns @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-504@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-520@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:NBA 2025-26\nDetroit Pistons @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-536@open-sports-cal
@@ -384,6 +421,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Indiana Pacers\nGainbridge Fieldh
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-555@open-sports-cal
@@ -394,6 +432,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Minnesota Timberwolves\nTarget Ce
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-567@open-sports-cal
@@ -404,6 +443,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Cleveland Cavaliers\nRocket Ar
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-583@open-sports-cal
@@ -414,6 +454,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-597@open-sports-cal
@@ -424,6 +465,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Philadelphia 76ers\nXfinity Mobil
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-613@open-sports-cal
@@ -434,6 +476,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Philadelphia 76ers\nXfinity Mobil
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-634@open-sports-cal
@@ -444,6 +487,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Cleveland Cavaliers\nRocket Are
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-649@open-sports-cal
@@ -454,6 +498,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Charlotte Hornets\nSpectrum Cente
 LOCATION:Spectrum Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-667@open-sports-cal
@@ -464,6 +509,7 @@ DESCRIPTION:NBA 2025-26\nSacramento Kings @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-674@open-sports-cal
@@ -474,6 +520,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Orlando Magic\nKia Center
 LOCATION:Kia Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-686@open-sports-cal
@@ -484,6 +531,7 @@ DESCRIPTION:NBA 2025-26\nOrlando Magic @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-698@open-sports-cal
@@ -494,6 +542,7 @@ DESCRIPTION:NBA 2025-26\nLos Angeles Lakers @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-720@open-sports-cal
@@ -504,6 +553,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Phoenix Suns\nMortgage Matchup Ce
 LOCATION:Mortgage Matchup Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-738@open-sports-cal
@@ -514,6 +564,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Portland Trail Blazers\nModa Cent
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-760@open-sports-cal
@@ -524,6 +575,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-784@open-sports-cal
@@ -534,6 +586,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Sacramento Kings\nGolden 1 Center
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-795@open-sports-cal
@@ -544,6 +597,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-804@open-sports-cal
@@ -554,6 +608,7 @@ DESCRIPTION:NBA 2025-26\nWashington Wizards @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-821@open-sports-cal
@@ -564,6 +619,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-830@open-sports-cal
@@ -574,6 +630,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Charlotte Hornets\nSpectrum Cente
 LOCATION:Spectrum Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-845@open-sports-cal
@@ -584,6 +641,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Oklahoma City Thunder\nPaycom Cen
 LOCATION:Paycom Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-863@open-sports-cal
@@ -594,6 +652,7 @@ DESCRIPTION:NBA 2025-26\nNew York Knicks @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-874@open-sports-cal
@@ -604,6 +663,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Milwaukee Bucks\nFiserv Forum
 LOCATION:Fiserv Forum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-886@open-sports-cal
@@ -614,6 +674,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Detroit Pistons\nLittle Caesars A
 LOCATION:Little Caesars Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-897@open-sports-cal
@@ -624,6 +685,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-912@open-sports-cal
@@ -634,6 +696,7 @@ DESCRIPTION:NBA 2025-26\nDetroit Pistons @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-949@open-sports-cal
@@ -644,6 +707,7 @@ DESCRIPTION:NBA 2025-26\nBoston Celtics @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-959@open-sports-cal
@@ -654,6 +718,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-975@open-sports-cal
@@ -664,6 +729,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Orlando Magic\nKia Center
 LOCATION:Kia Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-993@open-sports-cal
@@ -674,6 +740,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Dallas Mavericks\nAmerican Airlin
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1006@open-sports-cal
@@ -684,6 +751,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1024@open-sports-cal
@@ -694,6 +762,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Milwaukee Bucks\nFiserv Forum
 LOCATION:Fiserv Forum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1040@open-sports-cal
@@ -704,6 +773,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Chicago Bulls\nUnited Center
 LOCATION:United Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1054@open-sports-cal
@@ -714,6 +784,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ New Orleans Pelicans\nSmoothie Ki
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1078@open-sports-cal
@@ -724,6 +795,7 @@ DESCRIPTION:NBA 2025-26\nOrlando Magic @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1084@open-sports-cal
@@ -734,6 +806,7 @@ DESCRIPTION:NBA 2025-26\nMiami Heat @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1097@open-sports-cal
@@ -744,6 +817,7 @@ DESCRIPTION:NBA 2025-26\nMiami Heat @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1125@open-sports-cal
@@ -754,6 +828,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1133@open-sports-cal
@@ -764,6 +839,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Los Angeles Lakers\nCrypto.com Ar
 LOCATION:Crypto.com Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1147@open-sports-cal
@@ -774,6 +850,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Golden State Warriors\nChase Cent
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1166@open-sports-cal
@@ -784,6 +861,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1175@open-sports-cal
@@ -794,6 +872,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1188@open-sports-cal
@@ -804,6 +883,7 @@ DESCRIPTION:NBA 2025-26\nAtlanta Hawks @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1203@open-sports-cal
@@ -814,6 +894,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Atlanta Hawks\nState Farm Arena
 LOCATION:State Farm Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1217@open-sports-cal
@@ -824,5 +905,6 @@ DESCRIPTION:NBA 2025-26\nWashington Wizards @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

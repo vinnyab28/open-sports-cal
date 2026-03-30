@@ -14,6 +14,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Indiana Pacers\nGainbridge Fiel
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-31@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-38@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-63@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Dallas Mavericks\nAmerican Airlines Ce
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-72@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:NBA 2025-26\nAtlanta Hawks @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-82@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Indiana Pacers\nGainbridge Fiel
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-95@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:NBA 2025-26\nMilwaukee Bucks @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-111@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-138@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-145@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-160@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-175@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Phoenix Suns\nMortgage Matchup Center
 LOCATION:Mortgage Matchup Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-188@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-200@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Detroit Pistons\nLittle Caesars Arena
 LOCATION:Little Caesars Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-214@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:NBA 2025-26\nCharlotte Hornets @ Indiana Pacers\nGainbridge Fieldhou
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-226@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-250@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:NBA 2025-26\nDetroit Pistons @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-266@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-276@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:NBA 2025-26\nWashington Wizards @ Indiana Pacers\nGainbridge Fieldho
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-285@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:NBA 2025-26\nChicago Bulls @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-300@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Indiana Pacers\nGainbridge Fieldh
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-315@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-335@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Chicago Bulls\nUnited Center
 LOCATION:United Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-354@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:NBA 2025-26\nSacramento Kings @ Indiana Pacers\nGainbridge Fieldhous
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-367@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Philadelphia 76ers\nXfinity Mobile Are
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-374@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:NBA 2025-26\nWashington Wizards @ Indiana Pacers\nGainbridge Fieldho
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-391@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:NBA 2025-26\nNew York Knicks @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-410@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ New Orleans Pelicans\nSmoothie King Ce
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-424@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Boston Celtics\nTD Garden
 LOCATION:TD Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-434@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:NBA 2025-26\nMilwaukee Bucks @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-452@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:NBA 2025-26\nBoston Celtics @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-462@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Miami Heat\nKaseya Center
 LOCATION:Kaseya Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-479@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Houston Rockets\nToyota Center
 LOCATION:Toyota Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-490@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:NBA 2025-26\nOrlando Magic @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-502@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:NBA 2025-26\nSan Antonio Spurs @ Indiana Pacers\nGainbridge Fieldhou
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-521@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Orlando Magic\nKia Center
 LOCATION:Kia Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-536@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Indiana Pacers\nGainbridge Fieldh
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-554@open-sports-cal
@@ -384,6 +421,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Charlotte Hornets\nSpectrum Center
 LOCATION:Spectrum Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-568@open-sports-cal
@@ -394,6 +432,7 @@ DESCRIPTION:NBA 2025-26\nMiami Heat @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-584@open-sports-cal
@@ -404,6 +443,7 @@ DESCRIPTION:NBA 2025-26\nBoston Celtics @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-596@open-sports-cal
@@ -414,6 +454,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-612@open-sports-cal
@@ -424,6 +465,7 @@ DESCRIPTION:NBA 2025-26\nNew Orleans Pelicans @ Indiana Pacers\nGainbridge Field
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-620@open-sports-cal
@@ -434,6 +476,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Detroit Pistons\nLittle Caesars Arena
 LOCATION:Little Caesars Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-638@open-sports-cal
@@ -444,6 +487,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Philadelphia 76ers\nXfinity Mobile Are
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-650@open-sports-cal
@@ -454,6 +498,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Boston Celtics\nTD Garden
 LOCATION:TD Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-669@open-sports-cal
@@ -464,6 +509,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Oklahoma City Thunder\nPaycom Center
 LOCATION:Paycom Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-684@open-sports-cal
@@ -474,6 +520,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Atlanta Hawks\nState Farm Arena
 LOCATION:State Farm Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-699@open-sports-cal
@@ -484,6 +531,7 @@ DESCRIPTION:NBA 2025-26\nChicago Bulls @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-725@open-sports-cal
@@ -494,6 +542,7 @@ DESCRIPTION:NBA 2025-26\nAtlanta Hawks @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-741@open-sports-cal
@@ -504,6 +553,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-745@open-sports-cal
@@ -514,6 +564,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-771@open-sports-cal
@@ -524,6 +575,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Milwaukee Bucks\nFiserv Forum
 LOCATION:Fiserv Forum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-787@open-sports-cal
@@ -534,6 +586,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-799@open-sports-cal
@@ -544,6 +597,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ New York Knicks\nMadison Square Garden
 LOCATION:Madison Square Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-807@open-sports-cal
@@ -554,6 +608,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-823@open-sports-cal
@@ -564,6 +619,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Washington Wizards\nCapital One Arena
 LOCATION:Capital One Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-831@open-sports-cal
@@ -574,6 +630,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Washington Wizards\nCapital One Arena
 LOCATION:Capital One Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-849@open-sports-cal
@@ -584,6 +641,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Indiana Pacers\nGainbridge Fieldhous
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-859@open-sports-cal
@@ -594,6 +652,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Indiana Pacers\nGainbridge Fieldho
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-876@open-sports-cal
@@ -604,6 +663,7 @@ DESCRIPTION:NBA 2025-26\nCharlotte Hornets @ Indiana Pacers\nGainbridge Fieldhou
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-900@open-sports-cal
@@ -614,6 +674,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Indiana Pacers\nGainbridge Fieldhou
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-926@open-sports-cal
@@ -624,6 +685,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-942@open-sports-cal
@@ -634,6 +696,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Los Angeles Lakers\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-956@open-sports-cal
@@ -644,6 +707,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-973@open-sports-cal
@@ -654,6 +718,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Sacramento Kings\nGolden 1 Center
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-982@open-sports-cal
@@ -664,6 +729,7 @@ DESCRIPTION:NBA 2025-26\nPhoenix Suns @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-991@open-sports-cal
@@ -674,6 +740,7 @@ DESCRIPTION:NBA 2025-26\nNew York Knicks @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1008@open-sports-cal
@@ -684,6 +751,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Milwaukee Bucks\nFiserv Forum
 LOCATION:Fiserv Forum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1023@open-sports-cal
@@ -694,6 +762,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ New York Knicks\nMadison Square Garden
 LOCATION:Madison Square Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1030@open-sports-cal
@@ -704,6 +773,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Indiana Pacers\nGainbridge Fie
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1057@open-sports-cal
@@ -714,6 +784,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ San Antonio Spurs\nFrost Bank Center
 LOCATION:Frost Bank Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1067@open-sports-cal
@@ -724,6 +795,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Orlando Magic\nKia Center
 LOCATION:Kia Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1081@open-sports-cal
@@ -734,6 +806,7 @@ DESCRIPTION:NBA 2025-26\nLos Angeles Lakers @ Indiana Pacers\nGainbridge Fieldho
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1095@open-sports-cal
@@ -744,6 +817,7 @@ DESCRIPTION:NBA 2025-26\nLA Clippers @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1112@open-sports-cal
@@ -754,6 +828,7 @@ DESCRIPTION:NBA 2025-26\nMiami Heat @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1140@open-sports-cal
@@ -764,6 +839,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Chicago Bulls\nUnited Center
 LOCATION:United Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1150@open-sports-cal
@@ -774,6 +850,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Charlotte Hornets\nSpectrum Center
 LOCATION:Spectrum Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1166@open-sports-cal
@@ -784,6 +861,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1179@open-sports-cal
@@ -794,6 +872,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Indiana Pacers\nGainbridge Fie
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1197@open-sports-cal
@@ -804,6 +883,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1205@open-sports-cal
@@ -814,6 +894,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Indiana Pacers\nGainbridge Fieldho
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1218@open-sports-cal
@@ -824,5 +905,6 @@ DESCRIPTION:NBA 2025-26\nDetroit Pistons @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 END:VCALENDAR

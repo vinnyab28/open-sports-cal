@@ -14,6 +14,7 @@ DESCRIPTION:La Liga 2025-26\nAtlético de Madrid @ RCD Espanyol de Barcelona\nRC
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-15@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Real Sociedad\nAnoeta
 LOCATION:Anoeta
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-28@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:La Liga 2025-26\nCA Osasuna @ RCD Espanyol de Barcelona\nRCDE Stadiu
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-39@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Mallorca @ RCD Espanyol de Barcelona\nRCDE Stad
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-42@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Real Madrid\nEstadio Sa
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-52@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:La Liga 2025-26\nValencia CF @ RCD Espanyol de Barcelona\nRCDE Stadi
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-60@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Girona FC\nEstadio Muni
 LOCATION:Estadio Municipal de Montilivi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-77@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:La Liga 2025-26\nReal Betis @ RCD Espanyol de Barcelona\nRCDE Stadiu
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-80@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Real Oviedo\nEstadio Ca
 LOCATION:Estadio Carlos Tartiere
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-92@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:La Liga 2025-26\nElche CF @ RCD Espanyol de Barcelona\nRCDE Stadium
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-106@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Deportivo Alavés\nMend
 LOCATION:Mendizorroza
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-114@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:La Liga 2025-26\nVillarreal CF @ RCD Espanyol de Barcelona\nRCDE Sta
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-129@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:La Liga 2025-26\nSevilla FC @ RCD Espanyol de Barcelona\nRCDE Stadiu
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-137@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Celta\nEstadio ABANCA B
 LOCATION:Estadio ABANCA Balaídos
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-147@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ RCD Espanyol de Barcelona\nRCDE St
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-154@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Getafe CF\nColiseum
 LOCATION:Coliseum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-169@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Athletic Club\nEstadio 
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-174@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:La Liga 2025-26\nFC Barcelona @ RCD Espanyol de Barcelona\nRCDE Stad
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-188@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Levante UD\nEstadio Ciu
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-190@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:La Liga 2025-26\nGirona FC @ RCD Espanyol de Barcelona\nRCDE Stadium
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-202@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Valencia CF\nCamp de Me
 LOCATION:Camp de Mestalla
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-210@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:La Liga 2025-26\nDeportivo Alavés @ RCD Espanyol de Barcelona\nRCDE
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-228@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Villarreal CF\nEstadio 
 LOCATION:Estadio de la Cerámica
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-231@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:La Liga 2025-26\nCelta @ RCD Espanyol de Barcelona\nRCDE Stadium
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-244@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Atlético de Madrid\nRi
 LOCATION:Riyadh Air Metropolitano
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-255@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Elche CF\nEstadio Mart�
 LOCATION:Estadio Martínez Valero
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-269@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:La Liga 2025-26\nReal Oviedo @ RCD Espanyol de Barcelona\nRCDE Stadi
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-275@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ RCD Mallorca\nEstadi Ma
 LOCATION:Estadi Mallorca Son Moix
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-282@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:La Liga 2025-26\nGetafe CF @ RCD Espanyol de Barcelona\nRCDE Stadium
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-293@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Real Betis\nEstadio Ol�
 LOCATION:Estadio Olímpico de La Cartuja
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-303@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ FC Barcelona\nSpotify C
 LOCATION:Spotify Camp Nou
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-318@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Rayo Vallecano\nEstadio
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-322@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ RCD Espanyol de Barcelona\nRCDE Stadiu
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-333@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ RCD Espanyol de Barcelona\nRCDE Stadi
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-347@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Sevilla FC\nRamón Sán
 LOCATION:Ramón Sánchez-Pizjuán
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-355@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ RCD Espanyol de Barcelona\nRCDE Sta
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-368@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ CA Osasuna\nEstadio El 
 LOCATION:Estadio El Sadar
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-373@open-sports-cal
@@ -384,5 +421,6 @@ DESCRIPTION:La Liga 2025-26\nReal Sociedad @ RCD Espanyol de Barcelona\nRCDE Sta
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 END:VCALENDAR

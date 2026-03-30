@@ -14,6 +14,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FC Köln @ 1. FSV Mainz 05\nMewa Arena
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-15@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ VfL Wolfsburg\nVolkswagen Aren
 LOCATION:Volkswagen Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-22@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Bundesliga 2025-26\nRB Leipzig @ 1. FSV Mainz 05\nMewa Arena
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-30@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ FC Augsburg\nWWK Arena
 LOCATION:WWK Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-40@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Dortmund @ 1. FSV Mainz 05\nMewa Arena
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-52@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ Hamburger SV\nVolksparkstadion
 LOCATION:Volksparkstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-59@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Bundesliga 2025-26\nBayer 04 Leverkusen @ 1. FSV Mainz 05\nMewa Aren
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-71@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ VfB Stuttgart\nMHPArena
 LOCATION:MHPArena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-77@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Bundesliga 2025-26\nSV Werder Bremen @ 1. FSV Mainz 05\nMewa Arena
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-89@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ Eintracht Frankfurt\nDeutsche 
 LOCATION:Deutsche Bank Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-90@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Bundesliga 2025-26\nTSG Hoffenheim @ 1. FSV Mainz 05\nMewa Arena
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-107@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ Sport-Club Freiburg\nEuropa-Pa
 LOCATION:Europa-Park Stadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-108@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Bundesliga 2025-26\nBorussia Mönchengladbach @ 1. FSV Mainz 05\nMew
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-124@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ FC Bayern München\nAllianz Ar
 LOCATION:Allianz Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-133@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Bundesliga 2025-26\nFC St. Pauli @ 1. FSV Mainz 05\nMewa Arena
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-137@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ 1. FC Union Berlin\nAn der Alt
 LOCATION:An der Alten Försterei
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-145@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FC Heidenheim 1846 @ 1. FSV Mainz 05\nMewa Ar
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-155@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ 1. FC Köln\nRheinEnergieStadi
 LOCATION:RheinEnergieStadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-164@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Bundesliga 2025-26\nVfL Wolfsburg @ 1. FSV Mainz 05\nMewa Arena
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-175@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ RB Leipzig\nRed Bull Arena
 LOCATION:Red Bull Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-184@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Bundesliga 2025-26\nFC Augsburg @ 1. FSV Mainz 05\nMewa Arena
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-189@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ Borussia Dortmund\nSignal Idun
 LOCATION:Signal Iduna Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-198@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Bundesliga 2025-26\nHamburger SV @ 1. FSV Mainz 05\nMewa Arena
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-211@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ Bayer 04 Leverkusen\nBayArena
 LOCATION:BayArena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-220@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Bundesliga 2025-26\nVfB Stuttgart @ 1. FSV Mainz 05\nMewa Arena
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-231@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ SV Werder Bremen\nWeserstadion
 LOCATION:Weserstadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-240@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Bundesliga 2025-26\nEintracht Frankfurt @ 1. FSV Mainz 05\nMewa Aren
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-244@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ TSG Hoffenheim\nPreZero Arena
 LOCATION:PreZero Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-260@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Bundesliga 2025-26\nSport-Club Freiburg @ 1. FSV Mainz 05\nMewa Aren
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-269@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ Borussia Mönchengladbach\nBor
 LOCATION:Borussia-Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-277@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Bundesliga 2025-26\nFC Bayern München @ 1. FSV Mainz 05\nMewa Arena
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-280@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ FC St. Pauli\nMillerntor-Stadi
 LOCATION:Millerntor-Stadion
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-295@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Bundesliga 2025-26\n1. FC Union Berlin @ 1. FSV Mainz 05\nMewa Arena
 LOCATION:Mewa Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:bundesliga-2025-297@open-sports-cal
@@ -344,5 +377,6 @@ DESCRIPTION:Bundesliga 2025-26\n1. FSV Mainz 05 @ 1. FC Heidenheim 1846\nVoith-A
 LOCATION:Voith-Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 END:VCALENDAR

@@ -14,6 +14,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Portland Trail Blazers\nModa C
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-24@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Los Angeles Lakers\nCrypto.com
 LOCATION:Crypto.com Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-38@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-50@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-66@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:NBA 2025-26\nLos Angeles Lakers @ Minnesota Timberwolves\nTarget Cen
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-81@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Charlotte Hornets\nSpectrum Ce
 LOCATION:Spectrum Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-94@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-113@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ New York Knicks\nMadison Squar
 LOCATION:Madison Square Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-129@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-146@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Sacramento Kings\nGolden 1 Cen
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-154@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-182@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:NBA 2025-26\nSacramento Kings @ Minnesota Timberwolves\nTarget Cente
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-190@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-204@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Minnesota Timberwolves\nTarget Cente
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-217@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:NBA 2025-26\nWashington Wizards @ Minnesota Timberwolves\nTarget Cen
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-231@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Phoenix Suns\nMortgage Matchup
 LOCATION:Mortgage Matchup Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-259@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Sacramento Kings\nGolden 1 Cen
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-267@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Oklahoma City Thunder\nPaycom 
 LOCATION:Paycom Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-283@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:NBA 2025-26\nBoston Celtics @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-296@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:NBA 2025-26\nSan Antonio Spurs @ Minnesota Timberwolves\nTarget Cent
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-311@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ New Orleans Pelicans\nSmoothie
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-327@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ New Orleans Pelicans\nSmoothie
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-345@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:NBA 2025-26\nLA Clippers @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-355@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:NBA 2025-26\nPhoenix Suns @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-371@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Golden State Warriors\nChase C
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-378@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:NBA 2025-26\nSacramento Kings @ Minnesota Timberwolves\nTarget Cente
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-389@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Minnesota Timberwolves\nTarget Cent
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-406@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Minnesota Timberwolves\nTarget 
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-421@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:NBA 2025-26\nMilwaukee Bucks @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-437@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:NBA 2025-26\nNew York Knicks @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-448@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-465@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-478@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Chicago Bulls\nUnited Center
 LOCATION:United Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-489@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Atlanta Hawks\nState Farm Aren
 LOCATION:State Farm Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-512@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Miami Heat\nKaseya Center
 LOCATION:Kaseya Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-524@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Washington Wizards\nCapital On
 LOCATION:Capital One Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-539@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:NBA 2025-26\nMiami Heat @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-555@open-sports-cal
@@ -384,6 +421,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Minnesota Timberwolves\nTarget Ce
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-567@open-sports-cal
@@ -394,6 +432,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Cleveland Cavaliers\nRocket Ar
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-577@open-sports-cal
@@ -404,6 +443,7 @@ DESCRIPTION:NBA 2025-26\nSan Antonio Spurs @ Minnesota Timberwolves\nTarget Cent
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-591@open-sports-cal
@@ -414,6 +454,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Milwaukee Bucks\nFiserv Forum
 LOCATION:Fiserv Forum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-616@open-sports-cal
@@ -424,6 +465,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Houston Rockets\nToyota Center
 LOCATION:Toyota Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-623@open-sports-cal
@@ -434,6 +476,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ San Antonio Spurs\nFrost Bank 
 LOCATION:Frost Bank Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-645@open-sports-cal
@@ -444,6 +487,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-660@open-sports-cal
@@ -454,6 +498,7 @@ DESCRIPTION:NBA 2025-26\nChicago Bulls @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-679@open-sports-cal
@@ -464,6 +509,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Minnesota Timberwolves\nTarget 
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-690@open-sports-cal
@@ -474,6 +520,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Minnesota Timberwolves\nTarget 
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-704@open-sports-cal
@@ -484,6 +531,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Dallas Mavericks\nAmerican Air
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-714@open-sports-cal
@@ -494,6 +542,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Minnesota Timberwolves\nTarget 
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-728@open-sports-cal
@@ -504,6 +553,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-742@open-sports-cal
@@ -514,6 +564,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-755@open-sports-cal
@@ -524,6 +575,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Toronto Raptors\nScotiabank Ar
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-772@open-sports-cal
@@ -534,6 +586,7 @@ DESCRIPTION:NBA 2025-26\nNew Orleans Pelicans @ Minnesota Timberwolves\nTarget C
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-788@open-sports-cal
@@ -544,6 +597,7 @@ DESCRIPTION:NBA 2025-26\nLA Clippers @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-793@open-sports-cal
@@ -554,6 +608,7 @@ DESCRIPTION:NBA 2025-26\nAtlanta Hawks @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-811@open-sports-cal
@@ -564,6 +619,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Minnesota Timberwolves\nTarget
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-834@open-sports-cal
@@ -574,6 +630,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Minnesota Timberwolves\nTarget Cente
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-852@open-sports-cal
@@ -584,6 +641,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Minnesota Timberwolves\nTarget Cen
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-868@open-sports-cal
@@ -594,6 +652,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Portland Trail Blazers\nModa C
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-885@open-sports-cal
@@ -604,6 +663,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-899@open-sports-cal
@@ -614,6 +674,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-918@open-sports-cal
@@ -624,6 +685,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Minnesota Timberwolves\nTarget Cent
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-931@open-sports-cal
@@ -634,6 +696,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-943@open-sports-cal
@@ -644,6 +707,7 @@ DESCRIPTION:NBA 2025-26\nOrlando Magic @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-974@open-sports-cal
@@ -654,6 +718,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Los Angeles Lakers\nCrypto.com
 LOCATION:Crypto.com Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-980@open-sports-cal
@@ -664,6 +729,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-995@open-sports-cal
@@ -674,6 +740,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Golden State Warriors\nChase C
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1005@open-sports-cal
@@ -684,6 +751,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Oklahoma City Thunder\nPaycom 
 LOCATION:Paycom Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1025@open-sports-cal
@@ -694,6 +762,7 @@ DESCRIPTION:NBA 2025-26\nPhoenix Suns @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1032@open-sports-cal
@@ -704,6 +773,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1049@open-sports-cal
@@ -714,6 +784,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Minnesota Timberwolves\nTarget
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1064@open-sports-cal
@@ -724,6 +795,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Boston Celtics\nTD Garden
 LOCATION:TD Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1087@open-sports-cal
@@ -734,6 +806,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1106@open-sports-cal
@@ -744,6 +817,7 @@ DESCRIPTION:NBA 2025-26\nDetroit Pistons @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1124@open-sports-cal
@@ -754,6 +828,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Dallas Mavericks\nAmerican Air
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1145@open-sports-cal
@@ -764,6 +839,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Detroit Pistons\nLittle Caesar
 LOCATION:Little Caesars Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1151@open-sports-cal
@@ -774,6 +850,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Philadelphia 76ers\nXfinity Mo
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1167@open-sports-cal
@@ -784,6 +861,7 @@ DESCRIPTION:NBA 2025-26\nCharlotte Hornets @ Minnesota Timberwolves\nTarget Cent
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1179@open-sports-cal
@@ -794,6 +872,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Indiana Pacers\nGainbridge Fie
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1189@open-sports-cal
@@ -804,6 +883,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Orlando Magic\nKia Center
 LOCATION:Kia Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1211@open-sports-cal
@@ -814,6 +894,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Houston Rockets\nToyota Center
 LOCATION:Toyota Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1225@open-sports-cal
@@ -824,5 +905,6 @@ DESCRIPTION:NBA 2025-26\nNew Orleans Pelicans @ Minnesota Timberwolves\nTarget C
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

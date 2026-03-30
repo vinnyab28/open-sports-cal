@@ -14,6 +14,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-17@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-26@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Brighton\nAmerican Express Stadiu
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-31@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-41@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-51@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-68@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-71@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Brighton\nAmerican Express Stadi
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-83@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-90@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-107@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-112@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Brighton\nAmerican Express Stadi
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-127@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-134@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Brighton\nAmerican Express Sta
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-147@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Brighton\nAmerican Express Stadiu
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-151@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-162@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Brighton\nAmerican Express Stad
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-172@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-183@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-191@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-206@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-219@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Brighton\nAmerican Express Sta
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-222@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-230@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-248@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Brighton\nAmerican Express 
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-254@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-261@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Brentford\nGtech Community Stadiu
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-276@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Brighton\nAmerican Express S
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-285@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-291@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-302@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Brighton\nAmerican Express Stadi
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-313@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-323@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-338@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-344@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-350@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-366@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-370@open-sports-cal
@@ -384,5 +421,6 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 END:VCALENDAR

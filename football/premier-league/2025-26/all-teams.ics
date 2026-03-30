@@ -14,6 +14,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-1@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-2@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-3@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-4@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-5@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-6@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-7@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-8@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-9@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-10@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-11@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-12@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-13@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Brentford\nGtech Community Sta
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-14@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-15@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-16@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Crystal Palace\nSelhurst Par
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-17@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-18@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-19@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-20@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-21@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-22@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-23@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Spurs\nTottenham Hotspur Stadi
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-24@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-25@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-26@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Brighton\nAmerican Express Stadiu
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-27@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-28@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-29@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-30@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-31@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-32@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-33@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Everton\nHill Dickinson Stadiu
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-34@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-35@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-36@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-37@open-sports-cal
@@ -384,6 +421,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-38@open-sports-cal
@@ -394,6 +432,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-39@open-sports-cal
@@ -404,6 +443,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-40@open-sports-cal
@@ -414,6 +454,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-41@open-sports-cal
@@ -424,6 +465,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-42@open-sports-cal
@@ -434,6 +476,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-43@open-sports-cal
@@ -444,6 +487,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-44@open-sports-cal
@@ -454,6 +498,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-45@open-sports-cal
@@ -464,6 +509,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-46@open-sports-cal
@@ -474,6 +520,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-47@open-sports-cal
@@ -484,6 +531,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-48@open-sports-cal
@@ -494,6 +542,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-49@open-sports-cal
@@ -504,6 +553,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-50@open-sports-cal
@@ -514,6 +564,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-51@open-sports-cal
@@ -524,6 +575,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-52@open-sports-cal
@@ -534,6 +586,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-53@open-sports-cal
@@ -544,6 +597,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-54@open-sports-cal
@@ -554,6 +608,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-55@open-sports-cal
@@ -564,6 +619,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-56@open-sports-cal
@@ -574,6 +630,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-57@open-sports-cal
@@ -584,6 +641,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-58@open-sports-cal
@@ -594,6 +652,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-59@open-sports-cal
@@ -604,6 +663,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-60@open-sports-cal
@@ -614,6 +674,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-61@open-sports-cal
@@ -624,6 +685,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-62@open-sports-cal
@@ -634,6 +696,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-63@open-sports-cal
@@ -644,6 +707,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-64@open-sports-cal
@@ -654,6 +718,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-65@open-sports-cal
@@ -664,6 +729,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-66@open-sports-cal
@@ -674,6 +740,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Everton\nHill Dickinson Sta
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-67@open-sports-cal
@@ -684,6 +751,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-68@open-sports-cal
@@ -694,6 +762,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-69@open-sports-cal
@@ -704,6 +773,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Brentford\nGtech Community Stadiu
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-70@open-sports-cal
@@ -714,6 +784,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-71@open-sports-cal
@@ -724,6 +795,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Brighton\nAmerican Express Stadi
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-72@open-sports-cal
@@ -734,6 +806,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-73@open-sports-cal
@@ -744,6 +817,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-74@open-sports-cal
@@ -754,6 +828,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-75@open-sports-cal
@@ -764,6 +839,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-76@open-sports-cal
@@ -774,6 +850,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-77@open-sports-cal
@@ -784,6 +861,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Spurs\nTottenham Hotspur Stadi
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-78@open-sports-cal
@@ -794,6 +872,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-79@open-sports-cal
@@ -804,6 +883,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-80@open-sports-cal
@@ -814,6 +894,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-81@open-sports-cal
@@ -824,6 +905,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-82@open-sports-cal
@@ -834,6 +916,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-83@open-sports-cal
@@ -844,6 +927,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-84@open-sports-cal
@@ -854,6 +938,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Brentford\nGtech Community Stadi
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-85@open-sports-cal
@@ -864,6 +949,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-86@open-sports-cal
@@ -874,6 +960,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-87@open-sports-cal
@@ -884,6 +971,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-88@open-sports-cal
@@ -894,6 +982,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Bournemouth\nVitality Stadiu
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-89@open-sports-cal
@@ -904,6 +993,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-90@open-sports-cal
@@ -914,6 +1004,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-91@open-sports-cal
@@ -924,6 +1015,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-92@open-sports-cal
@@ -934,6 +1026,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-93@open-sports-cal
@@ -944,6 +1037,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-94@open-sports-cal
@@ -954,6 +1048,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-95@open-sports-cal
@@ -964,6 +1059,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-96@open-sports-cal
@@ -974,6 +1070,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-97@open-sports-cal
@@ -984,6 +1081,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-98@open-sports-cal
@@ -994,6 +1092,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-99@open-sports-cal
@@ -1004,6 +1103,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-100@open-sports-cal
@@ -1014,6 +1114,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-101@open-sports-cal
@@ -1024,6 +1125,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-102@open-sports-cal
@@ -1034,6 +1136,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-103@open-sports-cal
@@ -1044,6 +1147,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-104@open-sports-cal
@@ -1054,6 +1158,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-105@open-sports-cal
@@ -1064,6 +1169,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-106@open-sports-cal
@@ -1074,6 +1180,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Brentford\nGtech Community Stadi
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-107@open-sports-cal
@@ -1084,6 +1191,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-108@open-sports-cal
@@ -1094,6 +1202,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-109@open-sports-cal
@@ -1104,6 +1213,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-110@open-sports-cal
@@ -1114,6 +1224,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-111@open-sports-cal
@@ -1124,6 +1235,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-112@open-sports-cal
@@ -1134,6 +1246,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Brighton\nAmerican Express Stadi
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-113@open-sports-cal
@@ -1144,6 +1257,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-114@open-sports-cal
@@ -1154,6 +1268,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-115@open-sports-cal
@@ -1164,6 +1279,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-116@open-sports-cal
@@ -1174,6 +1290,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-117@open-sports-cal
@@ -1184,6 +1301,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-118@open-sports-cal
@@ -1194,6 +1312,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-119@open-sports-cal
@@ -1204,6 +1323,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-120@open-sports-cal
@@ -1214,6 +1334,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-121@open-sports-cal
@@ -1224,6 +1345,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-122@open-sports-cal
@@ -1234,6 +1356,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-123@open-sports-cal
@@ -1244,6 +1367,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-124@open-sports-cal
@@ -1254,6 +1378,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-125@open-sports-cal
@@ -1264,6 +1389,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-126@open-sports-cal
@@ -1274,6 +1400,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-127@open-sports-cal
@@ -1284,6 +1411,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-128@open-sports-cal
@@ -1294,6 +1422,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-129@open-sports-cal
@@ -1304,6 +1433,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-130@open-sports-cal
@@ -1314,6 +1444,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-131@open-sports-cal
@@ -1324,6 +1455,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-132@open-sports-cal
@@ -1334,6 +1466,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-133@open-sports-cal
@@ -1344,6 +1477,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-134@open-sports-cal
@@ -1354,6 +1488,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Brighton\nAmerican Express Sta
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-135@open-sports-cal
@@ -1364,6 +1499,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-136@open-sports-cal
@@ -1374,6 +1510,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-137@open-sports-cal
@@ -1384,6 +1521,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-138@open-sports-cal
@@ -1394,6 +1532,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-139@open-sports-cal
@@ -1404,6 +1543,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-140@open-sports-cal
@@ -1414,6 +1554,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-141@open-sports-cal
@@ -1424,6 +1565,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-142@open-sports-cal
@@ -1434,6 +1576,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Everton\nHill Dickinson Stad
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-143@open-sports-cal
@@ -1444,6 +1587,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-144@open-sports-cal
@@ -1454,6 +1598,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-145@open-sports-cal
@@ -1464,6 +1609,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-146@open-sports-cal
@@ -1474,6 +1620,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-147@open-sports-cal
@@ -1484,6 +1631,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Brighton\nAmerican Express Stadiu
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-148@open-sports-cal
@@ -1494,6 +1642,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-149@open-sports-cal
@@ -1504,6 +1653,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-150@open-sports-cal
@@ -1514,6 +1664,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-151@open-sports-cal
@@ -1524,6 +1675,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-152@open-sports-cal
@@ -1534,6 +1686,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-153@open-sports-cal
@@ -1544,6 +1697,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-154@open-sports-cal
@@ -1554,6 +1708,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-155@open-sports-cal
@@ -1564,6 +1719,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-156@open-sports-cal
@@ -1574,6 +1730,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-157@open-sports-cal
@@ -1584,6 +1741,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-158@open-sports-cal
@@ -1594,6 +1752,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-159@open-sports-cal
@@ -1604,6 +1763,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-160@open-sports-cal
@@ -1614,6 +1774,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-161@open-sports-cal
@@ -1624,6 +1785,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-162@open-sports-cal
@@ -1634,6 +1796,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Brighton\nAmerican Express Stad
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-163@open-sports-cal
@@ -1644,6 +1807,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-164@open-sports-cal
@@ -1654,6 +1818,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-165@open-sports-cal
@@ -1664,6 +1829,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-166@open-sports-cal
@@ -1674,6 +1840,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-167@open-sports-cal
@@ -1684,6 +1851,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-168@open-sports-cal
@@ -1694,6 +1862,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-169@open-sports-cal
@@ -1704,6 +1873,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-170@open-sports-cal
@@ -1714,6 +1884,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-171@open-sports-cal
@@ -1724,6 +1895,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-172@open-sports-cal
@@ -1734,6 +1906,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-173@open-sports-cal
@@ -1744,6 +1917,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Brentford\nGtech Community Sta
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-174@open-sports-cal
@@ -1754,6 +1928,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-175@open-sports-cal
@@ -1764,6 +1939,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-176@open-sports-cal
@@ -1774,6 +1950,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-177@open-sports-cal
@@ -1784,6 +1961,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-178@open-sports-cal
@@ -1794,6 +1972,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-179@open-sports-cal
@@ -1804,6 +1983,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-180@open-sports-cal
@@ -1814,6 +1994,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-181@open-sports-cal
@@ -1824,6 +2005,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-182@open-sports-cal
@@ -1834,6 +2016,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-183@open-sports-cal
@@ -1844,6 +2027,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-184@open-sports-cal
@@ -1854,6 +2038,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-185@open-sports-cal
@@ -1864,6 +2049,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-186@open-sports-cal
@@ -1874,6 +2060,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-187@open-sports-cal
@@ -1884,6 +2071,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-188@open-sports-cal
@@ -1894,6 +2082,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-189@open-sports-cal
@@ -1904,6 +2093,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-190@open-sports-cal
@@ -1914,6 +2104,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-191@open-sports-cal
@@ -1924,6 +2115,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-192@open-sports-cal
@@ -1934,6 +2126,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-193@open-sports-cal
@@ -1944,6 +2137,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-194@open-sports-cal
@@ -1954,6 +2148,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-195@open-sports-cal
@@ -1964,6 +2159,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-196@open-sports-cal
@@ -1974,6 +2170,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-197@open-sports-cal
@@ -1984,6 +2181,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Spurs\nTottenham Hotspur Stadiu
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-198@open-sports-cal
@@ -1994,6 +2192,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-199@open-sports-cal
@@ -2004,6 +2203,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-200@open-sports-cal
@@ -2014,6 +2214,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-201@open-sports-cal
@@ -2024,6 +2225,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-202@open-sports-cal
@@ -2034,6 +2236,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Brentford\nGtech Community Stad
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-203@open-sports-cal
@@ -2044,6 +2247,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-204@open-sports-cal
@@ -2054,6 +2258,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-205@open-sports-cal
@@ -2064,6 +2269,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-206@open-sports-cal
@@ -2074,6 +2280,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-207@open-sports-cal
@@ -2084,6 +2291,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-208@open-sports-cal
@@ -2094,6 +2302,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-209@open-sports-cal
@@ -2104,6 +2313,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-210@open-sports-cal
@@ -2114,6 +2324,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-211@open-sports-cal
@@ -2124,6 +2335,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-212@open-sports-cal
@@ -2134,6 +2346,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-213@open-sports-cal
@@ -2144,6 +2357,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-214@open-sports-cal
@@ -2154,6 +2368,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Sunderland\nStadium of Ligh
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-215@open-sports-cal
@@ -2164,6 +2379,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-216@open-sports-cal
@@ -2174,6 +2390,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-217@open-sports-cal
@@ -2184,6 +2401,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-218@open-sports-cal
@@ -2194,6 +2412,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-219@open-sports-cal
@@ -2204,6 +2423,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Brighton\nAmerican Express Sta
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-220@open-sports-cal
@@ -2214,6 +2434,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-221@open-sports-cal
@@ -2224,6 +2445,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-222@open-sports-cal
@@ -2234,6 +2456,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-223@open-sports-cal
@@ -2244,6 +2467,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-224@open-sports-cal
@@ -2254,6 +2478,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-225@open-sports-cal
@@ -2264,6 +2489,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Brentford\nGtech Community S
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-226@open-sports-cal
@@ -2274,6 +2500,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-227@open-sports-cal
@@ -2284,6 +2511,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-228@open-sports-cal
@@ -2294,6 +2522,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-229@open-sports-cal
@@ -2304,6 +2533,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-230@open-sports-cal
@@ -2314,6 +2544,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-231@open-sports-cal
@@ -2324,6 +2555,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-232@open-sports-cal
@@ -2334,6 +2566,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-233@open-sports-cal
@@ -2344,6 +2577,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-234@open-sports-cal
@@ -2354,6 +2588,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-235@open-sports-cal
@@ -2364,6 +2599,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-236@open-sports-cal
@@ -2374,6 +2610,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-237@open-sports-cal
@@ -2384,6 +2621,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Nott'm Forest\nThe City Gro
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-238@open-sports-cal
@@ -2394,6 +2632,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-239@open-sports-cal
@@ -2404,6 +2643,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-240@open-sports-cal
@@ -2414,6 +2654,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-241@open-sports-cal
@@ -2424,6 +2665,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-242@open-sports-cal
@@ -2434,6 +2676,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-243@open-sports-cal
@@ -2444,6 +2687,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-244@open-sports-cal
@@ -2454,6 +2698,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-245@open-sports-cal
@@ -2464,6 +2709,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-246@open-sports-cal
@@ -2474,6 +2720,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-247@open-sports-cal
@@ -2484,6 +2731,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-248@open-sports-cal
@@ -2494,6 +2742,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Brighton\nAmerican Express 
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-249@open-sports-cal
@@ -2504,6 +2753,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-250@open-sports-cal
@@ -2514,6 +2764,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-251@open-sports-cal
@@ -2524,6 +2775,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Everton\nHill Dickinson Stadiu
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-252@open-sports-cal
@@ -2534,6 +2786,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-253@open-sports-cal
@@ -2544,6 +2797,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-254@open-sports-cal
@@ -2554,6 +2808,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-255@open-sports-cal
@@ -2564,6 +2819,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-256@open-sports-cal
@@ -2574,6 +2830,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-257@open-sports-cal
@@ -2584,6 +2841,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-258@open-sports-cal
@@ -2594,6 +2852,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-259@open-sports-cal
@@ -2604,6 +2863,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-260@open-sports-cal
@@ -2614,6 +2874,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-261@open-sports-cal
@@ -2624,6 +2885,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Brentford\nGtech Community Stadiu
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-262@open-sports-cal
@@ -2634,6 +2896,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-263@open-sports-cal
@@ -2644,6 +2907,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-264@open-sports-cal
@@ -2654,6 +2918,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-265@open-sports-cal
@@ -2664,6 +2929,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-266@open-sports-cal
@@ -2674,6 +2940,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-267@open-sports-cal
@@ -2684,6 +2951,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-268@open-sports-cal
@@ -2694,6 +2962,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-269@open-sports-cal
@@ -2704,6 +2973,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-270@open-sports-cal
@@ -2714,6 +2984,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-271@open-sports-cal
@@ -2724,6 +2995,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-272@open-sports-cal
@@ -2734,6 +3006,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-273@open-sports-cal
@@ -2744,6 +3017,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-274@open-sports-cal
@@ -2754,6 +3028,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-275@open-sports-cal
@@ -2764,6 +3039,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-276@open-sports-cal
@@ -2774,6 +3050,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Brighton\nAmerican Express S
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-277@open-sports-cal
@@ -2784,6 +3061,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-278@open-sports-cal
@@ -2794,6 +3072,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-279@open-sports-cal
@@ -2804,6 +3083,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-280@open-sports-cal
@@ -2814,6 +3094,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-281@open-sports-cal
@@ -2824,6 +3105,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-282@open-sports-cal
@@ -2834,6 +3116,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-283@open-sports-cal
@@ -2844,6 +3127,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-284@open-sports-cal
@@ -2854,6 +3138,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-285@open-sports-cal
@@ -2864,6 +3149,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-286@open-sports-cal
@@ -2874,6 +3160,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-287@open-sports-cal
@@ -2884,6 +3171,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-288@open-sports-cal
@@ -2894,6 +3182,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-289@open-sports-cal
@@ -2904,6 +3193,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Spurs\nTottenham Hotspur St
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-290@open-sports-cal
@@ -2914,6 +3204,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-291@open-sports-cal
@@ -2924,6 +3215,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-292@open-sports-cal
@@ -2934,6 +3226,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-293@open-sports-cal
@@ -2944,6 +3237,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-294@open-sports-cal
@@ -2954,6 +3248,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-295@open-sports-cal
@@ -2964,6 +3259,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-296@open-sports-cal
@@ -2974,6 +3270,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-297@open-sports-cal
@@ -2984,6 +3281,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-298@open-sports-cal
@@ -2994,6 +3292,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-299@open-sports-cal
@@ -3004,6 +3303,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-300@open-sports-cal
@@ -3014,6 +3314,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-301@open-sports-cal
@@ -3024,6 +3325,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-302@open-sports-cal
@@ -3034,6 +3336,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Brighton\nAmerican Express Stadi
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-303@open-sports-cal
@@ -3044,6 +3347,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-304@open-sports-cal
@@ -3054,6 +3358,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-305@open-sports-cal
@@ -3064,6 +3369,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-306@open-sports-cal
@@ -3074,6 +3380,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-307@open-sports-cal
@@ -3084,6 +3391,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-308@open-sports-cal
@@ -3094,6 +3402,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-309@open-sports-cal
@@ -3104,6 +3413,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Spurs\nTottenham Hotspur Sta
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-310@open-sports-cal
@@ -3114,6 +3424,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-311@open-sports-cal
@@ -3124,6 +3435,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-312@open-sports-cal
@@ -3134,6 +3446,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-313@open-sports-cal
@@ -3144,6 +3457,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-314@open-sports-cal
@@ -3154,6 +3468,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-315@open-sports-cal
@@ -3164,6 +3479,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-316@open-sports-cal
@@ -3174,6 +3490,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-317@open-sports-cal
@@ -3184,6 +3501,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-318@open-sports-cal
@@ -3194,6 +3512,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-319@open-sports-cal
@@ -3204,6 +3523,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-320@open-sports-cal
@@ -3214,6 +3534,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-321@open-sports-cal
@@ -3224,6 +3545,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-322@open-sports-cal
@@ -3234,6 +3556,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-323@open-sports-cal
@@ -3244,6 +3567,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-324@open-sports-cal
@@ -3254,6 +3578,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-325@open-sports-cal
@@ -3264,6 +3589,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-326@open-sports-cal
@@ -3274,6 +3600,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-327@open-sports-cal
@@ -3284,6 +3611,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-328@open-sports-cal
@@ -3294,6 +3622,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-329@open-sports-cal
@@ -3304,6 +3633,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-330@open-sports-cal
@@ -3314,6 +3644,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-331@open-sports-cal
@@ -3324,6 +3655,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-332@open-sports-cal
@@ -3334,6 +3666,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-333@open-sports-cal
@@ -3344,6 +3677,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-334@open-sports-cal
@@ -3354,6 +3688,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-335@open-sports-cal
@@ -3364,6 +3699,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-336@open-sports-cal
@@ -3374,6 +3710,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-337@open-sports-cal
@@ -3384,6 +3721,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-338@open-sports-cal
@@ -3394,6 +3732,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-339@open-sports-cal
@@ -3404,6 +3743,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-340@open-sports-cal
@@ -3414,6 +3754,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-341@open-sports-cal
@@ -3424,6 +3765,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-342@open-sports-cal
@@ -3434,6 +3776,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Bournemouth\nVitality Stadi
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-343@open-sports-cal
@@ -3444,6 +3787,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Brentford\nGtech Community Stadiu
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-344@open-sports-cal
@@ -3454,6 +3798,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-345@open-sports-cal
@@ -3464,6 +3809,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-346@open-sports-cal
@@ -3474,6 +3820,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-347@open-sports-cal
@@ -3484,6 +3831,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-348@open-sports-cal
@@ -3494,6 +3842,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-349@open-sports-cal
@@ -3504,6 +3853,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-350@open-sports-cal
@@ -3514,6 +3864,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-351@open-sports-cal
@@ -3524,6 +3875,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-352@open-sports-cal
@@ -3534,6 +3886,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-353@open-sports-cal
@@ -3544,6 +3897,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-354@open-sports-cal
@@ -3554,6 +3908,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-355@open-sports-cal
@@ -3564,6 +3919,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-356@open-sports-cal
@@ -3574,6 +3930,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-357@open-sports-cal
@@ -3584,6 +3941,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-358@open-sports-cal
@@ -3594,6 +3952,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-359@open-sports-cal
@@ -3604,6 +3963,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-360@open-sports-cal
@@ -3614,6 +3974,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-361@open-sports-cal
@@ -3624,6 +3985,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-362@open-sports-cal
@@ -3634,6 +3996,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-363@open-sports-cal
@@ -3644,6 +4007,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Brentford\nGtech Community 
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-364@open-sports-cal
@@ -3654,6 +4018,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-365@open-sports-cal
@@ -3664,6 +4029,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-366@open-sports-cal
@@ -3674,6 +4040,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-367@open-sports-cal
@@ -3684,6 +4051,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-368@open-sports-cal
@@ -3694,6 +4062,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-369@open-sports-cal
@@ -3704,6 +4073,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-370@open-sports-cal
@@ -3714,6 +4084,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Brighton\nAmerican Express Stadium
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-371@open-sports-cal
@@ -3724,6 +4095,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-372@open-sports-cal
@@ -3734,6 +4106,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-373@open-sports-cal
@@ -3744,6 +4117,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-374@open-sports-cal
@@ -3754,6 +4128,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-375@open-sports-cal
@@ -3764,6 +4139,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-376@open-sports-cal
@@ -3774,6 +4150,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-377@open-sports-cal
@@ -3784,6 +4161,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-378@open-sports-cal
@@ -3794,6 +4172,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-379@open-sports-cal
@@ -3804,5 +4183,6 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 END:VCALENDAR

@@ -14,6 +14,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Nott'm Forest\nThe City Ground
 LOCATION:The City Ground
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-13@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Premier League 2025-26\nAston Villa @ Brentford\nGtech Community Sta
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-22@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Sunderland\nStadium of Light
 LOCATION:Stadium of Light
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-37@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Premier League 2025-26\nChelsea @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-46@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Fulham\nCraven Cottage
 LOCATION:Craven Cottage
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-50@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Premier League 2025-26\nMan Utd @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-69@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Premier League 2025-26\nMan City @ Brentford\nGtech Community Stadiu
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-79@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ West Ham\nLondon Stadium
 LOCATION:London Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-84@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Premier League 2025-26\nLiverpool @ Brentford\nGtech Community Stadi
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-92@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Crystal Palace\nSelhurst Park
 LOCATION:Selhurst Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-106@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Premier League 2025-26\nNewcastle @ Brentford\nGtech Community Stadi
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-112@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Brighton\nAmerican Express Stadi
 LOCATION:American Express Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-120@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Premier League 2025-26\nBurnley @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-133@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Arsenal\nEmirates Stadium
 LOCATION:Emirates Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-145@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Spurs\nTottenham Hotspur Stadium
 LOCATION:Tottenham Hotspur Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-158@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Premier League 2025-26\nLeeds @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-164@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Wolves\nMolineux Stadium
 LOCATION:Molineux Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-173@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Premier League 2025-26\nBournemouth @ Brentford\nGtech Community Sta
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-188@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Premier League 2025-26\nSpurs @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-195@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Everton\nHill Dickinson Stadium
 LOCATION:Hill Dickinson Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-202@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Premier League 2025-26\nSunderland @ Brentford\nGtech Community Stad
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-211@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Chelsea\nStamford Bridge
 LOCATION:Stamford Bridge
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-225@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Premier League 2025-26\nNott'm Forest @ Brentford\nGtech Community S
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-235@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Aston Villa\nVilla Park
 LOCATION:Villa Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-247@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Newcastle\nSt. James' Park
 LOCATION:St. James' Park
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-259@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Premier League 2025-26\nArsenal @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-261@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Premier League 2025-26\nBrighton @ Brentford\nGtech Community Stadiu
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-272@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Burnley\nTurf Moor
 LOCATION:Turf Moor
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-280@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Bournemouth\nVitality Stadium
 LOCATION:Vitality Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-299@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Premier League 2025-26\nWolves @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-306@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Leeds\nElland Road
 LOCATION:Elland Road
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-312@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Premier League 2025-26\nEverton @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-320@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Premier League 2025-26\nFulham @ Brentford\nGtech Community Stadium
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-339@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Man Utd\nOld Trafford
 LOCATION:Old Trafford
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-343@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:Premier League 2025-26\nWest Ham @ Brentford\nGtech Community Stadiu
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-355@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Man City\nEtihad Stadium
 LOCATION:Etihad Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-363@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:Premier League 2025-26\nCrystal Palace @ Brentford\nGtech Community 
 LOCATION:Gtech Community Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:epl-2025-374@open-sports-cal
@@ -384,5 +421,6 @@ DESCRIPTION:Premier League 2025-26\nBrentford @ Liverpool\nAnfield
 LOCATION:Anfield
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 END:VCALENDAR

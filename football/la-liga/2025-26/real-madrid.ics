@@ -14,6 +14,7 @@ DESCRIPTION:La Liga 2025-26\nCA Osasuna @ Real Madrid\nEstadio Santiago Bernabé
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-17@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Real Oviedo\nEstadio Carlos Tartiere
 LOCATION:Estadio Carlos Tartiere
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-25@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Mallorca @ Real Madrid\nEstadio Santiago Bernab
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-32@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Real Sociedad\nAnoeta
 LOCATION:Anoeta
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-42@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:La Liga 2025-26\nRCD Espanyol de Barcelona @ Real Madrid\nEstadio Sa
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-53@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Levante UD\nEstadio Ciutat de Valènc
 LOCATION:Estadio Ciutat de València
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-62@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Atlético de Madrid\nRiyadh Air Metro
 LOCATION:Riyadh Air Metropolitano
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-74@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:La Liga 2025-26\nVillarreal CF @ Real Madrid\nEstadio Santiago Berna
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-88@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Getafe CF\nColiseum
 LOCATION:Coliseum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-96@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:La Liga 2025-26\nFC Barcelona @ Real Madrid\nEstadio Santiago Bernab
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-104@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:La Liga 2025-26\nValencia CF @ Real Madrid\nEstadio Santiago Bernab�
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-116@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Rayo Vallecano\nEstadio de Vallecas
 LOCATION:Estadio de Vallecas
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-128@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Elche CF\nEstadio Martínez Valero
 LOCATION:Estadio Martínez Valero
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-138@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Girona FC\nEstadio Municipal de Monti
 LOCATION:Estadio Municipal de Montilivi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-181@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Athletic Club\nEstadio San Mamés
 LOCATION:Estadio San Mamés
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-148@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:La Liga 2025-26\nCelta @ Real Madrid\nEstadio Santiago Bernabéu
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-157@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Deportivo Alavés\nMendizorroza
 LOCATION:Mendizorroza
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-164@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:La Liga 2025-26\nSevilla FC @ Real Madrid\nEstadio Santiago Bernabé
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-176@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:La Liga 2025-26\nReal Betis @ Real Madrid\nEstadio Santiago Bernabé
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-191@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:La Liga 2025-26\nLevante UD @ Real Madrid\nEstadio Santiago Bernabé
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-204@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Villarreal CF\nEstadio de la Cerámic
 LOCATION:Estadio de la Cerámica
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-215@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:La Liga 2025-26\nRayo Vallecano @ Real Madrid\nEstadio Santiago Bern
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-227@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Valencia CF\nCamp de Mestalla
 LOCATION:Camp de Mestalla
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-234@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:La Liga 2025-26\nReal Sociedad @ Real Madrid\nEstadio Santiago Berna
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-243@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ CA Osasuna\nEstadio El Sadar
 LOCATION:Estadio El Sadar
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-259@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:La Liga 2025-26\nGetafe CF @ Real Madrid\nEstadio Santiago Bernabéu
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-260@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Celta\nEstadio ABANCA Balaídos
 LOCATION:Estadio ABANCA Balaídos
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-274@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:La Liga 2025-26\nElche CF @ Real Madrid\nEstadio Santiago Bernabéu
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-289@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:La Liga 2025-26\nAtlético de Madrid @ Real Madrid\nEstadio Santiago
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-292@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ RCD Mallorca\nEstadi Mallorca Son Moi
 LOCATION:Estadi Mallorca Son Moix
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-300@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:La Liga 2025-26\nGirona FC @ Real Madrid\nEstadio Santiago Bernabéu
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-315@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:La Liga 2025-26\nDeportivo Alavés @ Real Madrid\nEstadio Santiago B
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-321@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Real Betis\nEstadio Olímpico de La C
 LOCATION:Estadio Olímpico de La Cartuja
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-333@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ RCD Espanyol de Barcelona\nRCDE Stadi
 LOCATION:RCDE Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-342@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ FC Barcelona\nSpotify Camp Nou
 LOCATION:Spotify Camp Nou
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-359@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:La Liga 2025-26\nReal Oviedo @ Real Madrid\nEstadio Santiago Bernab�
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-369@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:La Liga 2025-26\nReal Madrid @ Sevilla FC\nRamón Sánchez-Pizjuán
 LOCATION:Ramón Sánchez-Pizjuán
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:la-liga-2025-376@open-sports-cal
@@ -384,5 +421,6 @@ DESCRIPTION:La Liga 2025-26\nAthletic Club @ Real Madrid\nEstadio Santiago Berna
 LOCATION:Estadio Santiago Bernabéu
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 END:VCALENDAR

@@ -14,6 +14,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Atlanta Hawks\nState Farm Arena
 LOCATION:State Farm Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-16@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:NBA 2025-26\nMilwaukee Bucks @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-39@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Dallas Mavericks\nAmerican Airlines C
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-47@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ San Antonio Spurs\nFrost Bank Center
 LOCATION:Frost Bank Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-58@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-74@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-90@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-103@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:NBA 2025-26\nMilwaukee Bucks @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-123@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Atlanta Hawks\nState Farm Arena
 LOCATION:State Farm Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-133@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Philadelphia 76ers\nXfinity Mobile Ar
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-156@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-174@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-188@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-203@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:NBA 2025-26\nCharlotte Hornets @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-215@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Philadelphia 76ers\nXfinity Mobile Ar
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-228@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:NBA 2025-26\nWashington Wizards @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-246@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-251@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-266@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-284@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Charlotte Hornets\nSpectrum Center
 LOCATION:Spectrum Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-293@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ New York Knicks\nMadison Square Garde
 LOCATION:Madison Square Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-309@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Toronto Raptors\nScotiabank Ar
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-326@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:NBA 2025-26\nLos Angeles Lakers @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-334@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:NBA 2025-26\nCharlotte Hornets @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-348@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:NBA 2025-26\nBoston Celtics @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-358@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:NBA 2025-26\nNew York Knicks @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-383@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Miami Heat\nKaseya Center
 LOCATION:Kaseya Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-395@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Milwaukee Bucks\nFiserv Forum
 LOCATION:Fiserv Forum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-409@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:NBA 2025-26\nBoston Celtics @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-418@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-435@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Miami Heat\nKaseya Center
 LOCATION:Kaseya Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-451@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Washington Wizards\nCapital One Arena
 LOCATION:Capital One Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-467@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Toronto Raptors\nScotiabank Are
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-477@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:NBA 2025-26\nOrlando Magic @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-494@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-514@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:NBA 2025-26\nAtlanta Hawks @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-530@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:NBA 2025-26\nAtlanta Hawks @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-542@open-sports-cal
@@ -384,6 +421,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Charlotte Hornets\nSpectrum Center
 LOCATION:Spectrum Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-557@open-sports-cal
@@ -394,6 +432,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Boston Celtics\nTD Garden
 LOCATION:TD Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-575@open-sports-cal
@@ -404,6 +443,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-585@open-sports-cal
@@ -414,6 +454,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-596@open-sports-cal
@@ -424,6 +465,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-615@open-sports-cal
@@ -434,6 +476,7 @@ DESCRIPTION:NBA 2025-26\nLA Clippers @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-632@open-sports-cal
@@ -444,6 +487,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Los Angeles Lakers\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-647@open-sports-cal
@@ -454,6 +498,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-655@open-sports-cal
@@ -464,6 +509,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Sacramento Kings\nGolden 1 Center
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-671@open-sports-cal
@@ -474,6 +520,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-680@open-sports-cal
@@ -484,6 +531,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Oklahoma City Thunder\nPaycom Center
 LOCATION:Paycom Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-702@open-sports-cal
@@ -494,6 +542,7 @@ DESCRIPTION:NBA 2025-26\nNew York Knicks @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-716@open-sports-cal
@@ -504,6 +553,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Orlando Magic\nKia Center
 LOCATION:Kia Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-733@open-sports-cal
@@ -514,6 +564,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-755@open-sports-cal
@@ -524,6 +575,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Toronto Raptors\nScotiabank Ar
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-764@open-sports-cal
@@ -534,6 +586,7 @@ DESCRIPTION:NBA 2025-26\nChicago Bulls @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-787@open-sports-cal
@@ -544,6 +597,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-809@open-sports-cal
@@ -554,6 +608,7 @@ DESCRIPTION:NBA 2025-26\nDetroit Pistons @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-825@open-sports-cal
@@ -564,6 +619,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Chicago Bulls\nUnited Center
 LOCATION:United Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-847@open-sports-cal
@@ -574,6 +630,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Milwaukee Bucks\nFiserv Forum
 LOCATION:Fiserv Forum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-862@open-sports-cal
@@ -584,6 +641,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Toronto Raptors\nScotiabank Are
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-871@open-sports-cal
@@ -594,6 +652,7 @@ DESCRIPTION:NBA 2025-26\nSan Antonio Spurs @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-893@open-sports-cal
@@ -604,6 +663,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Washington Wizards\nCapital One Arena
 LOCATION:Capital One Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-915@open-sports-cal
@@ -614,6 +674,7 @@ DESCRIPTION:NBA 2025-26\nNew York Knicks @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-931@open-sports-cal
@@ -624,6 +685,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-952@open-sports-cal
@@ -634,6 +696,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-968@open-sports-cal
@@ -644,6 +707,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Houston Rockets\nToyota Center
 LOCATION:Toyota Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-976@open-sports-cal
@@ -654,6 +718,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ New Orleans Pelicans\nSmoothie King C
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-992@open-sports-cal
@@ -664,6 +729,7 @@ DESCRIPTION:NBA 2025-26\nPhoenix Suns @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1007@open-sports-cal
@@ -674,6 +740,7 @@ DESCRIPTION:NBA 2025-26\nDetroit Pistons @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1031@open-sports-cal
@@ -684,6 +751,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Chicago Bulls\nUnited Center
 LOCATION:United Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1050@open-sports-cal
@@ -694,6 +762,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1065@open-sports-cal
@@ -704,6 +773,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Phoenix Suns\nMortgage Matchup Center
 LOCATION:Mortgage Matchup Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1072@open-sports-cal
@@ -714,6 +784,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1091@open-sports-cal
@@ -724,6 +795,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1100@open-sports-cal
@@ -734,6 +806,7 @@ DESCRIPTION:NBA 2025-26\nNew Orleans Pelicans @ Toronto Raptors\nScotiabank Aren
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1115@open-sports-cal
@@ -744,6 +817,7 @@ DESCRIPTION:NBA 2025-26\nOrlando Magic @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1131@open-sports-cal
@@ -754,6 +828,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Detroit Pistons\nLittle Caesars Arena
 LOCATION:Little Caesars Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1139@open-sports-cal
@@ -764,6 +839,7 @@ DESCRIPTION:NBA 2025-26\nSacramento Kings @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1155@open-sports-cal
@@ -774,6 +850,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1162@open-sports-cal
@@ -784,6 +861,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Boston Celtics\nTD Garden
 LOCATION:TD Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1181@open-sports-cal
@@ -794,6 +872,7 @@ DESCRIPTION:NBA 2025-26\nMiami Heat @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1195@open-sports-cal
@@ -804,6 +883,7 @@ DESCRIPTION:NBA 2025-26\nMiami Heat @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1206@open-sports-cal
@@ -814,6 +894,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ New York Knicks\nMadison Square Garde
 LOCATION:Madison Square Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1222@open-sports-cal
@@ -824,5 +905,6 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 END:VCALENDAR

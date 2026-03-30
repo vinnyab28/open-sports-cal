@@ -14,6 +14,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-32@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:NBA 2025-26\nPhoenix Suns @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-50@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-64@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:NBA 2025-26\nNew Orleans Pelicans @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-78@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-100@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:NBA 2025-26\nSacramento Kings @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-116@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:NBA 2025-26\nMiami Heat @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-130@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-138@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-161@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Sacramento Kings\nGolden 1 Center
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-173@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-190@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-206@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:NBA 2025-26\nChicago Bulls @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-218@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ New Orleans Pelicans\nSmoothie King Ce
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-232@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Houston Rockets\nToyota Center
 LOCATION:Toyota Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-241@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:NBA 2025-26\nSacramento Kings @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-254@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-279@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:NBA 2025-26\nSan Antonio Spurs @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-289@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Phoenix Suns\nMortgage Matchup Center
 LOCATION:Mortgage Matchup Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-305@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-315@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-330@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Atlanta Hawks\nState Farm Arena
 LOCATION:State Farm Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-349@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Charlotte Hornets\nSpectrum Center
 LOCATION:Spectrum Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-364@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Sacramento Kings\nGolden 1 Center
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-385@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-398@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:NBA 2025-26\nOrlando Magic @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-407@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-426@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-436@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Dallas Mavericks\nAmerican Airlines Ce
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-448@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-459@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Orlando Magic\nKia Center
 LOCATION:Kia Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-476@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Miami Heat\nKaseya Center
 LOCATION:Kaseya Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-494@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-504@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-522@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-533@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Philadelphia 76ers\nXfinity Mobile Are
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-545@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Boston Celtics\nTD Garden
 LOCATION:TD Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-562@open-sports-cal
@@ -384,6 +421,7 @@ DESCRIPTION:NBA 2025-26\nAtlanta Hawks @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-579@open-sports-cal
@@ -394,6 +432,7 @@ DESCRIPTION:NBA 2025-26\nMilwaukee Bucks @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-592@open-sports-cal
@@ -404,6 +443,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ New Orleans Pelicans\nSmoothie King Ce
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-600@open-sports-cal
@@ -414,6 +454,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Dallas Mavericks\nAmerican Airlines Ce
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-625@open-sports-cal
@@ -424,6 +465,7 @@ DESCRIPTION:NBA 2025-26\nWashington Wizards @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-630@open-sports-cal
@@ -434,6 +476,7 @@ DESCRIPTION:NBA 2025-26\nCharlotte Hornets @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-646@open-sports-cal
@@ -444,6 +487,7 @@ DESCRIPTION:NBA 2025-26\nLos Angeles Lakers @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-658@open-sports-cal
@@ -454,6 +498,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Washington Wizards\nCapital One Arena
 LOCATION:Capital One Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-670@open-sports-cal
@@ -464,6 +509,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Milwaukee Bucks\nFiserv Forum
 LOCATION:Fiserv Forum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-695@open-sports-cal
@@ -474,6 +520,7 @@ DESCRIPTION:NBA 2025-26\nDetroit Pistons @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-712@open-sports-cal
@@ -484,6 +531,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-721@open-sports-cal
@@ -494,6 +542,7 @@ DESCRIPTION:NBA 2025-26\nLA Clippers @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-739@open-sports-cal
@@ -504,6 +553,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-744@open-sports-cal
@@ -514,6 +564,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Detroit Pistons\nLittle Caesars Arena
 LOCATION:Little Caesars Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-754@open-sports-cal
@@ -524,6 +575,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ New York Knicks\nMadison Square Garden
 LOCATION:Madison Square Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-780@open-sports-cal
@@ -534,6 +586,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Chicago Bulls\nUnited Center
 LOCATION:United Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-795@open-sports-cal
@@ -544,6 +597,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-815@open-sports-cal
@@ -554,6 +608,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-829@open-sports-cal
@@ -564,6 +619,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-838@open-sports-cal
@@ -574,6 +630,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-848@open-sports-cal
@@ -584,6 +641,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-875@open-sports-cal
@@ -594,6 +652,7 @@ DESCRIPTION:NBA 2025-26\nBoston Celtics @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-890@open-sports-cal
@@ -604,6 +663,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Oklahoma City Thunder\nPaycom Center
 LOCATION:Paycom Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-899@open-sports-cal
@@ -614,6 +674,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-909@open-sports-cal
@@ -624,6 +685,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-934@open-sports-cal
@@ -634,6 +696,7 @@ DESCRIPTION:NBA 2025-26\nLos Angeles Lakers @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-939@open-sports-cal
@@ -644,6 +707,7 @@ DESCRIPTION:NBA 2025-26\nNew York Knicks @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-961@open-sports-cal
@@ -654,6 +718,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Oklahoma City Thunder\nPaycom Center
 LOCATION:Paycom Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-978@open-sports-cal
@@ -664,6 +729,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-987@open-sports-cal
@@ -674,6 +740,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ San Antonio Spurs\nFrost Bank Center
 LOCATION:Frost Bank Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1003@open-sports-cal
@@ -684,6 +751,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Los Angeles Lakers\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1026@open-sports-cal
@@ -694,6 +762,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1034@open-sports-cal
@@ -704,6 +773,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1050@open-sports-cal
@@ -714,6 +784,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1061@open-sports-cal
@@ -724,6 +795,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1079@open-sports-cal
@@ -734,6 +806,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Phoenix Suns\nMortgage Matchup Center
 LOCATION:Mortgage Matchup Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1088@open-sports-cal
@@ -744,6 +817,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1101@open-sports-cal
@@ -754,6 +828,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1119@open-sports-cal
@@ -764,6 +839,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1142@open-sports-cal
@@ -774,6 +850,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1160@open-sports-cal
@@ -784,6 +861,7 @@ DESCRIPTION:NBA 2025-26\nSan Antonio Spurs @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1177@open-sports-cal
@@ -794,6 +872,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1191@open-sports-cal
@@ -804,6 +883,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1210@open-sports-cal
@@ -814,6 +894,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1227@open-sports-cal
@@ -824,5 +905,6 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ San Antonio Spurs\nFrost Bank Center
 LOCATION:Frost Bank Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

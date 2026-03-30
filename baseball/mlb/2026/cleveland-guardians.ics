@@ -15,6 +15,7 @@ LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-03-27-cleveland-guardians-vs-seattle-mariners@open-sports-cal
@@ -26,6 +27,7 @@ LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-03-28-cleveland-guardians-vs-seattle-mariners@open-sports-cal
@@ -37,6 +39,7 @@ LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-03-29-cleveland-guardians-vs-seattle-mariners@open-sports-cal
@@ -48,6 +51,7 @@ LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-03-30-cleveland-guardians-vs-los-angeles-dodgers@open-sports-cal
@@ -59,6 +63,7 @@ LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-03-31-cleveland-guardians-vs-los-angeles-dodgers@open-sports-cal
@@ -70,6 +75,7 @@ LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-01-cleveland-guardians-vs-los-angeles-dodgers@open-sports-cal
@@ -81,6 +87,7 @@ LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-03-chicago-cubs-vs-cleveland-guardians@open-sports-cal
@@ -92,6 +99,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-04-chicago-cubs-vs-cleveland-guardians@open-sports-cal
@@ -103,6 +111,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-05-chicago-cubs-vs-cleveland-guardians@open-sports-cal
@@ -114,6 +123,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-06-kansas-city-royals-vs-cleveland-guardians@open-sports-cal
@@ -125,6 +135,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-07-kansas-city-royals-vs-cleveland-guardians@open-sports-cal
@@ -136,6 +147,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-08-kansas-city-royals-vs-cleveland-guardians@open-sports-cal
@@ -147,6 +159,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-10-cleveland-guardians-vs-atlanta-braves@open-sports-cal
@@ -158,6 +171,7 @@ LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-11-cleveland-guardians-vs-atlanta-braves@open-sports-cal
@@ -169,6 +183,7 @@ LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-12-cleveland-guardians-vs-atlanta-braves@open-sports-cal
@@ -180,6 +195,7 @@ LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-13-cleveland-guardians-vs-st-louis-cardinals@open-sports-cal
@@ -191,6 +207,7 @@ LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-14-cleveland-guardians-vs-st-louis-cardinals@open-sports-cal
@@ -202,6 +219,7 @@ LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-15-cleveland-guardians-vs-st-louis-cardinals@open-sports-cal
@@ -213,6 +231,7 @@ LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-16-baltimore-orioles-vs-cleveland-guardians@open-sports-cal
@@ -224,6 +243,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-17-baltimore-orioles-vs-cleveland-guardians@open-sports-cal
@@ -235,6 +255,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-18-baltimore-orioles-vs-cleveland-guardians@open-sports-cal
@@ -246,6 +267,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-19-baltimore-orioles-vs-cleveland-guardians@open-sports-cal
@@ -257,6 +279,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-20-houston-astros-vs-cleveland-guardians@open-sports-cal
@@ -268,6 +291,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-21-houston-astros-vs-cleveland-guardians@open-sports-cal
@@ -279,6 +303,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-22-houston-astros-vs-cleveland-guardians@open-sports-cal
@@ -290,6 +315,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-24-cleveland-guardians-vs-toronto-blue-jays@open-sports-cal
@@ -301,6 +327,7 @@ LOCATION:Rogers Centre
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-25-cleveland-guardians-vs-toronto-blue-jays@open-sports-cal
@@ -312,6 +339,7 @@ LOCATION:Rogers Centre
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-26-cleveland-guardians-vs-toronto-blue-jays@open-sports-cal
@@ -323,6 +351,7 @@ LOCATION:Rogers Centre
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-27-tampa-bay-rays-vs-cleveland-guardians@open-sports-cal
@@ -334,6 +363,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-28-tampa-bay-rays-vs-cleveland-guardians@open-sports-cal
@@ -345,6 +375,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-04-29-tampa-bay-rays-vs-cleveland-guardians@open-sports-cal
@@ -356,6 +387,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-01-cleveland-guardians-vs-athletics@open-sports-cal
@@ -367,6 +399,7 @@ LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-02-cleveland-guardians-vs-athletics@open-sports-cal
@@ -378,6 +411,7 @@ LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-03-cleveland-guardians-vs-athletics@open-sports-cal
@@ -389,6 +423,7 @@ LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-04-cleveland-guardians-vs-kansas-city-royals@open-sports-cal
@@ -400,6 +435,7 @@ LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-05-cleveland-guardians-vs-kansas-city-royals@open-sports-cal
@@ -411,6 +447,7 @@ LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-06-cleveland-guardians-vs-kansas-city-royals@open-sports-cal
@@ -422,6 +459,7 @@ LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-07-cleveland-guardians-vs-kansas-city-royals@open-sports-cal
@@ -433,6 +471,7 @@ LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-08-minnesota-twins-vs-cleveland-guardians@open-sports-cal
@@ -444,6 +483,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-09-minnesota-twins-vs-cleveland-guardians@open-sports-cal
@@ -455,6 +495,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-10-minnesota-twins-vs-cleveland-guardians@open-sports-cal
@@ -466,6 +507,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-11-los-angeles-angels-vs-cleveland-guardians@open-sports-cal
@@ -477,6 +519,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-12-los-angeles-angels-vs-cleveland-guardians@open-sports-cal
@@ -488,6 +531,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-13-los-angeles-angels-vs-cleveland-guardians@open-sports-cal
@@ -499,6 +543,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-15-cincinnati-reds-vs-cleveland-guardians@open-sports-cal
@@ -510,6 +555,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-16-cincinnati-reds-vs-cleveland-guardians@open-sports-cal
@@ -521,6 +567,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-17-cincinnati-reds-vs-cleveland-guardians@open-sports-cal
@@ -532,6 +579,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-18-cleveland-guardians-vs-detroit-tigers@open-sports-cal
@@ -543,6 +591,7 @@ LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-19-cleveland-guardians-vs-detroit-tigers@open-sports-cal
@@ -554,6 +603,7 @@ LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-20-cleveland-guardians-vs-detroit-tigers@open-sports-cal
@@ -565,6 +615,7 @@ LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-21-cleveland-guardians-vs-detroit-tigers@open-sports-cal
@@ -576,6 +627,7 @@ LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-22-cleveland-guardians-vs-philadelphia-phillies@open-sports-cal
@@ -587,6 +639,7 @@ LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-23-cleveland-guardians-vs-philadelphia-phillies@open-sports-cal
@@ -598,6 +651,7 @@ LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-24-cleveland-guardians-vs-philadelphia-phillies@open-sports-cal
@@ -609,6 +663,7 @@ LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-25-washington-nationals-vs-cleveland-guardians@open-sports-cal
@@ -620,6 +675,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-26-washington-nationals-vs-cleveland-guardians@open-sports-cal
@@ -631,6 +687,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-27-washington-nationals-vs-cleveland-guardians@open-sports-cal
@@ -642,6 +699,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-29-boston-red-sox-vs-cleveland-guardians@open-sports-cal
@@ -653,6 +711,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-30-boston-red-sox-vs-cleveland-guardians@open-sports-cal
@@ -664,6 +723,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-05-31-boston-red-sox-vs-cleveland-guardians@open-sports-cal
@@ -675,6 +735,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-02-cleveland-guardians-vs-new-york-yankees@open-sports-cal
@@ -686,6 +747,7 @@ LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-03-cleveland-guardians-vs-new-york-yankees@open-sports-cal
@@ -697,6 +759,7 @@ LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-04-cleveland-guardians-vs-new-york-yankees@open-sports-cal
@@ -708,6 +771,7 @@ LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-05-cleveland-guardians-vs-texas-rangers@open-sports-cal
@@ -719,6 +783,7 @@ LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-06-cleveland-guardians-vs-texas-rangers@open-sports-cal
@@ -730,6 +795,7 @@ LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-07-cleveland-guardians-vs-texas-rangers@open-sports-cal
@@ -741,6 +807,7 @@ LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-08-new-york-yankees-vs-cleveland-guardians@open-sports-cal
@@ -752,6 +819,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-09-new-york-yankees-vs-cleveland-guardians@open-sports-cal
@@ -763,6 +831,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-10-new-york-yankees-vs-cleveland-guardians@open-sports-cal
@@ -774,6 +843,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-12-detroit-tigers-vs-cleveland-guardians@open-sports-cal
@@ -785,6 +855,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-13-detroit-tigers-vs-cleveland-guardians@open-sports-cal
@@ -796,6 +867,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-14-detroit-tigers-vs-cleveland-guardians@open-sports-cal
@@ -807,6 +879,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-16-cleveland-guardians-vs-milwaukee-brewers@open-sports-cal
@@ -818,6 +891,7 @@ LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-17-cleveland-guardians-vs-milwaukee-brewers@open-sports-cal
@@ -829,6 +903,7 @@ LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-18-cleveland-guardians-vs-milwaukee-brewers@open-sports-cal
@@ -840,6 +915,7 @@ LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-19-cleveland-guardians-vs-houston-astros@open-sports-cal
@@ -851,6 +927,7 @@ LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-20-cleveland-guardians-vs-houston-astros@open-sports-cal
@@ -862,6 +939,7 @@ LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-21-cleveland-guardians-vs-houston-astros@open-sports-cal
@@ -873,6 +951,7 @@ LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-22-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
@@ -884,6 +963,7 @@ LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-23-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
@@ -895,6 +975,7 @@ LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-24-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
@@ -906,6 +987,7 @@ LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-26-seattle-mariners-vs-cleveland-guardians@open-sports-cal
@@ -917,6 +999,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-27-seattle-mariners-vs-cleveland-guardians@open-sports-cal
@@ -928,6 +1011,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-28-seattle-mariners-vs-cleveland-guardians@open-sports-cal
@@ -939,6 +1023,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-29-texas-rangers-vs-cleveland-guardians@open-sports-cal
@@ -950,6 +1035,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-06-30-texas-rangers-vs-cleveland-guardians@open-sports-cal
@@ -961,6 +1047,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-01-texas-rangers-vs-cleveland-guardians@open-sports-cal
@@ -972,6 +1059,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-02-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
@@ -983,6 +1071,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-03-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
@@ -994,6 +1083,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-04-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
@@ -1005,6 +1095,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-05-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
@@ -1016,6 +1107,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-07-cleveland-guardians-vs-minnesota-twins@open-sports-cal
@@ -1027,6 +1119,7 @@ LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-08-cleveland-guardians-vs-minnesota-twins@open-sports-cal
@@ -1038,6 +1131,7 @@ LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-09-cleveland-guardians-vs-minnesota-twins@open-sports-cal
@@ -1049,6 +1143,7 @@ LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-10-cleveland-guardians-vs-miami-marlins@open-sports-cal
@@ -1060,6 +1155,7 @@ LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-11-cleveland-guardians-vs-miami-marlins@open-sports-cal
@@ -1071,6 +1167,7 @@ LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-12-cleveland-guardians-vs-miami-marlins@open-sports-cal
@@ -1082,6 +1179,7 @@ LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-17-pittsburgh-pirates-vs-cleveland-guardians@open-sports-cal
@@ -1093,6 +1191,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-18-pittsburgh-pirates-vs-cleveland-guardians@open-sports-cal
@@ -1104,6 +1203,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-19-pittsburgh-pirates-vs-cleveland-guardians@open-sports-cal
@@ -1115,6 +1215,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-20-minnesota-twins-vs-cleveland-guardians@open-sports-cal
@@ -1126,6 +1227,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-21-minnesota-twins-vs-cleveland-guardians@open-sports-cal
@@ -1137,6 +1239,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-22-minnesota-twins-vs-cleveland-guardians@open-sports-cal
@@ -1148,6 +1251,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-23-minnesota-twins-vs-cleveland-guardians@open-sports-cal
@@ -1159,6 +1263,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-24-cleveland-guardians-vs-tampa-bay-rays@open-sports-cal
@@ -1170,6 +1275,7 @@ LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-25-cleveland-guardians-vs-tampa-bay-rays@open-sports-cal
@@ -1181,6 +1287,7 @@ LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-26-cleveland-guardians-vs-tampa-bay-rays@open-sports-cal
@@ -1192,6 +1299,7 @@ LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-27-cleveland-guardians-vs-cincinnati-reds@open-sports-cal
@@ -1203,6 +1311,7 @@ LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-28-cleveland-guardians-vs-cincinnati-reds@open-sports-cal
@@ -1214,6 +1323,7 @@ LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-29-cleveland-guardians-vs-cincinnati-reds@open-sports-cal
@@ -1225,6 +1335,7 @@ LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-07-31-arizona-diamondbacks-vs-cleveland-guardians@open-sports-cal
@@ -1236,6 +1347,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-01-arizona-diamondbacks-vs-cleveland-guardians@open-sports-cal
@@ -1247,6 +1359,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-02-arizona-diamondbacks-vs-cleveland-guardians@open-sports-cal
@@ -1258,6 +1371,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-04-new-york-mets-vs-cleveland-guardians@open-sports-cal
@@ -1269,6 +1383,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-05-new-york-mets-vs-cleveland-guardians@open-sports-cal
@@ -1280,6 +1395,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-06-new-york-mets-vs-cleveland-guardians@open-sports-cal
@@ -1291,6 +1407,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-07-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
@@ -1302,6 +1419,7 @@ LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-08-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
@@ -1313,6 +1431,7 @@ LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-09-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
@@ -1324,6 +1443,7 @@ LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-11-cleveland-guardians-vs-detroit-tigers@open-sports-cal
@@ -1335,6 +1455,7 @@ LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-12-cleveland-guardians-vs-detroit-tigers@open-sports-cal
@@ -1346,6 +1467,7 @@ LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-13-cleveland-guardians-vs-detroit-tigers@open-sports-cal
@@ -1357,6 +1479,7 @@ LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-14-san-diego-padres-vs-cleveland-guardians@open-sports-cal
@@ -1368,6 +1491,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-15-san-diego-padres-vs-cleveland-guardians@open-sports-cal
@@ -1379,6 +1503,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-16-san-diego-padres-vs-cleveland-guardians@open-sports-cal
@@ -1390,6 +1515,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-18-san-francisco-giants-vs-cleveland-guardians@open-sports-cal
@@ -1401,6 +1527,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-19-san-francisco-giants-vs-cleveland-guardians@open-sports-cal
@@ -1412,6 +1539,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-20-san-francisco-giants-vs-cleveland-guardians@open-sports-cal
@@ -1423,6 +1551,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-21-cleveland-guardians-vs-colorado-rockies@open-sports-cal
@@ -1434,6 +1563,7 @@ LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-22-cleveland-guardians-vs-colorado-rockies@open-sports-cal
@@ -1445,6 +1575,7 @@ LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-23-cleveland-guardians-vs-colorado-rockies@open-sports-cal
@@ -1456,6 +1587,7 @@ LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-24-cleveland-guardians-vs-los-angeles-angels@open-sports-cal
@@ -1467,6 +1599,7 @@ LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-25-cleveland-guardians-vs-los-angeles-angels@open-sports-cal
@@ -1478,6 +1611,7 @@ LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-26-cleveland-guardians-vs-los-angeles-angels@open-sports-cal
@@ -1489,6 +1623,7 @@ LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-28-kansas-city-royals-vs-cleveland-guardians@open-sports-cal
@@ -1500,6 +1635,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-29-kansas-city-royals-vs-cleveland-guardians@open-sports-cal
@@ -1511,6 +1647,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-08-30-kansas-city-royals-vs-cleveland-guardians@open-sports-cal
@@ -1522,6 +1659,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-01-toronto-blue-jays-vs-cleveland-guardians@open-sports-cal
@@ -1533,6 +1671,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-02-toronto-blue-jays-vs-cleveland-guardians@open-sports-cal
@@ -1544,6 +1683,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-03-toronto-blue-jays-vs-cleveland-guardians@open-sports-cal
@@ -1555,6 +1695,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-04-detroit-tigers-vs-cleveland-guardians@open-sports-cal
@@ -1566,6 +1707,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-05-detroit-tigers-vs-cleveland-guardians@open-sports-cal
@@ -1577,6 +1719,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-06-detroit-tigers-vs-cleveland-guardians@open-sports-cal
@@ -1588,6 +1731,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-07-cleveland-guardians-vs-baltimore-orioles@open-sports-cal
@@ -1599,6 +1743,7 @@ LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-08-cleveland-guardians-vs-baltimore-orioles@open-sports-cal
@@ -1610,6 +1755,7 @@ LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-09-cleveland-guardians-vs-baltimore-orioles@open-sports-cal
@@ -1621,6 +1767,7 @@ LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-11-cleveland-guardians-vs-minnesota-twins@open-sports-cal
@@ -1632,6 +1779,7 @@ LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-12-cleveland-guardians-vs-minnesota-twins@open-sports-cal
@@ -1643,6 +1791,7 @@ LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-13-cleveland-guardians-vs-minnesota-twins@open-sports-cal
@@ -1654,6 +1803,7 @@ LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-14-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
@@ -1665,6 +1815,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-15-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
@@ -1676,6 +1827,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-16-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
@@ -1687,6 +1839,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-18-athletics-vs-cleveland-guardians@open-sports-cal
@@ -1698,6 +1851,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-19-athletics-vs-cleveland-guardians@open-sports-cal
@@ -1709,6 +1863,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-20-athletics-vs-cleveland-guardians@open-sports-cal
@@ -1720,6 +1875,7 @@ LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-22-cleveland-guardians-vs-boston-red-sox@open-sports-cal
@@ -1731,6 +1887,7 @@ LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-23-cleveland-guardians-vs-boston-red-sox@open-sports-cal
@@ -1742,6 +1899,7 @@ LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-24-cleveland-guardians-vs-boston-red-sox@open-sports-cal
@@ -1753,6 +1911,7 @@ LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-25-cleveland-guardians-vs-kansas-city-royals@open-sports-cal
@@ -1764,6 +1923,7 @@ LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-26-cleveland-guardians-vs-kansas-city-royals@open-sports-cal
@@ -1775,6 +1935,7 @@ LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2026-2026-09-27-cleveland-guardians-vs-kansas-city-royals@open-sports-cal
@@ -1786,5 +1947,6 @@ LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T232357Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

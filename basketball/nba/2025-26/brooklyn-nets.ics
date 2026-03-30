@@ -14,6 +14,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Charlotte Hornets\nSpectrum Center
 LOCATION:Spectrum Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-19@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-33@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ San Antonio Spurs\nFrost Bank Center
 LOCATION:Frost Bank Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-45@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Houston Rockets\nToyota Center
 LOCATION:Toyota Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-61@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:NBA 2025-26\nAtlanta Hawks @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-87@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-94@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:NBA 2025-26\nMinnesota Timberwolves @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-111@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Indiana Pacers\nGainbridge Fieldhouse
 LOCATION:Gainbridge Fieldhouse
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-124@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:NBA 2025-26\nDetroit Pistons @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-141@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ New York Knicks\nMadison Square Garden
 LOCATION:Madison Square Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-156@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-178@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Orlando Magic\nKia Center
 LOCATION:Kia Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-193@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Washington Wizards\nCapital One Arena
 LOCATION:Capital One Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-208@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:NBA 2025-26\nBoston Celtics @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-227@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Boston Celtics\nTD Garden
 LOCATION:TD Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-246@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-252@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:NBA 2025-26\nNew York Knicks @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-273@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:NBA 2025-26\nPhiladelphia 76ers @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-287@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Milwaukee Bucks\nFiserv Forum
 LOCATION:Fiserv Forum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-302@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:NBA 2025-26\nCharlotte Hornets @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-319@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Chicago Bulls\nUnited Center
 LOCATION:United Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-325@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:NBA 2025-26\nUtah Jazz @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-340@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:NBA 2025-26\nNew Orleans Pelicans @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-370@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Dallas Mavericks\nAmerican Airlines Cen
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-377@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:NBA 2025-26\nMilwaukee Bucks @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-392@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:NBA 2025-26\nMiami Heat @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-418@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:NBA 2025-26\nToronto Raptors @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-431@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Philadelphia 76ers\nXfinity Mobile Aren
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-465@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Minnesota Timberwolves\nTarget Center
 LOCATION:Target Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-475@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:NBA 2025-26\nGolden State Warriors @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-497@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:NBA 2025-26\nHouston Rockets @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-503@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Washington Wizards\nCapital One Arena
 LOCATION:Capital One Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-522@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:NBA 2025-26\nDenver Nuggets @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-547@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:NBA 2025-26\nOrlando Magic @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-560@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:NBA 2025-26\nLA Clippers @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-574@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Memphis Grizzlies\nFedExForum
 LOCATION:FedExForum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-586@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Dallas Mavericks\nAmerican Airlines Cen
 LOCATION:American Airlines Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-599@open-sports-cal
@@ -384,6 +421,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ New Orleans Pelicans\nSmoothie King Cen
 LOCATION:Smoothie King Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-614@open-sports-cal
@@ -394,6 +432,7 @@ DESCRIPTION:NBA 2025-26\nChicago Bulls @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-628@open-sports-cal
@@ -404,6 +443,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Chicago Bulls\nUnited Center
 LOCATION:United Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-639@open-sports-cal
@@ -414,6 +454,7 @@ DESCRIPTION:NBA 2025-26\nPhoenix Suns @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-651@open-sports-cal
@@ -424,6 +465,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ New York Knicks\nMadison Square Garden
 LOCATION:Madison Square Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-666@open-sports-cal
@@ -434,6 +476,7 @@ DESCRIPTION:NBA 2025-26\nBoston Celtics @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-683@open-sports-cal
@@ -444,6 +487,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ LA Clippers\nIntuit Dome
 LOCATION:Intuit Dome
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-696@open-sports-cal
@@ -454,6 +498,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Phoenix Suns\nMortgage Matchup Center
 LOCATION:Mortgage Matchup Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-712@open-sports-cal
@@ -464,6 +509,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Denver Nuggets\nBall Arena
 LOCATION:Ball Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-722@open-sports-cal
@@ -474,6 +520,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Utah Jazz\nDelta Center
 LOCATION:Delta Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-731@open-sports-cal
@@ -484,6 +531,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Detroit Pistons\nLittle Caesars Arena
 LOCATION:Little Caesars Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-747@open-sports-cal
@@ -494,6 +542,7 @@ DESCRIPTION:NBA 2025-26\nLos Angeles Lakers @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-762@open-sports-cal
@@ -504,6 +553,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Orlando Magic\nKia Center
 LOCATION:Kia Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-775@open-sports-cal
@@ -514,6 +564,7 @@ DESCRIPTION:NBA 2025-26\nWashington Wizards @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-790@open-sports-cal
@@ -524,6 +575,7 @@ DESCRIPTION:NBA 2025-26\nChicago Bulls @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-807@open-sports-cal
@@ -534,6 +586,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-821@open-sports-cal
@@ -544,6 +597,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Cleveland Cavaliers\nRocket Arena
 LOCATION:Rocket Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-836@open-sports-cal
@@ -554,6 +608,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Oklahoma City Thunder\nPaycom Center
 LOCATION:Paycom Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-846@open-sports-cal
@@ -564,6 +619,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Atlanta Hawks\nState Farm Arena
 LOCATION:State Farm Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-861@open-sports-cal
@@ -574,6 +630,7 @@ DESCRIPTION:NBA 2025-26\nDallas Mavericks @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-879@open-sports-cal
@@ -584,6 +641,7 @@ DESCRIPTION:NBA 2025-26\nSan Antonio Spurs @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-887@open-sports-cal
@@ -594,6 +652,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Boston Celtics\nTD Garden
 LOCATION:TD Garden
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-897@open-sports-cal
@@ -604,6 +663,7 @@ DESCRIPTION:NBA 2025-26\nCleveland Cavaliers @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-914@open-sports-cal
@@ -614,6 +674,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Miami Heat\nKaseya Center
 LOCATION:Kaseya Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-929@open-sports-cal
@@ -624,6 +685,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Miami Heat\nKaseya Center
 LOCATION:Kaseya Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-944@open-sports-cal
@@ -634,6 +696,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Detroit Pistons\nLittle Caesars Arena
 LOCATION:Little Caesars Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-960@open-sports-cal
@@ -644,6 +707,7 @@ DESCRIPTION:NBA 2025-26\nMemphis Grizzlies @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-965@open-sports-cal
@@ -654,6 +718,7 @@ DESCRIPTION:NBA 2025-26\nDetroit Pistons @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-984@open-sports-cal
@@ -664,6 +729,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Atlanta Hawks\nState Farm Arena
 LOCATION:State Farm Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-998@open-sports-cal
@@ -674,6 +740,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Philadelphia 76ers\nXfinity Mobile Aren
 LOCATION:Xfinity Mobile Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1014@open-sports-cal
@@ -684,6 +751,7 @@ DESCRIPTION:NBA 2025-26\nPortland Trail Blazers @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1029@open-sports-cal
@@ -694,6 +762,7 @@ DESCRIPTION:NBA 2025-26\nOklahoma City Thunder @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1045@open-sports-cal
@@ -704,6 +773,7 @@ DESCRIPTION:NBA 2025-26\nNew York Knicks @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1062@open-sports-cal
@@ -714,6 +784,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Sacramento Kings\nGolden 1 Center
 LOCATION:Golden 1 Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1074@open-sports-cal
@@ -724,6 +795,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Portland Trail Blazers\nModa Center
 LOCATION:Moda Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1089@open-sports-cal
@@ -734,6 +806,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Golden State Warriors\nChase Center
 LOCATION:Chase Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1104@open-sports-cal
@@ -744,6 +817,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Los Angeles Lakers\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1113@open-sports-cal
@@ -754,6 +828,7 @@ DESCRIPTION:NBA 2025-26\nSacramento Kings @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1129@open-sports-cal
@@ -764,6 +839,7 @@ DESCRIPTION:NBA 2025-26\nCharlotte Hornets @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1152@open-sports-cal
@@ -774,6 +850,7 @@ DESCRIPTION:NBA 2025-26\nAtlanta Hawks @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1163@open-sports-cal
@@ -784,6 +861,7 @@ DESCRIPTION:NBA 2025-26\nWashington Wizards @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1180@open-sports-cal
@@ -794,6 +872,7 @@ DESCRIPTION:NBA 2025-26\nMilwaukee Bucks @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1197@open-sports-cal
@@ -804,6 +883,7 @@ DESCRIPTION:NBA 2025-26\nIndiana Pacers @ Brooklyn Nets\nBarclays Center
 LOCATION:Barclays Center
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1208@open-sports-cal
@@ -814,6 +894,7 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Milwaukee Bucks\nFiserv Forum
 LOCATION:Fiserv Forum
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-1222@open-sports-cal
@@ -824,5 +905,6 @@ DESCRIPTION:NBA 2025-26\nBrooklyn Nets @ Toronto Raptors\nScotiabank Arena
 LOCATION:Scotiabank Arena
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Toronto
 END:VEVENT
 END:VCALENDAR

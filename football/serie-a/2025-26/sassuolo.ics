@@ -14,6 +14,7 @@ DESCRIPTION:Serie A 2025-26\nNapoli @ Sassuolo\nMapei Stadium - Città del Trico
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-10@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Cremonese\nGiovanni Zini
 LOCATION:Giovanni Zini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-26@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:Serie A 2025-26\nLazio @ Sassuolo\nMapei Stadium - Città del Tricol
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-38@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Inter\nSan Siro
 LOCATION:San Siro
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-43@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:Serie A 2025-26\nUdinese @ Sassuolo\nMapei Stadium - Città del Tric
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-50@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Hellas Verona\nMarcantonio Bentegodi
 LOCATION:Marcantonio Bentegodi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-60@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Lecce\nEttore Giardiniero - Via del mare
 LOCATION:Ettore Giardiniero - Via del mare
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-77@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:Serie A 2025-26\nRoma @ Sassuolo\nMapei Stadium - Città del Tricolo
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-88@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Cagliari\nUnipol Domus
 LOCATION:Unipol Domus
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-98@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:Serie A 2025-26\nGenoa @ Sassuolo\nMapei Stadium - Città del Tricol
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-105@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Atalanta\nAtleti Azzurri d'Italia
 LOCATION:Atleti Azzurri d'Italia
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-119@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:Serie A 2025-26\nPisa @ Sassuolo\nMapei Stadium - Città del Tricolo
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-120@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Como\nGiuseppe Sinigaglia
 LOCATION:Giuseppe Sinigaglia
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-130@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:Serie A 2025-26\nFiorentina @ Sassuolo\nMapei Stadium - Città del T
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-144@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Milan\nSan Siro
 LOCATION:San Siro
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-153@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:Serie A 2025-26\nTorino @ Sassuolo\nMapei Stadium - Città del Trico
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-167@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Bologna\nRenato Dall'Ara
 LOCATION:Renato Dall'Ara
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-173@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:Serie A 2025-26\nParma @ Sassuolo\nMapei Stadium - Città del Tricol
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-182@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:Serie A 2025-26\nJuventus @ Sassuolo\nMapei Stadium - Città del Tri
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-192@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Roma\nOlimpico
 LOCATION:Olimpico
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-202@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Napoli\nDiego Armando Maradona
 LOCATION:Diego Armando Maradona
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-214@open-sports-cal
@@ -224,6 +245,7 @@ DESCRIPTION:Serie A 2025-26\nCremonese @ Sassuolo\nMapei Stadium - Città del Tr
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-221@open-sports-cal
@@ -234,6 +256,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Pisa\nGaribaldi
 LOCATION:Garibaldi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-235@open-sports-cal
@@ -244,6 +267,7 @@ DESCRIPTION:Serie A 2025-26\nInter @ Sassuolo\nMapei Stadium - Città del Tricol
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-244@open-sports-cal
@@ -254,6 +278,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Udinese\nFriuli
 LOCATION:Friuli
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-250@open-sports-cal
@@ -264,6 +289,7 @@ DESCRIPTION:Serie A 2025-26\nHellas Verona @ Sassuolo\nMapei Stadium - Città de
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-265@open-sports-cal
@@ -274,6 +300,7 @@ DESCRIPTION:Serie A 2025-26\nAtalanta @ Sassuolo\nMapei Stadium - Città del Tri
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-279@open-sports-cal
@@ -284,6 +311,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Lazio\nOlimpico
 LOCATION:Olimpico
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-286@open-sports-cal
@@ -294,6 +322,7 @@ DESCRIPTION:Serie A 2025-26\nBologna @ Sassuolo\nMapei Stadium - Città del Tric
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-294@open-sports-cal
@@ -304,6 +333,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Juventus\nJuventus Stadium
 LOCATION:Juventus Stadium
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-300@open-sports-cal
@@ -314,6 +344,7 @@ DESCRIPTION:Serie A 2025-26\nCagliari @ Sassuolo\nMapei Stadium - Città del Tri
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-315@open-sports-cal
@@ -324,6 +355,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Genoa\nLuigi Ferraris
 LOCATION:Luigi Ferraris
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-320@open-sports-cal
@@ -334,6 +366,7 @@ DESCRIPTION:Serie A 2025-26\nComo @ Sassuolo\nMapei Stadium - Città del Tricolo
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-334@open-sports-cal
@@ -344,6 +377,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Fiorentina\nArtemio Franchi
 LOCATION:Artemio Franchi
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-348@open-sports-cal
@@ -354,6 +388,7 @@ DESCRIPTION:Serie A 2025-26\nMilan @ Sassuolo\nMapei Stadium - Città del Tricol
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-359@open-sports-cal
@@ -364,6 +399,7 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Torino\nOlimpico Grande Torino
 LOCATION:Olimpico Grande Torino
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-368@open-sports-cal
@@ -374,6 +410,7 @@ DESCRIPTION:Serie A 2025-26\nLecce @ Sassuolo\nMapei Stadium - Città del Tricol
 LOCATION:Mapei Stadium - Città del Tricolore
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:serie-a-2025-377@open-sports-cal
@@ -384,5 +421,6 @@ DESCRIPTION:Serie A 2025-26\nSassuolo @ Parma\nEnnio Tardini
 LOCATION:Ennio Tardini
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 END:VCALENDAR

@@ -14,6 +14,7 @@ DESCRIPTION:MotoGP 2026 — Round 1 of 22\nThai Grand Prix\nChang International 
 LOCATION:Chang International Circuit, Buriram, Thailand
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Asia/Bangkok
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r02@open-sports-cal
@@ -24,6 +25,7 @@ DESCRIPTION:MotoGP 2026 — Round 2 of 22\nBrazilian Grand Prix\nGoiânia Int'l 
 LOCATION:Goiânia Int'l Racetrack Ayrton Senna, Goiânia, Brazil
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Sao_Paulo
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r03@open-sports-cal
@@ -34,6 +36,7 @@ DESCRIPTION:MotoGP 2026 — Round 3 of 22\nAmericas Grand Prix\nCircuit of the A
 LOCATION:Circuit of the Americas, Austin, USA
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r04@open-sports-cal
@@ -44,6 +47,7 @@ DESCRIPTION:MotoGP 2026 — Round 4 of 22\nSpanish Grand Prix\nCircuito de Jerez
 LOCATION:Circuito de Jerez - Angel Nieto, Jerez, Spain
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r05@open-sports-cal
@@ -54,6 +58,7 @@ DESCRIPTION:MotoGP 2026 — Round 5 of 22\nFrench Grand Prix\nCircuit de Le Mans
 LOCATION:Circuit de Le Mans, Le Mans, France
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r06@open-sports-cal
@@ -64,6 +69,7 @@ DESCRIPTION:MotoGP 2026 — Round 6 of 22\nCatalan Grand Prix\nCircuit de Barcel
 LOCATION:Circuit de Barcelona-Catalunya, Barcelona, Spain
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r07@open-sports-cal
@@ -74,6 +80,7 @@ DESCRIPTION:MotoGP 2026 — Round 7 of 22\nItalian Grand Prix\nAutodromo Interna
 LOCATION:Autodromo Internazionale del Mugello, Mugello, Italy
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r08@open-sports-cal
@@ -84,6 +91,7 @@ DESCRIPTION:MotoGP 2026 — Round 8 of 22\nHungarian Grand Prix\nBalaton Park Ci
 LOCATION:Balaton Park Circuit, Hajdúnánás, Hungary
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Budapest
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r09@open-sports-cal
@@ -94,6 +102,7 @@ DESCRIPTION:MotoGP 2026 — Round 9 of 22\nCzech Grand Prix\nAutomotodrom Brno\n
 LOCATION:Automotodrom Brno, Brno, Czechia
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Prague
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r10@open-sports-cal
@@ -104,6 +113,7 @@ DESCRIPTION:MotoGP 2026 — Round 10 of 22\nDutch Grand Prix\nTT Circuit Assen\n
 LOCATION:TT Circuit Assen, Assen, Netherlands
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Amsterdam
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r11@open-sports-cal
@@ -114,6 +124,7 @@ DESCRIPTION:MotoGP 2026 — Round 11 of 22\nGerman Grand Prix\nSachsenring\nHohe
 LOCATION:Sachsenring, Hohenstein-Ernstthal, Germany
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r12@open-sports-cal
@@ -124,6 +135,7 @@ DESCRIPTION:MotoGP 2026 — Round 12 of 22\nBritish Grand Prix\nSilverstone Circ
 LOCATION:Silverstone Circuit, Silverstone, UK
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/London
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r13@open-sports-cal
@@ -134,6 +146,7 @@ DESCRIPTION:MotoGP 2026 — Round 13 of 22\nAragon Grand Prix\nMotorLand Aragon\
 LOCATION:MotorLand Aragon, Alcañiz, Spain
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r14@open-sports-cal
@@ -144,6 +157,7 @@ DESCRIPTION:MotoGP 2026 — Round 14 of 22\nSan Marino Grand Prix\nMisano World 
 LOCATION:Misano World Circuit Marco Simoncelli, Misano Adriatico, Italy
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Rome
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r15@open-sports-cal
@@ -154,6 +168,7 @@ DESCRIPTION:MotoGP 2026 — Round 15 of 22\nAustrian Grand Prix\nRed Bull Ring\n
 LOCATION:Red Bull Ring, Spielberg, Austria
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Vienna
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r16@open-sports-cal
@@ -164,6 +179,7 @@ DESCRIPTION:MotoGP 2026 — Round 16 of 22\nJapanese Grand Prix\nTwin Ring Moteg
 LOCATION:Twin Ring Motegi, Motegi, Japan
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Asia/Tokyo
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r17@open-sports-cal
@@ -174,6 +190,7 @@ DESCRIPTION:MotoGP 2026 — Round 17 of 22\nIndonesian Grand Prix\nMandalika Int
 LOCATION:Mandalika International Street Circuit, Lombok, Indonesia
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Asia/Makassar
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r18@open-sports-cal
@@ -184,6 +201,7 @@ DESCRIPTION:MotoGP 2026 — Round 18 of 22\nAustralian Grand Prix\nPhillip Islan
 LOCATION:Phillip Island Grand Prix Circuit, Phillip Island, Australia
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Australia/Melbourne
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r19@open-sports-cal
@@ -194,6 +212,7 @@ DESCRIPTION:MotoGP 2026 — Round 19 of 22\nMalaysian Grand Prix\nSepang Interna
 LOCATION:Sepang International Circuit, Sepang, Malaysia
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Asia/Kuala_Lumpur
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r20@open-sports-cal
@@ -204,6 +223,7 @@ DESCRIPTION:MotoGP 2026 — Round 20 of 22\nQatar Grand Prix\nLosail Internation
 LOCATION:Losail International Circuit, Lusail, Qatar
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Asia/Qatar
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r21@open-sports-cal
@@ -214,6 +234,7 @@ DESCRIPTION:MotoGP 2026 — Round 21 of 22\nPortuguese Grand Prix\nAutodromo Int
 LOCATION:Autodromo Internacional do Algarve, Portimao, Portugal
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Lisbon
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-r22@open-sports-cal
@@ -224,5 +245,6 @@ DESCRIPTION:MotoGP 2026 — Round 22 of 22\nValencian Grand Prix\nCircuit Ricard
 LOCATION:Circuit Ricardo Tormo, Valencia, Spain
 STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
+X-TIMEZONE:Europe/Madrid
 END:VEVENT
 END:VCALENDAR
