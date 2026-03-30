@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//Tennis Grand Slams 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tennis Grand Slams 2026
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:tennis-2026-australian-open@open-sports-cal
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260203
+SUMMARY:Australian Open 2026
+DESCRIPTION:Tennis Grand Slam 2026\nAustralian Open 2026\nMelbourne Park, Melbourne, Australia\nSurface: Hard
+LOCATION:Melbourne Park, Melbourne, Australia
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:tennis-2026-french-open@open-sports-cal
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260609
+SUMMARY:French Open 2026
+DESCRIPTION:Tennis Grand Slam 2026\nFrench Open 2026\nRoland-Garros, Paris, France\nSurface: Clay
+LOCATION:Roland-Garros, Paris, France
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:tennis-2026-wimbledon@open-sports-cal
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260714
+SUMMARY:Wimbledon 2026
+DESCRIPTION:Tennis Grand Slam 2026\nWimbledon 2026\nAll England Club, London, UK\nSurface: Grass
+LOCATION:All England Club, London, UK
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:tennis-2026-us-open@open-sports-cal
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260915
+SUMMARY:US Open 2026
+DESCRIPTION:Tennis Grand Slam 2026\nUS Open 2026\nUSTA Billie Jean King National Tennis Center, New York, USA\nSurface: Hard
+LOCATION:USTA Billie Jean King National Tennis Center, New York, USA
+STATUS:CONFIRMED
+DTSTAMP:20260329T233900Z
+END:VEVENT
+END:VCALENDAR
