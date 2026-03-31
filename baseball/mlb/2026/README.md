@@ -8,13 +8,11 @@ All times are in **UTC**. Each game is blocked for **3 hours**.
 
 ## Download / Subscribe
 
-Replace `<username>` with the actual GitHub username.
-
 ### All Teams (2,430 games)
 
 | | |
 |--|--|
-| **Raw URL** | `https://raw.githubusercontent.com/<username>/open-sports-cal/main/baseball/mlb/2026/all-teams.ics` |
+| **Raw URL** | `https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/baseball/mlb/2026/all-teams.ics` |
 | **Download** | [all-teams.ics](all-teams.ics) |
 
 ### Individual Teams
@@ -44,8 +42,14 @@ Replace `<username>` with the actual GitHub username.
 
 ## How to Subscribe
 
+**Easiest:** Use the [website](https://vinnyab28.github.io/open-sports-cal/) — one click to subscribe or download any calendar.
+
 ### Google Calendar
-Google Calendar → **+** next to "Other calendars" → **From URL** → paste Raw URL → **Add calendar**
+1. Copy the Raw URL above
+2. Open [Google Calendar](https://calendar.google.com) → **+** next to "Other calendars" → **From URL**
+3. Paste the URL → **Add calendar**
+
+> **Android:** The Google Calendar app cannot subscribe to external URLs directly. Use the desktop steps above — it will sync to your phone automatically.
 
 ### Apple Calendar (macOS)
 File → **New Calendar Subscription** → paste URL → **Subscribe**

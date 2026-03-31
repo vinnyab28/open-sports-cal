@@ -12,7 +12,7 @@ All times are in **UTC**. Each race is blocked for **2 hours**, each sprint for 
 
 | | |
 |--|--|
-| **Raw URL** | `https://raw.githubusercontent.com/<username>/open-sports-cal/main/motorsport/formula-1/2026/all-races.ics` |
+| **Raw URL** | `https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/motorsport/formula-1/2026/all-races.ics` |
 | **Download** | [all-races.ics](all-races.ics) |
 
 The calendar includes **28 events** — 22 Grand Prix races and 6 Sprint races.
@@ -21,19 +21,23 @@ The calendar includes **28 events** — 22 Grand Prix races and 6 Sprint races.
 
 ## How to Subscribe
 
+**Easiest:** Use the [website](https://vinnyab28.github.io/open-sports-cal/) — one click to subscribe or download any calendar.
+
 ### Google Calendar
-1. Copy the Raw URL above (with your GitHub username)
-2. In Google Calendar → **+** next to "Other calendars" → **From URL**
+1. Copy the Raw URL above
+2. Open [Google Calendar](https://calendar.google.com) → **+** next to "Other calendars" → **From URL**
 3. Paste the URL → **Add calendar**
 
+> **Android:** The Google Calendar app cannot subscribe to external URLs directly. Use the desktop steps above — it will sync to your phone automatically.
+
 ### Apple Calendar (macOS)
-File → **New Calendar Subscription** → paste the URL → **Subscribe**
+File → **New Calendar Subscription** → paste URL → **Subscribe**
 
 ### Apple Calendar (iOS)
-Settings → Calendar → Accounts → **Add Account** → Other → **Add Subscribed Calendar** → paste the URL
+Settings → Calendar → Accounts → **Add Account** → Other → **Add Subscribed Calendar** → paste URL
 
 ### Microsoft Outlook
-Calendar → **Add calendar** → **Subscribe from web** → paste the URL → **Import**
+Calendar → **Add calendar** → **Subscribe from web** → paste URL → **Import**
 
 ---
 

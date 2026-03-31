@@ -8,13 +8,11 @@ All times are in **IST (UTC+5:30)**. Each match event is blocked for **4 hours**
 
 ## Download / Subscribe
 
-Replace `<username>` with the actual GitHub username.
-
 ### All Teams (70 matches)
 
 | | |
 |--|--|
-| **Raw URL** | `https://raw.githubusercontent.com/<username>/open-sports-cal/main/cricket/ipl/2026/all-teams.ics` |
+| **Raw URL** | `https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/cricket/ipl/2026/all-teams.ics` |
 | **Download** | [all-teams.ics](all-teams.ics) |
 
 ### Individual Teams (14 matches each)
@@ -36,19 +34,23 @@ Replace `<username>` with the actual GitHub username.
 
 ## How to Subscribe
 
+**Easiest:** Use the [website](https://vinnyab28.github.io/open-sports-cal/) — one click to subscribe or download any calendar.
+
 ### Google Calendar
-1. Copy the Raw URL for your team from the table above (prefix with full GitHub raw URL)
-2. In Google Calendar, click **+** next to "Other calendars" → **From URL**
+1. Copy the Raw URL above
+2. Open [Google Calendar](https://calendar.google.com) → **+** next to "Other calendars" → **From URL**
 3. Paste the URL → **Add calendar**
 
+> **Android:** The Google Calendar app cannot subscribe to external URLs directly. Use the desktop steps above — it will sync to your phone automatically.
+
 ### Apple Calendar (macOS)
-File → **New Calendar Subscription** → paste the URL → **Subscribe**
+File → **New Calendar Subscription** → paste URL → **Subscribe**
 
 ### Apple Calendar (iOS)
-Settings → Calendar → Accounts → **Add Account** → Other → **Add Subscribed Calendar** → paste the URL
+Settings → Calendar → Accounts → **Add Account** → Other → **Add Subscribed Calendar** → paste URL
 
 ### Microsoft Outlook
-Calendar → **Add calendar** → **Subscribe from web** → paste the URL → **Import**
+Calendar → **Add calendar** → **Subscribe from web** → paste URL → **Import**
 
 ---
 

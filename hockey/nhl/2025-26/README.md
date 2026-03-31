@@ -8,8 +8,6 @@ All times are in **UTC**. Each game is blocked for **3 hours**.
 
 ## Download / Subscribe
 
-Replace `<username>` with `vinnyab28`.
-
 ### All Teams (1,312 games)
 
 | | |
@@ -43,8 +41,14 @@ Replace `<username>` with `vinnyab28`.
 
 ## How to Subscribe
 
+**Easiest:** Use the [website](https://vinnyab28.github.io/open-sports-cal/) — one click to subscribe or download any calendar.
+
 ### Google Calendar
-Google Calendar → **+** next to "Other calendars" → **From URL** → paste Raw URL → **Add calendar**
+1. Copy the Raw URL above
+2. Open [Google Calendar](https://calendar.google.com) → **+** next to "Other calendars" → **From URL**
+3. Paste the URL → **Add calendar**
+
+> **Android:** The Google Calendar app cannot subscribe to external URLs directly. Use the desktop steps above — it will sync to your phone automatically.
 
 ### Apple Calendar (macOS)
 File → **New Calendar Subscription** → paste URL → **Subscribe**

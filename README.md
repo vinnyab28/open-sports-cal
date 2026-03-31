@@ -66,12 +66,16 @@ If you find this useful, give it a ⭐ — it helps others find it!
 
 ## How to Use
 
+**Easiest:** Use the [website](https://vinnyab28.github.io/open-sports-cal/) — one click to subscribe or download any calendar.
+
 ### Subscribe (stays updated automatically)
 
 #### Google Calendar
 1. Open [Google Calendar](https://calendar.google.com)
 2. Click **+** next to "Other calendars" → **From URL**
 3. Paste the raw `.ics` URL and click **Add calendar**
+
+> **Android users:** The Google Calendar app cannot subscribe to external URLs directly. Use the desktop steps above — it will sync to your phone automatically.
 
 #### Apple Calendar (macOS / iOS)
 - **macOS**: File → New Calendar Subscription → paste the URL
@@ -95,7 +99,7 @@ If you find this useful, give it a ⭐ — it helps others find it!
 All raw URLs follow this pattern:
 
 ```
-https://raw.githubusercontent.com/<username>/open-sports-cal/main/<path-to-file>.ics
+https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/<path-to-file>.ics
 ```
 
 ---

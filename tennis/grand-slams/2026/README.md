@@ -8,13 +8,11 @@ Grand Slam events are stored as **all-day multi-day events** covering the full t
 
 ## Download / Subscribe
 
-Replace `<username>` with the actual GitHub username.
-
 ### All 4 Grand Slams
 
 | | |
 |--|--|
-| **Raw URL** | `https://raw.githubusercontent.com/<username>/open-sports-cal/main/tennis/grand-slams/2026/all-grand-slams.ics` |
+| **Raw URL** | `https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/tennis/grand-slams/2026/all-grand-slams.ics` |
 | **Download** | [all-grand-slams.ics](all-grand-slams.ics) |
 
 ### Individual Tournaments
@@ -30,8 +28,14 @@ Replace `<username>` with the actual GitHub username.
 
 ## How to Subscribe
 
+**Easiest:** Use the [website](https://vinnyab28.github.io/open-sports-cal/) — one click to subscribe or download any calendar.
+
 ### Google Calendar
-Google Calendar → **+** next to "Other calendars" → **From URL** → paste Raw URL → **Add calendar**
+1. Copy the Raw URL above
+2. Open [Google Calendar](https://calendar.google.com) → **+** next to "Other calendars" → **From URL**
+3. Paste the URL → **Add calendar**
+
+> **Android:** The Google Calendar app cannot subscribe to external URLs directly. Use the desktop steps above — it will sync to your phone automatically.
 
 ### Apple Calendar (macOS)
 File → **New Calendar Subscription** → paste URL → **Subscribe**

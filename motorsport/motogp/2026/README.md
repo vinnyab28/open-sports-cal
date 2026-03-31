@@ -12,7 +12,7 @@ All times are in **UTC**. Each race is blocked for **90 minutes**.
 
 | | |
 |--|--|
-| **Raw URL** | `https://raw.githubusercontent.com/<username>/open-sports-cal/main/motorsport/motogp/2026/all-races.ics` |
+| **Raw URL** | `https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/motorsport/motogp/2026/all-races.ics` |
 | **Download** | [all-races.ics](all-races.ics) |
 
 ---
@@ -48,8 +48,14 @@ All times are in **UTC**. Each race is blocked for **90 minutes**.
 
 ## How to Subscribe
 
+**Easiest:** Use the [website](https://vinnyab28.github.io/open-sports-cal/) — one click to subscribe or download any calendar.
+
 ### Google Calendar
-Google Calendar → **+** next to "Other calendars" → **From URL** → paste Raw URL → **Add calendar**
+1. Copy the Raw URL above
+2. Open [Google Calendar](https://calendar.google.com) → **+** next to "Other calendars" → **From URL**
+3. Paste the URL → **Add calendar**
+
+> **Android:** The Google Calendar app cannot subscribe to external URLs directly. Use the desktop steps above — it will sync to your phone automatically.
 
 ### Apple Calendar (macOS)
 File → **New Calendar Subscription** → paste URL → **Subscribe**
