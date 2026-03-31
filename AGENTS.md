@@ -74,6 +74,7 @@ Edit the file directly. All READMEs follow the same structure — see any existi
 **Timezone:**
 - Use `TZID=Asia/Kolkata` only for IPL; use UTC (`Z` suffix) for everything else
 - Never mix timezone formats within the same file
+- Every UTC event must also include `X-TIMEZONE:<IANA>` (the venue's timezone) so the website can display local time — see the `X-TIMEZONE` rule in `CLAUDE.md` for details and examples
 
 **File naming:**
 - Team files: lowercase, hyphens only, no special characters (see slug rules in `CLAUDE.md`)

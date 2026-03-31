@@ -93,8 +93,8 @@ def slug(name):
 def fmt_utc(dt):
     return dt.strftime("%Y%m%dT%H%M%SZ")
 
-def make_vevent(uid, summary, dtstart, dtend, location, description, categories):
-    return "\r\n".join([
+def make_vevent(uid, summary, dtstart, dtend, location, description, categories, timezone=""):
+    lines = [
         "BEGIN:VEVENT",
         f"UID:{uid}",
         f"DTSTART:{dtstart}",
@@ -105,8 +105,11 @@ def make_vevent(uid, summary, dtstart, dtend, location, description, categories)
         f"CATEGORIES:{categories}",
         "STATUS:CONFIRMED",
         f"DTSTAMP:{DTSTAMP}",
-        "END:VEVENT",
-    ])
+    ]
+    if timezone:
+        lines.append(f"X-TIMEZONE:{timezone}")
+    lines.append("END:VEVENT")
+    return "\r\n".join(lines)
 
 def make_calendar(events, cal_name, prodid_label):
     header = "\r\n".join([
@@ -183,6 +186,7 @@ LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T230000Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 ```
 
@@ -215,6 +219,7 @@ LOCATION:Albert Park Grand Prix Circuit, Melbourne, Australia
 CATEGORIES:Motorsport,Formula 1,F1 2026
 STATUS:CONFIRMED
 DTSTAMP:20260329T231717Z
+X-TIMEZONE:Australia/Melbourne
 END:VEVENT
 ```
 
@@ -293,6 +298,22 @@ Comma-separated, no spaces after commas:
 - **IST (IPL only):** `DTSTART;TZID=Asia/Kolkata:20260328T193000`
 - **All-day (Tennis):** `DTSTART;VALUE=DATE:20260629`
 - Line endings within the file must be `\r\n` (CRLF) per RFC 5545
+
+### X-TIMEZONE
+A custom property that records the **venue's IANA timezone**. Used by the website to display the event's local time alongside the user's local time.
+
+- Required for all UTC-based events (team sports, motorsport, soccer)
+- **Not** needed for IPL (timezone already in `DTSTART;TZID=Asia/Kolkata`)
+- **Not** needed for Tennis (all-day events have no clock time)
+- Value must be a valid IANA timezone string, e.g. `America/New_York`, `Europe/London`, `Australia/Melbourne`
+- Set it per-event in `make_vevent` using the `timezone` parameter; for fixed-location leagues (soccer, F1, MotoGP) derive it from a lookup dict; for multi-city leagues (NBA, MLB) look up the home team's city
+
+Examples:
+```
+X-TIMEZONE:America/Los_Angeles    # Oracle Park, San Francisco
+X-TIMEZONE:Europe/London          # Premier League home games in England
+X-TIMEZONE:Australia/Melbourne    # Albert Park, F1
+```
 
 ### Event Durations
 | Sport | Duration | Rationale |
