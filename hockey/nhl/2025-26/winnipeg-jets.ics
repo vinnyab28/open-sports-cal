@@ -1,0 +1,992 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2025-26 - Winnipeg Jets
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-10-dallas-stars-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251010T000000Z
+DTEND:20251010T030000Z
+SUMMARY:Dallas Stars @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-11-los-angeles-kings-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251011T173000Z
+DTEND:20251011T203000Z
+SUMMARY:Los Angeles Kings @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-13-winnipeg-jets-vs-new-york-islanders@open-sports-cal
+DTSTART:20251013T170000Z
+DTEND:20251013T200000Z
+SUMMARY:Winnipeg Jets @ New York Islanders
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-16-winnipeg-jets-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251016T230000Z
+DTEND:20251017T020000Z
+SUMMARY:Winnipeg Jets @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-18-nashville-predators-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251018T230000Z
+DTEND:20251019T020000Z
+SUMMARY:Nashville Predators @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-21-winnipeg-jets-vs-calgary-flames@open-sports-cal
+DTSTART:20251021T013000Z
+DTEND:20251021T043000Z
+SUMMARY:Winnipeg Jets @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-24-seattle-kraken-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251024T000000Z
+DTEND:20251024T030000Z
+SUMMARY:Seattle Kraken @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-25-calgary-flames-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251025T000000Z
+DTEND:20251025T030000Z
+SUMMARY:Calgary Flames @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nCalgary Flames @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-26-utah-hockey-club-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251026T220000Z
+DTEND:20251027T010000Z
+SUMMARY:Utah Hockey Club @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-29-winnipeg-jets-vs-minnesota-wild@open-sports-cal
+DTSTART:20251029T000000Z
+DTEND:20251029T030000Z
+SUMMARY:Winnipeg Jets @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-31-chicago-blackhawks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251031T000000Z
+DTEND:20251031T030000Z
+SUMMARY:Chicago Blackhawks @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-01-pittsburgh-penguins-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251101T190000Z
+DTEND:20251101T220000Z
+SUMMARY:Pittsburgh Penguins @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-05-winnipeg-jets-vs-los-angeles-kings@open-sports-cal
+DTSTART:20251105T033000Z
+DTEND:20251105T063000Z
+SUMMARY:Winnipeg Jets @ Los Angeles Kings
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-08-winnipeg-jets-vs-san-jose-sharks@open-sports-cal
+DTSTART:20251108T030000Z
+DTEND:20251108T060000Z
+SUMMARY:Winnipeg Jets @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-10-winnipeg-jets-vs-anaheim-ducks@open-sports-cal
+DTSTART:20251110T030000Z
+DTEND:20251110T060000Z
+SUMMARY:Winnipeg Jets @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-12-winnipeg-jets-vs-vancouver-canucks@open-sports-cal
+DTSTART:20251112T030000Z
+DTEND:20251112T060000Z
+SUMMARY:Winnipeg Jets @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-14-winnipeg-jets-vs-seattle-kraken@open-sports-cal
+DTSTART:20251114T030000Z
+DTEND:20251114T060000Z
+SUMMARY:Winnipeg Jets @ Seattle Kraken
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-16-winnipeg-jets-vs-calgary-flames@open-sports-cal
+DTSTART:20251116T030000Z
+DTEND:20251116T060000Z
+SUMMARY:Winnipeg Jets @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-19-columbus-blue-jackets-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251119T010000Z
+DTEND:20251119T040000Z
+SUMMARY:Columbus Blue Jackets @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-22-carolina-hurricanes-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251122T010000Z
+DTEND:20251122T040000Z
+SUMMARY:Carolina Hurricanes @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-23-minnesota-wild-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251123T210000Z
+DTEND:20251124T000000Z
+SUMMARY:Minnesota Wild @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-27-winnipeg-jets-vs-washington-capitals@open-sports-cal
+DTSTART:20251127T000000Z
+DTEND:20251127T030000Z
+SUMMARY:Winnipeg Jets @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-28-winnipeg-jets-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20251128T220000Z
+DTEND:20251129T010000Z
+SUMMARY:Winnipeg Jets @ Carolina Hurricanes
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-30-winnipeg-jets-vs-nashville-predators@open-sports-cal
+DTSTART:20251130T000000Z
+DTEND:20251130T030000Z
+SUMMARY:Winnipeg Jets @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-02-winnipeg-jets-vs-buffalo-sabres@open-sports-cal
+DTSTART:20251202T003000Z
+DTEND:20251202T033000Z
+SUMMARY:Winnipeg Jets @ Buffalo Sabres
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-04-winnipeg-jets-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251204T003000Z
+DTEND:20251204T033000Z
+SUMMARY:Winnipeg Jets @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-06-buffalo-sabres-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251206T000000Z
+DTEND:20251206T030000Z
+SUMMARY:Buffalo Sabres @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-07-winnipeg-jets-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251207T030000Z
+DTEND:20251207T060000Z
+SUMMARY:Winnipeg Jets @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-10-dallas-stars-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251210T010000Z
+DTEND:20251210T040000Z
+SUMMARY:Dallas Stars @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-12-boston-bruins-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251212T010000Z
+DTEND:20251212T040000Z
+SUMMARY:Boston Bruins @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nBoston Bruins @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-14-washington-capitals-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251214T000000Z
+DTEND:20251214T030000Z
+SUMMARY:Washington Capitals @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-16-ottawa-senators-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251216T003000Z
+DTEND:20251216T033000Z
+SUMMARY:Ottawa Senators @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nOttawa Senators @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-18-winnipeg-jets-vs-st-louis-blues@open-sports-cal
+DTSTART:20251218T010000Z
+DTEND:20251218T040000Z
+SUMMARY:Winnipeg Jets @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-20-winnipeg-jets-vs-colorado-avalanche@open-sports-cal
+DTSTART:20251220T020000Z
+DTEND:20251220T050000Z
+SUMMARY:Winnipeg Jets @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-22-winnipeg-jets-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251222T000000Z
+DTEND:20251222T030000Z
+SUMMARY:Winnipeg Jets @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-28-minnesota-wild-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251228T000000Z
+DTEND:20251228T030000Z
+SUMMARY:Minnesota Wild @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-30-edmonton-oilers-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251230T003000Z
+DTEND:20251230T033000Z
+SUMMARY:Edmonton Oilers @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-31-winnipeg-jets-vs-detroit-red-wings@open-sports-cal
+DTSTART:20251231T233000Z
+DTEND:20260101T023000Z
+SUMMARY:Winnipeg Jets @ Detroit Red Wings
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-02-winnipeg-jets-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20260102T000000Z
+DTEND:20260102T030000Z
+SUMMARY:Winnipeg Jets @ Toronto Maple Leafs
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-04-winnipeg-jets-vs-ottawa-senators@open-sports-cal
+DTSTART:20260104T000000Z
+DTEND:20260104T030000Z
+SUMMARY:Winnipeg Jets @ Ottawa Senators
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-07-vegas-golden-knights-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260107T010000Z
+DTEND:20260107T040000Z
+SUMMARY:Vegas Golden Knights @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-09-edmonton-oilers-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260109T010000Z
+DTEND:20260109T040000Z
+SUMMARY:Edmonton Oilers @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-10-los-angeles-kings-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260110T010000Z
+DTEND:20260110T040000Z
+SUMMARY:Los Angeles Kings @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-11-new-jersey-devils-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260111T190000Z
+DTEND:20260111T220000Z
+SUMMARY:New Jersey Devils @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-14-new-york-islanders-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260114T010000Z
+DTEND:20260114T040000Z
+SUMMARY:New York Islanders @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-16-winnipeg-jets-vs-minnesota-wild@open-sports-cal
+DTSTART:20260116T010000Z
+DTEND:20260116T040000Z
+SUMMARY:Winnipeg Jets @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-18-toronto-maple-leafs-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260118T000000Z
+DTEND:20260118T030000Z
+SUMMARY:Toronto Maple Leafs @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-20-winnipeg-jets-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20260120T013000Z
+DTEND:20260120T043000Z
+SUMMARY:Winnipeg Jets @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-21-st-louis-blues-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260121T010000Z
+DTEND:20260121T040000Z
+SUMMARY:St. Louis Blues @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-23-florida-panthers-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260123T010000Z
+DTEND:20260123T040000Z
+SUMMARY:Florida Panthers @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-25-detroit-red-wings-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260125T000000Z
+DTEND:20260125T030000Z
+SUMMARY:Detroit Red Wings @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-28-winnipeg-jets-vs-new-jersey-devils@open-sports-cal
+DTSTART:20260128T000000Z
+DTEND:20260128T030000Z
+SUMMARY:Winnipeg Jets @ New Jersey Devils
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-30-winnipeg-jets-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20260130T000000Z
+DTEND:20260130T030000Z
+SUMMARY:Winnipeg Jets @ Tampa Bay Lightning
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-31-winnipeg-jets-vs-florida-panthers@open-sports-cal
+DTSTART:20260131T210000Z
+DTEND:20260201T000000Z
+SUMMARY:Winnipeg Jets @ Florida Panthers
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-03-winnipeg-jets-vs-dallas-stars@open-sports-cal
+DTSTART:20260203T013000Z
+DTEND:20260203T043000Z
+SUMMARY:Winnipeg Jets @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-05-montreal-canadiens-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260205T000000Z
+DTEND:20260205T030000Z
+SUMMARY:Montréal Canadiens @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-26-winnipeg-jets-vs-vancouver-canucks@open-sports-cal
+DTSTART:20260226T030000Z
+DTEND:20260226T060000Z
+SUMMARY:Winnipeg Jets @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-28-winnipeg-jets-vs-anaheim-ducks@open-sports-cal
+DTSTART:20260228T030000Z
+DTEND:20260228T060000Z
+SUMMARY:Winnipeg Jets @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-01-winnipeg-jets-vs-san-jose-sharks@open-sports-cal
+DTSTART:20260301T210000Z
+DTEND:20260302T000000Z
+SUMMARY:Winnipeg Jets @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-04-chicago-blackhawks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260304T010000Z
+DTEND:20260304T040000Z
+SUMMARY:Chicago Blackhawks @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-06-tampa-bay-lightning-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260306T010000Z
+DTEND:20260306T040000Z
+SUMMARY:Tampa Bay Lightning @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-08-vancouver-canucks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260308T000000Z
+DTEND:20260308T030000Z
+SUMMARY:Vancouver Canucks @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-11-anaheim-ducks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260311T003000Z
+DTEND:20260311T033000Z
+SUMMARY:Anaheim Ducks @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-13-new-york-rangers-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260313T000000Z
+DTEND:20260313T030000Z
+SUMMARY:New York Rangers @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nNew York Rangers @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-14-colorado-avalanche-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260314T200000Z
+DTEND:20260314T230000Z
+SUMMARY:Colorado Avalanche @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-15-st-louis-blues-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260315T190000Z
+DTEND:20260315T220000Z
+SUMMARY:St. Louis Blues @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-18-nashville-predators-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260318T000000Z
+DTEND:20260318T030000Z
+SUMMARY:Nashville Predators @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-19-winnipeg-jets-vs-boston-bruins@open-sports-cal
+DTSTART:20260319T230000Z
+DTEND:20260320T020000Z
+SUMMARY:Winnipeg Jets @ Boston Bruins
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-21-winnipeg-jets-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20260321T170000Z
+DTEND:20260321T200000Z
+SUMMARY:Winnipeg Jets @ Pittsburgh Penguins
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-22-winnipeg-jets-vs-new-york-rangers@open-sports-cal
+DTSTART:20260322T160000Z
+DTEND:20260322T190000Z
+SUMMARY:Winnipeg Jets @ New York Rangers
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-25-vegas-golden-knights-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260325T000000Z
+DTEND:20260325T030000Z
+SUMMARY:Vegas Golden Knights @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-27-colorado-avalanche-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260327T000000Z
+DTEND:20260327T030000Z
+SUMMARY:Colorado Avalanche @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-28-winnipeg-jets-vs-colorado-avalanche@open-sports-cal
+DTSTART:20260328T230000Z
+DTEND:20260329T020000Z
+SUMMARY:Winnipeg Jets @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-01-winnipeg-jets-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20260401T003000Z
+DTEND:20260401T033000Z
+SUMMARY:Winnipeg Jets @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-03-winnipeg-jets-vs-dallas-stars@open-sports-cal
+DTSTART:20260403T000000Z
+DTEND:20260403T030000Z
+SUMMARY:Winnipeg Jets @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-04-winnipeg-jets-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20260404T230000Z
+DTEND:20260405T020000Z
+SUMMARY:Winnipeg Jets @ Columbus Blue Jackets
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-06-seattle-kraken-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260406T233000Z
+DTEND:20260407T023000Z
+SUMMARY:Seattle Kraken @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-10-winnipeg-jets-vs-st-louis-blues@open-sports-cal
+DTSTART:20260410T000000Z
+DTEND:20260410T030000Z
+SUMMARY:Winnipeg Jets @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-11-philadelphia-flyers-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260411T230000Z
+DTEND:20260412T020000Z
+SUMMARY:Philadelphia Flyers @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-14-winnipeg-jets-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20260414T020000Z
+DTEND:20260414T050000Z
+SUMMARY:Winnipeg Jets @ Vegas Golden Knights
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-15-winnipeg-jets-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260415T010000Z
+DTEND:20260415T040000Z
+SUMMARY:Winnipeg Jets @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-17-san-jose-sharks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260417T000000Z
+DTEND:20260417T030000Z
+SUMMARY:San Jose Sharks @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+END:VCALENDAR

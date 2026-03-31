@@ -1,0 +1,992 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2025-26 - Nashville Predators
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-10-columbus-blue-jackets-vs-nashville-predators@open-sports-cal
+DTSTART:20251010T000000Z
+DTEND:20251010T030000Z
+SUMMARY:Columbus Blue Jackets @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-12-utah-hockey-club-vs-nashville-predators@open-sports-cal
+DTSTART:20251012T000000Z
+DTEND:20251012T030000Z
+SUMMARY:Utah Hockey Club @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-13-nashville-predators-vs-ottawa-senators@open-sports-cal
+DTSTART:20251013T170000Z
+DTEND:20251013T200000Z
+SUMMARY:Nashville Predators @ Ottawa Senators
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-14-nashville-predators-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20251014T230000Z
+DTEND:20251015T020000Z
+SUMMARY:Nashville Predators @ Toronto Maple Leafs
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-16-nashville-predators-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251016T230000Z
+DTEND:20251017T020000Z
+SUMMARY:Nashville Predators @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-18-nashville-predators-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251018T230000Z
+DTEND:20251019T020000Z
+SUMMARY:Nashville Predators @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-22-anaheim-ducks-vs-nashville-predators@open-sports-cal
+DTSTART:20251022T000000Z
+DTEND:20251022T030000Z
+SUMMARY:Anaheim Ducks @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-24-vancouver-canucks-vs-nashville-predators@open-sports-cal
+DTSTART:20251024T000000Z
+DTEND:20251024T030000Z
+SUMMARY:Vancouver Canucks @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-26-los-angeles-kings-vs-nashville-predators@open-sports-cal
+DTSTART:20251026T000000Z
+DTEND:20251026T030000Z
+SUMMARY:Los Angeles Kings @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-26-dallas-stars-vs-nashville-predators@open-sports-cal
+DTSTART:20251026T230000Z
+DTEND:20251027T020000Z
+SUMMARY:Dallas Stars @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-28-tampa-bay-lightning-vs-nashville-predators@open-sports-cal
+DTSTART:20251028T234500Z
+DTEND:20251029T024500Z
+SUMMARY:Tampa Bay Lightning @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-30-nashville-predators-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251030T230000Z
+DTEND:20251031T020000Z
+SUMMARY:Nashville Predators @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-01-calgary-flames-vs-nashville-predators@open-sports-cal
+DTSTART:20251101T193000Z
+DTEND:20251101T223000Z
+SUMMARY:Calgary Flames @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nCalgary Flames @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-04-vancouver-canucks-vs-nashville-predators@open-sports-cal
+DTSTART:20251104T013000Z
+DTEND:20251104T043000Z
+SUMMARY:Vancouver Canucks @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-05-nashville-predators-vs-minnesota-wild@open-sports-cal
+DTSTART:20251105T010000Z
+DTEND:20251105T040000Z
+SUMMARY:Nashville Predators @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-07-philadelphia-flyers-vs-nashville-predators@open-sports-cal
+DTSTART:20251107T010000Z
+DTEND:20251107T040000Z
+SUMMARY:Philadelphia Flyers @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-08-dallas-stars-vs-nashville-predators@open-sports-cal
+DTSTART:20251108T203000Z
+DTEND:20251108T233000Z
+SUMMARY:Dallas Stars @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-11-nashville-predators-vs-new-york-rangers@open-sports-cal
+DTSTART:20251111T000000Z
+DTEND:20251111T030000Z
+SUMMARY:Nashville Predators @ New York Rangers
+DESCRIPTION:NHL 2025-26\nNashville Predators @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-14-pittsburgh-penguins-vs-nashville-predators@open-sports-cal
+DTSTART:20251114T190000Z
+DTEND:20251114T220000Z
+SUMMARY:Pittsburgh Penguins @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Nashville Predators\nAvicii Arena
+LOCATION:Avicii Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-16-nashville-predators-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20251116T140000Z
+DTEND:20251116T170000Z
+SUMMARY:Nashville Predators @ Pittsburgh Penguins
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Pittsburgh Penguins\nAvicii Arena
+LOCATION:Avicii Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-23-colorado-avalanche-vs-nashville-predators@open-sports-cal
+DTSTART:20251123T010000Z
+DTEND:20251123T040000Z
+SUMMARY:Colorado Avalanche @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-25-florida-panthers-vs-nashville-predators@open-sports-cal
+DTSTART:20251125T010000Z
+DTEND:20251125T040000Z
+SUMMARY:Florida Panthers @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-27-nashville-predators-vs-detroit-red-wings@open-sports-cal
+DTSTART:20251127T000000Z
+DTEND:20251127T030000Z
+SUMMARY:Nashville Predators @ Detroit Red Wings
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-29-nashville-predators-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20251129T010000Z
+DTEND:20251129T040000Z
+SUMMARY:Nashville Predators @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-30-winnipeg-jets-vs-nashville-predators@open-sports-cal
+DTSTART:20251130T000000Z
+DTEND:20251130T030000Z
+SUMMARY:Winnipeg Jets @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-03-calgary-flames-vs-nashville-predators@open-sports-cal
+DTSTART:20251203T010000Z
+DTEND:20251203T040000Z
+SUMMARY:Calgary Flames @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nCalgary Flames @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-05-nashville-predators-vs-florida-panthers@open-sports-cal
+DTSTART:20251205T000000Z
+DTEND:20251205T030000Z
+SUMMARY:Nashville Predators @ Florida Panthers
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-07-nashville-predators-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20251207T000000Z
+DTEND:20251207T030000Z
+SUMMARY:Nashville Predators @ Carolina Hurricanes
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-10-colorado-avalanche-vs-nashville-predators@open-sports-cal
+DTSTART:20251210T023000Z
+DTEND:20251210T053000Z
+SUMMARY:Colorado Avalanche @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-12-st-louis-blues-vs-nashville-predators@open-sports-cal
+DTSTART:20251212T010000Z
+DTEND:20251212T040000Z
+SUMMARY:St. Louis Blues @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-14-nashville-predators-vs-colorado-avalanche@open-sports-cal
+DTSTART:20251214T020000Z
+DTEND:20251214T050000Z
+SUMMARY:Nashville Predators @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-16-nashville-predators-vs-st-louis-blues@open-sports-cal
+DTSTART:20251216T010000Z
+DTEND:20251216T040000Z
+SUMMARY:Nashville Predators @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nNashville Predators @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-18-carolina-hurricanes-vs-nashville-predators@open-sports-cal
+DTSTART:20251218T010000Z
+DTEND:20251218T040000Z
+SUMMARY:Carolina Hurricanes @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-21-toronto-maple-leafs-vs-nashville-predators@open-sports-cal
+DTSTART:20251221T000000Z
+DTEND:20251221T030000Z
+SUMMARY:Toronto Maple Leafs @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-22-new-york-rangers-vs-nashville-predators@open-sports-cal
+DTSTART:20251222T000000Z
+DTEND:20251222T030000Z
+SUMMARY:New York Rangers @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nNew York Rangers @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-24-nashville-predators-vs-minnesota-wild@open-sports-cal
+DTSTART:20251224T010000Z
+DTEND:20251224T040000Z
+SUMMARY:Nashville Predators @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-28-nashville-predators-vs-st-louis-blues@open-sports-cal
+DTSTART:20251228T010000Z
+DTEND:20251228T040000Z
+SUMMARY:Nashville Predators @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nNashville Predators @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-30-nashville-predators-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251230T020000Z
+DTEND:20251230T050000Z
+SUMMARY:Nashville Predators @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-31-nashville-predators-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20251231T200000Z
+DTEND:20251231T230000Z
+SUMMARY:Nashville Predators @ Vegas Golden Knights
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-02-nashville-predators-vs-seattle-kraken@open-sports-cal
+DTSTART:20260102T030000Z
+DTEND:20260102T060000Z
+SUMMARY:Nashville Predators @ Seattle Kraken
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-04-nashville-predators-vs-calgary-flames@open-sports-cal
+DTSTART:20260104T000000Z
+DTEND:20260104T030000Z
+SUMMARY:Nashville Predators @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-07-nashville-predators-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260107T020000Z
+DTEND:20260107T050000Z
+SUMMARY:Nashville Predators @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-09-new-york-islanders-vs-nashville-predators@open-sports-cal
+DTSTART:20260109T010000Z
+DTEND:20260109T040000Z
+SUMMARY:New York Islanders @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-11-chicago-blackhawks-vs-nashville-predators@open-sports-cal
+DTSTART:20260111T010000Z
+DTEND:20260111T040000Z
+SUMMARY:Chicago Blackhawks @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-12-washington-capitals-vs-nashville-predators@open-sports-cal
+DTSTART:20260112T000000Z
+DTEND:20260112T030000Z
+SUMMARY:Washington Capitals @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-14-edmonton-oilers-vs-nashville-predators@open-sports-cal
+DTSTART:20260114T010000Z
+DTEND:20260114T040000Z
+SUMMARY:Edmonton Oilers @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-17-nashville-predators-vs-colorado-avalanche@open-sports-cal
+DTSTART:20260117T020000Z
+DTEND:20260117T050000Z
+SUMMARY:Nashville Predators @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-18-nashville-predators-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20260118T030000Z
+DTEND:20260118T060000Z
+SUMMARY:Nashville Predators @ Vegas Golden Knights
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-21-buffalo-sabres-vs-nashville-predators@open-sports-cal
+DTSTART:20260121T010000Z
+DTEND:20260121T040000Z
+SUMMARY:Buffalo Sabres @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-23-ottawa-senators-vs-nashville-predators@open-sports-cal
+DTSTART:20260123T010000Z
+DTEND:20260123T040000Z
+SUMMARY:Ottawa Senators @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nOttawa Senators @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-24-utah-hockey-club-vs-nashville-predators@open-sports-cal
+DTSTART:20260124T183000Z
+DTEND:20260124T213000Z
+SUMMARY:Utah Hockey Club @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-28-nashville-predators-vs-boston-bruins@open-sports-cal
+DTSTART:20260128T000000Z
+DTEND:20260128T030000Z
+SUMMARY:Nashville Predators @ Boston Bruins
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-30-nashville-predators-vs-new-jersey-devils@open-sports-cal
+DTSTART:20260130T000000Z
+DTEND:20260130T030000Z
+SUMMARY:Nashville Predators @ New Jersey Devils
+DESCRIPTION:NHL 2025-26\nNashville Predators @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-01-nashville-predators-vs-new-york-islanders@open-sports-cal
+DTSTART:20260201T000000Z
+DTEND:20260201T030000Z
+SUMMARY:Nashville Predators @ New York Islanders
+DESCRIPTION:NHL 2025-26\nNashville Predators @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-03-st-louis-blues-vs-nashville-predators@open-sports-cal
+DTSTART:20260203T010000Z
+DTEND:20260203T040000Z
+SUMMARY:St. Louis Blues @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-05-minnesota-wild-vs-nashville-predators@open-sports-cal
+DTSTART:20260205T010000Z
+DTEND:20260205T040000Z
+SUMMARY:Minnesota Wild @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-06-nashville-predators-vs-washington-capitals@open-sports-cal
+DTSTART:20260206T000000Z
+DTEND:20260206T030000Z
+SUMMARY:Nashville Predators @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-27-chicago-blackhawks-vs-nashville-predators@open-sports-cal
+DTSTART:20260227T010000Z
+DTEND:20260227T040000Z
+SUMMARY:Chicago Blackhawks @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-01-nashville-predators-vs-dallas-stars@open-sports-cal
+DTSTART:20260301T010000Z
+DTEND:20260301T040000Z
+SUMMARY:Nashville Predators @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-02-detroit-red-wings-vs-nashville-predators@open-sports-cal
+DTSTART:20260302T190000Z
+DTEND:20260302T220000Z
+SUMMARY:Detroit Red Wings @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-04-nashville-predators-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20260304T000000Z
+DTEND:20260304T030000Z
+SUMMARY:Nashville Predators @ Columbus Blue Jackets
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-06-boston-bruins-vs-nashville-predators@open-sports-cal
+DTSTART:20260306T010000Z
+DTEND:20260306T040000Z
+SUMMARY:Boston Bruins @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nBoston Bruins @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-07-nashville-predators-vs-buffalo-sabres@open-sports-cal
+DTSTART:20260307T223000Z
+DTEND:20260308T013000Z
+SUMMARY:Nashville Predators @ Buffalo Sabres
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-11-nashville-predators-vs-seattle-kraken@open-sports-cal
+DTSTART:20260311T020000Z
+DTEND:20260311T050000Z
+SUMMARY:Nashville Predators @ Seattle Kraken
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-13-nashville-predators-vs-vancouver-canucks@open-sports-cal
+DTSTART:20260313T020000Z
+DTEND:20260313T050000Z
+SUMMARY:Nashville Predators @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-16-nashville-predators-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260316T000000Z
+DTEND:20260316T030000Z
+SUMMARY:Nashville Predators @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-18-nashville-predators-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260318T000000Z
+DTEND:20260318T030000Z
+SUMMARY:Nashville Predators @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-20-seattle-kraken-vs-nashville-predators@open-sports-cal
+DTSTART:20260320T000000Z
+DTEND:20260320T030000Z
+SUMMARY:Seattle Kraken @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-21-vegas-golden-knights-vs-nashville-predators@open-sports-cal
+DTSTART:20260321T180000Z
+DTEND:20260321T210000Z
+SUMMARY:Vegas Golden Knights @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-22-nashville-predators-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20260322T190000Z
+DTEND:20260322T220000Z
+SUMMARY:Nashville Predators @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-25-san-jose-sharks-vs-nashville-predators@open-sports-cal
+DTSTART:20260325T000000Z
+DTEND:20260325T030000Z
+SUMMARY:San Jose Sharks @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-27-new-jersey-devils-vs-nashville-predators@open-sports-cal
+DTSTART:20260327T000000Z
+DTEND:20260327T030000Z
+SUMMARY:New Jersey Devils @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-28-montreal-canadiens-vs-nashville-predators@open-sports-cal
+DTSTART:20260328T230000Z
+DTEND:20260329T020000Z
+SUMMARY:Montréal Canadiens @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-29-nashville-predators-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20260329T210000Z
+DTEND:20260330T000000Z
+SUMMARY:Nashville Predators @ Tampa Bay Lightning
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-03-nashville-predators-vs-los-angeles-kings@open-sports-cal
+DTSTART:20260403T023000Z
+DTEND:20260403T053000Z
+SUMMARY:Nashville Predators @ Los Angeles Kings
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-05-nashville-predators-vs-san-jose-sharks@open-sports-cal
+DTSTART:20260405T020000Z
+DTEND:20260405T050000Z
+SUMMARY:Nashville Predators @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nNashville Predators @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-07-nashville-predators-vs-los-angeles-kings@open-sports-cal
+DTSTART:20260407T023000Z
+DTEND:20260407T053000Z
+SUMMARY:Nashville Predators @ Los Angeles Kings
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-08-nashville-predators-vs-anaheim-ducks@open-sports-cal
+DTSTART:20260408T020000Z
+DTEND:20260408T050000Z
+SUMMARY:Nashville Predators @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-10-nashville-predators-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260410T010000Z
+DTEND:20260410T040000Z
+SUMMARY:Nashville Predators @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-11-minnesota-wild-vs-nashville-predators@open-sports-cal
+DTSTART:20260411T210000Z
+DTEND:20260412T000000Z
+SUMMARY:Minnesota Wild @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-14-san-jose-sharks-vs-nashville-predators@open-sports-cal
+DTSTART:20260414T000000Z
+DTEND:20260414T030000Z
+SUMMARY:San Jose Sharks @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-17-anaheim-ducks-vs-nashville-predators@open-sports-cal
+DTSTART:20260417T000000Z
+DTEND:20260417T030000Z
+SUMMARY:Anaheim Ducks @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

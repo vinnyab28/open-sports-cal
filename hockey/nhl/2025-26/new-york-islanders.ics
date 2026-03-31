@@ -1,0 +1,992 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2025-26 - New York Islanders
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-09-new-york-islanders-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20251009T230000Z
+DTEND:20251010T020000Z
+SUMMARY:New York Islanders @ Pittsburgh Penguins
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-11-washington-capitals-vs-new-york-islanders@open-sports-cal
+DTSTART:20251011T230000Z
+DTEND:20251012T020000Z
+SUMMARY:Washington Capitals @ New York Islanders
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-13-winnipeg-jets-vs-new-york-islanders@open-sports-cal
+DTSTART:20251013T170000Z
+DTEND:20251013T200000Z
+SUMMARY:Winnipeg Jets @ New York Islanders
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-16-edmonton-oilers-vs-new-york-islanders@open-sports-cal
+DTSTART:20251016T233000Z
+DTEND:20251017T023000Z
+SUMMARY:Edmonton Oilers @ New York Islanders
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-18-new-york-islanders-vs-ottawa-senators@open-sports-cal
+DTSTART:20251018T190000Z
+DTEND:20251018T220000Z
+SUMMARY:New York Islanders @ Ottawa Senators
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-21-san-jose-sharks-vs-new-york-islanders@open-sports-cal
+DTSTART:20251021T230000Z
+DTEND:20251022T020000Z
+SUMMARY:San Jose Sharks @ New York Islanders
+DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-23-detroit-red-wings-vs-new-york-islanders@open-sports-cal
+DTSTART:20251023T230000Z
+DTEND:20251024T020000Z
+SUMMARY:Detroit Red Wings @ New York Islanders
+DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-25-new-york-islanders-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251025T163000Z
+DTEND:20251025T193000Z
+SUMMARY:New York Islanders @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-28-new-york-islanders-vs-boston-bruins@open-sports-cal
+DTSTART:20251028T231500Z
+DTEND:20251029T021500Z
+SUMMARY:New York Islanders @ Boston Bruins
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-30-new-york-islanders-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20251030T233000Z
+DTEND:20251031T023000Z
+SUMMARY:New York Islanders @ Carolina Hurricanes
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-31-new-york-islanders-vs-washington-capitals@open-sports-cal
+DTSTART:20251031T230000Z
+DTEND:20251101T020000Z
+SUMMARY:New York Islanders @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-02-columbus-blue-jackets-vs-new-york-islanders@open-sports-cal
+DTSTART:20251102T220000Z
+DTEND:20251103T010000Z
+SUMMARY:Columbus Blue Jackets @ New York Islanders
+DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-05-boston-bruins-vs-new-york-islanders@open-sports-cal
+DTSTART:20251105T000000Z
+DTEND:20251105T030000Z
+SUMMARY:Boston Bruins @ New York Islanders
+DESCRIPTION:NHL 2025-26\nBoston Bruins @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-08-minnesota-wild-vs-new-york-islanders@open-sports-cal
+DTSTART:20251108T000000Z
+DTEND:20251108T030000Z
+SUMMARY:Minnesota Wild @ New York Islanders
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-09-new-york-islanders-vs-new-york-rangers@open-sports-cal
+DTSTART:20251109T000000Z
+DTEND:20251109T030000Z
+SUMMARY:New York Islanders @ New York Rangers
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-11-new-york-islanders-vs-new-jersey-devils@open-sports-cal
+DTSTART:20251111T000000Z
+DTEND:20251111T030000Z
+SUMMARY:New York Islanders @ New Jersey Devils
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-14-new-york-islanders-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20251114T030000Z
+DTEND:20251114T060000Z
+SUMMARY:New York Islanders @ Vegas Golden Knights
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-15-new-york-islanders-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251115T020000Z
+DTEND:20251115T050000Z
+SUMMARY:New York Islanders @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-17-new-york-islanders-vs-colorado-avalanche@open-sports-cal
+DTSTART:20251117T020000Z
+DTEND:20251117T050000Z
+SUMMARY:New York Islanders @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-19-new-york-islanders-vs-dallas-stars@open-sports-cal
+DTSTART:20251119T010000Z
+DTEND:20251119T040000Z
+SUMMARY:New York Islanders @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-21-new-york-islanders-vs-detroit-red-wings@open-sports-cal
+DTSTART:20251121T000000Z
+DTEND:20251121T030000Z
+SUMMARY:New York Islanders @ Detroit Red Wings
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-22-st-louis-blues-vs-new-york-islanders@open-sports-cal
+DTSTART:20251122T203000Z
+DTEND:20251122T233000Z
+SUMMARY:St. Louis Blues @ New York Islanders
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-23-seattle-kraken-vs-new-york-islanders@open-sports-cal
+DTSTART:20251123T220000Z
+DTEND:20251124T010000Z
+SUMMARY:Seattle Kraken @ New York Islanders
+DESCRIPTION:NHL 2025-26\nSeattle Kraken @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-27-boston-bruins-vs-new-york-islanders@open-sports-cal
+DTSTART:20251127T000000Z
+DTEND:20251127T030000Z
+SUMMARY:Boston Bruins @ New York Islanders
+DESCRIPTION:NHL 2025-26\nBoston Bruins @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-28-philadelphia-flyers-vs-new-york-islanders@open-sports-cal
+DTSTART:20251128T210000Z
+DTEND:20251129T000000Z
+SUMMARY:Philadelphia Flyers @ New York Islanders
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-30-washington-capitals-vs-new-york-islanders@open-sports-cal
+DTSTART:20251130T180000Z
+DTEND:20251130T210000Z
+SUMMARY:Washington Capitals @ New York Islanders
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-03-tampa-bay-lightning-vs-new-york-islanders@open-sports-cal
+DTSTART:20251203T000000Z
+DTEND:20251203T030000Z
+SUMMARY:Tampa Bay Lightning @ New York Islanders
+DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-05-colorado-avalanche-vs-new-york-islanders@open-sports-cal
+DTSTART:20251205T000000Z
+DTEND:20251205T030000Z
+SUMMARY:Colorado Avalanche @ New York Islanders
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-07-new-york-islanders-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20251207T000000Z
+DTEND:20251207T030000Z
+SUMMARY:New York Islanders @ Tampa Bay Lightning
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-07-new-york-islanders-vs-florida-panthers@open-sports-cal
+DTSTART:20251207T220000Z
+DTEND:20251208T010000Z
+SUMMARY:New York Islanders @ Florida Panthers
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-10-vegas-golden-knights-vs-new-york-islanders@open-sports-cal
+DTSTART:20251210T000000Z
+DTEND:20251210T030000Z
+SUMMARY:Vegas Golden Knights @ New York Islanders
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-12-anaheim-ducks-vs-new-york-islanders@open-sports-cal
+DTSTART:20251212T000000Z
+DTEND:20251212T030000Z
+SUMMARY:Anaheim Ducks @ New York Islanders
+DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-13-tampa-bay-lightning-vs-new-york-islanders@open-sports-cal
+DTSTART:20251213T203000Z
+DTEND:20251213T233000Z
+SUMMARY:Tampa Bay Lightning @ New York Islanders
+DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-17-new-york-islanders-vs-detroit-red-wings@open-sports-cal
+DTSTART:20251217T000000Z
+DTEND:20251217T030000Z
+SUMMARY:New York Islanders @ Detroit Red Wings
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-20-vancouver-canucks-vs-new-york-islanders@open-sports-cal
+DTSTART:20251220T000000Z
+DTEND:20251220T030000Z
+SUMMARY:Vancouver Canucks @ New York Islanders
+DESCRIPTION:NHL 2025-26\nVancouver Canucks @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-20-new-york-islanders-vs-buffalo-sabres@open-sports-cal
+DTSTART:20251220T220000Z
+DTEND:20251221T010000Z
+SUMMARY:New York Islanders @ Buffalo Sabres
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-24-new-jersey-devils-vs-new-york-islanders@open-sports-cal
+DTSTART:20251224T000000Z
+DTEND:20251224T030000Z
+SUMMARY:New Jersey Devils @ New York Islanders
+DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-27-new-york-rangers-vs-new-york-islanders@open-sports-cal
+DTSTART:20251227T230000Z
+DTEND:20251228T020000Z
+SUMMARY:New York Rangers @ New York Islanders
+DESCRIPTION:NHL 2025-26\nNew York Rangers @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-28-new-york-islanders-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20251228T220000Z
+DTEND:20251229T010000Z
+SUMMARY:New York Islanders @ Columbus Blue Jackets
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-31-new-york-islanders-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20251231T013000Z
+DTEND:20251231T043000Z
+SUMMARY:New York Islanders @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-01-utah-hockey-club-vs-new-york-islanders@open-sports-cal
+DTSTART:20260101T200000Z
+DTEND:20260101T230000Z
+SUMMARY:Utah Hockey Club @ New York Islanders
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-04-toronto-maple-leafs-vs-new-york-islanders@open-sports-cal
+DTSTART:20260104T000000Z
+DTEND:20260104T030000Z
+SUMMARY:Toronto Maple Leafs @ New York Islanders
+DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-07-new-jersey-devils-vs-new-york-islanders@open-sports-cal
+DTSTART:20260107T003000Z
+DTEND:20260107T033000Z
+SUMMARY:New Jersey Devils @ New York Islanders
+DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-09-new-york-islanders-vs-nashville-predators@open-sports-cal
+DTSTART:20260109T010000Z
+DTEND:20260109T040000Z
+SUMMARY:New York Islanders @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-11-new-york-islanders-vs-minnesota-wild@open-sports-cal
+DTSTART:20260111T010000Z
+DTEND:20260111T040000Z
+SUMMARY:New York Islanders @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-14-new-york-islanders-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260114T010000Z
+DTEND:20260114T040000Z
+SUMMARY:New York Islanders @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-16-new-york-islanders-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260116T020000Z
+DTEND:20260116T050000Z
+SUMMARY:New York Islanders @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-17-new-york-islanders-vs-calgary-flames@open-sports-cal
+DTSTART:20260117T200000Z
+DTEND:20260117T230000Z
+SUMMARY:New York Islanders @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-20-new-york-islanders-vs-vancouver-canucks@open-sports-cal
+DTSTART:20260120T030000Z
+DTEND:20260120T060000Z
+SUMMARY:New York Islanders @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-22-new-york-islanders-vs-seattle-kraken@open-sports-cal
+DTSTART:20260122T023000Z
+DTEND:20260122T053000Z
+SUMMARY:New York Islanders @ Seattle Kraken
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-24-buffalo-sabres-vs-new-york-islanders@open-sports-cal
+DTSTART:20260124T180000Z
+DTEND:20260124T210000Z
+SUMMARY:Buffalo Sabres @ New York Islanders
+DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-27-new-york-islanders-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260127T000000Z
+DTEND:20260127T030000Z
+SUMMARY:New York Islanders @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-29-new-york-rangers-vs-new-york-islanders@open-sports-cal
+DTSTART:20260129T000000Z
+DTEND:20260129T030000Z
+SUMMARY:New York Rangers @ New York Islanders
+DESCRIPTION:NHL 2025-26\nNew York Rangers @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-30-new-york-islanders-vs-new-york-rangers@open-sports-cal
+DTSTART:20260130T000000Z
+DTEND:20260130T030000Z
+SUMMARY:New York Islanders @ New York Rangers
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-01-nashville-predators-vs-new-york-islanders@open-sports-cal
+DTSTART:20260201T000000Z
+DTEND:20260201T030000Z
+SUMMARY:Nashville Predators @ New York Islanders
+DESCRIPTION:NHL 2025-26\nNashville Predators @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-03-new-york-islanders-vs-washington-capitals@open-sports-cal
+DTSTART:20260203T000000Z
+DTEND:20260203T030000Z
+SUMMARY:New York Islanders @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-04-pittsburgh-penguins-vs-new-york-islanders@open-sports-cal
+DTSTART:20260204T003000Z
+DTEND:20260204T033000Z
+SUMMARY:Pittsburgh Penguins @ New York Islanders
+DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-06-new-york-islanders-vs-new-jersey-devils@open-sports-cal
+DTSTART:20260206T000000Z
+DTEND:20260206T030000Z
+SUMMARY:New York Islanders @ New Jersey Devils
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-27-new-york-islanders-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260227T000000Z
+DTEND:20260227T030000Z
+SUMMARY:New York Islanders @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-28-new-york-islanders-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20260228T230000Z
+DTEND:20260301T020000Z
+SUMMARY:New York Islanders @ Columbus Blue Jackets
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-01-florida-panthers-vs-new-york-islanders@open-sports-cal
+DTSTART:20260301T233000Z
+DTEND:20260302T023000Z
+SUMMARY:Florida Panthers @ New York Islanders
+DESCRIPTION:NHL 2025-26\nFlorida Panthers @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-05-new-york-islanders-vs-anaheim-ducks@open-sports-cal
+DTSTART:20260305T030000Z
+DTEND:20260305T060000Z
+SUMMARY:New York Islanders @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-06-new-york-islanders-vs-los-angeles-kings@open-sports-cal
+DTSTART:20260306T023000Z
+DTEND:20260306T053000Z
+SUMMARY:New York Islanders @ Los Angeles Kings
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-08-new-york-islanders-vs-san-jose-sharks@open-sports-cal
+DTSTART:20260308T030000Z
+DTEND:20260308T060000Z
+SUMMARY:New York Islanders @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-10-new-york-islanders-vs-st-louis-blues@open-sports-cal
+DTSTART:20260310T233000Z
+DTEND:20260311T023000Z
+SUMMARY:New York Islanders @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-13-los-angeles-kings-vs-new-york-islanders@open-sports-cal
+DTSTART:20260313T230000Z
+DTEND:20260314T020000Z
+SUMMARY:Los Angeles Kings @ New York Islanders
+DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-14-calgary-flames-vs-new-york-islanders@open-sports-cal
+DTSTART:20260314T230000Z
+DTEND:20260315T020000Z
+SUMMARY:Calgary Flames @ New York Islanders
+DESCRIPTION:NHL 2025-26\nCalgary Flames @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-17-new-york-islanders-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20260317T230000Z
+DTEND:20260318T020000Z
+SUMMARY:New York Islanders @ Toronto Maple Leafs
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-19-new-york-islanders-vs-ottawa-senators@open-sports-cal
+DTSTART:20260319T230000Z
+DTEND:20260320T020000Z
+SUMMARY:New York Islanders @ Ottawa Senators
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-21-new-york-islanders-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260321T230000Z
+DTEND:20260322T020000Z
+SUMMARY:New York Islanders @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-22-columbus-blue-jackets-vs-new-york-islanders@open-sports-cal
+DTSTART:20260322T230000Z
+DTEND:20260323T020000Z
+SUMMARY:Columbus Blue Jackets @ New York Islanders
+DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-24-chicago-blackhawks-vs-new-york-islanders@open-sports-cal
+DTSTART:20260324T230000Z
+DTEND:20260325T020000Z
+SUMMARY:Chicago Blackhawks @ New York Islanders
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-26-dallas-stars-vs-new-york-islanders@open-sports-cal
+DTSTART:20260326T230000Z
+DTEND:20260327T020000Z
+SUMMARY:Dallas Stars @ New York Islanders
+DESCRIPTION:NHL 2025-26\nDallas Stars @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-28-florida-panthers-vs-new-york-islanders@open-sports-cal
+DTSTART:20260328T170000Z
+DTEND:20260328T200000Z
+SUMMARY:Florida Panthers @ New York Islanders
+DESCRIPTION:NHL 2025-26\nFlorida Panthers @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-30-pittsburgh-penguins-vs-new-york-islanders@open-sports-cal
+DTSTART:20260330T230000Z
+DTEND:20260331T020000Z
+SUMMARY:Pittsburgh Penguins @ New York Islanders
+DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-31-new-york-islanders-vs-buffalo-sabres@open-sports-cal
+DTSTART:20260331T230000Z
+DTEND:20260401T020000Z
+SUMMARY:New York Islanders @ Buffalo Sabres
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-03-philadelphia-flyers-vs-new-york-islanders@open-sports-cal
+DTSTART:20260403T230000Z
+DTEND:20260404T020000Z
+SUMMARY:Philadelphia Flyers @ New York Islanders
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-04-new-york-islanders-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20260404T230000Z
+DTEND:20260405T020000Z
+SUMMARY:New York Islanders @ Carolina Hurricanes
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-09-toronto-maple-leafs-vs-new-york-islanders@open-sports-cal
+DTSTART:20260409T224500Z
+DTEND:20260410T014500Z
+SUMMARY:Toronto Maple Leafs @ New York Islanders
+DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-11-ottawa-senators-vs-new-york-islanders@open-sports-cal
+DTSTART:20260411T170000Z
+DTEND:20260411T200000Z
+SUMMARY:Ottawa Senators @ New York Islanders
+DESCRIPTION:NHL 2025-26\nOttawa Senators @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-12-montreal-canadiens-vs-new-york-islanders@open-sports-cal
+DTSTART:20260412T220000Z
+DTEND:20260413T010000Z
+SUMMARY:Montréal Canadiens @ New York Islanders
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-14-carolina-hurricanes-vs-new-york-islanders@open-sports-cal
+DTSTART:20260414T230000Z
+DTEND:20260415T020000Z
+SUMMARY:Carolina Hurricanes @ New York Islanders
+DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

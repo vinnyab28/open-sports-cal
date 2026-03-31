@@ -1,0 +1,992 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2025-26 - St. Louis Blues
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-10-minnesota-wild-vs-st-louis-blues@open-sports-cal
+DTSTART:20251010T000000Z
+DTEND:20251010T030000Z
+SUMMARY:Minnesota Wild @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-11-st-louis-blues-vs-calgary-flames@open-sports-cal
+DTSTART:20251011T200000Z
+DTEND:20251011T230000Z
+SUMMARY:St. Louis Blues @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-13-st-louis-blues-vs-vancouver-canucks@open-sports-cal
+DTSTART:20251013T233000Z
+DTEND:20251014T023000Z
+SUMMARY:St. Louis Blues @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-16-chicago-blackhawks-vs-st-louis-blues@open-sports-cal
+DTSTART:20251016T013000Z
+DTEND:20251016T043000Z
+SUMMARY:Chicago Blackhawks @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-18-dallas-stars-vs-st-louis-blues@open-sports-cal
+DTSTART:20251018T230000Z
+DTEND:20251019T020000Z
+SUMMARY:Dallas Stars @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nDallas Stars @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-22-los-angeles-kings-vs-st-louis-blues@open-sports-cal
+DTSTART:20251022T000000Z
+DTEND:20251022T030000Z
+SUMMARY:Los Angeles Kings @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-24-utah-hockey-club-vs-st-louis-blues@open-sports-cal
+DTSTART:20251024T000000Z
+DTEND:20251024T030000Z
+SUMMARY:Utah Hockey Club @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-25-st-louis-blues-vs-detroit-red-wings@open-sports-cal
+DTSTART:20251025T230000Z
+DTEND:20251026T020000Z
+SUMMARY:St. Louis Blues @ Detroit Red Wings
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-27-st-louis-blues-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20251027T230000Z
+DTEND:20251028T020000Z
+SUMMARY:St. Louis Blues @ Pittsburgh Penguins
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-29-detroit-red-wings-vs-st-louis-blues@open-sports-cal
+DTSTART:20251029T001500Z
+DTEND:20251029T031500Z
+SUMMARY:Detroit Red Wings @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-31-vancouver-canucks-vs-st-louis-blues@open-sports-cal
+DTSTART:20251031T000000Z
+DTEND:20251031T030000Z
+SUMMARY:Vancouver Canucks @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nVancouver Canucks @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-01-st-louis-blues-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20251101T230000Z
+DTEND:20251102T020000Z
+SUMMARY:St. Louis Blues @ Columbus Blue Jackets
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-04-edmonton-oilers-vs-st-louis-blues@open-sports-cal
+DTSTART:20251104T013000Z
+DTEND:20251104T043000Z
+SUMMARY:Edmonton Oilers @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-06-st-louis-blues-vs-washington-capitals@open-sports-cal
+DTSTART:20251106T003000Z
+DTEND:20251106T033000Z
+SUMMARY:St. Louis Blues @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-07-st-louis-blues-vs-buffalo-sabres@open-sports-cal
+DTSTART:20251107T000000Z
+DTEND:20251107T030000Z
+SUMMARY:St. Louis Blues @ Buffalo Sabres
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-09-seattle-kraken-vs-st-louis-blues@open-sports-cal
+DTSTART:20251109T000000Z
+DTEND:20251109T030000Z
+SUMMARY:Seattle Kraken @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nSeattle Kraken @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-12-calgary-flames-vs-st-louis-blues@open-sports-cal
+DTSTART:20251112T010000Z
+DTEND:20251112T040000Z
+SUMMARY:Calgary Flames @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nCalgary Flames @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-15-philadelphia-flyers-vs-st-louis-blues@open-sports-cal
+DTSTART:20251115T010000Z
+DTEND:20251115T040000Z
+SUMMARY:Philadelphia Flyers @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-16-vegas-golden-knights-vs-st-louis-blues@open-sports-cal
+DTSTART:20251116T010000Z
+DTEND:20251116T040000Z
+SUMMARY:Vegas Golden Knights @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-19-st-louis-blues-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20251119T000000Z
+DTEND:20251119T030000Z
+SUMMARY:St. Louis Blues @ Toronto Maple Leafs
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-21-st-louis-blues-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251121T000000Z
+DTEND:20251121T030000Z
+SUMMARY:St. Louis Blues @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-22-st-louis-blues-vs-new-york-islanders@open-sports-cal
+DTSTART:20251122T203000Z
+DTEND:20251122T233000Z
+SUMMARY:St. Louis Blues @ New York Islanders
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-25-st-louis-blues-vs-new-york-rangers@open-sports-cal
+DTSTART:20251125T000000Z
+DTEND:20251125T030000Z
+SUMMARY:St. Louis Blues @ New York Rangers
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-27-st-louis-blues-vs-new-jersey-devils@open-sports-cal
+DTSTART:20251127T000000Z
+DTEND:20251127T030000Z
+SUMMARY:St. Louis Blues @ New Jersey Devils
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-28-ottawa-senators-vs-st-louis-blues@open-sports-cal
+DTSTART:20251128T210000Z
+DTEND:20251129T000000Z
+SUMMARY:Ottawa Senators @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nOttawa Senators @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-30-utah-hockey-club-vs-st-louis-blues@open-sports-cal
+DTSTART:20251130T010000Z
+DTEND:20251130T040000Z
+SUMMARY:Utah Hockey Club @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-02-anaheim-ducks-vs-st-louis-blues@open-sports-cal
+DTSTART:20251202T010000Z
+DTEND:20251202T040000Z
+SUMMARY:Anaheim Ducks @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-05-st-louis-blues-vs-boston-bruins@open-sports-cal
+DTSTART:20251205T000000Z
+DTEND:20251205T030000Z
+SUMMARY:St. Louis Blues @ Boston Bruins
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-07-st-louis-blues-vs-ottawa-senators@open-sports-cal
+DTSTART:20251207T000000Z
+DTEND:20251207T030000Z
+SUMMARY:St. Louis Blues @ Ottawa Senators
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-08-st-louis-blues-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251208T000000Z
+DTEND:20251208T030000Z
+SUMMARY:St. Louis Blues @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-10-boston-bruins-vs-st-louis-blues@open-sports-cal
+DTSTART:20251210T010000Z
+DTEND:20251210T040000Z
+SUMMARY:Boston Bruins @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nBoston Bruins @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-12-st-louis-blues-vs-nashville-predators@open-sports-cal
+DTSTART:20251212T010000Z
+DTEND:20251212T040000Z
+SUMMARY:St. Louis Blues @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-13-chicago-blackhawks-vs-st-louis-blues@open-sports-cal
+DTSTART:20251213T010000Z
+DTEND:20251213T040000Z
+SUMMARY:Chicago Blackhawks @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-16-nashville-predators-vs-st-louis-blues@open-sports-cal
+DTSTART:20251216T010000Z
+DTEND:20251216T040000Z
+SUMMARY:Nashville Predators @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nNashville Predators @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-18-winnipeg-jets-vs-st-louis-blues@open-sports-cal
+DTSTART:20251218T010000Z
+DTEND:20251218T040000Z
+SUMMARY:Winnipeg Jets @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-19-new-york-rangers-vs-st-louis-blues@open-sports-cal
+DTSTART:20251219T010000Z
+DTEND:20251219T040000Z
+SUMMARY:New York Rangers @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nNew York Rangers @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-20-st-louis-blues-vs-florida-panthers@open-sports-cal
+DTSTART:20251220T230000Z
+DTEND:20251221T020000Z
+SUMMARY:St. Louis Blues @ Florida Panthers
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-23-st-louis-blues-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20251223T000000Z
+DTEND:20251223T030000Z
+SUMMARY:St. Louis Blues @ Tampa Bay Lightning
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-28-nashville-predators-vs-st-louis-blues@open-sports-cal
+DTSTART:20251228T010000Z
+DTEND:20251228T040000Z
+SUMMARY:Nashville Predators @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nNashville Predators @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-30-buffalo-sabres-vs-st-louis-blues@open-sports-cal
+DTSTART:20251230T010000Z
+DTEND:20251230T040000Z
+SUMMARY:Buffalo Sabres @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-01-st-louis-blues-vs-colorado-avalanche@open-sports-cal
+DTSTART:20260101T020000Z
+DTEND:20260101T050000Z
+SUMMARY:St. Louis Blues @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-02-vegas-golden-knights-vs-st-louis-blues@open-sports-cal
+DTSTART:20260102T200000Z
+DTEND:20260102T230000Z
+SUMMARY:Vegas Golden Knights @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-03-montreal-canadiens-vs-st-louis-blues@open-sports-cal
+DTSTART:20260103T210000Z
+DTEND:20260104T000000Z
+SUMMARY:Montréal Canadiens @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-08-st-louis-blues-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20260108T023000Z
+DTEND:20260108T053000Z
+SUMMARY:St. Louis Blues @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-10-st-louis-blues-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260110T020000Z
+DTEND:20260110T050000Z
+SUMMARY:St. Louis Blues @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-11-st-louis-blues-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20260111T030000Z
+DTEND:20260111T060000Z
+SUMMARY:St. Louis Blues @ Vegas Golden Knights
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-14-carolina-hurricanes-vs-st-louis-blues@open-sports-cal
+DTSTART:20260114T003000Z
+DTEND:20260114T033000Z
+SUMMARY:Carolina Hurricanes @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-17-tampa-bay-lightning-vs-st-louis-blues@open-sports-cal
+DTSTART:20260117T010000Z
+DTEND:20260117T040000Z
+SUMMARY:Tampa Bay Lightning @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-19-st-louis-blues-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260119T010000Z
+DTEND:20260119T040000Z
+SUMMARY:St. Louis Blues @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-21-st-louis-blues-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260121T010000Z
+DTEND:20260121T040000Z
+SUMMARY:St. Louis Blues @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-24-st-louis-blues-vs-dallas-stars@open-sports-cal
+DTSTART:20260124T010000Z
+DTEND:20260124T040000Z
+SUMMARY:St. Louis Blues @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-25-los-angeles-kings-vs-st-louis-blues@open-sports-cal
+DTSTART:20260125T010000Z
+DTEND:20260125T040000Z
+SUMMARY:Los Angeles Kings @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-28-dallas-stars-vs-st-louis-blues@open-sports-cal
+DTSTART:20260128T010000Z
+DTEND:20260128T040000Z
+SUMMARY:Dallas Stars @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nDallas Stars @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-30-florida-panthers-vs-st-louis-blues@open-sports-cal
+DTSTART:20260130T010000Z
+DTEND:20260130T040000Z
+SUMMARY:Florida Panthers @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nFlorida Panthers @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-01-columbus-blue-jackets-vs-st-louis-blues@open-sports-cal
+DTSTART:20260201T000000Z
+DTEND:20260201T030000Z
+SUMMARY:Columbus Blue Jackets @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-03-st-louis-blues-vs-nashville-predators@open-sports-cal
+DTSTART:20260203T010000Z
+DTEND:20260203T040000Z
+SUMMARY:St. Louis Blues @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-05-st-louis-blues-vs-dallas-stars@open-sports-cal
+DTSTART:20260205T023000Z
+DTEND:20260205T053000Z
+SUMMARY:St. Louis Blues @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-27-seattle-kraken-vs-st-louis-blues@open-sports-cal
+DTSTART:20260227T010000Z
+DTEND:20260227T040000Z
+SUMMARY:Seattle Kraken @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nSeattle Kraken @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-28-new-jersey-devils-vs-st-louis-blues@open-sports-cal
+DTSTART:20260228T220000Z
+DTEND:20260301T010000Z
+SUMMARY:New Jersey Devils @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-01-st-louis-blues-vs-minnesota-wild@open-sports-cal
+DTSTART:20260301T220000Z
+DTEND:20260302T010000Z
+SUMMARY:St. Louis Blues @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-05-st-louis-blues-vs-seattle-kraken@open-sports-cal
+DTSTART:20260305T030000Z
+DTEND:20260305T060000Z
+SUMMARY:St. Louis Blues @ Seattle Kraken
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-07-st-louis-blues-vs-san-jose-sharks@open-sports-cal
+DTSTART:20260307T030000Z
+DTEND:20260307T060000Z
+SUMMARY:St. Louis Blues @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-09-st-louis-blues-vs-anaheim-ducks@open-sports-cal
+DTSTART:20260309T010000Z
+DTEND:20260309T040000Z
+SUMMARY:St. Louis Blues @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-10-new-york-islanders-vs-st-louis-blues@open-sports-cal
+DTSTART:20260310T233000Z
+DTEND:20260311T023000Z
+SUMMARY:New York Islanders @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-12-st-louis-blues-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20260312T230000Z
+DTEND:20260313T020000Z
+SUMMARY:St. Louis Blues @ Carolina Hurricanes
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-14-edmonton-oilers-vs-st-louis-blues@open-sports-cal
+DTSTART:20260314T000000Z
+DTEND:20260314T030000Z
+SUMMARY:Edmonton Oilers @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-15-st-louis-blues-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260315T190000Z
+DTEND:20260315T220000Z
+SUMMARY:St. Louis Blues @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-19-st-louis-blues-vs-calgary-flames@open-sports-cal
+DTSTART:20260319T013000Z
+DTEND:20260319T043000Z
+SUMMARY:St. Louis Blues @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-21-st-louis-blues-vs-vancouver-canucks@open-sports-cal
+DTSTART:20260321T230000Z
+DTEND:20260322T020000Z
+SUMMARY:St. Louis Blues @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-25-washington-capitals-vs-st-louis-blues@open-sports-cal
+DTSTART:20260325T000000Z
+DTEND:20260325T030000Z
+SUMMARY:Washington Capitals @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-27-san-jose-sharks-vs-st-louis-blues@open-sports-cal
+DTSTART:20260327T000000Z
+DTEND:20260327T030000Z
+SUMMARY:San Jose Sharks @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-28-toronto-maple-leafs-vs-st-louis-blues@open-sports-cal
+DTSTART:20260328T230000Z
+DTEND:20260329T020000Z
+SUMMARY:Toronto Maple Leafs @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-31-st-louis-blues-vs-san-jose-sharks@open-sports-cal
+DTSTART:20260331T020000Z
+DTEND:20260331T050000Z
+SUMMARY:St. Louis Blues @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-02-st-louis-blues-vs-los-angeles-kings@open-sports-cal
+DTSTART:20260402T010000Z
+DTEND:20260402T040000Z
+SUMMARY:St. Louis Blues @ Los Angeles Kings
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-04-st-louis-blues-vs-anaheim-ducks@open-sports-cal
+DTSTART:20260404T020000Z
+DTEND:20260404T050000Z
+SUMMARY:St. Louis Blues @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-06-st-louis-blues-vs-colorado-avalanche@open-sports-cal
+DTSTART:20260406T013000Z
+DTEND:20260406T043000Z
+SUMMARY:St. Louis Blues @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-08-colorado-avalanche-vs-st-louis-blues@open-sports-cal
+DTSTART:20260408T000000Z
+DTEND:20260408T030000Z
+SUMMARY:Colorado Avalanche @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-10-winnipeg-jets-vs-st-louis-blues@open-sports-cal
+DTSTART:20260410T000000Z
+DTEND:20260410T030000Z
+SUMMARY:Winnipeg Jets @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-11-st-louis-blues-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20260411T210000Z
+DTEND:20260412T000000Z
+SUMMARY:St. Louis Blues @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-14-minnesota-wild-vs-st-louis-blues@open-sports-cal
+DTSTART:20260414T000000Z
+DTEND:20260414T030000Z
+SUMMARY:Minnesota Wild @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-15-pittsburgh-penguins-vs-st-louis-blues@open-sports-cal
+DTSTART:20260415T013000Z
+DTEND:20260415T043000Z
+SUMMARY:Pittsburgh Penguins @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-17-st-louis-blues-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260417T000000Z
+DTEND:20260417T030000Z
+SUMMARY:St. Louis Blues @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+END:VCALENDAR

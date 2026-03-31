@@ -1,0 +1,992 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2025-26 - Utah Hockey Club
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-10-utah-hockey-club-vs-colorado-avalanche@open-sports-cal
+DTSTART:20251010T010000Z
+DTEND:20251010T040000Z
+SUMMARY:Utah Hockey Club @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-12-utah-hockey-club-vs-nashville-predators@open-sports-cal
+DTSTART:20251012T000000Z
+DTEND:20251012T030000Z
+SUMMARY:Utah Hockey Club @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-14-utah-hockey-club-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20251014T003000Z
+DTEND:20251014T033000Z
+SUMMARY:Utah Hockey Club @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-16-calgary-flames-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251016T013000Z
+DTEND:20251016T043000Z
+SUMMARY:Calgary Flames @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nCalgary Flames @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-18-san-jose-sharks-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251018T010000Z
+DTEND:20251018T040000Z
+SUMMARY:San Jose Sharks @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-19-boston-bruins-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251019T230000Z
+DTEND:20251020T020000Z
+SUMMARY:Boston Bruins @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nBoston Bruins @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-22-colorado-avalanche-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251022T020000Z
+DTEND:20251022T050000Z
+SUMMARY:Colorado Avalanche @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-24-utah-hockey-club-vs-st-louis-blues@open-sports-cal
+DTSTART:20251024T000000Z
+DTEND:20251024T030000Z
+SUMMARY:Utah Hockey Club @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-25-utah-hockey-club-vs-minnesota-wild@open-sports-cal
+DTSTART:20251025T220000Z
+DTEND:20251026T010000Z
+SUMMARY:Utah Hockey Club @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-26-utah-hockey-club-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251026T220000Z
+DTEND:20251027T010000Z
+SUMMARY:Utah Hockey Club @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-29-utah-hockey-club-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251029T013000Z
+DTEND:20251029T043000Z
+SUMMARY:Utah Hockey Club @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-02-tampa-bay-lightning-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251102T203000Z
+DTEND:20251102T233000Z
+SUMMARY:Tampa Bay Lightning @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-05-utah-hockey-club-vs-buffalo-sabres@open-sports-cal
+DTSTART:20251105T000000Z
+DTEND:20251105T030000Z
+SUMMARY:Utah Hockey Club @ Buffalo Sabres
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-06-utah-hockey-club-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20251106T000000Z
+DTEND:20251106T030000Z
+SUMMARY:Utah Hockey Club @ Toronto Maple Leafs
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-09-utah-hockey-club-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251109T000000Z
+DTEND:20251109T030000Z
+SUMMARY:Utah Hockey Club @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-10-utah-hockey-club-vs-ottawa-senators@open-sports-cal
+DTSTART:20251110T000000Z
+DTEND:20251110T030000Z
+SUMMARY:Utah Hockey Club @ Ottawa Senators
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-13-buffalo-sabres-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251113T020000Z
+DTEND:20251113T050000Z
+SUMMARY:Buffalo Sabres @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-15-new-york-islanders-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251115T020000Z
+DTEND:20251115T050000Z
+SUMMARY:New York Islanders @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-18-utah-hockey-club-vs-anaheim-ducks@open-sports-cal
+DTSTART:20251118T030000Z
+DTEND:20251118T060000Z
+SUMMARY:Utah Hockey Club @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-19-utah-hockey-club-vs-san-jose-sharks@open-sports-cal
+DTSTART:20251119T030000Z
+DTEND:20251119T060000Z
+SUMMARY:Utah Hockey Club @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-21-vegas-golden-knights-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251121T020000Z
+DTEND:20251121T050000Z
+SUMMARY:Vegas Golden Knights @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-23-new-york-rangers-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251123T020000Z
+DTEND:20251123T050000Z
+SUMMARY:New York Rangers @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nNew York Rangers @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-25-vegas-golden-knights-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251125T020000Z
+DTEND:20251125T050000Z
+SUMMARY:Vegas Golden Knights @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-27-montreal-canadiens-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251127T023000Z
+DTEND:20251127T053000Z
+SUMMARY:Montréal Canadiens @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-29-utah-hockey-club-vs-dallas-stars@open-sports-cal
+DTSTART:20251129T010000Z
+DTEND:20251129T040000Z
+SUMMARY:Utah Hockey Club @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-30-utah-hockey-club-vs-st-louis-blues@open-sports-cal
+DTSTART:20251130T010000Z
+DTEND:20251130T040000Z
+SUMMARY:Utah Hockey Club @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-02-utah-hockey-club-vs-san-jose-sharks@open-sports-cal
+DTSTART:20251202T030000Z
+DTEND:20251202T060000Z
+SUMMARY:Utah Hockey Club @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-04-utah-hockey-club-vs-anaheim-ducks@open-sports-cal
+DTSTART:20251204T030000Z
+DTEND:20251204T060000Z
+SUMMARY:Utah Hockey Club @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-06-utah-hockey-club-vs-vancouver-canucks@open-sports-cal
+DTSTART:20251206T020000Z
+DTEND:20251206T050000Z
+SUMMARY:Utah Hockey Club @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-07-utah-hockey-club-vs-calgary-flames@open-sports-cal
+DTSTART:20251207T000000Z
+DTEND:20251207T030000Z
+SUMMARY:Utah Hockey Club @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-09-los-angeles-kings-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251209T020000Z
+DTEND:20251209T050000Z
+SUMMARY:Los Angeles Kings @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-11-florida-panthers-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251211T020000Z
+DTEND:20251211T050000Z
+SUMMARY:Florida Panthers @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-13-seattle-kraken-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251213T020000Z
+DTEND:20251213T050000Z
+SUMMARY:Seattle Kraken @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-14-utah-hockey-club-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20251214T200000Z
+DTEND:20251214T230000Z
+SUMMARY:Utah Hockey Club @ Pittsburgh Penguins
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-17-utah-hockey-club-vs-boston-bruins@open-sports-cal
+DTSTART:20251217T000000Z
+DTEND:20251217T030000Z
+SUMMARY:Utah Hockey Club @ Boston Bruins
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-18-utah-hockey-club-vs-detroit-red-wings@open-sports-cal
+DTSTART:20251218T003000Z
+DTEND:20251218T033000Z
+SUMMARY:Utah Hockey Club @ Detroit Red Wings
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-20-new-jersey-devils-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251220T020000Z
+DTEND:20251220T050000Z
+SUMMARY:New Jersey Devils @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-22-winnipeg-jets-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251222T000000Z
+DTEND:20251222T030000Z
+SUMMARY:Winnipeg Jets @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-24-utah-hockey-club-vs-colorado-avalanche@open-sports-cal
+DTSTART:20251224T020000Z
+DTEND:20251224T050000Z
+SUMMARY:Utah Hockey Club @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-30-nashville-predators-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251230T020000Z
+DTEND:20251230T050000Z
+SUMMARY:Nashville Predators @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-01-utah-hockey-club-vs-new-york-islanders@open-sports-cal
+DTSTART:20260101T200000Z
+DTEND:20260101T230000Z
+SUMMARY:Utah Hockey Club @ New York Islanders
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-03-utah-hockey-club-vs-new-jersey-devils@open-sports-cal
+DTSTART:20260103T200000Z
+DTEND:20260103T230000Z
+SUMMARY:Utah Hockey Club @ New Jersey Devils
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-06-utah-hockey-club-vs-new-york-rangers@open-sports-cal
+DTSTART:20260106T000000Z
+DTEND:20260106T030000Z
+SUMMARY:Utah Hockey Club @ New York Rangers
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-08-ottawa-senators-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260108T023000Z
+DTEND:20260108T053000Z
+SUMMARY:Ottawa Senators @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nOttawa Senators @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-10-st-louis-blues-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260110T020000Z
+DTEND:20260110T050000Z
+SUMMARY:St. Louis Blues @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-12-columbus-blue-jackets-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260112T000000Z
+DTEND:20260112T030000Z
+SUMMARY:Columbus Blue Jackets @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-14-toronto-maple-leafs-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260114T030000Z
+DTEND:20260114T060000Z
+SUMMARY:Toronto Maple Leafs @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-16-dallas-stars-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260116T020000Z
+DTEND:20260116T050000Z
+SUMMARY:Dallas Stars @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-17-seattle-kraken-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260117T220000Z
+DTEND:20260118T010000Z
+SUMMARY:Seattle Kraken @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-22-philadelphia-flyers-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260122T020000Z
+DTEND:20260122T050000Z
+SUMMARY:Philadelphia Flyers @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-24-utah-hockey-club-vs-nashville-predators@open-sports-cal
+DTSTART:20260124T183000Z
+DTEND:20260124T213000Z
+SUMMARY:Utah Hockey Club @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-27-utah-hockey-club-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20260127T000000Z
+DTEND:20260127T030000Z
+SUMMARY:Utah Hockey Club @ Tampa Bay Lightning
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-28-utah-hockey-club-vs-florida-panthers@open-sports-cal
+DTSTART:20260128T000000Z
+DTEND:20260128T030000Z
+SUMMARY:Utah Hockey Club @ Florida Panthers
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-30-utah-hockey-club-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20260130T000000Z
+DTEND:20260130T030000Z
+SUMMARY:Utah Hockey Club @ Carolina Hurricanes
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-01-dallas-stars-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260201T020000Z
+DTEND:20260201T050000Z
+SUMMARY:Dallas Stars @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-03-vancouver-canucks-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260203T023000Z
+DTEND:20260203T053000Z
+SUMMARY:Vancouver Canucks @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-05-detroit-red-wings-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260205T020000Z
+DTEND:20260205T050000Z
+SUMMARY:Detroit Red Wings @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-26-colorado-avalanche-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260226T020000Z
+DTEND:20260226T050000Z
+SUMMARY:Colorado Avalanche @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-28-minnesota-wild-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260228T020000Z
+DTEND:20260228T050000Z
+SUMMARY:Minnesota Wild @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-01-chicago-blackhawks-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260301T210000Z
+DTEND:20260302T000000Z
+SUMMARY:Chicago Blackhawks @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-04-utah-hockey-club-vs-washington-capitals@open-sports-cal
+DTSTART:20260304T000000Z
+DTEND:20260304T030000Z
+SUMMARY:Utah Hockey Club @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-06-utah-hockey-club-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260306T000000Z
+DTEND:20260306T030000Z
+SUMMARY:Utah Hockey Club @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-08-utah-hockey-club-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20260308T000000Z
+DTEND:20260308T030000Z
+SUMMARY:Utah Hockey Club @ Columbus Blue Jackets
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-10-utah-hockey-club-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20260310T003000Z
+DTEND:20260310T033000Z
+SUMMARY:Utah Hockey Club @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-11-utah-hockey-club-vs-minnesota-wild@open-sports-cal
+DTSTART:20260311T000000Z
+DTEND:20260311T030000Z
+SUMMARY:Utah Hockey Club @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-13-chicago-blackhawks-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260313T010000Z
+DTEND:20260313T040000Z
+SUMMARY:Chicago Blackhawks @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-15-pittsburgh-penguins-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260315T010000Z
+DTEND:20260315T040000Z
+SUMMARY:Pittsburgh Penguins @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-17-utah-hockey-club-vs-dallas-stars@open-sports-cal
+DTSTART:20260317T000000Z
+DTEND:20260317T030000Z
+SUMMARY:Utah Hockey Club @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-20-utah-hockey-club-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20260320T020000Z
+DTEND:20260320T050000Z
+SUMMARY:Utah Hockey Club @ Vegas Golden Knights
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-21-anaheim-ducks-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260321T020000Z
+DTEND:20260321T050000Z
+SUMMARY:Anaheim Ducks @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-23-los-angeles-kings-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260323T010000Z
+DTEND:20260323T040000Z
+SUMMARY:Los Angeles Kings @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-25-edmonton-oilers-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260325T013000Z
+DTEND:20260325T043000Z
+SUMMARY:Edmonton Oilers @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-27-washington-capitals-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260327T010000Z
+DTEND:20260327T040000Z
+SUMMARY:Washington Capitals @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-29-utah-hockey-club-vs-los-angeles-kings@open-sports-cal
+DTSTART:20260329T010000Z
+DTEND:20260329T040000Z
+SUMMARY:Utah Hockey Club @ Los Angeles Kings
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-03-utah-hockey-club-vs-seattle-kraken@open-sports-cal
+DTSTART:20260403T020000Z
+DTEND:20260403T050000Z
+SUMMARY:Utah Hockey Club @ Seattle Kraken
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-04-utah-hockey-club-vs-vancouver-canucks@open-sports-cal
+DTSTART:20260404T230000Z
+DTEND:20260405T020000Z
+SUMMARY:Utah Hockey Club @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-08-edmonton-oilers-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260408T013000Z
+DTEND:20260408T043000Z
+SUMMARY:Edmonton Oilers @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-10-nashville-predators-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260410T010000Z
+DTEND:20260410T040000Z
+SUMMARY:Nashville Predators @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-11-carolina-hurricanes-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260411T210000Z
+DTEND:20260412T000000Z
+SUMMARY:Carolina Hurricanes @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-13-utah-hockey-club-vs-calgary-flames@open-sports-cal
+DTSTART:20260413T010000Z
+DTEND:20260413T040000Z
+SUMMARY:Utah Hockey Club @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-15-winnipeg-jets-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260415T010000Z
+DTEND:20260415T040000Z
+SUMMARY:Winnipeg Jets @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-17-st-louis-blues-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260417T000000Z
+DTEND:20260417T030000Z
+SUMMARY:St. Louis Blues @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,992 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2025-26 - Dallas Stars
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-10-dallas-stars-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251010T000000Z
+DTEND:20251010T030000Z
+SUMMARY:Dallas Stars @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-12-dallas-stars-vs-colorado-avalanche@open-sports-cal
+DTSTART:20251012T010000Z
+DTEND:20251012T040000Z
+SUMMARY:Dallas Stars @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-15-minnesota-wild-vs-dallas-stars@open-sports-cal
+DTSTART:20251015T013000Z
+DTEND:20251015T043000Z
+SUMMARY:Minnesota Wild @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-17-vancouver-canucks-vs-dallas-stars@open-sports-cal
+DTSTART:20251017T000000Z
+DTEND:20251017T030000Z
+SUMMARY:Vancouver Canucks @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-18-dallas-stars-vs-st-louis-blues@open-sports-cal
+DTSTART:20251018T230000Z
+DTEND:20251019T020000Z
+SUMMARY:Dallas Stars @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nDallas Stars @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-22-columbus-blue-jackets-vs-dallas-stars@open-sports-cal
+DTSTART:20251022T000000Z
+DTEND:20251022T030000Z
+SUMMARY:Columbus Blue Jackets @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-24-los-angeles-kings-vs-dallas-stars@open-sports-cal
+DTSTART:20251024T010000Z
+DTEND:20251024T040000Z
+SUMMARY:Los Angeles Kings @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-26-carolina-hurricanes-vs-dallas-stars@open-sports-cal
+DTSTART:20251026T000000Z
+DTEND:20251026T030000Z
+SUMMARY:Carolina Hurricanes @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-26-dallas-stars-vs-nashville-predators@open-sports-cal
+DTSTART:20251026T230000Z
+DTEND:20251027T020000Z
+SUMMARY:Dallas Stars @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-29-washington-capitals-vs-dallas-stars@open-sports-cal
+DTSTART:20251029T003000Z
+DTEND:20251029T033000Z
+SUMMARY:Washington Capitals @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-30-dallas-stars-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20251030T230000Z
+DTEND:20251031T020000Z
+SUMMARY:Dallas Stars @ Tampa Bay Lightning
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-01-dallas-stars-vs-florida-panthers@open-sports-cal
+DTSTART:20251101T220000Z
+DTEND:20251102T010000Z
+SUMMARY:Dallas Stars @ Florida Panthers
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-05-edmonton-oilers-vs-dallas-stars@open-sports-cal
+DTSTART:20251105T010000Z
+DTEND:20251105T040000Z
+SUMMARY:Edmonton Oilers @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-07-anaheim-ducks-vs-dallas-stars@open-sports-cal
+DTSTART:20251107T010000Z
+DTEND:20251107T040000Z
+SUMMARY:Anaheim Ducks @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-08-dallas-stars-vs-nashville-predators@open-sports-cal
+DTSTART:20251108T203000Z
+DTEND:20251108T233000Z
+SUMMARY:Dallas Stars @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-10-seattle-kraken-vs-dallas-stars@open-sports-cal
+DTSTART:20251110T000000Z
+DTEND:20251110T030000Z
+SUMMARY:Seattle Kraken @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-12-dallas-stars-vs-ottawa-senators@open-sports-cal
+DTSTART:20251112T000000Z
+DTEND:20251112T030000Z
+SUMMARY:Dallas Stars @ Ottawa Senators
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-14-dallas-stars-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251114T000000Z
+DTEND:20251114T030000Z
+SUMMARY:Dallas Stars @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-16-philadelphia-flyers-vs-dallas-stars@open-sports-cal
+DTSTART:20251116T010000Z
+DTEND:20251116T040000Z
+SUMMARY:Philadelphia Flyers @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-19-new-york-islanders-vs-dallas-stars@open-sports-cal
+DTSTART:20251119T010000Z
+DTEND:20251119T040000Z
+SUMMARY:New York Islanders @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-21-dallas-stars-vs-vancouver-canucks@open-sports-cal
+DTSTART:20251121T030000Z
+DTEND:20251121T060000Z
+SUMMARY:Dallas Stars @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-23-dallas-stars-vs-calgary-flames@open-sports-cal
+DTSTART:20251123T030000Z
+DTEND:20251123T060000Z
+SUMMARY:Dallas Stars @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-26-dallas-stars-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251126T020000Z
+DTEND:20251126T050000Z
+SUMMARY:Dallas Stars @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-27-dallas-stars-vs-seattle-kraken@open-sports-cal
+DTSTART:20251127T030000Z
+DTEND:20251127T060000Z
+SUMMARY:Dallas Stars @ Seattle Kraken
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-29-utah-hockey-club-vs-dallas-stars@open-sports-cal
+DTSTART:20251129T010000Z
+DTEND:20251129T040000Z
+SUMMARY:Utah Hockey Club @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-30-ottawa-senators-vs-dallas-stars@open-sports-cal
+DTSTART:20251130T230000Z
+DTEND:20251201T020000Z
+SUMMARY:Ottawa Senators @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nOttawa Senators @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-03-dallas-stars-vs-new-york-rangers@open-sports-cal
+DTSTART:20251203T000000Z
+DTEND:20251203T030000Z
+SUMMARY:Dallas Stars @ New York Rangers
+DESCRIPTION:NHL 2025-26\nDallas Stars @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-04-dallas-stars-vs-new-jersey-devils@open-sports-cal
+DTSTART:20251204T000000Z
+DTEND:20251204T030000Z
+SUMMARY:Dallas Stars @ New Jersey Devils
+DESCRIPTION:NHL 2025-26\nDallas Stars @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-06-san-jose-sharks-vs-dallas-stars@open-sports-cal
+DTSTART:20251206T010000Z
+DTEND:20251206T040000Z
+SUMMARY:San Jose Sharks @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-07-pittsburgh-penguins-vs-dallas-stars@open-sports-cal
+DTSTART:20251207T230000Z
+DTEND:20251208T020000Z
+SUMMARY:Pittsburgh Penguins @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-10-dallas-stars-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251210T010000Z
+DTEND:20251210T040000Z
+SUMMARY:Dallas Stars @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-12-dallas-stars-vs-minnesota-wild@open-sports-cal
+DTSTART:20251212T010000Z
+DTEND:20251212T040000Z
+SUMMARY:Dallas Stars @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-14-florida-panthers-vs-dallas-stars@open-sports-cal
+DTSTART:20251214T010000Z
+DTEND:20251214T040000Z
+SUMMARY:Florida Panthers @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-16-los-angeles-kings-vs-dallas-stars@open-sports-cal
+DTSTART:20251216T010000Z
+DTEND:20251216T040000Z
+SUMMARY:Los Angeles Kings @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-19-dallas-stars-vs-san-jose-sharks@open-sports-cal
+DTSTART:20251219T030000Z
+DTEND:20251219T060000Z
+SUMMARY:Dallas Stars @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nDallas Stars @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-20-dallas-stars-vs-anaheim-ducks@open-sports-cal
+DTSTART:20251220T030000Z
+DTEND:20251220T060000Z
+SUMMARY:Dallas Stars @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-22-toronto-maple-leafs-vs-dallas-stars@open-sports-cal
+DTSTART:20251222T000000Z
+DTEND:20251222T030000Z
+SUMMARY:Toronto Maple Leafs @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-23-dallas-stars-vs-detroit-red-wings@open-sports-cal
+DTSTART:20251223T233000Z
+DTEND:20251224T023000Z
+SUMMARY:Dallas Stars @ Detroit Red Wings
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-28-chicago-blackhawks-vs-dallas-stars@open-sports-cal
+DTSTART:20251228T010000Z
+DTEND:20251228T040000Z
+SUMMARY:Chicago Blackhawks @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-01-buffalo-sabres-vs-dallas-stars@open-sports-cal
+DTSTART:20260101T010000Z
+DTEND:20260101T040000Z
+SUMMARY:Buffalo Sabres @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-02-dallas-stars-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20260102T013000Z
+DTEND:20260102T043000Z
+SUMMARY:Dallas Stars @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-04-montreal-canadiens-vs-dallas-stars@open-sports-cal
+DTSTART:20260104T190000Z
+DTEND:20260104T220000Z
+SUMMARY:Montréal Canadiens @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-07-dallas-stars-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20260107T000000Z
+DTEND:20260107T030000Z
+SUMMARY:Dallas Stars @ Carolina Hurricanes
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-08-dallas-stars-vs-washington-capitals@open-sports-cal
+DTSTART:20260108T000000Z
+DTEND:20260108T030000Z
+SUMMARY:Dallas Stars @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-10-dallas-stars-vs-san-jose-sharks@open-sports-cal
+DTSTART:20260110T210000Z
+DTEND:20260111T000000Z
+SUMMARY:Dallas Stars @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nDallas Stars @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-13-dallas-stars-vs-los-angeles-kings@open-sports-cal
+DTSTART:20260113T030000Z
+DTEND:20260113T060000Z
+SUMMARY:Dallas Stars @ Los Angeles Kings
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-14-dallas-stars-vs-anaheim-ducks@open-sports-cal
+DTSTART:20260114T030000Z
+DTEND:20260114T060000Z
+SUMMARY:Dallas Stars @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-16-dallas-stars-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260116T020000Z
+DTEND:20260116T050000Z
+SUMMARY:Dallas Stars @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-18-tampa-bay-lightning-vs-dallas-stars@open-sports-cal
+DTSTART:20260118T190000Z
+DTEND:20260118T220000Z
+SUMMARY:Tampa Bay Lightning @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-21-boston-bruins-vs-dallas-stars@open-sports-cal
+DTSTART:20260121T003000Z
+DTEND:20260121T033000Z
+SUMMARY:Boston Bruins @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nBoston Bruins @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-23-dallas-stars-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20260123T000000Z
+DTEND:20260123T030000Z
+SUMMARY:Dallas Stars @ Columbus Blue Jackets
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-24-st-louis-blues-vs-dallas-stars@open-sports-cal
+DTSTART:20260124T010000Z
+DTEND:20260124T040000Z
+SUMMARY:St. Louis Blues @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-28-dallas-stars-vs-st-louis-blues@open-sports-cal
+DTSTART:20260128T010000Z
+DTEND:20260128T040000Z
+SUMMARY:Dallas Stars @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nDallas Stars @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-30-dallas-stars-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20260130T030000Z
+DTEND:20260130T060000Z
+SUMMARY:Dallas Stars @ Vegas Golden Knights
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-01-dallas-stars-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260201T020000Z
+DTEND:20260201T050000Z
+SUMMARY:Dallas Stars @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-03-winnipeg-jets-vs-dallas-stars@open-sports-cal
+DTSTART:20260203T013000Z
+DTEND:20260203T043000Z
+SUMMARY:Winnipeg Jets @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-05-st-louis-blues-vs-dallas-stars@open-sports-cal
+DTSTART:20260205T023000Z
+DTEND:20260205T053000Z
+SUMMARY:St. Louis Blues @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-26-seattle-kraken-vs-dallas-stars@open-sports-cal
+DTSTART:20260226T010000Z
+DTEND:20260226T040000Z
+SUMMARY:Seattle Kraken @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-01-nashville-predators-vs-dallas-stars@open-sports-cal
+DTSTART:20260301T010000Z
+DTEND:20260301T040000Z
+SUMMARY:Nashville Predators @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-03-dallas-stars-vs-vancouver-canucks@open-sports-cal
+DTSTART:20260303T030000Z
+DTEND:20260303T060000Z
+SUMMARY:Dallas Stars @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-04-dallas-stars-vs-calgary-flames@open-sports-cal
+DTSTART:20260304T020000Z
+DTEND:20260304T050000Z
+SUMMARY:Dallas Stars @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-07-colorado-avalanche-vs-dallas-stars@open-sports-cal
+DTSTART:20260307T010000Z
+DTEND:20260307T040000Z
+SUMMARY:Colorado Avalanche @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-08-chicago-blackhawks-vs-dallas-stars@open-sports-cal
+DTSTART:20260308T220000Z
+DTEND:20260309T010000Z
+SUMMARY:Chicago Blackhawks @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-11-vegas-golden-knights-vs-dallas-stars@open-sports-cal
+DTSTART:20260311T000000Z
+DTEND:20260311T030000Z
+SUMMARY:Vegas Golden Knights @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-13-edmonton-oilers-vs-dallas-stars@open-sports-cal
+DTSTART:20260313T000000Z
+DTEND:20260313T030000Z
+SUMMARY:Edmonton Oilers @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-15-detroit-red-wings-vs-dallas-stars@open-sports-cal
+DTSTART:20260315T000000Z
+DTEND:20260315T030000Z
+SUMMARY:Detroit Red Wings @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-17-utah-hockey-club-vs-dallas-stars@open-sports-cal
+DTSTART:20260317T000000Z
+DTEND:20260317T030000Z
+SUMMARY:Utah Hockey Club @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-19-dallas-stars-vs-colorado-avalanche@open-sports-cal
+DTSTART:20260319T013000Z
+DTEND:20260319T043000Z
+SUMMARY:Dallas Stars @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-21-dallas-stars-vs-minnesota-wild@open-sports-cal
+DTSTART:20260321T200000Z
+DTEND:20260321T230000Z
+SUMMARY:Dallas Stars @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-22-vegas-golden-knights-vs-dallas-stars@open-sports-cal
+DTSTART:20260322T230000Z
+DTEND:20260323T020000Z
+SUMMARY:Vegas Golden Knights @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-25-new-jersey-devils-vs-dallas-stars@open-sports-cal
+DTSTART:20260325T000000Z
+DTEND:20260325T030000Z
+SUMMARY:New Jersey Devils @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-26-dallas-stars-vs-new-york-islanders@open-sports-cal
+DTSTART:20260326T230000Z
+DTEND:20260327T020000Z
+SUMMARY:Dallas Stars @ New York Islanders
+DESCRIPTION:NHL 2025-26\nDallas Stars @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-28-dallas-stars-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20260328T210000Z
+DTEND:20260329T000000Z
+SUMMARY:Dallas Stars @ Pittsburgh Penguins
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-29-dallas-stars-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260329T230000Z
+DTEND:20260330T020000Z
+SUMMARY:Dallas Stars @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-31-dallas-stars-vs-boston-bruins@open-sports-cal
+DTSTART:20260331T230000Z
+DTEND:20260401T020000Z
+SUMMARY:Dallas Stars @ Boston Bruins
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-03-winnipeg-jets-vs-dallas-stars@open-sports-cal
+DTSTART:20260403T000000Z
+DTEND:20260403T030000Z
+SUMMARY:Winnipeg Jets @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-04-colorado-avalanche-vs-dallas-stars@open-sports-cal
+DTSTART:20260404T190000Z
+DTEND:20260404T220000Z
+SUMMARY:Colorado Avalanche @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-08-calgary-flames-vs-dallas-stars@open-sports-cal
+DTSTART:20260408T000000Z
+DTEND:20260408T030000Z
+SUMMARY:Calgary Flames @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nCalgary Flames @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-10-minnesota-wild-vs-dallas-stars@open-sports-cal
+DTSTART:20260410T010000Z
+DTEND:20260410T040000Z
+SUMMARY:Minnesota Wild @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-11-new-york-rangers-vs-dallas-stars@open-sports-cal
+DTSTART:20260411T210000Z
+DTEND:20260412T000000Z
+SUMMARY:New York Rangers @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nNew York Rangers @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-13-dallas-stars-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20260413T233000Z
+DTEND:20260414T023000Z
+SUMMARY:Dallas Stars @ Toronto Maple Leafs
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-15-dallas-stars-vs-buffalo-sabres@open-sports-cal
+DTSTART:20260415T230000Z
+DTEND:20260416T020000Z
+SUMMARY:Dallas Stars @ Buffalo Sabres
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

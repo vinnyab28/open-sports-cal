@@ -24,6 +24,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `football/premier-league/`, `football/la-liga/`, `football/bundesliga/`, `football/serie-a/`, `football/ligue-1/`
 - `basketball/nba/`
 - `baseball/mlb/`
+- `hockey/nhl/`
 - `tennis/grand-slams/`
 - `motorsport/formula-1/`, `motorsport/motogp/`
 - NFL is pending — schedule expected May 13, 2026; will go in `american-football/nfl/`
@@ -249,7 +250,7 @@ Format: `<identifier>@open-sports-cal`
 
 Identifier patterns by sport:
 - IPL: `ipl<year>-match<NN>` → `ipl2026-match01@open-sports-cal`
-- MLB/NBA: `<league>-<season>-<date>-<away-slug>-vs-<home-slug>` → `mlb-2026-2026-03-25-yankees-vs-giants@open-sports-cal`
+- MLB/NBA/NHL: `<league>-<season>-<date>-<away-slug>-vs-<home-slug>` → `nhl-2025-26-2025-10-08-bruins-vs-capitals@open-sports-cal`
 - F1: `f1-<year>-r<NN>-race` or `f1-<year>-r<NN>-sprint` → `f1-2026-r01-race@open-sports-cal`
 - MotoGP: `motogp-<year>-r<NN>` → `motogp-2026-r01@open-sports-cal`
 - Soccer: `<league-code>-<index>` → `epl-2025-0@open-sports-cal`
@@ -264,6 +265,7 @@ UIDs must be unique within each `.ics` file.
 | Football/Soccer | `Away @ Home` | `Arsenal @ Liverpool` |
 | Basketball | `Away @ Home` | `Boston Celtics @ New York Knicks` |
 | Baseball | `Away @ Home` | `New York Yankees @ San Francisco Giants` |
+| Hockey | `Away @ Home` | `Toronto Maple Leafs @ Boston Bruins` |
 | F1 race | `<Grand Prix Name>` | `Australian Grand Prix` |
 | F1 sprint | `<Grand Prix Name> — Sprint` | `Chinese Grand Prix — Sprint` |
 | F1 race (sprint weekend) | `<Grand Prix Name> (Sprint Weekend)` | `Chinese Grand Prix (Sprint Weekend)` |
@@ -289,6 +291,7 @@ Comma-separated, no spaces after commas:
 - Football: `Football,Premier League,Premier League 2025-26`
 - Basketball: `Basketball,NBA,NBA 2025-26`
 - Baseball: `Baseball,MLB,MLB 2026`
+- Hockey: `Hockey,NHL,NHL 2025-26`
 - F1: `Motorsport,Formula 1,F1 2026`
 - MotoGP: `Motorsport,MotoGP,MotoGP 2026`
 - Tennis: `Tennis,Grand Slam,<Tournament Name>`
@@ -322,6 +325,7 @@ X-TIMEZONE:Australia/Melbourne    # Albert Park, F1
 | Football / Soccer | 2 hours | 90 min + buffer |
 | Basketball (NBA) | 3 hours | Game + overtime buffer |
 | Baseball (MLB) | 3 hours | Average game length |
+| Hockey (NHL) | 3 hours | Game + overtime buffer |
 | F1 race | 2 hours | Typical race duration |
 | F1 sprint | 1 hour | Sprint race length |
 | MotoGP race | 90 minutes | Typical race duration |
@@ -366,6 +370,7 @@ Examples:
 | IPL | BCCI official PDF (`documents.iplt20.com`) | Download PDF → `pdftotext` → hardcode parsed data |
 | MLB | `statsapi.mlb.com` | Live API, fetch month-by-month |
 | NBA | `fixturedownload.com/feed/json/nba-2025` | Live JSON feed |
+| NHL | `api-web.nhle.com/v1/schedule/{date}` | Live API, fetch week-by-week |
 | Premier League | `fixturedownload.com/feed/json/epl-2025` | Live JSON feed |
 | La Liga | `fixturedownload.com/feed/json/la-liga-2025` | Live JSON feed |
 | Bundesliga | `fixturedownload.com/feed/json/bundesliga-2025` | Live JSON feed |

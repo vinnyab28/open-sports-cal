@@ -1,0 +1,992 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2025-26 - Edmonton Oilers
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-09-calgary-flames-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251009T020000Z
+DTEND:20251009T050000Z
+SUMMARY:Calgary Flames @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nCalgary Flames @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-12-vancouver-canucks-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251012T020000Z
+DTEND:20251012T050000Z
+SUMMARY:Vancouver Canucks @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-14-edmonton-oilers-vs-new-york-rangers@open-sports-cal
+DTSTART:20251014T230000Z
+DTEND:20251015T020000Z
+SUMMARY:Edmonton Oilers @ New York Rangers
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-16-edmonton-oilers-vs-new-york-islanders@open-sports-cal
+DTSTART:20251016T233000Z
+DTEND:20251017T023000Z
+SUMMARY:Edmonton Oilers @ New York Islanders
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-18-edmonton-oilers-vs-new-jersey-devils@open-sports-cal
+DTSTART:20251018T193000Z
+DTEND:20251018T223000Z
+SUMMARY:Edmonton Oilers @ New Jersey Devils
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-19-edmonton-oilers-vs-detroit-red-wings@open-sports-cal
+DTSTART:20251019T190000Z
+DTEND:20251019T220000Z
+SUMMARY:Edmonton Oilers @ Detroit Red Wings
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-21-edmonton-oilers-vs-ottawa-senators@open-sports-cal
+DTSTART:20251021T230000Z
+DTEND:20251022T020000Z
+SUMMARY:Edmonton Oilers @ Ottawa Senators
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-24-montreal-canadiens-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251024T010000Z
+DTEND:20251024T040000Z
+SUMMARY:Montréal Canadiens @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-26-edmonton-oilers-vs-seattle-kraken@open-sports-cal
+DTSTART:20251026T020000Z
+DTEND:20251026T050000Z
+SUMMARY:Edmonton Oilers @ Seattle Kraken
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-27-edmonton-oilers-vs-vancouver-canucks@open-sports-cal
+DTSTART:20251027T020000Z
+DTEND:20251027T050000Z
+SUMMARY:Edmonton Oilers @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-29-utah-hockey-club-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251029T013000Z
+DTEND:20251029T043000Z
+SUMMARY:Utah Hockey Club @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-31-new-york-rangers-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251031T010000Z
+DTEND:20251031T040000Z
+SUMMARY:New York Rangers @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nNew York Rangers @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-02-chicago-blackhawks-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251102T020000Z
+DTEND:20251102T050000Z
+SUMMARY:Chicago Blackhawks @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-04-edmonton-oilers-vs-st-louis-blues@open-sports-cal
+DTSTART:20251104T013000Z
+DTEND:20251104T043000Z
+SUMMARY:Edmonton Oilers @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-05-edmonton-oilers-vs-dallas-stars@open-sports-cal
+DTSTART:20251105T010000Z
+DTEND:20251105T040000Z
+SUMMARY:Edmonton Oilers @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-09-colorado-avalanche-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251109T030000Z
+DTEND:20251109T060000Z
+SUMMARY:Colorado Avalanche @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-11-columbus-blue-jackets-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251111T013000Z
+DTEND:20251111T043000Z
+SUMMARY:Columbus Blue Jackets @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-13-edmonton-oilers-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251113T003000Z
+DTEND:20251113T033000Z
+SUMMARY:Edmonton Oilers @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-14-edmonton-oilers-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20251114T003000Z
+DTEND:20251114T033000Z
+SUMMARY:Edmonton Oilers @ Columbus Blue Jackets
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-16-edmonton-oilers-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20251116T000000Z
+DTEND:20251116T030000Z
+SUMMARY:Edmonton Oilers @ Carolina Hurricanes
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-18-edmonton-oilers-vs-buffalo-sabres@open-sports-cal
+DTSTART:20251118T000000Z
+DTEND:20251118T030000Z
+SUMMARY:Edmonton Oilers @ Buffalo Sabres
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-20-edmonton-oilers-vs-washington-capitals@open-sports-cal
+DTSTART:20251120T000000Z
+DTEND:20251120T030000Z
+SUMMARY:Edmonton Oilers @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-21-edmonton-oilers-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20251121T003000Z
+DTEND:20251121T033000Z
+SUMMARY:Edmonton Oilers @ Tampa Bay Lightning
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-23-edmonton-oilers-vs-florida-panthers@open-sports-cal
+DTSTART:20251123T000000Z
+DTEND:20251123T030000Z
+SUMMARY:Edmonton Oilers @ Florida Panthers
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-26-dallas-stars-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251126T020000Z
+DTEND:20251126T050000Z
+SUMMARY:Dallas Stars @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-29-edmonton-oilers-vs-seattle-kraken@open-sports-cal
+DTSTART:20251129T210000Z
+DTEND:20251130T000000Z
+SUMMARY:Edmonton Oilers @ Seattle Kraken
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-03-minnesota-wild-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251203T020000Z
+DTEND:20251203T050000Z
+SUMMARY:Minnesota Wild @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-05-seattle-kraken-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251205T020000Z
+DTEND:20251205T050000Z
+SUMMARY:Seattle Kraken @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-07-winnipeg-jets-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251207T030000Z
+DTEND:20251207T060000Z
+SUMMARY:Winnipeg Jets @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-10-buffalo-sabres-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251210T020000Z
+DTEND:20251210T050000Z
+SUMMARY:Buffalo Sabres @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-12-detroit-red-wings-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251212T020000Z
+DTEND:20251212T050000Z
+SUMMARY:Detroit Red Wings @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-14-edmonton-oilers-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20251214T000000Z
+DTEND:20251214T030000Z
+SUMMARY:Edmonton Oilers @ Toronto Maple Leafs
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-15-edmonton-oilers-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251215T000000Z
+DTEND:20251215T030000Z
+SUMMARY:Edmonton Oilers @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-17-edmonton-oilers-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20251217T003000Z
+DTEND:20251217T033000Z
+SUMMARY:Edmonton Oilers @ Pittsburgh Penguins
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-19-edmonton-oilers-vs-boston-bruins@open-sports-cal
+DTSTART:20251219T000000Z
+DTEND:20251219T030000Z
+SUMMARY:Edmonton Oilers @ Boston Bruins
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-20-edmonton-oilers-vs-minnesota-wild@open-sports-cal
+DTSTART:20251220T200000Z
+DTEND:20251220T230000Z
+SUMMARY:Edmonton Oilers @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-22-vegas-golden-knights-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251222T010000Z
+DTEND:20251222T040000Z
+SUMMARY:Vegas Golden Knights @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-24-calgary-flames-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251224T020000Z
+DTEND:20251224T050000Z
+SUMMARY:Calgary Flames @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nCalgary Flames @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-28-edmonton-oilers-vs-calgary-flames@open-sports-cal
+DTSTART:20251228T030000Z
+DTEND:20251228T060000Z
+SUMMARY:Edmonton Oilers @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-30-edmonton-oilers-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251230T003000Z
+DTEND:20251230T033000Z
+SUMMARY:Edmonton Oilers @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-01-boston-bruins-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260101T023000Z
+DTEND:20260101T053000Z
+SUMMARY:Boston Bruins @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nBoston Bruins @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-03-philadelphia-flyers-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260103T203000Z
+DTEND:20260103T233000Z
+SUMMARY:Philadelphia Flyers @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-07-nashville-predators-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260107T020000Z
+DTEND:20260107T050000Z
+SUMMARY:Nashville Predators @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-09-edmonton-oilers-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260109T010000Z
+DTEND:20260109T040000Z
+SUMMARY:Edmonton Oilers @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-11-los-angeles-kings-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260111T030000Z
+DTEND:20260111T060000Z
+SUMMARY:Los Angeles Kings @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-13-edmonton-oilers-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20260113T013000Z
+DTEND:20260113T043000Z
+SUMMARY:Edmonton Oilers @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-14-edmonton-oilers-vs-nashville-predators@open-sports-cal
+DTSTART:20260114T010000Z
+DTEND:20260114T040000Z
+SUMMARY:Edmonton Oilers @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-16-new-york-islanders-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260116T020000Z
+DTEND:20260116T050000Z
+SUMMARY:New York Islanders @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-18-edmonton-oilers-vs-vancouver-canucks@open-sports-cal
+DTSTART:20260118T030000Z
+DTEND:20260118T060000Z
+SUMMARY:Edmonton Oilers @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-19-st-louis-blues-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260119T010000Z
+DTEND:20260119T040000Z
+SUMMARY:St. Louis Blues @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-21-new-jersey-devils-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260121T030000Z
+DTEND:20260121T060000Z
+SUMMARY:New Jersey Devils @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-23-pittsburgh-penguins-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260123T020000Z
+DTEND:20260123T050000Z
+SUMMARY:Pittsburgh Penguins @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-25-washington-capitals-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260125T030000Z
+DTEND:20260125T060000Z
+SUMMARY:Washington Capitals @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-27-anaheim-ducks-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260127T013000Z
+DTEND:20260127T043000Z
+SUMMARY:Anaheim Ducks @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-30-san-jose-sharks-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260130T020000Z
+DTEND:20260130T050000Z
+SUMMARY:San Jose Sharks @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-01-minnesota-wild-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260201T030000Z
+DTEND:20260201T060000Z
+SUMMARY:Minnesota Wild @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-04-toronto-maple-leafs-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260204T013000Z
+DTEND:20260204T043000Z
+SUMMARY:Toronto Maple Leafs @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-05-edmonton-oilers-vs-calgary-flames@open-sports-cal
+DTSTART:20260205T030000Z
+DTEND:20260205T060000Z
+SUMMARY:Edmonton Oilers @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-26-edmonton-oilers-vs-anaheim-ducks@open-sports-cal
+DTSTART:20260226T033000Z
+DTEND:20260226T063000Z
+SUMMARY:Edmonton Oilers @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-27-edmonton-oilers-vs-los-angeles-kings@open-sports-cal
+DTSTART:20260227T033000Z
+DTEND:20260227T063000Z
+SUMMARY:Edmonton Oilers @ Los Angeles Kings
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-28-edmonton-oilers-vs-san-jose-sharks@open-sports-cal
+DTSTART:20260228T210000Z
+DTEND:20260301T000000Z
+SUMMARY:Edmonton Oilers @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-04-ottawa-senators-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260304T020000Z
+DTEND:20260304T050000Z
+SUMMARY:Ottawa Senators @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nOttawa Senators @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-07-carolina-hurricanes-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260307T020000Z
+DTEND:20260307T050000Z
+SUMMARY:Carolina Hurricanes @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-09-edmonton-oilers-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20260309T013000Z
+DTEND:20260309T043000Z
+SUMMARY:Edmonton Oilers @ Vegas Golden Knights
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-11-edmonton-oilers-vs-colorado-avalanche@open-sports-cal
+DTSTART:20260311T020000Z
+DTEND:20260311T050000Z
+SUMMARY:Edmonton Oilers @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-13-edmonton-oilers-vs-dallas-stars@open-sports-cal
+DTSTART:20260313T000000Z
+DTEND:20260313T030000Z
+SUMMARY:Edmonton Oilers @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-14-edmonton-oilers-vs-st-louis-blues@open-sports-cal
+DTSTART:20260314T000000Z
+DTEND:20260314T030000Z
+SUMMARY:Edmonton Oilers @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-16-nashville-predators-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260316T000000Z
+DTEND:20260316T030000Z
+SUMMARY:Nashville Predators @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-18-san-jose-sharks-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260318T010000Z
+DTEND:20260318T040000Z
+SUMMARY:San Jose Sharks @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-20-florida-panthers-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260320T010000Z
+DTEND:20260320T040000Z
+SUMMARY:Florida Panthers @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-22-tampa-bay-lightning-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260322T020000Z
+DTEND:20260322T050000Z
+SUMMARY:Tampa Bay Lightning @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-25-edmonton-oilers-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260325T013000Z
+DTEND:20260325T043000Z
+SUMMARY:Edmonton Oilers @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-27-edmonton-oilers-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20260327T013000Z
+DTEND:20260327T043000Z
+SUMMARY:Edmonton Oilers @ Vegas Golden Knights
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-28-anaheim-ducks-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260328T193000Z
+DTEND:20260328T223000Z
+SUMMARY:Anaheim Ducks @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-01-seattle-kraken-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260401T010000Z
+DTEND:20260401T040000Z
+SUMMARY:Seattle Kraken @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-03-chicago-blackhawks-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260403T010000Z
+DTEND:20260403T040000Z
+SUMMARY:Chicago Blackhawks @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-05-vegas-golden-knights-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260405T020000Z
+DTEND:20260405T050000Z
+SUMMARY:Vegas Golden Knights @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-08-edmonton-oilers-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260408T013000Z
+DTEND:20260408T043000Z
+SUMMARY:Edmonton Oilers @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-09-edmonton-oilers-vs-san-jose-sharks@open-sports-cal
+DTSTART:20260409T020000Z
+DTEND:20260409T050000Z
+SUMMARY:Edmonton Oilers @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-11-edmonton-oilers-vs-los-angeles-kings@open-sports-cal
+DTSTART:20260411T200000Z
+DTEND:20260411T230000Z
+SUMMARY:Edmonton Oilers @ Los Angeles Kings
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-14-colorado-avalanche-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260414T013000Z
+DTEND:20260414T043000Z
+SUMMARY:Colorado Avalanche @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-17-vancouver-canucks-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260417T010000Z
+DTEND:20260417T040000Z
+SUMMARY:Vancouver Canucks @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+END:VCALENDAR

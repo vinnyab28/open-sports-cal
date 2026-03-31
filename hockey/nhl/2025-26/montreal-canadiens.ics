@@ -1,0 +1,992 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2025-26 - Montréal Canadiens
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-08-montreal-canadiens-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20251008T230000Z
+DTEND:20251009T020000Z
+SUMMARY:Montréal Canadiens @ Toronto Maple Leafs
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-09-montreal-canadiens-vs-detroit-red-wings@open-sports-cal
+DTSTART:20251009T230000Z
+DTEND:20251010T020000Z
+SUMMARY:Montréal Canadiens @ Detroit Red Wings
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-11-montreal-canadiens-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20251011T230000Z
+DTEND:20251012T020000Z
+SUMMARY:Montréal Canadiens @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-14-seattle-kraken-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251014T230000Z
+DTEND:20251015T020000Z
+SUMMARY:Seattle Kraken @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-16-nashville-predators-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251016T230000Z
+DTEND:20251017T020000Z
+SUMMARY:Nashville Predators @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-18-new-york-rangers-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251018T230000Z
+DTEND:20251019T020000Z
+SUMMARY:New York Rangers @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nNew York Rangers @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-20-buffalo-sabres-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251020T233000Z
+DTEND:20251021T023000Z
+SUMMARY:Buffalo Sabres @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-23-montreal-canadiens-vs-calgary-flames@open-sports-cal
+DTSTART:20251023T003000Z
+DTEND:20251023T033000Z
+SUMMARY:Montréal Canadiens @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-24-montreal-canadiens-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251024T010000Z
+DTEND:20251024T040000Z
+SUMMARY:Montréal Canadiens @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-25-montreal-canadiens-vs-vancouver-canucks@open-sports-cal
+DTSTART:20251025T230000Z
+DTEND:20251026T020000Z
+SUMMARY:Montréal Canadiens @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-29-montreal-canadiens-vs-seattle-kraken@open-sports-cal
+DTSTART:20251029T023000Z
+DTEND:20251029T053000Z
+SUMMARY:Montréal Canadiens @ Seattle Kraken
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-01-ottawa-senators-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251101T230000Z
+DTEND:20251102T020000Z
+SUMMARY:Ottawa Senators @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nOttawa Senators @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-05-philadelphia-flyers-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251105T000000Z
+DTEND:20251105T030000Z
+SUMMARY:Philadelphia Flyers @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-07-montreal-canadiens-vs-new-jersey-devils@open-sports-cal
+DTSTART:20251107T000000Z
+DTEND:20251107T030000Z
+SUMMARY:Montréal Canadiens @ New Jersey Devils
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-09-utah-hockey-club-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251109T000000Z
+DTEND:20251109T030000Z
+SUMMARY:Utah Hockey Club @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-12-los-angeles-kings-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251112T000000Z
+DTEND:20251112T030000Z
+SUMMARY:Los Angeles Kings @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-14-dallas-stars-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251114T000000Z
+DTEND:20251114T030000Z
+SUMMARY:Dallas Stars @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-16-boston-bruins-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251116T000000Z
+DTEND:20251116T030000Z
+SUMMARY:Boston Bruins @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nBoston Bruins @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-18-montreal-canadiens-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20251118T003000Z
+DTEND:20251118T033000Z
+SUMMARY:Montréal Canadiens @ Columbus Blue Jackets
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-21-washington-capitals-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251121T000000Z
+DTEND:20251121T030000Z
+SUMMARY:Washington Capitals @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-23-toronto-maple-leafs-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251123T000000Z
+DTEND:20251123T030000Z
+SUMMARY:Toronto Maple Leafs @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-27-montreal-canadiens-vs-utah-hockey-club@open-sports-cal
+DTSTART:20251127T023000Z
+DTEND:20251127T053000Z
+SUMMARY:Montréal Canadiens @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-28-montreal-canadiens-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20251128T210000Z
+DTEND:20251129T000000Z
+SUMMARY:Montréal Canadiens @ Vegas Golden Knights
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-29-montreal-canadiens-vs-colorado-avalanche@open-sports-cal
+DTSTART:20251129T200000Z
+DTEND:20251129T230000Z
+SUMMARY:Montréal Canadiens @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-03-ottawa-senators-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251203T000000Z
+DTEND:20251203T030000Z
+SUMMARY:Ottawa Senators @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nOttawa Senators @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-04-winnipeg-jets-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251204T003000Z
+DTEND:20251204T033000Z
+SUMMARY:Winnipeg Jets @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-07-montreal-canadiens-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20251207T000000Z
+DTEND:20251207T030000Z
+SUMMARY:Montréal Canadiens @ Toronto Maple Leafs
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-08-st-louis-blues-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251208T000000Z
+DTEND:20251208T030000Z
+SUMMARY:St. Louis Blues @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-10-tampa-bay-lightning-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251210T000000Z
+DTEND:20251210T030000Z
+SUMMARY:Tampa Bay Lightning @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-12-montreal-canadiens-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20251212T000000Z
+DTEND:20251212T030000Z
+SUMMARY:Montréal Canadiens @ Pittsburgh Penguins
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-14-montreal-canadiens-vs-new-york-rangers@open-sports-cal
+DTSTART:20251214T000000Z
+DTEND:20251214T030000Z
+SUMMARY:Montréal Canadiens @ New York Rangers
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-15-edmonton-oilers-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251215T000000Z
+DTEND:20251215T030000Z
+SUMMARY:Edmonton Oilers @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-17-philadelphia-flyers-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251217T000000Z
+DTEND:20251217T030000Z
+SUMMARY:Philadelphia Flyers @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-19-chicago-blackhawks-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251219T000000Z
+DTEND:20251219T030000Z
+SUMMARY:Chicago Blackhawks @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-21-pittsburgh-penguins-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251221T000000Z
+DTEND:20251221T030000Z
+SUMMARY:Pittsburgh Penguins @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-22-montreal-canadiens-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20251222T000000Z
+DTEND:20251222T030000Z
+SUMMARY:Montréal Canadiens @ Pittsburgh Penguins
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-24-montreal-canadiens-vs-boston-bruins@open-sports-cal
+DTSTART:20251224T000000Z
+DTEND:20251224T030000Z
+SUMMARY:Montréal Canadiens @ Boston Bruins
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-28-montreal-canadiens-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20251228T220000Z
+DTEND:20251229T010000Z
+SUMMARY:Montréal Canadiens @ Tampa Bay Lightning
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-31-montreal-canadiens-vs-florida-panthers@open-sports-cal
+DTSTART:20251231T000000Z
+DTEND:20251231T030000Z
+SUMMARY:Montréal Canadiens @ Florida Panthers
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-02-montreal-canadiens-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20260102T000000Z
+DTEND:20260102T030000Z
+SUMMARY:Montréal Canadiens @ Carolina Hurricanes
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-03-montreal-canadiens-vs-st-louis-blues@open-sports-cal
+DTSTART:20260103T210000Z
+DTEND:20260104T000000Z
+SUMMARY:Montréal Canadiens @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-04-montreal-canadiens-vs-dallas-stars@open-sports-cal
+DTSTART:20260104T190000Z
+DTEND:20260104T220000Z
+SUMMARY:Montréal Canadiens @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-08-calgary-flames-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260108T003000Z
+DTEND:20260108T033000Z
+SUMMARY:Calgary Flames @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nCalgary Flames @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-09-florida-panthers-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260109T000000Z
+DTEND:20260109T030000Z
+SUMMARY:Florida Panthers @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-11-detroit-red-wings-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260111T000000Z
+DTEND:20260111T030000Z
+SUMMARY:Detroit Red Wings @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-13-vancouver-canucks-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260113T003000Z
+DTEND:20260113T033000Z
+SUMMARY:Vancouver Canucks @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-14-montreal-canadiens-vs-washington-capitals@open-sports-cal
+DTSTART:20260114T000000Z
+DTEND:20260114T030000Z
+SUMMARY:Montréal Canadiens @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-16-montreal-canadiens-vs-buffalo-sabres@open-sports-cal
+DTSTART:20260116T000000Z
+DTEND:20260116T030000Z
+SUMMARY:Montréal Canadiens @ Buffalo Sabres
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-18-montreal-canadiens-vs-ottawa-senators@open-sports-cal
+DTSTART:20260118T000000Z
+DTEND:20260118T030000Z
+SUMMARY:Montréal Canadiens @ Ottawa Senators
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-21-minnesota-wild-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260121T000000Z
+DTEND:20260121T030000Z
+SUMMARY:Minnesota Wild @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-23-buffalo-sabres-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260123T000000Z
+DTEND:20260123T030000Z
+SUMMARY:Buffalo Sabres @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-25-montreal-canadiens-vs-boston-bruins@open-sports-cal
+DTSTART:20260125T000000Z
+DTEND:20260125T030000Z
+SUMMARY:Montréal Canadiens @ Boston Bruins
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-28-vegas-golden-knights-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260128T000000Z
+DTEND:20260128T030000Z
+SUMMARY:Vegas Golden Knights @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-30-colorado-avalanche-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260130T000000Z
+DTEND:20260130T030000Z
+SUMMARY:Colorado Avalanche @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-01-montreal-canadiens-vs-buffalo-sabres@open-sports-cal
+DTSTART:20260201T000000Z
+DTEND:20260201T030000Z
+SUMMARY:Montréal Canadiens @ Buffalo Sabres
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-03-montreal-canadiens-vs-minnesota-wild@open-sports-cal
+DTSTART:20260203T003000Z
+DTEND:20260203T033000Z
+SUMMARY:Montréal Canadiens @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-05-montreal-canadiens-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260205T000000Z
+DTEND:20260205T030000Z
+SUMMARY:Montréal Canadiens @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-27-new-york-islanders-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260227T000000Z
+DTEND:20260227T030000Z
+SUMMARY:New York Islanders @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-01-washington-capitals-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260301T000000Z
+DTEND:20260301T030000Z
+SUMMARY:Washington Capitals @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-04-montreal-canadiens-vs-san-jose-sharks@open-sports-cal
+DTSTART:20260304T030000Z
+DTEND:20260304T060000Z
+SUMMARY:Montréal Canadiens @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-07-montreal-canadiens-vs-anaheim-ducks@open-sports-cal
+DTSTART:20260307T020000Z
+DTEND:20260307T050000Z
+SUMMARY:Montréal Canadiens @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-08-montreal-canadiens-vs-los-angeles-kings@open-sports-cal
+DTSTART:20260308T000000Z
+DTEND:20260308T030000Z
+SUMMARY:Montréal Canadiens @ Los Angeles Kings
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-10-toronto-maple-leafs-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260310T230000Z
+DTEND:20260311T020000Z
+SUMMARY:Toronto Maple Leafs @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-11-montreal-canadiens-vs-ottawa-senators@open-sports-cal
+DTSTART:20260311T233000Z
+DTEND:20260312T023000Z
+SUMMARY:Montréal Canadiens @ Ottawa Senators
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-14-san-jose-sharks-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260314T230000Z
+DTEND:20260315T020000Z
+SUMMARY:San Jose Sharks @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-15-anaheim-ducks-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260315T230000Z
+DTEND:20260316T020000Z
+SUMMARY:Anaheim Ducks @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-17-boston-bruins-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260317T230000Z
+DTEND:20260318T020000Z
+SUMMARY:Boston Bruins @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nBoston Bruins @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-19-montreal-canadiens-vs-detroit-red-wings@open-sports-cal
+DTSTART:20260319T230000Z
+DTEND:20260320T020000Z
+SUMMARY:Montréal Canadiens @ Detroit Red Wings
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-21-new-york-islanders-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260321T230000Z
+DTEND:20260322T020000Z
+SUMMARY:New York Islanders @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-24-carolina-hurricanes-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260324T230000Z
+DTEND:20260325T020000Z
+SUMMARY:Carolina Hurricanes @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-26-columbus-blue-jackets-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260326T230000Z
+DTEND:20260327T020000Z
+SUMMARY:Columbus Blue Jackets @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-28-montreal-canadiens-vs-nashville-predators@open-sports-cal
+DTSTART:20260328T230000Z
+DTEND:20260329T020000Z
+SUMMARY:Montréal Canadiens @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-29-montreal-canadiens-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20260329T210000Z
+DTEND:20260330T000000Z
+SUMMARY:Montréal Canadiens @ Carolina Hurricanes
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-31-montreal-canadiens-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20260331T230000Z
+DTEND:20260401T020000Z
+SUMMARY:Montréal Canadiens @ Tampa Bay Lightning
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-02-montreal-canadiens-vs-new-york-rangers@open-sports-cal
+DTSTART:20260402T230000Z
+DTEND:20260403T020000Z
+SUMMARY:Montréal Canadiens @ New York Rangers
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-04-montreal-canadiens-vs-new-jersey-devils@open-sports-cal
+DTSTART:20260404T230000Z
+DTEND:20260405T020000Z
+SUMMARY:Montréal Canadiens @ New Jersey Devils
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-05-new-jersey-devils-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260405T230000Z
+DTEND:20260406T020000Z
+SUMMARY:New Jersey Devils @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-07-florida-panthers-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260407T230000Z
+DTEND:20260408T020000Z
+SUMMARY:Florida Panthers @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-09-tampa-bay-lightning-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260409T230000Z
+DTEND:20260410T020000Z
+SUMMARY:Tampa Bay Lightning @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-11-columbus-blue-jackets-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260411T230000Z
+DTEND:20260412T020000Z
+SUMMARY:Columbus Blue Jackets @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-12-montreal-canadiens-vs-new-york-islanders@open-sports-cal
+DTSTART:20260412T220000Z
+DTEND:20260413T010000Z
+SUMMARY:Montréal Canadiens @ New York Islanders
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-14-montreal-canadiens-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260414T230000Z
+DTEND:20260415T020000Z
+SUMMARY:Montréal Canadiens @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,992 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2025-26 - Minnesota Wild
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-10-minnesota-wild-vs-st-louis-blues@open-sports-cal
+DTSTART:20251010T000000Z
+DTEND:20251010T030000Z
+SUMMARY:Minnesota Wild @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-12-columbus-blue-jackets-vs-minnesota-wild@open-sports-cal
+DTSTART:20251012T000000Z
+DTEND:20251012T030000Z
+SUMMARY:Columbus Blue Jackets @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-14-los-angeles-kings-vs-minnesota-wild@open-sports-cal
+DTSTART:20251014T000000Z
+DTEND:20251014T030000Z
+SUMMARY:Los Angeles Kings @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-15-minnesota-wild-vs-dallas-stars@open-sports-cal
+DTSTART:20251015T013000Z
+DTEND:20251015T043000Z
+SUMMARY:Minnesota Wild @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-17-minnesota-wild-vs-washington-capitals@open-sports-cal
+DTSTART:20251017T230000Z
+DTEND:20251018T020000Z
+SUMMARY:Minnesota Wild @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-18-minnesota-wild-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251018T230000Z
+DTEND:20251019T020000Z
+SUMMARY:Minnesota Wild @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-20-minnesota-wild-vs-new-york-rangers@open-sports-cal
+DTSTART:20251020T230000Z
+DTEND:20251021T020000Z
+SUMMARY:Minnesota Wild @ New York Rangers
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-22-minnesota-wild-vs-new-jersey-devils@open-sports-cal
+DTSTART:20251022T230000Z
+DTEND:20251023T020000Z
+SUMMARY:Minnesota Wild @ New Jersey Devils
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-25-utah-hockey-club-vs-minnesota-wild@open-sports-cal
+DTSTART:20251025T220000Z
+DTEND:20251026T010000Z
+SUMMARY:Utah Hockey Club @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-26-san-jose-sharks-vs-minnesota-wild@open-sports-cal
+DTSTART:20251026T220000Z
+DTEND:20251027T010000Z
+SUMMARY:San Jose Sharks @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-29-winnipeg-jets-vs-minnesota-wild@open-sports-cal
+DTSTART:20251029T000000Z
+DTEND:20251029T030000Z
+SUMMARY:Winnipeg Jets @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-31-pittsburgh-penguins-vs-minnesota-wild@open-sports-cal
+DTSTART:20251031T000000Z
+DTEND:20251031T030000Z
+SUMMARY:Pittsburgh Penguins @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-01-vancouver-canucks-vs-minnesota-wild@open-sports-cal
+DTSTART:20251101T230000Z
+DTEND:20251102T020000Z
+SUMMARY:Vancouver Canucks @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-05-nashville-predators-vs-minnesota-wild@open-sports-cal
+DTSTART:20251105T010000Z
+DTEND:20251105T040000Z
+SUMMARY:Nashville Predators @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-07-minnesota-wild-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20251107T000000Z
+DTEND:20251107T030000Z
+SUMMARY:Minnesota Wild @ Carolina Hurricanes
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-08-minnesota-wild-vs-new-york-islanders@open-sports-cal
+DTSTART:20251108T000000Z
+DTEND:20251108T030000Z
+SUMMARY:Minnesota Wild @ New York Islanders
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-10-calgary-flames-vs-minnesota-wild@open-sports-cal
+DTSTART:20251110T010000Z
+DTEND:20251110T040000Z
+SUMMARY:Calgary Flames @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nCalgary Flames @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-12-san-jose-sharks-vs-minnesota-wild@open-sports-cal
+DTSTART:20251112T010000Z
+DTEND:20251112T040000Z
+SUMMARY:San Jose Sharks @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-15-anaheim-ducks-vs-minnesota-wild@open-sports-cal
+DTSTART:20251115T230000Z
+DTEND:20251116T020000Z
+SUMMARY:Anaheim Ducks @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-16-vegas-golden-knights-vs-minnesota-wild@open-sports-cal
+DTSTART:20251116T230000Z
+DTEND:20251117T020000Z
+SUMMARY:Vegas Golden Knights @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-20-carolina-hurricanes-vs-minnesota-wild@open-sports-cal
+DTSTART:20251120T023000Z
+DTEND:20251120T053000Z
+SUMMARY:Carolina Hurricanes @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-22-minnesota-wild-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20251122T000000Z
+DTEND:20251122T030000Z
+SUMMARY:Minnesota Wild @ Pittsburgh Penguins
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-23-minnesota-wild-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251123T210000Z
+DTEND:20251124T000000Z
+SUMMARY:Minnesota Wild @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-27-minnesota-wild-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20251127T013000Z
+DTEND:20251127T043000Z
+SUMMARY:Minnesota Wild @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-28-colorado-avalanche-vs-minnesota-wild@open-sports-cal
+DTSTART:20251128T203000Z
+DTEND:20251128T233000Z
+SUMMARY:Colorado Avalanche @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-30-buffalo-sabres-vs-minnesota-wild@open-sports-cal
+DTSTART:20251130T010000Z
+DTEND:20251130T040000Z
+SUMMARY:Buffalo Sabres @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-03-minnesota-wild-vs-edmonton-oilers@open-sports-cal
+DTSTART:20251203T020000Z
+DTEND:20251203T050000Z
+SUMMARY:Minnesota Wild @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-05-minnesota-wild-vs-calgary-flames@open-sports-cal
+DTSTART:20251205T020000Z
+DTEND:20251205T050000Z
+SUMMARY:Minnesota Wild @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-07-minnesota-wild-vs-vancouver-canucks@open-sports-cal
+DTSTART:20251207T030000Z
+DTEND:20251207T060000Z
+SUMMARY:Minnesota Wild @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-09-minnesota-wild-vs-seattle-kraken@open-sports-cal
+DTSTART:20251209T030000Z
+DTEND:20251209T060000Z
+SUMMARY:Minnesota Wild @ Seattle Kraken
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-12-dallas-stars-vs-minnesota-wild@open-sports-cal
+DTSTART:20251212T010000Z
+DTEND:20251212T040000Z
+SUMMARY:Dallas Stars @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-13-ottawa-senators-vs-minnesota-wild@open-sports-cal
+DTSTART:20251213T190000Z
+DTEND:20251213T220000Z
+SUMMARY:Ottawa Senators @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nOttawa Senators @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-14-boston-bruins-vs-minnesota-wild@open-sports-cal
+DTSTART:20251214T230000Z
+DTEND:20251215T020000Z
+SUMMARY:Boston Bruins @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nBoston Bruins @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-17-washington-capitals-vs-minnesota-wild@open-sports-cal
+DTSTART:20251217T010000Z
+DTEND:20251217T040000Z
+SUMMARY:Washington Capitals @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-19-minnesota-wild-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20251219T000000Z
+DTEND:20251219T030000Z
+SUMMARY:Minnesota Wild @ Columbus Blue Jackets
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-20-edmonton-oilers-vs-minnesota-wild@open-sports-cal
+DTSTART:20251220T200000Z
+DTEND:20251220T230000Z
+SUMMARY:Edmonton Oilers @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-21-colorado-avalanche-vs-minnesota-wild@open-sports-cal
+DTSTART:20251221T230000Z
+DTEND:20251222T020000Z
+SUMMARY:Colorado Avalanche @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-24-nashville-predators-vs-minnesota-wild@open-sports-cal
+DTSTART:20251224T010000Z
+DTEND:20251224T040000Z
+SUMMARY:Nashville Predators @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-28-minnesota-wild-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251228T000000Z
+DTEND:20251228T030000Z
+SUMMARY:Minnesota Wild @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-30-minnesota-wild-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20251230T030000Z
+DTEND:20251230T060000Z
+SUMMARY:Minnesota Wild @ Vegas Golden Knights
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-31-minnesota-wild-vs-san-jose-sharks@open-sports-cal
+DTSTART:20251231T210000Z
+DTEND:20260101T000000Z
+SUMMARY:Minnesota Wild @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-03-minnesota-wild-vs-anaheim-ducks@open-sports-cal
+DTSTART:20260103T033000Z
+DTEND:20260103T063000Z
+SUMMARY:Minnesota Wild @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-04-minnesota-wild-vs-los-angeles-kings@open-sports-cal
+DTSTART:20260104T020000Z
+DTEND:20260104T050000Z
+SUMMARY:Minnesota Wild @ Los Angeles Kings
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-06-minnesota-wild-vs-los-angeles-kings@open-sports-cal
+DTSTART:20260106T033000Z
+DTEND:20260106T063000Z
+SUMMARY:Minnesota Wild @ Los Angeles Kings
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-09-minnesota-wild-vs-seattle-kraken@open-sports-cal
+DTSTART:20260109T030000Z
+DTEND:20260109T060000Z
+SUMMARY:Minnesota Wild @ Seattle Kraken
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-11-new-york-islanders-vs-minnesota-wild@open-sports-cal
+DTSTART:20260111T010000Z
+DTEND:20260111T040000Z
+SUMMARY:New York Islanders @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-13-new-jersey-devils-vs-minnesota-wild@open-sports-cal
+DTSTART:20260113T010000Z
+DTEND:20260113T040000Z
+SUMMARY:New Jersey Devils @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-16-winnipeg-jets-vs-minnesota-wild@open-sports-cal
+DTSTART:20260116T010000Z
+DTEND:20260116T040000Z
+SUMMARY:Winnipeg Jets @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-17-minnesota-wild-vs-buffalo-sabres@open-sports-cal
+DTSTART:20260117T173000Z
+DTEND:20260117T203000Z
+SUMMARY:Minnesota Wild @ Buffalo Sabres
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-20-minnesota-wild-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20260120T003000Z
+DTEND:20260120T033000Z
+SUMMARY:Minnesota Wild @ Toronto Maple Leafs
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-21-minnesota-wild-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260121T000000Z
+DTEND:20260121T030000Z
+SUMMARY:Minnesota Wild @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-23-detroit-red-wings-vs-minnesota-wild@open-sports-cal
+DTSTART:20260123T023000Z
+DTEND:20260123T053000Z
+SUMMARY:Detroit Red Wings @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-25-florida-panthers-vs-minnesota-wild@open-sports-cal
+DTSTART:20260125T020000Z
+DTEND:20260125T050000Z
+SUMMARY:Florida Panthers @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-28-chicago-blackhawks-vs-minnesota-wild@open-sports-cal
+DTSTART:20260128T010000Z
+DTEND:20260128T040000Z
+SUMMARY:Chicago Blackhawks @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-30-calgary-flames-vs-minnesota-wild@open-sports-cal
+DTSTART:20260130T010000Z
+DTEND:20260130T040000Z
+SUMMARY:Calgary Flames @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nCalgary Flames @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-01-minnesota-wild-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260201T030000Z
+DTEND:20260201T060000Z
+SUMMARY:Minnesota Wild @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-03-montreal-canadiens-vs-minnesota-wild@open-sports-cal
+DTSTART:20260203T003000Z
+DTEND:20260203T033000Z
+SUMMARY:Montréal Canadiens @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-05-minnesota-wild-vs-nashville-predators@open-sports-cal
+DTSTART:20260205T010000Z
+DTEND:20260205T040000Z
+SUMMARY:Minnesota Wild @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-27-minnesota-wild-vs-colorado-avalanche@open-sports-cal
+DTSTART:20260227T020000Z
+DTEND:20260227T050000Z
+SUMMARY:Minnesota Wild @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-28-minnesota-wild-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260228T020000Z
+DTEND:20260228T050000Z
+SUMMARY:Minnesota Wild @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-01-st-louis-blues-vs-minnesota-wild@open-sports-cal
+DTSTART:20260301T220000Z
+DTEND:20260302T010000Z
+SUMMARY:St. Louis Blues @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-04-tampa-bay-lightning-vs-minnesota-wild@open-sports-cal
+DTSTART:20260304T023000Z
+DTEND:20260304T053000Z
+SUMMARY:Tampa Bay Lightning @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-07-minnesota-wild-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20260307T030000Z
+DTEND:20260307T060000Z
+SUMMARY:Minnesota Wild @ Vegas Golden Knights
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-08-minnesota-wild-vs-colorado-avalanche@open-sports-cal
+DTSTART:20260308T180000Z
+DTEND:20260308T210000Z
+SUMMARY:Minnesota Wild @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-11-utah-hockey-club-vs-minnesota-wild@open-sports-cal
+DTSTART:20260311T000000Z
+DTEND:20260311T030000Z
+SUMMARY:Utah Hockey Club @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-13-philadelphia-flyers-vs-minnesota-wild@open-sports-cal
+DTSTART:20260313T000000Z
+DTEND:20260313T030000Z
+SUMMARY:Philadelphia Flyers @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-14-new-york-rangers-vs-minnesota-wild@open-sports-cal
+DTSTART:20260314T220000Z
+DTEND:20260315T010000Z
+SUMMARY:New York Rangers @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nNew York Rangers @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-15-toronto-maple-leafs-vs-minnesota-wild@open-sports-cal
+DTSTART:20260315T233000Z
+DTEND:20260316T023000Z
+SUMMARY:Toronto Maple Leafs @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-17-minnesota-wild-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20260317T233000Z
+DTEND:20260318T023000Z
+SUMMARY:Minnesota Wild @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-19-chicago-blackhawks-vs-minnesota-wild@open-sports-cal
+DTSTART:20260319T233000Z
+DTEND:20260320T023000Z
+SUMMARY:Chicago Blackhawks @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-21-dallas-stars-vs-minnesota-wild@open-sports-cal
+DTSTART:20260321T200000Z
+DTEND:20260321T230000Z
+SUMMARY:Dallas Stars @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-24-minnesota-wild-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20260324T233000Z
+DTEND:20260325T023000Z
+SUMMARY:Minnesota Wild @ Tampa Bay Lightning
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-26-minnesota-wild-vs-florida-panthers@open-sports-cal
+DTSTART:20260326T230000Z
+DTEND:20260327T020000Z
+SUMMARY:Minnesota Wild @ Florida Panthers
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-28-minnesota-wild-vs-boston-bruins@open-sports-cal
+DTSTART:20260328T210000Z
+DTEND:20260329T000000Z
+SUMMARY:Minnesota Wild @ Boston Bruins
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-03-vancouver-canucks-vs-minnesota-wild@open-sports-cal
+DTSTART:20260403T000000Z
+DTEND:20260403T030000Z
+SUMMARY:Vancouver Canucks @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-04-minnesota-wild-vs-ottawa-senators@open-sports-cal
+DTSTART:20260404T170000Z
+DTEND:20260404T200000Z
+SUMMARY:Minnesota Wild @ Ottawa Senators
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-05-minnesota-wild-vs-detroit-red-wings@open-sports-cal
+DTSTART:20260405T170000Z
+DTEND:20260405T200000Z
+SUMMARY:Minnesota Wild @ Detroit Red Wings
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-08-seattle-kraken-vs-minnesota-wild@open-sports-cal
+DTSTART:20260408T000000Z
+DTEND:20260408T030000Z
+SUMMARY:Seattle Kraken @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-10-minnesota-wild-vs-dallas-stars@open-sports-cal
+DTSTART:20260410T010000Z
+DTEND:20260410T040000Z
+SUMMARY:Minnesota Wild @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-11-minnesota-wild-vs-nashville-predators@open-sports-cal
+DTSTART:20260411T210000Z
+DTEND:20260412T000000Z
+SUMMARY:Minnesota Wild @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-14-minnesota-wild-vs-st-louis-blues@open-sports-cal
+DTSTART:20260414T000000Z
+DTEND:20260414T030000Z
+SUMMARY:Minnesota Wild @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-15-anaheim-ducks-vs-minnesota-wild@open-sports-cal
+DTSTART:20260415T000000Z
+DTEND:20260415T030000Z
+SUMMARY:Anaheim Ducks @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

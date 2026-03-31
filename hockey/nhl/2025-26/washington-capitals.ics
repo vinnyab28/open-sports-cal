@@ -1,0 +1,992 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2025-26 - Washington Capitals
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-08-boston-bruins-vs-washington-capitals@open-sports-cal
+DTSTART:20251008T233000Z
+DTEND:20251009T023000Z
+SUMMARY:Boston Bruins @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nBoston Bruins @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-11-washington-capitals-vs-new-york-islanders@open-sports-cal
+DTSTART:20251011T230000Z
+DTEND:20251012T020000Z
+SUMMARY:Washington Capitals @ New York Islanders
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-12-washington-capitals-vs-new-york-rangers@open-sports-cal
+DTSTART:20251012T230000Z
+DTEND:20251013T020000Z
+SUMMARY:Washington Capitals @ New York Rangers
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-14-tampa-bay-lightning-vs-washington-capitals@open-sports-cal
+DTSTART:20251014T230000Z
+DTEND:20251015T020000Z
+SUMMARY:Tampa Bay Lightning @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-17-minnesota-wild-vs-washington-capitals@open-sports-cal
+DTSTART:20251017T230000Z
+DTEND:20251018T020000Z
+SUMMARY:Minnesota Wild @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-19-vancouver-canucks-vs-washington-capitals@open-sports-cal
+DTSTART:20251019T163000Z
+DTEND:20251019T193000Z
+SUMMARY:Vancouver Canucks @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-21-seattle-kraken-vs-washington-capitals@open-sports-cal
+DTSTART:20251021T230000Z
+DTEND:20251022T020000Z
+SUMMARY:Seattle Kraken @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-24-washington-capitals-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20251024T230000Z
+DTEND:20251025T020000Z
+SUMMARY:Washington Capitals @ Columbus Blue Jackets
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-25-ottawa-senators-vs-washington-capitals@open-sports-cal
+DTSTART:20251025T230000Z
+DTEND:20251026T020000Z
+SUMMARY:Ottawa Senators @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nOttawa Senators @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-29-washington-capitals-vs-dallas-stars@open-sports-cal
+DTSTART:20251029T003000Z
+DTEND:20251029T033000Z
+SUMMARY:Washington Capitals @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-31-new-york-islanders-vs-washington-capitals@open-sports-cal
+DTSTART:20251031T230000Z
+DTEND:20251101T020000Z
+SUMMARY:New York Islanders @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-01-washington-capitals-vs-buffalo-sabres@open-sports-cal
+DTSTART:20251101T230000Z
+DTEND:20251102T020000Z
+SUMMARY:Washington Capitals @ Buffalo Sabres
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-06-st-louis-blues-vs-washington-capitals@open-sports-cal
+DTSTART:20251106T003000Z
+DTEND:20251106T033000Z
+SUMMARY:St. Louis Blues @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-07-washington-capitals-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20251107T003000Z
+DTEND:20251107T033000Z
+SUMMARY:Washington Capitals @ Pittsburgh Penguins
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-09-washington-capitals-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20251109T000000Z
+DTEND:20251109T030000Z
+SUMMARY:Washington Capitals @ Tampa Bay Lightning
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-12-washington-capitals-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20251112T000000Z
+DTEND:20251112T030000Z
+SUMMARY:Washington Capitals @ Carolina Hurricanes
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-14-washington-capitals-vs-florida-panthers@open-sports-cal
+DTSTART:20251114T000000Z
+DTEND:20251114T030000Z
+SUMMARY:Washington Capitals @ Florida Panthers
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-16-new-jersey-devils-vs-washington-capitals@open-sports-cal
+DTSTART:20251116T000000Z
+DTEND:20251116T030000Z
+SUMMARY:New Jersey Devils @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-18-los-angeles-kings-vs-washington-capitals@open-sports-cal
+DTSTART:20251118T000000Z
+DTEND:20251118T030000Z
+SUMMARY:Los Angeles Kings @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-20-edmonton-oilers-vs-washington-capitals@open-sports-cal
+DTSTART:20251120T000000Z
+DTEND:20251120T030000Z
+SUMMARY:Edmonton Oilers @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-21-washington-capitals-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251121T000000Z
+DTEND:20251121T030000Z
+SUMMARY:Washington Capitals @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-23-tampa-bay-lightning-vs-washington-capitals@open-sports-cal
+DTSTART:20251123T000000Z
+DTEND:20251123T030000Z
+SUMMARY:Tampa Bay Lightning @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-25-columbus-blue-jackets-vs-washington-capitals@open-sports-cal
+DTSTART:20251125T000000Z
+DTEND:20251125T030000Z
+SUMMARY:Columbus Blue Jackets @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-27-winnipeg-jets-vs-washington-capitals@open-sports-cal
+DTSTART:20251127T000000Z
+DTEND:20251127T030000Z
+SUMMARY:Winnipeg Jets @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-28-toronto-maple-leafs-vs-washington-capitals@open-sports-cal
+DTSTART:20251128T220000Z
+DTEND:20251129T010000Z
+SUMMARY:Toronto Maple Leafs @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-30-washington-capitals-vs-new-york-islanders@open-sports-cal
+DTSTART:20251130T180000Z
+DTEND:20251130T210000Z
+SUMMARY:Washington Capitals @ New York Islanders
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-03-washington-capitals-vs-los-angeles-kings@open-sports-cal
+DTSTART:20251203T033000Z
+DTEND:20251203T063000Z
+SUMMARY:Washington Capitals @ Los Angeles Kings
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-04-washington-capitals-vs-san-jose-sharks@open-sports-cal
+DTSTART:20251204T030000Z
+DTEND:20251204T060000Z
+SUMMARY:Washington Capitals @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-06-washington-capitals-vs-anaheim-ducks@open-sports-cal
+DTSTART:20251206T030000Z
+DTEND:20251206T060000Z
+SUMMARY:Washington Capitals @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-08-columbus-blue-jackets-vs-washington-capitals@open-sports-cal
+DTSTART:20251208T000000Z
+DTEND:20251208T030000Z
+SUMMARY:Columbus Blue Jackets @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-12-carolina-hurricanes-vs-washington-capitals@open-sports-cal
+DTSTART:20251212T000000Z
+DTEND:20251212T030000Z
+SUMMARY:Carolina Hurricanes @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-14-washington-capitals-vs-winnipeg-jets@open-sports-cal
+DTSTART:20251214T000000Z
+DTEND:20251214T030000Z
+SUMMARY:Washington Capitals @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-17-washington-capitals-vs-minnesota-wild@open-sports-cal
+DTSTART:20251217T010000Z
+DTEND:20251217T040000Z
+SUMMARY:Washington Capitals @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-19-toronto-maple-leafs-vs-washington-capitals@open-sports-cal
+DTSTART:20251219T000000Z
+DTEND:20251219T030000Z
+SUMMARY:Toronto Maple Leafs @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-20-detroit-red-wings-vs-washington-capitals@open-sports-cal
+DTSTART:20251220T173000Z
+DTEND:20251220T203000Z
+SUMMARY:Detroit Red Wings @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-21-washington-capitals-vs-detroit-red-wings@open-sports-cal
+DTSTART:20251221T180000Z
+DTEND:20251221T210000Z
+SUMMARY:Washington Capitals @ Detroit Red Wings
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-24-new-york-rangers-vs-washington-capitals@open-sports-cal
+DTSTART:20251224T000000Z
+DTEND:20251224T030000Z
+SUMMARY:New York Rangers @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nNew York Rangers @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-28-washington-capitals-vs-new-jersey-devils@open-sports-cal
+DTSTART:20251228T000000Z
+DTEND:20251228T030000Z
+SUMMARY:Washington Capitals @ New Jersey Devils
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-30-washington-capitals-vs-florida-panthers@open-sports-cal
+DTSTART:20251230T000000Z
+DTEND:20251230T030000Z
+SUMMARY:Washington Capitals @ Florida Panthers
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-31-new-york-rangers-vs-washington-capitals@open-sports-cal
+DTSTART:20251231T173000Z
+DTEND:20251231T203000Z
+SUMMARY:New York Rangers @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nNew York Rangers @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-01-washington-capitals-vs-ottawa-senators@open-sports-cal
+DTSTART:20260101T180000Z
+DTEND:20260101T210000Z
+SUMMARY:Washington Capitals @ Ottawa Senators
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-04-chicago-blackhawks-vs-washington-capitals@open-sports-cal
+DTSTART:20260104T000000Z
+DTEND:20260104T030000Z
+SUMMARY:Chicago Blackhawks @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-06-anaheim-ducks-vs-washington-capitals@open-sports-cal
+DTSTART:20260106T000000Z
+DTEND:20260106T030000Z
+SUMMARY:Anaheim Ducks @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-08-dallas-stars-vs-washington-capitals@open-sports-cal
+DTSTART:20260108T000000Z
+DTEND:20260108T030000Z
+SUMMARY:Dallas Stars @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-10-washington-capitals-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20260110T010000Z
+DTEND:20260110T040000Z
+SUMMARY:Washington Capitals @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-12-washington-capitals-vs-nashville-predators@open-sports-cal
+DTSTART:20260112T000000Z
+DTEND:20260112T030000Z
+SUMMARY:Washington Capitals @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-14-montreal-canadiens-vs-washington-capitals@open-sports-cal
+DTSTART:20260114T000000Z
+DTEND:20260114T030000Z
+SUMMARY:Montréal Canadiens @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-16-san-jose-sharks-vs-washington-capitals@open-sports-cal
+DTSTART:20260116T000000Z
+DTEND:20260116T030000Z
+SUMMARY:San Jose Sharks @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-18-florida-panthers-vs-washington-capitals@open-sports-cal
+DTSTART:20260118T000000Z
+DTEND:20260118T030000Z
+SUMMARY:Florida Panthers @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-19-washington-capitals-vs-colorado-avalanche@open-sports-cal
+DTSTART:20260119T210000Z
+DTEND:20260120T000000Z
+SUMMARY:Washington Capitals @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-22-washington-capitals-vs-vancouver-canucks@open-sports-cal
+DTSTART:20260122T030000Z
+DTEND:20260122T060000Z
+SUMMARY:Washington Capitals @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-24-washington-capitals-vs-calgary-flames@open-sports-cal
+DTSTART:20260124T020000Z
+DTEND:20260124T050000Z
+SUMMARY:Washington Capitals @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-25-washington-capitals-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260125T030000Z
+DTEND:20260125T060000Z
+SUMMARY:Washington Capitals @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-28-washington-capitals-vs-seattle-kraken@open-sports-cal
+DTSTART:20260128T030000Z
+DTEND:20260128T060000Z
+SUMMARY:Washington Capitals @ Seattle Kraken
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-30-washington-capitals-vs-detroit-red-wings@open-sports-cal
+DTSTART:20260130T003000Z
+DTEND:20260130T033000Z
+SUMMARY:Washington Capitals @ Detroit Red Wings
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-31-carolina-hurricanes-vs-washington-capitals@open-sports-cal
+DTSTART:20260131T220000Z
+DTEND:20260201T010000Z
+SUMMARY:Carolina Hurricanes @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-03-new-york-islanders-vs-washington-capitals@open-sports-cal
+DTSTART:20260203T000000Z
+DTEND:20260203T030000Z
+SUMMARY:New York Islanders @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-04-washington-capitals-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260204T000000Z
+DTEND:20260204T030000Z
+SUMMARY:Washington Capitals @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-06-nashville-predators-vs-washington-capitals@open-sports-cal
+DTSTART:20260206T000000Z
+DTEND:20260206T030000Z
+SUMMARY:Nashville Predators @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-26-philadelphia-flyers-vs-washington-capitals@open-sports-cal
+DTSTART:20260226T000000Z
+DTEND:20260226T030000Z
+SUMMARY:Philadelphia Flyers @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-28-vegas-golden-knights-vs-washington-capitals@open-sports-cal
+DTSTART:20260228T000000Z
+DTEND:20260228T030000Z
+SUMMARY:Vegas Golden Knights @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-01-washington-capitals-vs-montreal-canadiens@open-sports-cal
+DTSTART:20260301T000000Z
+DTEND:20260301T030000Z
+SUMMARY:Washington Capitals @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-04-utah-hockey-club-vs-washington-capitals@open-sports-cal
+DTSTART:20260304T000000Z
+DTEND:20260304T030000Z
+SUMMARY:Utah Hockey Club @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-07-washington-capitals-vs-boston-bruins@open-sports-cal
+DTSTART:20260307T173000Z
+DTEND:20260307T203000Z
+SUMMARY:Washington Capitals @ Boston Bruins
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-09-calgary-flames-vs-washington-capitals@open-sports-cal
+DTSTART:20260309T230000Z
+DTEND:20260310T020000Z
+SUMMARY:Calgary Flames @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nCalgary Flames @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-11-washington-capitals-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260311T233000Z
+DTEND:20260312T023000Z
+SUMMARY:Washington Capitals @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-12-washington-capitals-vs-buffalo-sabres@open-sports-cal
+DTSTART:20260312T230000Z
+DTEND:20260313T020000Z
+SUMMARY:Washington Capitals @ Buffalo Sabres
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-14-boston-bruins-vs-washington-capitals@open-sports-cal
+DTSTART:20260314T190000Z
+DTEND:20260314T220000Z
+SUMMARY:Boston Bruins @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nBoston Bruins @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-18-ottawa-senators-vs-washington-capitals@open-sports-cal
+DTSTART:20260318T233000Z
+DTEND:20260319T023000Z
+SUMMARY:Ottawa Senators @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nOttawa Senators @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-20-new-jersey-devils-vs-washington-capitals@open-sports-cal
+DTSTART:20260320T230000Z
+DTEND:20260321T020000Z
+SUMMARY:New Jersey Devils @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-22-colorado-avalanche-vs-washington-capitals@open-sports-cal
+DTSTART:20260322T163000Z
+DTEND:20260322T193000Z
+SUMMARY:Colorado Avalanche @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-25-washington-capitals-vs-st-louis-blues@open-sports-cal
+DTSTART:20260325T000000Z
+DTEND:20260325T030000Z
+SUMMARY:Washington Capitals @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-27-washington-capitals-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260327T010000Z
+DTEND:20260327T040000Z
+SUMMARY:Washington Capitals @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-29-washington-capitals-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20260329T023000Z
+DTEND:20260329T053000Z
+SUMMARY:Washington Capitals @ Vegas Golden Knights
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-31-philadelphia-flyers-vs-washington-capitals@open-sports-cal
+DTSTART:20260331T230000Z
+DTEND:20260401T020000Z
+SUMMARY:Philadelphia Flyers @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-02-washington-capitals-vs-new-jersey-devils@open-sports-cal
+DTSTART:20260402T233000Z
+DTEND:20260403T023000Z
+SUMMARY:Washington Capitals @ New Jersey Devils
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-04-buffalo-sabres-vs-washington-capitals@open-sports-cal
+DTSTART:20260404T230000Z
+DTEND:20260405T020000Z
+SUMMARY:Buffalo Sabres @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-05-washington-capitals-vs-new-york-rangers@open-sports-cal
+DTSTART:20260405T230000Z
+DTEND:20260406T020000Z
+SUMMARY:Washington Capitals @ New York Rangers
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-08-washington-capitals-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20260408T233000Z
+DTEND:20260409T023000Z
+SUMMARY:Washington Capitals @ Toronto Maple Leafs
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-11-washington-capitals-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20260411T190000Z
+DTEND:20260411T220000Z
+SUMMARY:Washington Capitals @ Pittsburgh Penguins
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-12-pittsburgh-penguins-vs-washington-capitals@open-sports-cal
+DTSTART:20260412T190000Z
+DTEND:20260412T220000Z
+SUMMARY:Pittsburgh Penguins @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-14-washington-capitals-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20260414T230000Z
+DTEND:20260415T020000Z
+SUMMARY:Washington Capitals @ Columbus Blue Jackets
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

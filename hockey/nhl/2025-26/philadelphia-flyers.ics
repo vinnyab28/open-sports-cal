@@ -1,0 +1,992 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2025-26 - Philadelphia Flyers
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-09-philadelphia-flyers-vs-florida-panthers@open-sports-cal
+DTSTART:20251009T230000Z
+DTEND:20251010T020000Z
+SUMMARY:Philadelphia Flyers @ Florida Panthers
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-11-philadelphia-flyers-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20251011T230000Z
+DTEND:20251012T020000Z
+SUMMARY:Philadelphia Flyers @ Carolina Hurricanes
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-13-florida-panthers-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251013T230000Z
+DTEND:20251014T020000Z
+SUMMARY:Florida Panthers @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-16-winnipeg-jets-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251016T230000Z
+DTEND:20251017T020000Z
+SUMMARY:Winnipeg Jets @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-18-minnesota-wild-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251018T230000Z
+DTEND:20251019T020000Z
+SUMMARY:Minnesota Wild @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-20-seattle-kraken-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251020T230000Z
+DTEND:20251021T020000Z
+SUMMARY:Seattle Kraken @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-23-philadelphia-flyers-vs-ottawa-senators@open-sports-cal
+DTSTART:20251023T230000Z
+DTEND:20251024T020000Z
+SUMMARY:Philadelphia Flyers @ Ottawa Senators
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-25-new-york-islanders-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251025T163000Z
+DTEND:20251025T193000Z
+SUMMARY:New York Islanders @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-28-pittsburgh-penguins-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251028T220000Z
+DTEND:20251029T010000Z
+SUMMARY:Pittsburgh Penguins @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-10-30-nashville-predators-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251030T230000Z
+DTEND:20251031T020000Z
+SUMMARY:Nashville Predators @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nNashville Predators @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-01-toronto-maple-leafs-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251101T230000Z
+DTEND:20251102T020000Z
+SUMMARY:Toronto Maple Leafs @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-03-calgary-flames-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251103T000000Z
+DTEND:20251103T030000Z
+SUMMARY:Calgary Flames @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nCalgary Flames @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-05-philadelphia-flyers-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251105T000000Z
+DTEND:20251105T030000Z
+SUMMARY:Philadelphia Flyers @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-07-philadelphia-flyers-vs-nashville-predators@open-sports-cal
+DTSTART:20251107T010000Z
+DTEND:20251107T040000Z
+SUMMARY:Philadelphia Flyers @ Nashville Predators
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-08-ottawa-senators-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251108T180000Z
+DTEND:20251108T210000Z
+SUMMARY:Ottawa Senators @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nOttawa Senators @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-13-edmonton-oilers-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251113T003000Z
+DTEND:20251113T033000Z
+SUMMARY:Edmonton Oilers @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-15-philadelphia-flyers-vs-st-louis-blues@open-sports-cal
+DTSTART:20251115T010000Z
+DTEND:20251115T040000Z
+SUMMARY:Philadelphia Flyers @ St. Louis Blues
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-16-philadelphia-flyers-vs-dallas-stars@open-sports-cal
+DTSTART:20251116T010000Z
+DTEND:20251116T040000Z
+SUMMARY:Philadelphia Flyers @ Dallas Stars
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-21-st-louis-blues-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251121T000000Z
+DTEND:20251121T030000Z
+SUMMARY:St. Louis Blues @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-23-new-jersey-devils-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251123T000000Z
+DTEND:20251123T030000Z
+SUMMARY:New Jersey Devils @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-25-philadelphia-flyers-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20251125T000000Z
+DTEND:20251125T030000Z
+SUMMARY:Philadelphia Flyers @ Tampa Bay Lightning
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-27-philadelphia-flyers-vs-florida-panthers@open-sports-cal
+DTSTART:20251127T000000Z
+DTEND:20251127T030000Z
+SUMMARY:Philadelphia Flyers @ Florida Panthers
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-28-philadelphia-flyers-vs-new-york-islanders@open-sports-cal
+DTSTART:20251128T210000Z
+DTEND:20251129T000000Z
+SUMMARY:Philadelphia Flyers @ New York Islanders
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-11-30-philadelphia-flyers-vs-new-jersey-devils@open-sports-cal
+DTSTART:20251130T000000Z
+DTEND:20251130T030000Z
+SUMMARY:Philadelphia Flyers @ New Jersey Devils
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-02-pittsburgh-penguins-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251202T000000Z
+DTEND:20251202T030000Z
+SUMMARY:Pittsburgh Penguins @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-04-buffalo-sabres-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251204T003000Z
+DTEND:20251204T033000Z
+SUMMARY:Buffalo Sabres @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-07-colorado-avalanche-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251207T180000Z
+DTEND:20251207T210000Z
+SUMMARY:Colorado Avalanche @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-10-san-jose-sharks-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251210T000000Z
+DTEND:20251210T030000Z
+SUMMARY:San Jose Sharks @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-12-vegas-golden-knights-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251212T000000Z
+DTEND:20251212T030000Z
+SUMMARY:Vegas Golden Knights @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-14-carolina-hurricanes-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251214T000000Z
+DTEND:20251214T030000Z
+SUMMARY:Carolina Hurricanes @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-14-philadelphia-flyers-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20251214T220000Z
+DTEND:20251215T010000Z
+SUMMARY:Philadelphia Flyers @ Carolina Hurricanes
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-17-philadelphia-flyers-vs-montreal-canadiens@open-sports-cal
+DTSTART:20251217T000000Z
+DTEND:20251217T030000Z
+SUMMARY:Philadelphia Flyers @ Montréal Canadiens
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-19-philadelphia-flyers-vs-buffalo-sabres@open-sports-cal
+DTSTART:20251219T003000Z
+DTEND:20251219T033000Z
+SUMMARY:Philadelphia Flyers @ Buffalo Sabres
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-20-philadelphia-flyers-vs-new-york-rangers@open-sports-cal
+DTSTART:20251220T173000Z
+DTEND:20251220T203000Z
+SUMMARY:Philadelphia Flyers @ New York Rangers
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-23-vancouver-canucks-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20251223T003000Z
+DTEND:20251223T033000Z
+SUMMARY:Vancouver Canucks @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-24-philadelphia-flyers-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20251224T020000Z
+DTEND:20251224T050000Z
+SUMMARY:Philadelphia Flyers @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-29-philadelphia-flyers-vs-seattle-kraken@open-sports-cal
+DTSTART:20251229T010000Z
+DTEND:20251229T040000Z
+SUMMARY:Philadelphia Flyers @ Seattle Kraken
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2025-12-31-philadelphia-flyers-vs-vancouver-canucks@open-sports-cal
+DTSTART:20251231T030000Z
+DTEND:20251231T060000Z
+SUMMARY:Philadelphia Flyers @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-01-philadelphia-flyers-vs-calgary-flames@open-sports-cal
+DTSTART:20260101T023000Z
+DTEND:20260101T053000Z
+SUMMARY:Philadelphia Flyers @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-03-philadelphia-flyers-vs-edmonton-oilers@open-sports-cal
+DTSTART:20260103T203000Z
+DTEND:20260103T233000Z
+SUMMARY:Philadelphia Flyers @ Edmonton Oilers
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-07-anaheim-ducks-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260107T000000Z
+DTEND:20260107T030000Z
+SUMMARY:Anaheim Ducks @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-09-toronto-maple-leafs-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260109T000000Z
+DTEND:20260109T030000Z
+SUMMARY:Toronto Maple Leafs @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-11-tampa-bay-lightning-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260111T000000Z
+DTEND:20260111T030000Z
+SUMMARY:Tampa Bay Lightning @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-13-tampa-bay-lightning-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260113T000000Z
+DTEND:20260113T030000Z
+SUMMARY:Tampa Bay Lightning @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-15-philadelphia-flyers-vs-buffalo-sabres@open-sports-cal
+DTSTART:20260115T003000Z
+DTEND:20260115T033000Z
+SUMMARY:Philadelphia Flyers @ Buffalo Sabres
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-16-philadelphia-flyers-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20260116T000000Z
+DTEND:20260116T030000Z
+SUMMARY:Philadelphia Flyers @ Pittsburgh Penguins
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-17-new-york-rangers-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260117T180000Z
+DTEND:20260117T210000Z
+SUMMARY:New York Rangers @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nNew York Rangers @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-20-philadelphia-flyers-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20260120T010000Z
+DTEND:20260120T040000Z
+SUMMARY:Philadelphia Flyers @ Vegas Golden Knights
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-22-philadelphia-flyers-vs-utah-hockey-club@open-sports-cal
+DTSTART:20260122T020000Z
+DTEND:20260122T050000Z
+SUMMARY:Philadelphia Flyers @ Utah Hockey Club
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-24-philadelphia-flyers-vs-colorado-avalanche@open-sports-cal
+DTSTART:20260124T020000Z
+DTEND:20260124T050000Z
+SUMMARY:Philadelphia Flyers @ Colorado Avalanche
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-27-new-york-islanders-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260127T000000Z
+DTEND:20260127T030000Z
+SUMMARY:New York Islanders @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nNew York Islanders @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-29-philadelphia-flyers-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20260129T003000Z
+DTEND:20260129T033000Z
+SUMMARY:Philadelphia Flyers @ Columbus Blue Jackets
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-30-philadelphia-flyers-vs-boston-bruins@open-sports-cal
+DTSTART:20260130T000000Z
+DTEND:20260130T030000Z
+SUMMARY:Philadelphia Flyers @ Boston Bruins
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-01-31-los-angeles-kings-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260131T173000Z
+DTEND:20260131T203000Z
+SUMMARY:Los Angeles Kings @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-04-washington-capitals-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260204T000000Z
+DTEND:20260204T030000Z
+SUMMARY:Washington Capitals @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-06-ottawa-senators-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260206T000000Z
+DTEND:20260206T030000Z
+SUMMARY:Ottawa Senators @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nOttawa Senators @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-26-philadelphia-flyers-vs-washington-capitals@open-sports-cal
+DTSTART:20260226T000000Z
+DTEND:20260226T030000Z
+SUMMARY:Philadelphia Flyers @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-27-philadelphia-flyers-vs-new-york-rangers@open-sports-cal
+DTSTART:20260227T010000Z
+DTEND:20260227T040000Z
+SUMMARY:Philadelphia Flyers @ New York Rangers
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-02-28-boston-bruins-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260228T200000Z
+DTEND:20260228T230000Z
+SUMMARY:Boston Bruins @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nBoston Bruins @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-03-philadelphia-flyers-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20260303T003000Z
+DTEND:20260303T033000Z
+SUMMARY:Philadelphia Flyers @ Toronto Maple Leafs
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-06-utah-hockey-club-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260306T000000Z
+DTEND:20260306T030000Z
+SUMMARY:Utah Hockey Club @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-07-philadelphia-flyers-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20260307T223000Z
+DTEND:20260308T013000Z
+SUMMARY:Philadelphia Flyers @ Pittsburgh Penguins
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-09-new-york-rangers-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260309T230000Z
+DTEND:20260310T020000Z
+SUMMARY:New York Rangers @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nNew York Rangers @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-11-washington-capitals-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260311T233000Z
+DTEND:20260312T023000Z
+SUMMARY:Washington Capitals @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-13-philadelphia-flyers-vs-minnesota-wild@open-sports-cal
+DTSTART:20260313T000000Z
+DTEND:20260313T030000Z
+SUMMARY:Philadelphia Flyers @ Minnesota Wild
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-14-columbus-blue-jackets-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260314T233000Z
+DTEND:20260315T023000Z
+SUMMARY:Columbus Blue Jackets @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-19-philadelphia-flyers-vs-anaheim-ducks@open-sports-cal
+DTSTART:20260319T020000Z
+DTEND:20260319T050000Z
+SUMMARY:Philadelphia Flyers @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-20-philadelphia-flyers-vs-los-angeles-kings@open-sports-cal
+DTSTART:20260320T023000Z
+DTEND:20260320T053000Z
+SUMMARY:Philadelphia Flyers @ Los Angeles Kings
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-21-philadelphia-flyers-vs-san-jose-sharks@open-sports-cal
+DTSTART:20260321T200000Z
+DTEND:20260321T230000Z
+SUMMARY:Philadelphia Flyers @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-24-columbus-blue-jackets-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260324T230000Z
+DTEND:20260325T020000Z
+SUMMARY:Columbus Blue Jackets @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-26-chicago-blackhawks-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260326T230000Z
+DTEND:20260327T020000Z
+SUMMARY:Chicago Blackhawks @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-29-philadelphia-flyers-vs-detroit-red-wings@open-sports-cal
+DTSTART:20260329T000000Z
+DTEND:20260329T030000Z
+SUMMARY:Philadelphia Flyers @ Detroit Red Wings
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-29-dallas-stars-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260329T230000Z
+DTEND:20260330T020000Z
+SUMMARY:Dallas Stars @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nDallas Stars @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-03-31-philadelphia-flyers-vs-washington-capitals@open-sports-cal
+DTSTART:20260331T230000Z
+DTEND:20260401T020000Z
+SUMMARY:Philadelphia Flyers @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-02-detroit-red-wings-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260402T230000Z
+DTEND:20260403T020000Z
+SUMMARY:Detroit Red Wings @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-03-philadelphia-flyers-vs-new-york-islanders@open-sports-cal
+DTSTART:20260403T230000Z
+DTEND:20260404T020000Z
+SUMMARY:Philadelphia Flyers @ New York Islanders
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-05-boston-bruins-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260405T193000Z
+DTEND:20260405T223000Z
+SUMMARY:Boston Bruins @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nBoston Bruins @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-07-philadelphia-flyers-vs-new-jersey-devils@open-sports-cal
+DTSTART:20260407T230000Z
+DTEND:20260408T020000Z
+SUMMARY:Philadelphia Flyers @ New Jersey Devils
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-09-philadelphia-flyers-vs-detroit-red-wings@open-sports-cal
+DTSTART:20260409T230000Z
+DTEND:20260410T020000Z
+SUMMARY:Philadelphia Flyers @ Detroit Red Wings
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-11-philadelphia-flyers-vs-winnipeg-jets@open-sports-cal
+DTSTART:20260411T230000Z
+DTEND:20260412T020000Z
+SUMMARY:Philadelphia Flyers @ Winnipeg Jets
+DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-13-carolina-hurricanes-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260413T230000Z
+DTEND:20260414T020000Z
+SUMMARY:Carolina Hurricanes @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-2026-04-14-montreal-canadiens-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260414T230000Z
+DTEND:20260415T020000Z
+SUMMARY:Montréal Canadiens @ Philadelphia Flyers
+DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260331T221344Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

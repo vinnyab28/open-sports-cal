@@ -27,6 +27,7 @@ SPORT_META = {
     "football":          {"label": "Soccer",            "icon": "⚽", "color": "#16a34a"},
     "basketball":        {"label": "Basketball",        "icon": "🏀", "color": "#ea580c"},
     "baseball":          {"label": "Baseball",          "icon": "⚾", "color": "#dc2626"},
+    "hockey":            {"label": "Hockey",            "icon": "🏒", "color": "#0369a1"},
     "tennis":            {"label": "Tennis",            "icon": "🎾", "color": "#65a30d"},
     "motorsport":        {"label": "Motorsport",        "icon": "🏎️", "color": "#7c3aed"},
     "american-football": {"label": "Football",          "icon": "🏈", "color": "#b45309"},
