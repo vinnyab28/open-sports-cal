@@ -96,9 +96,37 @@ https://raw.githubusercontent.com/<username>/open-sports-cal/main/<path-to-file>
 
 ## Contributing
 
-- Found a wrong date or venue? Open an issue or submit a PR.
-- Want to add a new sport/league? Follow the existing folder structure:
-  `<sport>/<league>/<season>/`
+Found a wrong date or venue? Want to add a new league or season? Contributions are welcome!
+
+- **Report an issue** — use [GitHub Issues](../../issues) for incorrect data or missing leagues
+- **Fix data** — edit the `.ics` file directly and open a PR with a link to the official source
+- **Add a new season or league** — follow the folder structure `<sport>/<league>/<season>/`
+
+Run the validator before submitting:
+```bash
+python3 validate.py
+```
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide — file format rules, UID conventions, generation scripts, and PR guidelines.
+
+---
+
+## Using AI to Contribute
+
+This repo includes context files that let AI coding assistants (Claude Code, GitHub Copilot, Codex, etc.) understand the project and contribute correctly without manual explanation.
+
+| File | Purpose | Use with |
+|------|---------|----------|
+| [`CLAUDE.md`](CLAUDE.md) | Full project spec — folder structure, `.ics` format rules, field conventions, data sources, generation script template | Claude Code (`claude` CLI) |
+| [`AGENTS.md`](AGENTS.md) | Concise task guide for any AI agent — how to add seasons, fix data, validate | Any AI agent (Codex, Copilot Workspace, etc.) |
+
+**Example — add a new league season with Claude Code:**
+```bash
+# In the repo root
+claude
+> Add the 2026-27 Premier League season using fixturedownload.com
+```
+The AI will read `CLAUDE.md`, fetch the data, generate all `.ics` files, write the `README.md`, and run validation — no manual setup needed.
 
 ---
 
