@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>open-sports-cal — Free Sports Calendars</title>
+        <title>🗓️ open-sports-cal — Free Sports Calendars</title>
         <meta name="description" content="Free, open-source sports calendars in iCalendar (.ics) format. Subscribe for IPL, F1, NBA, MLB, Premier League, La Liga, Bundesliga, Serie A, Ligue 1, MotoGP, and Tennis Grand Slams." />
         <style>
             *,
@@ -683,7 +683,9 @@
                 border-bottom: 1px solid var(--border);
                 flex-shrink: 0;
             }
-            .legend-header-text { flex: 1; }
+            .legend-header-text {
+                flex: 1;
+            }
             .legend-title-text {
                 font-size: 0.95rem;
                 font-weight: 700;
@@ -704,7 +706,9 @@
                 padding: 0.8rem 1.25rem;
                 border-bottom: 1px solid var(--border);
             }
-            .legend-item:last-child { border-bottom: none; }
+            .legend-item:last-child {
+                border-bottom: none;
+            }
             .legend-icon {
                 flex-shrink: 0;
                 width: 28px;
@@ -763,7 +767,9 @@
                 transition: background 0.15s;
                 flex-shrink: 0;
             }
-            .legend-got-it:hover { background: var(--indigo-h); }
+            .legend-got-it:hover {
+                background: var(--indigo-h);
+            }
 
             /* Schedule */
             .sched-msg {
@@ -1008,10 +1014,15 @@
                 opacity: 0;
                 pointer-events: none;
                 transition: opacity 0.25s;
-                box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+                box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
             }
-            #gcalToast.show { opacity: 1; pointer-events: auto; }
-            #gcalToast strong { color: #93c5fd; }
+            #gcalToast.show {
+                opacity: 1;
+                pointer-events: auto;
+            }
+            #gcalToast strong {
+                color: #93c5fd;
+            }
         </style>
         <!-- Early theme init — runs before paint to avoid flash -->
         <script>
@@ -1032,17 +1043,25 @@
                     <span class="brand-icon">🗓️</span>
                     <span class="brand-name">open-sports-cal</span>
                 </a>
-                <div style="display:flex;align-items:center;gap:0.5rem;">
+                <div style="display: flex; align-items: center; gap: 0.5rem">
                     <a class="gh-icon-link" id="ghStarLink" href="#" target="_blank" rel="noopener" aria-label="GitHub">
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" /></svg>
                     </a>
                     <button class="help-btn" onclick="openLegend()" aria-label="How to use">?</button>
                     <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme" title="Toggle theme">
                         <svg class="icon-sun" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-                            <circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+                            <circle cx="12" cy="12" r="5" />
+                            <line x1="12" y1="1" x2="12" y2="3" />
+                            <line x1="12" y1="21" x2="12" y2="23" />
+                            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+                            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+                            <line x1="1" y1="12" x2="3" y2="12" />
+                            <line x1="21" y1="12" x2="23" y2="12" />
+                            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+                            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
                         </svg>
                         <svg class="icon-moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-                            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+                            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
                         </svg>
                     </button>
                 </div>
@@ -1107,7 +1126,7 @@
                     localStorage.setItem("osc-theme", next);
                 });
                 // Listen for OS preference changes (when no manual override in localStorage)
-                window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", (e) => {
+                window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", e => {
                     if (!localStorage.getItem("osc-theme")) {
                         document.documentElement.setAttribute("data-theme", e.matches ? "dark" : "light");
                     }
@@ -1293,9 +1312,7 @@
                 });
 
                 if (visible.length === 0) {
-                    const msg = q
-                        ? `No calendars match "<b>${escapeHtml(q)}</b>"`
-                        : "No calendars available yet — check back soon!";
+                    const msg = q ? `No calendars match "<b>${escapeHtml(q)}</b>"` : "No calendars available yet — check back soon!";
                     grid.innerHTML = `<div class="empty"><div class="empty-icon">🔍</div><p>${msg}</p></div>`;
                     return;
                 }
@@ -1472,12 +1489,13 @@
                     const ianaZone = tz === "IST" ? "Asia/Kolkata" : tz;
                     try {
                         const localTime = new Intl.DateTimeFormat("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: ianaZone }).format(dt);
-                        const userTime  = new Intl.DateTimeFormat("en-GB", { hour: "2-digit", minute: "2-digit" }).format(dt);
+                        const userTime = new Intl.DateTimeFormat("en-GB", { hour: "2-digit", minute: "2-digit" }).format(dt);
                         if (localTime === userTime) return null;
-                        const abbr = new Intl.DateTimeFormat("en-US", { timeZoneName: "short", timeZone: ianaZone })
-                            .formatToParts(dt).find(p => p.type === "timeZoneName")?.value || "";
+                        const abbr = new Intl.DateTimeFormat("en-US", { timeZoneName: "short", timeZone: ianaZone }).formatToParts(dt).find(p => p.type === "timeZoneName")?.value || "";
                         return `${localTime} ${abbr}`;
-                    } catch (e) { return null; }
+                    } catch (e) {
+                        return null;
+                    }
                 };
 
                 const html = Object.entries(groups)
@@ -1488,9 +1506,7 @@
                             .map(({ ev, dt, allDay }) => {
                                 const venue = (ev.location || "").split(",")[0].trim();
                                 const eventTz = allDay ? null : fmtEventTz(dt, ev.tz);
-                                const timeCell = eventTz
-                                    ? `${fmtTime(dt, allDay)}<span class="event-tz">${escapeHtml(eventTz)}</span>`
-                                    : fmtTime(dt, allDay);
+                                const timeCell = eventTz ? `${fmtTime(dt, allDay)}<span class="event-tz">${escapeHtml(eventTz)}</span>` : fmtTime(dt, allDay);
                                 return `<div class="match-row">
                                     <span class="match-time">${timeCell}</span>
                                     <span class="match-teams">${escapeHtml(ev.summary || "")}</span>
@@ -1512,13 +1528,15 @@
             document.getElementById("footerGhLink").href = GITHUB_URL;
             document.getElementById("ghStarLink").href = GITHUB_URL;
 
-
             buildFilters();
             renderGrid();
 
             document.getElementById("searchInput").addEventListener("input", renderGrid);
             document.addEventListener("keydown", e => {
-                if (e.key === "Escape") { closeModal(); closeLegend?.(); }
+                if (e.key === "Escape") {
+                    closeModal();
+                    closeLegend?.();
+                }
             });
         </script>
 
@@ -1534,8 +1552,13 @@
                 </div>
                 <div class="legend-body">
                     <div class="legend-item">
-                        <div class="legend-icon" style="background:var(--indigo);color:white;border-color:var(--indigo)">
-                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+                        <div class="legend-icon" style="background: var(--indigo); color: white; border-color: var(--indigo)">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                                <rect x="3" y="4" width="18" height="18" rx="2" />
+                                <line x1="16" y1="2" x2="16" y2="6" />
+                                <line x1="8" y1="2" x2="8" y2="6" />
+                                <line x1="3" y1="10" x2="21" y2="10" />
+                            </svg>
                         </div>
                         <div class="legend-info">
                             <strong>Subscribe</strong>
@@ -1543,17 +1566,30 @@
                         </div>
                     </div>
                     <div class="legend-item">
-                        <div class="legend-icon" style="background:var(--card);border-color:var(--border)">
-                            <svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l3.66-2.84z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/></svg>
+                        <div class="legend-icon" style="background: var(--card); border-color: var(--border)">
+                            <svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+                                <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" />
+                                <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" />
+                                <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l3.66-2.84z" />
+                                <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z" />
+                            </svg>
                         </div>
                         <div class="legend-info">
                             <strong>Add to Google Calendar</strong>
-                            <p>Best for desktop Google Calendar users. On Android, tap this to copy the calendar URL, then subscribe via <b>calendar.google.com</b> on a computer (Other calendars + → From URL → Paste) — it syncs to your phone automatically.</p>
+                            <p>
+                                Best for desktop Google Calendar users. On Android, tap this to copy the calendar URL, then subscribe via
+                                <b>calendar.google.com</b>
+                                on a computer (Other calendars + → From URL → Paste) — it syncs to your phone automatically.
+                            </p>
                         </div>
                     </div>
                     <div class="legend-item">
-                        <div class="legend-icon" style="background:var(--subtle);color:var(--muted);border-color:var(--border)">
-                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+                        <div class="legend-icon" style="background: var(--subtle); color: var(--muted); border-color: var(--border)">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+                                <polyline points="7 10 12 15 17 10" />
+                                <line x1="12" y1="15" x2="12" y2="3" />
+                            </svg>
                         </div>
                         <div class="legend-info">
                             <strong>Download .ics</strong>
@@ -1561,8 +1597,11 @@
                         </div>
                     </div>
                     <div class="legend-item">
-                        <div class="legend-icon" style="background:var(--subtle);color:var(--muted);border-color:var(--border)">
-                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+                        <div class="legend-icon" style="background: var(--subtle); color: var(--muted); border-color: var(--border)">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                                <rect x="9" y="9" width="13" height="13" rx="2" />
+                                <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" />
+                            </svg>
                         </div>
                         <div class="legend-info">
                             <strong>Copy link</strong>
@@ -1570,8 +1609,15 @@
                         </div>
                     </div>
                     <div class="legend-item">
-                        <div class="legend-icon" style="background:var(--subtle);color:var(--muted);border-color:var(--border)">
-                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="9" y1="6" x2="20" y2="6"/><line x1="9" y1="12" x2="20" y2="12"/><line x1="9" y1="18" x2="20" y2="18"/><circle cx="4" cy="6" r="1" fill="currentColor" stroke="none"/><circle cx="4" cy="12" r="1" fill="currentColor" stroke="none"/><circle cx="4" cy="18" r="1" fill="currentColor" stroke="none"/></svg>
+                        <div class="legend-icon" style="background: var(--subtle); color: var(--muted); border-color: var(--border)">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                                <line x1="9" y1="6" x2="20" y2="6" />
+                                <line x1="9" y1="12" x2="20" y2="12" />
+                                <line x1="9" y1="18" x2="20" y2="18" />
+                                <circle cx="4" cy="6" r="1" fill="currentColor" stroke="none" />
+                                <circle cx="4" cy="12" r="1" fill="currentColor" stroke="none" />
+                                <circle cx="4" cy="18" r="1" fill="currentColor" stroke="none" />
+                            </svg>
                         </div>
                         <div class="legend-info">
                             <strong>View Schedule</strong>
@@ -1581,7 +1627,7 @@
                 </div>
                 <div class="legend-footer">
                     <label>
-                        <input type="checkbox" id="dontShowLegend">
+                        <input type="checkbox" id="dontShowLegend" />
                         Don't show this again
                     </label>
                     <button class="legend-got-it" onclick="closeLegend()">Got it</button>
@@ -1623,7 +1669,9 @@
 
             function closeLegend() {
                 if (document.getElementById("dontShowLegend").checked) {
-                    try { localStorage.setItem("sports-cal-legend-dismissed", "1"); } catch (e) {}
+                    try {
+                        localStorage.setItem("sports-cal-legend-dismissed", "1");
+                    } catch (e) {}
                 }
                 document.getElementById("legendModal").classList.remove("open");
                 document.body.style.overflow = "";
@@ -1637,9 +1685,15 @@
         </script>
 
         <div id="gcalToast">
-            📋 <strong>URL copied!</strong><br>
-            To subscribe: open <strong>calendar.google.com</strong> on a computer →<br>
-            <strong>Other calendars (+) → From URL → Paste</strong><br>
+            📋
+            <strong>URL copied!</strong>
+            <br />
+            To subscribe: open
+            <strong>calendar.google.com</strong>
+            on a computer →
+            <br />
+            <strong>Other calendars (+) → From URL → Paste</strong>
+            <br />
             It will sync to your phone automatically.
         </div>
     </body>
