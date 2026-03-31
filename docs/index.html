@@ -1120,6 +1120,11 @@
 
             function gcalUrl(path) {
                 const wc = webcalUrl(path);
+                // On mobile (Android), webcal:// links are intercepted by the OS and
+                // handled natively by Google Calendar — no browser redirect needed.
+                // On desktop, the calendar.google.com render URL shows a subscription dialog.
+                const isMobile = /Android/i.test(navigator.userAgent);
+                if (isMobile) return wc || rawUrl(path);
                 return `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(wc || rawUrl(path))}`;
             }
 
@@ -1500,7 +1505,7 @@
                         </div>
                         <div class="legend-info">
                             <strong>Add to Google Calendar</strong>
-                            <p>Best for Android and Google Calendar users. Opens Google Calendar with a subscription prompt — click "Add calendar" to confirm. Events stay in sync automatically.</p>
+                            <p>Best for Android and Google Calendar users. On Android, opens the Google Calendar app directly with a subscription prompt. On desktop, opens Google Calendar in the browser. Events stay in sync automatically.</p>
                         </div>
                     </div>
                     <div class="legend-item">
