@@ -1293,7 +1293,10 @@
                 });
 
                 if (visible.length === 0) {
-                    grid.innerHTML = `<div class="empty"><div class="empty-icon">🔍</div><p>No calendars match "<strong>${escapeHtml(q)}</strong>"</p></div>`;
+                    const msg = q
+                        ? `No calendars match "<b>${escapeHtml(q)}</b>"`
+                        : "No calendars available yet — check back soon!";
+                    grid.innerHTML = `<div class="empty"><div class="empty-icon">🔍</div><p>${msg}</p></div>`;
                     return;
                 }
                 grid.innerHTML = visible.map(renderCard).join("");
