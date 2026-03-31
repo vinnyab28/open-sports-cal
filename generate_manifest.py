@@ -24,12 +24,12 @@ OUT  = ROOT / "docs" / "data.js"
 # Add one entry here when adding a brand-new sport to the repo.
 SPORT_META = {
     "cricket":           {"label": "Cricket",           "icon": "🏏", "color": "#f97316"},
-    "football":          {"label": "Football",          "icon": "⚽", "color": "#16a34a"},
+    "football":          {"label": "Soccer",            "icon": "⚽", "color": "#16a34a"},
     "basketball":        {"label": "Basketball",        "icon": "🏀", "color": "#ea580c"},
     "baseball":          {"label": "Baseball",          "icon": "⚾", "color": "#dc2626"},
     "tennis":            {"label": "Tennis",            "icon": "🎾", "color": "#65a30d"},
     "motorsport":        {"label": "Motorsport",        "icon": "🏎️", "color": "#7c3aed"},
-    "american-football": {"label": "American Football", "icon": "🏈", "color": "#b45309"},
+    "american-football": {"label": "Football",          "icon": "🏈", "color": "#b45309"},
 }
 
 # Short-name overrides: league folder name → display abbreviation.
