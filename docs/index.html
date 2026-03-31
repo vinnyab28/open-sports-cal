@@ -690,8 +690,7 @@
                 letter-spacing: 0.06em;
             }
             .match-row {
-                display: grid;
-                grid-template-columns: 5.5rem 1fr auto;
+                display: flex;
                 align-items: center;
                 gap: 0.75rem;
                 padding: 0.5rem 1.25rem;
@@ -709,6 +708,8 @@
                 font-weight: 600;
                 color: var(--indigo);
                 white-space: nowrap;
+                flex-shrink: 0;
+                width: 5.5rem;
             }
             .event-tz {
                 font-size: 0.65rem;
@@ -722,6 +723,8 @@
                 white-space: nowrap;
                 overflow: hidden;
                 text-overflow: ellipsis;
+                flex: 1 0.1 auto;
+                min-width: 0;
             }
             .match-venue {
                 font-size: 0.68rem;
@@ -730,7 +733,8 @@
                 white-space: nowrap;
                 overflow: hidden;
                 text-overflow: ellipsis;
-                max-width: 140px;
+                flex: 0 10 auto;
+                min-width: 0;
             }
             @media (max-width: 500px) {
                 .match-row {
