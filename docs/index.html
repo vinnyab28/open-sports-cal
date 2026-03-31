@@ -21,6 +21,8 @@
                 --text: #0f172a;
                 --muted: #64748b;
                 --subtle: #f8fafc;
+                --hover: #e2e8f0;
+                --header-bg: rgba(255, 255, 255, 0.92);
                 --radius: 14px;
                 --shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 1px 2px rgba(0, 0, 0, 0.04);
                 --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.1);
@@ -41,7 +43,7 @@
                 position: sticky;
                 top: 0;
                 z-index: 100;
-                background: rgba(255, 255, 255, 0.92);
+                background: var(--header-bg);
                 backdrop-filter: blur(12px);
                 -webkit-backdrop-filter: blur(12px);
                 border-bottom: 1px solid var(--border);
@@ -101,7 +103,7 @@
 
             /* ── Hero ───────────────────────────────── */
             .hero {
-                background: white;
+                background: var(--card);
                 border-bottom: 1px solid var(--border);
                 padding: 2.5rem 1.25rem 2rem;
                 text-align: center;
@@ -168,7 +170,7 @@
                 border: 1px solid var(--border);
                 border-radius: 10px;
                 font-size: 0.9rem;
-                background: white;
+                background: var(--card);
                 color: var(--text);
                 outline: none;
                 transition:
@@ -194,7 +196,7 @@
                 padding: 0.4rem 0.9rem;
                 border: 1px solid var(--border);
                 border-radius: 999px;
-                background: white;
+                background: var(--card);
                 font-size: 0.78rem;
                 font-weight: 600;
                 color: var(--muted);
@@ -317,8 +319,8 @@
                 background: var(--indigo-h);
             }
             .btn-gcal {
-                background: white;
-                color: #374151;
+                background: var(--card);
+                color: var(--text);
                 border-color: var(--border);
             }
             .btn-gcal:hover {
@@ -331,7 +333,7 @@
                 border-color: var(--border);
             }
             .btn-download:hover {
-                background: #e2e8f0;
+                background: var(--hover);
                 color: var(--text);
             }
             .btn-copy {
@@ -340,7 +342,7 @@
                 border-color: var(--border);
             }
             .btn-copy:hover {
-                background: #e2e8f0;
+                background: var(--hover);
                 color: var(--text);
             }
             .btn-copy.copied {
@@ -354,7 +356,7 @@
                 border-color: var(--border);
             }
             .btn-schedule:hover {
-                background: #e2e8f0;
+                background: var(--hover);
                 color: var(--indigo);
             }
 
@@ -418,7 +420,7 @@
             }
             .team-name {
                 font-size: 0.78rem;
-                color: #374151;
+                color: var(--text);
                 flex: 1;
                 min-width: 0;
                 white-space: nowrap;
@@ -481,7 +483,7 @@
 
             /* ── Footer ─────────────────────────────── */
             .site-footer {
-                background: white;
+                background: var(--card);
                 border-top: 1px solid var(--border);
                 padding: 1.75rem 1.25rem;
             }
@@ -560,7 +562,7 @@
                 pointer-events: all;
             }
             .modal {
-                background: white;
+                background: var(--card);
                 border-radius: 16px;
                 overflow: hidden;
                 width: 100%;
@@ -638,7 +640,7 @@
                 border-radius: 8px;
                 font-size: 0.82rem;
                 color: var(--text);
-                background: white;
+                background: var(--card);
                 cursor: pointer;
                 outline: none;
                 transition:
