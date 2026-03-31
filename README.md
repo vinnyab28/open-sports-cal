@@ -4,9 +4,9 @@ Free, open-source sports calendars in iCalendar (`.ics`) format — subscribe or
 
 Times vary by sport and league — see each league's README for timezone details. Most calendars use **UTC**; IPL uses **IST (UTC+5:30)**. Your calendar app will convert to local time automatically.
 
-🌐 **[Browse & subscribe at open-sports-cal →](https://vinnyab28.github.io/open-sports-cal/)**
+🌐 **[Website](https://vinnyab28.github.io/open-sports-cal/)**
 
-⭐ If this saves you time, consider giving the repo a star — it helps others find it!
+If you find this useful, give it a ⭐ — it helps others find it!
 [![GitHub Stars](https://img.shields.io/github/stars/vinnyab28/open-sports-cal?style=social)](https://github.com/vinnyab28/open-sports-cal/stargazers)
 
 ---
