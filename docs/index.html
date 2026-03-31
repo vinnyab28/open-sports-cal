@@ -3,8 +3,69 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>🗓️ open-sports-cal — Free Sports Calendars</title>
-        <meta name="description" content="Free, open-source sports calendars in iCalendar (.ics) format. Subscribe for IPL, F1, NBA, MLB, Premier League, La Liga, Bundesliga, Serie A, Ligue 1, MotoGP, and Tennis Grand Slams." />
+        <title>Free Sports Calendars (.ics) — IPL, F1, NBA, MLB, NHL, Premier League & More</title>
+        <meta name="description" content="Free sports iCal files for IPL, F1, NBA, MLB, NHL, Premier League, La Liga, Bundesliga, Serie A, Ligue 1 & MotoGP. Subscribe to live schedules in Google Calendar, Apple Calendar, or Outlook. Free forever." />
+        <meta name="keywords" content="sports calendar, ics calendar, icalendar, ipl calendar ics, nba calendar ics, mlb calendar ics, nhl calendar ics, f1 calendar ics, premier league calendar, google calendar sports, sports schedule, free sports ics" />
+        <meta name="robots" content="index, follow" />
+        <link rel="canonical" href="https://vinnyab28.github.io/open-sports-cal/" />
+
+        <!-- Open Graph -->
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://vinnyab28.github.io/open-sports-cal/" />
+        <meta property="og:site_name" content="open-sports-cal" />
+        <meta property="og:title" content="Free Sports Calendars (.ics) — IPL, F1, NBA, MLB, NHL, Premier League & More" />
+        <meta property="og:description" content="Free sports iCal files for IPL, F1, NBA, MLB, NHL, Premier League, La Liga, Bundesliga, Serie A, Ligue 1 & MotoGP. Subscribe to live schedules in Google Calendar, Apple Calendar, or Outlook." />
+        <meta property="og:image" content="https://vinnyab28.github.io/open-sports-cal/social-preview.png" />
+
+        <!-- Twitter Card -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Free Sports Calendars (.ics) — IPL, F1, NBA, MLB, NHL & More" />
+        <meta name="twitter:description" content="Subscribe to live sports schedules for IPL, F1, NBA, MLB, NHL, Premier League & more — straight into Google Calendar, Apple Calendar, or Outlook." />
+        <meta name="twitter:image" content="https://vinnyab28.github.io/open-sports-cal/social-preview.png" />
+
+        <!-- Structured Data -->
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://vinnyab28.github.io/open-sports-cal/#website",
+              "name": "open-sports-cal",
+              "url": "https://vinnyab28.github.io/open-sports-cal/",
+              "description": "Free iCalendar (.ics) sports schedules for IPL, F1, NBA, MLB, NHL, Premier League, La Liga, Bundesliga, Serie A, Ligue 1, MotoGP, and Tennis Grand Slams.",
+              "potentialAction": {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://vinnyab28.github.io/open-sports-cal/?q={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            },
+            {
+              "@type": "ItemList",
+              "name": "Free Sports Calendars",
+              "description": "Free iCalendar (.ics) files covering 12 leagues across 7 sports",
+              "numberOfItems": 12,
+              "itemListElement": [
+                {"@type": "ListItem", "position": 1,  "name": "IPL 2026 Cricket Calendar (.ics)",           "url": "https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/cricket/ipl/2026/all-teams.ics"},
+                {"@type": "ListItem", "position": 2,  "name": "Formula 1 2026 Calendar (.ics)",             "url": "https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/motorsport/formula-1/2026/all-races.ics"},
+                {"@type": "ListItem", "position": 3,  "name": "MotoGP 2026 Calendar (.ics)",                "url": "https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/motorsport/motogp/2026/all-races.ics"},
+                {"@type": "ListItem", "position": 4,  "name": "NBA 2025-26 Basketball Calendar (.ics)",     "url": "https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/basketball/nba/2025-26/all-teams.ics"},
+                {"@type": "ListItem", "position": 5,  "name": "MLB 2026 Baseball Calendar (.ics)",          "url": "https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/baseball/mlb/2026/all-teams.ics"},
+                {"@type": "ListItem", "position": 6,  "name": "NHL 2025-26 Hockey Calendar (.ics)",         "url": "https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/hockey/nhl/2025-26/all-teams.ics"},
+                {"@type": "ListItem", "position": 7,  "name": "Premier League 2025-26 Calendar (.ics)",    "url": "https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/football/premier-league/2025-26/all-teams.ics"},
+                {"@type": "ListItem", "position": 8,  "name": "La Liga 2025-26 Calendar (.ics)",            "url": "https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/football/la-liga/2025-26/all-teams.ics"},
+                {"@type": "ListItem", "position": 9,  "name": "Bundesliga 2025-26 Calendar (.ics)",         "url": "https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/football/bundesliga/2025-26/all-teams.ics"},
+                {"@type": "ListItem", "position": 10, "name": "Serie A 2025-26 Calendar (.ics)",            "url": "https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/football/serie-a/2025-26/all-teams.ics"},
+                {"@type": "ListItem", "position": 11, "name": "Ligue 1 2025-26 Calendar (.ics)",            "url": "https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/football/ligue-1/2025-26/all-teams.ics"},
+                {"@type": "ListItem", "position": 12, "name": "Tennis Grand Slams 2026 Calendar (.ics)",   "url": "https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/tennis/grand-slams/2026/all-grand-slams.ics"}
+              ]
+            }
+          ]
+        }
+        </script>
         <style>
             *,
             *::before,
@@ -1070,8 +1131,8 @@
 
         <!-- ── Hero ───────────────────────────────────── -->
         <div class="hero">
-            <h1>Sports calendars for every fan</h1>
-            <p>Subscribe to live schedules for your favourite leagues — straight into Google Calendar, Apple Calendar, or Outlook.</p>
+            <h1>Free Sports Calendars for Every Fan</h1>
+            <p>Subscribe to live schedules for IPL, F1, NBA, MLB, NHL, Premier League &amp; more — straight into Google Calendar, Apple Calendar, or Outlook. Free forever.</p>
             <div class="hero-stats">
                 <span class="stat-pill">11 leagues</span>
                 <span class="stat-pill">181 calendars</span>
@@ -1094,6 +1155,29 @@
             </div>
 
             <div class="league-grid" id="leagueGrid"></div>
+
+            <!-- Static content for search engine crawlers -->
+            <noscript>
+                <section style="margin-top:2rem">
+                    <h2>Available Sports Calendars</h2>
+                    <p>Download or subscribe to free iCalendar (.ics) files for the following sports leagues:</p>
+                    <ul>
+                        <li><a href="https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/cricket/ipl/2026/all-teams.ics">IPL 2026 — Indian Premier League Cricket Calendar</a></li>
+                        <li><a href="https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/motorsport/formula-1/2026/all-races.ics">Formula 1 2026 — F1 Race Calendar</a></li>
+                        <li><a href="https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/motorsport/motogp/2026/all-races.ics">MotoGP 2026 — MotoGP Race Calendar</a></li>
+                        <li><a href="https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/basketball/nba/2025-26/all-teams.ics">NBA 2025-26 — Basketball Schedule Calendar</a></li>
+                        <li><a href="https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/baseball/mlb/2026/all-teams.ics">MLB 2026 — Major League Baseball Schedule Calendar</a></li>
+                        <li><a href="https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/hockey/nhl/2025-26/all-teams.ics">NHL 2025-26 — Hockey Schedule Calendar</a></li>
+                        <li><a href="https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/football/premier-league/2025-26/all-teams.ics">Premier League 2025-26 — English Football Calendar</a></li>
+                        <li><a href="https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/football/la-liga/2025-26/all-teams.ics">La Liga 2025-26 — Spanish Football Calendar</a></li>
+                        <li><a href="https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/football/bundesliga/2025-26/all-teams.ics">Bundesliga 2025-26 — German Football Calendar</a></li>
+                        <li><a href="https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/football/serie-a/2025-26/all-teams.ics">Serie A 2025-26 — Italian Football Calendar</a></li>
+                        <li><a href="https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/football/ligue-1/2025-26/all-teams.ics">Ligue 1 2025-26 — French Football Calendar</a></li>
+                        <li><a href="https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/tennis/grand-slams/2026/all-grand-slams.ics">Tennis Grand Slams 2026 — Australian Open, Roland Garros, Wimbledon, US Open</a></li>
+                    </ul>
+                    <p>All calendars are in iCalendar (.ics) format and work with Google Calendar, Apple Calendar (iCal), and Microsoft Outlook.</p>
+                </section>
+            </noscript>
         </main>
 
         <!-- ── Footer ─────────────────────────────────── -->
@@ -1529,9 +1613,23 @@
             document.getElementById("ghStarLink").href = GITHUB_URL;
 
             buildFilters();
+
+            // Pre-populate search from URL ?q= param (supports JSON-LD SearchAction)
+            (function () {
+                const params = new URLSearchParams(window.location.search);
+                const q = params.get("q");
+                if (q) document.getElementById("searchInput").value = q;
+            })();
+
             renderGrid();
 
-            document.getElementById("searchInput").addEventListener("input", renderGrid);
+            document.getElementById("searchInput").addEventListener("input", function () {
+                const q = this.value.trim();
+                const url = new URL(window.location.href);
+                if (q) { url.searchParams.set("q", q); } else { url.searchParams.delete("q"); }
+                history.replaceState(null, "", url);
+                renderGrid();
+            });
             document.addEventListener("keydown", e => {
                 if (e.key === "Escape") {
                     closeModal();
