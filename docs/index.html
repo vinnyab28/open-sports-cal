@@ -1264,6 +1264,7 @@
             // On Android, Google Calendar app cannot subscribe to external URLs
             // (it silently saves but never syncs). Best UX: copy URL + show instructions.
             function gcalClick(event, path) {
+                gtag('event', 'gcal_click', { event_label: path });
                 if (!IS_ANDROID) return; // desktop: follow the href normally
                 event.preventDefault();
                 const url = rawUrl(path);
@@ -1450,8 +1451,13 @@
                 const btn = e.target.closest("[data-copy-url]");
                 if (btn) {
                     e.preventDefault();
+                    gtag('event', 'copy_link', { event_label: btn.dataset.copyUrl });
                     copyUrl(btn.dataset.copyUrl, btn);
                 }
+                const sub = e.target.closest(".btn-subscribe, .icon-btn:not(.gcal):not(.dl):not(.copy)");
+                if (sub) gtag('event', 'subscribe_click', { event_label: sub.href || '' });
+                const dl = e.target.closest(".btn-download, .icon-btn.dl");
+                if (dl) gtag('event', 'download_click', { event_label: dl.href || '' });
             });
 
             // ── Tooltip engine ────────────────────────────────────────────────────────────
@@ -1500,6 +1506,7 @@
             let _schedLg = null;
 
             function openSchedule(path) {
+                gtag('event', 'schedule_view', { event_label: path });
                 _schedLg = LEAGUE_MAP[path];
                 if (!_schedLg) return;
                 const sp = SPORTS[_schedLg.sport];
