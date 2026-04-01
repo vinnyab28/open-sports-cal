@@ -5,6 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:La Liga 2025-26 - Real Betis
 X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
 UID:la-liga-2025-8@open-sports-cal
 DTSTART:20250818T190000Z

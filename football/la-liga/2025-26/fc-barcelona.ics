@@ -5,6 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:La Liga 2025-26 - FC Barcelona
 X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
 UID:la-liga-2025-2@open-sports-cal
 DTSTART:20250816T173000Z

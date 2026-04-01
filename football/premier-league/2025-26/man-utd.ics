@@ -5,6 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Premier League 2025-26 - Man Utd
 X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
 UID:epl-2025-8@open-sports-cal
 DTSTART:20250817T153000Z

@@ -5,6 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:MLB 2026 - Seattle Mariners
 X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
 UID:mlb-2026-2026-03-26-cleveland-guardians-vs-seattle-mariners@open-sports-cal
 DTSTART:20260327T021000Z

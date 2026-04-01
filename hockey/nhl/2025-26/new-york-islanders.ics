@@ -5,6 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:NHL 2025-26 - New York Islanders
 X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
 UID:nhl-2025-26-2025-10-09-new-york-islanders-vs-pittsburgh-penguins@open-sports-cal
 DTSTART:20251009T230000Z

@@ -5,6 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:MLB 2026 - Kansas City Royals
 X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
 UID:mlb-2026-2026-03-27-kansas-city-royals-vs-atlanta-braves@open-sports-cal
 DTSTART:20260327T231500Z

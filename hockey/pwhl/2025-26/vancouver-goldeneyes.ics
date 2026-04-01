@@ -5,6 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:PWHL - Vancouver Goldeneyes
 X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
 UID:pwhl-2025-26-2025-11-21-seattle-torrent-vs-vancouver-goldeneyes@open-sports-cal
 DTSTART:20251121T220000Z

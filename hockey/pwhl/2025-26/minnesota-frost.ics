@@ -5,6 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:PWHL - Minnesota Frost
 X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
 UID:pwhl-2025-26-2025-11-21-toronto-sceptres-vs-minnesota-frost@open-sports-cal
 DTSTART:20251121T190000Z

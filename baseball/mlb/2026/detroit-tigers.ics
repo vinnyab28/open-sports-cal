@@ -5,6 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:MLB 2026 - Detroit Tigers
 X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
 UID:mlb-2026-2026-03-26-detroit-tigers-vs-san-diego-padres@open-sports-cal
 DTSTART:20260326T201000Z

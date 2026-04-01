@@ -5,6 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:NHL 2025-26 - Seattle Kraken
 X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
 UID:nhl-2025-26-2025-10-10-anaheim-ducks-vs-seattle-kraken@open-sports-cal
 DTSTART:20251010T020000Z

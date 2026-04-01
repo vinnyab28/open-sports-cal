@@ -5,6 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:MLB 2026 - Toronto Blue Jays
 X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
 UID:mlb-2026-2026-03-27-athletics-vs-toronto-blue-jays@open-sports-cal
 DTSTART:20260327T230700Z
