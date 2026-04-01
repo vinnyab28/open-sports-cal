@@ -272,6 +272,7 @@
                 overflow: hidden;
                 display: flex;
                 flex-direction: column;
+                scroll-margin-top: 72px;
                 transition:
                     box-shadow 0.2s,
                     transform 0.2s;
@@ -308,6 +309,18 @@
                 overflow: hidden;
                 text-overflow: ellipsis;
             }
+            .card-anchor {
+                opacity: 0;
+                margin-left: 0.3em;
+                color: var(--muted);
+                text-decoration: none;
+                font-weight: 400;
+                font-size: 0.8em;
+                flex-shrink: 0;
+                transition: opacity 0.15s;
+            }
+            .card-title:hover .card-anchor,
+            .card-anchor:focus { opacity: 1; }
             .card-meta {
                 font-size: 0.72rem;
                 color: var(--muted);
@@ -1350,13 +1363,14 @@
       </div>`;
                 }
 
+                const anchor = lg.path.split('/')[1];
                 return `
-    <div class="card" data-sport="${lg.sport}" data-search="${lg.name.toLowerCase()} ${lg.short.toLowerCase()} ${lg.teams.map(t => t.name.toLowerCase()).join(" ")}">
+    <div class="card" id="${anchor}" data-sport="${lg.sport}" data-search="${lg.name.toLowerCase()} ${lg.short.toLowerCase()} ${lg.teams.map(t => t.name.toLowerCase()).join(" ")}">
       <div class="card-stripe" style="background:${sp.color}"></div>
       <div class="card-header">
         <span class="card-icon" aria-hidden="true">${sp.icon}</span>
         <div class="card-info">
-          <div class="card-title">${lg.name}</div>
+          <div class="card-title">${lg.name}<a class="card-anchor" href="#${anchor}" aria-label="Link to ${lg.name}">#</a></div>
           <div class="card-meta">${lg.meta}</div>
           <span class="season-badge">${lg.season}</span>
         </div>
