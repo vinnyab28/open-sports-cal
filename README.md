@@ -46,6 +46,7 @@ If you find this useful, give it a ⭐ — it helps others find it!
 | League | Season | Calendar |
 |--------|--------|----------|
 | NHL | [2025-26](hockey/nhl/2025-26/) | All teams + 32 individual team calendars |
+| PWHL | [2025-26](hockey/pwhl/2025-26/) | All teams + 8 individual team calendars |
 
 ### Tennis
 
@@ -152,6 +153,7 @@ Schedules are sourced from official publications and public APIs, and are provid
 | Premier League, La Liga, Bundesliga, Serie A, Ligue 1, NBA | [fixturedownload.com](https://fixturedownload.com) |
 | MLB | [MLB Stats API](https://statsapi.mlb.com) |
 | NHL | [NHL API](https://api-web.nhle.com/) |
+| PWHL | [HockeyTech / thepwhl.com](https://www.thepwhl.com/en/schedule-25-26) |
 | Formula 1 | [formula1.com](https://www.formula1.com/en/racing/2026) / [f1calendar.com](https://f1calendar.com) |
 | MotoGP | [motogp.com](https://www.motogp.com/en/calendar/2026) |
 | Tennis Grand Slams | [ATP Tour](https://www.atptour.com) / [WTA](https://www.wtatennis.com) |

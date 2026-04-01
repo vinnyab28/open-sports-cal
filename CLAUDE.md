@@ -25,6 +25,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `basketball/nba/`
 - `baseball/mlb/`
 - `hockey/nhl/`
+- `hockey/pwhl/`
 - `tennis/grand-slams/`
 - `motorsport/formula-1/`, `motorsport/motogp/`
 - NFL is pending — schedule expected May 13, 2026; will go in `american-football/nfl/`
@@ -371,6 +372,7 @@ Examples:
 | MLB | `statsapi.mlb.com` | Live API, fetch month-by-month |
 | NBA | `fixturedownload.com/feed/json/nba-2025` | Live JSON feed |
 | NHL | `api-web.nhle.com/v1/schedule/{date}` | Live API, fetch week-by-week |
+| PWHL | `lscluster.hockeytech.com/feed/?feed=modulekit&view=schedule&season_id=8&key=446521baf8c38984&client_code=pwhl` | Live API, season_id=8 for 2025-26 |
 | Premier League | `fixturedownload.com/feed/json/epl-2025` | Live JSON feed |
 | La Liga | `fixturedownload.com/feed/json/la-liga-2025` | Live JSON feed |
 | Bundesliga | `fixturedownload.com/feed/json/bundesliga-2025` | Live JSON feed |

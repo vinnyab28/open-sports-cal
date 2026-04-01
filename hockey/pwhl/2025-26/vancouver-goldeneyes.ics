@@ -1,0 +1,368 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//PWHL 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PWHL - Vancouver Goldeneyes
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-11-21-seattle-torrent-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20251121T220000Z
+DTEND:20251122T010000Z
+SUMMARY:Seattle Torrent @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-11-26-vancouver-goldeneyes-vs-ottawa-charge@open-sports-cal
+DTSTART:20251126T190000Z
+DTEND:20251126T220000Z
+SUMMARY:Vancouver Goldeneyes @ Ottawa Charge
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Ottawa Charge\nTD Place, Ottawa, ON
+LOCATION:TD Place, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-11-29-vancouver-goldeneyes-vs-new-york-sirens@open-sports-cal
+DTSTART:20251129T120000Z
+DTEND:20251129T150000Z
+SUMMARY:Vancouver Goldeneyes @ New York Sirens
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ New York Sirens\nPrudential Center, Newark, NJ
+LOCATION:Prudential Center, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-03-vancouver-goldeneyes-vs-boston-fleet@open-sports-cal
+DTSTART:20251203T190000Z
+DTEND:20251203T220000Z
+SUMMARY:Vancouver Goldeneyes @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Boston Fleet\nAgganis Arena, Boston, MA
+LOCATION:Agganis Arena, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-06-new-york-sirens-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20251206T150000Z
+DTEND:20251206T180000Z
+SUMMARY:New York Sirens @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nNew York Sirens @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-16-ottawa-charge-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20251216T220000Z
+DTEND:20251217T010000Z
+SUMMARY:Ottawa Charge @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nOttawa Charge @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-20-montreal-victoire-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20251220T150000Z
+DTEND:20251220T180000Z
+SUMMARY:Montréal Victoire @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nMontréal Victoire @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-27-minnesota-frost-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20251227T150000Z
+DTEND:20251227T180000Z
+SUMMARY:Minnesota Frost @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Vancouver Goldeneyes\nRogers Place, Edmonton, AB
+LOCATION:Rogers Place, Edmonton, AB
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-31-vancouver-goldeneyes-vs-new-york-sirens@open-sports-cal
+DTSTART:20251231T130000Z
+DTEND:20251231T160000Z
+SUMMARY:Vancouver Goldeneyes @ New York Sirens
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ New York Sirens\nPrudential Center, Newark, NJ
+LOCATION:Prudential Center, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-03-vancouver-goldeneyes-vs-boston-fleet@open-sports-cal
+DTSTART:20260103T190000Z
+DTEND:20260103T220000Z
+SUMMARY:Vancouver Goldeneyes @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Boston Fleet\nLittle Caesars Arena, Detroit, MI
+LOCATION:Little Caesars Arena, Detroit, MI
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-09-vancouver-goldeneyes-vs-ottawa-charge@open-sports-cal
+DTSTART:20260109T190000Z
+DTEND:20260109T220000Z
+SUMMARY:Vancouver Goldeneyes @ Ottawa Charge
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Ottawa Charge\nTD Place, Ottawa, ON
+LOCATION:TD Place, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-11-vancouver-goldeneyes-vs-montreal-victoire@open-sports-cal
+DTSTART:20260111T140000Z
+DTEND:20260111T170000Z
+SUMMARY:Vancouver Goldeneyes @ Montréal Victoire
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Montréal Victoire\nVideotron Centre, Quebec City, QC
+LOCATION:Videotron Centre, Quebec City, QC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-17-vancouver-goldeneyes-vs-toronto-sceptres@open-sports-cal
+DTSTART:20260117T150000Z
+DTEND:20260117T180000Z
+SUMMARY:Vancouver Goldeneyes @ Toronto Sceptres
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Toronto Sceptres\nScotiabank Arena, Toronto, ON
+LOCATION:Scotiabank Arena, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-22-toronto-sceptres-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20260122T220000Z
+DTEND:20260123T010000Z
+SUMMARY:Toronto Sceptres @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nToronto Sceptres @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-25-vancouver-goldeneyes-vs-seattle-torrent@open-sports-cal
+DTSTART:20260125T180000Z
+DTEND:20260125T210000Z
+SUMMARY:Vancouver Goldeneyes @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Seattle Torrent\nBall Arena, Denver, CO
+LOCATION:Ball Arena, Denver, CO
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-28-vancouver-goldeneyes-vs-minnesota-frost@open-sports-cal
+DTSTART:20260128T210000Z
+DTEND:20260129T000000Z
+SUMMARY:Vancouver Goldeneyes @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-01-toronto-sceptres-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20260301T160000Z
+DTEND:20260301T190000Z
+SUMMARY:Toronto Sceptres @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nToronto Sceptres @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-10-boston-fleet-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20260310T220000Z
+DTEND:20260311T010000Z
+SUMMARY:Boston Fleet @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-14-ottawa-charge-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20260314T150000Z
+DTEND:20260314T180000Z
+SUMMARY:Ottawa Charge @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nOttawa Charge @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-18-new-york-sirens-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20260318T220000Z
+DTEND:20260319T010000Z
+SUMMARY:New York Sirens @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nNew York Sirens @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-21-minnesota-frost-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20260321T150000Z
+DTEND:20260321T180000Z
+SUMMARY:Minnesota Frost @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-24-vancouver-goldeneyes-vs-boston-fleet@open-sports-cal
+DTSTART:20260324T190000Z
+DTEND:20260324T220000Z
+SUMMARY:Vancouver Goldeneyes @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Boston Fleet\nTsongas Center, Lowell, MA
+LOCATION:Tsongas Center, Lowell, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-29-vancouver-goldeneyes-vs-toronto-sceptres@open-sports-cal
+DTSTART:20260329T130000Z
+DTEND:20260329T160000Z
+SUMMARY:Vancouver Goldeneyes @ Toronto Sceptres
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Toronto Sceptres\nCoca-Cola Coliseum, Toronto, ON
+LOCATION:Coca-Cola Coliseum, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-01-vancouver-goldeneyes-vs-montreal-victoire@open-sports-cal
+DTSTART:20260401T190000Z
+DTEND:20260401T220000Z
+SUMMARY:Vancouver Goldeneyes @ Montréal Victoire
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Montréal Victoire\nPlace Bell, Laval, QC
+LOCATION:Place Bell, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-04-vancouver-goldeneyes-vs-minnesota-frost@open-sports-cal
+DTSTART:20260404T140000Z
+DTEND:20260404T170000Z
+SUMMARY:Vancouver Goldeneyes @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-07-boston-fleet-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20260407T213000Z
+DTEND:20260408T003000Z
+SUMMARY:Boston Fleet @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Vancouver Goldeneyes\nRogers Place, Edmonton, AB
+LOCATION:Rogers Place, Edmonton, AB
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-14-seattle-torrent-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20260414T220000Z
+DTEND:20260415T010000Z
+SUMMARY:Seattle Torrent @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-18-vancouver-goldeneyes-vs-seattle-torrent@open-sports-cal
+DTSTART:20260418T000000Z
+DTEND:20260418T030000Z
+SUMMARY:Vancouver Goldeneyes @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-21-montreal-victoire-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20260421T220000Z
+DTEND:20260422T010000Z
+SUMMARY:Montréal Victoire @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nMontréal Victoire @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-25-minnesota-frost-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20260425T000000Z
+DTEND:20260425T030000Z
+SUMMARY:Minnesota Frost @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+END:VCALENDAR

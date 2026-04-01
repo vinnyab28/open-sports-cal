@@ -1,0 +1,368 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//PWHL 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PWHL - Boston Fleet
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-11-23-montreal-victoire-vs-boston-fleet@open-sports-cal
+DTSTART:20251123T130000Z
+DTEND:20251123T160000Z
+SUMMARY:Montréal Victoire @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nMontréal Victoire @ Boston Fleet\nTsongas Center, Lowell, MA
+LOCATION:Tsongas Center, Lowell, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-11-29-boston-fleet-vs-toronto-sceptres@open-sports-cal
+DTSTART:20251129T140000Z
+DTEND:20251129T170000Z
+SUMMARY:Boston Fleet @ Toronto Sceptres
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Toronto Sceptres\nCoca-Cola Coliseum, Toronto, ON
+LOCATION:Coca-Cola Coliseum, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-03-vancouver-goldeneyes-vs-boston-fleet@open-sports-cal
+DTSTART:20251203T190000Z
+DTEND:20251203T220000Z
+SUMMARY:Vancouver Goldeneyes @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Boston Fleet\nAgganis Arena, Boston, MA
+LOCATION:Agganis Arena, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-07-minnesota-frost-vs-boston-fleet@open-sports-cal
+DTSTART:20251207T150000Z
+DTEND:20251207T180000Z
+SUMMARY:Minnesota Frost @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Boston Fleet\nAgganis Arena, Boston, MA
+LOCATION:Agganis Arena, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-17-boston-fleet-vs-new-york-sirens@open-sports-cal
+DTSTART:20251217T190000Z
+DTEND:20251217T220000Z
+SUMMARY:Boston Fleet @ New York Sirens
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ New York Sirens\nPrudential Center, Newark, NJ
+LOCATION:Prudential Center, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-19-boston-fleet-vs-minnesota-frost@open-sports-cal
+DTSTART:20251219T200000Z
+DTEND:20251219T230000Z
+SUMMARY:Boston Fleet @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-21-boston-fleet-vs-seattle-torrent@open-sports-cal
+DTSTART:20251221T170000Z
+DTEND:20251221T200000Z
+SUMMARY:Boston Fleet @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-27-boston-fleet-vs-ottawa-charge@open-sports-cal
+DTSTART:20251227T120000Z
+DTEND:20251227T150000Z
+SUMMARY:Boston Fleet @ Ottawa Charge
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Ottawa Charge\nTD Place, Ottawa, ON
+LOCATION:TD Place, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-03-vancouver-goldeneyes-vs-boston-fleet@open-sports-cal
+DTSTART:20260103T190000Z
+DTEND:20260103T220000Z
+SUMMARY:Vancouver Goldeneyes @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Boston Fleet\nLittle Caesars Arena, Detroit, MI
+LOCATION:Little Caesars Arena, Detroit, MI
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-07-seattle-torrent-vs-boston-fleet@open-sports-cal
+DTSTART:20260107T190000Z
+DTEND:20260107T220000Z
+SUMMARY:Seattle Torrent @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Boston Fleet\nAgganis Arena, Boston, MA
+LOCATION:Agganis Arena, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-11-ottawa-charge-vs-boston-fleet@open-sports-cal
+DTSTART:20260111T120000Z
+DTEND:20260111T150000Z
+SUMMARY:Ottawa Charge @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nOttawa Charge @ Boston Fleet\nScotiabank Centre, Halifax, NS
+LOCATION:Scotiabank Centre, Halifax, NS
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-14-toronto-sceptres-vs-boston-fleet@open-sports-cal
+DTSTART:20260114T190000Z
+DTEND:20260114T220000Z
+SUMMARY:Toronto Sceptres @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nToronto Sceptres @ Boston Fleet\nTsongas Center, Lowell, MA
+LOCATION:Tsongas Center, Lowell, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-18-boston-fleet-vs-seattle-torrent@open-sports-cal
+DTSTART:20260118T220000Z
+DTEND:20260119T010000Z
+SUMMARY:Boston Fleet @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-28-new-york-sirens-vs-boston-fleet@open-sports-cal
+DTSTART:20260128T190000Z
+DTEND:20260128T220000Z
+SUMMARY:New York Sirens @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nNew York Sirens @ Boston Fleet\nTsongas Center, Lowell, MA
+LOCATION:Tsongas Center, Lowell, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-02-28-boston-fleet-vs-ottawa-charge@open-sports-cal
+DTSTART:20260228T140000Z
+DTEND:20260228T170000Z
+SUMMARY:Boston Fleet @ Ottawa Charge
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Ottawa Charge\nTD Place, Ottawa, ON
+LOCATION:TD Place, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-05-boston-fleet-vs-new-york-sirens@open-sports-cal
+DTSTART:20260305T190000Z
+DTEND:20260305T220000Z
+SUMMARY:Boston Fleet @ New York Sirens
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ New York Sirens\nPrudential Center, Newark, NJ
+LOCATION:Prudential Center, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-10-boston-fleet-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20260310T220000Z
+DTEND:20260311T010000Z
+SUMMARY:Boston Fleet @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-11-boston-fleet-vs-seattle-torrent@open-sports-cal
+DTSTART:20260311T220000Z
+DTEND:20260312T010000Z
+SUMMARY:Boston Fleet @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-15-boston-fleet-vs-montreal-victoire@open-sports-cal
+DTSTART:20260315T130000Z
+DTEND:20260315T160000Z
+SUMMARY:Boston Fleet @ Montréal Victoire
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Montréal Victoire\nPlace Bell, Laval, QC
+LOCATION:Place Bell, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-17-toronto-sceptres-vs-boston-fleet@open-sports-cal
+DTSTART:20260317T190000Z
+DTEND:20260317T220000Z
+SUMMARY:Toronto Sceptres @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nToronto Sceptres @ Boston Fleet\nAgganis Arena, Boston, MA
+LOCATION:Agganis Arena, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-21-seattle-torrent-vs-boston-fleet@open-sports-cal
+DTSTART:20260321T160000Z
+DTEND:20260321T190000Z
+SUMMARY:Seattle Torrent @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Boston Fleet\nTsongas Center, Lowell, MA
+LOCATION:Tsongas Center, Lowell, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-24-vancouver-goldeneyes-vs-boston-fleet@open-sports-cal
+DTSTART:20260324T190000Z
+DTEND:20260324T220000Z
+SUMMARY:Vancouver Goldeneyes @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Boston Fleet\nTsongas Center, Lowell, MA
+LOCATION:Tsongas Center, Lowell, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-27-boston-fleet-vs-toronto-sceptres@open-sports-cal
+DTSTART:20260327T190000Z
+DTEND:20260327T220000Z
+SUMMARY:Boston Fleet @ Toronto Sceptres
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Toronto Sceptres\nCoca-Cola Coliseum, Toronto, ON
+LOCATION:Coca-Cola Coliseum, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-29-boston-fleet-vs-minnesota-frost@open-sports-cal
+DTSTART:20260329T160000Z
+DTEND:20260329T190000Z
+SUMMARY:Boston Fleet @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-07-boston-fleet-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20260407T213000Z
+DTEND:20260408T003000Z
+SUMMARY:Boston Fleet @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Vancouver Goldeneyes\nRogers Place, Edmonton, AB
+LOCATION:Rogers Place, Edmonton, AB
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-11-montreal-victoire-vs-boston-fleet@open-sports-cal
+DTSTART:20260411T190000Z
+DTEND:20260411T220000Z
+SUMMARY:Montréal Victoire @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nMontréal Victoire @ Boston Fleet\nTD Garden, Boston, MA
+LOCATION:TD Garden, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-15-minnesota-frost-vs-boston-fleet@open-sports-cal
+DTSTART:20260415T190000Z
+DTEND:20260415T220000Z
+SUMMARY:Minnesota Frost @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Boston Fleet\nTsongas Center, Lowell, MA
+LOCATION:Tsongas Center, Lowell, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-17-boston-fleet-vs-montreal-victoire@open-sports-cal
+DTSTART:20260417T190000Z
+DTEND:20260417T220000Z
+SUMMARY:Boston Fleet @ Montréal Victoire
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Montréal Victoire\nPlace Bell, Laval, QC
+LOCATION:Place Bell, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-22-ottawa-charge-vs-boston-fleet@open-sports-cal
+DTSTART:20260422T190000Z
+DTEND:20260422T220000Z
+SUMMARY:Ottawa Charge @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nOttawa Charge @ Boston Fleet\nTsongas Center, Lowell, MA
+LOCATION:Tsongas Center, Lowell, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-25-new-york-sirens-vs-boston-fleet@open-sports-cal
+DTSTART:20260425T000000Z
+DTEND:20260425T030000Z
+SUMMARY:New York Sirens @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nNew York Sirens @ Boston Fleet\nTsongas Center, Lowell, MA
+LOCATION:Tsongas Center, Lowell, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+END:VCALENDAR

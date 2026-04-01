@@ -1,0 +1,368 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//PWHL 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PWHL - Seattle Torrent
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-11-21-seattle-torrent-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20251121T220000Z
+DTEND:20251122T010000Z
+SUMMARY:Seattle Torrent @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-11-28-minnesota-frost-vs-seattle-torrent@open-sports-cal
+DTSTART:20251128T160000Z
+DTEND:20251128T190000Z
+SUMMARY:Minnesota Frost @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-03-new-york-sirens-vs-seattle-torrent@open-sports-cal
+DTSTART:20251203T220000Z
+DTEND:20251204T010000Z
+SUMMARY:New York Sirens @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nNew York Sirens @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-17-ottawa-charge-vs-seattle-torrent@open-sports-cal
+DTSTART:20251217T220000Z
+DTEND:20251218T010000Z
+SUMMARY:Ottawa Charge @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nOttawa Charge @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-21-boston-fleet-vs-seattle-torrent@open-sports-cal
+DTSTART:20251221T170000Z
+DTEND:20251221T200000Z
+SUMMARY:Boston Fleet @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-23-montreal-victoire-vs-seattle-torrent@open-sports-cal
+DTSTART:20251223T220000Z
+DTEND:20251224T010000Z
+SUMMARY:Montréal Victoire @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nMontréal Victoire @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-28-seattle-torrent-vs-new-york-sirens@open-sports-cal
+DTSTART:20251228T180000Z
+DTEND:20251228T210000Z
+SUMMARY:Seattle Torrent @ New York Sirens
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ New York Sirens\nAmerican Airlines Center, Dallas, TX
+LOCATION:American Airlines Center, Dallas, TX
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-03-seattle-torrent-vs-toronto-sceptres@open-sports-cal
+DTSTART:20260103T140000Z
+DTEND:20260103T170000Z
+SUMMARY:Seattle Torrent @ Toronto Sceptres
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Toronto Sceptres\nTD Coliseum, Hamilton, ON
+LOCATION:TD Coliseum, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-07-seattle-torrent-vs-boston-fleet@open-sports-cal
+DTSTART:20260107T190000Z
+DTEND:20260107T220000Z
+SUMMARY:Seattle Torrent @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Boston Fleet\nAgganis Arena, Boston, MA
+LOCATION:Agganis Arena, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-11-seattle-torrent-vs-minnesota-frost@open-sports-cal
+DTSTART:20260111T140000Z
+DTEND:20260111T170000Z
+SUMMARY:Seattle Torrent @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-18-boston-fleet-vs-seattle-torrent@open-sports-cal
+DTSTART:20260118T220000Z
+DTEND:20260119T010000Z
+SUMMARY:Boston Fleet @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-20-toronto-sceptres-vs-seattle-torrent@open-sports-cal
+DTSTART:20260120T220000Z
+DTEND:20260121T010000Z
+SUMMARY:Toronto Sceptres @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nToronto Sceptres @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-25-vancouver-goldeneyes-vs-seattle-torrent@open-sports-cal
+DTSTART:20260125T180000Z
+DTEND:20260125T210000Z
+SUMMARY:Vancouver Goldeneyes @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Seattle Torrent\nBall Arena, Denver, CO
+LOCATION:Ball Arena, Denver, CO
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-28-seattle-torrent-vs-ottawa-charge@open-sports-cal
+DTSTART:20260128T190000Z
+DTEND:20260128T220000Z
+SUMMARY:Seattle Torrent @ Ottawa Charge
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Ottawa Charge\nTD Place, Ottawa, ON
+LOCATION:TD Place, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-02-27-toronto-sceptres-vs-seattle-torrent@open-sports-cal
+DTSTART:20260227T220000Z
+DTEND:20260228T010000Z
+SUMMARY:Toronto Sceptres @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nToronto Sceptres @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-04-seattle-torrent-vs-ottawa-charge@open-sports-cal
+DTSTART:20260304T190000Z
+DTEND:20260304T220000Z
+SUMMARY:Seattle Torrent @ Ottawa Charge
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Ottawa Charge\nTD Place, Ottawa, ON
+LOCATION:TD Place, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-11-boston-fleet-vs-seattle-torrent@open-sports-cal
+DTSTART:20260311T220000Z
+DTEND:20260312T010000Z
+SUMMARY:Boston Fleet @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-13-seattle-torrent-vs-minnesota-frost@open-sports-cal
+DTSTART:20260313T200000Z
+DTEND:20260313T230000Z
+SUMMARY:Seattle Torrent @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-15-seattle-torrent-vs-toronto-sceptres@open-sports-cal
+DTSTART:20260315T130000Z
+DTEND:20260315T160000Z
+SUMMARY:Seattle Torrent @ Toronto Sceptres
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Toronto Sceptres\nCoca-Cola Coliseum, Toronto, ON
+LOCATION:Coca-Cola Coliseum, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-19-seattle-torrent-vs-montreal-victoire@open-sports-cal
+DTSTART:20260319T190000Z
+DTEND:20260319T220000Z
+SUMMARY:Seattle Torrent @ Montréal Victoire
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Montréal Victoire\nPlace Bell, Laval, QC
+LOCATION:Place Bell, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-21-seattle-torrent-vs-boston-fleet@open-sports-cal
+DTSTART:20260321T160000Z
+DTEND:20260321T190000Z
+SUMMARY:Seattle Torrent @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Boston Fleet\nTsongas Center, Lowell, MA
+LOCATION:Tsongas Center, Lowell, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-25-new-york-sirens-vs-seattle-torrent@open-sports-cal
+DTSTART:20260325T200000Z
+DTEND:20260325T230000Z
+SUMMARY:New York Sirens @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nNew York Sirens @ Seattle Torrent\nAllstate Arena, Chicago, IL
+LOCATION:Allstate Arena, Chicago, IL
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-29-ottawa-charge-vs-seattle-torrent@open-sports-cal
+DTSTART:20260329T190000Z
+DTEND:20260329T220000Z
+SUMMARY:Ottawa Charge @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nOttawa Charge @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-04-seattle-torrent-vs-new-york-sirens@open-sports-cal
+DTSTART:20260404T200000Z
+DTEND:20260404T230000Z
+SUMMARY:Seattle Torrent @ New York Sirens
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ New York Sirens\nMadison Square Garden, New York, NY
+LOCATION:Madison Square Garden, New York, NY
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-07-seattle-torrent-vs-montreal-victoire@open-sports-cal
+DTSTART:20260407T190000Z
+DTEND:20260407T220000Z
+SUMMARY:Seattle Torrent @ Montréal Victoire
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Montréal Victoire\nPlace Bell, Laval, QC
+LOCATION:Place Bell, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-08-seattle-torrent-vs-ottawa-charge@open-sports-cal
+DTSTART:20260408T190000Z
+DTEND:20260408T220000Z
+SUMMARY:Seattle Torrent @ Ottawa Charge
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Ottawa Charge\nTD Place, Ottawa, ON
+LOCATION:TD Place, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-14-seattle-torrent-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20260414T220000Z
+DTEND:20260415T010000Z
+SUMMARY:Seattle Torrent @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-18-vancouver-goldeneyes-vs-seattle-torrent@open-sports-cal
+DTSTART:20260418T000000Z
+DTEND:20260418T030000Z
+SUMMARY:Vancouver Goldeneyes @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-22-minnesota-frost-vs-seattle-torrent@open-sports-cal
+DTSTART:20260422T220000Z
+DTEND:20260423T010000Z
+SUMMARY:Minnesota Frost @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-25-montreal-victoire-vs-seattle-torrent@open-sports-cal
+DTSTART:20260425T000000Z
+DTEND:20260425T030000Z
+SUMMARY:Montréal Victoire @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nMontréal Victoire @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+END:VCALENDAR

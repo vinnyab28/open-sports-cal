@@ -1,0 +1,368 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//PWHL 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PWHL - Minnesota Frost
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-11-21-toronto-sceptres-vs-minnesota-frost@open-sports-cal
+DTSTART:20251121T190000Z
+DTEND:20251121T220000Z
+SUMMARY:Toronto Sceptres @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nToronto Sceptres @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-11-28-minnesota-frost-vs-seattle-torrent@open-sports-cal
+DTSTART:20251128T160000Z
+DTEND:20251128T190000Z
+SUMMARY:Minnesota Frost @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-02-minnesota-frost-vs-ottawa-charge@open-sports-cal
+DTSTART:20251202T190000Z
+DTEND:20251202T220000Z
+SUMMARY:Minnesota Frost @ Ottawa Charge
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Ottawa Charge\nTD Place, Ottawa, ON
+LOCATION:TD Place, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-07-minnesota-frost-vs-boston-fleet@open-sports-cal
+DTSTART:20251207T150000Z
+DTEND:20251207T180000Z
+SUMMARY:Minnesota Frost @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Boston Fleet\nAgganis Arena, Boston, MA
+LOCATION:Agganis Arena, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-19-boston-fleet-vs-minnesota-frost@open-sports-cal
+DTSTART:20251219T200000Z
+DTEND:20251219T230000Z
+SUMMARY:Boston Fleet @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-21-ottawa-charge-vs-minnesota-frost@open-sports-cal
+DTSTART:20251221T140000Z
+DTEND:20251221T170000Z
+SUMMARY:Ottawa Charge @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nOttawa Charge @ Minnesota Frost\nAllstate Arena, Chicago, IL
+LOCATION:Allstate Arena, Chicago, IL
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-27-minnesota-frost-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20251227T150000Z
+DTEND:20251227T180000Z
+SUMMARY:Minnesota Frost @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Vancouver Goldeneyes\nRogers Place, Edmonton, AB
+LOCATION:Rogers Place, Edmonton, AB
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2025-12-30-minnesota-frost-vs-toronto-sceptres@open-sports-cal
+DTSTART:20251230T190000Z
+DTEND:20251230T220000Z
+SUMMARY:Minnesota Frost @ Toronto Sceptres
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Toronto Sceptres\nCoca-Cola Coliseum, Toronto, ON
+LOCATION:Coca-Cola Coliseum, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-03-minnesota-frost-vs-ottawa-charge@open-sports-cal
+DTSTART:20260103T130000Z
+DTEND:20260103T160000Z
+SUMMARY:Minnesota Frost @ Ottawa Charge
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Ottawa Charge\nTD Place, Ottawa, ON
+LOCATION:TD Place, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-04-minnesota-frost-vs-montreal-victoire@open-sports-cal
+DTSTART:20260104T140000Z
+DTEND:20260104T170000Z
+SUMMARY:Minnesota Frost @ Montréal Victoire
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Montréal Victoire\nPlace Bell, Laval, QC
+LOCATION:Place Bell, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-11-seattle-torrent-vs-minnesota-frost@open-sports-cal
+DTSTART:20260111T140000Z
+DTEND:20260111T170000Z
+SUMMARY:Seattle Torrent @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-16-minnesota-frost-vs-new-york-sirens@open-sports-cal
+DTSTART:20260116T190000Z
+DTEND:20260116T220000Z
+SUMMARY:Minnesota Frost @ New York Sirens
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ New York Sirens\nPrudential Center, Newark, NJ
+LOCATION:Prudential Center, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-21-montreal-victoire-vs-minnesota-frost@open-sports-cal
+DTSTART:20260121T190000Z
+DTEND:20260121T220000Z
+SUMMARY:Montréal Victoire @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nMontréal Victoire @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-25-new-york-sirens-vs-minnesota-frost@open-sports-cal
+DTSTART:20260125T150000Z
+DTEND:20260125T180000Z
+SUMMARY:New York Sirens @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nNew York Sirens @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-01-28-vancouver-goldeneyes-vs-minnesota-frost@open-sports-cal
+DTSTART:20260128T210000Z
+DTEND:20260129T000000Z
+SUMMARY:Vancouver Goldeneyes @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-01-minnesota-frost-vs-montreal-victoire@open-sports-cal
+DTSTART:20260301T130000Z
+DTEND:20260301T160000Z
+SUMMARY:Minnesota Frost @ Montréal Victoire
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Montréal Victoire\nPlace Bell, Laval, QC
+LOCATION:Place Bell, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-08-minnesota-frost-vs-toronto-sceptres@open-sports-cal
+DTSTART:20260308T120000Z
+DTEND:20260308T150000Z
+SUMMARY:Minnesota Frost @ Toronto Sceptres
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Toronto Sceptres\nCoca-Cola Coliseum, Toronto, ON
+LOCATION:Coca-Cola Coliseum, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-13-seattle-torrent-vs-minnesota-frost@open-sports-cal
+DTSTART:20260313T200000Z
+DTEND:20260313T230000Z
+SUMMARY:Seattle Torrent @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nSeattle Torrent @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-15-new-york-sirens-vs-minnesota-frost@open-sports-cal
+DTSTART:20260315T160000Z
+DTEND:20260315T190000Z
+SUMMARY:New York Sirens @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nNew York Sirens @ Minnesota Frost\nBall Arena, Denver, CO
+LOCATION:Ball Arena, Denver, CO
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-18-ottawa-charge-vs-minnesota-frost@open-sports-cal
+DTSTART:20260318T190000Z
+DTEND:20260318T220000Z
+SUMMARY:Ottawa Charge @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nOttawa Charge @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-21-minnesota-frost-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20260321T150000Z
+DTEND:20260321T180000Z
+SUMMARY:Minnesota Frost @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-25-montreal-victoire-vs-minnesota-frost@open-sports-cal
+DTSTART:20260325T190000Z
+DTEND:20260325T220000Z
+SUMMARY:Montréal Victoire @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nMontréal Victoire @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-03-29-boston-fleet-vs-minnesota-frost@open-sports-cal
+DTSTART:20260329T160000Z
+DTEND:20260329T190000Z
+SUMMARY:Boston Fleet @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nBoston Fleet @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-01-minnesota-frost-vs-new-york-sirens@open-sports-cal
+DTSTART:20260401T190000Z
+DTEND:20260401T220000Z
+SUMMARY:Minnesota Frost @ New York Sirens
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ New York Sirens\nPrudential Center, Newark, NJ
+LOCATION:Prudential Center, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-04-vancouver-goldeneyes-vs-minnesota-frost@open-sports-cal
+DTSTART:20260404T140000Z
+DTEND:20260404T170000Z
+SUMMARY:Vancouver Goldeneyes @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nVancouver Goldeneyes @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-11-new-york-sirens-vs-minnesota-frost@open-sports-cal
+DTSTART:20260411T130000Z
+DTEND:20260411T160000Z
+SUMMARY:New York Sirens @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nNew York Sirens @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-15-minnesota-frost-vs-boston-fleet@open-sports-cal
+DTSTART:20260415T190000Z
+DTEND:20260415T220000Z
+SUMMARY:Minnesota Frost @ Boston Fleet
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Boston Fleet\nTsongas Center, Lowell, MA
+LOCATION:Tsongas Center, Lowell, MA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-19-toronto-sceptres-vs-minnesota-frost@open-sports-cal
+DTSTART:20260419T133000Z
+DTEND:20260419T163000Z
+SUMMARY:Toronto Sceptres @ Minnesota Frost
+DESCRIPTION:PWHL 2025-26\nToronto Sceptres @ Minnesota Frost\nGrand Casino Arena, St. Paul, MN
+LOCATION:Grand Casino Arena, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-22-minnesota-frost-vs-seattle-torrent@open-sports-cal
+DTSTART:20260422T220000Z
+DTEND:20260423T010000Z
+SUMMARY:Minnesota Frost @ Seattle Torrent
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Seattle Torrent\nClimate Pledge Arena, Seattle, WA
+LOCATION:Climate Pledge Arena, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-2026-04-25-minnesota-frost-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20260425T000000Z
+DTEND:20260425T030000Z
+SUMMARY:Minnesota Frost @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2025-26\nMinnesota Frost @ Vancouver Goldeneyes\nPacific Coliseum, Vancouver, BC
+LOCATION:Pacific Coliseum, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260401T005431Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+END:VCALENDAR
