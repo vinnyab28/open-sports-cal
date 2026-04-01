@@ -63,6 +63,8 @@ If you find this useful, give it a ⭐ — it helps others find it!
 
 > **NFL 2026**: The regular season schedule is expected to be released on May 13, 2026. It will be added once available.
 
+**Don't see your league?** [Request it here](https://forms.gle/b9ZoZJibTsZ8DHGw7) — no GitHub account needed.
+
 ---
 
 ## How to Use
@@ -109,6 +111,7 @@ https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/<path-to-file>.
 
 Found a wrong date or venue? Want to add a new league or season? Contributions are welcome!
 
+- **Request a league** — not technical? [Fill out this form](https://forms.gle/b9ZoZJibTsZ8DHGw7) and it'll be considered for addition
 - **Report an issue** — use [GitHub Issues](../../issues) for incorrect data or missing leagues
 - **Fix data** — edit the `.ics` file directly and open a PR with a link to the official source
 - **Add a new season or league** — follow the folder structure `<sport>/<league>/<season>/`
