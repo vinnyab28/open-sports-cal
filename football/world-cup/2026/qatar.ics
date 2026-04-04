@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//FIFA World Cup 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FIFA World Cup 2026 - Qatar
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:fwc2026-m008@open-sports-cal
+DTSTART:20260613T190000Z
+DTEND:20260613T210000Z
+SUMMARY:Qatar vs Switzerland
+DESCRIPTION:FIFA World Cup 2026 — Group B\nQatar vs Switzerland\nLevi's Stadium, San Francisco Bay Area, USA
+LOCATION:Levi's Stadium, San Francisco Bay Area, USA
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc2026-m010@open-sports-cal
+DTSTART:20260618T220000Z
+DTEND:20260619T000000Z
+SUMMARY:Canada vs Qatar
+DESCRIPTION:FIFA World Cup 2026 — Group B\nCanada vs Qatar\nBC Place, Vancouver, Canada
+LOCATION:BC Place, Vancouver, Canada
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc2026-m012@open-sports-cal
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:Bosnia & Herzegovina vs Qatar
+DESCRIPTION:FIFA World Cup 2026 — Group B\nBosnia & Herzegovina vs Qatar\nLumen Field, Seattle, USA
+LOCATION:Lumen Field, Seattle, USA
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR

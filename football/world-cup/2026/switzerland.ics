@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//FIFA World Cup 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FIFA World Cup 2026 - Switzerland
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:fwc2026-m008@open-sports-cal
+DTSTART:20260613T190000Z
+DTEND:20260613T210000Z
+SUMMARY:Qatar vs Switzerland
+DESCRIPTION:FIFA World Cup 2026 — Group B\nQatar vs Switzerland\nLevi's Stadium, San Francisco Bay Area, USA
+LOCATION:Levi's Stadium, San Francisco Bay Area, USA
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc2026-m009@open-sports-cal
+DTSTART:20260618T190000Z
+DTEND:20260618T210000Z
+SUMMARY:Switzerland vs Bosnia & Herzegovina
+DESCRIPTION:FIFA World Cup 2026 — Group B\nSwitzerland vs Bosnia & Herzegovina\nSoFi Stadium, Los Angeles, USA
+LOCATION:SoFi Stadium, Los Angeles, USA
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc2026-m011@open-sports-cal
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:Switzerland vs Canada
+DESCRIPTION:FIFA World Cup 2026 — Group B\nSwitzerland vs Canada\nBC Place, Vancouver, Canada
+LOCATION:BC Place, Vancouver, Canada
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+END:VCALENDAR

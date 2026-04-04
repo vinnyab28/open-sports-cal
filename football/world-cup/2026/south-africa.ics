@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//FIFA World Cup 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FIFA World Cup 2026 - South Africa
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:fwc2026-m001@open-sports-cal
+DTSTART:20260611T190000Z
+DTEND:20260611T210000Z
+SUMMARY:Mexico vs South Africa
+DESCRIPTION:FIFA World Cup 2026 — Group A\nMexico vs South Africa\nEstadio Azteca, Mexico City, Mexico
+LOCATION:Estadio Azteca, Mexico City, Mexico
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/Mexico_City
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc2026-m003@open-sports-cal
+DTSTART:20260618T160000Z
+DTEND:20260618T180000Z
+SUMMARY:Czechia vs South Africa
+DESCRIPTION:FIFA World Cup 2026 — Group A\nCzechia vs South Africa\nMercedes-Benz, Atlanta, USA
+LOCATION:Mercedes-Benz, Atlanta, USA
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc2026-m006@open-sports-cal
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:South Africa vs South Korea
+DESCRIPTION:FIFA World Cup 2026 — Group A\nSouth Africa vs South Korea\nEstadio BBVA, Monterrey, Mexico
+LOCATION:Estadio BBVA, Monterrey, Mexico
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/Monterrey
+END:VEVENT
+END:VCALENDAR

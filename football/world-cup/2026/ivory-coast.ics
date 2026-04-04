@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//FIFA World Cup 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FIFA World Cup 2026 - Ivory Coast
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:fwc2026-m026@open-sports-cal
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:Ivory Coast vs Ecuador
+DESCRIPTION:FIFA World Cup 2026 — Group E\nIvory Coast vs Ecuador\nLincoln Financial Field, Philadelphia, USA
+LOCATION:Lincoln Financial Field, Philadelphia, USA
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc2026-m027@open-sports-cal
+DTSTART:20260620T200000Z
+DTEND:20260620T220000Z
+SUMMARY:Germany vs Ivory Coast
+DESCRIPTION:FIFA World Cup 2026 — Group E\nGermany vs Ivory Coast\nBMO Field, Toronto, Canada
+LOCATION:BMO Field, Toronto, Canada
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc2026-m030@open-sports-cal
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:Curacao vs Ivory Coast
+DESCRIPTION:FIFA World Cup 2026 — Group E\nCuracao vs Ivory Coast\nLincoln Financial Field, Philadelphia, USA
+LOCATION:Lincoln Financial Field, Philadelphia, USA
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

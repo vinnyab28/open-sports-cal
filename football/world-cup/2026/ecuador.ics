@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//FIFA World Cup 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FIFA World Cup 2026 - Ecuador
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:fwc2026-m026@open-sports-cal
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:Ivory Coast vs Ecuador
+DESCRIPTION:FIFA World Cup 2026 — Group E\nIvory Coast vs Ecuador\nLincoln Financial Field, Philadelphia, USA
+LOCATION:Lincoln Financial Field, Philadelphia, USA
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc2026-m028@open-sports-cal
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:Ecuador vs Curacao
+DESCRIPTION:FIFA World Cup 2026 — Group E\nEcuador vs Curacao\nArrowhead Stadium, Kansas City, USA
+LOCATION:Arrowhead Stadium, Kansas City, USA
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc2026-m029@open-sports-cal
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:Ecuador vs Germany
+DESCRIPTION:FIFA World Cup 2026 — Group E\nEcuador vs Germany\nMetLife Stadium, New York/New Jersey, USA
+LOCATION:MetLife Stadium, New York/New Jersey, USA
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

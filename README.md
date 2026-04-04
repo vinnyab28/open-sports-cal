@@ -23,6 +23,7 @@ If you find this useful, give it a ⭐ — it helps others find it!
 
 | League | Season | Calendar |
 |--------|--------|----------|
+| FIFA World Cup | [2026](football/world-cup/2026/) | All matches + group stage + 12 group calendars + 48 team calendars |
 | Premier League | [2025-26](football/premier-league/2025-26/) | All teams + 20 individual team calendars |
 | La Liga | [2025-26](football/la-liga/2025-26/) | All teams + 20 individual team calendars |
 | Bundesliga | [2025-26](football/bundesliga/2025-26/) | All teams + 18 individual team calendars |
@@ -153,6 +154,7 @@ Schedules are sourced from official publications and public APIs, and are provid
 | Sport / League | Source |
 |---------------|--------|
 | IPL | [BCCI / IPLT20 Official Schedule](https://www.iplt20.com/matches/fixtures) |
+| FIFA World Cup | [FIFA Official](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026) / [NBC Sports](https://www.nbcsports.com/soccer/news/2026-world-cup-schedule-confirmed-dates-times-stadiums-full-details) |
 | Premier League, La Liga, Bundesliga, Serie A, Ligue 1, NBA | [fixturedownload.com](https://fixturedownload.com) |
 | MLB | [MLB Stats API](https://statsapi.mlb.com) |
 | NHL | [NHL API](https://api-web.nhle.com/) |

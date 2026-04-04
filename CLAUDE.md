@@ -21,7 +21,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **Sport folder names in use:**
 - `cricket/ipl/`
-- `football/premier-league/`, `football/la-liga/`, `football/bundesliga/`, `football/serie-a/`, `football/ligue-1/`
+- `football/world-cup/`, `football/premier-league/`, `football/la-liga/`, `football/bundesliga/`, `football/serie-a/`, `football/ligue-1/`
 - `basketball/nba/`
 - `baseball/mlb/`
 - `hockey/nhl/`
@@ -371,6 +371,7 @@ Examples:
 | League | Source | Fetch method |
 |--------|--------|-------------|
 | IPL | BCCI official PDF (`documents.iplt20.com`) | Download PDF → `pdftotext` → hardcode parsed data |
+| FIFA World Cup | `fifa.com` / `nbcsports.com` | Hardcoded (official schedule published) |
 | MLB | `statsapi.mlb.com` | Live API, fetch month-by-month |
 | NBA | `fixturedownload.com/feed/json/nba-2025` | Live JSON feed |
 | NHL | `api-web.nhle.com/v1/schedule/{date}` | Live API, fetch week-by-week |

@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//FIFA World Cup 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FIFA World Cup 2026 - Bosnia & Herzegovina
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:fwc2026-m007@open-sports-cal
+DTSTART:20260612T190000Z
+DTEND:20260612T210000Z
+SUMMARY:Canada vs Bosnia & Herzegovina
+DESCRIPTION:FIFA World Cup 2026 — Group B\nCanada vs Bosnia & Herzegovina\nBMO Field, Toronto, Canada
+LOCATION:BMO Field, Toronto, Canada
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc2026-m009@open-sports-cal
+DTSTART:20260618T190000Z
+DTEND:20260618T210000Z
+SUMMARY:Switzerland vs Bosnia & Herzegovina
+DESCRIPTION:FIFA World Cup 2026 — Group B\nSwitzerland vs Bosnia & Herzegovina\nSoFi Stadium, Los Angeles, USA
+LOCATION:SoFi Stadium, Los Angeles, USA
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:fwc2026-m012@open-sports-cal
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:Bosnia & Herzegovina vs Qatar
+DESCRIPTION:FIFA World Cup 2026 — Group B\nBosnia & Herzegovina vs Qatar\nLumen Field, Seattle, USA
+LOCATION:Lumen Field, Seattle, USA
+CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
+STATUS:CONFIRMED
+DTSTAMP:20260404T124945Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR
