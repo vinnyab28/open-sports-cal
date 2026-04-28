@@ -990,4 +990,52 @@ STATUS:CONFIRMED
 DTSTAMP:20260331T221344Z
 X-TIMEZONE:America/Denver
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-19-los-angeles-kings-vs-colorado-avalanche-g1@open-sports-cal
+DTSTART:20260419T190000Z
+DTEND:20260419T220000Z
+SUMMARY:Los Angeles Kings @ Colorado Avalanche (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nLos Angeles Kings @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-22-los-angeles-kings-vs-colorado-avalanche-g2@open-sports-cal
+DTSTART:20260422T020000Z
+DTEND:20260422T050000Z
+SUMMARY:Los Angeles Kings @ Colorado Avalanche (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nLos Angeles Kings @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-24-colorado-avalanche-vs-los-angeles-kings-g3@open-sports-cal
+DTSTART:20260424T020000Z
+DTEND:20260424T050000Z
+SUMMARY:Colorado Avalanche @ Los Angeles Kings (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nColorado Avalanche @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-26-colorado-avalanche-vs-los-angeles-kings-g4@open-sports-cal
+DTSTART:20260426T203000Z
+DTEND:20260426T233000Z
+SUMMARY:Colorado Avalanche @ Los Angeles Kings (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nColorado Avalanche @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
 END:VCALENDAR

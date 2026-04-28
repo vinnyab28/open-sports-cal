@@ -908,4 +908,88 @@ STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
 X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-18-orlando-magic-vs-detroit-pistons-g1@open-sports-cal
+DTSTART:20260418T233000Z
+DTEND:20260419T023000Z
+SUMMARY:Orlando Magic @ Detroit Pistons (Game 1)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nOrlando Magic @ Detroit Pistons — Game 1\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-20-orlando-magic-vs-detroit-pistons-g2@open-sports-cal
+DTSTART:20260420T233000Z
+DTEND:20260421T023000Z
+SUMMARY:Orlando Magic @ Detroit Pistons (Game 2)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nOrlando Magic @ Detroit Pistons — Game 2\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-23-detroit-pistons-vs-orlando-magic-g3@open-sports-cal
+DTSTART:20260423T003000Z
+DTEND:20260423T033000Z
+SUMMARY:Detroit Pistons @ Orlando Magic (Game 3)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nDetroit Pistons @ Orlando Magic — Game 3\nAmway Center
+LOCATION:Amway Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-25-detroit-pistons-vs-orlando-magic-g4@open-sports-cal
+DTSTART:20260425T000000Z
+DTEND:20260425T030000Z
+SUMMARY:Detroit Pistons @ Orlando Magic (Game 4)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nDetroit Pistons @ Orlando Magic — Game 4\nAmway Center
+LOCATION:Amway Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-29-orlando-magic-vs-detroit-pistons-g5@open-sports-cal
+DTSTART:20260429T233000Z
+DTEND:20260430T023000Z
+SUMMARY:Orlando Magic @ Detroit Pistons (Game 5)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nOrlando Magic @ Detroit Pistons — Game 5\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-02-detroit-pistons-vs-orlando-magic-g6@open-sports-cal
+DTSTART:20260502T000000Z
+DTEND:20260502T030000Z
+SUMMARY:Detroit Pistons @ Orlando Magic (Game 6)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nDetroit Pistons @ Orlando Magic — Game 6\nAmway Center
+LOCATION:Amway Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-04-orlando-magic-vs-detroit-pistons-g7@open-sports-cal
+DTSTART:20260504T233000Z
+DTEND:20260505T023000Z
+SUMMARY:Orlando Magic @ Detroit Pistons (Game 7)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nOrlando Magic @ Detroit Pistons — Game 7\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/New_York
+END:VEVENT
 END:VCALENDAR

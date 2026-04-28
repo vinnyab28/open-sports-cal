@@ -908,4 +908,88 @@ STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-20-houston-rockets-vs-los-angeles-lakers-g1@open-sports-cal
+DTSTART:20260420T020000Z
+DTEND:20260420T050000Z
+SUMMARY:Houston Rockets @ Los Angeles Lakers (Game 1)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nHouston Rockets @ Los Angeles Lakers — Game 1\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-22-houston-rockets-vs-los-angeles-lakers-g2@open-sports-cal
+DTSTART:20260422T020000Z
+DTEND:20260422T050000Z
+SUMMARY:Houston Rockets @ Los Angeles Lakers (Game 2)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nHouston Rockets @ Los Angeles Lakers — Game 2\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-24-los-angeles-lakers-vs-houston-rockets-g3@open-sports-cal
+DTSTART:20260424T020000Z
+DTEND:20260424T050000Z
+SUMMARY:Los Angeles Lakers @ Houston Rockets (Game 3)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nLos Angeles Lakers @ Houston Rockets — Game 3\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-26-los-angeles-lakers-vs-houston-rockets-g4@open-sports-cal
+DTSTART:20260426T020000Z
+DTEND:20260426T050000Z
+SUMMARY:Los Angeles Lakers @ Houston Rockets (Game 4)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nLos Angeles Lakers @ Houston Rockets — Game 4\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-30-los-angeles-lakers-vs-houston-rockets-g5@open-sports-cal
+DTSTART:20260430T020000Z
+DTEND:20260430T050000Z
+SUMMARY:Los Angeles Lakers @ Houston Rockets (Game 5)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nLos Angeles Lakers @ Houston Rockets — Game 5\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-02-houston-rockets-vs-los-angeles-lakers-g6@open-sports-cal
+DTSTART:20260502T020000Z
+DTEND:20260502T050000Z
+SUMMARY:Houston Rockets @ Los Angeles Lakers (Game 6)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nHouston Rockets @ Los Angeles Lakers — Game 6\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-04-los-angeles-lakers-vs-houston-rockets-g7@open-sports-cal
+DTSTART:20260504T020000Z
+DTEND:20260504T050000Z
+SUMMARY:Los Angeles Lakers @ Houston Rockets (Game 7)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nLos Angeles Lakers @ Houston Rockets — Game 7\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
 END:VCALENDAR

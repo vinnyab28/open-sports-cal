@@ -990,4 +990,88 @@ STATUS:CONFIRMED
 DTSTAMP:20260331T221344Z
 X-TIMEZONE:America/New_York
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-19-montreal-canadiens-vs-tampa-bay-lightning-g1@open-sports-cal
+DTSTART:20260419T214500Z
+DTEND:20260420T004500Z
+SUMMARY:Montréal Canadiens @ Tampa Bay Lightning (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nMontréal Canadiens @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-21-montreal-canadiens-vs-tampa-bay-lightning-g2@open-sports-cal
+DTSTART:20260421T230000Z
+DTEND:20260422T020000Z
+SUMMARY:Montréal Canadiens @ Tampa Bay Lightning (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nMontréal Canadiens @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-24-tampa-bay-lightning-vs-montreal-canadiens-g3@open-sports-cal
+DTSTART:20260424T230000Z
+DTEND:20260425T020000Z
+SUMMARY:Tampa Bay Lightning @ Montréal Canadiens (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nTampa Bay Lightning @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-26-tampa-bay-lightning-vs-montreal-canadiens-g4@open-sports-cal
+DTSTART:20260426T230000Z
+DTEND:20260427T020000Z
+SUMMARY:Tampa Bay Lightning @ Montréal Canadiens (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nTampa Bay Lightning @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-29-montreal-canadiens-vs-tampa-bay-lightning-g5@open-sports-cal
+DTSTART:20260429T230000Z
+DTEND:20260430T020000Z
+SUMMARY:Montréal Canadiens @ Tampa Bay Lightning (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nMontréal Canadiens @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-01-tampa-bay-lightning-vs-montreal-canadiens-g6@open-sports-cal
+DTSTART:20260501T160000Z
+DTEND:20260501T190000Z
+SUMMARY:Tampa Bay Lightning @ Montréal Canadiens (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nTampa Bay Lightning @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-03-montreal-canadiens-vs-tampa-bay-lightning-g7@open-sports-cal
+DTSTART:20260503T160000Z
+DTEND:20260503T190000Z
+SUMMARY:Montréal Canadiens @ Tampa Bay Lightning (Game 7)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nMontréal Canadiens @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
 END:VCALENDAR

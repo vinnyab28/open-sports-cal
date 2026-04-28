@@ -990,4 +990,88 @@ STATUS:CONFIRMED
 DTSTAMP:20260331T221344Z
 X-TIMEZONE:America/Denver
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-20-utah-hockey-club-vs-vegas-golden-knights-g1@open-sports-cal
+DTSTART:20260420T020000Z
+DTEND:20260420T050000Z
+SUMMARY:Utah Hockey Club @ Vegas Golden Knights (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nUtah Hockey Club @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-22-utah-hockey-club-vs-vegas-golden-knights-g2@open-sports-cal
+DTSTART:20260422T013000Z
+DTEND:20260422T043000Z
+SUMMARY:Utah Hockey Club @ Vegas Golden Knights (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nUtah Hockey Club @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-25-vegas-golden-knights-vs-utah-hockey-club-g3@open-sports-cal
+DTSTART:20260425T013000Z
+DTEND:20260425T043000Z
+SUMMARY:Vegas Golden Knights @ Utah Hockey Club (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nVegas Golden Knights @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-28-vegas-golden-knights-vs-utah-hockey-club-g4@open-sports-cal
+DTSTART:20260428T013000Z
+DTEND:20260428T043000Z
+SUMMARY:Vegas Golden Knights @ Utah Hockey Club (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nVegas Golden Knights @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-30-utah-hockey-club-vs-vegas-golden-knights-g5@open-sports-cal
+DTSTART:20260430T020000Z
+DTEND:20260430T050000Z
+SUMMARY:Utah Hockey Club @ Vegas Golden Knights (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nUtah Hockey Club @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-01-vegas-golden-knights-vs-utah-hockey-club-g6@open-sports-cal
+DTSTART:20260501T160000Z
+DTEND:20260501T190000Z
+SUMMARY:Vegas Golden Knights @ Utah Hockey Club (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nVegas Golden Knights @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-03-utah-hockey-club-vs-vegas-golden-knights-g7@open-sports-cal
+DTSTART:20260503T160000Z
+DTEND:20260503T190000Z
+SUMMARY:Utah Hockey Club @ Vegas Golden Knights (Game 7)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nUtah Hockey Club @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
 END:VCALENDAR

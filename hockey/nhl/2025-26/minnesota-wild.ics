@@ -990,4 +990,76 @@ STATUS:CONFIRMED
 DTSTAMP:20260331T221344Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-21-minnesota-wild-vs-dallas-stars-g2@open-sports-cal
+DTSTART:20260421T013000Z
+DTEND:20260421T043000Z
+SUMMARY:Minnesota Wild @ Dallas Stars (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nMinnesota Wild @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-23-dallas-stars-vs-minnesota-wild-g3@open-sports-cal
+DTSTART:20260423T013000Z
+DTEND:20260423T043000Z
+SUMMARY:Dallas Stars @ Minnesota Wild (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nDallas Stars @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-25-dallas-stars-vs-minnesota-wild-g4@open-sports-cal
+DTSTART:20260425T213000Z
+DTEND:20260426T003000Z
+SUMMARY:Dallas Stars @ Minnesota Wild (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nDallas Stars @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-29-minnesota-wild-vs-dallas-stars-g5@open-sports-cal
+DTSTART:20260429T000000Z
+DTEND:20260429T030000Z
+SUMMARY:Minnesota Wild @ Dallas Stars (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nMinnesota Wild @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-30-dallas-stars-vs-minnesota-wild-g6@open-sports-cal
+DTSTART:20260430T160000Z
+DTEND:20260430T190000Z
+SUMMARY:Dallas Stars @ Minnesota Wild (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nDallas Stars @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-02-minnesota-wild-vs-dallas-stars-g7@open-sports-cal
+DTSTART:20260502T160000Z
+DTEND:20260502T190000Z
+SUMMARY:Minnesota Wild @ Dallas Stars (Game 7)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nMinnesota Wild @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
 END:VCALENDAR

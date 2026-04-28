@@ -990,4 +990,76 @@ STATUS:CONFIRMED
 DTSTAMP:20260331T221344Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-20-philadelphia-flyers-vs-pittsburgh-penguins-g2@open-sports-cal
+DTSTART:20260420T230000Z
+DTEND:20260421T020000Z
+SUMMARY:Philadelphia Flyers @ Pittsburgh Penguins (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nPhiladelphia Flyers @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-22-pittsburgh-penguins-vs-philadelphia-flyers-g3@open-sports-cal
+DTSTART:20260422T230000Z
+DTEND:20260423T020000Z
+SUMMARY:Pittsburgh Penguins @ Philadelphia Flyers (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nPittsburgh Penguins @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-26-pittsburgh-penguins-vs-philadelphia-flyers-g4@open-sports-cal
+DTSTART:20260426T000000Z
+DTEND:20260426T030000Z
+SUMMARY:Pittsburgh Penguins @ Philadelphia Flyers (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nPittsburgh Penguins @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-27-philadelphia-flyers-vs-pittsburgh-penguins-g5@open-sports-cal
+DTSTART:20260427T230000Z
+DTEND:20260428T020000Z
+SUMMARY:Philadelphia Flyers @ Pittsburgh Penguins (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nPhiladelphia Flyers @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-29-pittsburgh-penguins-vs-philadelphia-flyers-g6@open-sports-cal
+DTSTART:20260429T233000Z
+DTEND:20260430T023000Z
+SUMMARY:Pittsburgh Penguins @ Philadelphia Flyers (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nPittsburgh Penguins @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-02-philadelphia-flyers-vs-pittsburgh-penguins-g7@open-sports-cal
+DTSTART:20260502T160000Z
+DTEND:20260502T190000Z
+SUMMARY:Philadelphia Flyers @ Pittsburgh Penguins (Game 7)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nPhiladelphia Flyers @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
 END:VCALENDAR

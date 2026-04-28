@@ -908,4 +908,88 @@ STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-18-toronto-raptors-vs-cleveland-cavaliers-g1@open-sports-cal
+DTSTART:20260418T233000Z
+DTEND:20260419T023000Z
+SUMMARY:Toronto Raptors @ Cleveland Cavaliers (Game 1)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nToronto Raptors @ Cleveland Cavaliers — Game 1\nRocket Mortgage FieldHouse
+LOCATION:Rocket Mortgage FieldHouse
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-20-toronto-raptors-vs-cleveland-cavaliers-g2@open-sports-cal
+DTSTART:20260420T233000Z
+DTEND:20260421T023000Z
+SUMMARY:Toronto Raptors @ Cleveland Cavaliers (Game 2)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nToronto Raptors @ Cleveland Cavaliers — Game 2\nRocket Mortgage FieldHouse
+LOCATION:Rocket Mortgage FieldHouse
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-22-cleveland-cavaliers-vs-toronto-raptors-g3@open-sports-cal
+DTSTART:20260422T233000Z
+DTEND:20260423T023000Z
+SUMMARY:Cleveland Cavaliers @ Toronto Raptors (Game 3)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nCleveland Cavaliers @ Toronto Raptors — Game 3\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-24-cleveland-cavaliers-vs-toronto-raptors-g4@open-sports-cal
+DTSTART:20260424T233000Z
+DTEND:20260425T023000Z
+SUMMARY:Cleveland Cavaliers @ Toronto Raptors (Game 4)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nCleveland Cavaliers @ Toronto Raptors — Game 4\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-29-cleveland-cavaliers-vs-toronto-raptors-g5@open-sports-cal
+DTSTART:20260429T233000Z
+DTEND:20260430T023000Z
+SUMMARY:Cleveland Cavaliers @ Toronto Raptors (Game 5)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nCleveland Cavaliers @ Toronto Raptors — Game 5\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-01-toronto-raptors-vs-cleveland-cavaliers-g6@open-sports-cal
+DTSTART:20260501T233000Z
+DTEND:20260502T023000Z
+SUMMARY:Toronto Raptors @ Cleveland Cavaliers (Game 6)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nToronto Raptors @ Cleveland Cavaliers — Game 6\nRocket Mortgage FieldHouse
+LOCATION:Rocket Mortgage FieldHouse
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-03-cleveland-cavaliers-vs-toronto-raptors-g7@open-sports-cal
+DTSTART:20260503T233000Z
+DTEND:20260504T023000Z
+SUMMARY:Cleveland Cavaliers @ Toronto Raptors (Game 7)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nCleveland Cavaliers @ Toronto Raptors — Game 7\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
 END:VCALENDAR

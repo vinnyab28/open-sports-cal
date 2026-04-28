@@ -990,4 +990,88 @@ STATUS:CONFIRMED
 DTSTAMP:20260331T221344Z
 X-TIMEZONE:America/New_York
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-19-boston-bruins-vs-buffalo-sabres-g1@open-sports-cal
+DTSTART:20260419T233000Z
+DTEND:20260420T023000Z
+SUMMARY:Boston Bruins @ Buffalo Sabres (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBoston Bruins @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-21-boston-bruins-vs-buffalo-sabres-g2@open-sports-cal
+DTSTART:20260421T233000Z
+DTEND:20260422T023000Z
+SUMMARY:Boston Bruins @ Buffalo Sabres (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBoston Bruins @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-23-buffalo-sabres-vs-boston-bruins-g3@open-sports-cal
+DTSTART:20260423T230000Z
+DTEND:20260424T020000Z
+SUMMARY:Buffalo Sabres @ Boston Bruins (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBuffalo Sabres @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-26-buffalo-sabres-vs-boston-bruins-g4@open-sports-cal
+DTSTART:20260426T180000Z
+DTEND:20260426T210000Z
+SUMMARY:Buffalo Sabres @ Boston Bruins (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBuffalo Sabres @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-28-boston-bruins-vs-buffalo-sabres-g5@open-sports-cal
+DTSTART:20260428T233000Z
+DTEND:20260429T023000Z
+SUMMARY:Boston Bruins @ Buffalo Sabres (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBoston Bruins @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-01-buffalo-sabres-vs-boston-bruins-g6@open-sports-cal
+DTSTART:20260501T160000Z
+DTEND:20260501T190000Z
+SUMMARY:Buffalo Sabres @ Boston Bruins (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBuffalo Sabres @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-03-boston-bruins-vs-buffalo-sabres-g7@open-sports-cal
+DTSTART:20260503T160000Z
+DTEND:20260503T190000Z
+SUMMARY:Boston Bruins @ Buffalo Sabres (Game 7)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBoston Bruins @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
 END:VCALENDAR

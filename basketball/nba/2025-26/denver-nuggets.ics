@@ -908,4 +908,88 @@ STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-19-minnesota-timberwolves-vs-denver-nuggets-g1@open-sports-cal
+DTSTART:20260419T020000Z
+DTEND:20260419T050000Z
+SUMMARY:Minnesota Timberwolves @ Denver Nuggets (Game 1)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nMinnesota Timberwolves @ Denver Nuggets — Game 1\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-21-minnesota-timberwolves-vs-denver-nuggets-g2@open-sports-cal
+DTSTART:20260421T020000Z
+DTEND:20260421T050000Z
+SUMMARY:Minnesota Timberwolves @ Denver Nuggets (Game 2)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nMinnesota Timberwolves @ Denver Nuggets — Game 2\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-23-denver-nuggets-vs-minnesota-timberwolves-g3@open-sports-cal
+DTSTART:20260423T020000Z
+DTEND:20260423T050000Z
+SUMMARY:Denver Nuggets @ Minnesota Timberwolves (Game 3)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nDenver Nuggets @ Minnesota Timberwolves — Game 3\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-25-denver-nuggets-vs-minnesota-timberwolves-g4@open-sports-cal
+DTSTART:20260425T020000Z
+DTEND:20260425T050000Z
+SUMMARY:Denver Nuggets @ Minnesota Timberwolves (Game 4)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nDenver Nuggets @ Minnesota Timberwolves — Game 4\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-28-denver-nuggets-vs-minnesota-timberwolves-g5@open-sports-cal
+DTSTART:20260428T023000Z
+DTEND:20260428T053000Z
+SUMMARY:Denver Nuggets @ Minnesota Timberwolves (Game 5)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nDenver Nuggets @ Minnesota Timberwolves — Game 5\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-01-minnesota-timberwolves-vs-denver-nuggets-g6@open-sports-cal
+DTSTART:20260501T020000Z
+DTEND:20260501T050000Z
+SUMMARY:Minnesota Timberwolves @ Denver Nuggets (Game 6)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nMinnesota Timberwolves @ Denver Nuggets — Game 6\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-03-denver-nuggets-vs-minnesota-timberwolves-g7@open-sports-cal
+DTSTART:20260503T023000Z
+DTEND:20260503T053000Z
+SUMMARY:Denver Nuggets @ Minnesota Timberwolves (Game 7)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nDenver Nuggets @ Minnesota Timberwolves — Game 7\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
 END:VCALENDAR

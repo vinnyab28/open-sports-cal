@@ -990,4 +990,88 @@ STATUS:CONFIRMED
 DTSTAMP:20260331T221344Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-21-anaheim-ducks-vs-edmonton-oilers-g1@open-sports-cal
+DTSTART:20260421T020000Z
+DTEND:20260421T050000Z
+SUMMARY:Anaheim Ducks @ Edmonton Oilers (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nAnaheim Ducks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-23-anaheim-ducks-vs-edmonton-oilers-g2@open-sports-cal
+DTSTART:20260423T020000Z
+DTEND:20260423T050000Z
+SUMMARY:Anaheim Ducks @ Edmonton Oilers (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nAnaheim Ducks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-25-edmonton-oilers-vs-anaheim-ducks-g3@open-sports-cal
+DTSTART:20260425T020000Z
+DTEND:20260425T050000Z
+SUMMARY:Edmonton Oilers @ Anaheim Ducks (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nEdmonton Oilers @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-27-edmonton-oilers-vs-anaheim-ducks-g4@open-sports-cal
+DTSTART:20260427T013000Z
+DTEND:20260427T043000Z
+SUMMARY:Edmonton Oilers @ Anaheim Ducks (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nEdmonton Oilers @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-29-anaheim-ducks-vs-edmonton-oilers-g5@open-sports-cal
+DTSTART:20260429T020000Z
+DTEND:20260429T050000Z
+SUMMARY:Anaheim Ducks @ Edmonton Oilers (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nAnaheim Ducks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-30-edmonton-oilers-vs-anaheim-ducks-g6@open-sports-cal
+DTSTART:20260430T160000Z
+DTEND:20260430T190000Z
+SUMMARY:Edmonton Oilers @ Anaheim Ducks (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nEdmonton Oilers @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-02-anaheim-ducks-vs-edmonton-oilers-g7@open-sports-cal
+DTSTART:20260502T160000Z
+DTEND:20260502T190000Z
+SUMMARY:Anaheim Ducks @ Edmonton Oilers (Game 7)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nAnaheim Ducks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
 END:VCALENDAR

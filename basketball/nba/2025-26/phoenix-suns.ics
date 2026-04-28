@@ -908,4 +908,76 @@ STATUS:CONFIRMED
 DTSTAMP:20260329T233900Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-18-phoenix-suns-vs-oklahoma-city-thunder-g1@open-sports-cal
+DTSTART:20260418T230000Z
+DTEND:20260419T020000Z
+SUMMARY:Phoenix Suns @ Oklahoma City Thunder (Game 1)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nPhoenix Suns @ Oklahoma City Thunder — Game 1\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-20-phoenix-suns-vs-oklahoma-city-thunder-g2@open-sports-cal
+DTSTART:20260420T230000Z
+DTEND:20260421T020000Z
+SUMMARY:Phoenix Suns @ Oklahoma City Thunder (Game 2)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nPhoenix Suns @ Oklahoma City Thunder — Game 2\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-22-oklahoma-city-thunder-vs-phoenix-suns-g3@open-sports-cal
+DTSTART:20260422T013000Z
+DTEND:20260422T043000Z
+SUMMARY:Oklahoma City Thunder @ Phoenix Suns (Game 3)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nOklahoma City Thunder @ Phoenix Suns — Game 3\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-27-oklahoma-city-thunder-vs-phoenix-suns-g4@open-sports-cal
+DTSTART:20260427T013000Z
+DTEND:20260427T043000Z
+SUMMARY:Oklahoma City Thunder @ Phoenix Suns (Game 4)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nOklahoma City Thunder @ Phoenix Suns — Game 4\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-04-30-oklahoma-city-thunder-vs-phoenix-suns-g5@open-sports-cal
+DTSTART:20260430T013000Z
+DTEND:20260430T043000Z
+SUMMARY:Oklahoma City Thunder @ Phoenix Suns (Game 5)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nOklahoma City Thunder @ Phoenix Suns — Game 5\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-02-phoenix-suns-vs-oklahoma-city-thunder-g6@open-sports-cal
+DTSTART:20260502T013000Z
+DTEND:20260502T043000Z
+SUMMARY:Phoenix Suns @ Oklahoma City Thunder (Game 6)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nPhoenix Suns @ Oklahoma City Thunder — Game 6\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T024932Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
 END:VCALENDAR

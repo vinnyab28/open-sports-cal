@@ -366,4 +366,28 @@ STATUS:CONFIRMED
 DTSTAMP:20260401T005431Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-playoffs-2026-04-30-ottawa-charge-vs-boston-fleet-g1@open-sports-cal
+DTSTART:20260430T230000Z
+DTEND:20260501T020000Z
+SUMMARY:Ottawa Charge @ Boston Fleet (Game 1)
+DESCRIPTION:PWHL Playoffs 2025-26 — Walter Cup Semifinals\nOttawa Charge @ Boston Fleet\nTsongas Center, Lowell, MA
+LOCATION:Tsongas Center, Lowell, MA
+CATEGORIES:Hockey,PWHL,PWHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T023212Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2025-26-playoffs-2026-05-02-ottawa-charge-vs-boston-fleet-g2@open-sports-cal
+DTSTART:20260502T230000Z
+DTEND:20260503T020000Z
+SUMMARY:Ottawa Charge @ Boston Fleet (Game 2)
+DESCRIPTION:PWHL Playoffs 2025-26 — Walter Cup Semifinals\nOttawa Charge @ Boston Fleet\nTsongas Center, Lowell, MA
+LOCATION:Tsongas Center, Lowell, MA
+CATEGORIES:Hockey,PWHL,PWHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T023212Z
+X-TIMEZONE:America/New_York
+END:VEVENT
 END:VCALENDAR

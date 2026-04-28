@@ -990,4 +990,40 @@ STATUS:CONFIRMED
 DTSTAMP:20260331T221344Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-20-ottawa-senators-vs-carolina-hurricanes-g2@open-sports-cal
+DTSTART:20260420T233000Z
+DTEND:20260421T023000Z
+SUMMARY:Ottawa Senators @ Carolina Hurricanes (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nOttawa Senators @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-23-carolina-hurricanes-vs-ottawa-senators-g3@open-sports-cal
+DTSTART:20260423T233000Z
+DTEND:20260424T023000Z
+SUMMARY:Carolina Hurricanes @ Ottawa Senators (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nCarolina Hurricanes @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-25-carolina-hurricanes-vs-ottawa-senators-g4@open-sports-cal
+DTSTART:20260425T190000Z
+DTEND:20260425T220000Z
+SUMMARY:Carolina Hurricanes @ Ottawa Senators (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nCarolina Hurricanes @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
 END:VCALENDAR

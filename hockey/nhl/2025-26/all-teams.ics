@@ -15750,4 +15750,568 @@ STATUS:CONFIRMED
 DTSTAMP:20260331T221344Z
 X-TIMEZONE:America/Denver
 END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-19-los-angeles-kings-vs-colorado-avalanche-g1@open-sports-cal
+DTSTART:20260419T190000Z
+DTEND:20260419T220000Z
+SUMMARY:Los Angeles Kings @ Colorado Avalanche (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nLos Angeles Kings @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-19-montreal-canadiens-vs-tampa-bay-lightning-g1@open-sports-cal
+DTSTART:20260419T214500Z
+DTEND:20260420T004500Z
+SUMMARY:Montréal Canadiens @ Tampa Bay Lightning (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nMontréal Canadiens @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-19-boston-bruins-vs-buffalo-sabres-g1@open-sports-cal
+DTSTART:20260419T233000Z
+DTEND:20260420T023000Z
+SUMMARY:Boston Bruins @ Buffalo Sabres (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBoston Bruins @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-20-utah-hockey-club-vs-vegas-golden-knights-g1@open-sports-cal
+DTSTART:20260420T020000Z
+DTEND:20260420T050000Z
+SUMMARY:Utah Hockey Club @ Vegas Golden Knights (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nUtah Hockey Club @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-20-philadelphia-flyers-vs-pittsburgh-penguins-g2@open-sports-cal
+DTSTART:20260420T230000Z
+DTEND:20260421T020000Z
+SUMMARY:Philadelphia Flyers @ Pittsburgh Penguins (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nPhiladelphia Flyers @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-20-ottawa-senators-vs-carolina-hurricanes-g2@open-sports-cal
+DTSTART:20260420T233000Z
+DTEND:20260421T023000Z
+SUMMARY:Ottawa Senators @ Carolina Hurricanes (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nOttawa Senators @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-21-minnesota-wild-vs-dallas-stars-g2@open-sports-cal
+DTSTART:20260421T013000Z
+DTEND:20260421T043000Z
+SUMMARY:Minnesota Wild @ Dallas Stars (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nMinnesota Wild @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-21-anaheim-ducks-vs-edmonton-oilers-g1@open-sports-cal
+DTSTART:20260421T020000Z
+DTEND:20260421T050000Z
+SUMMARY:Anaheim Ducks @ Edmonton Oilers (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nAnaheim Ducks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-21-montreal-canadiens-vs-tampa-bay-lightning-g2@open-sports-cal
+DTSTART:20260421T230000Z
+DTEND:20260422T020000Z
+SUMMARY:Montréal Canadiens @ Tampa Bay Lightning (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nMontréal Canadiens @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-21-boston-bruins-vs-buffalo-sabres-g2@open-sports-cal
+DTSTART:20260421T233000Z
+DTEND:20260422T023000Z
+SUMMARY:Boston Bruins @ Buffalo Sabres (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBoston Bruins @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-22-utah-hockey-club-vs-vegas-golden-knights-g2@open-sports-cal
+DTSTART:20260422T013000Z
+DTEND:20260422T043000Z
+SUMMARY:Utah Hockey Club @ Vegas Golden Knights (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nUtah Hockey Club @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-22-los-angeles-kings-vs-colorado-avalanche-g2@open-sports-cal
+DTSTART:20260422T020000Z
+DTEND:20260422T050000Z
+SUMMARY:Los Angeles Kings @ Colorado Avalanche (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nLos Angeles Kings @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-22-pittsburgh-penguins-vs-philadelphia-flyers-g3@open-sports-cal
+DTSTART:20260422T230000Z
+DTEND:20260423T020000Z
+SUMMARY:Pittsburgh Penguins @ Philadelphia Flyers (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nPittsburgh Penguins @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-23-dallas-stars-vs-minnesota-wild-g3@open-sports-cal
+DTSTART:20260423T013000Z
+DTEND:20260423T043000Z
+SUMMARY:Dallas Stars @ Minnesota Wild (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nDallas Stars @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-23-anaheim-ducks-vs-edmonton-oilers-g2@open-sports-cal
+DTSTART:20260423T020000Z
+DTEND:20260423T050000Z
+SUMMARY:Anaheim Ducks @ Edmonton Oilers (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nAnaheim Ducks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-23-buffalo-sabres-vs-boston-bruins-g3@open-sports-cal
+DTSTART:20260423T230000Z
+DTEND:20260424T020000Z
+SUMMARY:Buffalo Sabres @ Boston Bruins (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBuffalo Sabres @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-23-carolina-hurricanes-vs-ottawa-senators-g3@open-sports-cal
+DTSTART:20260423T233000Z
+DTEND:20260424T023000Z
+SUMMARY:Carolina Hurricanes @ Ottawa Senators (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nCarolina Hurricanes @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-24-colorado-avalanche-vs-los-angeles-kings-g3@open-sports-cal
+DTSTART:20260424T020000Z
+DTEND:20260424T050000Z
+SUMMARY:Colorado Avalanche @ Los Angeles Kings (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nColorado Avalanche @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-24-tampa-bay-lightning-vs-montreal-canadiens-g3@open-sports-cal
+DTSTART:20260424T230000Z
+DTEND:20260425T020000Z
+SUMMARY:Tampa Bay Lightning @ Montréal Canadiens (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nTampa Bay Lightning @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-25-vegas-golden-knights-vs-utah-hockey-club-g3@open-sports-cal
+DTSTART:20260425T013000Z
+DTEND:20260425T043000Z
+SUMMARY:Vegas Golden Knights @ Utah Hockey Club (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nVegas Golden Knights @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-25-edmonton-oilers-vs-anaheim-ducks-g3@open-sports-cal
+DTSTART:20260425T020000Z
+DTEND:20260425T050000Z
+SUMMARY:Edmonton Oilers @ Anaheim Ducks (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nEdmonton Oilers @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-25-carolina-hurricanes-vs-ottawa-senators-g4@open-sports-cal
+DTSTART:20260425T190000Z
+DTEND:20260425T220000Z
+SUMMARY:Carolina Hurricanes @ Ottawa Senators (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nCarolina Hurricanes @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-25-dallas-stars-vs-minnesota-wild-g4@open-sports-cal
+DTSTART:20260425T213000Z
+DTEND:20260426T003000Z
+SUMMARY:Dallas Stars @ Minnesota Wild (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nDallas Stars @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-26-pittsburgh-penguins-vs-philadelphia-flyers-g4@open-sports-cal
+DTSTART:20260426T000000Z
+DTEND:20260426T030000Z
+SUMMARY:Pittsburgh Penguins @ Philadelphia Flyers (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nPittsburgh Penguins @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-26-buffalo-sabres-vs-boston-bruins-g4@open-sports-cal
+DTSTART:20260426T180000Z
+DTEND:20260426T210000Z
+SUMMARY:Buffalo Sabres @ Boston Bruins (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBuffalo Sabres @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-26-colorado-avalanche-vs-los-angeles-kings-g4@open-sports-cal
+DTSTART:20260426T203000Z
+DTEND:20260426T233000Z
+SUMMARY:Colorado Avalanche @ Los Angeles Kings (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nColorado Avalanche @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-26-tampa-bay-lightning-vs-montreal-canadiens-g4@open-sports-cal
+DTSTART:20260426T230000Z
+DTEND:20260427T020000Z
+SUMMARY:Tampa Bay Lightning @ Montréal Canadiens (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nTampa Bay Lightning @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-27-edmonton-oilers-vs-anaheim-ducks-g4@open-sports-cal
+DTSTART:20260427T013000Z
+DTEND:20260427T043000Z
+SUMMARY:Edmonton Oilers @ Anaheim Ducks (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nEdmonton Oilers @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-27-philadelphia-flyers-vs-pittsburgh-penguins-g5@open-sports-cal
+DTSTART:20260427T230000Z
+DTEND:20260428T020000Z
+SUMMARY:Philadelphia Flyers @ Pittsburgh Penguins (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nPhiladelphia Flyers @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-28-vegas-golden-knights-vs-utah-hockey-club-g4@open-sports-cal
+DTSTART:20260428T013000Z
+DTEND:20260428T043000Z
+SUMMARY:Vegas Golden Knights @ Utah Hockey Club (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nVegas Golden Knights @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-28-boston-bruins-vs-buffalo-sabres-g5@open-sports-cal
+DTSTART:20260428T233000Z
+DTEND:20260429T023000Z
+SUMMARY:Boston Bruins @ Buffalo Sabres (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBoston Bruins @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-29-minnesota-wild-vs-dallas-stars-g5@open-sports-cal
+DTSTART:20260429T000000Z
+DTEND:20260429T030000Z
+SUMMARY:Minnesota Wild @ Dallas Stars (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nMinnesota Wild @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-29-anaheim-ducks-vs-edmonton-oilers-g5@open-sports-cal
+DTSTART:20260429T020000Z
+DTEND:20260429T050000Z
+SUMMARY:Anaheim Ducks @ Edmonton Oilers (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nAnaheim Ducks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-29-montreal-canadiens-vs-tampa-bay-lightning-g5@open-sports-cal
+DTSTART:20260429T230000Z
+DTEND:20260430T020000Z
+SUMMARY:Montréal Canadiens @ Tampa Bay Lightning (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nMontréal Canadiens @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-29-pittsburgh-penguins-vs-philadelphia-flyers-g6@open-sports-cal
+DTSTART:20260429T233000Z
+DTEND:20260430T023000Z
+SUMMARY:Pittsburgh Penguins @ Philadelphia Flyers (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nPittsburgh Penguins @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-30-utah-hockey-club-vs-vegas-golden-knights-g5@open-sports-cal
+DTSTART:20260430T020000Z
+DTEND:20260430T050000Z
+SUMMARY:Utah Hockey Club @ Vegas Golden Knights (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nUtah Hockey Club @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-30-dallas-stars-vs-minnesota-wild-g6@open-sports-cal
+DTSTART:20260430T160000Z
+DTEND:20260430T190000Z
+SUMMARY:Dallas Stars @ Minnesota Wild (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nDallas Stars @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-30-edmonton-oilers-vs-anaheim-ducks-g6@open-sports-cal
+DTSTART:20260430T160000Z
+DTEND:20260430T190000Z
+SUMMARY:Edmonton Oilers @ Anaheim Ducks (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nEdmonton Oilers @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-01-buffalo-sabres-vs-boston-bruins-g6@open-sports-cal
+DTSTART:20260501T160000Z
+DTEND:20260501T190000Z
+SUMMARY:Buffalo Sabres @ Boston Bruins (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBuffalo Sabres @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-01-tampa-bay-lightning-vs-montreal-canadiens-g6@open-sports-cal
+DTSTART:20260501T160000Z
+DTEND:20260501T190000Z
+SUMMARY:Tampa Bay Lightning @ Montréal Canadiens (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nTampa Bay Lightning @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-01-vegas-golden-knights-vs-utah-hockey-club-g6@open-sports-cal
+DTSTART:20260501T160000Z
+DTEND:20260501T190000Z
+SUMMARY:Vegas Golden Knights @ Utah Hockey Club (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nVegas Golden Knights @ Utah Hockey Club\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-02-philadelphia-flyers-vs-pittsburgh-penguins-g7@open-sports-cal
+DTSTART:20260502T160000Z
+DTEND:20260502T190000Z
+SUMMARY:Philadelphia Flyers @ Pittsburgh Penguins (Game 7)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nPhiladelphia Flyers @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-02-minnesota-wild-vs-dallas-stars-g7@open-sports-cal
+DTSTART:20260502T160000Z
+DTEND:20260502T190000Z
+SUMMARY:Minnesota Wild @ Dallas Stars (Game 7)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nMinnesota Wild @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-02-anaheim-ducks-vs-edmonton-oilers-g7@open-sports-cal
+DTSTART:20260502T160000Z
+DTEND:20260502T190000Z
+SUMMARY:Anaheim Ducks @ Edmonton Oilers (Game 7)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nAnaheim Ducks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-03-boston-bruins-vs-buffalo-sabres-g7@open-sports-cal
+DTSTART:20260503T160000Z
+DTEND:20260503T190000Z
+SUMMARY:Boston Bruins @ Buffalo Sabres (Game 7)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBoston Bruins @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-03-montreal-canadiens-vs-tampa-bay-lightning-g7@open-sports-cal
+DTSTART:20260503T160000Z
+DTEND:20260503T190000Z
+SUMMARY:Montréal Canadiens @ Tampa Bay Lightning (Game 7)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nMontréal Canadiens @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-03-utah-hockey-club-vs-vegas-golden-knights-g7@open-sports-cal
+DTSTART:20260503T160000Z
+DTEND:20260503T190000Z
+SUMMARY:Utah Hockey Club @ Vegas Golden Knights (Game 7)
+DESCRIPTION:NHL Playoffs 2025-26 — First Round\nUtah Hockey Club @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260428T022532Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
 END:VCALENDAR
