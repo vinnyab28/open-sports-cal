@@ -15,7 +15,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Tampa Bay Lightning\nBenchmark Intern
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +27,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Florida Panthers\nAmerant Bank Arena
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -39,7 +39,7 @@ DESCRIPTION:NHL 2025-26\nNashville Predators @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -51,7 +51,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -63,7 +63,7 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Ottawa Senators\nCanadian Tire Cen
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -87,7 +87,7 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +99,7 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -111,7 +111,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Washington Capitals\nCapital One Aren
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -123,11 +123,11 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-29-ottawa-senators-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-10-28-ottawa-senators-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251029T004500Z
 DTEND:20251029T034500Z
 SUMMARY:Ottawa Senators @ Chicago Blackhawks
@@ -135,7 +135,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -147,7 +147,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -159,11 +159,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-07-ottawa-senators-vs-boston-bruins@open-sports-cal
+UID:nhl-2025-26-2025-11-06-ottawa-senators-vs-boston-bruins@open-sports-cal
 DTSTART:20251107T000000Z
 DTEND:20251107T030000Z
 SUMMARY:Ottawa Senators @ Boston Bruins
@@ -171,7 +171,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -183,23 +183,23 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Philadelphia Flyers\nXfinity Mobile A
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-10-utah-hockey-club-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2025-11-09-utah-mammoth-vs-ottawa-senators@open-sports-cal
 DTSTART:20251110T000000Z
 DTEND:20251110T030000Z
-SUMMARY:Utah Hockey Club @ Ottawa Senators
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Ottawa Senators\nCanadian Tire Centre
+SUMMARY:Utah Mammoth @ Ottawa Senators
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-12-dallas-stars-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2025-11-11-dallas-stars-vs-ottawa-senators@open-sports-cal
 DTSTART:20251112T000000Z
 DTEND:20251112T030000Z
 SUMMARY:Dallas Stars @ Ottawa Senators
@@ -207,11 +207,11 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-14-boston-bruins-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2025-11-13-boston-bruins-vs-ottawa-senators@open-sports-cal
 DTSTART:20251114T000000Z
 DTEND:20251114T030000Z
 SUMMARY:Boston Bruins @ Ottawa Senators
@@ -219,11 +219,11 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-16-los-angeles-kings-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2025-11-15-los-angeles-kings-vs-ottawa-senators@open-sports-cal
 DTSTART:20251116T000000Z
 DTEND:20251116T030000Z
 SUMMARY:Los Angeles Kings @ Ottawa Senators
@@ -231,11 +231,11 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Ottawa Senators\nCanadian Tire Cent
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-21-ottawa-senators-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-11-20-ottawa-senators-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251121T030000Z
 DTEND:20251121T060000Z
 SUMMARY:Ottawa Senators @ Anaheim Ducks
@@ -243,11 +243,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-23-ottawa-senators-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-11-22-ottawa-senators-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251123T000000Z
 DTEND:20251123T030000Z
 SUMMARY:Ottawa Senators @ San Jose Sharks
@@ -255,11 +255,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ San Jose Sharks\nSAP Center at San Jo
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-25-ottawa-senators-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2025-11-24-ottawa-senators-vs-los-angeles-kings@open-sports-cal
 DTSTART:20251125T020000Z
 DTEND:20251125T050000Z
 SUMMARY:Ottawa Senators @ Los Angeles Kings
@@ -267,11 +267,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Los Angeles Kings\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-27-ottawa-senators-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-11-26-ottawa-senators-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251127T030000Z
 DTEND:20251127T060000Z
 SUMMARY:Ottawa Senators @ Vegas Golden Knights
@@ -279,7 +279,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -291,7 +291,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ St. Louis Blues\nEnterprise Center
 LOCATION:Enterprise Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -303,11 +303,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Dallas Stars\nAmerican Airlines Cente
 LOCATION:American Airlines Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-03-ottawa-senators-vs-montreal-canadiens@open-sports-cal
+UID:nhl-2025-26-2025-12-02-ottawa-senators-vs-montreal-canadiens@open-sports-cal
 DTSTART:20251203T000000Z
 DTEND:20251203T030000Z
 SUMMARY:Ottawa Senators @ Montréal Canadiens
@@ -315,11 +315,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-05-new-york-rangers-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2025-12-04-new-york-rangers-vs-ottawa-senators@open-sports-cal
 DTSTART:20251205T000000Z
 DTEND:20251205T030000Z
 SUMMARY:New York Rangers @ Ottawa Senators
@@ -327,11 +327,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Ottawa Senators\nCanadian Tire Centr
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-07-st-louis-blues-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2025-12-06-st-louis-blues-vs-ottawa-senators@open-sports-cal
 DTSTART:20251207T000000Z
 DTEND:20251207T030000Z
 SUMMARY:St. Louis Blues @ Ottawa Senators
@@ -339,11 +339,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-10-new-jersey-devils-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2025-12-09-new-jersey-devils-vs-ottawa-senators@open-sports-cal
 DTSTART:20251210T000000Z
 DTEND:20251210T030000Z
 SUMMARY:New Jersey Devils @ Ottawa Senators
@@ -351,11 +351,11 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Ottawa Senators\nCanadian Tire Cent
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-12-ottawa-senators-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-12-11-ottawa-senators-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20251212T000000Z
 DTEND:20251212T030000Z
 SUMMARY:Ottawa Senators @ Columbus Blue Jackets
@@ -363,7 +363,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Columbus Blue Jackets\nNationwide Are
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -375,11 +375,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Minnesota Wild\nGrand Casino Arena
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-16-ottawa-senators-vs-winnipeg-jets@open-sports-cal
+UID:nhl-2025-26-2025-12-15-ottawa-senators-vs-winnipeg-jets@open-sports-cal
 DTSTART:20251216T003000Z
 DTEND:20251216T033000Z
 SUMMARY:Ottawa Senators @ Winnipeg Jets
@@ -387,11 +387,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Winnipeg Jets\nCanada Life Centre
 LOCATION:Canada Life Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Winnipeg
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-19-pittsburgh-penguins-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2025-12-18-pittsburgh-penguins-vs-ottawa-senators@open-sports-cal
 DTSTART:20251219T000000Z
 DTEND:20251219T030000Z
 SUMMARY:Pittsburgh Penguins @ Ottawa Senators
@@ -399,7 +399,7 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -411,11 +411,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Ottawa Senators\nCanadian Tire Cen
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-22-ottawa-senators-vs-boston-bruins@open-sports-cal
+UID:nhl-2025-26-2025-12-21-ottawa-senators-vs-boston-bruins@open-sports-cal
 DTSTART:20251222T000000Z
 DTEND:20251222T030000Z
 SUMMARY:Ottawa Senators @ Boston Bruins
@@ -423,11 +423,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-24-buffalo-sabres-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2025-12-23-buffalo-sabres-vs-ottawa-senators@open-sports-cal
 DTSTART:20251224T000000Z
 DTEND:20251224T030000Z
 SUMMARY:Buffalo Sabres @ Ottawa Senators
@@ -435,11 +435,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-28-ottawa-senators-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-12-27-ottawa-senators-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251228T000000Z
 DTEND:20251228T030000Z
 SUMMARY:Ottawa Senators @ Toronto Maple Leafs
@@ -447,11 +447,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-30-columbus-blue-jackets-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2025-12-29-columbus-blue-jackets-vs-ottawa-senators@open-sports-cal
 DTSTART:20251230T003000Z
 DTEND:20251230T033000Z
 SUMMARY:Columbus Blue Jackets @ Ottawa Senators
@@ -459,7 +459,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Ottawa Senators\nCanadian Tire 
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -471,11 +471,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-04-winnipeg-jets-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2026-01-03-winnipeg-jets-vs-ottawa-senators@open-sports-cal
 DTSTART:20260104T000000Z
 DTEND:20260104T030000Z
 SUMMARY:Winnipeg Jets @ Ottawa Senators
@@ -483,11 +483,11 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-06-detroit-red-wings-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2026-01-05-detroit-red-wings-vs-ottawa-senators@open-sports-cal
 DTSTART:20260106T003000Z
 DTEND:20260106T033000Z
 SUMMARY:Detroit Red Wings @ Ottawa Senators
@@ -495,23 +495,23 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Ottawa Senators\nCanadian Tire Cent
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-08-ottawa-senators-vs-utah-hockey-club@open-sports-cal
+UID:nhl-2025-26-2026-01-07-ottawa-senators-vs-utah-mammoth@open-sports-cal
 DTSTART:20260108T023000Z
 DTEND:20260108T053000Z
-SUMMARY:Ottawa Senators @ Utah Hockey Club
-DESCRIPTION:NHL 2025-26\nOttawa Senators @ Utah Hockey Club\nDelta Center
+SUMMARY:Ottawa Senators @ Utah Mammoth
+DESCRIPTION:NHL 2025-26\nOttawa Senators @ Utah Mammoth\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-09-ottawa-senators-vs-colorado-avalanche@open-sports-cal
+UID:nhl-2025-26-2026-01-08-ottawa-senators-vs-colorado-avalanche@open-sports-cal
 DTSTART:20260109T020000Z
 DTEND:20260109T050000Z
 SUMMARY:Ottawa Senators @ Colorado Avalanche
@@ -519,11 +519,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-11-florida-panthers-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2026-01-10-florida-panthers-vs-ottawa-senators@open-sports-cal
 DTSTART:20260111T000000Z
 DTEND:20260111T030000Z
 SUMMARY:Florida Panthers @ Ottawa Senators
@@ -531,11 +531,11 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Ottawa Senators\nCanadian Tire Centr
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-14-vancouver-canucks-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2026-01-13-vancouver-canucks-vs-ottawa-senators@open-sports-cal
 DTSTART:20260114T000000Z
 DTEND:20260114T030000Z
 SUMMARY:Vancouver Canucks @ Ottawa Senators
@@ -543,11 +543,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Ottawa Senators\nCanadian Tire Cent
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-15-ottawa-senators-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2026-01-14-ottawa-senators-vs-new-york-rangers@open-sports-cal
 DTSTART:20260115T003000Z
 DTEND:20260115T033000Z
 SUMMARY:Ottawa Senators @ New York Rangers
@@ -555,11 +555,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ New York Rangers\nMadison Square Gard
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-18-montreal-canadiens-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2026-01-17-montreal-canadiens-vs-ottawa-senators@open-sports-cal
 DTSTART:20260118T000000Z
 DTEND:20260118T030000Z
 SUMMARY:Montréal Canadiens @ Ottawa Senators
@@ -567,7 +567,7 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -579,11 +579,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Detroit Red Wings\nLittle Caesars Are
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-21-ottawa-senators-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2026-01-20-ottawa-senators-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20260121T000000Z
 DTEND:20260121T030000Z
 SUMMARY:Ottawa Senators @ Columbus Blue Jackets
@@ -591,11 +591,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Columbus Blue Jackets\nNationwide Are
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-23-ottawa-senators-vs-nashville-predators@open-sports-cal
+UID:nhl-2025-26-2026-01-22-ottawa-senators-vs-nashville-predators@open-sports-cal
 DTSTART:20260123T010000Z
 DTEND:20260123T040000Z
 SUMMARY:Ottawa Senators @ Nashville Predators
@@ -603,11 +603,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Nashville Predators\nBridgestone Aren
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-25-carolina-hurricanes-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2026-01-24-carolina-hurricanes-vs-ottawa-senators@open-sports-cal
 DTSTART:20260125T000000Z
 DTEND:20260125T030000Z
 SUMMARY:Carolina Hurricanes @ Ottawa Senators
@@ -615,7 +615,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -627,11 +627,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Ottawa Senators\nCanadian Tire C
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-29-colorado-avalanche-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2026-01-28-colorado-avalanche-vs-ottawa-senators@open-sports-cal
 DTSTART:20260129T003000Z
 DTEND:20260129T033000Z
 SUMMARY:Colorado Avalanche @ Ottawa Senators
@@ -639,11 +639,11 @@ DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Ottawa Senators\nCanadian Tire Cen
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-01-new-jersey-devils-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2026-01-31-new-jersey-devils-vs-ottawa-senators@open-sports-cal
 DTSTART:20260201T000000Z
 DTEND:20260201T030000Z
 SUMMARY:New Jersey Devils @ Ottawa Senators
@@ -651,11 +651,11 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Ottawa Senators\nCanadian Tire Cent
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-03-ottawa-senators-vs-pittsburgh-penguins@open-sports-cal
+UID:nhl-2025-26-2026-02-02-ottawa-senators-vs-pittsburgh-penguins@open-sports-cal
 DTSTART:20260203T000000Z
 DTEND:20260203T030000Z
 SUMMARY:Ottawa Senators @ Pittsburgh Penguins
@@ -663,11 +663,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Pittsburgh Penguins\nPPG Paints Arena
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-04-ottawa-senators-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2026-02-03-ottawa-senators-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20260204T000000Z
 DTEND:20260204T030000Z
 SUMMARY:Ottawa Senators @ Carolina Hurricanes
@@ -675,11 +675,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-06-ottawa-senators-vs-philadelphia-flyers@open-sports-cal
+UID:nhl-2025-26-2026-02-05-ottawa-senators-vs-philadelphia-flyers@open-sports-cal
 DTSTART:20260206T000000Z
 DTEND:20260206T030000Z
 SUMMARY:Ottawa Senators @ Philadelphia Flyers
@@ -687,11 +687,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Philadelphia Flyers\nXfinity Mobile A
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-27-detroit-red-wings-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2026-02-26-detroit-red-wings-vs-ottawa-senators@open-sports-cal
 DTSTART:20260227T000000Z
 DTEND:20260227T030000Z
 SUMMARY:Detroit Red Wings @ Ottawa Senators
@@ -699,11 +699,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Ottawa Senators\nCanadian Tire Cent
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-01-ottawa-senators-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2026-02-28-ottawa-senators-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20260301T000000Z
 DTEND:20260301T030000Z
 SUMMARY:Ottawa Senators @ Toronto Maple Leafs
@@ -711,11 +711,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-04-ottawa-senators-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2026-03-03-ottawa-senators-vs-edmonton-oilers@open-sports-cal
 DTSTART:20260304T020000Z
 DTEND:20260304T050000Z
 SUMMARY:Ottawa Senators @ Edmonton Oilers
@@ -723,11 +723,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-06-ottawa-senators-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-03-05-ottawa-senators-vs-calgary-flames@open-sports-cal
 DTSTART:20260306T020000Z
 DTEND:20260306T050000Z
 SUMMARY:Ottawa Senators @ Calgary Flames
@@ -735,11 +735,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-08-ottawa-senators-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2026-03-07-ottawa-senators-vs-seattle-kraken@open-sports-cal
 DTSTART:20260308T030000Z
 DTEND:20260308T060000Z
 SUMMARY:Ottawa Senators @ Seattle Kraken
@@ -747,11 +747,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Seattle Kraken\nClimate Pledge Arena
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-10-ottawa-senators-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-03-09-ottawa-senators-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260310T010000Z
 DTEND:20260310T040000Z
 SUMMARY:Ottawa Senators @ Vancouver Canucks
@@ -759,7 +759,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
@@ -771,7 +771,7 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -783,7 +783,7 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -795,7 +795,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -807,7 +807,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Washington Capitals\nCapital One Aren
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -819,7 +819,7 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Ottawa Senators\nCanadian Tire Cen
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -831,7 +831,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -843,7 +843,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ New York Rangers\nMadison Square Gard
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -855,7 +855,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Detroit Red Wings\nLittle Caesars Are
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -867,7 +867,7 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -879,7 +879,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Tampa Bay Lightning\nBenchmark Intern
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -891,7 +891,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Florida Panthers\nAmerant Bank Arena
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -903,7 +903,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -915,7 +915,7 @@ DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -927,7 +927,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -939,7 +939,7 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -951,7 +951,7 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Ottawa Senators\nCanadian Tire Centr
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -963,7 +963,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -975,7 +975,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ New Jersey Devils\nPrudential Center
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -987,19 +987,31 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-18-ottawa-senators-vs-carolina-hurricanes-g1@open-sports-cal
+DTSTART:20260418T190000Z
+DTEND:20260418T220000Z
+SUMMARY:Ottawa Senators @ Carolina Hurricanes (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26\nOttawa Senators @ Carolina Hurricanes — Game 1\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-playoffs-2026-04-20-ottawa-senators-vs-carolina-hurricanes-g2@open-sports-cal
 DTSTART:20260420T233000Z
 DTEND:20260421T023000Z
 SUMMARY:Ottawa Senators @ Carolina Hurricanes (Game 2)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nOttawa Senators @ Carolina Hurricanes\nLenovo Center
+DESCRIPTION:NHL Playoffs 2025-26\nOttawa Senators @ Carolina Hurricanes — Game 2\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1007,11 +1019,11 @@ UID:nhl-2025-26-playoffs-2026-04-23-carolina-hurricanes-vs-ottawa-senators-g3@op
 DTSTART:20260423T233000Z
 DTEND:20260424T023000Z
 SUMMARY:Carolina Hurricanes @ Ottawa Senators (Game 3)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nCarolina Hurricanes @ Ottawa Senators\nCanadian Tire Centre
+DESCRIPTION:NHL Playoffs 2025-26\nCarolina Hurricanes @ Ottawa Senators — Game 3\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -1019,11 +1031,11 @@ UID:nhl-2025-26-playoffs-2026-04-25-carolina-hurricanes-vs-ottawa-senators-g4@op
 DTSTART:20260425T190000Z
 DTEND:20260425T220000Z
 SUMMARY:Carolina Hurricanes @ Ottawa Senators (Game 4)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nCarolina Hurricanes @ Ottawa Senators\nCanadian Tire Centre
+DESCRIPTION:NHL Playoffs 2025-26\nCarolina Hurricanes @ Ottawa Senators — Game 4\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 END:VCALENDAR

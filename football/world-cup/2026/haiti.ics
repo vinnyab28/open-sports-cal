@@ -7,39 +7,39 @@ X-WR-CALNAME:FIFA World Cup 2026 - Haiti
 X-WR-TIMEZONE:UTC
 X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
-UID:fwc2026-m014@open-sports-cal
+UID:fwc2026-m007@open-sports-cal
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
 SUMMARY:Haiti vs Scotland
-DESCRIPTION:FIFA World Cup 2026 — Group C\nHaiti vs Scotland\nGillette Stadium, Boston, USA
-LOCATION:Gillette Stadium, Boston, USA
+DESCRIPTION:FIFA World Cup 2026 — Group C\nHaiti vs Scotland\nGillette Stadium, Foxborough, Massachusetts
+LOCATION:Gillette Stadium, Foxborough, Massachusetts
 CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
 STATUS:CONFIRMED
-DTSTAMP:20260404T124945Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:fwc2026-m016@open-sports-cal
-DTSTART:20260620T010000Z
-DTEND:20260620T030000Z
+UID:fwc2026-m031@open-sports-cal
+DTSTART:20260620T003000Z
+DTEND:20260620T023000Z
 SUMMARY:Brazil vs Haiti
-DESCRIPTION:FIFA World Cup 2026 — Group C\nBrazil vs Haiti\nLincoln Financial Field, Philadelphia, USA
-LOCATION:Lincoln Financial Field, Philadelphia, USA
+DESCRIPTION:FIFA World Cup 2026 — Group C\nBrazil vs Haiti\nLincoln Financial Field, Philadelphia, Pennsylvania
+LOCATION:Lincoln Financial Field, Philadelphia, Pennsylvania
 CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
 STATUS:CONFIRMED
-DTSTAMP:20260404T124945Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:fwc2026-m018@open-sports-cal
+UID:fwc2026-m051@open-sports-cal
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:Morocco vs Haiti
-DESCRIPTION:FIFA World Cup 2026 — Group C\nMorocco vs Haiti\nMercedes-Benz, Atlanta, USA
-LOCATION:Mercedes-Benz, Atlanta, USA
+DESCRIPTION:FIFA World Cup 2026 — Group C\nMorocco vs Haiti\nMercedes-Benz Stadium, Atlanta, Georgia
+LOCATION:Mercedes-Benz Stadium, Atlanta, Georgia
 CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
 STATUS:CONFIRMED
-DTSTAMP:20260404T124945Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

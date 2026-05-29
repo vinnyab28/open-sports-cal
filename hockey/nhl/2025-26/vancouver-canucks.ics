@@ -7,7 +7,7 @@ X-WR-CALNAME:NHL 2025-26 - Vancouver Canucks
 X-WR-TIMEZONE:UTC
 X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-10-calgary-flames-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-10-09-calgary-flames-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251010T020000Z
 DTEND:20251010T050000Z
 SUMMARY:Calgary Flames @ Vancouver Canucks
@@ -15,11 +15,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-12-vancouver-canucks-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2025-10-11-vancouver-canucks-vs-edmonton-oilers@open-sports-cal
 DTSTART:20251012T020000Z
 DTEND:20251012T050000Z
 SUMMARY:Vancouver Canucks @ Edmonton Oilers
@@ -27,8 +27,8 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2025-10-13-st-louis-blues-vs-vancouver-canucks@open-sports-cal
@@ -39,11 +39,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-17-vancouver-canucks-vs-dallas-stars@open-sports-cal
+UID:nhl-2025-26-2025-10-16-vancouver-canucks-vs-dallas-stars@open-sports-cal
 DTSTART:20251017T000000Z
 DTEND:20251017T030000Z
 SUMMARY:Vancouver Canucks @ Dallas Stars
@@ -51,11 +51,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Dallas Stars\nAmerican Airlines Cen
 LOCATION:American Airlines Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-18-vancouver-canucks-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-10-17-vancouver-canucks-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251018T003000Z
 DTEND:20251018T033000Z
 SUMMARY:Vancouver Canucks @ Chicago Blackhawks
@@ -63,7 +63,7 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Washington Capitals\nCapital One Ar
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -87,11 +87,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Pittsburgh Penguins\nPPG Paints Are
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-24-vancouver-canucks-vs-nashville-predators@open-sports-cal
+UID:nhl-2025-26-2025-10-23-vancouver-canucks-vs-nashville-predators@open-sports-cal
 DTSTART:20251024T000000Z
 DTEND:20251024T030000Z
 SUMMARY:Vancouver Canucks @ Nashville Predators
@@ -99,7 +99,7 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Nashville Predators\nBridgestone Ar
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -111,11 +111,11 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-27-edmonton-oilers-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-10-26-edmonton-oilers-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251027T020000Z
 DTEND:20251027T050000Z
 SUMMARY:Edmonton Oilers @ Vancouver Canucks
@@ -123,11 +123,11 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-29-new-york-rangers-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-10-28-new-york-rangers-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251029T020000Z
 DTEND:20251029T050000Z
 SUMMARY:New York Rangers @ Vancouver Canucks
@@ -135,11 +135,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-31-vancouver-canucks-vs-st-louis-blues@open-sports-cal
+UID:nhl-2025-26-2025-10-30-vancouver-canucks-vs-st-louis-blues@open-sports-cal
 DTSTART:20251031T000000Z
 DTEND:20251031T030000Z
 SUMMARY:Vancouver Canucks @ St. Louis Blues
@@ -147,7 +147,7 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ St. Louis Blues\nEnterprise Center
 LOCATION:Enterprise Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -159,11 +159,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Minnesota Wild\nGrand Casino Arena
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-04-vancouver-canucks-vs-nashville-predators@open-sports-cal
+UID:nhl-2025-26-2025-11-03-vancouver-canucks-vs-nashville-predators@open-sports-cal
 DTSTART:20251104T013000Z
 DTEND:20251104T043000Z
 SUMMARY:Vancouver Canucks @ Nashville Predators
@@ -171,11 +171,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Nashville Predators\nBridgestone Ar
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-06-chicago-blackhawks-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-11-05-chicago-blackhawks-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251106T030000Z
 DTEND:20251106T060000Z
 SUMMARY:Chicago Blackhawks @ Vancouver Canucks
@@ -183,11 +183,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-09-columbus-blue-jackets-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-11-08-columbus-blue-jackets-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251109T030000Z
 DTEND:20251109T060000Z
 SUMMARY:Columbus Blue Jackets @ Vancouver Canucks
@@ -195,11 +195,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-10-colorado-avalanche-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-11-09-colorado-avalanche-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251110T030000Z
 DTEND:20251110T060000Z
 SUMMARY:Colorado Avalanche @ Vancouver Canucks
@@ -207,11 +207,11 @@ DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-12-winnipeg-jets-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-11-11-winnipeg-jets-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251112T030000Z
 DTEND:20251112T060000Z
 SUMMARY:Winnipeg Jets @ Vancouver Canucks
@@ -219,11 +219,11 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-15-vancouver-canucks-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-11-14-vancouver-canucks-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251115T000000Z
 DTEND:20251115T030000Z
 SUMMARY:Vancouver Canucks @ Carolina Hurricanes
@@ -231,7 +231,7 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -243,11 +243,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Tampa Bay Lightning\nBenchmark Inte
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-18-vancouver-canucks-vs-florida-panthers@open-sports-cal
+UID:nhl-2025-26-2025-11-17-vancouver-canucks-vs-florida-panthers@open-sports-cal
 DTSTART:20251118T000000Z
 DTEND:20251118T030000Z
 SUMMARY:Vancouver Canucks @ Florida Panthers
@@ -255,11 +255,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Florida Panthers\nAmerant Bank Aren
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-21-dallas-stars-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-11-20-dallas-stars-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251121T030000Z
 DTEND:20251121T060000Z
 SUMMARY:Dallas Stars @ Vancouver Canucks
@@ -267,11 +267,11 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-24-calgary-flames-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-11-23-calgary-flames-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251124T020000Z
 DTEND:20251124T050000Z
 SUMMARY:Calgary Flames @ Vancouver Canucks
@@ -279,11 +279,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-27-vancouver-canucks-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-11-26-vancouver-canucks-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251127T030000Z
 DTEND:20251127T060000Z
 SUMMARY:Vancouver Canucks @ Anaheim Ducks
@@ -291,7 +291,7 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -303,11 +303,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ San Jose Sharks\nSAP Center at San 
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-30-vancouver-canucks-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2025-11-29-vancouver-canucks-vs-los-angeles-kings@open-sports-cal
 DTSTART:20251130T030000Z
 DTEND:20251130T060000Z
 SUMMARY:Vancouver Canucks @ Los Angeles Kings
@@ -315,11 +315,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Los Angeles Kings\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-03-vancouver-canucks-vs-colorado-avalanche@open-sports-cal
+UID:nhl-2025-26-2025-12-02-vancouver-canucks-vs-colorado-avalanche@open-sports-cal
 DTSTART:20251203T020000Z
 DTEND:20251203T050000Z
 SUMMARY:Vancouver Canucks @ Colorado Avalanche
@@ -327,23 +327,23 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-06-utah-hockey-club-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-12-05-utah-mammoth-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251206T020000Z
 DTEND:20251206T050000Z
-SUMMARY:Utah Hockey Club @ Vancouver Canucks
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Vancouver Canucks\nRogers Arena
+SUMMARY:Utah Mammoth @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-07-minnesota-wild-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-12-06-minnesota-wild-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251207T030000Z
 DTEND:20251207T060000Z
 SUMMARY:Minnesota Wild @ Vancouver Canucks
@@ -351,11 +351,11 @@ DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-09-detroit-red-wings-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-12-08-detroit-red-wings-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251209T030000Z
 DTEND:20251209T060000Z
 SUMMARY:Detroit Red Wings @ Vancouver Canucks
@@ -363,11 +363,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-12-buffalo-sabres-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-12-11-buffalo-sabres-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251212T030000Z
 DTEND:20251212T060000Z
 SUMMARY:Buffalo Sabres @ Vancouver Canucks
@@ -375,7 +375,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
@@ -387,11 +387,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ New Jersey Devils\nPrudential Cente
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-17-vancouver-canucks-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2025-12-16-vancouver-canucks-vs-new-york-rangers@open-sports-cal
 DTSTART:20251217T000000Z
 DTEND:20251217T030000Z
 SUMMARY:Vancouver Canucks @ New York Rangers
@@ -399,11 +399,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ New York Rangers\nMadison Square Ga
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-20-vancouver-canucks-vs-new-york-islanders@open-sports-cal
+UID:nhl-2025-26-2025-12-19-vancouver-canucks-vs-new-york-islanders@open-sports-cal
 DTSTART:20251220T000000Z
 DTEND:20251220T030000Z
 SUMMARY:Vancouver Canucks @ New York Islanders
@@ -411,11 +411,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-21-vancouver-canucks-vs-boston-bruins@open-sports-cal
+UID:nhl-2025-26-2025-12-20-vancouver-canucks-vs-boston-bruins@open-sports-cal
 DTSTART:20251221T000000Z
 DTEND:20251221T030000Z
 SUMMARY:Vancouver Canucks @ Boston Bruins
@@ -423,11 +423,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-23-vancouver-canucks-vs-philadelphia-flyers@open-sports-cal
+UID:nhl-2025-26-2025-12-22-vancouver-canucks-vs-philadelphia-flyers@open-sports-cal
 DTSTART:20251223T003000Z
 DTEND:20251223T033000Z
 SUMMARY:Vancouver Canucks @ Philadelphia Flyers
@@ -435,11 +435,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Philadelphia Flyers\nXfinity Mobile
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-28-san-jose-sharks-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-12-27-san-jose-sharks-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251228T030000Z
 DTEND:20251228T060000Z
 SUMMARY:San Jose Sharks @ Vancouver Canucks
@@ -447,11 +447,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-30-vancouver-canucks-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2025-12-29-vancouver-canucks-vs-seattle-kraken@open-sports-cal
 DTSTART:20251230T030000Z
 DTEND:20251230T060000Z
 SUMMARY:Vancouver Canucks @ Seattle Kraken
@@ -459,11 +459,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Seattle Kraken\nClimate Pledge Aren
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-31-philadelphia-flyers-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-12-30-philadelphia-flyers-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251231T030000Z
 DTEND:20251231T060000Z
 SUMMARY:Philadelphia Flyers @ Vancouver Canucks
@@ -471,11 +471,11 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-03-seattle-kraken-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-01-02-seattle-kraken-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260103T033000Z
 DTEND:20260103T063000Z
 SUMMARY:Seattle Kraken @ Vancouver Canucks
@@ -483,11 +483,11 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-04-boston-bruins-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-01-03-boston-bruins-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260104T030000Z
 DTEND:20260104T060000Z
 SUMMARY:Boston Bruins @ Vancouver Canucks
@@ -495,11 +495,11 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-07-vancouver-canucks-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2026-01-06-vancouver-canucks-vs-buffalo-sabres@open-sports-cal
 DTSTART:20260107T000000Z
 DTEND:20260107T030000Z
 SUMMARY:Vancouver Canucks @ Buffalo Sabres
@@ -507,11 +507,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-09-vancouver-canucks-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2026-01-08-vancouver-canucks-vs-detroit-red-wings@open-sports-cal
 DTSTART:20260109T000000Z
 DTEND:20260109T030000Z
 SUMMARY:Vancouver Canucks @ Detroit Red Wings
@@ -519,11 +519,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Detroit Red Wings\nLittle Caesars A
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-11-vancouver-canucks-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2026-01-10-vancouver-canucks-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20260111T000000Z
 DTEND:20260111T030000Z
 SUMMARY:Vancouver Canucks @ Toronto Maple Leafs
@@ -531,11 +531,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Toronto Maple Leafs\nScotiabank Are
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-13-vancouver-canucks-vs-montreal-canadiens@open-sports-cal
+UID:nhl-2025-26-2026-01-12-vancouver-canucks-vs-montreal-canadiens@open-sports-cal
 DTSTART:20260113T003000Z
 DTEND:20260113T033000Z
 SUMMARY:Vancouver Canucks @ Montréal Canadiens
@@ -543,11 +543,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-14-vancouver-canucks-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2026-01-13-vancouver-canucks-vs-ottawa-senators@open-sports-cal
 DTSTART:20260114T000000Z
 DTEND:20260114T030000Z
 SUMMARY:Vancouver Canucks @ Ottawa Senators
@@ -555,11 +555,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Ottawa Senators\nCanadian Tire Cent
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-16-vancouver-canucks-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2026-01-15-vancouver-canucks-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20260116T000000Z
 DTEND:20260116T030000Z
 SUMMARY:Vancouver Canucks @ Columbus Blue Jackets
@@ -567,11 +567,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Columbus Blue Jackets\nNationwide A
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-18-edmonton-oilers-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-01-17-edmonton-oilers-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260118T030000Z
 DTEND:20260118T060000Z
 SUMMARY:Edmonton Oilers @ Vancouver Canucks
@@ -579,11 +579,11 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-20-new-york-islanders-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-01-19-new-york-islanders-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260120T030000Z
 DTEND:20260120T060000Z
 SUMMARY:New York Islanders @ Vancouver Canucks
@@ -591,11 +591,11 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-22-washington-capitals-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-01-21-washington-capitals-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260122T030000Z
 DTEND:20260122T060000Z
 SUMMARY:Washington Capitals @ Vancouver Canucks
@@ -603,11 +603,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-24-new-jersey-devils-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-01-23-new-jersey-devils-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260124T030000Z
 DTEND:20260124T060000Z
 SUMMARY:New Jersey Devils @ Vancouver Canucks
@@ -615,7 +615,7 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
@@ -627,11 +627,11 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-28-san-jose-sharks-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-01-27-san-jose-sharks-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260128T030000Z
 DTEND:20260128T060000Z
 SUMMARY:San Jose Sharks @ Vancouver Canucks
@@ -639,11 +639,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-30-anaheim-ducks-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-01-29-anaheim-ducks-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260130T030000Z
 DTEND:20260130T060000Z
 SUMMARY:Anaheim Ducks @ Vancouver Canucks
@@ -651,11 +651,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-01-toronto-maple-leafs-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-01-31-toronto-maple-leafs-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260201T000000Z
 DTEND:20260201T030000Z
 SUMMARY:Toronto Maple Leafs @ Vancouver Canucks
@@ -663,23 +663,23 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-03-vancouver-canucks-vs-utah-hockey-club@open-sports-cal
+UID:nhl-2025-26-2026-02-02-vancouver-canucks-vs-utah-mammoth@open-sports-cal
 DTSTART:20260203T023000Z
 DTEND:20260203T053000Z
-SUMMARY:Vancouver Canucks @ Utah Hockey Club
-DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Utah Hockey Club\nDelta Center
+SUMMARY:Vancouver Canucks @ Utah Mammoth
+DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Utah Mammoth\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-05-vancouver-canucks-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-02-04-vancouver-canucks-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260205T030000Z
 DTEND:20260205T060000Z
 SUMMARY:Vancouver Canucks @ Vegas Golden Knights
@@ -687,11 +687,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Vegas Golden Knights\nT-Mobile Aren
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-26-winnipeg-jets-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-02-25-winnipeg-jets-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260226T030000Z
 DTEND:20260226T060000Z
 SUMMARY:Winnipeg Jets @ Vancouver Canucks
@@ -699,11 +699,11 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-01-vancouver-canucks-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2026-02-28-vancouver-canucks-vs-seattle-kraken@open-sports-cal
 DTSTART:20260301T030000Z
 DTEND:20260301T060000Z
 SUMMARY:Vancouver Canucks @ Seattle Kraken
@@ -711,11 +711,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Seattle Kraken\nClimate Pledge Aren
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-03-dallas-stars-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-03-02-dallas-stars-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260303T030000Z
 DTEND:20260303T060000Z
 SUMMARY:Dallas Stars @ Vancouver Canucks
@@ -723,11 +723,11 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-05-carolina-hurricanes-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-03-04-carolina-hurricanes-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260305T030000Z
 DTEND:20260305T060000Z
 SUMMARY:Carolina Hurricanes @ Vancouver Canucks
@@ -735,11 +735,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-07-vancouver-canucks-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-03-06-vancouver-canucks-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260307T013000Z
 DTEND:20260307T043000Z
 SUMMARY:Vancouver Canucks @ Chicago Blackhawks
@@ -747,11 +747,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-08-vancouver-canucks-vs-winnipeg-jets@open-sports-cal
+UID:nhl-2025-26-2026-03-07-vancouver-canucks-vs-winnipeg-jets@open-sports-cal
 DTSTART:20260308T000000Z
 DTEND:20260308T030000Z
 SUMMARY:Vancouver Canucks @ Winnipeg Jets
@@ -759,11 +759,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Winnipeg Jets\nCanada Life Centre
 LOCATION:Canada Life Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Winnipeg
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-10-ottawa-senators-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-03-09-ottawa-senators-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260310T010000Z
 DTEND:20260310T040000Z
 SUMMARY:Ottawa Senators @ Vancouver Canucks
@@ -771,11 +771,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-13-nashville-predators-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-03-12-nashville-predators-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260313T020000Z
 DTEND:20260313T050000Z
 SUMMARY:Nashville Predators @ Vancouver Canucks
@@ -783,11 +783,11 @@ DESCRIPTION:NHL 2025-26\nNashville Predators @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-15-seattle-kraken-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-03-14-seattle-kraken-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260315T020000Z
 DTEND:20260315T050000Z
 SUMMARY:Seattle Kraken @ Vancouver Canucks
@@ -795,11 +795,11 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-18-florida-panthers-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-03-17-florida-panthers-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260318T020000Z
 DTEND:20260318T050000Z
 SUMMARY:Florida Panthers @ Vancouver Canucks
@@ -807,11 +807,11 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-20-tampa-bay-lightning-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-03-19-tampa-bay-lightning-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260320T020000Z
 DTEND:20260320T050000Z
 SUMMARY:Tampa Bay Lightning @ Vancouver Canucks
@@ -819,7 +819,7 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
@@ -831,11 +831,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-25-anaheim-ducks-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-03-24-anaheim-ducks-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260325T020000Z
 DTEND:20260325T050000Z
 SUMMARY:Anaheim Ducks @ Vancouver Canucks
@@ -843,11 +843,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-27-los-angeles-kings-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-03-26-los-angeles-kings-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260327T020000Z
 DTEND:20260327T050000Z
 SUMMARY:Los Angeles Kings @ Vancouver Canucks
@@ -855,11 +855,11 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-29-vancouver-canucks-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-03-28-vancouver-canucks-vs-calgary-flames@open-sports-cal
 DTSTART:20260329T020000Z
 DTEND:20260329T050000Z
 SUMMARY:Vancouver Canucks @ Calgary Flames
@@ -867,11 +867,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Calgary Flames\nScotiabank Saddledo
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-31-vancouver-canucks-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-03-30-vancouver-canucks-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260331T020000Z
 DTEND:20260331T050000Z
 SUMMARY:Vancouver Canucks @ Vegas Golden Knights
@@ -879,11 +879,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Vegas Golden Knights\nT-Mobile Aren
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-02-vancouver-canucks-vs-colorado-avalanche@open-sports-cal
+UID:nhl-2025-26-2026-04-01-vancouver-canucks-vs-colorado-avalanche@open-sports-cal
 DTSTART:20260402T003000Z
 DTEND:20260402T033000Z
 SUMMARY:Vancouver Canucks @ Colorado Avalanche
@@ -891,11 +891,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-03-vancouver-canucks-vs-minnesota-wild@open-sports-cal
+UID:nhl-2025-26-2026-04-02-vancouver-canucks-vs-minnesota-wild@open-sports-cal
 DTSTART:20260403T000000Z
 DTEND:20260403T030000Z
 SUMMARY:Vancouver Canucks @ Minnesota Wild
@@ -903,23 +903,23 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Minnesota Wild\nGrand Casino Arena
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-04-utah-hockey-club-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-04-04-utah-mammoth-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260404T230000Z
 DTEND:20260405T020000Z
-SUMMARY:Utah Hockey Club @ Vancouver Canucks
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Vancouver Canucks\nRogers Arena
+SUMMARY:Utah Mammoth @ Vancouver Canucks
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-08-vegas-golden-knights-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-04-07-vegas-golden-knights-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260408T020000Z
 DTEND:20260408T050000Z
 SUMMARY:Vegas Golden Knights @ Vancouver Canucks
@@ -927,11 +927,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-10-vancouver-canucks-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2026-04-09-vancouver-canucks-vs-los-angeles-kings@open-sports-cal
 DTSTART:20260410T023000Z
 DTEND:20260410T053000Z
 SUMMARY:Vancouver Canucks @ Los Angeles Kings
@@ -939,11 +939,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Los Angeles Kings\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-12-vancouver-canucks-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-04-11-vancouver-canucks-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260412T020000Z
 DTEND:20260412T050000Z
 SUMMARY:Vancouver Canucks @ San Jose Sharks
@@ -951,11 +951,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ San Jose Sharks\nSAP Center at San 
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-13-vancouver-canucks-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-04-12-vancouver-canucks-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260413T000000Z
 DTEND:20260413T030000Z
 SUMMARY:Vancouver Canucks @ Anaheim Ducks
@@ -963,11 +963,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-15-los-angeles-kings-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-04-14-los-angeles-kings-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260415T020000Z
 DTEND:20260415T050000Z
 SUMMARY:Los Angeles Kings @ Vancouver Canucks
@@ -975,11 +975,11 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-17-vancouver-canucks-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2026-04-16-vancouver-canucks-vs-edmonton-oilers@open-sports-cal
 DTSTART:20260417T010000Z
 DTEND:20260417T040000Z
 SUMMARY:Vancouver Canucks @ Edmonton Oilers
@@ -987,7 +987,7 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 END:VCALENDAR

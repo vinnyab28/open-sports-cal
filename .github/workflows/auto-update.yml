@@ -1,0 +1,78 @@
+name: Auto-update Sports Calendars
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - { league: nba,        dir: basketball/nba/2025-26 }
+          - { league: nhl,        dir: hockey/nhl/2025-26 }
+          - { league: mlb,        dir: baseball/mlb/2026 }
+          - { league: pwhl,       dir: hockey/pwhl/2025-26 }
+          - { league: epl,        dir: football/premier-league/2025-26 }
+          - { league: la-liga,    dir: football/la-liga/2025-26 }
+          - { league: bundesliga, dir: football/bundesliga/2025-26 }
+          - { league: serie-a,    dir: football/serie-a/2025-26 }
+          - { league: ligue-1,    dir: football/ligue-1/2025-26 }
+          - { league: f1,         dir: motorsport/formula-1/2026 }
+          - { league: tennis,     dir: tennis/grand-slams/2026 }
+          - { league: world-cup,  dir: football/world-cup/2026 }
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Update ${{ matrix.league }}
+        run: python3 scripts/update_${{ matrix.league }}.py
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ${{ matrix.league }}
+          path: ${{ matrix.dir }}
+          if-no-files-found: warn
+
+  commit:
+    needs: update
+    if: always()
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
+        with:
+          path: .
+          merge-multiple: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate
+        run: python3 validate.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && echo "No changes." && exit 0
+          git commit -m "chore: auto-update schedules [skip ci]"
+          git push

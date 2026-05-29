@@ -15,7 +15,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +27,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -39,7 +39,7 @@ DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -51,7 +51,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -63,7 +63,7 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -75,8 +75,8 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2025-10-22-detroit-red-wings-vs-buffalo-sabres@open-sports-cal
@@ -87,7 +87,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +99,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -111,7 +111,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -123,7 +123,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -135,7 +135,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -147,23 +147,23 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-05-utah-hockey-club-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2025-11-04-utah-mammoth-vs-buffalo-sabres@open-sports-cal
 DTSTART:20251105T000000Z
 DTEND:20251105T030000Z
-SUMMARY:Utah Hockey Club @ Buffalo Sabres
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Buffalo Sabres\nKeyBank Center
+SUMMARY:Utah Mammoth @ Buffalo Sabres
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-07-st-louis-blues-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2025-11-06-st-louis-blues-vs-buffalo-sabres@open-sports-cal
 DTSTART:20251107T000000Z
 DTEND:20251107T030000Z
 SUMMARY:St. Louis Blues @ Buffalo Sabres
@@ -171,11 +171,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-09-buffalo-sabres-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-11-08-buffalo-sabres-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251109T000000Z
 DTEND:20251109T030000Z
 SUMMARY:Buffalo Sabres @ Carolina Hurricanes
@@ -183,23 +183,23 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-13-buffalo-sabres-vs-utah-hockey-club@open-sports-cal
+UID:nhl-2025-26-2025-11-12-buffalo-sabres-vs-utah-mammoth@open-sports-cal
 DTSTART:20251113T020000Z
 DTEND:20251113T050000Z
-SUMMARY:Buffalo Sabres @ Utah Hockey Club
-DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Utah Hockey Club\nDelta Center
+SUMMARY:Buffalo Sabres @ Utah Mammoth
+DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Utah Mammoth\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-14-buffalo-sabres-vs-colorado-avalanche@open-sports-cal
+UID:nhl-2025-26-2025-11-13-buffalo-sabres-vs-colorado-avalanche@open-sports-cal
 DTSTART:20251114T020000Z
 DTEND:20251114T050000Z
 SUMMARY:Buffalo Sabres @ Colorado Avalanche
@@ -207,11 +207,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-16-buffalo-sabres-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2025-11-15-buffalo-sabres-vs-detroit-red-wings@open-sports-cal
 DTSTART:20251116T000000Z
 DTEND:20251116T030000Z
 SUMMARY:Buffalo Sabres @ Detroit Red Wings
@@ -219,11 +219,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Detroit Red Wings\nLittle Caesars Aren
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-18-edmonton-oilers-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2025-11-17-edmonton-oilers-vs-buffalo-sabres@open-sports-cal
 DTSTART:20251118T000000Z
 DTEND:20251118T030000Z
 SUMMARY:Edmonton Oilers @ Buffalo Sabres
@@ -231,11 +231,11 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-20-calgary-flames-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2025-11-19-calgary-flames-vs-buffalo-sabres@open-sports-cal
 DTSTART:20251120T003000Z
 DTEND:20251120T033000Z
 SUMMARY:Calgary Flames @ Buffalo Sabres
@@ -243,11 +243,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-22-chicago-blackhawks-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2025-11-21-chicago-blackhawks-vs-buffalo-sabres@open-sports-cal
 DTSTART:20251122T000000Z
 DTEND:20251122T030000Z
 SUMMARY:Chicago Blackhawks @ Buffalo Sabres
@@ -255,7 +255,7 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -267,11 +267,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-27-buffalo-sabres-vs-pittsburgh-penguins@open-sports-cal
+UID:nhl-2025-26-2025-11-26-buffalo-sabres-vs-pittsburgh-penguins@open-sports-cal
 DTSTART:20251127T000000Z
 DTEND:20251127T030000Z
 SUMMARY:Buffalo Sabres @ Pittsburgh Penguins
@@ -279,7 +279,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Pittsburgh Penguins\nPPG Paints Arena
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -291,11 +291,11 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-30-buffalo-sabres-vs-minnesota-wild@open-sports-cal
+UID:nhl-2025-26-2025-11-29-buffalo-sabres-vs-minnesota-wild@open-sports-cal
 DTSTART:20251130T010000Z
 DTEND:20251130T040000Z
 SUMMARY:Buffalo Sabres @ Minnesota Wild
@@ -303,11 +303,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Minnesota Wild\nGrand Casino Arena
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-02-winnipeg-jets-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2025-12-01-winnipeg-jets-vs-buffalo-sabres@open-sports-cal
 DTSTART:20251202T003000Z
 DTEND:20251202T033000Z
 SUMMARY:Winnipeg Jets @ Buffalo Sabres
@@ -315,11 +315,11 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-04-buffalo-sabres-vs-philadelphia-flyers@open-sports-cal
+UID:nhl-2025-26-2025-12-03-buffalo-sabres-vs-philadelphia-flyers@open-sports-cal
 DTSTART:20251204T003000Z
 DTEND:20251204T033000Z
 SUMMARY:Buffalo Sabres @ Philadelphia Flyers
@@ -327,11 +327,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Philadelphia Flyers\nXfinity Mobile Ar
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-06-buffalo-sabres-vs-winnipeg-jets@open-sports-cal
+UID:nhl-2025-26-2025-12-05-buffalo-sabres-vs-winnipeg-jets@open-sports-cal
 DTSTART:20251206T000000Z
 DTEND:20251206T030000Z
 SUMMARY:Buffalo Sabres @ Winnipeg Jets
@@ -339,11 +339,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Winnipeg Jets\nCanada Life Centre
 LOCATION:Canada Life Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Winnipeg
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-09-buffalo-sabres-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-12-08-buffalo-sabres-vs-calgary-flames@open-sports-cal
 DTSTART:20251209T020000Z
 DTEND:20251209T050000Z
 SUMMARY:Buffalo Sabres @ Calgary Flames
@@ -351,11 +351,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-10-buffalo-sabres-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2025-12-09-buffalo-sabres-vs-edmonton-oilers@open-sports-cal
 DTSTART:20251210T020000Z
 DTEND:20251210T050000Z
 SUMMARY:Buffalo Sabres @ Edmonton Oilers
@@ -363,11 +363,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-12-buffalo-sabres-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-12-11-buffalo-sabres-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251212T030000Z
 DTEND:20251212T060000Z
 SUMMARY:Buffalo Sabres @ Vancouver Canucks
@@ -375,11 +375,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-15-buffalo-sabres-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2025-12-14-buffalo-sabres-vs-seattle-kraken@open-sports-cal
 DTSTART:20251215T010000Z
 DTEND:20251215T040000Z
 SUMMARY:Buffalo Sabres @ Seattle Kraken
@@ -387,11 +387,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Seattle Kraken\nClimate Pledge Arena
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-19-philadelphia-flyers-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2025-12-18-philadelphia-flyers-vs-buffalo-sabres@open-sports-cal
 DTSTART:20251219T003000Z
 DTEND:20251219T033000Z
 SUMMARY:Philadelphia Flyers @ Buffalo Sabres
@@ -399,7 +399,7 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -411,11 +411,11 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-22-buffalo-sabres-vs-new-jersey-devils@open-sports-cal
+UID:nhl-2025-26-2025-12-21-buffalo-sabres-vs-new-jersey-devils@open-sports-cal
 DTSTART:20251222T000000Z
 DTEND:20251222T030000Z
 SUMMARY:Buffalo Sabres @ New Jersey Devils
@@ -423,11 +423,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ New Jersey Devils\nPrudential Center
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-24-buffalo-sabres-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2025-12-23-buffalo-sabres-vs-ottawa-senators@open-sports-cal
 DTSTART:20251224T000000Z
 DTEND:20251224T030000Z
 SUMMARY:Buffalo Sabres @ Ottawa Senators
@@ -435,11 +435,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-28-boston-bruins-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2025-12-27-boston-bruins-vs-buffalo-sabres@open-sports-cal
 DTSTART:20251228T000000Z
 DTEND:20251228T030000Z
 SUMMARY:Boston Bruins @ Buffalo Sabres
@@ -447,11 +447,11 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-30-buffalo-sabres-vs-st-louis-blues@open-sports-cal
+UID:nhl-2025-26-2025-12-29-buffalo-sabres-vs-st-louis-blues@open-sports-cal
 DTSTART:20251230T010000Z
 DTEND:20251230T040000Z
 SUMMARY:Buffalo Sabres @ St. Louis Blues
@@ -459,11 +459,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ St. Louis Blues\nEnterprise Center
 LOCATION:Enterprise Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-01-buffalo-sabres-vs-dallas-stars@open-sports-cal
+UID:nhl-2025-26-2025-12-31-buffalo-sabres-vs-dallas-stars@open-sports-cal
 DTSTART:20260101T010000Z
 DTEND:20260101T040000Z
 SUMMARY:Buffalo Sabres @ Dallas Stars
@@ -471,7 +471,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Dallas Stars\nAmerican Airlines Center
 LOCATION:American Airlines Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -483,11 +483,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Columbus Blue Jackets\nNationwide Aren
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-07-vancouver-canucks-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2026-01-06-vancouver-canucks-vs-buffalo-sabres@open-sports-cal
 DTSTART:20260107T000000Z
 DTEND:20260107T030000Z
 SUMMARY:Vancouver Canucks @ Buffalo Sabres
@@ -495,11 +495,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-09-buffalo-sabres-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2026-01-08-buffalo-sabres-vs-new-york-rangers@open-sports-cal
 DTSTART:20260109T000000Z
 DTEND:20260109T030000Z
 SUMMARY:Buffalo Sabres @ New York Rangers
@@ -507,11 +507,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ New York Rangers\nMadison Square Garde
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-11-anaheim-ducks-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2026-01-10-anaheim-ducks-vs-buffalo-sabres@open-sports-cal
 DTSTART:20260111T000000Z
 DTEND:20260111T030000Z
 SUMMARY:Anaheim Ducks @ Buffalo Sabres
@@ -519,11 +519,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-13-florida-panthers-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2026-01-12-florida-panthers-vs-buffalo-sabres@open-sports-cal
 DTSTART:20260113T000000Z
 DTEND:20260113T030000Z
 SUMMARY:Florida Panthers @ Buffalo Sabres
@@ -531,11 +531,11 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-15-philadelphia-flyers-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2026-01-14-philadelphia-flyers-vs-buffalo-sabres@open-sports-cal
 DTSTART:20260115T003000Z
 DTEND:20260115T033000Z
 SUMMARY:Philadelphia Flyers @ Buffalo Sabres
@@ -543,11 +543,11 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-16-montreal-canadiens-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2026-01-15-montreal-canadiens-vs-buffalo-sabres@open-sports-cal
 DTSTART:20260116T000000Z
 DTEND:20260116T030000Z
 SUMMARY:Montréal Canadiens @ Buffalo Sabres
@@ -555,7 +555,7 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -567,7 +567,7 @@ DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -579,11 +579,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-21-buffalo-sabres-vs-nashville-predators@open-sports-cal
+UID:nhl-2025-26-2026-01-20-buffalo-sabres-vs-nashville-predators@open-sports-cal
 DTSTART:20260121T010000Z
 DTEND:20260121T040000Z
 SUMMARY:Buffalo Sabres @ Nashville Predators
@@ -591,11 +591,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Nashville Predators\nBridgestone Arena
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-23-buffalo-sabres-vs-montreal-canadiens@open-sports-cal
+UID:nhl-2025-26-2026-01-22-buffalo-sabres-vs-montreal-canadiens@open-sports-cal
 DTSTART:20260123T000000Z
 DTEND:20260123T030000Z
 SUMMARY:Buffalo Sabres @ Montréal Canadiens
@@ -603,8 +603,8 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2026-01-24-buffalo-sabres-vs-new-york-islanders@open-sports-cal
@@ -615,11 +615,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-28-buffalo-sabres-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2026-01-27-buffalo-sabres-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20260128T000000Z
 DTEND:20260128T030000Z
 SUMMARY:Buffalo Sabres @ Toronto Maple Leafs
@@ -627,11 +627,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-30-los-angeles-kings-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2026-01-29-los-angeles-kings-vs-buffalo-sabres@open-sports-cal
 DTSTART:20260130T000000Z
 DTEND:20260130T030000Z
 SUMMARY:Los Angeles Kings @ Buffalo Sabres
@@ -639,11 +639,11 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-01-montreal-canadiens-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2026-01-31-montreal-canadiens-vs-buffalo-sabres@open-sports-cal
 DTSTART:20260201T000000Z
 DTEND:20260201T030000Z
 SUMMARY:Montréal Canadiens @ Buffalo Sabres
@@ -651,11 +651,11 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-03-buffalo-sabres-vs-florida-panthers@open-sports-cal
+UID:nhl-2025-26-2026-02-02-buffalo-sabres-vs-florida-panthers@open-sports-cal
 DTSTART:20260203T000000Z
 DTEND:20260203T030000Z
 SUMMARY:Buffalo Sabres @ Florida Panthers
@@ -663,11 +663,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Florida Panthers\nAmerant Bank Arena
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-04-buffalo-sabres-vs-tampa-bay-lightning@open-sports-cal
+UID:nhl-2025-26-2026-02-03-buffalo-sabres-vs-tampa-bay-lightning@open-sports-cal
 DTSTART:20260204T003000Z
 DTEND:20260204T033000Z
 SUMMARY:Buffalo Sabres @ Tampa Bay Lightning
@@ -675,11 +675,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Tampa Bay Lightning\nBenchmark Interna
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-06-pittsburgh-penguins-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2026-02-05-pittsburgh-penguins-vs-buffalo-sabres@open-sports-cal
 DTSTART:20260206T000000Z
 DTEND:20260206T030000Z
 SUMMARY:Pittsburgh Penguins @ Buffalo Sabres
@@ -687,11 +687,11 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-26-buffalo-sabres-vs-new-jersey-devils@open-sports-cal
+UID:nhl-2025-26-2026-02-25-buffalo-sabres-vs-new-jersey-devils@open-sports-cal
 DTSTART:20260226T000000Z
 DTEND:20260226T030000Z
 SUMMARY:Buffalo Sabres @ New Jersey Devils
@@ -699,11 +699,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ New Jersey Devils\nPrudential Center
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-28-buffalo-sabres-vs-florida-panthers@open-sports-cal
+UID:nhl-2025-26-2026-02-27-buffalo-sabres-vs-florida-panthers@open-sports-cal
 DTSTART:20260228T000000Z
 DTEND:20260228T030000Z
 SUMMARY:Buffalo Sabres @ Florida Panthers
@@ -711,11 +711,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Florida Panthers\nAmerant Bank Arena
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-01-buffalo-sabres-vs-tampa-bay-lightning@open-sports-cal
+UID:nhl-2025-26-2026-02-28-buffalo-sabres-vs-tampa-bay-lightning@open-sports-cal
 DTSTART:20260301T000000Z
 DTEND:20260301T030000Z
 SUMMARY:Buffalo Sabres @ Tampa Bay Lightning
@@ -723,11 +723,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Tampa Bay Lightning\nBenchmark Interna
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-04-vegas-golden-knights-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2026-03-03-vegas-golden-knights-vs-buffalo-sabres@open-sports-cal
 DTSTART:20260304T000000Z
 DTEND:20260304T030000Z
 SUMMARY:Vegas Golden Knights @ Buffalo Sabres
@@ -735,11 +735,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-06-buffalo-sabres-vs-pittsburgh-penguins@open-sports-cal
+UID:nhl-2025-26-2026-03-05-buffalo-sabres-vs-pittsburgh-penguins@open-sports-cal
 DTSTART:20260306T000000Z
 DTEND:20260306T030000Z
 SUMMARY:Buffalo Sabres @ Pittsburgh Penguins
@@ -747,7 +747,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Pittsburgh Penguins\nPPG Paints Arena
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -759,7 +759,7 @@ DESCRIPTION:NHL 2025-26\nNashville Predators @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -771,7 +771,7 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -783,7 +783,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -795,7 +795,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -807,11 +807,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-18-buffalo-sabres-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-03-17-buffalo-sabres-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260318T020000Z
 DTEND:20260318T050000Z
 SUMMARY:Buffalo Sabres @ Vegas Golden Knights
@@ -819,11 +819,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-20-buffalo-sabres-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-03-19-buffalo-sabres-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260320T020000Z
 DTEND:20260320T050000Z
 SUMMARY:Buffalo Sabres @ San Jose Sharks
@@ -831,7 +831,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ San Jose Sharks\nSAP Center at San Jos
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -843,11 +843,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Los Angeles Kings\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-23-buffalo-sabres-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-03-22-buffalo-sabres-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260323T000000Z
 DTEND:20260323T030000Z
 SUMMARY:Buffalo Sabres @ Anaheim Ducks
@@ -855,7 +855,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -867,7 +867,7 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -879,7 +879,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -891,7 +891,7 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -903,7 +903,7 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -915,7 +915,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -927,7 +927,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Washington Capitals\nCapital One Arena
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -939,7 +939,7 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -951,7 +951,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ New York Rangers\nMadison Square Garde
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -963,11 +963,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-14-buffalo-sabres-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-04-13-buffalo-sabres-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260414T003000Z
 DTEND:20260414T033000Z
 SUMMARY:Buffalo Sabres @ Chicago Blackhawks
@@ -975,7 +975,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -987,7 +987,7 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -995,11 +995,11 @@ UID:nhl-2025-26-playoffs-2026-04-19-boston-bruins-vs-buffalo-sabres-g1@open-spor
 DTSTART:20260419T233000Z
 DTEND:20260420T023000Z
 SUMMARY:Boston Bruins @ Buffalo Sabres (Game 1)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBoston Bruins @ Buffalo Sabres\nKeyBank Center
+DESCRIPTION:NHL Playoffs 2025-26\nBoston Bruins @ Buffalo Sabres — Game 1\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1007,11 +1007,11 @@ UID:nhl-2025-26-playoffs-2026-04-21-boston-bruins-vs-buffalo-sabres-g2@open-spor
 DTSTART:20260421T233000Z
 DTEND:20260422T023000Z
 SUMMARY:Boston Bruins @ Buffalo Sabres (Game 2)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBoston Bruins @ Buffalo Sabres\nKeyBank Center
+DESCRIPTION:NHL Playoffs 2025-26\nBoston Bruins @ Buffalo Sabres — Game 2\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1019,11 +1019,11 @@ UID:nhl-2025-26-playoffs-2026-04-23-buffalo-sabres-vs-boston-bruins-g3@open-spor
 DTSTART:20260423T230000Z
 DTEND:20260424T020000Z
 SUMMARY:Buffalo Sabres @ Boston Bruins (Game 3)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBuffalo Sabres @ Boston Bruins\nTD Garden
+DESCRIPTION:NHL Playoffs 2025-26\nBuffalo Sabres @ Boston Bruins — Game 3\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1031,11 +1031,11 @@ UID:nhl-2025-26-playoffs-2026-04-26-buffalo-sabres-vs-boston-bruins-g4@open-spor
 DTSTART:20260426T180000Z
 DTEND:20260426T210000Z
 SUMMARY:Buffalo Sabres @ Boston Bruins (Game 4)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBuffalo Sabres @ Boston Bruins\nTD Garden
+DESCRIPTION:NHL Playoffs 2025-26\nBuffalo Sabres @ Boston Bruins — Game 4\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1043,35 +1043,107 @@ UID:nhl-2025-26-playoffs-2026-04-28-boston-bruins-vs-buffalo-sabres-g5@open-spor
 DTSTART:20260428T233000Z
 DTEND:20260429T023000Z
 SUMMARY:Boston Bruins @ Buffalo Sabres (Game 5)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBoston Bruins @ Buffalo Sabres\nKeyBank Center
+DESCRIPTION:NHL Playoffs 2025-26\nBoston Bruins @ Buffalo Sabres — Game 5\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-playoffs-2026-05-01-buffalo-sabres-vs-boston-bruins-g6@open-sports-cal
-DTSTART:20260501T160000Z
-DTEND:20260501T190000Z
+DTSTART:20260501T233000Z
+DTEND:20260502T023000Z
 SUMMARY:Buffalo Sabres @ Boston Bruins (Game 6)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBuffalo Sabres @ Boston Bruins\nTD Garden
+DESCRIPTION:NHL Playoffs 2025-26\nBuffalo Sabres @ Boston Bruins — Game 6\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-playoffs-2026-05-03-boston-bruins-vs-buffalo-sabres-g7@open-sports-cal
-DTSTART:20260503T160000Z
-DTEND:20260503T190000Z
-SUMMARY:Boston Bruins @ Buffalo Sabres (Game 7)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nBoston Bruins @ Buffalo Sabres\nKeyBank Center
+UID:nhl-2025-26-playoffs-2026-05-06-montreal-canadiens-vs-buffalo-sabres-g1@open-sports-cal
+DTSTART:20260506T230000Z
+DTEND:20260507T020000Z
+SUMMARY:Montréal Canadiens @ Buffalo Sabres (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26\nMontréal Canadiens @ Buffalo Sabres — Game 1\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-08-montreal-canadiens-vs-buffalo-sabres-g2@open-sports-cal
+DTSTART:20260508T230000Z
+DTEND:20260509T020000Z
+SUMMARY:Montréal Canadiens @ Buffalo Sabres (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26\nMontréal Canadiens @ Buffalo Sabres — Game 2\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-10-buffalo-sabres-vs-montreal-canadiens-g3@open-sports-cal
+DTSTART:20260510T230000Z
+DTEND:20260511T020000Z
+SUMMARY:Buffalo Sabres @ Montréal Canadiens (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26\nBuffalo Sabres @ Montréal Canadiens — Game 3\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-12-buffalo-sabres-vs-montreal-canadiens-g4@open-sports-cal
+DTSTART:20260512T230000Z
+DTEND:20260513T020000Z
+SUMMARY:Buffalo Sabres @ Montréal Canadiens (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26\nBuffalo Sabres @ Montréal Canadiens — Game 4\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-14-montreal-canadiens-vs-buffalo-sabres-g5@open-sports-cal
+DTSTART:20260514T230000Z
+DTEND:20260515T020000Z
+SUMMARY:Montréal Canadiens @ Buffalo Sabres (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26\nMontréal Canadiens @ Buffalo Sabres — Game 5\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-16-buffalo-sabres-vs-montreal-canadiens-g6@open-sports-cal
+DTSTART:20260517T000000Z
+DTEND:20260517T030000Z
+SUMMARY:Buffalo Sabres @ Montréal Canadiens (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26\nBuffalo Sabres @ Montréal Canadiens — Game 6\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-18-montreal-canadiens-vs-buffalo-sabres-g7@open-sports-cal
+DTSTART:20260518T233000Z
+DTEND:20260519T023000Z
+SUMMARY:Montréal Canadiens @ Buffalo Sabres (Game 7)
+DESCRIPTION:NHL Playoffs 2025-26\nMontréal Canadiens @ Buffalo Sabres — Game 7\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

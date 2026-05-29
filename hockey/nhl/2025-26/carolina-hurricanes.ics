@@ -15,7 +15,7 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -27,11 +27,11 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Carolina Hurricanes\nLenovo Cente
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-15-carolina-hurricanes-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-10-14-carolina-hurricanes-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251015T020000Z
 DTEND:20251015T050000Z
 SUMMARY:Carolina Hurricanes @ San Jose Sharks
@@ -39,11 +39,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ San Jose Sharks\nSAP Center at Sa
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-17-carolina-hurricanes-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-10-16-carolina-hurricanes-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251017T020000Z
 DTEND:20251017T050000Z
 SUMMARY:Carolina Hurricanes @ Anaheim Ducks
@@ -51,11 +51,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-19-carolina-hurricanes-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2025-10-18-carolina-hurricanes-vs-los-angeles-kings@open-sports-cal
 DTSTART:20251019T010000Z
 DTEND:20251019T040000Z
 SUMMARY:Carolina Hurricanes @ Los Angeles Kings
@@ -63,11 +63,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Los Angeles Kings\nCrypto.com Are
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-21-carolina-hurricanes-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-10-20-carolina-hurricanes-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251021T020000Z
 DTEND:20251021T050000Z
 SUMMARY:Carolina Hurricanes @ Vegas Golden Knights
@@ -75,11 +75,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Vegas Golden Knights\nT-Mobile Ar
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-24-carolina-hurricanes-vs-colorado-avalanche@open-sports-cal
+UID:nhl-2025-26-2025-10-23-carolina-hurricanes-vs-colorado-avalanche@open-sports-cal
 DTSTART:20251024T010000Z
 DTEND:20251024T040000Z
 SUMMARY:Carolina Hurricanes @ Colorado Avalanche
@@ -87,11 +87,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-26-carolina-hurricanes-vs-dallas-stars@open-sports-cal
+UID:nhl-2025-26-2025-10-25-carolina-hurricanes-vs-dallas-stars@open-sports-cal
 DTSTART:20251026T000000Z
 DTEND:20251026T030000Z
 SUMMARY:Carolina Hurricanes @ Dallas Stars
@@ -99,7 +99,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Dallas Stars\nAmerican Airlines C
 LOCATION:American Airlines Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -111,7 +111,7 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Carolina Hurricanes\nLenovo Cent
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -123,7 +123,7 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -135,11 +135,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-05-carolina-hurricanes-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2025-11-04-carolina-hurricanes-vs-new-york-rangers@open-sports-cal
 DTSTART:20251105T000000Z
 DTEND:20251105T030000Z
 SUMMARY:Carolina Hurricanes @ New York Rangers
@@ -147,11 +147,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-07-minnesota-wild-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-11-06-minnesota-wild-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251107T000000Z
 DTEND:20251107T030000Z
 SUMMARY:Minnesota Wild @ Carolina Hurricanes
@@ -159,11 +159,11 @@ DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-09-buffalo-sabres-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-11-08-buffalo-sabres-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251109T000000Z
 DTEND:20251109T030000Z
 SUMMARY:Buffalo Sabres @ Carolina Hurricanes
@@ -171,11 +171,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-10-carolina-hurricanes-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-11-09-carolina-hurricanes-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251110T000000Z
 DTEND:20251110T030000Z
 SUMMARY:Carolina Hurricanes @ Toronto Maple Leafs
@@ -183,11 +183,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Toronto Maple Leafs\nScotiabank A
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-12-washington-capitals-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-11-11-washington-capitals-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251112T000000Z
 DTEND:20251112T030000Z
 SUMMARY:Washington Capitals @ Carolina Hurricanes
@@ -195,11 +195,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Carolina Hurricanes\nLenovo Cente
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-15-vancouver-canucks-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-11-14-vancouver-canucks-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251115T000000Z
 DTEND:20251115T030000Z
 SUMMARY:Vancouver Canucks @ Carolina Hurricanes
@@ -207,11 +207,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-16-edmonton-oilers-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-11-15-edmonton-oilers-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251116T000000Z
 DTEND:20251116T030000Z
 SUMMARY:Edmonton Oilers @ Carolina Hurricanes
@@ -219,11 +219,11 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-18-carolina-hurricanes-vs-boston-bruins@open-sports-cal
+UID:nhl-2025-26-2025-11-17-carolina-hurricanes-vs-boston-bruins@open-sports-cal
 DTSTART:20251118T000000Z
 DTEND:20251118T030000Z
 SUMMARY:Carolina Hurricanes @ Boston Bruins
@@ -231,11 +231,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-20-carolina-hurricanes-vs-minnesota-wild@open-sports-cal
+UID:nhl-2025-26-2025-11-19-carolina-hurricanes-vs-minnesota-wild@open-sports-cal
 DTSTART:20251120T023000Z
 DTEND:20251120T053000Z
 SUMMARY:Carolina Hurricanes @ Minnesota Wild
@@ -243,11 +243,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Minnesota Wild\nGrand Casino Aren
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-22-carolina-hurricanes-vs-winnipeg-jets@open-sports-cal
+UID:nhl-2025-26-2025-11-21-carolina-hurricanes-vs-winnipeg-jets@open-sports-cal
 DTSTART:20251122T010000Z
 DTEND:20251122T040000Z
 SUMMARY:Carolina Hurricanes @ Winnipeg Jets
@@ -255,7 +255,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Winnipeg Jets\nCanada Life Centre
 LOCATION:Canada Life Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Winnipeg
 END:VEVENT
 BEGIN:VEVENT
@@ -267,11 +267,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-27-new-york-rangers-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-11-26-new-york-rangers-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251127T000000Z
 DTEND:20251127T030000Z
 SUMMARY:New York Rangers @ Carolina Hurricanes
@@ -279,7 +279,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -291,7 +291,7 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -303,11 +303,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-05-toronto-maple-leafs-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-12-04-toronto-maple-leafs-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251205T000000Z
 DTEND:20251205T030000Z
 SUMMARY:Toronto Maple Leafs @ Carolina Hurricanes
@@ -315,11 +315,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Carolina Hurricanes\nLenovo Cente
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-07-nashville-predators-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-12-06-nashville-predators-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251207T000000Z
 DTEND:20251207T030000Z
 SUMMARY:Nashville Predators @ Carolina Hurricanes
@@ -327,7 +327,7 @@ DESCRIPTION:NHL 2025-26\nNashville Predators @ Carolina Hurricanes\nLenovo Cente
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -339,11 +339,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-10-columbus-blue-jackets-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-12-09-columbus-blue-jackets-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251210T003000Z
 DTEND:20251210T033000Z
 SUMMARY:Columbus Blue Jackets @ Carolina Hurricanes
@@ -351,11 +351,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Carolina Hurricanes\nLenovo Cen
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-12-carolina-hurricanes-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2025-12-11-carolina-hurricanes-vs-washington-capitals@open-sports-cal
 DTSTART:20251212T000000Z
 DTEND:20251212T030000Z
 SUMMARY:Carolina Hurricanes @ Washington Capitals
@@ -363,11 +363,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Washington Capitals\nCapital One 
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-14-carolina-hurricanes-vs-philadelphia-flyers@open-sports-cal
+UID:nhl-2025-26-2025-12-13-carolina-hurricanes-vs-philadelphia-flyers@open-sports-cal
 DTSTART:20251214T000000Z
 DTEND:20251214T030000Z
 SUMMARY:Carolina Hurricanes @ Philadelphia Flyers
@@ -375,7 +375,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Philadelphia Flyers\nXfinity Mobi
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -387,11 +387,11 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Carolina Hurricanes\nLenovo Cente
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-18-carolina-hurricanes-vs-nashville-predators@open-sports-cal
+UID:nhl-2025-26-2025-12-17-carolina-hurricanes-vs-nashville-predators@open-sports-cal
 DTSTART:20251218T010000Z
 DTEND:20251218T040000Z
 SUMMARY:Carolina Hurricanes @ Nashville Predators
@@ -399,11 +399,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Nashville Predators\nBridgestone 
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-20-carolina-hurricanes-vs-florida-panthers@open-sports-cal
+UID:nhl-2025-26-2025-12-19-carolina-hurricanes-vs-florida-panthers@open-sports-cal
 DTSTART:20251220T000000Z
 DTEND:20251220T030000Z
 SUMMARY:Carolina Hurricanes @ Florida Panthers
@@ -411,11 +411,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Florida Panthers\nAmerant Bank Ar
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-21-carolina-hurricanes-vs-tampa-bay-lightning@open-sports-cal
+UID:nhl-2025-26-2025-12-20-carolina-hurricanes-vs-tampa-bay-lightning@open-sports-cal
 DTSTART:20251221T000000Z
 DTEND:20251221T030000Z
 SUMMARY:Carolina Hurricanes @ Tampa Bay Lightning
@@ -423,11 +423,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Tampa Bay Lightning\nBenchmark In
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-24-florida-panthers-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-12-23-florida-panthers-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251224T000000Z
 DTEND:20251224T030000Z
 SUMMARY:Florida Panthers @ Carolina Hurricanes
@@ -435,11 +435,11 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-28-detroit-red-wings-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-12-27-detroit-red-wings-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251228T000000Z
 DTEND:20251228T030000Z
 SUMMARY:Detroit Red Wings @ Carolina Hurricanes
@@ -447,11 +447,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-30-new-york-rangers-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-12-29-new-york-rangers-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251230T000000Z
 DTEND:20251230T030000Z
 SUMMARY:New York Rangers @ Carolina Hurricanes
@@ -459,11 +459,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-31-carolina-hurricanes-vs-pittsburgh-penguins@open-sports-cal
+UID:nhl-2025-26-2025-12-30-carolina-hurricanes-vs-pittsburgh-penguins@open-sports-cal
 DTSTART:20251231T000000Z
 DTEND:20251231T030000Z
 SUMMARY:Carolina Hurricanes @ Pittsburgh Penguins
@@ -471,11 +471,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Pittsburgh Penguins\nPPG Paints A
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-02-montreal-canadiens-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2026-01-01-montreal-canadiens-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20260102T000000Z
 DTEND:20260102T030000Z
 SUMMARY:Montréal Canadiens @ Carolina Hurricanes
@@ -483,11 +483,11 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Carolina Hurricanes\nLenovo Cente
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-04-colorado-avalanche-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2026-01-03-colorado-avalanche-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20260104T000000Z
 DTEND:20260104T030000Z
 SUMMARY:Colorado Avalanche @ Carolina Hurricanes
@@ -495,11 +495,11 @@ DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-05-carolina-hurricanes-vs-new-jersey-devils@open-sports-cal
+UID:nhl-2025-26-2026-01-04-carolina-hurricanes-vs-new-jersey-devils@open-sports-cal
 DTSTART:20260105T000000Z
 DTEND:20260105T030000Z
 SUMMARY:Carolina Hurricanes @ New Jersey Devils
@@ -507,11 +507,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ New Jersey Devils\nPrudential Cen
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-07-dallas-stars-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2026-01-06-dallas-stars-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20260107T000000Z
 DTEND:20260107T030000Z
 SUMMARY:Dallas Stars @ Carolina Hurricanes
@@ -519,11 +519,11 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-09-anaheim-ducks-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2026-01-08-anaheim-ducks-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20260109T000000Z
 DTEND:20260109T030000Z
 SUMMARY:Anaheim Ducks @ Carolina Hurricanes
@@ -531,11 +531,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-11-seattle-kraken-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2026-01-10-seattle-kraken-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20260111T000000Z
 DTEND:20260111T030000Z
 SUMMARY:Seattle Kraken @ Carolina Hurricanes
@@ -543,11 +543,11 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-13-carolina-hurricanes-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2026-01-12-carolina-hurricanes-vs-detroit-red-wings@open-sports-cal
 DTSTART:20260113T000000Z
 DTEND:20260113T030000Z
 SUMMARY:Carolina Hurricanes @ Detroit Red Wings
@@ -555,11 +555,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-14-carolina-hurricanes-vs-st-louis-blues@open-sports-cal
+UID:nhl-2025-26-2026-01-13-carolina-hurricanes-vs-st-louis-blues@open-sports-cal
 DTSTART:20260114T003000Z
 DTEND:20260114T033000Z
 SUMMARY:Carolina Hurricanes @ St. Louis Blues
@@ -567,11 +567,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ St. Louis Blues\nEnterprise Cente
 LOCATION:Enterprise Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-17-florida-panthers-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2026-01-16-florida-panthers-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20260117T000000Z
 DTEND:20260117T030000Z
 SUMMARY:Florida Panthers @ Carolina Hurricanes
@@ -579,11 +579,11 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-18-carolina-hurricanes-vs-new-jersey-devils@open-sports-cal
+UID:nhl-2025-26-2026-01-17-carolina-hurricanes-vs-new-jersey-devils@open-sports-cal
 DTSTART:20260118T000000Z
 DTEND:20260118T030000Z
 SUMMARY:Carolina Hurricanes @ New Jersey Devils
@@ -591,7 +591,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ New Jersey Devils\nPrudential Cen
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -603,11 +603,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-23-chicago-blackhawks-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2026-01-22-chicago-blackhawks-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20260123T000000Z
 DTEND:20260123T030000Z
 SUMMARY:Chicago Blackhawks @ Carolina Hurricanes
@@ -615,11 +615,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-25-carolina-hurricanes-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2026-01-24-carolina-hurricanes-vs-ottawa-senators@open-sports-cal
 DTSTART:20260125T000000Z
 DTEND:20260125T030000Z
 SUMMARY:Carolina Hurricanes @ Ottawa Senators
@@ -627,19 +627,19 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-30-utah-hockey-club-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2026-01-29-utah-mammoth-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20260130T000000Z
 DTEND:20260130T030000Z
-SUMMARY:Utah Hockey Club @ Carolina Hurricanes
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Carolina Hurricanes\nLenovo Center
+SUMMARY:Utah Mammoth @ Carolina Hurricanes
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -651,7 +651,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Washington Capitals\nCapital One 
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -663,11 +663,11 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-04-ottawa-senators-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2026-02-03-ottawa-senators-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20260204T000000Z
 DTEND:20260204T030000Z
 SUMMARY:Ottawa Senators @ Carolina Hurricanes
@@ -675,11 +675,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-06-carolina-hurricanes-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2026-02-05-carolina-hurricanes-vs-new-york-rangers@open-sports-cal
 DTSTART:20260206T000000Z
 DTEND:20260206T030000Z
 SUMMARY:Carolina Hurricanes @ New York Rangers
@@ -687,11 +687,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-27-tampa-bay-lightning-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2026-02-26-tampa-bay-lightning-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20260227T000000Z
 DTEND:20260227T030000Z
 SUMMARY:Tampa Bay Lightning @ Carolina Hurricanes
@@ -699,11 +699,11 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Carolina Hurricanes\nLenovo Cente
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-01-detroit-red-wings-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2026-02-28-detroit-red-wings-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20260301T000000Z
 DTEND:20260301T030000Z
 SUMMARY:Detroit Red Wings @ Carolina Hurricanes
@@ -711,11 +711,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-03-carolina-hurricanes-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2026-03-02-carolina-hurricanes-vs-seattle-kraken@open-sports-cal
 DTSTART:20260303T030000Z
 DTEND:20260303T060000Z
 SUMMARY:Carolina Hurricanes @ Seattle Kraken
@@ -723,11 +723,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Seattle Kraken\nClimate Pledge Ar
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-05-carolina-hurricanes-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-03-04-carolina-hurricanes-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260305T030000Z
 DTEND:20260305T060000Z
 SUMMARY:Carolina Hurricanes @ Vancouver Canucks
@@ -735,11 +735,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-07-carolina-hurricanes-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2026-03-06-carolina-hurricanes-vs-edmonton-oilers@open-sports-cal
 DTSTART:20260307T020000Z
 DTEND:20260307T050000Z
 SUMMARY:Carolina Hurricanes @ Edmonton Oilers
@@ -747,11 +747,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-08-carolina-hurricanes-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-03-07-carolina-hurricanes-vs-calgary-flames@open-sports-cal
 DTSTART:20260308T030000Z
 DTEND:20260308T060000Z
 SUMMARY:Carolina Hurricanes @ Calgary Flames
@@ -759,8 +759,8 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Calgary Flames\nScotiabank Saddle
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2026-03-10-pittsburgh-penguins-vs-carolina-hurricanes@open-sports-cal
@@ -771,7 +771,7 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Carolina Hurricanes\nLenovo Cente
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -783,7 +783,7 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -795,7 +795,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Tampa Bay Lightning\nBenchmark In
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -807,7 +807,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -819,7 +819,7 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Carolina Hurricanes\nLenovo Cente
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -831,7 +831,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Toronto Maple Leafs\nScotiabank A
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -843,7 +843,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Pittsburgh Penguins\nPPG Paints A
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -855,8 +855,8 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2026-03-28-new-jersey-devils-vs-carolina-hurricanes@open-sports-cal
@@ -867,7 +867,7 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -879,7 +879,7 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Carolina Hurricanes\nLenovo Cente
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -891,7 +891,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -903,7 +903,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Carolina Hurricanes\nLenovo Cen
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -915,7 +915,7 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -927,7 +927,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -939,11 +939,11 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-10-carolina-hurricanes-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-04-09-carolina-hurricanes-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260410T003000Z
 DTEND:20260410T033000Z
 SUMMARY:Carolina Hurricanes @ Chicago Blackhawks
@@ -951,20 +951,20 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-11-carolina-hurricanes-vs-utah-hockey-club@open-sports-cal
+UID:nhl-2025-26-2026-04-11-carolina-hurricanes-vs-utah-mammoth@open-sports-cal
 DTSTART:20260411T210000Z
 DTEND:20260412T000000Z
-SUMMARY:Carolina Hurricanes @ Utah Hockey Club
-DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Utah Hockey Club\nDelta Center
+SUMMARY:Carolina Hurricanes @ Utah Mammoth
+DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Utah Mammoth\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2026-04-13-carolina-hurricanes-vs-philadelphia-flyers@open-sports-cal
@@ -975,7 +975,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Philadelphia Flyers\nXfinity Mobi
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -987,7 +987,19 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-04-18-ottawa-senators-vs-carolina-hurricanes-g1@open-sports-cal
+DTSTART:20260418T190000Z
+DTEND:20260418T220000Z
+SUMMARY:Ottawa Senators @ Carolina Hurricanes (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26\nOttawa Senators @ Carolina Hurricanes — Game 1\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -995,11 +1007,11 @@ UID:nhl-2025-26-playoffs-2026-04-20-ottawa-senators-vs-carolina-hurricanes-g2@op
 DTSTART:20260420T233000Z
 DTEND:20260421T023000Z
 SUMMARY:Ottawa Senators @ Carolina Hurricanes (Game 2)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nOttawa Senators @ Carolina Hurricanes\nLenovo Center
+DESCRIPTION:NHL Playoffs 2025-26\nOttawa Senators @ Carolina Hurricanes — Game 2\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1007,11 +1019,11 @@ UID:nhl-2025-26-playoffs-2026-04-23-carolina-hurricanes-vs-ottawa-senators-g3@op
 DTSTART:20260423T233000Z
 DTEND:20260424T023000Z
 SUMMARY:Carolina Hurricanes @ Ottawa Senators (Game 3)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nCarolina Hurricanes @ Ottawa Senators\nCanadian Tire Centre
+DESCRIPTION:NHL Playoffs 2025-26\nCarolina Hurricanes @ Ottawa Senators — Game 3\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -1019,11 +1031,143 @@ UID:nhl-2025-26-playoffs-2026-04-25-carolina-hurricanes-vs-ottawa-senators-g4@op
 DTSTART:20260425T190000Z
 DTEND:20260425T220000Z
 SUMMARY:Carolina Hurricanes @ Ottawa Senators (Game 4)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nCarolina Hurricanes @ Ottawa Senators\nCanadian Tire Centre
+DESCRIPTION:NHL Playoffs 2025-26\nCarolina Hurricanes @ Ottawa Senators — Game 4\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-02-philadelphia-flyers-vs-carolina-hurricanes-g1@open-sports-cal
+DTSTART:20260503T000000Z
+DTEND:20260503T030000Z
+SUMMARY:Philadelphia Flyers @ Carolina Hurricanes (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26\nPhiladelphia Flyers @ Carolina Hurricanes — Game 1\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-04-philadelphia-flyers-vs-carolina-hurricanes-g2@open-sports-cal
+DTSTART:20260504T230000Z
+DTEND:20260505T020000Z
+SUMMARY:Philadelphia Flyers @ Carolina Hurricanes (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26\nPhiladelphia Flyers @ Carolina Hurricanes — Game 2\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-07-carolina-hurricanes-vs-philadelphia-flyers-g3@open-sports-cal
+DTSTART:20260508T000000Z
+DTEND:20260508T030000Z
+SUMMARY:Carolina Hurricanes @ Philadelphia Flyers (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26\nCarolina Hurricanes @ Philadelphia Flyers — Game 3\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-09-carolina-hurricanes-vs-philadelphia-flyers-g4@open-sports-cal
+DTSTART:20260509T220000Z
+DTEND:20260510T010000Z
+SUMMARY:Carolina Hurricanes @ Philadelphia Flyers (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26\nCarolina Hurricanes @ Philadelphia Flyers — Game 4\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-21-montreal-canadiens-vs-carolina-hurricanes-g1@open-sports-cal
+DTSTART:20260522T000000Z
+DTEND:20260522T030000Z
+SUMMARY:Montréal Canadiens @ Carolina Hurricanes (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26\nMontréal Canadiens @ Carolina Hurricanes — Game 1\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-23-montreal-canadiens-vs-carolina-hurricanes-g2@open-sports-cal
+DTSTART:20260523T230000Z
+DTEND:20260524T020000Z
+SUMMARY:Montréal Canadiens @ Carolina Hurricanes (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26\nMontréal Canadiens @ Carolina Hurricanes — Game 2\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-25-carolina-hurricanes-vs-montreal-canadiens-g3@open-sports-cal
+DTSTART:20260526T000000Z
+DTEND:20260526T030000Z
+SUMMARY:Carolina Hurricanes @ Montréal Canadiens (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26\nCarolina Hurricanes @ Montréal Canadiens — Game 3\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-27-carolina-hurricanes-vs-montreal-canadiens-g4@open-sports-cal
+DTSTART:20260528T000000Z
+DTEND:20260528T030000Z
+SUMMARY:Carolina Hurricanes @ Montréal Canadiens (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26\nCarolina Hurricanes @ Montréal Canadiens — Game 4\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-29-montreal-canadiens-vs-carolina-hurricanes-g5@open-sports-cal
+DTSTART:20260530T000000Z
+DTEND:20260530T030000Z
+SUMMARY:Montréal Canadiens @ Carolina Hurricanes (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26\nMontréal Canadiens @ Carolina Hurricanes — Game 5\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-31-carolina-hurricanes-vs-montreal-canadiens-g6@open-sports-cal
+DTSTART:20260531T160000Z
+DTEND:20260531T190000Z
+SUMMARY:Carolina Hurricanes @ Montréal Canadiens (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26\nCarolina Hurricanes @ Montréal Canadiens — Game 6\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-06-02-montreal-canadiens-vs-carolina-hurricanes-g7@open-sports-cal
+DTSTART:20260603T000000Z
+DTEND:20260603T030000Z
+SUMMARY:Montréal Canadiens @ Carolina Hurricanes (Game 7)
+DESCRIPTION:NHL Playoffs 2025-26\nMontréal Canadiens @ Carolina Hurricanes — Game 7\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

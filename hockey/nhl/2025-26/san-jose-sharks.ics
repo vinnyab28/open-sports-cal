@@ -7,7 +7,7 @@ X-WR-CALNAME:NHL 2025-26 - San Jose Sharks
 X-WR-TIMEZONE:UTC
 X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-10-vegas-golden-knights-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-10-09-vegas-golden-knights-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251010T020000Z
 DTEND:20251010T050000Z
 SUMMARY:Vegas Golden Knights @ San Jose Sharks
@@ -15,11 +15,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ San Jose Sharks\nSAP Center at S
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-12-anaheim-ducks-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-10-11-anaheim-ducks-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251012T020000Z
 DTEND:20251012T050000Z
 SUMMARY:Anaheim Ducks @ San Jose Sharks
@@ -27,11 +27,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ San Jose Sharks\nSAP Center at San Jose
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-15-carolina-hurricanes-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-10-14-carolina-hurricanes-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251015T020000Z
 DTEND:20251015T050000Z
 SUMMARY:Carolina Hurricanes @ San Jose Sharks
@@ -39,23 +39,23 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ San Jose Sharks\nSAP Center at Sa
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-18-san-jose-sharks-vs-utah-hockey-club@open-sports-cal
+UID:nhl-2025-26-2025-10-17-san-jose-sharks-vs-utah-mammoth@open-sports-cal
 DTSTART:20251018T010000Z
 DTEND:20251018T040000Z
-SUMMARY:San Jose Sharks @ Utah Hockey Club
-DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Utah Hockey Club\nDelta Center
+SUMMARY:San Jose Sharks @ Utah Mammoth
+DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Utah Mammoth\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-19-pittsburgh-penguins-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-10-18-pittsburgh-penguins-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251019T020000Z
 DTEND:20251019T050000Z
 SUMMARY:Pittsburgh Penguins @ San Jose Sharks
@@ -63,7 +63,7 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ San Jose Sharks\nSAP Center at Sa
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -87,7 +87,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ New York Rangers\nMadison Square Gard
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +99,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ New Jersey Devils\nPrudential Center
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -111,11 +111,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Minnesota Wild\nGrand Casino Arena
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-29-los-angeles-kings-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-10-28-los-angeles-kings-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251029T030000Z
 DTEND:20251029T060000Z
 SUMMARY:Los Angeles Kings @ San Jose Sharks
@@ -123,11 +123,11 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ San Jose Sharks\nSAP Center at San 
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-31-new-jersey-devils-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-10-30-new-jersey-devils-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251031T020000Z
 DTEND:20251031T050000Z
 SUMMARY:New Jersey Devils @ San Jose Sharks
@@ -135,7 +135,7 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ San Jose Sharks\nSAP Center at San 
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -147,11 +147,11 @@ DESCRIPTION:NHL 2025-26\nColorado Avalanche @ San Jose Sharks\nSAP Center at San
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-03-detroit-red-wings-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-11-02-detroit-red-wings-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251103T010000Z
 DTEND:20251103T040000Z
 SUMMARY:Detroit Red Wings @ San Jose Sharks
@@ -159,11 +159,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ San Jose Sharks\nSAP Center at San 
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-06-san-jose-sharks-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2025-11-05-san-jose-sharks-vs-seattle-kraken@open-sports-cal
 DTSTART:20251106T030000Z
 DTEND:20251106T060000Z
 SUMMARY:San Jose Sharks @ Seattle Kraken
@@ -171,11 +171,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Seattle Kraken\nClimate Pledge Arena
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-08-winnipeg-jets-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-11-07-winnipeg-jets-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251108T030000Z
 DTEND:20251108T060000Z
 SUMMARY:Winnipeg Jets @ San Jose Sharks
@@ -183,11 +183,11 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ San Jose Sharks\nSAP Center at San Jose
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-09-florida-panthers-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-11-08-florida-panthers-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251109T030000Z
 DTEND:20251109T060000Z
 SUMMARY:Florida Panthers @ San Jose Sharks
@@ -195,11 +195,11 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ San Jose Sharks\nSAP Center at San J
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-12-san-jose-sharks-vs-minnesota-wild@open-sports-cal
+UID:nhl-2025-26-2025-11-11-san-jose-sharks-vs-minnesota-wild@open-sports-cal
 DTSTART:20251112T010000Z
 DTEND:20251112T040000Z
 SUMMARY:San Jose Sharks @ Minnesota Wild
@@ -207,11 +207,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Minnesota Wild\nGrand Casino Arena
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-14-san-jose-sharks-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-11-13-san-jose-sharks-vs-calgary-flames@open-sports-cal
 DTSTART:20251114T020000Z
 DTEND:20251114T050000Z
 SUMMARY:San Jose Sharks @ Calgary Flames
@@ -219,11 +219,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-16-san-jose-sharks-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2025-11-15-san-jose-sharks-vs-seattle-kraken@open-sports-cal
 DTSTART:20251116T030000Z
 DTEND:20251116T060000Z
 SUMMARY:San Jose Sharks @ Seattle Kraken
@@ -231,23 +231,23 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Seattle Kraken\nClimate Pledge Arena
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-19-utah-hockey-club-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-11-18-utah-mammoth-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251119T030000Z
 DTEND:20251119T060000Z
-SUMMARY:Utah Hockey Club @ San Jose Sharks
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ San Jose Sharks\nSAP Center at San Jose
+SUMMARY:Utah Mammoth @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ San Jose Sharks\nSAP Center at San Jose
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-21-los-angeles-kings-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-11-20-los-angeles-kings-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251121T030000Z
 DTEND:20251121T060000Z
 SUMMARY:Los Angeles Kings @ San Jose Sharks
@@ -255,11 +255,11 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ San Jose Sharks\nSAP Center at San 
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-23-ottawa-senators-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-11-22-ottawa-senators-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251123T000000Z
 DTEND:20251123T030000Z
 SUMMARY:Ottawa Senators @ San Jose Sharks
@@ -267,11 +267,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ San Jose Sharks\nSAP Center at San Jo
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-24-boston-bruins-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-11-23-boston-bruins-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251124T010000Z
 DTEND:20251124T040000Z
 SUMMARY:Boston Bruins @ San Jose Sharks
@@ -279,11 +279,11 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ San Jose Sharks\nSAP Center at San Jose
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-27-san-jose-sharks-vs-colorado-avalanche@open-sports-cal
+UID:nhl-2025-26-2025-11-26-san-jose-sharks-vs-colorado-avalanche@open-sports-cal
 DTSTART:20251127T020000Z
 DTEND:20251127T050000Z
 SUMMARY:San Jose Sharks @ Colorado Avalanche
@@ -291,7 +291,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -303,11 +303,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ San Jose Sharks\nSAP Center at San 
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-30-san-jose-sharks-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-11-29-san-jose-sharks-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251130T030000Z
 DTEND:20251130T060000Z
 SUMMARY:San Jose Sharks @ Vegas Golden Knights
@@ -315,23 +315,23 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-02-utah-hockey-club-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-12-01-utah-mammoth-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251202T030000Z
 DTEND:20251202T060000Z
-SUMMARY:Utah Hockey Club @ San Jose Sharks
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ San Jose Sharks\nSAP Center at San Jose
+SUMMARY:Utah Mammoth @ San Jose Sharks
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ San Jose Sharks\nSAP Center at San Jose
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-04-washington-capitals-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-12-03-washington-capitals-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251204T030000Z
 DTEND:20251204T060000Z
 SUMMARY:Washington Capitals @ San Jose Sharks
@@ -339,11 +339,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ San Jose Sharks\nSAP Center at Sa
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-06-san-jose-sharks-vs-dallas-stars@open-sports-cal
+UID:nhl-2025-26-2025-12-05-san-jose-sharks-vs-dallas-stars@open-sports-cal
 DTSTART:20251206T010000Z
 DTEND:20251206T040000Z
 SUMMARY:San Jose Sharks @ Dallas Stars
@@ -351,7 +351,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Dallas Stars\nAmerican Airlines Cente
 LOCATION:American Airlines Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +363,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-10-san-jose-sharks-vs-philadelphia-flyers@open-sports-cal
+UID:nhl-2025-26-2025-12-09-san-jose-sharks-vs-philadelphia-flyers@open-sports-cal
 DTSTART:20251210T000000Z
 DTEND:20251210T030000Z
 SUMMARY:San Jose Sharks @ Philadelphia Flyers
@@ -375,11 +375,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Philadelphia Flyers\nXfinity Mobile A
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-12-san-jose-sharks-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-12-11-san-jose-sharks-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251212T000000Z
 DTEND:20251212T030000Z
 SUMMARY:San Jose Sharks @ Toronto Maple Leafs
@@ -387,7 +387,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -399,11 +399,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Pittsburgh Penguins\nPPG Paints Arena
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-17-calgary-flames-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-12-16-calgary-flames-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251217T030000Z
 DTEND:20251217T060000Z
 SUMMARY:Calgary Flames @ San Jose Sharks
@@ -411,11 +411,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ San Jose Sharks\nSAP Center at San Jos
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-19-dallas-stars-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-12-18-dallas-stars-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251219T030000Z
 DTEND:20251219T060000Z
 SUMMARY:Dallas Stars @ San Jose Sharks
@@ -423,11 +423,11 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ San Jose Sharks\nSAP Center at San Jose
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-21-seattle-kraken-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-12-20-seattle-kraken-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251221T030000Z
 DTEND:20251221T060000Z
 SUMMARY:Seattle Kraken @ San Jose Sharks
@@ -435,11 +435,11 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ San Jose Sharks\nSAP Center at San Jos
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-24-san-jose-sharks-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-12-23-san-jose-sharks-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251224T030000Z
 DTEND:20251224T060000Z
 SUMMARY:San Jose Sharks @ Vegas Golden Knights
@@ -447,11 +447,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-28-san-jose-sharks-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-12-27-san-jose-sharks-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251228T030000Z
 DTEND:20251228T060000Z
 SUMMARY:San Jose Sharks @ Vancouver Canucks
@@ -459,11 +459,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-30-san-jose-sharks-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-12-29-san-jose-sharks-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251230T030000Z
 DTEND:20251230T060000Z
 SUMMARY:San Jose Sharks @ Anaheim Ducks
@@ -471,7 +471,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -483,7 +483,7 @@ DESCRIPTION:NHL 2025-26\nMinnesota Wild @ San Jose Sharks\nSAP Center at San Jos
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -495,11 +495,11 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ San Jose Sharks\nSAP Center at Sa
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-07-columbus-blue-jackets-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-01-06-columbus-blue-jackets-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260107T030000Z
 DTEND:20260107T060000Z
 SUMMARY:Columbus Blue Jackets @ San Jose Sharks
@@ -507,11 +507,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ San Jose Sharks\nSAP Center at 
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-08-san-jose-sharks-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2026-01-07-san-jose-sharks-vs-los-angeles-kings@open-sports-cal
 DTSTART:20260108T033000Z
 DTEND:20260108T063000Z
 SUMMARY:San Jose Sharks @ Los Angeles Kings
@@ -519,7 +519,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Los Angeles Kings\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -531,11 +531,11 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ San Jose Sharks\nSAP Center at San Jose
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-12-vegas-golden-knights-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-01-11-vegas-golden-knights-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260112T010000Z
 DTEND:20260112T040000Z
 SUMMARY:Vegas Golden Knights @ San Jose Sharks
@@ -543,11 +543,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ San Jose Sharks\nSAP Center at S
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-16-san-jose-sharks-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2026-01-15-san-jose-sharks-vs-washington-capitals@open-sports-cal
 DTSTART:20260116T000000Z
 DTEND:20260116T030000Z
 SUMMARY:San Jose Sharks @ Washington Capitals
@@ -555,11 +555,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Washington Capitals\nCapital One Aren
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-17-san-jose-sharks-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2026-01-16-san-jose-sharks-vs-detroit-red-wings@open-sports-cal
 DTSTART:20260117T000000Z
 DTEND:20260117T030000Z
 SUMMARY:San Jose Sharks @ Detroit Red Wings
@@ -567,7 +567,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Detroit Red Wings\nLittle Caesars Are
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -579,11 +579,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Florida Panthers\nAmerant Bank Arena
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-21-san-jose-sharks-vs-tampa-bay-lightning@open-sports-cal
+UID:nhl-2025-26-2026-01-20-san-jose-sharks-vs-tampa-bay-lightning@open-sports-cal
 DTSTART:20260121T000000Z
 DTEND:20260121T030000Z
 SUMMARY:San Jose Sharks @ Tampa Bay Lightning
@@ -591,11 +591,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Tampa Bay Lightning\nBenchmark Intern
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-24-new-york-rangers-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-01-23-new-york-rangers-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260124T030000Z
 DTEND:20260124T060000Z
 SUMMARY:New York Rangers @ San Jose Sharks
@@ -603,11 +603,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ San Jose Sharks\nSAP Center at San J
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-28-san-jose-sharks-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-01-27-san-jose-sharks-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260128T030000Z
 DTEND:20260128T060000Z
 SUMMARY:San Jose Sharks @ Vancouver Canucks
@@ -615,11 +615,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-30-san-jose-sharks-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2026-01-29-san-jose-sharks-vs-edmonton-oilers@open-sports-cal
 DTSTART:20260130T020000Z
 DTEND:20260130T050000Z
 SUMMARY:San Jose Sharks @ Edmonton Oilers
@@ -627,8 +627,8 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2026-01-31-san-jose-sharks-vs-calgary-flames@open-sports-cal
@@ -639,11 +639,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-03-san-jose-sharks-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-02-02-san-jose-sharks-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260203T013000Z
 DTEND:20260203T043000Z
 SUMMARY:San Jose Sharks @ Chicago Blackhawks
@@ -651,11 +651,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-05-san-jose-sharks-vs-colorado-avalanche@open-sports-cal
+UID:nhl-2025-26-2026-02-04-san-jose-sharks-vs-colorado-avalanche@open-sports-cal
 DTSTART:20260205T020000Z
 DTEND:20260205T050000Z
 SUMMARY:San Jose Sharks @ Colorado Avalanche
@@ -663,11 +663,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-27-calgary-flames-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-02-26-calgary-flames-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260227T030000Z
 DTEND:20260227T060000Z
 SUMMARY:Calgary Flames @ San Jose Sharks
@@ -675,7 +675,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ San Jose Sharks\nSAP Center at San Jos
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -687,7 +687,7 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ San Jose Sharks\nSAP Center at San Jo
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -699,11 +699,11 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ San Jose Sharks\nSAP Center at San Jose
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-04-montreal-canadiens-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-03-03-montreal-canadiens-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260304T030000Z
 DTEND:20260304T060000Z
 SUMMARY:Montréal Canadiens @ San Jose Sharks
@@ -711,11 +711,11 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ San Jose Sharks\nSAP Center at Sa
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-07-st-louis-blues-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-03-06-st-louis-blues-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260307T030000Z
 DTEND:20260307T060000Z
 SUMMARY:St. Louis Blues @ San Jose Sharks
@@ -723,11 +723,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ San Jose Sharks\nSAP Center at San Jo
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-08-new-york-islanders-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-03-07-new-york-islanders-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260308T030000Z
 DTEND:20260308T060000Z
 SUMMARY:New York Islanders @ San Jose Sharks
@@ -735,7 +735,7 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ San Jose Sharks\nSAP Center at San
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -747,7 +747,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -759,7 +759,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -771,8 +771,8 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2026-03-15-san-jose-sharks-vs-ottawa-senators@open-sports-cal
@@ -783,11 +783,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-18-san-jose-sharks-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2026-03-17-san-jose-sharks-vs-edmonton-oilers@open-sports-cal
 DTSTART:20260318T010000Z
 DTEND:20260318T040000Z
 SUMMARY:San Jose Sharks @ Edmonton Oilers
@@ -795,11 +795,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-20-buffalo-sabres-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-03-19-buffalo-sabres-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260320T020000Z
 DTEND:20260320T050000Z
 SUMMARY:Buffalo Sabres @ San Jose Sharks
@@ -807,7 +807,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ San Jose Sharks\nSAP Center at San Jos
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -819,11 +819,11 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ San Jose Sharks\nSAP Center at Sa
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-25-san-jose-sharks-vs-nashville-predators@open-sports-cal
+UID:nhl-2025-26-2026-03-24-san-jose-sharks-vs-nashville-predators@open-sports-cal
 DTSTART:20260325T000000Z
 DTEND:20260325T030000Z
 SUMMARY:San Jose Sharks @ Nashville Predators
@@ -831,11 +831,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Nashville Predators\nBridgestone Aren
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-27-san-jose-sharks-vs-st-louis-blues@open-sports-cal
+UID:nhl-2025-26-2026-03-26-san-jose-sharks-vs-st-louis-blues@open-sports-cal
 DTSTART:20260327T000000Z
 DTEND:20260327T030000Z
 SUMMARY:San Jose Sharks @ St. Louis Blues
@@ -843,7 +843,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ St. Louis Blues\nEnterprise Center
 LOCATION:Enterprise Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -855,11 +855,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Columbus Blue Jackets\nNationwide Are
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-31-st-louis-blues-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-03-30-st-louis-blues-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260331T020000Z
 DTEND:20260331T050000Z
 SUMMARY:St. Louis Blues @ San Jose Sharks
@@ -867,11 +867,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ San Jose Sharks\nSAP Center at San Jo
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-02-anaheim-ducks-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-04-01-anaheim-ducks-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260402T010000Z
 DTEND:20260402T040000Z
 SUMMARY:Anaheim Ducks @ San Jose Sharks
@@ -879,11 +879,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ San Jose Sharks\nSAP Center at San Jose
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-03-toronto-maple-leafs-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-04-02-toronto-maple-leafs-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260403T020000Z
 DTEND:20260403T050000Z
 SUMMARY:Toronto Maple Leafs @ San Jose Sharks
@@ -891,11 +891,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ San Jose Sharks\nSAP Center at Sa
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-05-nashville-predators-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-04-04-nashville-predators-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260405T020000Z
 DTEND:20260405T050000Z
 SUMMARY:Nashville Predators @ San Jose Sharks
@@ -903,11 +903,11 @@ DESCRIPTION:NHL 2025-26\nNashville Predators @ San Jose Sharks\nSAP Center at Sa
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-07-chicago-blackhawks-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-04-06-chicago-blackhawks-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260407T020000Z
 DTEND:20260407T050000Z
 SUMMARY:Chicago Blackhawks @ San Jose Sharks
@@ -915,11 +915,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ San Jose Sharks\nSAP Center at San
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-09-edmonton-oilers-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-04-08-edmonton-oilers-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260409T020000Z
 DTEND:20260409T050000Z
 SUMMARY:Edmonton Oilers @ San Jose Sharks
@@ -927,11 +927,11 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ San Jose Sharks\nSAP Center at San Jo
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-10-san-jose-sharks-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-04-09-san-jose-sharks-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260410T020000Z
 DTEND:20260410T050000Z
 SUMMARY:San Jose Sharks @ Anaheim Ducks
@@ -939,11 +939,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-12-vancouver-canucks-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-04-11-vancouver-canucks-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260412T020000Z
 DTEND:20260412T050000Z
 SUMMARY:Vancouver Canucks @ San Jose Sharks
@@ -951,11 +951,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ San Jose Sharks\nSAP Center at San 
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-14-san-jose-sharks-vs-nashville-predators@open-sports-cal
+UID:nhl-2025-26-2026-04-13-san-jose-sharks-vs-nashville-predators@open-sports-cal
 DTSTART:20260414T000000Z
 DTEND:20260414T030000Z
 SUMMARY:San Jose Sharks @ Nashville Predators
@@ -963,11 +963,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Nashville Predators\nBridgestone Aren
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-16-san-jose-sharks-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-04-15-san-jose-sharks-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260416T003000Z
 DTEND:20260416T033000Z
 SUMMARY:San Jose Sharks @ Chicago Blackhawks
@@ -975,11 +975,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-17-san-jose-sharks-vs-winnipeg-jets@open-sports-cal
+UID:nhl-2025-26-2026-04-16-san-jose-sharks-vs-winnipeg-jets@open-sports-cal
 DTSTART:20260417T000000Z
 DTEND:20260417T030000Z
 SUMMARY:San Jose Sharks @ Winnipeg Jets
@@ -987,7 +987,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Winnipeg Jets\nCanada Life Centre
 LOCATION:Canada Life Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Winnipeg
 END:VEVENT
 END:VCALENDAR

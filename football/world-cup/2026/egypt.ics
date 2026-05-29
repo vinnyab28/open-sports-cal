@@ -7,15 +7,15 @@ X-WR-CALNAME:FIFA World Cup 2026 - Egypt
 X-WR-TIMEZONE:UTC
 X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
-UID:fwc2026-m038@open-sports-cal
+UID:fwc2026-m014@open-sports-cal
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
 SUMMARY:Belgium vs Egypt
-DESCRIPTION:FIFA World Cup 2026 — Group G\nBelgium vs Egypt\nLumen Field, Seattle, USA
-LOCATION:Lumen Field, Seattle, USA
+DESCRIPTION:FIFA World Cup 2026 — Group G\nBelgium vs Egypt\nLumen Field, Seattle, Washington
+LOCATION:Lumen Field, Seattle, Washington
 CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
 STATUS:CONFIRMED
-DTSTAMP:20260404T124945Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -23,23 +23,23 @@ UID:fwc2026-m040@open-sports-cal
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
 SUMMARY:New Zealand vs Egypt
-DESCRIPTION:FIFA World Cup 2026 — Group G\nNew Zealand vs Egypt\nBC Place, Vancouver, Canada
-LOCATION:BC Place, Vancouver, Canada
+DESCRIPTION:FIFA World Cup 2026 — Group G\nNew Zealand vs Egypt\nBC Place, Vancouver
+LOCATION:BC Place, Vancouver
 CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
 STATUS:CONFIRMED
-DTSTAMP:20260404T124945Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:fwc2026-m041@open-sports-cal
+UID:fwc2026-m065@open-sports-cal
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 SUMMARY:Egypt vs Iran
-DESCRIPTION:FIFA World Cup 2026 — Group G\nEgypt vs Iran\nLumen Field, Seattle, USA
-LOCATION:Lumen Field, Seattle, USA
+DESCRIPTION:FIFA World Cup 2026 — Group G\nEgypt vs Iran\nLumen Field, Seattle, Washington
+LOCATION:Lumen Field, Seattle, Washington
 CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
 STATUS:CONFIRMED
-DTSTAMP:20260404T124945Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

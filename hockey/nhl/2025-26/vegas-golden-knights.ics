@@ -7,7 +7,7 @@ X-WR-CALNAME:NHL 2025-26 - Vegas Golden Knights
 X-WR-TIMEZONE:UTC
 X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-09-los-angeles-kings-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-10-08-los-angeles-kings-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251009T020000Z
 DTEND:20251009T050000Z
 SUMMARY:Los Angeles Kings @ Vegas Golden Knights
@@ -15,11 +15,11 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Vegas Golden Knights\nT-Mobile Aren
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-10-vegas-golden-knights-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-10-09-vegas-golden-knights-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251010T020000Z
 DTEND:20251010T050000Z
 SUMMARY:Vegas Golden Knights @ San Jose Sharks
@@ -27,11 +27,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ San Jose Sharks\nSAP Center at S
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-12-vegas-golden-knights-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2025-10-11-vegas-golden-knights-vs-seattle-kraken@open-sports-cal
 DTSTART:20251012T020000Z
 DTEND:20251012T050000Z
 SUMMARY:Vegas Golden Knights @ Seattle Kraken
@@ -39,11 +39,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Seattle Kraken\nClimate Pledge A
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-15-vegas-golden-knights-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-10-14-vegas-golden-knights-vs-calgary-flames@open-sports-cal
 DTSTART:20251015T010000Z
 DTEND:20251015T040000Z
 SUMMARY:Vegas Golden Knights @ Calgary Flames
@@ -51,11 +51,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Calgary Flames\nScotiabank Saddl
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-17-boston-bruins-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-10-16-boston-bruins-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251017T020000Z
 DTEND:20251017T050000Z
 SUMMARY:Boston Bruins @ Vegas Golden Knights
@@ -63,11 +63,11 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-19-calgary-flames-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-10-18-calgary-flames-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251019T020000Z
 DTEND:20251019T050000Z
 SUMMARY:Calgary Flames @ Vegas Golden Knights
@@ -75,11 +75,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-21-carolina-hurricanes-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-10-20-carolina-hurricanes-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251021T020000Z
 DTEND:20251021T050000Z
 SUMMARY:Carolina Hurricanes @ Vegas Golden Knights
@@ -87,7 +87,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Vegas Golden Knights\nT-Mobile Ar
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +99,7 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Florida Panthers\nAmerant Bank A
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -111,7 +111,7 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Tampa Bay Lightning\nBenchmark I
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -123,7 +123,7 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Carolina Hurricanes\nLenovo Cent
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -135,11 +135,11 @@ DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Vegas Golden Knights\nT-Mobile Are
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-05-detroit-red-wings-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-11-04-detroit-red-wings-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251105T030000Z
 DTEND:20251105T060000Z
 SUMMARY:Detroit Red Wings @ Vegas Golden Knights
@@ -147,11 +147,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Vegas Golden Knights\nT-Mobile Aren
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-07-tampa-bay-lightning-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-11-06-tampa-bay-lightning-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251107T030000Z
 DTEND:20251107T060000Z
 SUMMARY:Tampa Bay Lightning @ Vegas Golden Knights
@@ -159,11 +159,11 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Vegas Golden Knights\nT-Mobile Ar
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-09-anaheim-ducks-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-11-08-anaheim-ducks-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251109T030000Z
 DTEND:20251109T060000Z
 SUMMARY:Anaheim Ducks @ Vegas Golden Knights
@@ -171,11 +171,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-11-florida-panthers-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-11-10-florida-panthers-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251111T030000Z
 DTEND:20251111T060000Z
 SUMMARY:Florida Panthers @ Vegas Golden Knights
@@ -183,11 +183,11 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-14-new-york-islanders-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-11-13-new-york-islanders-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251114T030000Z
 DTEND:20251114T060000Z
 SUMMARY:New York Islanders @ Vegas Golden Knights
@@ -195,11 +195,11 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Vegas Golden Knights\nT-Mobile Are
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-16-vegas-golden-knights-vs-st-louis-blues@open-sports-cal
+UID:nhl-2025-26-2025-11-15-vegas-golden-knights-vs-st-louis-blues@open-sports-cal
 DTSTART:20251116T010000Z
 DTEND:20251116T040000Z
 SUMMARY:Vegas Golden Knights @ St. Louis Blues
@@ -207,7 +207,7 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ St. Louis Blues\nEnterprise Cent
 LOCATION:Enterprise Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -219,11 +219,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Minnesota Wild\nGrand Casino Are
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-19-new-york-rangers-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-11-18-new-york-rangers-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251119T030000Z
 DTEND:20251119T060000Z
 SUMMARY:New York Rangers @ Vegas Golden Knights
@@ -231,23 +231,23 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-21-vegas-golden-knights-vs-utah-hockey-club@open-sports-cal
+UID:nhl-2025-26-2025-11-20-vegas-golden-knights-vs-utah-mammoth@open-sports-cal
 DTSTART:20251121T020000Z
 DTEND:20251121T050000Z
-SUMMARY:Vegas Golden Knights @ Utah Hockey Club
-DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Utah Hockey Club\nDelta Center
+SUMMARY:Vegas Golden Knights @ Utah Mammoth
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Utah Mammoth\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-23-vegas-golden-knights-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-11-22-vegas-golden-knights-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251123T030000Z
 DTEND:20251123T060000Z
 SUMMARY:Vegas Golden Knights @ Anaheim Ducks
@@ -255,23 +255,23 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-25-vegas-golden-knights-vs-utah-hockey-club@open-sports-cal
+UID:nhl-2025-26-2025-11-24-vegas-golden-knights-vs-utah-mammoth@open-sports-cal
 DTSTART:20251125T020000Z
 DTEND:20251125T050000Z
-SUMMARY:Vegas Golden Knights @ Utah Hockey Club
-DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Utah Hockey Club\nDelta Center
+SUMMARY:Vegas Golden Knights @ Utah Mammoth
+DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Utah Mammoth\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-27-ottawa-senators-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-11-26-ottawa-senators-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251127T030000Z
 DTEND:20251127T060000Z
 SUMMARY:Ottawa Senators @ Vegas Golden Knights
@@ -279,7 +279,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -291,11 +291,11 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Vegas Golden Knights\nT-Mobile Ar
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-30-san-jose-sharks-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-11-29-san-jose-sharks-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251130T030000Z
 DTEND:20251130T060000Z
 SUMMARY:San Jose Sharks @ Vegas Golden Knights
@@ -303,11 +303,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-03-chicago-blackhawks-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-12-02-chicago-blackhawks-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251203T030000Z
 DTEND:20251203T060000Z
 SUMMARY:Chicago Blackhawks @ Vegas Golden Knights
@@ -315,11 +315,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Vegas Golden Knights\nT-Mobile Are
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-06-vegas-golden-knights-vs-new-jersey-devils@open-sports-cal
+UID:nhl-2025-26-2025-12-05-vegas-golden-knights-vs-new-jersey-devils@open-sports-cal
 DTSTART:20251206T000000Z
 DTEND:20251206T030000Z
 SUMMARY:Vegas Golden Knights @ New Jersey Devils
@@ -327,11 +327,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ New Jersey Devils\nPrudential Ce
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-08-vegas-golden-knights-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2025-12-07-vegas-golden-knights-vs-new-york-rangers@open-sports-cal
 DTSTART:20251208T000000Z
 DTEND:20251208T030000Z
 SUMMARY:Vegas Golden Knights @ New York Rangers
@@ -339,11 +339,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ New York Rangers\nMadison Square
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-10-vegas-golden-knights-vs-new-york-islanders@open-sports-cal
+UID:nhl-2025-26-2025-12-09-vegas-golden-knights-vs-new-york-islanders@open-sports-cal
 DTSTART:20251210T000000Z
 DTEND:20251210T030000Z
 SUMMARY:Vegas Golden Knights @ New York Islanders
@@ -351,11 +351,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-12-vegas-golden-knights-vs-philadelphia-flyers@open-sports-cal
+UID:nhl-2025-26-2025-12-11-vegas-golden-knights-vs-philadelphia-flyers@open-sports-cal
 DTSTART:20251212T000000Z
 DTEND:20251212T030000Z
 SUMMARY:Vegas Golden Knights @ Philadelphia Flyers
@@ -363,11 +363,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Philadelphia Flyers\nXfinity Mob
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-14-vegas-golden-knights-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-12-13-vegas-golden-knights-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20251214T000000Z
 DTEND:20251214T030000Z
 SUMMARY:Vegas Golden Knights @ Columbus Blue Jackets
@@ -375,11 +375,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Columbus Blue Jackets\nNationwid
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-18-new-jersey-devils-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-12-17-new-jersey-devils-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251218T030000Z
 DTEND:20251218T060000Z
 SUMMARY:New Jersey Devils @ Vegas Golden Knights
@@ -387,11 +387,11 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Vegas Golden Knights\nT-Mobile Aren
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-21-vegas-golden-knights-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-12-20-vegas-golden-knights-vs-calgary-flames@open-sports-cal
 DTSTART:20251221T030000Z
 DTEND:20251221T060000Z
 SUMMARY:Vegas Golden Knights @ Calgary Flames
@@ -399,11 +399,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Calgary Flames\nScotiabank Saddl
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-22-vegas-golden-knights-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2025-12-21-vegas-golden-knights-vs-edmonton-oilers@open-sports-cal
 DTSTART:20251222T010000Z
 DTEND:20251222T040000Z
 SUMMARY:Vegas Golden Knights @ Edmonton Oilers
@@ -411,11 +411,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-24-san-jose-sharks-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-12-23-san-jose-sharks-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251224T030000Z
 DTEND:20251224T060000Z
 SUMMARY:San Jose Sharks @ Vegas Golden Knights
@@ -423,11 +423,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-28-colorado-avalanche-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-12-27-colorado-avalanche-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251228T030000Z
 DTEND:20251228T060000Z
 SUMMARY:Colorado Avalanche @ Vegas Golden Knights
@@ -435,11 +435,11 @@ DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Vegas Golden Knights\nT-Mobile Are
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-30-minnesota-wild-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-12-29-minnesota-wild-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251230T030000Z
 DTEND:20251230T060000Z
 SUMMARY:Minnesota Wild @ Vegas Golden Knights
@@ -447,7 +447,7 @@ DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -459,7 +459,7 @@ DESCRIPTION:NHL 2025-26\nNashville Predators @ Vegas Golden Knights\nT-Mobile Ar
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -471,11 +471,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ St. Louis Blues\nEnterprise Cent
 LOCATION:Enterprise Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-05-vegas-golden-knights-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-01-04-vegas-golden-knights-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260105T000000Z
 DTEND:20260105T030000Z
 SUMMARY:Vegas Golden Knights @ Chicago Blackhawks
@@ -483,11 +483,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Chicago Blackhawks\nUnited Cente
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-07-vegas-golden-knights-vs-winnipeg-jets@open-sports-cal
+UID:nhl-2025-26-2026-01-06-vegas-golden-knights-vs-winnipeg-jets@open-sports-cal
 DTSTART:20260107T010000Z
 DTEND:20260107T040000Z
 SUMMARY:Vegas Golden Knights @ Winnipeg Jets
@@ -495,11 +495,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Winnipeg Jets\nCanada Life Centr
 LOCATION:Canada Life Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Winnipeg
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-09-columbus-blue-jackets-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-01-08-columbus-blue-jackets-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260109T030000Z
 DTEND:20260109T060000Z
 SUMMARY:Columbus Blue Jackets @ Vegas Golden Knights
@@ -507,11 +507,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Vegas Golden Knights\nT-Mobile 
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-11-st-louis-blues-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-01-10-st-louis-blues-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260111T030000Z
 DTEND:20260111T060000Z
 SUMMARY:St. Louis Blues @ Vegas Golden Knights
@@ -519,11 +519,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-12-vegas-golden-knights-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-01-11-vegas-golden-knights-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260112T010000Z
 DTEND:20260112T040000Z
 SUMMARY:Vegas Golden Knights @ San Jose Sharks
@@ -531,11 +531,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ San Jose Sharks\nSAP Center at S
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-15-vegas-golden-knights-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2026-01-14-vegas-golden-knights-vs-los-angeles-kings@open-sports-cal
 DTSTART:20260115T030000Z
 DTEND:20260115T060000Z
 SUMMARY:Vegas Golden Knights @ Los Angeles Kings
@@ -543,11 +543,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Los Angeles Kings\nCrypto.com Ar
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-16-toronto-maple-leafs-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-01-15-toronto-maple-leafs-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260116T023000Z
 DTEND:20260116T053000Z
 SUMMARY:Toronto Maple Leafs @ Vegas Golden Knights
@@ -555,11 +555,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Vegas Golden Knights\nT-Mobile Ar
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-18-nashville-predators-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-01-17-nashville-predators-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260118T030000Z
 DTEND:20260118T060000Z
 SUMMARY:Nashville Predators @ Vegas Golden Knights
@@ -567,11 +567,11 @@ DESCRIPTION:NHL 2025-26\nNashville Predators @ Vegas Golden Knights\nT-Mobile Ar
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-20-philadelphia-flyers-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-01-19-philadelphia-flyers-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260120T010000Z
 DTEND:20260120T040000Z
 SUMMARY:Philadelphia Flyers @ Vegas Golden Knights
@@ -579,11 +579,11 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Vegas Golden Knights\nT-Mobile Ar
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-23-vegas-golden-knights-vs-boston-bruins@open-sports-cal
+UID:nhl-2025-26-2026-01-22-vegas-golden-knights-vs-boston-bruins@open-sports-cal
 DTSTART:20260123T000000Z
 DTEND:20260123T030000Z
 SUMMARY:Vegas Golden Knights @ Boston Bruins
@@ -591,11 +591,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-24-vegas-golden-knights-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2026-01-23-vegas-golden-knights-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20260124T000000Z
 DTEND:20260124T030000Z
 SUMMARY:Vegas Golden Knights @ Toronto Maple Leafs
@@ -603,7 +603,7 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Toronto Maple Leafs\nScotiabank 
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -615,11 +615,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Ottawa Senators\nCanadian Tire C
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-28-vegas-golden-knights-vs-montreal-canadiens@open-sports-cal
+UID:nhl-2025-26-2026-01-27-vegas-golden-knights-vs-montreal-canadiens@open-sports-cal
 DTSTART:20260128T000000Z
 DTEND:20260128T030000Z
 SUMMARY:Vegas Golden Knights @ Montréal Canadiens
@@ -627,11 +627,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-30-dallas-stars-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-01-29-dallas-stars-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260130T030000Z
 DTEND:20260130T060000Z
 SUMMARY:Dallas Stars @ Vegas Golden Knights
@@ -639,11 +639,11 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-01-seattle-kraken-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-01-31-seattle-kraken-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260201T030000Z
 DTEND:20260201T060000Z
 SUMMARY:Seattle Kraken @ Vegas Golden Knights
@@ -651,11 +651,11 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-02-vegas-golden-knights-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-02-01-vegas-golden-knights-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260202T023000Z
 DTEND:20260202T053000Z
 SUMMARY:Vegas Golden Knights @ Anaheim Ducks
@@ -663,11 +663,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-05-vancouver-canucks-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-02-04-vancouver-canucks-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260205T030000Z
 DTEND:20260205T060000Z
 SUMMARY:Vancouver Canucks @ Vegas Golden Knights
@@ -675,11 +675,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Vegas Golden Knights\nT-Mobile Aren
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-06-los-angeles-kings-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-02-05-los-angeles-kings-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260206T030000Z
 DTEND:20260206T060000Z
 SUMMARY:Los Angeles Kings @ Vegas Golden Knights
@@ -687,11 +687,11 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Vegas Golden Knights\nT-Mobile Aren
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-26-vegas-golden-knights-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2026-02-25-vegas-golden-knights-vs-los-angeles-kings@open-sports-cal
 DTSTART:20260226T030000Z
 DTEND:20260226T060000Z
 SUMMARY:Vegas Golden Knights @ Los Angeles Kings
@@ -699,11 +699,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Los Angeles Kings\nCrypto.com Ar
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-28-vegas-golden-knights-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2026-02-27-vegas-golden-knights-vs-washington-capitals@open-sports-cal
 DTSTART:20260228T000000Z
 DTEND:20260228T030000Z
 SUMMARY:Vegas Golden Knights @ Washington Capitals
@@ -711,7 +711,7 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Washington Capitals\nCapital One
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -723,11 +723,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Pittsburgh Penguins\nPPG Paints 
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-04-vegas-golden-knights-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2026-03-03-vegas-golden-knights-vs-buffalo-sabres@open-sports-cal
 DTSTART:20260304T000000Z
 DTEND:20260304T030000Z
 SUMMARY:Vegas Golden Knights @ Buffalo Sabres
@@ -735,11 +735,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-05-vegas-golden-knights-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2026-03-04-vegas-golden-knights-vs-detroit-red-wings@open-sports-cal
 DTSTART:20260305T000000Z
 DTEND:20260305T030000Z
 SUMMARY:Vegas Golden Knights @ Detroit Red Wings
@@ -747,11 +747,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Detroit Red Wings\nLittle Caesar
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-07-minnesota-wild-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-03-06-minnesota-wild-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260307T030000Z
 DTEND:20260307T060000Z
 SUMMARY:Minnesota Wild @ Vegas Golden Knights
@@ -759,11 +759,11 @@ DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-09-edmonton-oilers-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-03-08-edmonton-oilers-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260309T013000Z
 DTEND:20260309T043000Z
 SUMMARY:Edmonton Oilers @ Vegas Golden Knights
@@ -771,11 +771,11 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-11-vegas-golden-knights-vs-dallas-stars@open-sports-cal
+UID:nhl-2025-26-2026-03-10-vegas-golden-knights-vs-dallas-stars@open-sports-cal
 DTSTART:20260311T000000Z
 DTEND:20260311T030000Z
 SUMMARY:Vegas Golden Knights @ Dallas Stars
@@ -783,11 +783,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Dallas Stars\nAmerican Airlines 
 LOCATION:American Airlines Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-13-pittsburgh-penguins-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-03-12-pittsburgh-penguins-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260313T020000Z
 DTEND:20260313T050000Z
 SUMMARY:Pittsburgh Penguins @ Vegas Golden Knights
@@ -795,11 +795,11 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Vegas Golden Knights\nT-Mobile Ar
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-15-chicago-blackhawks-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-03-14-chicago-blackhawks-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260315T020000Z
 DTEND:20260315T050000Z
 SUMMARY:Chicago Blackhawks @ Vegas Golden Knights
@@ -807,11 +807,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Vegas Golden Knights\nT-Mobile Are
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-18-buffalo-sabres-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-03-17-buffalo-sabres-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260318T020000Z
 DTEND:20260318T050000Z
 SUMMARY:Buffalo Sabres @ Vegas Golden Knights
@@ -819,19 +819,19 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-20-utah-hockey-club-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-03-19-utah-mammoth-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260320T020000Z
 DTEND:20260320T050000Z
-SUMMARY:Utah Hockey Club @ Vegas Golden Knights
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Vegas Golden Knights\nT-Mobile Arena
+SUMMARY:Utah Mammoth @ Vegas Golden Knights
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -843,7 +843,7 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Nashville Predators\nBridgestone
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -855,11 +855,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Dallas Stars\nAmerican Airlines 
 LOCATION:American Airlines Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-25-vegas-golden-knights-vs-winnipeg-jets@open-sports-cal
+UID:nhl-2025-26-2026-03-24-vegas-golden-knights-vs-winnipeg-jets@open-sports-cal
 DTSTART:20260325T000000Z
 DTEND:20260325T030000Z
 SUMMARY:Vegas Golden Knights @ Winnipeg Jets
@@ -867,11 +867,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Winnipeg Jets\nCanada Life Centr
 LOCATION:Canada Life Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Winnipeg
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-27-edmonton-oilers-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-03-26-edmonton-oilers-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260327T013000Z
 DTEND:20260327T043000Z
 SUMMARY:Edmonton Oilers @ Vegas Golden Knights
@@ -879,11 +879,11 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-29-washington-capitals-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-03-28-washington-capitals-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260329T023000Z
 DTEND:20260329T053000Z
 SUMMARY:Washington Capitals @ Vegas Golden Knights
@@ -891,11 +891,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Vegas Golden Knights\nT-Mobile Ar
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-31-vancouver-canucks-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-03-30-vancouver-canucks-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260331T020000Z
 DTEND:20260331T050000Z
 SUMMARY:Vancouver Canucks @ Vegas Golden Knights
@@ -903,11 +903,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Vegas Golden Knights\nT-Mobile Aren
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-03-calgary-flames-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-04-02-calgary-flames-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260403T020000Z
 DTEND:20260403T050000Z
 SUMMARY:Calgary Flames @ Vegas Golden Knights
@@ -915,11 +915,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-05-vegas-golden-knights-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2026-04-04-vegas-golden-knights-vs-edmonton-oilers@open-sports-cal
 DTSTART:20260405T020000Z
 DTEND:20260405T050000Z
 SUMMARY:Vegas Golden Knights @ Edmonton Oilers
@@ -927,11 +927,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-08-vegas-golden-knights-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-04-07-vegas-golden-knights-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260408T020000Z
 DTEND:20260408T050000Z
 SUMMARY:Vegas Golden Knights @ Vancouver Canucks
@@ -939,11 +939,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-10-vegas-golden-knights-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2026-04-09-vegas-golden-knights-vs-seattle-kraken@open-sports-cal
 DTSTART:20260410T020000Z
 DTEND:20260410T050000Z
 SUMMARY:Vegas Golden Knights @ Seattle Kraken
@@ -951,11 +951,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Seattle Kraken\nClimate Pledge A
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-12-vegas-golden-knights-vs-colorado-avalanche@open-sports-cal
+UID:nhl-2025-26-2026-04-11-vegas-golden-knights-vs-colorado-avalanche@open-sports-cal
 DTSTART:20260412T000000Z
 DTEND:20260412T030000Z
 SUMMARY:Vegas Golden Knights @ Colorado Avalanche
@@ -963,11 +963,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-14-winnipeg-jets-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-04-13-winnipeg-jets-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260414T020000Z
 DTEND:20260414T050000Z
 SUMMARY:Winnipeg Jets @ Vegas Golden Knights
@@ -975,11 +975,11 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-16-seattle-kraken-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-04-15-seattle-kraken-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260416T020000Z
 DTEND:20260416T050000Z
 SUMMARY:Seattle Kraken @ Vegas Golden Knights
@@ -987,91 +987,199 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-playoffs-2026-04-20-utah-hockey-club-vs-vegas-golden-knights-g1@open-sports-cal
+UID:nhl-2025-26-playoffs-2026-04-19-utah-mammoth-vs-vegas-golden-knights-g1@open-sports-cal
 DTSTART:20260420T020000Z
 DTEND:20260420T050000Z
-SUMMARY:Utah Hockey Club @ Vegas Golden Knights (Game 1)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nUtah Hockey Club @ Vegas Golden Knights\nT-Mobile Arena
+SUMMARY:Utah Mammoth @ Vegas Golden Knights (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26\nUtah Mammoth @ Vegas Golden Knights — Game 1\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-playoffs-2026-04-22-utah-hockey-club-vs-vegas-golden-knights-g2@open-sports-cal
+UID:nhl-2025-26-playoffs-2026-04-21-utah-mammoth-vs-vegas-golden-knights-g2@open-sports-cal
 DTSTART:20260422T013000Z
 DTEND:20260422T043000Z
-SUMMARY:Utah Hockey Club @ Vegas Golden Knights (Game 2)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nUtah Hockey Club @ Vegas Golden Knights\nT-Mobile Arena
+SUMMARY:Utah Mammoth @ Vegas Golden Knights (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26\nUtah Mammoth @ Vegas Golden Knights — Game 2\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-playoffs-2026-04-25-vegas-golden-knights-vs-utah-hockey-club-g3@open-sports-cal
+UID:nhl-2025-26-playoffs-2026-04-24-vegas-golden-knights-vs-utah-mammoth-g3@open-sports-cal
 DTSTART:20260425T013000Z
 DTEND:20260425T043000Z
-SUMMARY:Vegas Golden Knights @ Utah Hockey Club (Game 3)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nVegas Golden Knights @ Utah Hockey Club\nDelta Center
+SUMMARY:Vegas Golden Knights @ Utah Mammoth (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26\nVegas Golden Knights @ Utah Mammoth — Game 3\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-playoffs-2026-04-28-vegas-golden-knights-vs-utah-hockey-club-g4@open-sports-cal
+UID:nhl-2025-26-playoffs-2026-04-27-vegas-golden-knights-vs-utah-mammoth-g4@open-sports-cal
 DTSTART:20260428T013000Z
 DTEND:20260428T043000Z
-SUMMARY:Vegas Golden Knights @ Utah Hockey Club (Game 4)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nVegas Golden Knights @ Utah Hockey Club\nDelta Center
+SUMMARY:Vegas Golden Knights @ Utah Mammoth (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26\nVegas Golden Knights @ Utah Mammoth — Game 4\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-playoffs-2026-04-30-utah-hockey-club-vs-vegas-golden-knights-g5@open-sports-cal
+UID:nhl-2025-26-playoffs-2026-04-29-utah-mammoth-vs-vegas-golden-knights-g5@open-sports-cal
 DTSTART:20260430T020000Z
 DTEND:20260430T050000Z
-SUMMARY:Utah Hockey Club @ Vegas Golden Knights (Game 5)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nUtah Hockey Club @ Vegas Golden Knights\nT-Mobile Arena
+SUMMARY:Utah Mammoth @ Vegas Golden Knights (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26\nUtah Mammoth @ Vegas Golden Knights — Game 5\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-playoffs-2026-05-01-vegas-golden-knights-vs-utah-hockey-club-g6@open-sports-cal
-DTSTART:20260501T160000Z
-DTEND:20260501T190000Z
-SUMMARY:Vegas Golden Knights @ Utah Hockey Club (Game 6)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nVegas Golden Knights @ Utah Hockey Club\nDelta Center
+UID:nhl-2025-26-playoffs-2026-05-01-vegas-golden-knights-vs-utah-mammoth-g6@open-sports-cal
+DTSTART:20260502T020000Z
+DTEND:20260502T050000Z
+SUMMARY:Vegas Golden Knights @ Utah Mammoth (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26\nVegas Golden Knights @ Utah Mammoth — Game 6\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-playoffs-2026-05-03-utah-hockey-club-vs-vegas-golden-knights-g7@open-sports-cal
-DTSTART:20260503T160000Z
-DTEND:20260503T190000Z
-SUMMARY:Utah Hockey Club @ Vegas Golden Knights (Game 7)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nUtah Hockey Club @ Vegas Golden Knights\nT-Mobile Arena
+UID:nhl-2025-26-playoffs-2026-05-04-anaheim-ducks-vs-vegas-golden-knights-g1@open-sports-cal
+DTSTART:20260505T013000Z
+DTEND:20260505T043000Z
+SUMMARY:Anaheim Ducks @ Vegas Golden Knights (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26\nAnaheim Ducks @ Vegas Golden Knights — Game 1\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-06-anaheim-ducks-vs-vegas-golden-knights-g2@open-sports-cal
+DTSTART:20260507T013000Z
+DTEND:20260507T043000Z
+SUMMARY:Anaheim Ducks @ Vegas Golden Knights (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26\nAnaheim Ducks @ Vegas Golden Knights — Game 2\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-08-vegas-golden-knights-vs-anaheim-ducks-g3@open-sports-cal
+DTSTART:20260509T013000Z
+DTEND:20260509T043000Z
+SUMMARY:Vegas Golden Knights @ Anaheim Ducks (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26\nVegas Golden Knights @ Anaheim Ducks — Game 3\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-10-vegas-golden-knights-vs-anaheim-ducks-g4@open-sports-cal
+DTSTART:20260511T013000Z
+DTEND:20260511T043000Z
+SUMMARY:Vegas Golden Knights @ Anaheim Ducks (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26\nVegas Golden Knights @ Anaheim Ducks — Game 4\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-12-anaheim-ducks-vs-vegas-golden-knights-g5@open-sports-cal
+DTSTART:20260513T013000Z
+DTEND:20260513T043000Z
+SUMMARY:Anaheim Ducks @ Vegas Golden Knights (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26\nAnaheim Ducks @ Vegas Golden Knights — Game 5\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-14-vegas-golden-knights-vs-anaheim-ducks-g6@open-sports-cal
+DTSTART:20260515T013000Z
+DTEND:20260515T043000Z
+SUMMARY:Vegas Golden Knights @ Anaheim Ducks (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26\nVegas Golden Knights @ Anaheim Ducks — Game 6\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-20-vegas-golden-knights-vs-colorado-avalanche-g1@open-sports-cal
+DTSTART:20260521T000000Z
+DTEND:20260521T030000Z
+SUMMARY:Vegas Golden Knights @ Colorado Avalanche (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26\nVegas Golden Knights @ Colorado Avalanche — Game 1\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-22-vegas-golden-knights-vs-colorado-avalanche-g2@open-sports-cal
+DTSTART:20260523T000000Z
+DTEND:20260523T030000Z
+SUMMARY:Vegas Golden Knights @ Colorado Avalanche (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26\nVegas Golden Knights @ Colorado Avalanche — Game 2\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-24-colorado-avalanche-vs-vegas-golden-knights-g3@open-sports-cal
+DTSTART:20260525T000000Z
+DTEND:20260525T030000Z
+SUMMARY:Colorado Avalanche @ Vegas Golden Knights (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26\nColorado Avalanche @ Vegas Golden Knights — Game 3\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-26-colorado-avalanche-vs-vegas-golden-knights-g4@open-sports-cal
+DTSTART:20260527T010000Z
+DTEND:20260527T040000Z
+SUMMARY:Colorado Avalanche @ Vegas Golden Knights (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26\nColorado Avalanche @ Vegas Golden Knights — Game 4\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

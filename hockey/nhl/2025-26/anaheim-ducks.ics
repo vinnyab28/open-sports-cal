@@ -7,7 +7,7 @@ X-WR-CALNAME:NHL 2025-26 - Anaheim Ducks
 X-WR-TIMEZONE:UTC
 X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-10-anaheim-ducks-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2025-10-09-anaheim-ducks-vs-seattle-kraken@open-sports-cal
 DTSTART:20251010T020000Z
 DTEND:20251010T050000Z
 SUMMARY:Anaheim Ducks @ Seattle Kraken
@@ -15,11 +15,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Seattle Kraken\nClimate Pledge Arena
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-12-anaheim-ducks-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-10-11-anaheim-ducks-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251012T020000Z
 DTEND:20251012T050000Z
 SUMMARY:Anaheim Ducks @ San Jose Sharks
@@ -27,11 +27,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ San Jose Sharks\nSAP Center at San Jose
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-15-pittsburgh-penguins-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-10-14-pittsburgh-penguins-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251015T023000Z
 DTEND:20251015T053000Z
 SUMMARY:Pittsburgh Penguins @ Anaheim Ducks
@@ -39,11 +39,11 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-17-carolina-hurricanes-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-10-16-carolina-hurricanes-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251017T020000Z
 DTEND:20251017T050000Z
 SUMMARY:Carolina Hurricanes @ Anaheim Ducks
@@ -51,7 +51,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -63,11 +63,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-22-anaheim-ducks-vs-nashville-predators@open-sports-cal
+UID:nhl-2025-26-2025-10-21-anaheim-ducks-vs-nashville-predators@open-sports-cal
 DTSTART:20251022T000000Z
 DTEND:20251022T030000Z
 SUMMARY:Anaheim Ducks @ Nashville Predators
@@ -75,7 +75,7 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Nashville Predators\nBridgestone Arena
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -87,7 +87,7 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +99,7 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Tampa Bay Lightning\nBenchmark Internat
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -111,11 +111,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Florida Panthers\nAmerant Bank Arena
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-01-detroit-red-wings-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-10-31-detroit-red-wings-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251101T020000Z
 DTEND:20251101T050000Z
 SUMMARY:Detroit Red Wings @ Anaheim Ducks
@@ -123,11 +123,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-03-new-jersey-devils-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-11-02-new-jersey-devils-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251103T010000Z
 DTEND:20251103T040000Z
 SUMMARY:New Jersey Devils @ Anaheim Ducks
@@ -135,11 +135,11 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-05-florida-panthers-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-11-04-florida-panthers-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251105T030000Z
 DTEND:20251105T060000Z
 SUMMARY:Florida Panthers @ Anaheim Ducks
@@ -147,11 +147,11 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-07-anaheim-ducks-vs-dallas-stars@open-sports-cal
+UID:nhl-2025-26-2025-11-06-anaheim-ducks-vs-dallas-stars@open-sports-cal
 DTSTART:20251107T010000Z
 DTEND:20251107T040000Z
 SUMMARY:Anaheim Ducks @ Dallas Stars
@@ -159,11 +159,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Dallas Stars\nAmerican Airlines Center
 LOCATION:American Airlines Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-09-anaheim-ducks-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-11-08-anaheim-ducks-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251109T030000Z
 DTEND:20251109T060000Z
 SUMMARY:Anaheim Ducks @ Vegas Golden Knights
@@ -171,11 +171,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-10-winnipeg-jets-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-11-09-winnipeg-jets-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251110T030000Z
 DTEND:20251110T060000Z
 SUMMARY:Winnipeg Jets @ Anaheim Ducks
@@ -183,11 +183,11 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-12-anaheim-ducks-vs-colorado-avalanche@open-sports-cal
+UID:nhl-2025-26-2025-11-11-anaheim-ducks-vs-colorado-avalanche@open-sports-cal
 DTSTART:20251112T023000Z
 DTEND:20251112T053000Z
 SUMMARY:Anaheim Ducks @ Colorado Avalanche
@@ -195,11 +195,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-14-anaheim-ducks-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2025-11-13-anaheim-ducks-vs-detroit-red-wings@open-sports-cal
 DTSTART:20251114T000000Z
 DTEND:20251114T030000Z
 SUMMARY:Anaheim Ducks @ Detroit Red Wings
@@ -207,7 +207,7 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Detroit Red Wings\nLittle Caesars Arena
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -219,23 +219,23 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Minnesota Wild\nGrand Casino Arena
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-18-utah-hockey-club-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-11-17-utah-mammoth-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251118T030000Z
 DTEND:20251118T060000Z
-SUMMARY:Utah Hockey Club @ Anaheim Ducks
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Anaheim Ducks\nHonda Center
+SUMMARY:Utah Mammoth @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-20-boston-bruins-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-11-19-boston-bruins-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251120T030000Z
 DTEND:20251120T060000Z
 SUMMARY:Boston Bruins @ Anaheim Ducks
@@ -243,11 +243,11 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-21-ottawa-senators-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-11-20-ottawa-senators-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251121T030000Z
 DTEND:20251121T060000Z
 SUMMARY:Ottawa Senators @ Anaheim Ducks
@@ -255,11 +255,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-23-vegas-golden-knights-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-11-22-vegas-golden-knights-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251123T030000Z
 DTEND:20251123T060000Z
 SUMMARY:Vegas Golden Knights @ Anaheim Ducks
@@ -267,11 +267,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-27-vancouver-canucks-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-11-26-vancouver-canucks-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251127T030000Z
 DTEND:20251127T060000Z
 SUMMARY:Vancouver Canucks @ Anaheim Ducks
@@ -279,7 +279,7 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -291,7 +291,7 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -303,11 +303,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-02-anaheim-ducks-vs-st-louis-blues@open-sports-cal
+UID:nhl-2025-26-2025-12-01-anaheim-ducks-vs-st-louis-blues@open-sports-cal
 DTSTART:20251202T010000Z
 DTEND:20251202T040000Z
 SUMMARY:Anaheim Ducks @ St. Louis Blues
@@ -315,23 +315,23 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ St. Louis Blues\nEnterprise Center
 LOCATION:Enterprise Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-04-utah-hockey-club-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-12-03-utah-mammoth-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251204T030000Z
 DTEND:20251204T060000Z
-SUMMARY:Utah Hockey Club @ Anaheim Ducks
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Anaheim Ducks\nHonda Center
+SUMMARY:Utah Mammoth @ Anaheim Ducks
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-06-washington-capitals-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-12-05-washington-capitals-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251206T030000Z
 DTEND:20251206T060000Z
 SUMMARY:Washington Capitals @ Anaheim Ducks
@@ -339,11 +339,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-08-chicago-blackhawks-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-12-07-chicago-blackhawks-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251208T010000Z
 DTEND:20251208T040000Z
 SUMMARY:Chicago Blackhawks @ Anaheim Ducks
@@ -351,11 +351,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-10-anaheim-ducks-vs-pittsburgh-penguins@open-sports-cal
+UID:nhl-2025-26-2025-12-09-anaheim-ducks-vs-pittsburgh-penguins@open-sports-cal
 DTSTART:20251210T000000Z
 DTEND:20251210T030000Z
 SUMMARY:Anaheim Ducks @ Pittsburgh Penguins
@@ -363,11 +363,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Pittsburgh Penguins\nPPG Paints Arena
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-12-anaheim-ducks-vs-new-york-islanders@open-sports-cal
+UID:nhl-2025-26-2025-12-11-anaheim-ducks-vs-new-york-islanders@open-sports-cal
 DTSTART:20251212T000000Z
 DTEND:20251212T030000Z
 SUMMARY:Anaheim Ducks @ New York Islanders
@@ -375,7 +375,7 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -387,11 +387,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ New Jersey Devils\nPrudential Center
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-16-anaheim-ducks-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2025-12-15-anaheim-ducks-vs-new-york-rangers@open-sports-cal
 DTSTART:20251216T000000Z
 DTEND:20251216T030000Z
 SUMMARY:Anaheim Ducks @ New York Rangers
@@ -399,11 +399,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ New York Rangers\nMadison Square Garden
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-17-anaheim-ducks-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-12-16-anaheim-ducks-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20251217T000000Z
 DTEND:20251217T030000Z
 SUMMARY:Anaheim Ducks @ Columbus Blue Jackets
@@ -411,11 +411,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Columbus Blue Jackets\nNationwide Arena
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-20-dallas-stars-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-12-19-dallas-stars-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251220T030000Z
 DTEND:20251220T060000Z
 SUMMARY:Dallas Stars @ Anaheim Ducks
@@ -423,11 +423,11 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-21-columbus-blue-jackets-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-12-20-columbus-blue-jackets-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251221T030000Z
 DTEND:20251221T060000Z
 SUMMARY:Columbus Blue Jackets @ Anaheim Ducks
@@ -435,11 +435,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-23-seattle-kraken-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-12-22-seattle-kraken-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251223T030000Z
 DTEND:20251223T060000Z
 SUMMARY:Seattle Kraken @ Anaheim Ducks
@@ -447,11 +447,11 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-28-anaheim-ducks-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2025-12-27-anaheim-ducks-vs-los-angeles-kings@open-sports-cal
 DTSTART:20251228T020000Z
 DTEND:20251228T050000Z
 SUMMARY:Anaheim Ducks @ Los Angeles Kings
@@ -459,11 +459,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Los Angeles Kings\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-30-san-jose-sharks-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-12-29-san-jose-sharks-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251230T030000Z
 DTEND:20251230T060000Z
 SUMMARY:San Jose Sharks @ Anaheim Ducks
@@ -471,7 +471,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -483,11 +483,11 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-03-minnesota-wild-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-01-02-minnesota-wild-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260103T033000Z
 DTEND:20260103T063000Z
 SUMMARY:Minnesota Wild @ Anaheim Ducks
@@ -495,11 +495,11 @@ DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-06-anaheim-ducks-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2026-01-05-anaheim-ducks-vs-washington-capitals@open-sports-cal
 DTSTART:20260106T000000Z
 DTEND:20260106T030000Z
 SUMMARY:Anaheim Ducks @ Washington Capitals
@@ -507,11 +507,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Washington Capitals\nCapital One Arena
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-07-anaheim-ducks-vs-philadelphia-flyers@open-sports-cal
+UID:nhl-2025-26-2026-01-06-anaheim-ducks-vs-philadelphia-flyers@open-sports-cal
 DTSTART:20260107T000000Z
 DTEND:20260107T030000Z
 SUMMARY:Anaheim Ducks @ Philadelphia Flyers
@@ -519,11 +519,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Philadelphia Flyers\nXfinity Mobile Are
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-09-anaheim-ducks-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2026-01-08-anaheim-ducks-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20260109T000000Z
 DTEND:20260109T030000Z
 SUMMARY:Anaheim Ducks @ Carolina Hurricanes
@@ -531,11 +531,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-11-anaheim-ducks-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2026-01-10-anaheim-ducks-vs-buffalo-sabres@open-sports-cal
 DTSTART:20260111T000000Z
 DTEND:20260111T030000Z
 SUMMARY:Anaheim Ducks @ Buffalo Sabres
@@ -543,11 +543,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-14-dallas-stars-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-01-13-dallas-stars-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260114T030000Z
 DTEND:20260114T060000Z
 SUMMARY:Dallas Stars @ Anaheim Ducks
@@ -555,11 +555,11 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-17-anaheim-ducks-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2026-01-16-anaheim-ducks-vs-los-angeles-kings@open-sports-cal
 DTSTART:20260117T033000Z
 DTEND:20260117T063000Z
 SUMMARY:Anaheim Ducks @ Los Angeles Kings
@@ -567,11 +567,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Los Angeles Kings\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-18-los-angeles-kings-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-01-17-los-angeles-kings-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260118T030000Z
 DTEND:20260118T060000Z
 SUMMARY:Los Angeles Kings @ Anaheim Ducks
@@ -579,11 +579,11 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-20-new-york-rangers-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-01-19-new-york-rangers-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260120T030000Z
 DTEND:20260120T060000Z
 SUMMARY:New York Rangers @ Anaheim Ducks
@@ -591,11 +591,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-22-anaheim-ducks-vs-colorado-avalanche@open-sports-cal
+UID:nhl-2025-26-2026-01-21-anaheim-ducks-vs-colorado-avalanche@open-sports-cal
 DTSTART:20260122T020000Z
 DTEND:20260122T050000Z
 SUMMARY:Anaheim Ducks @ Colorado Avalanche
@@ -603,11 +603,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-24-anaheim-ducks-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2026-01-23-anaheim-ducks-vs-seattle-kraken@open-sports-cal
 DTSTART:20260124T030000Z
 DTEND:20260124T060000Z
 SUMMARY:Anaheim Ducks @ Seattle Kraken
@@ -615,11 +615,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Seattle Kraken\nClimate Pledge Arena
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-26-anaheim-ducks-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-01-25-anaheim-ducks-vs-calgary-flames@open-sports-cal
 DTSTART:20260126T010000Z
 DTEND:20260126T040000Z
 SUMMARY:Anaheim Ducks @ Calgary Flames
@@ -627,11 +627,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-27-anaheim-ducks-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2026-01-26-anaheim-ducks-vs-edmonton-oilers@open-sports-cal
 DTSTART:20260127T013000Z
 DTEND:20260127T043000Z
 SUMMARY:Anaheim Ducks @ Edmonton Oilers
@@ -639,11 +639,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-30-anaheim-ducks-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-01-29-anaheim-ducks-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260130T030000Z
 DTEND:20260130T060000Z
 SUMMARY:Anaheim Ducks @ Vancouver Canucks
@@ -651,11 +651,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-02-vegas-golden-knights-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-02-01-vegas-golden-knights-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260202T023000Z
 DTEND:20260202T053000Z
 SUMMARY:Vegas Golden Knights @ Anaheim Ducks
@@ -663,11 +663,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-04-seattle-kraken-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-02-03-seattle-kraken-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260204T030000Z
 DTEND:20260204T060000Z
 SUMMARY:Seattle Kraken @ Anaheim Ducks
@@ -675,11 +675,11 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-26-edmonton-oilers-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-02-25-edmonton-oilers-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260226T033000Z
 DTEND:20260226T063000Z
 SUMMARY:Edmonton Oilers @ Anaheim Ducks
@@ -687,11 +687,11 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-28-winnipeg-jets-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-02-27-winnipeg-jets-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260228T030000Z
 DTEND:20260228T060000Z
 SUMMARY:Winnipeg Jets @ Anaheim Ducks
@@ -699,11 +699,11 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-02-calgary-flames-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-03-01-calgary-flames-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260302T010000Z
 DTEND:20260302T040000Z
 SUMMARY:Calgary Flames @ Anaheim Ducks
@@ -711,11 +711,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-04-colorado-avalanche-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-03-03-colorado-avalanche-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260304T030000Z
 DTEND:20260304T060000Z
 SUMMARY:Colorado Avalanche @ Anaheim Ducks
@@ -723,11 +723,11 @@ DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-05-new-york-islanders-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-03-04-new-york-islanders-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260305T030000Z
 DTEND:20260305T060000Z
 SUMMARY:New York Islanders @ Anaheim Ducks
@@ -735,11 +735,11 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-07-montreal-canadiens-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-03-06-montreal-canadiens-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260307T020000Z
 DTEND:20260307T050000Z
 SUMMARY:Montréal Canadiens @ Anaheim Ducks
@@ -747,11 +747,11 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-09-st-louis-blues-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-03-08-st-louis-blues-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260309T010000Z
 DTEND:20260309T040000Z
 SUMMARY:St. Louis Blues @ Anaheim Ducks
@@ -759,11 +759,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-11-anaheim-ducks-vs-winnipeg-jets@open-sports-cal
+UID:nhl-2025-26-2026-03-10-anaheim-ducks-vs-winnipeg-jets@open-sports-cal
 DTSTART:20260311T003000Z
 DTEND:20260311T033000Z
 SUMMARY:Anaheim Ducks @ Winnipeg Jets
@@ -771,7 +771,7 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Winnipeg Jets\nCanada Life Centre
 LOCATION:Canada Life Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Winnipeg
 END:VEVENT
 BEGIN:VEVENT
@@ -783,7 +783,7 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -795,7 +795,7 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -807,11 +807,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-19-philadelphia-flyers-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-03-18-philadelphia-flyers-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260319T020000Z
 DTEND:20260319T050000Z
 SUMMARY:Philadelphia Flyers @ Anaheim Ducks
@@ -819,23 +819,23 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-21-anaheim-ducks-vs-utah-hockey-club@open-sports-cal
+UID:nhl-2025-26-2026-03-20-anaheim-ducks-vs-utah-mammoth@open-sports-cal
 DTSTART:20260321T020000Z
 DTEND:20260321T050000Z
-SUMMARY:Anaheim Ducks @ Utah Hockey Club
-DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Utah Hockey Club\nDelta Center
+SUMMARY:Anaheim Ducks @ Utah Mammoth
+DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Utah Mammoth\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-23-buffalo-sabres-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-03-22-buffalo-sabres-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260323T000000Z
 DTEND:20260323T030000Z
 SUMMARY:Buffalo Sabres @ Anaheim Ducks
@@ -843,11 +843,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-25-anaheim-ducks-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-03-24-anaheim-ducks-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260325T020000Z
 DTEND:20260325T050000Z
 SUMMARY:Anaheim Ducks @ Vancouver Canucks
@@ -855,11 +855,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-27-anaheim-ducks-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-03-26-anaheim-ducks-vs-calgary-flames@open-sports-cal
 DTSTART:20260327T010000Z
 DTEND:20260327T040000Z
 SUMMARY:Anaheim Ducks @ Calgary Flames
@@ -867,8 +867,8 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2026-03-28-anaheim-ducks-vs-edmonton-oilers@open-sports-cal
@@ -879,11 +879,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-31-toronto-maple-leafs-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-03-30-toronto-maple-leafs-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260331T020000Z
 DTEND:20260331T050000Z
 SUMMARY:Toronto Maple Leafs @ Anaheim Ducks
@@ -891,11 +891,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-02-anaheim-ducks-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-04-01-anaheim-ducks-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260402T010000Z
 DTEND:20260402T040000Z
 SUMMARY:Anaheim Ducks @ San Jose Sharks
@@ -903,11 +903,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ San Jose Sharks\nSAP Center at San Jose
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-04-st-louis-blues-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-04-03-st-louis-blues-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260404T020000Z
 DTEND:20260404T050000Z
 SUMMARY:St. Louis Blues @ Anaheim Ducks
@@ -915,11 +915,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-05-calgary-flames-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-04-04-calgary-flames-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260405T020000Z
 DTEND:20260405T050000Z
 SUMMARY:Calgary Flames @ Anaheim Ducks
@@ -927,11 +927,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-08-nashville-predators-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-04-07-nashville-predators-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260408T020000Z
 DTEND:20260408T050000Z
 SUMMARY:Nashville Predators @ Anaheim Ducks
@@ -939,11 +939,11 @@ DESCRIPTION:NHL 2025-26\nNashville Predators @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-10-san-jose-sharks-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-04-09-san-jose-sharks-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260410T020000Z
 DTEND:20260410T050000Z
 SUMMARY:San Jose Sharks @ Anaheim Ducks
@@ -951,11 +951,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-13-vancouver-canucks-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-04-12-vancouver-canucks-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260413T000000Z
 DTEND:20260413T030000Z
 SUMMARY:Vancouver Canucks @ Anaheim Ducks
@@ -963,11 +963,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-15-anaheim-ducks-vs-minnesota-wild@open-sports-cal
+UID:nhl-2025-26-2026-04-14-anaheim-ducks-vs-minnesota-wild@open-sports-cal
 DTSTART:20260415T000000Z
 DTEND:20260415T030000Z
 SUMMARY:Anaheim Ducks @ Minnesota Wild
@@ -975,11 +975,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Minnesota Wild\nGrand Casino Arena
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-17-anaheim-ducks-vs-nashville-predators@open-sports-cal
+UID:nhl-2025-26-2026-04-16-anaheim-ducks-vs-nashville-predators@open-sports-cal
 DTSTART:20260417T000000Z
 DTEND:20260417T030000Z
 SUMMARY:Anaheim Ducks @ Nashville Predators
@@ -987,91 +987,151 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Nashville Predators\nBridgestone Arena
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-playoffs-2026-04-21-anaheim-ducks-vs-edmonton-oilers-g1@open-sports-cal
+UID:nhl-2025-26-playoffs-2026-04-20-anaheim-ducks-vs-edmonton-oilers-g1@open-sports-cal
 DTSTART:20260421T020000Z
 DTEND:20260421T050000Z
 SUMMARY:Anaheim Ducks @ Edmonton Oilers (Game 1)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nAnaheim Ducks @ Edmonton Oilers\nRogers Place
+DESCRIPTION:NHL Playoffs 2025-26\nAnaheim Ducks @ Edmonton Oilers — Game 1\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-playoffs-2026-04-23-anaheim-ducks-vs-edmonton-oilers-g2@open-sports-cal
+UID:nhl-2025-26-playoffs-2026-04-22-anaheim-ducks-vs-edmonton-oilers-g2@open-sports-cal
 DTSTART:20260423T020000Z
 DTEND:20260423T050000Z
 SUMMARY:Anaheim Ducks @ Edmonton Oilers (Game 2)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nAnaheim Ducks @ Edmonton Oilers\nRogers Place
+DESCRIPTION:NHL Playoffs 2025-26\nAnaheim Ducks @ Edmonton Oilers — Game 2\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-playoffs-2026-04-25-edmonton-oilers-vs-anaheim-ducks-g3@open-sports-cal
+UID:nhl-2025-26-playoffs-2026-04-24-edmonton-oilers-vs-anaheim-ducks-g3@open-sports-cal
 DTSTART:20260425T020000Z
 DTEND:20260425T050000Z
 SUMMARY:Edmonton Oilers @ Anaheim Ducks (Game 3)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nEdmonton Oilers @ Anaheim Ducks\nHonda Center
+DESCRIPTION:NHL Playoffs 2025-26\nEdmonton Oilers @ Anaheim Ducks — Game 3\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-playoffs-2026-04-27-edmonton-oilers-vs-anaheim-ducks-g4@open-sports-cal
+UID:nhl-2025-26-playoffs-2026-04-26-edmonton-oilers-vs-anaheim-ducks-g4@open-sports-cal
 DTSTART:20260427T013000Z
 DTEND:20260427T043000Z
 SUMMARY:Edmonton Oilers @ Anaheim Ducks (Game 4)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nEdmonton Oilers @ Anaheim Ducks\nHonda Center
+DESCRIPTION:NHL Playoffs 2025-26\nEdmonton Oilers @ Anaheim Ducks — Game 4\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-playoffs-2026-04-29-anaheim-ducks-vs-edmonton-oilers-g5@open-sports-cal
+UID:nhl-2025-26-playoffs-2026-04-28-anaheim-ducks-vs-edmonton-oilers-g5@open-sports-cal
 DTSTART:20260429T020000Z
 DTEND:20260429T050000Z
 SUMMARY:Anaheim Ducks @ Edmonton Oilers (Game 5)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nAnaheim Ducks @ Edmonton Oilers\nRogers Place
+DESCRIPTION:NHL Playoffs 2025-26\nAnaheim Ducks @ Edmonton Oilers — Game 5\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-playoffs-2026-04-30-edmonton-oilers-vs-anaheim-ducks-g6@open-sports-cal
-DTSTART:20260430T160000Z
-DTEND:20260430T190000Z
+DTSTART:20260501T020000Z
+DTEND:20260501T050000Z
 SUMMARY:Edmonton Oilers @ Anaheim Ducks (Game 6)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nEdmonton Oilers @ Anaheim Ducks\nHonda Center
+DESCRIPTION:NHL Playoffs 2025-26\nEdmonton Oilers @ Anaheim Ducks — Game 6\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-playoffs-2026-05-02-anaheim-ducks-vs-edmonton-oilers-g7@open-sports-cal
-DTSTART:20260502T160000Z
-DTEND:20260502T190000Z
-SUMMARY:Anaheim Ducks @ Edmonton Oilers (Game 7)
-DESCRIPTION:NHL Playoffs 2025-26 — First Round\nAnaheim Ducks @ Edmonton Oilers\nRogers Place
-LOCATION:Rogers Place
+UID:nhl-2025-26-playoffs-2026-05-04-anaheim-ducks-vs-vegas-golden-knights-g1@open-sports-cal
+DTSTART:20260505T013000Z
+DTEND:20260505T043000Z
+SUMMARY:Anaheim Ducks @ Vegas Golden Knights (Game 1)
+DESCRIPTION:NHL Playoffs 2025-26\nAnaheim Ducks @ Vegas Golden Knights — Game 1\nT-Mobile Arena
+LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T022532Z
-X-TIMEZONE:America/Edmonton
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-06-anaheim-ducks-vs-vegas-golden-knights-g2@open-sports-cal
+DTSTART:20260507T013000Z
+DTEND:20260507T043000Z
+SUMMARY:Anaheim Ducks @ Vegas Golden Knights (Game 2)
+DESCRIPTION:NHL Playoffs 2025-26\nAnaheim Ducks @ Vegas Golden Knights — Game 2\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-08-vegas-golden-knights-vs-anaheim-ducks-g3@open-sports-cal
+DTSTART:20260509T013000Z
+DTEND:20260509T043000Z
+SUMMARY:Vegas Golden Knights @ Anaheim Ducks (Game 3)
+DESCRIPTION:NHL Playoffs 2025-26\nVegas Golden Knights @ Anaheim Ducks — Game 3\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-10-vegas-golden-knights-vs-anaheim-ducks-g4@open-sports-cal
+DTSTART:20260511T013000Z
+DTEND:20260511T043000Z
+SUMMARY:Vegas Golden Knights @ Anaheim Ducks (Game 4)
+DESCRIPTION:NHL Playoffs 2025-26\nVegas Golden Knights @ Anaheim Ducks — Game 4\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-12-anaheim-ducks-vs-vegas-golden-knights-g5@open-sports-cal
+DTSTART:20260513T013000Z
+DTEND:20260513T043000Z
+SUMMARY:Anaheim Ducks @ Vegas Golden Knights (Game 5)
+DESCRIPTION:NHL Playoffs 2025-26\nAnaheim Ducks @ Vegas Golden Knights — Game 5\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2025-26-playoffs-2026-05-14-vegas-golden-knights-vs-anaheim-ducks-g6@open-sports-cal
+DTSTART:20260515T013000Z
+DTEND:20260515T043000Z
+SUMMARY:Vegas Golden Knights @ Anaheim Ducks (Game 6)
+DESCRIPTION:NHL Playoffs 2025-26\nVegas Golden Knights @ Anaheim Ducks — Game 6\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

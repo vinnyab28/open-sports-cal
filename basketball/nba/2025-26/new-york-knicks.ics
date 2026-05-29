@@ -920,87 +920,255 @@ DTSTAMP:20260329T233900Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nba-2025-playoffs-2026-04-19-atlanta-hawks-vs-new-york-knicks-g1@open-sports-cal
-DTSTART:20260419T233000Z
-DTEND:20260420T023000Z
+UID:nba-2025-playoffs-2026-04-18-atlanta-hawks-vs-new-york-knicks-g1@open-sports-cal
+DTSTART:20260418T220000Z
+DTEND:20260419T010000Z
 SUMMARY:Atlanta Hawks @ New York Knicks (Game 1)
 DESCRIPTION:NBA Playoffs 2025-26 — First Round\nAtlanta Hawks @ New York Knicks — Game 1\nMadison Square Garden
 LOCATION:Madison Square Garden
 CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T024932Z
+DTSTAMP:20260529T034332Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-playoffs-2026-04-21-atlanta-hawks-vs-new-york-knicks-g2@open-sports-cal
-DTSTART:20260421T233000Z
-DTEND:20260422T023000Z
+DTSTART:20260421T000000Z
+DTEND:20260421T030000Z
 SUMMARY:Atlanta Hawks @ New York Knicks (Game 2)
 DESCRIPTION:NBA Playoffs 2025-26 — First Round\nAtlanta Hawks @ New York Knicks — Game 2\nMadison Square Garden
 LOCATION:Madison Square Garden
 CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T024932Z
+DTSTAMP:20260529T034332Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-playoffs-2026-04-23-new-york-knicks-vs-atlanta-hawks-g3@open-sports-cal
-DTSTART:20260423T000000Z
-DTEND:20260423T030000Z
+DTSTART:20260423T230000Z
+DTEND:20260424T020000Z
 SUMMARY:New York Knicks @ Atlanta Hawks (Game 3)
 DESCRIPTION:NBA Playoffs 2025-26 — First Round\nNew York Knicks @ Atlanta Hawks — Game 3\nState Farm Arena
 LOCATION:State Farm Arena
 CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T024932Z
+DTSTAMP:20260529T034332Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-playoffs-2026-04-25-new-york-knicks-vs-atlanta-hawks-g4@open-sports-cal
-DTSTART:20260425T000000Z
-DTEND:20260425T030000Z
+DTSTART:20260425T220000Z
+DTEND:20260426T010000Z
 SUMMARY:New York Knicks @ Atlanta Hawks (Game 4)
 DESCRIPTION:NBA Playoffs 2025-26 — First Round\nNew York Knicks @ Atlanta Hawks — Game 4\nState Farm Arena
 LOCATION:State Farm Arena
 CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T024932Z
+DTSTAMP:20260529T034332Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nba-2025-playoffs-2026-04-29-new-york-knicks-vs-atlanta-hawks-g5@open-sports-cal
+UID:nba-2025-playoffs-2026-04-29-atlanta-hawks-vs-new-york-knicks-g5@open-sports-cal
 DTSTART:20260429T000000Z
 DTEND:20260429T030000Z
-SUMMARY:New York Knicks @ Atlanta Hawks (Game 5)
-DESCRIPTION:NBA Playoffs 2025-26 — First Round\nNew York Knicks @ Atlanta Hawks — Game 5\nState Farm Arena
-LOCATION:State Farm Arena
-CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
-STATUS:CONFIRMED
-DTSTAMP:20260428T024932Z
-X-TIMEZONE:America/New_York
-END:VEVENT
-BEGIN:VEVENT
-UID:nba-2025-playoffs-2026-05-01-atlanta-hawks-vs-new-york-knicks-g6@open-sports-cal
-DTSTART:20260501T000000Z
-DTEND:20260501T030000Z
-SUMMARY:Atlanta Hawks @ New York Knicks (Game 6)
-DESCRIPTION:NBA Playoffs 2025-26 — First Round\nAtlanta Hawks @ New York Knicks — Game 6\nMadison Square Garden
+SUMMARY:Atlanta Hawks @ New York Knicks (Game 5)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nAtlanta Hawks @ New York Knicks — Game 5\nMadison Square Garden
 LOCATION:Madison Square Garden
 CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T024932Z
+DTSTAMP:20260529T034332Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nba-2025-playoffs-2026-05-03-new-york-knicks-vs-atlanta-hawks-g7@open-sports-cal
-DTSTART:20260503T230000Z
-DTEND:20260504T020000Z
-SUMMARY:New York Knicks @ Atlanta Hawks (Game 7)
-DESCRIPTION:NBA Playoffs 2025-26 — First Round\nNew York Knicks @ Atlanta Hawks — Game 7\nState Farm Arena
+UID:nba-2025-playoffs-2026-04-30-new-york-knicks-vs-atlanta-hawks-g6@open-sports-cal
+DTSTART:20260430T230000Z
+DTEND:20260501T020000Z
+SUMMARY:New York Knicks @ Atlanta Hawks (Game 6)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nNew York Knicks @ Atlanta Hawks — Game 6\nState Farm Arena
 LOCATION:State Farm Arena
 CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T024932Z
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-05-philadelphia-76ers-vs-new-york-knicks-g1@open-sports-cal
+DTSTART:20260505T000000Z
+DTEND:20260505T030000Z
+SUMMARY:Philadelphia 76ers @ New York Knicks (Game 1)
+DESCRIPTION:NBA Playoffs 2025-26 — Conference Semifinals\nPhiladelphia 76ers @ New York Knicks — Game 1\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-06-philadelphia-76ers-vs-new-york-knicks-g2@open-sports-cal
+DTSTART:20260506T230000Z
+DTEND:20260507T020000Z
+SUMMARY:Philadelphia 76ers @ New York Knicks (Game 2)
+DESCRIPTION:NBA Playoffs 2025-26 — Conference Semifinals\nPhiladelphia 76ers @ New York Knicks — Game 2\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-08-new-york-knicks-vs-philadelphia-76ers-g3@open-sports-cal
+DTSTART:20260508T230000Z
+DTEND:20260509T020000Z
+SUMMARY:New York Knicks @ Philadelphia 76ers (Game 3)
+DESCRIPTION:NBA Playoffs 2025-26 — Conference Semifinals\nNew York Knicks @ Philadelphia 76ers — Game 3\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-10-new-york-knicks-vs-philadelphia-76ers-g4@open-sports-cal
+DTSTART:20260510T193000Z
+DTEND:20260510T223000Z
+SUMMARY:New York Knicks @ Philadelphia 76ers (Game 4)
+DESCRIPTION:NBA Playoffs 2025-26 — Conference Semifinals\nNew York Knicks @ Philadelphia 76ers — Game 4\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-20-cleveland-cavaliers-vs-new-york-knicks-g1@open-sports-cal
+DTSTART:20260520T000000Z
+DTEND:20260520T030000Z
+SUMMARY:Cleveland Cavaliers @ New York Knicks (Game 1)
+DESCRIPTION:NBA Playoffs 2025-26 — Conference Finals\nCleveland Cavaliers @ New York Knicks — Game 1\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-22-cleveland-cavaliers-vs-new-york-knicks-g2@open-sports-cal
+DTSTART:20260522T000000Z
+DTEND:20260522T030000Z
+SUMMARY:Cleveland Cavaliers @ New York Knicks (Game 2)
+DESCRIPTION:NBA Playoffs 2025-26 — Conference Finals\nCleveland Cavaliers @ New York Knicks — Game 2\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-24-new-york-knicks-vs-cleveland-cavaliers-g3@open-sports-cal
+DTSTART:20260524T000000Z
+DTEND:20260524T030000Z
+SUMMARY:New York Knicks @ Cleveland Cavaliers (Game 3)
+DESCRIPTION:NBA Playoffs 2025-26 — Conference Finals\nNew York Knicks @ Cleveland Cavaliers — Game 3\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-26-new-york-knicks-vs-cleveland-cavaliers-g4@open-sports-cal
+DTSTART:20260526T000000Z
+DTEND:20260526T030000Z
+SUMMARY:New York Knicks @ Cleveland Cavaliers (Game 4)
+DESCRIPTION:NBA Playoffs 2025-26 — Conference Finals\nNew York Knicks @ Cleveland Cavaliers — Game 4\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-06-04-new-york-knicks-vs-spurs-thunder-g1@open-sports-cal
+DTSTART:20260604T003000Z
+DTEND:20260604T033000Z
+SUMMARY:New York Knicks @ Spurs/Thunder (Game 1)
+DESCRIPTION:NBA Playoffs 2025-26 — NBA Finals\nNew York Knicks @ Spurs/Thunder — Game 1\nTBD
+LOCATION:TBD
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-06-06-new-york-knicks-vs-spurs-thunder-g2@open-sports-cal
+DTSTART:20260606T003000Z
+DTEND:20260606T033000Z
+SUMMARY:New York Knicks @ Spurs/Thunder (Game 2)
+DESCRIPTION:NBA Playoffs 2025-26 — NBA Finals\nNew York Knicks @ Spurs/Thunder — Game 2\nTBD
+LOCATION:TBD
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-06-09-spurs-thunder-vs-new-york-knicks-g3@open-sports-cal
+DTSTART:20260609T003000Z
+DTEND:20260609T033000Z
+SUMMARY:Spurs/Thunder @ New York Knicks (Game 3)
+DESCRIPTION:NBA Playoffs 2025-26 — NBA Finals\nSpurs/Thunder @ New York Knicks — Game 3\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-06-11-spurs-thunder-vs-new-york-knicks-g4@open-sports-cal
+DTSTART:20260611T003000Z
+DTEND:20260611T033000Z
+SUMMARY:Spurs/Thunder @ New York Knicks (Game 4)
+DESCRIPTION:NBA Playoffs 2025-26 — NBA Finals\nSpurs/Thunder @ New York Knicks — Game 4\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-06-14-new-york-knicks-vs-spurs-thunder-g5@open-sports-cal
+DTSTART:20260614T003000Z
+DTEND:20260614T033000Z
+SUMMARY:New York Knicks @ Spurs/Thunder (Game 5)
+DESCRIPTION:NBA Playoffs 2025-26 — NBA Finals\nNew York Knicks @ Spurs/Thunder — Game 5\nTBD
+LOCATION:TBD
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-06-17-spurs-thunder-vs-new-york-knicks-g6@open-sports-cal
+DTSTART:20260617T003000Z
+DTEND:20260617T033000Z
+SUMMARY:Spurs/Thunder @ New York Knicks (Game 6)
+DESCRIPTION:NBA Playoffs 2025-26 — NBA Finals\nSpurs/Thunder @ New York Knicks — Game 6\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-06-20-new-york-knicks-vs-spurs-thunder-g7@open-sports-cal
+DTSTART:20260620T003000Z
+DTEND:20260620T033000Z
+SUMMARY:New York Knicks @ Spurs/Thunder (Game 7)
+DESCRIPTION:NBA Playoffs 2025-26 — NBA Finals\nNew York Knicks @ Spurs/Thunder — Game 7\nTBD
+LOCATION:TBD
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

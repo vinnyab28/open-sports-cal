@@ -15,7 +15,7 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Florida Panthers\nAmerant Bank Are
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +27,7 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -39,23 +39,23 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-14-utah-hockey-club-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-10-13-utah-mammoth-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251014T003000Z
 DTEND:20251014T033000Z
-SUMMARY:Utah Hockey Club @ Chicago Blackhawks
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Chicago Blackhawks\nUnited Center
+SUMMARY:Utah Mammoth @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-16-chicago-blackhawks-vs-st-louis-blues@open-sports-cal
+UID:nhl-2025-26-2025-10-15-chicago-blackhawks-vs-st-louis-blues@open-sports-cal
 DTSTART:20251016T013000Z
 DTEND:20251016T043000Z
 SUMMARY:Chicago Blackhawks @ St. Louis Blues
@@ -63,11 +63,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ St. Louis Blues\nEnterprise Center
 LOCATION:Enterprise Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-18-vancouver-canucks-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-10-17-vancouver-canucks-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251018T003000Z
 DTEND:20251018T033000Z
 SUMMARY:Vancouver Canucks @ Chicago Blackhawks
@@ -75,7 +75,7 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -87,7 +87,7 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +99,7 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Tampa Bay Lightning\nBenchmark Int
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -111,11 +111,11 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-29-ottawa-senators-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-10-28-ottawa-senators-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251029T004500Z
 DTEND:20251029T034500Z
 SUMMARY:Ottawa Senators @ Chicago Blackhawks
@@ -123,11 +123,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-31-chicago-blackhawks-vs-winnipeg-jets@open-sports-cal
+UID:nhl-2025-26-2025-10-30-chicago-blackhawks-vs-winnipeg-jets@open-sports-cal
 DTSTART:20251031T000000Z
 DTEND:20251031T030000Z
 SUMMARY:Chicago Blackhawks @ Winnipeg Jets
@@ -135,11 +135,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Winnipeg Jets\nCanada Life Centre
 LOCATION:Canada Life Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Winnipeg
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-02-chicago-blackhawks-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2025-11-01-chicago-blackhawks-vs-edmonton-oilers@open-sports-cal
 DTSTART:20251102T020000Z
 DTEND:20251102T050000Z
 SUMMARY:Chicago Blackhawks @ Edmonton Oilers
@@ -147,11 +147,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-04-chicago-blackhawks-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2025-11-03-chicago-blackhawks-vs-seattle-kraken@open-sports-cal
 DTSTART:20251104T030000Z
 DTEND:20251104T060000Z
 SUMMARY:Chicago Blackhawks @ Seattle Kraken
@@ -159,11 +159,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Seattle Kraken\nClimate Pledge Are
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-06-chicago-blackhawks-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-11-05-chicago-blackhawks-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251106T030000Z
 DTEND:20251106T060000Z
 SUMMARY:Chicago Blackhawks @ Vancouver Canucks
@@ -171,11 +171,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-08-chicago-blackhawks-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-11-07-chicago-blackhawks-vs-calgary-flames@open-sports-cal
 DTSTART:20251108T020000Z
 DTEND:20251108T050000Z
 SUMMARY:Chicago Blackhawks @ Calgary Flames
@@ -183,8 +183,8 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Calgary Flames\nScotiabank Saddled
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2025-11-09-chicago-blackhawks-vs-detroit-red-wings@open-sports-cal
@@ -195,11 +195,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Detroit Red Wings\nLittle Caesars 
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-13-new-jersey-devils-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-11-12-new-jersey-devils-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251113T023000Z
 DTEND:20251113T053000Z
 SUMMARY:New Jersey Devils @ Chicago Blackhawks
@@ -207,11 +207,11 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-16-toronto-maple-leafs-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-11-15-toronto-maple-leafs-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251116T000000Z
 DTEND:20251116T030000Z
 SUMMARY:Toronto Maple Leafs @ Chicago Blackhawks
@@ -219,11 +219,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-19-calgary-flames-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-11-18-calgary-flames-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251119T013000Z
 DTEND:20251119T043000Z
 SUMMARY:Calgary Flames @ Chicago Blackhawks
@@ -231,11 +231,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-21-seattle-kraken-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-11-20-seattle-kraken-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251121T010000Z
 DTEND:20251121T040000Z
 SUMMARY:Seattle Kraken @ Chicago Blackhawks
@@ -243,11 +243,11 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-22-chicago-blackhawks-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2025-11-21-chicago-blackhawks-vs-buffalo-sabres@open-sports-cal
 DTSTART:20251122T000000Z
 DTEND:20251122T030000Z
 SUMMARY:Chicago Blackhawks @ Buffalo Sabres
@@ -255,11 +255,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-24-colorado-avalanche-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-11-23-colorado-avalanche-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251124T000000Z
 DTEND:20251124T030000Z
 SUMMARY:Colorado Avalanche @ Chicago Blackhawks
@@ -267,11 +267,11 @@ DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-27-minnesota-wild-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-11-26-minnesota-wild-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251127T013000Z
 DTEND:20251127T043000Z
 SUMMARY:Minnesota Wild @ Chicago Blackhawks
@@ -279,11 +279,11 @@ DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-29-nashville-predators-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-11-28-nashville-predators-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251129T010000Z
 DTEND:20251129T040000Z
 SUMMARY:Nashville Predators @ Chicago Blackhawks
@@ -291,7 +291,7 @@ DESCRIPTION:NHL 2025-26\nNashville Predators @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -303,11 +303,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-03-chicago-blackhawks-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-12-02-chicago-blackhawks-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251203T030000Z
 DTEND:20251203T060000Z
 SUMMARY:Chicago Blackhawks @ Vegas Golden Knights
@@ -315,11 +315,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Vegas Golden Knights\nT-Mobile Are
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-05-chicago-blackhawks-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2025-12-04-chicago-blackhawks-vs-los-angeles-kings@open-sports-cal
 DTSTART:20251205T030000Z
 DTEND:20251205T060000Z
 SUMMARY:Chicago Blackhawks @ Los Angeles Kings
@@ -327,11 +327,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Los Angeles Kings\nCrypto.com Aren
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-07-chicago-blackhawks-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2025-12-06-chicago-blackhawks-vs-los-angeles-kings@open-sports-cal
 DTSTART:20251207T020000Z
 DTEND:20251207T050000Z
 SUMMARY:Chicago Blackhawks @ Los Angeles Kings
@@ -339,11 +339,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Los Angeles Kings\nCrypto.com Aren
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-08-chicago-blackhawks-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-12-07-chicago-blackhawks-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251208T010000Z
 DTEND:20251208T040000Z
 SUMMARY:Chicago Blackhawks @ Anaheim Ducks
@@ -351,11 +351,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-11-new-york-rangers-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-12-10-new-york-rangers-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251211T003000Z
 DTEND:20251211T033000Z
 SUMMARY:New York Rangers @ Chicago Blackhawks
@@ -363,11 +363,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-13-chicago-blackhawks-vs-st-louis-blues@open-sports-cal
+UID:nhl-2025-26-2025-12-12-chicago-blackhawks-vs-st-louis-blues@open-sports-cal
 DTSTART:20251213T010000Z
 DTEND:20251213T040000Z
 SUMMARY:Chicago Blackhawks @ St. Louis Blues
@@ -375,11 +375,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ St. Louis Blues\nEnterprise Center
 LOCATION:Enterprise Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-14-detroit-red-wings-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-12-13-detroit-red-wings-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251214T010000Z
 DTEND:20251214T040000Z
 SUMMARY:Detroit Red Wings @ Chicago Blackhawks
@@ -387,11 +387,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-17-chicago-blackhawks-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-12-16-chicago-blackhawks-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251217T000000Z
 DTEND:20251217T030000Z
 SUMMARY:Chicago Blackhawks @ Toronto Maple Leafs
@@ -399,11 +399,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Toronto Maple Leafs\nScotiabank Ar
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-19-chicago-blackhawks-vs-montreal-canadiens@open-sports-cal
+UID:nhl-2025-26-2025-12-18-chicago-blackhawks-vs-montreal-canadiens@open-sports-cal
 DTSTART:20251219T000000Z
 DTEND:20251219T030000Z
 SUMMARY:Chicago Blackhawks @ Montréal Canadiens
@@ -411,8 +411,8 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2025-12-20-chicago-blackhawks-vs-ottawa-senators@open-sports-cal
@@ -423,11 +423,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Ottawa Senators\nCanadian Tire Cen
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-24-philadelphia-flyers-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-12-23-philadelphia-flyers-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251224T020000Z
 DTEND:20251224T050000Z
 SUMMARY:Philadelphia Flyers @ Chicago Blackhawks
@@ -435,11 +435,11 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-28-chicago-blackhawks-vs-dallas-stars@open-sports-cal
+UID:nhl-2025-26-2025-12-27-chicago-blackhawks-vs-dallas-stars@open-sports-cal
 DTSTART:20251228T010000Z
 DTEND:20251228T040000Z
 SUMMARY:Chicago Blackhawks @ Dallas Stars
@@ -447,11 +447,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Dallas Stars\nAmerican Airlines Ce
 LOCATION:American Airlines Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-29-pittsburgh-penguins-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-12-28-pittsburgh-penguins-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251229T000000Z
 DTEND:20251229T030000Z
 SUMMARY:Pittsburgh Penguins @ Chicago Blackhawks
@@ -459,11 +459,11 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-31-new-york-islanders-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-12-30-new-york-islanders-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251231T013000Z
 DTEND:20251231T043000Z
 SUMMARY:New York Islanders @ Chicago Blackhawks
@@ -471,11 +471,11 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-02-dallas-stars-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-01-01-dallas-stars-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260102T013000Z
 DTEND:20260102T043000Z
 SUMMARY:Dallas Stars @ Chicago Blackhawks
@@ -483,11 +483,11 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-04-chicago-blackhawks-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2026-01-03-chicago-blackhawks-vs-washington-capitals@open-sports-cal
 DTSTART:20260104T000000Z
 DTEND:20260104T030000Z
 SUMMARY:Chicago Blackhawks @ Washington Capitals
@@ -495,11 +495,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Washington Capitals\nCapital One A
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-05-vegas-golden-knights-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-01-04-vegas-golden-knights-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260105T000000Z
 DTEND:20260105T030000Z
 SUMMARY:Vegas Golden Knights @ Chicago Blackhawks
@@ -507,11 +507,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Chicago Blackhawks\nUnited Cente
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-08-st-louis-blues-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-01-07-st-louis-blues-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260108T023000Z
 DTEND:20260108T053000Z
 SUMMARY:St. Louis Blues @ Chicago Blackhawks
@@ -519,11 +519,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-10-washington-capitals-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-01-09-washington-capitals-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260110T010000Z
 DTEND:20260110T040000Z
 SUMMARY:Washington Capitals @ Chicago Blackhawks
@@ -531,11 +531,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-11-chicago-blackhawks-vs-nashville-predators@open-sports-cal
+UID:nhl-2025-26-2026-01-10-chicago-blackhawks-vs-nashville-predators@open-sports-cal
 DTSTART:20260111T010000Z
 DTEND:20260111T040000Z
 SUMMARY:Chicago Blackhawks @ Nashville Predators
@@ -543,11 +543,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Nashville Predators\nBridgestone A
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-13-edmonton-oilers-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-01-12-edmonton-oilers-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260113T013000Z
 DTEND:20260113T043000Z
 SUMMARY:Edmonton Oilers @ Chicago Blackhawks
@@ -555,11 +555,11 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-16-calgary-flames-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-01-15-calgary-flames-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260116T013000Z
 DTEND:20260116T043000Z
 SUMMARY:Calgary Flames @ Chicago Blackhawks
@@ -567,11 +567,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-18-boston-bruins-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-01-17-boston-bruins-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260118T010000Z
 DTEND:20260118T040000Z
 SUMMARY:Boston Bruins @ Chicago Blackhawks
@@ -579,11 +579,11 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-20-winnipeg-jets-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-01-19-winnipeg-jets-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260120T013000Z
 DTEND:20260120T043000Z
 SUMMARY:Winnipeg Jets @ Chicago Blackhawks
@@ -591,11 +591,11 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-23-chicago-blackhawks-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2026-01-22-chicago-blackhawks-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20260123T000000Z
 DTEND:20260123T030000Z
 SUMMARY:Chicago Blackhawks @ Carolina Hurricanes
@@ -603,11 +603,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-24-tampa-bay-lightning-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-01-23-tampa-bay-lightning-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260124T000000Z
 DTEND:20260124T030000Z
 SUMMARY:Tampa Bay Lightning @ Chicago Blackhawks
@@ -615,11 +615,11 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-26-florida-panthers-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-01-25-florida-panthers-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260126T000000Z
 DTEND:20260126T030000Z
 SUMMARY:Florida Panthers @ Chicago Blackhawks
@@ -627,11 +627,11 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-28-chicago-blackhawks-vs-minnesota-wild@open-sports-cal
+UID:nhl-2025-26-2026-01-27-chicago-blackhawks-vs-minnesota-wild@open-sports-cal
 DTSTART:20260128T010000Z
 DTEND:20260128T040000Z
 SUMMARY:Chicago Blackhawks @ Minnesota Wild
@@ -639,11 +639,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Minnesota Wild\nGrand Casino Arena
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-30-chicago-blackhawks-vs-pittsburgh-penguins@open-sports-cal
+UID:nhl-2025-26-2026-01-29-chicago-blackhawks-vs-pittsburgh-penguins@open-sports-cal
 DTSTART:20260130T000000Z
 DTEND:20260130T030000Z
 SUMMARY:Chicago Blackhawks @ Pittsburgh Penguins
@@ -651,11 +651,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Pittsburgh Penguins\nPPG Paints Ar
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-31-columbus-blue-jackets-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-01-30-columbus-blue-jackets-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260131T013000Z
 DTEND:20260131T043000Z
 SUMMARY:Columbus Blue Jackets @ Chicago Blackhawks
@@ -663,11 +663,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Chicago Blackhawks\nUnited Cent
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-03-san-jose-sharks-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-02-02-san-jose-sharks-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260203T013000Z
 DTEND:20260203T043000Z
 SUMMARY:San Jose Sharks @ Chicago Blackhawks
@@ -675,11 +675,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-05-chicago-blackhawks-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2026-02-04-chicago-blackhawks-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20260205T000000Z
 DTEND:20260205T030000Z
 SUMMARY:Chicago Blackhawks @ Columbus Blue Jackets
@@ -687,11 +687,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Columbus Blue Jackets\nNationwide 
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-27-chicago-blackhawks-vs-nashville-predators@open-sports-cal
+UID:nhl-2025-26-2026-02-26-chicago-blackhawks-vs-nashville-predators@open-sports-cal
 DTSTART:20260227T010000Z
 DTEND:20260227T040000Z
 SUMMARY:Chicago Blackhawks @ Nashville Predators
@@ -699,7 +699,7 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Nashville Predators\nBridgestone A
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -711,23 +711,23 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-01-chicago-blackhawks-vs-utah-hockey-club@open-sports-cal
+UID:nhl-2025-26-2026-03-01-chicago-blackhawks-vs-utah-mammoth@open-sports-cal
 DTSTART:20260301T210000Z
 DTEND:20260302T000000Z
-SUMMARY:Chicago Blackhawks @ Utah Hockey Club
-DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Utah Hockey Club\nDelta Center
+SUMMARY:Chicago Blackhawks @ Utah Mammoth
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Utah Mammoth\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-04-chicago-blackhawks-vs-winnipeg-jets@open-sports-cal
+UID:nhl-2025-26-2026-03-03-chicago-blackhawks-vs-winnipeg-jets@open-sports-cal
 DTSTART:20260304T010000Z
 DTEND:20260304T040000Z
 SUMMARY:Chicago Blackhawks @ Winnipeg Jets
@@ -735,11 +735,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Winnipeg Jets\nCanada Life Centre
 LOCATION:Canada Life Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Winnipeg
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-07-vancouver-canucks-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-03-06-vancouver-canucks-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260307T013000Z
 DTEND:20260307T043000Z
 SUMMARY:Vancouver Canucks @ Chicago Blackhawks
@@ -747,7 +747,7 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -759,35 +759,35 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Dallas Stars\nAmerican Airlines Ce
 LOCATION:American Airlines Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-10-utah-hockey-club-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-03-09-utah-mammoth-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260310T003000Z
 DTEND:20260310T033000Z
-SUMMARY:Utah Hockey Club @ Chicago Blackhawks
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Chicago Blackhawks\nUnited Center
+SUMMARY:Utah Mammoth @ Chicago Blackhawks
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-13-chicago-blackhawks-vs-utah-hockey-club@open-sports-cal
+UID:nhl-2025-26-2026-03-12-chicago-blackhawks-vs-utah-mammoth@open-sports-cal
 DTSTART:20260313T010000Z
 DTEND:20260313T040000Z
-SUMMARY:Chicago Blackhawks @ Utah Hockey Club
-DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Utah Hockey Club\nDelta Center
+SUMMARY:Chicago Blackhawks @ Utah Mammoth
+DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Utah Mammoth\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-15-chicago-blackhawks-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-03-14-chicago-blackhawks-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260315T020000Z
 DTEND:20260315T050000Z
 SUMMARY:Chicago Blackhawks @ Vegas Golden Knights
@@ -795,7 +795,7 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Vegas Golden Knights\nT-Mobile Are
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -807,7 +807,7 @@ DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -819,11 +819,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Minnesota Wild\nGrand Casino Arena
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-21-colorado-avalanche-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-03-20-colorado-avalanche-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260321T003000Z
 DTEND:20260321T033000Z
 SUMMARY:Colorado Avalanche @ Chicago Blackhawks
@@ -831,7 +831,7 @@ DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -843,7 +843,7 @@ DESCRIPTION:NHL 2025-26\nNashville Predators @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -855,7 +855,7 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -867,7 +867,7 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Philadelphia Flyers\nXfinity Mobil
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -879,7 +879,7 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ New York Rangers\nMadison Square G
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -891,11 +891,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ New Jersey Devils\nPrudential Cent
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-01-winnipeg-jets-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-03-31-winnipeg-jets-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260401T003000Z
 DTEND:20260401T033000Z
 SUMMARY:Winnipeg Jets @ Chicago Blackhawks
@@ -903,11 +903,11 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-03-chicago-blackhawks-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2026-04-02-chicago-blackhawks-vs-edmonton-oilers@open-sports-cal
 DTSTART:20260403T010000Z
 DTEND:20260403T040000Z
 SUMMARY:Chicago Blackhawks @ Edmonton Oilers
@@ -915,11 +915,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-05-chicago-blackhawks-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2026-04-04-chicago-blackhawks-vs-seattle-kraken@open-sports-cal
 DTSTART:20260405T020000Z
 DTEND:20260405T050000Z
 SUMMARY:Chicago Blackhawks @ Seattle Kraken
@@ -927,11 +927,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Seattle Kraken\nClimate Pledge Are
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-07-chicago-blackhawks-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-04-06-chicago-blackhawks-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260407T020000Z
 DTEND:20260407T050000Z
 SUMMARY:Chicago Blackhawks @ San Jose Sharks
@@ -939,11 +939,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ San Jose Sharks\nSAP Center at San
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-10-carolina-hurricanes-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-04-09-carolina-hurricanes-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260410T003000Z
 DTEND:20260410T033000Z
 SUMMARY:Carolina Hurricanes @ Chicago Blackhawks
@@ -951,7 +951,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -963,11 +963,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-14-buffalo-sabres-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-04-13-buffalo-sabres-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260414T003000Z
 DTEND:20260414T033000Z
 SUMMARY:Buffalo Sabres @ Chicago Blackhawks
@@ -975,11 +975,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-16-san-jose-sharks-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-04-15-san-jose-sharks-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260416T003000Z
 DTEND:20260416T033000Z
 SUMMARY:San Jose Sharks @ Chicago Blackhawks
@@ -987,7 +987,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

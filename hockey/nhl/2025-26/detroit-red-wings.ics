@@ -15,7 +15,7 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +27,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -39,7 +39,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Toronto Maple Leafs\nScotiabank Are
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -51,7 +51,7 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Detroit Red Wings\nLittle Caesars Ar
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -63,7 +63,7 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Detroit Red Wings\nLittle Caesars Are
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -87,7 +87,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +99,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -111,11 +111,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Detroit Red Wings\nLittle Caesars Are
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-29-detroit-red-wings-vs-st-louis-blues@open-sports-cal
+UID:nhl-2025-26-2025-10-28-detroit-red-wings-vs-st-louis-blues@open-sports-cal
 DTSTART:20251029T001500Z
 DTEND:20251029T031500Z
 SUMMARY:Detroit Red Wings @ St. Louis Blues
@@ -123,11 +123,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ St. Louis Blues\nEnterprise Center
 LOCATION:Enterprise Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-31-detroit-red-wings-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2025-10-30-detroit-red-wings-vs-los-angeles-kings@open-sports-cal
 DTSTART:20251031T023000Z
 DTEND:20251031T053000Z
 SUMMARY:Detroit Red Wings @ Los Angeles Kings
@@ -135,11 +135,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Los Angeles Kings\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-01-detroit-red-wings-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-10-31-detroit-red-wings-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251101T020000Z
 DTEND:20251101T050000Z
 SUMMARY:Detroit Red Wings @ Anaheim Ducks
@@ -147,11 +147,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-03-detroit-red-wings-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-11-02-detroit-red-wings-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251103T010000Z
 DTEND:20251103T040000Z
 SUMMARY:Detroit Red Wings @ San Jose Sharks
@@ -159,11 +159,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ San Jose Sharks\nSAP Center at San 
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-05-detroit-red-wings-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-11-04-detroit-red-wings-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251105T030000Z
 DTEND:20251105T060000Z
 SUMMARY:Detroit Red Wings @ Vegas Golden Knights
@@ -171,11 +171,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Vegas Golden Knights\nT-Mobile Aren
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-08-new-york-rangers-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2025-11-07-new-york-rangers-vs-detroit-red-wings@open-sports-cal
 DTSTART:20251108T000000Z
 DTEND:20251108T030000Z
 SUMMARY:New York Rangers @ Detroit Red Wings
@@ -183,7 +183,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Detroit Red Wings\nLittle Caesars Ar
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -195,11 +195,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Detroit Red Wings\nLittle Caesars 
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-14-anaheim-ducks-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2025-11-13-anaheim-ducks-vs-detroit-red-wings@open-sports-cal
 DTSTART:20251114T000000Z
 DTEND:20251114T030000Z
 SUMMARY:Anaheim Ducks @ Detroit Red Wings
@@ -207,11 +207,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Detroit Red Wings\nLittle Caesars Arena
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-16-buffalo-sabres-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2025-11-15-buffalo-sabres-vs-detroit-red-wings@open-sports-cal
 DTSTART:20251116T000000Z
 DTEND:20251116T030000Z
 SUMMARY:Buffalo Sabres @ Detroit Red Wings
@@ -219,11 +219,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Detroit Red Wings\nLittle Caesars Aren
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-17-detroit-red-wings-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2025-11-16-detroit-red-wings-vs-new-york-rangers@open-sports-cal
 DTSTART:20251117T000000Z
 DTEND:20251117T030000Z
 SUMMARY:Detroit Red Wings @ New York Rangers
@@ -231,11 +231,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ New York Rangers\nMadison Square Ga
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-19-seattle-kraken-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2025-11-18-seattle-kraken-vs-detroit-red-wings@open-sports-cal
 DTSTART:20251119T000000Z
 DTEND:20251119T030000Z
 SUMMARY:Seattle Kraken @ Detroit Red Wings
@@ -243,11 +243,11 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Detroit Red Wings\nLittle Caesars Aren
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-21-new-york-islanders-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2025-11-20-new-york-islanders-vs-detroit-red-wings@open-sports-cal
 DTSTART:20251121T000000Z
 DTEND:20251121T030000Z
 SUMMARY:New York Islanders @ Detroit Red Wings
@@ -255,7 +255,7 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Detroit Red Wings\nLittle Caesars 
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -267,11 +267,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Detroit Red Wings\nLittle Caesa
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-25-detroit-red-wings-vs-new-jersey-devils@open-sports-cal
+UID:nhl-2025-26-2025-11-24-detroit-red-wings-vs-new-jersey-devils@open-sports-cal
 DTSTART:20251125T000000Z
 DTEND:20251125T030000Z
 SUMMARY:Detroit Red Wings @ New Jersey Devils
@@ -279,11 +279,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ New Jersey Devils\nPrudential Cente
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-27-nashville-predators-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2025-11-26-nashville-predators-vs-detroit-red-wings@open-sports-cal
 DTSTART:20251127T000000Z
 DTEND:20251127T030000Z
 SUMMARY:Nashville Predators @ Detroit Red Wings
@@ -291,7 +291,7 @@ DESCRIPTION:NHL 2025-26\nNashville Predators @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -303,11 +303,11 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-30-detroit-red-wings-vs-boston-bruins@open-sports-cal
+UID:nhl-2025-26-2025-11-29-detroit-red-wings-vs-boston-bruins@open-sports-cal
 DTSTART:20251130T000000Z
 DTEND:20251130T030000Z
 SUMMARY:Detroit Red Wings @ Boston Bruins
@@ -315,11 +315,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-03-boston-bruins-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2025-12-02-boston-bruins-vs-detroit-red-wings@open-sports-cal
 DTSTART:20251203T000000Z
 DTEND:20251203T030000Z
 SUMMARY:Boston Bruins @ Detroit Red Wings
@@ -327,11 +327,11 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Detroit Red Wings\nLittle Caesars Arena
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-05-detroit-red-wings-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-12-04-detroit-red-wings-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20251205T003000Z
 DTEND:20251205T033000Z
 SUMMARY:Detroit Red Wings @ Columbus Blue Jackets
@@ -339,11 +339,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Columbus Blue Jackets\nNationwide A
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-07-detroit-red-wings-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2025-12-06-detroit-red-wings-vs-seattle-kraken@open-sports-cal
 DTSTART:20251207T030000Z
 DTEND:20251207T060000Z
 SUMMARY:Detroit Red Wings @ Seattle Kraken
@@ -351,11 +351,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Seattle Kraken\nClimate Pledge Aren
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-09-detroit-red-wings-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-12-08-detroit-red-wings-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251209T030000Z
 DTEND:20251209T060000Z
 SUMMARY:Detroit Red Wings @ Vancouver Canucks
@@ -363,11 +363,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-11-detroit-red-wings-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-12-10-detroit-red-wings-vs-calgary-flames@open-sports-cal
 DTSTART:20251211T013000Z
 DTEND:20251211T043000Z
 SUMMARY:Detroit Red Wings @ Calgary Flames
@@ -375,11 +375,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Calgary Flames\nScotiabank Saddledo
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-12-detroit-red-wings-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2025-12-11-detroit-red-wings-vs-edmonton-oilers@open-sports-cal
 DTSTART:20251212T020000Z
 DTEND:20251212T050000Z
 SUMMARY:Detroit Red Wings @ Edmonton Oilers
@@ -387,11 +387,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-14-detroit-red-wings-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-12-13-detroit-red-wings-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251214T010000Z
 DTEND:20251214T040000Z
 SUMMARY:Detroit Red Wings @ Chicago Blackhawks
@@ -399,11 +399,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-17-new-york-islanders-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2025-12-16-new-york-islanders-vs-detroit-red-wings@open-sports-cal
 DTSTART:20251217T000000Z
 DTEND:20251217T030000Z
 SUMMARY:New York Islanders @ Detroit Red Wings
@@ -411,19 +411,19 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Detroit Red Wings\nLittle Caesars 
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-18-utah-hockey-club-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2025-12-17-utah-mammoth-vs-detroit-red-wings@open-sports-cal
 DTSTART:20251218T003000Z
 DTEND:20251218T033000Z
-SUMMARY:Utah Hockey Club @ Detroit Red Wings
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Detroit Red Wings\nLittle Caesars Arena
+SUMMARY:Utah Mammoth @ Detroit Red Wings
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ Detroit Red Wings\nLittle Caesars Arena
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -435,7 +435,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Washington Capitals\nCapital One Ar
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -447,7 +447,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -459,11 +459,11 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ Detroit Red Wings\nLittle Caesars Arena
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-28-detroit-red-wings-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-12-27-detroit-red-wings-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251228T000000Z
 DTEND:20251228T030000Z
 SUMMARY:Detroit Red Wings @ Carolina Hurricanes
@@ -471,11 +471,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-29-toronto-maple-leafs-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2025-12-28-toronto-maple-leafs-vs-detroit-red-wings@open-sports-cal
 DTSTART:20251229T000000Z
 DTEND:20251229T030000Z
 SUMMARY:Toronto Maple Leafs @ Detroit Red Wings
@@ -483,7 +483,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -495,11 +495,11 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Detroit Red Wings\nLittle Caesars Arena
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-02-detroit-red-wings-vs-pittsburgh-penguins@open-sports-cal
+UID:nhl-2025-26-2026-01-01-detroit-red-wings-vs-pittsburgh-penguins@open-sports-cal
 DTSTART:20260102T000000Z
 DTEND:20260102T030000Z
 SUMMARY:Detroit Red Wings @ Pittsburgh Penguins
@@ -507,7 +507,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Pittsburgh Penguins\nPPG Paints Are
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -519,11 +519,11 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-06-detroit-red-wings-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2026-01-05-detroit-red-wings-vs-ottawa-senators@open-sports-cal
 DTSTART:20260106T003000Z
 DTEND:20260106T033000Z
 SUMMARY:Detroit Red Wings @ Ottawa Senators
@@ -531,11 +531,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Ottawa Senators\nCanadian Tire Cent
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-09-vancouver-canucks-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2026-01-08-vancouver-canucks-vs-detroit-red-wings@open-sports-cal
 DTSTART:20260109T000000Z
 DTEND:20260109T030000Z
 SUMMARY:Vancouver Canucks @ Detroit Red Wings
@@ -543,11 +543,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Detroit Red Wings\nLittle Caesars A
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-11-detroit-red-wings-vs-montreal-canadiens@open-sports-cal
+UID:nhl-2025-26-2026-01-10-detroit-red-wings-vs-montreal-canadiens@open-sports-cal
 DTSTART:20260111T000000Z
 DTEND:20260111T030000Z
 SUMMARY:Detroit Red Wings @ Montréal Canadiens
@@ -555,11 +555,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-13-carolina-hurricanes-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2026-01-12-carolina-hurricanes-vs-detroit-red-wings@open-sports-cal
 DTSTART:20260113T000000Z
 DTEND:20260113T030000Z
 SUMMARY:Carolina Hurricanes @ Detroit Red Wings
@@ -567,11 +567,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-14-detroit-red-wings-vs-boston-bruins@open-sports-cal
+UID:nhl-2025-26-2026-01-13-detroit-red-wings-vs-boston-bruins@open-sports-cal
 DTSTART:20260114T003000Z
 DTEND:20260114T033000Z
 SUMMARY:Detroit Red Wings @ Boston Bruins
@@ -579,11 +579,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-17-san-jose-sharks-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2026-01-16-san-jose-sharks-vs-detroit-red-wings@open-sports-cal
 DTSTART:20260117T000000Z
 DTEND:20260117T030000Z
 SUMMARY:San Jose Sharks @ Detroit Red Wings
@@ -591,7 +591,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Detroit Red Wings\nLittle Caesars Are
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -603,11 +603,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Detroit Red Wings\nLittle Caesars Are
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-22-detroit-red-wings-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2026-01-21-detroit-red-wings-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20260122T000000Z
 DTEND:20260122T030000Z
 SUMMARY:Detroit Red Wings @ Toronto Maple Leafs
@@ -615,11 +615,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Toronto Maple Leafs\nScotiabank Are
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-23-detroit-red-wings-vs-minnesota-wild@open-sports-cal
+UID:nhl-2025-26-2026-01-22-detroit-red-wings-vs-minnesota-wild@open-sports-cal
 DTSTART:20260123T023000Z
 DTEND:20260123T053000Z
 SUMMARY:Detroit Red Wings @ Minnesota Wild
@@ -627,11 +627,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Minnesota Wild\nGrand Casino Arena
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-25-detroit-red-wings-vs-winnipeg-jets@open-sports-cal
+UID:nhl-2025-26-2026-01-24-detroit-red-wings-vs-winnipeg-jets@open-sports-cal
 DTSTART:20260125T000000Z
 DTEND:20260125T030000Z
 SUMMARY:Detroit Red Wings @ Winnipeg Jets
@@ -639,11 +639,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Winnipeg Jets\nCanada Life Centre
 LOCATION:Canada Life Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Winnipeg
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-28-los-angeles-kings-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2026-01-27-los-angeles-kings-vs-detroit-red-wings@open-sports-cal
 DTSTART:20260128T000000Z
 DTEND:20260128T030000Z
 SUMMARY:Los Angeles Kings @ Detroit Red Wings
@@ -651,11 +651,11 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Detroit Red Wings\nLittle Caesars A
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-30-washington-capitals-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2026-01-29-washington-capitals-vs-detroit-red-wings@open-sports-cal
 DTSTART:20260130T003000Z
 DTEND:20260130T033000Z
 SUMMARY:Washington Capitals @ Detroit Red Wings
@@ -663,7 +663,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -675,11 +675,11 @@ DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Detroit Red Wings\nLittle Caesars 
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-03-detroit-red-wings-vs-colorado-avalanche@open-sports-cal
+UID:nhl-2025-26-2026-02-02-detroit-red-wings-vs-colorado-avalanche@open-sports-cal
 DTSTART:20260203T020000Z
 DTEND:20260203T050000Z
 SUMMARY:Detroit Red Wings @ Colorado Avalanche
@@ -687,23 +687,23 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-05-detroit-red-wings-vs-utah-hockey-club@open-sports-cal
+UID:nhl-2025-26-2026-02-04-detroit-red-wings-vs-utah-mammoth@open-sports-cal
 DTSTART:20260205T020000Z
 DTEND:20260205T050000Z
-SUMMARY:Detroit Red Wings @ Utah Hockey Club
-DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Utah Hockey Club\nDelta Center
+SUMMARY:Detroit Red Wings @ Utah Mammoth
+DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Utah Mammoth\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-27-detroit-red-wings-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2026-02-26-detroit-red-wings-vs-ottawa-senators@open-sports-cal
 DTSTART:20260227T000000Z
 DTEND:20260227T030000Z
 SUMMARY:Detroit Red Wings @ Ottawa Senators
@@ -711,11 +711,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Ottawa Senators\nCanadian Tire Cent
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-01-detroit-red-wings-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2026-02-28-detroit-red-wings-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20260301T000000Z
 DTEND:20260301T030000Z
 SUMMARY:Detroit Red Wings @ Carolina Hurricanes
@@ -723,7 +723,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -735,11 +735,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Nashville Predators\nBridgestone Ar
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-05-vegas-golden-knights-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2026-03-04-vegas-golden-knights-vs-detroit-red-wings@open-sports-cal
 DTSTART:20260305T000000Z
 DTEND:20260305T030000Z
 SUMMARY:Vegas Golden Knights @ Detroit Red Wings
@@ -747,11 +747,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Detroit Red Wings\nLittle Caesar
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-07-florida-panthers-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2026-03-06-florida-panthers-vs-detroit-red-wings@open-sports-cal
 DTSTART:20260307T000000Z
 DTEND:20260307T030000Z
 SUMMARY:Florida Panthers @ Detroit Red Wings
@@ -759,7 +759,7 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Detroit Red Wings\nLittle Caesars Ar
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -771,7 +771,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ New Jersey Devils\nPrudential Cente
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -783,7 +783,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Florida Panthers\nAmerant Bank Aren
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -795,11 +795,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Tampa Bay Lightning\nBenchmark Inte
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-15-detroit-red-wings-vs-dallas-stars@open-sports-cal
+UID:nhl-2025-26-2026-03-14-detroit-red-wings-vs-dallas-stars@open-sports-cal
 DTSTART:20260315T000000Z
 DTEND:20260315T030000Z
 SUMMARY:Detroit Red Wings @ Dallas Stars
@@ -807,7 +807,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Dallas Stars\nAmerican Airlines Cen
 LOCATION:American Airlines Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -819,7 +819,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Detroit Red Wings\nLittle Caesars Aren
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -831,11 +831,11 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-22-boston-bruins-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2026-03-21-boston-bruins-vs-detroit-red-wings@open-sports-cal
 DTSTART:20260322T000000Z
 DTEND:20260322T030000Z
 SUMMARY:Boston Bruins @ Detroit Red Wings
@@ -843,7 +843,7 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Detroit Red Wings\nLittle Caesars Arena
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -855,7 +855,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Detroit Red Wings\nLittle Caesars Are
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -867,11 +867,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-29-philadelphia-flyers-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2026-03-28-philadelphia-flyers-vs-detroit-red-wings@open-sports-cal
 DTSTART:20260329T000000Z
 DTEND:20260329T030000Z
 SUMMARY:Philadelphia Flyers @ Detroit Red Wings
@@ -879,7 +879,7 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -891,7 +891,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Pittsburgh Penguins\nPPG Paints Are
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -903,7 +903,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Philadelphia Flyers\nXfinity Mobile
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -915,7 +915,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ New York Rangers\nMadison Square Ga
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -927,7 +927,7 @@ DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Detroit Red Wings\nLittle Caesars Aren
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -939,7 +939,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Detroit Red Wings\nLittle Caesa
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -951,7 +951,7 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -963,7 +963,7 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Detroit Red Wings\nLittle Caesars A
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -975,7 +975,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Tampa Bay Lightning\nBenchmark Inte
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -987,7 +987,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Florida Panthers\nAmerant Bank Aren
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

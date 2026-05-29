@@ -15,7 +15,7 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Washington Capitals\nCapital One Arena
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +27,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -39,7 +39,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -51,7 +51,7 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Washington Capitals\nCapital One 
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -63,7 +63,7 @@ DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Washington Capitals\nCapital One Arena
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Washington Capitals\nCapital One Ar
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -87,7 +87,7 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Washington Capitals\nCapital One Arena
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +99,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -111,11 +111,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Washington Capitals\nCapital One Aren
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-29-washington-capitals-vs-dallas-stars@open-sports-cal
+UID:nhl-2025-26-2025-10-28-washington-capitals-vs-dallas-stars@open-sports-cal
 DTSTART:20251029T003000Z
 DTEND:20251029T033000Z
 SUMMARY:Washington Capitals @ Dallas Stars
@@ -123,7 +123,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Dallas Stars\nAmerican Airlines C
 LOCATION:American Airlines Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -135,7 +135,7 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Washington Capitals\nCapital One A
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -147,11 +147,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-06-st-louis-blues-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2025-11-05-st-louis-blues-vs-washington-capitals@open-sports-cal
 DTSTART:20251106T003000Z
 DTEND:20251106T033000Z
 SUMMARY:St. Louis Blues @ Washington Capitals
@@ -159,11 +159,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Washington Capitals\nCapital One Aren
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-07-washington-capitals-vs-pittsburgh-penguins@open-sports-cal
+UID:nhl-2025-26-2025-11-06-washington-capitals-vs-pittsburgh-penguins@open-sports-cal
 DTSTART:20251107T003000Z
 DTEND:20251107T033000Z
 SUMMARY:Washington Capitals @ Pittsburgh Penguins
@@ -171,11 +171,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Pittsburgh Penguins\nPPG Paints A
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-09-washington-capitals-vs-tampa-bay-lightning@open-sports-cal
+UID:nhl-2025-26-2025-11-08-washington-capitals-vs-tampa-bay-lightning@open-sports-cal
 DTSTART:20251109T000000Z
 DTEND:20251109T030000Z
 SUMMARY:Washington Capitals @ Tampa Bay Lightning
@@ -183,11 +183,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Tampa Bay Lightning\nBenchmark In
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-12-washington-capitals-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-11-11-washington-capitals-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251112T000000Z
 DTEND:20251112T030000Z
 SUMMARY:Washington Capitals @ Carolina Hurricanes
@@ -195,11 +195,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Carolina Hurricanes\nLenovo Cente
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-14-washington-capitals-vs-florida-panthers@open-sports-cal
+UID:nhl-2025-26-2025-11-13-washington-capitals-vs-florida-panthers@open-sports-cal
 DTSTART:20251114T000000Z
 DTEND:20251114T030000Z
 SUMMARY:Washington Capitals @ Florida Panthers
@@ -207,11 +207,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Florida Panthers\nAmerant Bank Ar
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-16-new-jersey-devils-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2025-11-15-new-jersey-devils-vs-washington-capitals@open-sports-cal
 DTSTART:20251116T000000Z
 DTEND:20251116T030000Z
 SUMMARY:New Jersey Devils @ Washington Capitals
@@ -219,11 +219,11 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Washington Capitals\nCapital One Ar
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-18-los-angeles-kings-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2025-11-17-los-angeles-kings-vs-washington-capitals@open-sports-cal
 DTSTART:20251118T000000Z
 DTEND:20251118T030000Z
 SUMMARY:Los Angeles Kings @ Washington Capitals
@@ -231,11 +231,11 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Washington Capitals\nCapital One Ar
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-20-edmonton-oilers-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2025-11-19-edmonton-oilers-vs-washington-capitals@open-sports-cal
 DTSTART:20251120T000000Z
 DTEND:20251120T030000Z
 SUMMARY:Edmonton Oilers @ Washington Capitals
@@ -243,11 +243,11 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Washington Capitals\nCapital One Aren
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-21-washington-capitals-vs-montreal-canadiens@open-sports-cal
+UID:nhl-2025-26-2025-11-20-washington-capitals-vs-montreal-canadiens@open-sports-cal
 DTSTART:20251121T000000Z
 DTEND:20251121T030000Z
 SUMMARY:Washington Capitals @ Montréal Canadiens
@@ -255,11 +255,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-23-tampa-bay-lightning-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2025-11-22-tampa-bay-lightning-vs-washington-capitals@open-sports-cal
 DTSTART:20251123T000000Z
 DTEND:20251123T030000Z
 SUMMARY:Tampa Bay Lightning @ Washington Capitals
@@ -267,11 +267,11 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Washington Capitals\nCapital One 
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-25-columbus-blue-jackets-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2025-11-24-columbus-blue-jackets-vs-washington-capitals@open-sports-cal
 DTSTART:20251125T000000Z
 DTEND:20251125T030000Z
 SUMMARY:Columbus Blue Jackets @ Washington Capitals
@@ -279,11 +279,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Washington Capitals\nCapital On
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-27-winnipeg-jets-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2025-11-26-winnipeg-jets-vs-washington-capitals@open-sports-cal
 DTSTART:20251127T000000Z
 DTEND:20251127T030000Z
 SUMMARY:Winnipeg Jets @ Washington Capitals
@@ -291,7 +291,7 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Washington Capitals\nCapital One Arena
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -303,7 +303,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Washington Capitals\nCapital One 
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -315,11 +315,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-03-washington-capitals-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2025-12-02-washington-capitals-vs-los-angeles-kings@open-sports-cal
 DTSTART:20251203T033000Z
 DTEND:20251203T063000Z
 SUMMARY:Washington Capitals @ Los Angeles Kings
@@ -327,11 +327,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Los Angeles Kings\nCrypto.com Are
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-04-washington-capitals-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-12-03-washington-capitals-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251204T030000Z
 DTEND:20251204T060000Z
 SUMMARY:Washington Capitals @ San Jose Sharks
@@ -339,11 +339,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ San Jose Sharks\nSAP Center at Sa
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-06-washington-capitals-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-12-05-washington-capitals-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251206T030000Z
 DTEND:20251206T060000Z
 SUMMARY:Washington Capitals @ Anaheim Ducks
@@ -351,11 +351,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-08-columbus-blue-jackets-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2025-12-07-columbus-blue-jackets-vs-washington-capitals@open-sports-cal
 DTSTART:20251208T000000Z
 DTEND:20251208T030000Z
 SUMMARY:Columbus Blue Jackets @ Washington Capitals
@@ -363,11 +363,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Washington Capitals\nCapital On
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-12-carolina-hurricanes-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2025-12-11-carolina-hurricanes-vs-washington-capitals@open-sports-cal
 DTSTART:20251212T000000Z
 DTEND:20251212T030000Z
 SUMMARY:Carolina Hurricanes @ Washington Capitals
@@ -375,11 +375,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Washington Capitals\nCapital One 
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-14-washington-capitals-vs-winnipeg-jets@open-sports-cal
+UID:nhl-2025-26-2025-12-13-washington-capitals-vs-winnipeg-jets@open-sports-cal
 DTSTART:20251214T000000Z
 DTEND:20251214T030000Z
 SUMMARY:Washington Capitals @ Winnipeg Jets
@@ -387,11 +387,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Winnipeg Jets\nCanada Life Centre
 LOCATION:Canada Life Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Winnipeg
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-17-washington-capitals-vs-minnesota-wild@open-sports-cal
+UID:nhl-2025-26-2025-12-16-washington-capitals-vs-minnesota-wild@open-sports-cal
 DTSTART:20251217T010000Z
 DTEND:20251217T040000Z
 SUMMARY:Washington Capitals @ Minnesota Wild
@@ -399,11 +399,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Minnesota Wild\nGrand Casino Aren
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-19-toronto-maple-leafs-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2025-12-18-toronto-maple-leafs-vs-washington-capitals@open-sports-cal
 DTSTART:20251219T000000Z
 DTEND:20251219T030000Z
 SUMMARY:Toronto Maple Leafs @ Washington Capitals
@@ -411,7 +411,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Washington Capitals\nCapital One 
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -423,7 +423,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Washington Capitals\nCapital One Ar
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -435,11 +435,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-24-new-york-rangers-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2025-12-23-new-york-rangers-vs-washington-capitals@open-sports-cal
 DTSTART:20251224T000000Z
 DTEND:20251224T030000Z
 SUMMARY:New York Rangers @ Washington Capitals
@@ -447,11 +447,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Washington Capitals\nCapital One Are
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-28-washington-capitals-vs-new-jersey-devils@open-sports-cal
+UID:nhl-2025-26-2025-12-27-washington-capitals-vs-new-jersey-devils@open-sports-cal
 DTSTART:20251228T000000Z
 DTEND:20251228T030000Z
 SUMMARY:Washington Capitals @ New Jersey Devils
@@ -459,11 +459,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ New Jersey Devils\nPrudential Cen
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-30-washington-capitals-vs-florida-panthers@open-sports-cal
+UID:nhl-2025-26-2025-12-29-washington-capitals-vs-florida-panthers@open-sports-cal
 DTSTART:20251230T000000Z
 DTEND:20251230T030000Z
 SUMMARY:Washington Capitals @ Florida Panthers
@@ -471,7 +471,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Florida Panthers\nAmerant Bank Ar
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -483,7 +483,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Washington Capitals\nCapital One Are
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -495,11 +495,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-04-chicago-blackhawks-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2026-01-03-chicago-blackhawks-vs-washington-capitals@open-sports-cal
 DTSTART:20260104T000000Z
 DTEND:20260104T030000Z
 SUMMARY:Chicago Blackhawks @ Washington Capitals
@@ -507,11 +507,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Washington Capitals\nCapital One A
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-06-anaheim-ducks-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2026-01-05-anaheim-ducks-vs-washington-capitals@open-sports-cal
 DTSTART:20260106T000000Z
 DTEND:20260106T030000Z
 SUMMARY:Anaheim Ducks @ Washington Capitals
@@ -519,11 +519,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Washington Capitals\nCapital One Arena
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-08-dallas-stars-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2026-01-07-dallas-stars-vs-washington-capitals@open-sports-cal
 DTSTART:20260108T000000Z
 DTEND:20260108T030000Z
 SUMMARY:Dallas Stars @ Washington Capitals
@@ -531,11 +531,11 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ Washington Capitals\nCapital One Arena
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-10-washington-capitals-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-01-09-washington-capitals-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260110T010000Z
 DTEND:20260110T040000Z
 SUMMARY:Washington Capitals @ Chicago Blackhawks
@@ -543,11 +543,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-12-washington-capitals-vs-nashville-predators@open-sports-cal
+UID:nhl-2025-26-2026-01-11-washington-capitals-vs-nashville-predators@open-sports-cal
 DTSTART:20260112T000000Z
 DTEND:20260112T030000Z
 SUMMARY:Washington Capitals @ Nashville Predators
@@ -555,11 +555,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Nashville Predators\nBridgestone 
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-14-montreal-canadiens-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2026-01-13-montreal-canadiens-vs-washington-capitals@open-sports-cal
 DTSTART:20260114T000000Z
 DTEND:20260114T030000Z
 SUMMARY:Montréal Canadiens @ Washington Capitals
@@ -567,11 +567,11 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Washington Capitals\nCapital One 
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-16-san-jose-sharks-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2026-01-15-san-jose-sharks-vs-washington-capitals@open-sports-cal
 DTSTART:20260116T000000Z
 DTEND:20260116T030000Z
 SUMMARY:San Jose Sharks @ Washington Capitals
@@ -579,11 +579,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Washington Capitals\nCapital One Aren
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-18-florida-panthers-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2026-01-17-florida-panthers-vs-washington-capitals@open-sports-cal
 DTSTART:20260118T000000Z
 DTEND:20260118T030000Z
 SUMMARY:Florida Panthers @ Washington Capitals
@@ -591,7 +591,7 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Washington Capitals\nCapital One Are
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -603,11 +603,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-22-washington-capitals-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-01-21-washington-capitals-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260122T030000Z
 DTEND:20260122T060000Z
 SUMMARY:Washington Capitals @ Vancouver Canucks
@@ -615,11 +615,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-24-washington-capitals-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-01-23-washington-capitals-vs-calgary-flames@open-sports-cal
 DTSTART:20260124T020000Z
 DTEND:20260124T050000Z
 SUMMARY:Washington Capitals @ Calgary Flames
@@ -627,11 +627,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Calgary Flames\nScotiabank Saddle
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-25-washington-capitals-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2026-01-24-washington-capitals-vs-edmonton-oilers@open-sports-cal
 DTSTART:20260125T030000Z
 DTEND:20260125T060000Z
 SUMMARY:Washington Capitals @ Edmonton Oilers
@@ -639,11 +639,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-28-washington-capitals-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2026-01-27-washington-capitals-vs-seattle-kraken@open-sports-cal
 DTSTART:20260128T030000Z
 DTEND:20260128T060000Z
 SUMMARY:Washington Capitals @ Seattle Kraken
@@ -651,11 +651,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Seattle Kraken\nClimate Pledge Ar
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-30-washington-capitals-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2026-01-29-washington-capitals-vs-detroit-red-wings@open-sports-cal
 DTSTART:20260130T003000Z
 DTEND:20260130T033000Z
 SUMMARY:Washington Capitals @ Detroit Red Wings
@@ -663,7 +663,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -675,11 +675,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Washington Capitals\nCapital One 
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-03-new-york-islanders-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2026-02-02-new-york-islanders-vs-washington-capitals@open-sports-cal
 DTSTART:20260203T000000Z
 DTEND:20260203T030000Z
 SUMMARY:New York Islanders @ Washington Capitals
@@ -687,11 +687,11 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Washington Capitals\nCapital One A
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-04-washington-capitals-vs-philadelphia-flyers@open-sports-cal
+UID:nhl-2025-26-2026-02-03-washington-capitals-vs-philadelphia-flyers@open-sports-cal
 DTSTART:20260204T000000Z
 DTEND:20260204T030000Z
 SUMMARY:Washington Capitals @ Philadelphia Flyers
@@ -699,11 +699,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Philadelphia Flyers\nXfinity Mobi
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-06-nashville-predators-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2026-02-05-nashville-predators-vs-washington-capitals@open-sports-cal
 DTSTART:20260206T000000Z
 DTEND:20260206T030000Z
 SUMMARY:Nashville Predators @ Washington Capitals
@@ -711,11 +711,11 @@ DESCRIPTION:NHL 2025-26\nNashville Predators @ Washington Capitals\nCapital One 
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-26-philadelphia-flyers-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2026-02-25-philadelphia-flyers-vs-washington-capitals@open-sports-cal
 DTSTART:20260226T000000Z
 DTEND:20260226T030000Z
 SUMMARY:Philadelphia Flyers @ Washington Capitals
@@ -723,11 +723,11 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Washington Capitals\nCapital One 
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-28-vegas-golden-knights-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2026-02-27-vegas-golden-knights-vs-washington-capitals@open-sports-cal
 DTSTART:20260228T000000Z
 DTEND:20260228T030000Z
 SUMMARY:Vegas Golden Knights @ Washington Capitals
@@ -735,11 +735,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Washington Capitals\nCapital One
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-01-washington-capitals-vs-montreal-canadiens@open-sports-cal
+UID:nhl-2025-26-2026-02-28-washington-capitals-vs-montreal-canadiens@open-sports-cal
 DTSTART:20260301T000000Z
 DTEND:20260301T030000Z
 SUMMARY:Washington Capitals @ Montréal Canadiens
@@ -747,19 +747,19 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-04-utah-hockey-club-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2026-03-03-utah-mammoth-vs-washington-capitals@open-sports-cal
 DTSTART:20260304T000000Z
 DTEND:20260304T030000Z
-SUMMARY:Utah Hockey Club @ Washington Capitals
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Washington Capitals\nCapital One Arena
+SUMMARY:Utah Mammoth @ Washington Capitals
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ Washington Capitals\nCapital One Arena
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -771,7 +771,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -783,7 +783,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Washington Capitals\nCapital One Arena
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -795,7 +795,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Philadelphia Flyers\nXfinity Mobi
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -807,7 +807,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -819,7 +819,7 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Washington Capitals\nCapital One Arena
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -831,7 +831,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Washington Capitals\nCapital One Aren
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -843,7 +843,7 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Washington Capitals\nCapital One Ar
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -855,11 +855,11 @@ DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Washington Capitals\nCapital One A
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-25-washington-capitals-vs-st-louis-blues@open-sports-cal
+UID:nhl-2025-26-2026-03-24-washington-capitals-vs-st-louis-blues@open-sports-cal
 DTSTART:20260325T000000Z
 DTEND:20260325T030000Z
 SUMMARY:Washington Capitals @ St. Louis Blues
@@ -867,23 +867,23 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ St. Louis Blues\nEnterprise Cente
 LOCATION:Enterprise Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-27-washington-capitals-vs-utah-hockey-club@open-sports-cal
+UID:nhl-2025-26-2026-03-26-washington-capitals-vs-utah-mammoth@open-sports-cal
 DTSTART:20260327T010000Z
 DTEND:20260327T040000Z
-SUMMARY:Washington Capitals @ Utah Hockey Club
-DESCRIPTION:NHL 2025-26\nWashington Capitals @ Utah Hockey Club\nDelta Center
+SUMMARY:Washington Capitals @ Utah Mammoth
+DESCRIPTION:NHL 2025-26\nWashington Capitals @ Utah Mammoth\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-29-washington-capitals-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-03-28-washington-capitals-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260329T023000Z
 DTEND:20260329T053000Z
 SUMMARY:Washington Capitals @ Vegas Golden Knights
@@ -891,7 +891,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Vegas Golden Knights\nT-Mobile Ar
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -903,7 +903,7 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Washington Capitals\nCapital One 
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -915,7 +915,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ New Jersey Devils\nPrudential Cen
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -927,7 +927,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Washington Capitals\nCapital One Arena
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -939,7 +939,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -951,7 +951,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Toronto Maple Leafs\nScotiabank A
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -963,7 +963,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Pittsburgh Penguins\nPPG Paints A
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -975,7 +975,7 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Washington Capitals\nCapital One 
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -987,7 +987,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

@@ -7,7 +7,7 @@ X-WR-CALNAME:NHL 2025-26 - New York Rangers
 X-WR-TIMEZONE:UTC
 X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-08-pittsburgh-penguins-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2025-10-07-pittsburgh-penguins-vs-new-york-rangers@open-sports-cal
 DTSTART:20251008T000000Z
 DTEND:20251008T030000Z
 SUMMARY:Pittsburgh Penguins @ New York Rangers
@@ -15,7 +15,7 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +27,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -39,7 +39,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Pittsburgh Penguins\nPPG Paints Aren
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -51,7 +51,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -63,7 +63,7 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ New York Rangers\nMadison Square Gard
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Toronto Maple Leafs\nScotiabank Aren
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -87,8 +87,8 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2025-10-20-minnesota-wild-vs-new-york-rangers@open-sports-cal
@@ -99,7 +99,7 @@ DESCRIPTION:NHL 2025-26\nMinnesota Wild @ New York Rangers\nMadison Square Garde
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -111,11 +111,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ New York Rangers\nMadison Square Gard
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-27-new-york-rangers-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-10-26-new-york-rangers-vs-calgary-flames@open-sports-cal
 DTSTART:20251027T000000Z
 DTEND:20251027T030000Z
 SUMMARY:New York Rangers @ Calgary Flames
@@ -123,11 +123,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Calgary Flames\nScotiabank Saddledom
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-29-new-york-rangers-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-10-28-new-york-rangers-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251029T020000Z
 DTEND:20251029T050000Z
 SUMMARY:New York Rangers @ Vancouver Canucks
@@ -135,11 +135,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-31-new-york-rangers-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2025-10-30-new-york-rangers-vs-edmonton-oilers@open-sports-cal
 DTSTART:20251031T010000Z
 DTEND:20251031T040000Z
 SUMMARY:New York Rangers @ Edmonton Oilers
@@ -147,11 +147,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-02-new-york-rangers-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2025-11-01-new-york-rangers-vs-seattle-kraken@open-sports-cal
 DTSTART:20251102T020000Z
 DTEND:20251102T050000Z
 SUMMARY:New York Rangers @ Seattle Kraken
@@ -159,11 +159,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Seattle Kraken\nClimate Pledge Arena
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-05-carolina-hurricanes-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2025-11-04-carolina-hurricanes-vs-new-york-rangers@open-sports-cal
 DTSTART:20251105T000000Z
 DTEND:20251105T030000Z
 SUMMARY:Carolina Hurricanes @ New York Rangers
@@ -171,11 +171,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-08-new-york-rangers-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2025-11-07-new-york-rangers-vs-detroit-red-wings@open-sports-cal
 DTSTART:20251108T000000Z
 DTEND:20251108T030000Z
 SUMMARY:New York Rangers @ Detroit Red Wings
@@ -183,11 +183,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Detroit Red Wings\nLittle Caesars Ar
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-09-new-york-islanders-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2025-11-08-new-york-islanders-vs-new-york-rangers@open-sports-cal
 DTSTART:20251109T000000Z
 DTEND:20251109T030000Z
 SUMMARY:New York Islanders @ New York Rangers
@@ -195,11 +195,11 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ New York Rangers\nMadison Square G
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-11-nashville-predators-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2025-11-10-nashville-predators-vs-new-york-rangers@open-sports-cal
 DTSTART:20251111T000000Z
 DTEND:20251111T030000Z
 SUMMARY:Nashville Predators @ New York Rangers
@@ -207,11 +207,11 @@ DESCRIPTION:NHL 2025-26\nNashville Predators @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-13-new-york-rangers-vs-tampa-bay-lightning@open-sports-cal
+UID:nhl-2025-26-2025-11-12-new-york-rangers-vs-tampa-bay-lightning@open-sports-cal
 DTSTART:20251113T000000Z
 DTEND:20251113T030000Z
 SUMMARY:New York Rangers @ Tampa Bay Lightning
@@ -219,11 +219,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Tampa Bay Lightning\nBenchmark Inter
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-16-new-york-rangers-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-11-15-new-york-rangers-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20251116T000000Z
 DTEND:20251116T030000Z
 SUMMARY:New York Rangers @ Columbus Blue Jackets
@@ -231,11 +231,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Columbus Blue Jackets\nNationwide Ar
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-17-detroit-red-wings-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2025-11-16-detroit-red-wings-vs-new-york-rangers@open-sports-cal
 DTSTART:20251117T000000Z
 DTEND:20251117T030000Z
 SUMMARY:Detroit Red Wings @ New York Rangers
@@ -243,11 +243,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ New York Rangers\nMadison Square Ga
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-19-new-york-rangers-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-11-18-new-york-rangers-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251119T030000Z
 DTEND:20251119T060000Z
 SUMMARY:New York Rangers @ Vegas Golden Knights
@@ -255,11 +255,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-21-new-york-rangers-vs-colorado-avalanche@open-sports-cal
+UID:nhl-2025-26-2025-11-20-new-york-rangers-vs-colorado-avalanche@open-sports-cal
 DTSTART:20251121T020000Z
 DTEND:20251121T050000Z
 SUMMARY:New York Rangers @ Colorado Avalanche
@@ -267,23 +267,23 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-23-new-york-rangers-vs-utah-hockey-club@open-sports-cal
+UID:nhl-2025-26-2025-11-22-new-york-rangers-vs-utah-mammoth@open-sports-cal
 DTSTART:20251123T020000Z
 DTEND:20251123T050000Z
-SUMMARY:New York Rangers @ Utah Hockey Club
-DESCRIPTION:NHL 2025-26\nNew York Rangers @ Utah Hockey Club\nDelta Center
+SUMMARY:New York Rangers @ Utah Mammoth
+DESCRIPTION:NHL 2025-26\nNew York Rangers @ Utah Mammoth\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-25-st-louis-blues-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2025-11-24-st-louis-blues-vs-new-york-rangers@open-sports-cal
 DTSTART:20251125T000000Z
 DTEND:20251125T030000Z
 SUMMARY:St. Louis Blues @ New York Rangers
@@ -291,11 +291,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ New York Rangers\nMadison Square Gard
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-27-new-york-rangers-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-11-26-new-york-rangers-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251127T000000Z
 DTEND:20251127T030000Z
 SUMMARY:New York Rangers @ Carolina Hurricanes
@@ -303,7 +303,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -315,7 +315,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -327,11 +327,11 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-03-dallas-stars-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2025-12-02-dallas-stars-vs-new-york-rangers@open-sports-cal
 DTSTART:20251203T000000Z
 DTEND:20251203T030000Z
 SUMMARY:Dallas Stars @ New York Rangers
@@ -339,11 +339,11 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ New York Rangers\nMadison Square Garden
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-05-new-york-rangers-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2025-12-04-new-york-rangers-vs-ottawa-senators@open-sports-cal
 DTSTART:20251205T000000Z
 DTEND:20251205T030000Z
 SUMMARY:New York Rangers @ Ottawa Senators
@@ -351,7 +351,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Ottawa Senators\nCanadian Tire Centr
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +363,11 @@ DESCRIPTION:NHL 2025-26\nColorado Avalanche @ New York Rangers\nMadison Square G
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-08-vegas-golden-knights-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2025-12-07-vegas-golden-knights-vs-new-york-rangers@open-sports-cal
 DTSTART:20251208T000000Z
 DTEND:20251208T030000Z
 SUMMARY:Vegas Golden Knights @ New York Rangers
@@ -375,11 +375,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ New York Rangers\nMadison Square
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-11-new-york-rangers-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-12-10-new-york-rangers-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251211T003000Z
 DTEND:20251211T033000Z
 SUMMARY:New York Rangers @ Chicago Blackhawks
@@ -387,11 +387,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-14-montreal-canadiens-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2025-12-13-montreal-canadiens-vs-new-york-rangers@open-sports-cal
 DTSTART:20251214T000000Z
 DTEND:20251214T030000Z
 SUMMARY:Montréal Canadiens @ New York Rangers
@@ -399,11 +399,11 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-16-anaheim-ducks-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2025-12-15-anaheim-ducks-vs-new-york-rangers@open-sports-cal
 DTSTART:20251216T000000Z
 DTEND:20251216T030000Z
 SUMMARY:Anaheim Ducks @ New York Rangers
@@ -411,11 +411,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ New York Rangers\nMadison Square Garden
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-17-vancouver-canucks-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2025-12-16-vancouver-canucks-vs-new-york-rangers@open-sports-cal
 DTSTART:20251217T000000Z
 DTEND:20251217T030000Z
 SUMMARY:Vancouver Canucks @ New York Rangers
@@ -423,11 +423,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ New York Rangers\nMadison Square Ga
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-19-new-york-rangers-vs-st-louis-blues@open-sports-cal
+UID:nhl-2025-26-2025-12-18-new-york-rangers-vs-st-louis-blues@open-sports-cal
 DTSTART:20251219T010000Z
 DTEND:20251219T040000Z
 SUMMARY:New York Rangers @ St. Louis Blues
@@ -435,7 +435,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ St. Louis Blues\nEnterprise Center
 LOCATION:Enterprise Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -447,11 +447,11 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-22-new-york-rangers-vs-nashville-predators@open-sports-cal
+UID:nhl-2025-26-2025-12-21-new-york-rangers-vs-nashville-predators@open-sports-cal
 DTSTART:20251222T000000Z
 DTEND:20251222T030000Z
 SUMMARY:New York Rangers @ Nashville Predators
@@ -459,11 +459,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Nashville Predators\nBridgestone Are
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-24-new-york-rangers-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2025-12-23-new-york-rangers-vs-washington-capitals@open-sports-cal
 DTSTART:20251224T000000Z
 DTEND:20251224T030000Z
 SUMMARY:New York Rangers @ Washington Capitals
@@ -471,7 +471,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Washington Capitals\nCapital One Are
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -483,11 +483,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-30-new-york-rangers-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-12-29-new-york-rangers-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251230T000000Z
 DTEND:20251230T030000Z
 SUMMARY:New York Rangers @ Carolina Hurricanes
@@ -495,7 +495,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -507,11 +507,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Washington Capitals\nCapital One Are
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-03-new-york-rangers-vs-florida-panthers@open-sports-cal
+UID:nhl-2025-26-2026-01-02-new-york-rangers-vs-florida-panthers@open-sports-cal
 DTSTART:20260103T010000Z
 DTEND:20260103T040000Z
 SUMMARY:New York Rangers @ Florida Panthers
@@ -519,23 +519,23 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Florida Panthers\nloanDepot park
 LOCATION:loanDepot park
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-06-utah-hockey-club-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2026-01-05-utah-mammoth-vs-new-york-rangers@open-sports-cal
 DTSTART:20260106T000000Z
 DTEND:20260106T030000Z
-SUMMARY:Utah Hockey Club @ New York Rangers
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ New York Rangers\nMadison Square Garden
+SUMMARY:Utah Mammoth @ New York Rangers
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ New York Rangers\nMadison Square Garden
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-09-buffalo-sabres-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2026-01-08-buffalo-sabres-vs-new-york-rangers@open-sports-cal
 DTSTART:20260109T000000Z
 DTEND:20260109T030000Z
 SUMMARY:Buffalo Sabres @ New York Rangers
@@ -543,7 +543,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ New York Rangers\nMadison Square Garde
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -555,11 +555,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-13-seattle-kraken-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2026-01-12-seattle-kraken-vs-new-york-rangers@open-sports-cal
 DTSTART:20260113T000000Z
 DTEND:20260113T030000Z
 SUMMARY:Seattle Kraken @ New York Rangers
@@ -567,11 +567,11 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ New York Rangers\nMadison Square Garde
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-15-ottawa-senators-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2026-01-14-ottawa-senators-vs-new-york-rangers@open-sports-cal
 DTSTART:20260115T003000Z
 DTEND:20260115T033000Z
 SUMMARY:Ottawa Senators @ New York Rangers
@@ -579,7 +579,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ New York Rangers\nMadison Square Gard
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -591,11 +591,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Philadelphia Flyers\nXfinity Mobile 
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-20-new-york-rangers-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-01-19-new-york-rangers-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260120T030000Z
 DTEND:20260120T060000Z
 SUMMARY:New York Rangers @ Anaheim Ducks
@@ -603,11 +603,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-21-new-york-rangers-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2026-01-20-new-york-rangers-vs-los-angeles-kings@open-sports-cal
 DTSTART:20260121T030000Z
 DTEND:20260121T060000Z
 SUMMARY:New York Rangers @ Los Angeles Kings
@@ -615,11 +615,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Los Angeles Kings\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-24-new-york-rangers-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-01-23-new-york-rangers-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260124T030000Z
 DTEND:20260124T060000Z
 SUMMARY:New York Rangers @ San Jose Sharks
@@ -627,11 +627,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ San Jose Sharks\nSAP Center at San J
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-27-boston-bruins-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2026-01-26-boston-bruins-vs-new-york-rangers@open-sports-cal
 DTSTART:20260127T000000Z
 DTEND:20260127T030000Z
 SUMMARY:Boston Bruins @ New York Rangers
@@ -639,11 +639,11 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ New York Rangers\nMadison Square Garden
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-29-new-york-rangers-vs-new-york-islanders@open-sports-cal
+UID:nhl-2025-26-2026-01-28-new-york-rangers-vs-new-york-islanders@open-sports-cal
 DTSTART:20260129T000000Z
 DTEND:20260129T030000Z
 SUMMARY:New York Rangers @ New York Islanders
@@ -651,11 +651,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-30-new-york-islanders-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2026-01-29-new-york-islanders-vs-new-york-rangers@open-sports-cal
 DTSTART:20260130T000000Z
 DTEND:20260130T030000Z
 SUMMARY:New York Islanders @ New York Rangers
@@ -663,7 +663,7 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ New York Rangers\nMadison Square G
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -675,11 +675,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Pittsburgh Penguins\nPPG Paints Aren
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-06-carolina-hurricanes-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2026-02-05-carolina-hurricanes-vs-new-york-rangers@open-sports-cal
 DTSTART:20260206T000000Z
 DTEND:20260206T030000Z
 SUMMARY:Carolina Hurricanes @ New York Rangers
@@ -687,11 +687,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-27-philadelphia-flyers-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2026-02-26-philadelphia-flyers-vs-new-york-rangers@open-sports-cal
 DTSTART:20260227T010000Z
 DTEND:20260227T040000Z
 SUMMARY:Philadelphia Flyers @ New York Rangers
@@ -699,7 +699,7 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -711,11 +711,11 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-03-columbus-blue-jackets-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2026-03-02-columbus-blue-jackets-vs-new-york-rangers@open-sports-cal
 DTSTART:20260303T000000Z
 DTEND:20260303T030000Z
 SUMMARY:Columbus Blue Jackets @ New York Rangers
@@ -723,11 +723,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ New York Rangers\nMadison Squar
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-06-toronto-maple-leafs-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2026-03-05-toronto-maple-leafs-vs-new-york-rangers@open-sports-cal
 DTSTART:20260306T000000Z
 DTEND:20260306T030000Z
 SUMMARY:Toronto Maple Leafs @ New York Rangers
@@ -735,7 +735,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -747,7 +747,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ New Jersey Devils\nPrudential Center
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -759,7 +759,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Philadelphia Flyers\nXfinity Mobile 
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -771,11 +771,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ New York Rangers\nMadison Square Garde
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-13-new-york-rangers-vs-winnipeg-jets@open-sports-cal
+UID:nhl-2025-26-2026-03-12-new-york-rangers-vs-winnipeg-jets@open-sports-cal
 DTSTART:20260313T000000Z
 DTEND:20260313T030000Z
 SUMMARY:New York Rangers @ Winnipeg Jets
@@ -783,7 +783,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Winnipeg Jets\nCanada Life Centre
 LOCATION:Canada Life Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Winnipeg
 END:VEVENT
 BEGIN:VEVENT
@@ -795,7 +795,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Minnesota Wild\nGrand Casino Arena
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -807,7 +807,7 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ New York Rangers\nMadison Square Ga
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -819,7 +819,7 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ New York Rangers\nMadison Square Ga
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -831,7 +831,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Columbus Blue Jackets\nNationwide Ar
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -843,7 +843,7 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ New York Rangers\nMadison Square Garden
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -855,7 +855,7 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ New York Rangers\nMadison Square Gard
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -867,7 +867,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Toronto Maple Leafs\nScotiabank Aren
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -879,7 +879,7 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ New York Rangers\nMadison Square G
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -891,7 +891,7 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ New York Rangers\nMadison Square Gar
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -903,7 +903,7 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ New York Rangers\nMadison Square Ga
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -915,7 +915,7 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -927,7 +927,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ New York Rangers\nMadison Square Ga
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -939,7 +939,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -951,7 +951,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ New York Rangers\nMadison Square Garde
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -963,7 +963,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Dallas Stars\nAmerican Airlines Cent
 LOCATION:American Airlines Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -975,7 +975,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Florida Panthers\nAmerant Bank Arena
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -987,7 +987,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Tampa Bay Lightning\nBenchmark Inter
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

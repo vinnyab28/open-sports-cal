@@ -7,7 +7,7 @@ X-WR-CALNAME:NHL 2025-26 - Calgary Flames
 X-WR-TIMEZONE:UTC
 X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-09-calgary-flames-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2025-10-08-calgary-flames-vs-edmonton-oilers@open-sports-cal
 DTSTART:20251009T020000Z
 DTEND:20251009T050000Z
 SUMMARY:Calgary Flames @ Edmonton Oilers
@@ -15,11 +15,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-10-calgary-flames-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-10-09-calgary-flames-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251010T020000Z
 DTEND:20251010T050000Z
 SUMMARY:Calgary Flames @ Vancouver Canucks
@@ -27,7 +27,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
@@ -39,11 +39,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-15-vegas-golden-knights-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-10-14-vegas-golden-knights-vs-calgary-flames@open-sports-cal
 DTSTART:20251015T010000Z
 DTEND:20251015T040000Z
 SUMMARY:Vegas Golden Knights @ Calgary Flames
@@ -51,23 +51,23 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Calgary Flames\nScotiabank Saddl
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-16-calgary-flames-vs-utah-hockey-club@open-sports-cal
+UID:nhl-2025-26-2025-10-15-calgary-flames-vs-utah-mammoth@open-sports-cal
 DTSTART:20251016T013000Z
 DTEND:20251016T043000Z
-SUMMARY:Calgary Flames @ Utah Hockey Club
-DESCRIPTION:NHL 2025-26\nCalgary Flames @ Utah Hockey Club\nDelta Center
+SUMMARY:Calgary Flames @ Utah Mammoth
+DESCRIPTION:NHL 2025-26\nCalgary Flames @ Utah Mammoth\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-19-calgary-flames-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2025-10-18-calgary-flames-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20251019T020000Z
 DTEND:20251019T050000Z
 SUMMARY:Calgary Flames @ Vegas Golden Knights
@@ -75,11 +75,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-21-winnipeg-jets-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-10-20-winnipeg-jets-vs-calgary-flames@open-sports-cal
 DTSTART:20251021T013000Z
 DTEND:20251021T043000Z
 SUMMARY:Winnipeg Jets @ Calgary Flames
@@ -87,11 +87,11 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-23-montreal-canadiens-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-10-22-montreal-canadiens-vs-calgary-flames@open-sports-cal
 DTSTART:20251023T003000Z
 DTEND:20251023T033000Z
 SUMMARY:Montréal Canadiens @ Calgary Flames
@@ -99,11 +99,11 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Calgary Flames\nScotiabank Saddle
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-25-calgary-flames-vs-winnipeg-jets@open-sports-cal
+UID:nhl-2025-26-2025-10-24-calgary-flames-vs-winnipeg-jets@open-sports-cal
 DTSTART:20251025T000000Z
 DTEND:20251025T030000Z
 SUMMARY:Calgary Flames @ Winnipeg Jets
@@ -111,11 +111,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Winnipeg Jets\nCanada Life Centre
 LOCATION:Canada Life Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Winnipeg
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-27-new-york-rangers-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-10-26-new-york-rangers-vs-calgary-flames@open-sports-cal
 DTSTART:20251027T000000Z
 DTEND:20251027T030000Z
 SUMMARY:New York Rangers @ Calgary Flames
@@ -123,8 +123,8 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Calgary Flames\nScotiabank Saddledom
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2025-10-28-calgary-flames-vs-toronto-maple-leafs@open-sports-cal
@@ -135,7 +135,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -147,7 +147,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Ottawa Senators\nCanadian Tire Centre
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -159,11 +159,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Nashville Predators\nBridgestone Arena
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-03-calgary-flames-vs-philadelphia-flyers@open-sports-cal
+UID:nhl-2025-26-2025-11-02-calgary-flames-vs-philadelphia-flyers@open-sports-cal
 DTSTART:20251103T000000Z
 DTEND:20251103T030000Z
 SUMMARY:Calgary Flames @ Philadelphia Flyers
@@ -171,11 +171,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Philadelphia Flyers\nXfinity Mobile Ar
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-06-columbus-blue-jackets-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-11-05-columbus-blue-jackets-vs-calgary-flames@open-sports-cal
 DTSTART:20251106T023000Z
 DTEND:20251106T053000Z
 SUMMARY:Columbus Blue Jackets @ Calgary Flames
@@ -183,11 +183,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Calgary Flames\nScotiabank Sadd
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-08-chicago-blackhawks-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-11-07-chicago-blackhawks-vs-calgary-flames@open-sports-cal
 DTSTART:20251108T020000Z
 DTEND:20251108T050000Z
 SUMMARY:Chicago Blackhawks @ Calgary Flames
@@ -195,11 +195,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Calgary Flames\nScotiabank Saddled
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-10-calgary-flames-vs-minnesota-wild@open-sports-cal
+UID:nhl-2025-26-2025-11-09-calgary-flames-vs-minnesota-wild@open-sports-cal
 DTSTART:20251110T010000Z
 DTEND:20251110T040000Z
 SUMMARY:Calgary Flames @ Minnesota Wild
@@ -207,11 +207,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Minnesota Wild\nGrand Casino Arena
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-12-calgary-flames-vs-st-louis-blues@open-sports-cal
+UID:nhl-2025-26-2025-11-11-calgary-flames-vs-st-louis-blues@open-sports-cal
 DTSTART:20251112T010000Z
 DTEND:20251112T040000Z
 SUMMARY:Calgary Flames @ St. Louis Blues
@@ -219,11 +219,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ St. Louis Blues\nEnterprise Center
 LOCATION:Enterprise Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-14-san-jose-sharks-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-11-13-san-jose-sharks-vs-calgary-flames@open-sports-cal
 DTSTART:20251114T020000Z
 DTEND:20251114T050000Z
 SUMMARY:San Jose Sharks @ Calgary Flames
@@ -231,11 +231,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-16-winnipeg-jets-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-11-15-winnipeg-jets-vs-calgary-flames@open-sports-cal
 DTSTART:20251116T030000Z
 DTEND:20251116T060000Z
 SUMMARY:Winnipeg Jets @ Calgary Flames
@@ -243,11 +243,11 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-19-calgary-flames-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-11-18-calgary-flames-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251119T013000Z
 DTEND:20251119T043000Z
 SUMMARY:Calgary Flames @ Chicago Blackhawks
@@ -255,11 +255,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-20-calgary-flames-vs-buffalo-sabres@open-sports-cal
+UID:nhl-2025-26-2025-11-19-calgary-flames-vs-buffalo-sabres@open-sports-cal
 DTSTART:20251120T003000Z
 DTEND:20251120T033000Z
 SUMMARY:Calgary Flames @ Buffalo Sabres
@@ -267,11 +267,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-23-dallas-stars-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-11-22-dallas-stars-vs-calgary-flames@open-sports-cal
 DTSTART:20251123T030000Z
 DTEND:20251123T060000Z
 SUMMARY:Dallas Stars @ Calgary Flames
@@ -279,11 +279,11 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-24-calgary-flames-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-11-23-calgary-flames-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251124T020000Z
 DTEND:20251124T050000Z
 SUMMARY:Calgary Flames @ Vancouver Canucks
@@ -291,11 +291,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-27-calgary-flames-vs-tampa-bay-lightning@open-sports-cal
+UID:nhl-2025-26-2025-11-26-calgary-flames-vs-tampa-bay-lightning@open-sports-cal
 DTSTART:20251127T000000Z
 DTEND:20251127T030000Z
 SUMMARY:Calgary Flames @ Tampa Bay Lightning
@@ -303,7 +303,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Tampa Bay Lightning\nBenchmark Interna
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -315,7 +315,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Florida Panthers\nAmerant Bank Arena
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -327,11 +327,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Carolina Hurricanes\nLenovo Center
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-03-calgary-flames-vs-nashville-predators@open-sports-cal
+UID:nhl-2025-26-2025-12-02-calgary-flames-vs-nashville-predators@open-sports-cal
 DTSTART:20251203T010000Z
 DTEND:20251203T040000Z
 SUMMARY:Calgary Flames @ Nashville Predators
@@ -339,11 +339,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Nashville Predators\nBridgestone Arena
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-05-minnesota-wild-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-12-04-minnesota-wild-vs-calgary-flames@open-sports-cal
 DTSTART:20251205T020000Z
 DTEND:20251205T050000Z
 SUMMARY:Minnesota Wild @ Calgary Flames
@@ -351,23 +351,23 @@ DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-07-utah-hockey-club-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-12-06-utah-mammoth-vs-calgary-flames@open-sports-cal
 DTSTART:20251207T000000Z
 DTEND:20251207T030000Z
-SUMMARY:Utah Hockey Club @ Calgary Flames
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Calgary Flames\nScotiabank Saddledome
+SUMMARY:Utah Mammoth @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-09-buffalo-sabres-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-12-08-buffalo-sabres-vs-calgary-flames@open-sports-cal
 DTSTART:20251209T020000Z
 DTEND:20251209T050000Z
 SUMMARY:Buffalo Sabres @ Calgary Flames
@@ -375,11 +375,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-11-detroit-red-wings-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-12-10-detroit-red-wings-vs-calgary-flames@open-sports-cal
 DTSTART:20251211T013000Z
 DTEND:20251211T043000Z
 SUMMARY:Detroit Red Wings @ Calgary Flames
@@ -387,11 +387,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Calgary Flames\nScotiabank Saddledo
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-14-calgary-flames-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2025-12-13-calgary-flames-vs-los-angeles-kings@open-sports-cal
 DTSTART:20251214T030000Z
 DTEND:20251214T060000Z
 SUMMARY:Calgary Flames @ Los Angeles Kings
@@ -399,11 +399,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Los Angeles Kings\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-17-calgary-flames-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2025-12-16-calgary-flames-vs-san-jose-sharks@open-sports-cal
 DTSTART:20251217T030000Z
 DTEND:20251217T060000Z
 SUMMARY:Calgary Flames @ San Jose Sharks
@@ -411,11 +411,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ San Jose Sharks\nSAP Center at San Jos
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-19-seattle-kraken-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-12-18-seattle-kraken-vs-calgary-flames@open-sports-cal
 DTSTART:20251219T020000Z
 DTEND:20251219T050000Z
 SUMMARY:Seattle Kraken @ Calgary Flames
@@ -423,11 +423,11 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-21-vegas-golden-knights-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-12-20-vegas-golden-knights-vs-calgary-flames@open-sports-cal
 DTSTART:20251221T030000Z
 DTEND:20251221T060000Z
 SUMMARY:Vegas Golden Knights @ Calgary Flames
@@ -435,11 +435,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Calgary Flames\nScotiabank Saddl
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-24-calgary-flames-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2025-12-23-calgary-flames-vs-edmonton-oilers@open-sports-cal
 DTSTART:20251224T020000Z
 DTEND:20251224T050000Z
 SUMMARY:Calgary Flames @ Edmonton Oilers
@@ -447,11 +447,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-28-edmonton-oilers-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-12-27-edmonton-oilers-vs-calgary-flames@open-sports-cal
 DTSTART:20251228T030000Z
 DTEND:20251228T060000Z
 SUMMARY:Edmonton Oilers @ Calgary Flames
@@ -459,11 +459,11 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-30-boston-bruins-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-12-29-boston-bruins-vs-calgary-flames@open-sports-cal
 DTSTART:20251230T020000Z
 DTEND:20251230T050000Z
 SUMMARY:Boston Bruins @ Calgary Flames
@@ -471,11 +471,11 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-01-philadelphia-flyers-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-12-31-philadelphia-flyers-vs-calgary-flames@open-sports-cal
 DTSTART:20260101T023000Z
 DTEND:20260101T053000Z
 SUMMARY:Philadelphia Flyers @ Calgary Flames
@@ -483,11 +483,11 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Calgary Flames\nScotiabank Saddle
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-04-nashville-predators-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-01-03-nashville-predators-vs-calgary-flames@open-sports-cal
 DTSTART:20260104T000000Z
 DTEND:20260104T030000Z
 SUMMARY:Nashville Predators @ Calgary Flames
@@ -495,11 +495,11 @@ DESCRIPTION:NHL 2025-26\nNashville Predators @ Calgary Flames\nScotiabank Saddle
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-06-seattle-kraken-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-01-05-seattle-kraken-vs-calgary-flames@open-sports-cal
 DTSTART:20260106T023000Z
 DTEND:20260106T053000Z
 SUMMARY:Seattle Kraken @ Calgary Flames
@@ -507,11 +507,11 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-08-calgary-flames-vs-montreal-canadiens@open-sports-cal
+UID:nhl-2025-26-2026-01-07-calgary-flames-vs-montreal-canadiens@open-sports-cal
 DTSTART:20260108T003000Z
 DTEND:20260108T033000Z
 SUMMARY:Calgary Flames @ Montréal Canadiens
@@ -519,11 +519,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-09-calgary-flames-vs-boston-bruins@open-sports-cal
+UID:nhl-2025-26-2026-01-08-calgary-flames-vs-boston-bruins@open-sports-cal
 DTSTART:20260109T000000Z
 DTEND:20260109T030000Z
 SUMMARY:Calgary Flames @ Boston Bruins
@@ -531,7 +531,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -543,11 +543,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Pittsburgh Penguins\nPPG Paints Arena
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-14-calgary-flames-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2026-01-13-calgary-flames-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20260114T000000Z
 DTEND:20260114T030000Z
 SUMMARY:Calgary Flames @ Columbus Blue Jackets
@@ -555,11 +555,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Columbus Blue Jackets\nNationwide Aren
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-16-calgary-flames-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-01-15-calgary-flames-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260116T013000Z
 DTEND:20260116T043000Z
 SUMMARY:Calgary Flames @ Chicago Blackhawks
@@ -567,7 +567,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -579,11 +579,11 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Calgary Flames\nScotiabank Saddled
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-20-new-jersey-devils-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-01-19-new-jersey-devils-vs-calgary-flames@open-sports-cal
 DTSTART:20260120T020000Z
 DTEND:20260120T050000Z
 SUMMARY:New Jersey Devils @ Calgary Flames
@@ -591,11 +591,11 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Calgary Flames\nScotiabank Saddledo
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-22-pittsburgh-penguins-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-01-21-pittsburgh-penguins-vs-calgary-flames@open-sports-cal
 DTSTART:20260122T023000Z
 DTEND:20260122T053000Z
 SUMMARY:Pittsburgh Penguins @ Calgary Flames
@@ -603,11 +603,11 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Calgary Flames\nScotiabank Saddle
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-24-washington-capitals-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-01-23-washington-capitals-vs-calgary-flames@open-sports-cal
 DTSTART:20260124T020000Z
 DTEND:20260124T050000Z
 SUMMARY:Washington Capitals @ Calgary Flames
@@ -615,11 +615,11 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Calgary Flames\nScotiabank Saddle
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-26-anaheim-ducks-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-01-25-anaheim-ducks-vs-calgary-flames@open-sports-cal
 DTSTART:20260126T010000Z
 DTEND:20260126T040000Z
 SUMMARY:Anaheim Ducks @ Calgary Flames
@@ -627,11 +627,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-30-calgary-flames-vs-minnesota-wild@open-sports-cal
+UID:nhl-2025-26-2026-01-29-calgary-flames-vs-minnesota-wild@open-sports-cal
 DTSTART:20260130T010000Z
 DTEND:20260130T040000Z
 SUMMARY:Calgary Flames @ Minnesota Wild
@@ -639,7 +639,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Minnesota Wild\nGrand Casino Arena
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -651,11 +651,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-03-toronto-maple-leafs-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-02-02-toronto-maple-leafs-vs-calgary-flames@open-sports-cal
 DTSTART:20260203T030000Z
 DTEND:20260203T060000Z
 SUMMARY:Toronto Maple Leafs @ Calgary Flames
@@ -663,11 +663,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Calgary Flames\nScotiabank Saddle
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-05-edmonton-oilers-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-02-04-edmonton-oilers-vs-calgary-flames@open-sports-cal
 DTSTART:20260205T030000Z
 DTEND:20260205T060000Z
 SUMMARY:Edmonton Oilers @ Calgary Flames
@@ -675,11 +675,11 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-27-calgary-flames-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-02-26-calgary-flames-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260227T030000Z
 DTEND:20260227T060000Z
 SUMMARY:Calgary Flames @ San Jose Sharks
@@ -687,11 +687,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ San Jose Sharks\nSAP Center at San Jos
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-01-calgary-flames-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2026-02-28-calgary-flames-vs-los-angeles-kings@open-sports-cal
 DTSTART:20260301T000000Z
 DTEND:20260301T030000Z
 SUMMARY:Calgary Flames @ Los Angeles Kings
@@ -699,11 +699,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Los Angeles Kings\nCrypto.com Arena
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-02-calgary-flames-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-03-01-calgary-flames-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260302T010000Z
 DTEND:20260302T040000Z
 SUMMARY:Calgary Flames @ Anaheim Ducks
@@ -711,11 +711,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-04-dallas-stars-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-03-03-dallas-stars-vs-calgary-flames@open-sports-cal
 DTSTART:20260304T020000Z
 DTEND:20260304T050000Z
 SUMMARY:Dallas Stars @ Calgary Flames
@@ -723,11 +723,11 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-06-ottawa-senators-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-03-05-ottawa-senators-vs-calgary-flames@open-sports-cal
 DTSTART:20260306T020000Z
 DTEND:20260306T050000Z
 SUMMARY:Ottawa Senators @ Calgary Flames
@@ -735,11 +735,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-08-carolina-hurricanes-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-03-07-carolina-hurricanes-vs-calgary-flames@open-sports-cal
 DTSTART:20260308T030000Z
 DTEND:20260308T060000Z
 SUMMARY:Carolina Hurricanes @ Calgary Flames
@@ -747,8 +747,8 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Calgary Flames\nScotiabank Saddle
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2026-03-09-calgary-flames-vs-washington-capitals@open-sports-cal
@@ -759,7 +759,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Washington Capitals\nCapital One Arena
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -771,7 +771,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ New York Rangers\nMadison Square Garde
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -783,7 +783,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ New Jersey Devils\nPrudential Center
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -795,7 +795,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -807,11 +807,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Detroit Red Wings\nLittle Caesars Aren
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-19-st-louis-blues-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-03-18-st-louis-blues-vs-calgary-flames@open-sports-cal
 DTSTART:20260319T013000Z
 DTEND:20260319T043000Z
 SUMMARY:St. Louis Blues @ Calgary Flames
@@ -819,11 +819,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-21-florida-panthers-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-03-20-florida-panthers-vs-calgary-flames@open-sports-cal
 DTSTART:20260321T010000Z
 DTEND:20260321T040000Z
 SUMMARY:Florida Panthers @ Calgary Flames
@@ -831,11 +831,11 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Calgary Flames\nScotiabank Saddledom
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-23-tampa-bay-lightning-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-03-22-tampa-bay-lightning-vs-calgary-flames@open-sports-cal
 DTSTART:20260323T000000Z
 DTEND:20260323T030000Z
 SUMMARY:Tampa Bay Lightning @ Calgary Flames
@@ -843,11 +843,11 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Calgary Flames\nScotiabank Saddle
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-25-los-angeles-kings-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-03-24-los-angeles-kings-vs-calgary-flames@open-sports-cal
 DTSTART:20260325T010000Z
 DTEND:20260325T040000Z
 SUMMARY:Los Angeles Kings @ Calgary Flames
@@ -855,11 +855,11 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Calgary Flames\nScotiabank Saddledo
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-27-anaheim-ducks-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-03-26-anaheim-ducks-vs-calgary-flames@open-sports-cal
 DTSTART:20260327T010000Z
 DTEND:20260327T040000Z
 SUMMARY:Anaheim Ducks @ Calgary Flames
@@ -867,11 +867,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-29-vancouver-canucks-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-03-28-vancouver-canucks-vs-calgary-flames@open-sports-cal
 DTSTART:20260329T020000Z
 DTEND:20260329T050000Z
 SUMMARY:Vancouver Canucks @ Calgary Flames
@@ -879,11 +879,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Calgary Flames\nScotiabank Saddledo
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-31-calgary-flames-vs-colorado-avalanche@open-sports-cal
+UID:nhl-2025-26-2026-03-30-calgary-flames-vs-colorado-avalanche@open-sports-cal
 DTSTART:20260331T003000Z
 DTEND:20260331T033000Z
 SUMMARY:Calgary Flames @ Colorado Avalanche
@@ -891,11 +891,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-03-calgary-flames-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-04-02-calgary-flames-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260403T020000Z
 DTEND:20260403T050000Z
 SUMMARY:Calgary Flames @ Vegas Golden Knights
@@ -903,11 +903,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Vegas Golden Knights\nT-Mobile Arena
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-05-calgary-flames-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-04-04-calgary-flames-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260405T020000Z
 DTEND:20260405T050000Z
 SUMMARY:Calgary Flames @ Anaheim Ducks
@@ -915,11 +915,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-08-calgary-flames-vs-dallas-stars@open-sports-cal
+UID:nhl-2025-26-2026-04-07-calgary-flames-vs-dallas-stars@open-sports-cal
 DTSTART:20260408T000000Z
 DTEND:20260408T030000Z
 SUMMARY:Calgary Flames @ Dallas Stars
@@ -927,11 +927,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Dallas Stars\nAmerican Airlines Center
 LOCATION:American Airlines Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-10-calgary-flames-vs-colorado-avalanche@open-sports-cal
+UID:nhl-2025-26-2026-04-09-calgary-flames-vs-colorado-avalanche@open-sports-cal
 DTSTART:20260410T010000Z
 DTEND:20260410T040000Z
 SUMMARY:Calgary Flames @ Colorado Avalanche
@@ -939,7 +939,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -951,23 +951,23 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Seattle Kraken\nClimate Pledge Arena
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-13-utah-hockey-club-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-04-12-utah-mammoth-vs-calgary-flames@open-sports-cal
 DTSTART:20260413T010000Z
 DTEND:20260413T040000Z
-SUMMARY:Utah Hockey Club @ Calgary Flames
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Calgary Flames\nScotiabank Saddledome
+SUMMARY:Utah Mammoth @ Calgary Flames
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ Calgary Flames\nScotiabank Saddledome
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-15-colorado-avalanche-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-04-14-colorado-avalanche-vs-calgary-flames@open-sports-cal
 DTSTART:20260415T010000Z
 DTEND:20260415T040000Z
 SUMMARY:Colorado Avalanche @ Calgary Flames
@@ -975,11 +975,11 @@ DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Calgary Flames\nScotiabank Saddled
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-17-los-angeles-kings-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-04-16-los-angeles-kings-vs-calgary-flames@open-sports-cal
 DTSTART:20260417T010000Z
 DTEND:20260417T040000Z
 SUMMARY:Los Angeles Kings @ Calgary Flames
@@ -987,7 +987,7 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Calgary Flames\nScotiabank Saddledo
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 END:VCALENDAR

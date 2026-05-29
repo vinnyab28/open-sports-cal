@@ -910,14 +910,14 @@ X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2025-playoffs-2026-04-19-philadelphia-76ers-vs-boston-celtics-g1@open-sports-cal
-DTSTART:20260419T230000Z
-DTEND:20260420T020000Z
+DTSTART:20260419T170000Z
+DTEND:20260419T200000Z
 SUMMARY:Philadelphia 76ers @ Boston Celtics (Game 1)
 DESCRIPTION:NBA Playoffs 2025-26 — First Round\nPhiladelphia 76ers @ Boston Celtics — Game 1\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T024932Z
+DTSTAMP:20260529T034332Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -929,55 +929,115 @@ DESCRIPTION:NBA Playoffs 2025-26 — First Round\nPhiladelphia 76ers @ Boston Ce
 LOCATION:TD Garden
 CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T024932Z
+DTSTAMP:20260529T034332Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nba-2025-playoffs-2026-04-23-boston-celtics-vs-philadelphia-76ers-g3@open-sports-cal
-DTSTART:20260423T230000Z
-DTEND:20260424T020000Z
+UID:nba-2025-playoffs-2026-04-24-boston-celtics-vs-philadelphia-76ers-g3@open-sports-cal
+DTSTART:20260424T230000Z
+DTEND:20260425T020000Z
 SUMMARY:Boston Celtics @ Philadelphia 76ers (Game 3)
-DESCRIPTION:NBA Playoffs 2025-26 — First Round\nBoston Celtics @ Philadelphia 76ers — Game 3\nWells Fargo Center
-LOCATION:Wells Fargo Center
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nBoston Celtics @ Philadelphia 76ers — Game 3\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
 CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T024932Z
+DTSTAMP:20260529T034332Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nba-2025-playoffs-2026-04-25-boston-celtics-vs-philadelphia-76ers-g4@open-sports-cal
-DTSTART:20260425T230000Z
-DTEND:20260426T020000Z
+UID:nba-2025-playoffs-2026-04-26-boston-celtics-vs-philadelphia-76ers-g4@open-sports-cal
+DTSTART:20260426T230000Z
+DTEND:20260427T020000Z
 SUMMARY:Boston Celtics @ Philadelphia 76ers (Game 4)
-DESCRIPTION:NBA Playoffs 2025-26 — First Round\nBoston Celtics @ Philadelphia 76ers — Game 4\nWells Fargo Center
-LOCATION:Wells Fargo Center
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nBoston Celtics @ Philadelphia 76ers — Game 4\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
 CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T024932Z
+DTSTAMP:20260529T034332Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nba-2025-playoffs-2026-04-28-boston-celtics-vs-philadelphia-76ers-g5@open-sports-cal
+UID:nba-2025-playoffs-2026-04-28-philadelphia-76ers-vs-boston-celtics-g5@open-sports-cal
 DTSTART:20260428T230000Z
 DTEND:20260429T020000Z
-SUMMARY:Boston Celtics @ Philadelphia 76ers (Game 5)
-DESCRIPTION:NBA Playoffs 2025-26 — First Round\nBoston Celtics @ Philadelphia 76ers — Game 5\nWells Fargo Center
-LOCATION:Wells Fargo Center
-CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
-STATUS:CONFIRMED
-DTSTAMP:20260428T024932Z
-X-TIMEZONE:America/New_York
-END:VEVENT
-BEGIN:VEVENT
-UID:nba-2025-playoffs-2026-04-30-philadelphia-76ers-vs-boston-celtics-g6@open-sports-cal
-DTSTART:20260430T230000Z
-DTEND:20260501T020000Z
-SUMMARY:Philadelphia 76ers @ Boston Celtics (Game 6)
-DESCRIPTION:NBA Playoffs 2025-26 — First Round\nPhiladelphia 76ers @ Boston Celtics — Game 6\nTD Garden
+SUMMARY:Philadelphia 76ers @ Boston Celtics (Game 5)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nPhiladelphia 76ers @ Boston Celtics — Game 5\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260428T024932Z
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-01-boston-celtics-vs-philadelphia-76ers-g6@open-sports-cal
+DTSTART:20260501T000000Z
+DTEND:20260501T030000Z
+SUMMARY:Boston Celtics @ Philadelphia 76ers (Game 6)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nBoston Celtics @ Philadelphia 76ers — Game 6\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-02-philadelphia-76ers-vs-boston-celtics-g7@open-sports-cal
+DTSTART:20260502T233000Z
+DTEND:20260503T023000Z
+SUMMARY:Philadelphia 76ers @ Boston Celtics (Game 7)
+DESCRIPTION:NBA Playoffs 2025-26 — First Round\nPhiladelphia 76ers @ Boston Celtics — Game 7\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-05-philadelphia-76ers-vs-new-york-knicks-g1@open-sports-cal
+DTSTART:20260505T000000Z
+DTEND:20260505T030000Z
+SUMMARY:Philadelphia 76ers @ New York Knicks (Game 1)
+DESCRIPTION:NBA Playoffs 2025-26 — Conference Semifinals\nPhiladelphia 76ers @ New York Knicks — Game 1\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-06-philadelphia-76ers-vs-new-york-knicks-g2@open-sports-cal
+DTSTART:20260506T230000Z
+DTEND:20260507T020000Z
+SUMMARY:Philadelphia 76ers @ New York Knicks (Game 2)
+DESCRIPTION:NBA Playoffs 2025-26 — Conference Semifinals\nPhiladelphia 76ers @ New York Knicks — Game 2\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-08-new-york-knicks-vs-philadelphia-76ers-g3@open-sports-cal
+DTSTART:20260508T230000Z
+DTEND:20260509T020000Z
+SUMMARY:New York Knicks @ Philadelphia 76ers (Game 3)
+DESCRIPTION:NBA Playoffs 2025-26 — Conference Semifinals\nNew York Knicks @ Philadelphia 76ers — Game 3\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2025-playoffs-2026-05-10-new-york-knicks-vs-philadelphia-76ers-g4@open-sports-cal
+DTSTART:20260510T193000Z
+DTEND:20260510T223000Z
+SUMMARY:New York Knicks @ Philadelphia 76ers (Game 4)
+DESCRIPTION:NBA Playoffs 2025-26 — Conference Semifinals\nNew York Knicks @ Philadelphia 76ers — Game 4\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA Playoffs 2025-26
+STATUS:CONFIRMED
+DTSTAMP:20260529T034332Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

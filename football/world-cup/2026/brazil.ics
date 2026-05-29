@@ -7,39 +7,39 @@ X-WR-CALNAME:FIFA World Cup 2026 - Brazil
 X-WR-TIMEZONE:UTC
 X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
-UID:fwc2026-m013@open-sports-cal
+UID:fwc2026-m006@open-sports-cal
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
 SUMMARY:Brazil vs Morocco
-DESCRIPTION:FIFA World Cup 2026 — Group C\nBrazil vs Morocco\nMetLife Stadium, New York/New Jersey, USA
-LOCATION:MetLife Stadium, New York/New Jersey, USA
+DESCRIPTION:FIFA World Cup 2026 — Group C\nBrazil vs Morocco\nMetLife Stadium, East Rutherford, New Jersey
+LOCATION:MetLife Stadium, East Rutherford, New Jersey
 CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
 STATUS:CONFIRMED
-DTSTAMP:20260404T124945Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:fwc2026-m016@open-sports-cal
-DTSTART:20260620T010000Z
-DTEND:20260620T030000Z
+UID:fwc2026-m031@open-sports-cal
+DTSTART:20260620T003000Z
+DTEND:20260620T023000Z
 SUMMARY:Brazil vs Haiti
-DESCRIPTION:FIFA World Cup 2026 — Group C\nBrazil vs Haiti\nLincoln Financial Field, Philadelphia, USA
-LOCATION:Lincoln Financial Field, Philadelphia, USA
+DESCRIPTION:FIFA World Cup 2026 — Group C\nBrazil vs Haiti\nLincoln Financial Field, Philadelphia, Pennsylvania
+LOCATION:Lincoln Financial Field, Philadelphia, Pennsylvania
 CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
 STATUS:CONFIRMED
-DTSTAMP:20260404T124945Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:fwc2026-m017@open-sports-cal
+UID:fwc2026-m052@open-sports-cal
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:Scotland vs Brazil
-DESCRIPTION:FIFA World Cup 2026 — Group C\nScotland vs Brazil\nHard Rock Stadium, Miami, USA
-LOCATION:Hard Rock Stadium, Miami, USA
+DESCRIPTION:FIFA World Cup 2026 — Group C\nScotland vs Brazil\nHard Rock Stadium, Miami Gardens, Florida
+LOCATION:Hard Rock Stadium, Miami Gardens, Florida
 CATEGORIES:Football,FIFA World Cup,FIFA World Cup 2026
 STATUS:CONFIRMED
-DTSTAMP:20260404T124945Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

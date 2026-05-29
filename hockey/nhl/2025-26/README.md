@@ -31,7 +31,7 @@ All times are in **UTC**. Each game is blocked for **3 hours**.
 | Detroit Red Wings | [detroit-red-wings.ics](detroit-red-wings.ics) | | St. Louis Blues | [st-louis-blues.ics](st-louis-blues.ics) |
 | Edmonton Oilers | [edmonton-oilers.ics](edmonton-oilers.ics) | | Tampa Bay Lightning | [tampa-bay-lightning.ics](tampa-bay-lightning.ics) |
 | Florida Panthers | [florida-panthers.ics](florida-panthers.ics) | | Toronto Maple Leafs | [toronto-maple-leafs.ics](toronto-maple-leafs.ics) |
-| Los Angeles Kings | [los-angeles-kings.ics](los-angeles-kings.ics) | | Utah Hockey Club | [utah-hockey-club.ics](utah-hockey-club.ics) |
+| Los Angeles Kings | [los-angeles-kings.ics](los-angeles-kings.ics) | | Utah Mammoth | [utah-mammoth.ics](utah-mammoth.ics) |
 | Minnesota Wild | [minnesota-wild.ics](minnesota-wild.ics) | | Vancouver Canucks | [vancouver-canucks.ics](vancouver-canucks.ics) |
 | Montréal Canadiens | [montreal-canadiens.ics](montreal-canadiens.ics) | | Vegas Golden Knights | [vegas-golden-knights.ics](vegas-golden-knights.ics) |
 | | | | Washington Capitals | [washington-capitals.ics](washington-capitals.ics) |

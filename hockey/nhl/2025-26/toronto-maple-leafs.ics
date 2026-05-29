@@ -15,7 +15,7 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Toronto Maple Leafs\nScotiabank A
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +27,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -39,7 +39,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Toronto Maple Leafs\nScotiabank Are
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -51,7 +51,7 @@ DESCRIPTION:NHL 2025-26\nNashville Predators @ Toronto Maple Leafs\nScotiabank A
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -63,7 +63,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Toronto Maple Leafs\nScotiabank Aren
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -87,7 +87,7 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Toronto Maple Leafs\nScotiabank Are
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +99,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -111,7 +111,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -123,7 +123,7 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -135,7 +135,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -147,11 +147,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Philadelphia Flyers\nXfinity Mobi
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-04-pittsburgh-penguins-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-11-03-pittsburgh-penguins-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251104T003000Z
 DTEND:20251104T033000Z
 SUMMARY:Pittsburgh Penguins @ Toronto Maple Leafs
@@ -159,23 +159,23 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Toronto Maple Leafs\nScotiabank A
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-06-utah-hockey-club-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-11-05-utah-mammoth-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251106T000000Z
 DTEND:20251106T030000Z
-SUMMARY:Utah Hockey Club @ Toronto Maple Leafs
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Toronto Maple Leafs\nScotiabank Arena
+SUMMARY:Utah Mammoth @ Toronto Maple Leafs
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-09-boston-bruins-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-11-08-boston-bruins-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251109T000000Z
 DTEND:20251109T030000Z
 SUMMARY:Boston Bruins @ Toronto Maple Leafs
@@ -183,11 +183,11 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-10-carolina-hurricanes-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-11-09-carolina-hurricanes-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251110T000000Z
 DTEND:20251110T030000Z
 SUMMARY:Carolina Hurricanes @ Toronto Maple Leafs
@@ -195,11 +195,11 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Toronto Maple Leafs\nScotiabank A
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-12-toronto-maple-leafs-vs-boston-bruins@open-sports-cal
+UID:nhl-2025-26-2025-11-11-toronto-maple-leafs-vs-boston-bruins@open-sports-cal
 DTSTART:20251112T000000Z
 DTEND:20251112T030000Z
 SUMMARY:Toronto Maple Leafs @ Boston Bruins
@@ -207,11 +207,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-14-los-angeles-kings-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-11-13-los-angeles-kings-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251114T000000Z
 DTEND:20251114T030000Z
 SUMMARY:Los Angeles Kings @ Toronto Maple Leafs
@@ -219,11 +219,11 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Toronto Maple Leafs\nScotiabank Are
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-16-toronto-maple-leafs-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2025-11-15-toronto-maple-leafs-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20251116T000000Z
 DTEND:20251116T030000Z
 SUMMARY:Toronto Maple Leafs @ Chicago Blackhawks
@@ -231,11 +231,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Chicago Blackhawks\nUnited Center
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-19-st-louis-blues-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-11-18-st-louis-blues-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251119T000000Z
 DTEND:20251119T030000Z
 SUMMARY:St. Louis Blues @ Toronto Maple Leafs
@@ -243,11 +243,11 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-21-columbus-blue-jackets-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-11-20-columbus-blue-jackets-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251121T000000Z
 DTEND:20251121T030000Z
 SUMMARY:Columbus Blue Jackets @ Toronto Maple Leafs
@@ -255,11 +255,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Toronto Maple Leafs\nScotiabank
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-23-toronto-maple-leafs-vs-montreal-canadiens@open-sports-cal
+UID:nhl-2025-26-2025-11-22-toronto-maple-leafs-vs-montreal-canadiens@open-sports-cal
 DTSTART:20251123T000000Z
 DTEND:20251123T030000Z
 SUMMARY:Toronto Maple Leafs @ Montréal Canadiens
@@ -267,11 +267,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-27-toronto-maple-leafs-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-11-26-toronto-maple-leafs-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20251127T000000Z
 DTEND:20251127T030000Z
 SUMMARY:Toronto Maple Leafs @ Columbus Blue Jackets
@@ -279,7 +279,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -291,11 +291,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Washington Capitals\nCapital One 
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-30-toronto-maple-leafs-vs-pittsburgh-penguins@open-sports-cal
+UID:nhl-2025-26-2025-11-29-toronto-maple-leafs-vs-pittsburgh-penguins@open-sports-cal
 DTSTART:20251130T000000Z
 DTEND:20251130T030000Z
 SUMMARY:Toronto Maple Leafs @ Pittsburgh Penguins
@@ -303,11 +303,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Pittsburgh Penguins\nPPG Paints A
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-03-toronto-maple-leafs-vs-florida-panthers@open-sports-cal
+UID:nhl-2025-26-2025-12-02-toronto-maple-leafs-vs-florida-panthers@open-sports-cal
 DTSTART:20251203T003000Z
 DTEND:20251203T033000Z
 SUMMARY:Toronto Maple Leafs @ Florida Panthers
@@ -315,11 +315,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Florida Panthers\nAmerant Bank Ar
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-05-toronto-maple-leafs-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-12-04-toronto-maple-leafs-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251205T000000Z
 DTEND:20251205T030000Z
 SUMMARY:Toronto Maple Leafs @ Carolina Hurricanes
@@ -327,11 +327,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Carolina Hurricanes\nLenovo Cente
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-07-montreal-canadiens-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-12-06-montreal-canadiens-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251207T000000Z
 DTEND:20251207T030000Z
 SUMMARY:Montréal Canadiens @ Toronto Maple Leafs
@@ -339,11 +339,11 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Toronto Maple Leafs\nScotiabank A
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-09-tampa-bay-lightning-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-12-08-tampa-bay-lightning-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251209T003000Z
 DTEND:20251209T033000Z
 SUMMARY:Tampa Bay Lightning @ Toronto Maple Leafs
@@ -351,11 +351,11 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Toronto Maple Leafs\nScotiabank A
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-12-san-jose-sharks-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-12-11-san-jose-sharks-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251212T000000Z
 DTEND:20251212T030000Z
 SUMMARY:San Jose Sharks @ Toronto Maple Leafs
@@ -363,11 +363,11 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-14-edmonton-oilers-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-12-13-edmonton-oilers-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251214T000000Z
 DTEND:20251214T030000Z
 SUMMARY:Edmonton Oilers @ Toronto Maple Leafs
@@ -375,11 +375,11 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-17-chicago-blackhawks-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-12-16-chicago-blackhawks-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251217T000000Z
 DTEND:20251217T030000Z
 SUMMARY:Chicago Blackhawks @ Toronto Maple Leafs
@@ -387,11 +387,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Toronto Maple Leafs\nScotiabank Ar
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-19-toronto-maple-leafs-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2025-12-18-toronto-maple-leafs-vs-washington-capitals@open-sports-cal
 DTSTART:20251219T000000Z
 DTEND:20251219T030000Z
 SUMMARY:Toronto Maple Leafs @ Washington Capitals
@@ -399,11 +399,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Washington Capitals\nCapital One 
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-21-toronto-maple-leafs-vs-nashville-predators@open-sports-cal
+UID:nhl-2025-26-2025-12-20-toronto-maple-leafs-vs-nashville-predators@open-sports-cal
 DTSTART:20251221T000000Z
 DTEND:20251221T030000Z
 SUMMARY:Toronto Maple Leafs @ Nashville Predators
@@ -411,11 +411,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Nashville Predators\nBridgestone 
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-22-toronto-maple-leafs-vs-dallas-stars@open-sports-cal
+UID:nhl-2025-26-2025-12-21-toronto-maple-leafs-vs-dallas-stars@open-sports-cal
 DTSTART:20251222T000000Z
 DTEND:20251222T030000Z
 SUMMARY:Toronto Maple Leafs @ Dallas Stars
@@ -423,7 +423,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Dallas Stars\nAmerican Airlines C
 LOCATION:American Airlines Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -435,11 +435,11 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Toronto Maple Leafs\nScotiabank A
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-28-ottawa-senators-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-12-27-ottawa-senators-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251228T000000Z
 DTEND:20251228T030000Z
 SUMMARY:Ottawa Senators @ Toronto Maple Leafs
@@ -447,11 +447,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-29-toronto-maple-leafs-vs-detroit-red-wings@open-sports-cal
+UID:nhl-2025-26-2025-12-28-toronto-maple-leafs-vs-detroit-red-wings@open-sports-cal
 DTSTART:20251229T000000Z
 DTEND:20251229T030000Z
 SUMMARY:Toronto Maple Leafs @ Detroit Red Wings
@@ -459,11 +459,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Detroit Red Wings\nLittle Caesars
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-31-new-jersey-devils-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-12-30-new-jersey-devils-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251231T000000Z
 DTEND:20251231T030000Z
 SUMMARY:New Jersey Devils @ Toronto Maple Leafs
@@ -471,11 +471,11 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Toronto Maple Leafs\nScotiabank Are
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-02-winnipeg-jets-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2026-01-01-winnipeg-jets-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20260102T000000Z
 DTEND:20260102T030000Z
 SUMMARY:Winnipeg Jets @ Toronto Maple Leafs
@@ -483,11 +483,11 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-04-toronto-maple-leafs-vs-new-york-islanders@open-sports-cal
+UID:nhl-2025-26-2026-01-03-toronto-maple-leafs-vs-new-york-islanders@open-sports-cal
 DTSTART:20260104T000000Z
 DTEND:20260104T030000Z
 SUMMARY:Toronto Maple Leafs @ New York Islanders
@@ -495,11 +495,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-07-florida-panthers-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2026-01-06-florida-panthers-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20260107T003000Z
 DTEND:20260107T033000Z
 SUMMARY:Florida Panthers @ Toronto Maple Leafs
@@ -507,11 +507,11 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Toronto Maple Leafs\nScotiabank Aren
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-09-toronto-maple-leafs-vs-philadelphia-flyers@open-sports-cal
+UID:nhl-2025-26-2026-01-08-toronto-maple-leafs-vs-philadelphia-flyers@open-sports-cal
 DTSTART:20260109T000000Z
 DTEND:20260109T030000Z
 SUMMARY:Toronto Maple Leafs @ Philadelphia Flyers
@@ -519,11 +519,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Philadelphia Flyers\nXfinity Mobi
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-11-vancouver-canucks-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2026-01-10-vancouver-canucks-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20260111T000000Z
 DTEND:20260111T030000Z
 SUMMARY:Vancouver Canucks @ Toronto Maple Leafs
@@ -531,11 +531,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Toronto Maple Leafs\nScotiabank Are
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-13-toronto-maple-leafs-vs-colorado-avalanche@open-sports-cal
+UID:nhl-2025-26-2026-01-12-toronto-maple-leafs-vs-colorado-avalanche@open-sports-cal
 DTSTART:20260113T030000Z
 DTEND:20260113T060000Z
 SUMMARY:Toronto Maple Leafs @ Colorado Avalanche
@@ -543,23 +543,23 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-14-toronto-maple-leafs-vs-utah-hockey-club@open-sports-cal
+UID:nhl-2025-26-2026-01-13-toronto-maple-leafs-vs-utah-mammoth@open-sports-cal
 DTSTART:20260114T030000Z
 DTEND:20260114T060000Z
-SUMMARY:Toronto Maple Leafs @ Utah Hockey Club
-DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Utah Hockey Club\nDelta Center
+SUMMARY:Toronto Maple Leafs @ Utah Mammoth
+DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Utah Mammoth\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-16-toronto-maple-leafs-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-01-15-toronto-maple-leafs-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260116T023000Z
 DTEND:20260116T053000Z
 SUMMARY:Toronto Maple Leafs @ Vegas Golden Knights
@@ -567,11 +567,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Vegas Golden Knights\nT-Mobile Ar
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-18-toronto-maple-leafs-vs-winnipeg-jets@open-sports-cal
+UID:nhl-2025-26-2026-01-17-toronto-maple-leafs-vs-winnipeg-jets@open-sports-cal
 DTSTART:20260118T000000Z
 DTEND:20260118T030000Z
 SUMMARY:Toronto Maple Leafs @ Winnipeg Jets
@@ -579,11 +579,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Winnipeg Jets\nCanada Life Centre
 LOCATION:Canada Life Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Winnipeg
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-20-minnesota-wild-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2026-01-19-minnesota-wild-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20260120T003000Z
 DTEND:20260120T033000Z
 SUMMARY:Minnesota Wild @ Toronto Maple Leafs
@@ -591,11 +591,11 @@ DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-22-detroit-red-wings-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2026-01-21-detroit-red-wings-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20260122T000000Z
 DTEND:20260122T030000Z
 SUMMARY:Detroit Red Wings @ Toronto Maple Leafs
@@ -603,11 +603,11 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Toronto Maple Leafs\nScotiabank Are
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-24-vegas-golden-knights-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2026-01-23-vegas-golden-knights-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20260124T000000Z
 DTEND:20260124T030000Z
 SUMMARY:Vegas Golden Knights @ Toronto Maple Leafs
@@ -615,7 +615,7 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Toronto Maple Leafs\nScotiabank 
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -627,11 +627,11 @@ DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Toronto Maple Leafs\nScotiabank Ar
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-28-buffalo-sabres-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2026-01-27-buffalo-sabres-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20260128T000000Z
 DTEND:20260128T030000Z
 SUMMARY:Buffalo Sabres @ Toronto Maple Leafs
@@ -639,11 +639,11 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-30-toronto-maple-leafs-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2026-01-29-toronto-maple-leafs-vs-seattle-kraken@open-sports-cal
 DTSTART:20260130T030000Z
 DTEND:20260130T060000Z
 SUMMARY:Toronto Maple Leafs @ Seattle Kraken
@@ -651,11 +651,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Seattle Kraken\nClimate Pledge Ar
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-01-toronto-maple-leafs-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2026-01-31-toronto-maple-leafs-vs-vancouver-canucks@open-sports-cal
 DTSTART:20260201T000000Z
 DTEND:20260201T030000Z
 SUMMARY:Toronto Maple Leafs @ Vancouver Canucks
@@ -663,11 +663,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-03-toronto-maple-leafs-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2026-02-02-toronto-maple-leafs-vs-calgary-flames@open-sports-cal
 DTSTART:20260203T030000Z
 DTEND:20260203T060000Z
 SUMMARY:Toronto Maple Leafs @ Calgary Flames
@@ -675,11 +675,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Calgary Flames\nScotiabank Saddle
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-04-toronto-maple-leafs-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2026-02-03-toronto-maple-leafs-vs-edmonton-oilers@open-sports-cal
 DTSTART:20260204T013000Z
 DTEND:20260204T043000Z
 SUMMARY:Toronto Maple Leafs @ Edmonton Oilers
@@ -687,11 +687,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-26-toronto-maple-leafs-vs-tampa-bay-lightning@open-sports-cal
+UID:nhl-2025-26-2026-02-25-toronto-maple-leafs-vs-tampa-bay-lightning@open-sports-cal
 DTSTART:20260226T003000Z
 DTEND:20260226T033000Z
 SUMMARY:Toronto Maple Leafs @ Tampa Bay Lightning
@@ -699,11 +699,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Tampa Bay Lightning\nBenchmark In
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-27-toronto-maple-leafs-vs-florida-panthers@open-sports-cal
+UID:nhl-2025-26-2026-02-26-toronto-maple-leafs-vs-florida-panthers@open-sports-cal
 DTSTART:20260227T000000Z
 DTEND:20260227T030000Z
 SUMMARY:Toronto Maple Leafs @ Florida Panthers
@@ -711,11 +711,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Florida Panthers\nAmerant Bank Ar
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-01-ottawa-senators-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2026-02-28-ottawa-senators-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20260301T000000Z
 DTEND:20260301T030000Z
 SUMMARY:Ottawa Senators @ Toronto Maple Leafs
@@ -723,11 +723,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-03-philadelphia-flyers-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2026-03-02-philadelphia-flyers-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20260303T003000Z
 DTEND:20260303T033000Z
 SUMMARY:Philadelphia Flyers @ Toronto Maple Leafs
@@ -735,11 +735,11 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Toronto Maple Leafs\nScotiabank A
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-05-toronto-maple-leafs-vs-new-jersey-devils@open-sports-cal
+UID:nhl-2025-26-2026-03-04-toronto-maple-leafs-vs-new-jersey-devils@open-sports-cal
 DTSTART:20260305T000000Z
 DTEND:20260305T030000Z
 SUMMARY:Toronto Maple Leafs @ New Jersey Devils
@@ -747,11 +747,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ New Jersey Devils\nPrudential Cen
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-06-toronto-maple-leafs-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2026-03-05-toronto-maple-leafs-vs-new-york-rangers@open-sports-cal
 DTSTART:20260306T000000Z
 DTEND:20260306T030000Z
 SUMMARY:Toronto Maple Leafs @ New York Rangers
@@ -759,11 +759,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ New York Rangers\nMadison Square 
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-08-tampa-bay-lightning-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2026-03-07-tampa-bay-lightning-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20260308T000000Z
 DTEND:20260308T030000Z
 SUMMARY:Tampa Bay Lightning @ Toronto Maple Leafs
@@ -771,7 +771,7 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Toronto Maple Leafs\nScotiabank A
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -783,8 +783,8 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Montréal Canadiens\nCentre Bell
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2026-03-12-anaheim-ducks-vs-toronto-maple-leafs@open-sports-cal
@@ -795,7 +795,7 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -807,7 +807,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -819,7 +819,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Minnesota Wild\nGrand Casino Aren
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -831,7 +831,7 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Toronto Maple Leafs\nScotiabank Ar
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -843,7 +843,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Toronto Maple Leafs\nScotiabank A
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -855,7 +855,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -867,7 +867,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -879,7 +879,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Toronto Maple Leafs\nScotiabank Aren
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -891,11 +891,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ St. Louis Blues\nEnterprise Cente
 LOCATION:Enterprise Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-31-toronto-maple-leafs-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2026-03-30-toronto-maple-leafs-vs-anaheim-ducks@open-sports-cal
 DTSTART:20260331T020000Z
 DTEND:20260331T050000Z
 SUMMARY:Toronto Maple Leafs @ Anaheim Ducks
@@ -903,11 +903,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-04-03-toronto-maple-leafs-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-04-02-toronto-maple-leafs-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260403T020000Z
 DTEND:20260403T050000Z
 SUMMARY:Toronto Maple Leafs @ San Jose Sharks
@@ -915,7 +915,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ San Jose Sharks\nSAP Center at Sa
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -927,7 +927,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Los Angeles Kings\nCrypto.com Are
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -939,7 +939,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Toronto Maple Leafs\nScotiabank A
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -951,7 +951,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -963,7 +963,7 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Toronto Maple Leafs\nScotiabank Aren
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -975,7 +975,7 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ Toronto Maple Leafs\nScotiabank Arena
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -987,7 +987,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Ottawa Senators\nCanadian Tire Ce
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 END:VCALENDAR

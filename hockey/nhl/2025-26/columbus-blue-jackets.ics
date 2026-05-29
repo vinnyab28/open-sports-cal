@@ -7,7 +7,7 @@ X-WR-CALNAME:NHL 2025-26 - Columbus Blue Jackets
 X-WR-TIMEZONE:UTC
 X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-10-columbus-blue-jackets-vs-nashville-predators@open-sports-cal
+UID:nhl-2025-26-2025-10-09-columbus-blue-jackets-vs-nashville-predators@open-sports-cal
 DTSTART:20251010T000000Z
 DTEND:20251010T030000Z
 SUMMARY:Columbus Blue Jackets @ Nashville Predators
@@ -15,11 +15,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Nashville Predators\nBridgeston
 LOCATION:Bridgestone Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-12-columbus-blue-jackets-vs-minnesota-wild@open-sports-cal
+UID:nhl-2025-26-2025-10-11-columbus-blue-jackets-vs-minnesota-wild@open-sports-cal
 DTSTART:20251012T000000Z
 DTEND:20251012T030000Z
 SUMMARY:Columbus Blue Jackets @ Minnesota Wild
@@ -27,7 +27,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Minnesota Wild\nGrand Casino Ar
 LOCATION:Grand Casino Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -39,7 +39,7 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Columbus Blue Jackets\nNationwide A
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -51,7 +51,7 @@ DESCRIPTION:NHL 2025-26\nColorado Avalanche @ Columbus Blue Jackets\nNationwide 
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -63,11 +63,11 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-10-22-columbus-blue-jackets-vs-dallas-stars@open-sports-cal
+UID:nhl-2025-26-2025-10-21-columbus-blue-jackets-vs-dallas-stars@open-sports-cal
 DTSTART:20251022T000000Z
 DTEND:20251022T030000Z
 SUMMARY:Columbus Blue Jackets @ Dallas Stars
@@ -75,7 +75,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Dallas Stars\nAmerican Airlines
 LOCATION:American Airlines Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -87,7 +87,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +99,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Pittsburgh Penguins\nPPG Paints
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -111,7 +111,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -123,7 +123,7 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -135,7 +135,7 @@ DESCRIPTION:NHL 2025-26\nSt. Louis Blues @ Columbus Blue Jackets\nNationwide Are
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -147,11 +147,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-06-columbus-blue-jackets-vs-calgary-flames@open-sports-cal
+UID:nhl-2025-26-2025-11-05-columbus-blue-jackets-vs-calgary-flames@open-sports-cal
 DTSTART:20251106T023000Z
 DTEND:20251106T053000Z
 SUMMARY:Columbus Blue Jackets @ Calgary Flames
@@ -159,11 +159,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Calgary Flames\nScotiabank Sadd
 LOCATION:Scotiabank Saddledome
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-09-columbus-blue-jackets-vs-vancouver-canucks@open-sports-cal
+UID:nhl-2025-26-2025-11-08-columbus-blue-jackets-vs-vancouver-canucks@open-sports-cal
 DTSTART:20251109T030000Z
 DTEND:20251109T060000Z
 SUMMARY:Columbus Blue Jackets @ Vancouver Canucks
@@ -171,11 +171,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Vancouver Canucks\nRogers Arena
 LOCATION:Rogers Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Vancouver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-11-columbus-blue-jackets-vs-edmonton-oilers@open-sports-cal
+UID:nhl-2025-26-2025-11-10-columbus-blue-jackets-vs-edmonton-oilers@open-sports-cal
 DTSTART:20251111T013000Z
 DTEND:20251111T043000Z
 SUMMARY:Columbus Blue Jackets @ Edmonton Oilers
@@ -183,11 +183,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Edmonton Oilers\nRogers Place
 LOCATION:Rogers Place
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/Edmonton
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-12-columbus-blue-jackets-vs-seattle-kraken@open-sports-cal
+UID:nhl-2025-26-2025-11-11-columbus-blue-jackets-vs-seattle-kraken@open-sports-cal
 DTSTART:20251112T030000Z
 DTEND:20251112T060000Z
 SUMMARY:Columbus Blue Jackets @ Seattle Kraken
@@ -195,11 +195,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Seattle Kraken\nClimate Pledge 
 LOCATION:Climate Pledge Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-14-edmonton-oilers-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-11-13-edmonton-oilers-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20251114T003000Z
 DTEND:20251114T033000Z
 SUMMARY:Edmonton Oilers @ Columbus Blue Jackets
@@ -207,11 +207,11 @@ DESCRIPTION:NHL 2025-26\nEdmonton Oilers @ Columbus Blue Jackets\nNationwide Are
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-16-new-york-rangers-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-11-15-new-york-rangers-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20251116T000000Z
 DTEND:20251116T030000Z
 SUMMARY:New York Rangers @ Columbus Blue Jackets
@@ -219,11 +219,11 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Columbus Blue Jackets\nNationwide Ar
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-18-montreal-canadiens-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-11-17-montreal-canadiens-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20251118T003000Z
 DTEND:20251118T033000Z
 SUMMARY:Montréal Canadiens @ Columbus Blue Jackets
@@ -231,11 +231,11 @@ DESCRIPTION:NHL 2025-26\nMontréal Canadiens @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-19-columbus-blue-jackets-vs-winnipeg-jets@open-sports-cal
+UID:nhl-2025-26-2025-11-18-columbus-blue-jackets-vs-winnipeg-jets@open-sports-cal
 DTSTART:20251119T010000Z
 DTEND:20251119T040000Z
 SUMMARY:Columbus Blue Jackets @ Winnipeg Jets
@@ -243,11 +243,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Winnipeg Jets\nCanada Life Cent
 LOCATION:Canada Life Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Winnipeg
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-21-columbus-blue-jackets-vs-toronto-maple-leafs@open-sports-cal
+UID:nhl-2025-26-2025-11-20-columbus-blue-jackets-vs-toronto-maple-leafs@open-sports-cal
 DTSTART:20251121T000000Z
 DTEND:20251121T030000Z
 SUMMARY:Columbus Blue Jackets @ Toronto Maple Leafs
@@ -255,7 +255,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Toronto Maple Leafs\nScotiabank
 LOCATION:Scotiabank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -267,11 +267,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Detroit Red Wings\nLittle Caesa
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-25-columbus-blue-jackets-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2025-11-24-columbus-blue-jackets-vs-washington-capitals@open-sports-cal
 DTSTART:20251125T000000Z
 DTEND:20251125T030000Z
 SUMMARY:Columbus Blue Jackets @ Washington Capitals
@@ -279,11 +279,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Washington Capitals\nCapital On
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-27-toronto-maple-leafs-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-11-26-toronto-maple-leafs-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20251127T000000Z
 DTEND:20251127T030000Z
 SUMMARY:Toronto Maple Leafs @ Columbus Blue Jackets
@@ -291,11 +291,11 @@ DESCRIPTION:NHL 2025-26\nToronto Maple Leafs @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-11-29-pittsburgh-penguins-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-11-28-pittsburgh-penguins-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20251129T000000Z
 DTEND:20251129T030000Z
 SUMMARY:Pittsburgh Penguins @ Columbus Blue Jackets
@@ -303,11 +303,11 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-02-columbus-blue-jackets-vs-new-jersey-devils@open-sports-cal
+UID:nhl-2025-26-2025-12-01-columbus-blue-jackets-vs-new-jersey-devils@open-sports-cal
 DTSTART:20251202T000000Z
 DTEND:20251202T030000Z
 SUMMARY:Columbus Blue Jackets @ New Jersey Devils
@@ -315,11 +315,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ New Jersey Devils\nPrudential C
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-05-detroit-red-wings-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-12-04-detroit-red-wings-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20251205T003000Z
 DTEND:20251205T033000Z
 SUMMARY:Detroit Red Wings @ Columbus Blue Jackets
@@ -327,7 +327,7 @@ DESCRIPTION:NHL 2025-26\nDetroit Red Wings @ Columbus Blue Jackets\nNationwide A
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -339,11 +339,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Florida Panthers\nAmerant Bank 
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-08-columbus-blue-jackets-vs-washington-capitals@open-sports-cal
+UID:nhl-2025-26-2025-12-07-columbus-blue-jackets-vs-washington-capitals@open-sports-cal
 DTSTART:20251208T000000Z
 DTEND:20251208T030000Z
 SUMMARY:Columbus Blue Jackets @ Washington Capitals
@@ -351,11 +351,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Washington Capitals\nCapital On
 LOCATION:Capital One Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-10-columbus-blue-jackets-vs-carolina-hurricanes@open-sports-cal
+UID:nhl-2025-26-2025-12-09-columbus-blue-jackets-vs-carolina-hurricanes@open-sports-cal
 DTSTART:20251210T003000Z
 DTEND:20251210T033000Z
 SUMMARY:Columbus Blue Jackets @ Carolina Hurricanes
@@ -363,11 +363,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Carolina Hurricanes\nLenovo Cen
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-12-ottawa-senators-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-12-11-ottawa-senators-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20251212T000000Z
 DTEND:20251212T030000Z
 SUMMARY:Ottawa Senators @ Columbus Blue Jackets
@@ -375,11 +375,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Columbus Blue Jackets\nNationwide Are
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-14-vegas-golden-knights-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-12-13-vegas-golden-knights-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20251214T000000Z
 DTEND:20251214T030000Z
 SUMMARY:Vegas Golden Knights @ Columbus Blue Jackets
@@ -387,11 +387,11 @@ DESCRIPTION:NHL 2025-26\nVegas Golden Knights @ Columbus Blue Jackets\nNationwid
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-17-anaheim-ducks-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-12-16-anaheim-ducks-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20251217T000000Z
 DTEND:20251217T030000Z
 SUMMARY:Anaheim Ducks @ Columbus Blue Jackets
@@ -399,11 +399,11 @@ DESCRIPTION:NHL 2025-26\nAnaheim Ducks @ Columbus Blue Jackets\nNationwide Arena
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-19-minnesota-wild-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-12-18-minnesota-wild-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20251219T000000Z
 DTEND:20251219T030000Z
 SUMMARY:Minnesota Wild @ Columbus Blue Jackets
@@ -411,11 +411,11 @@ DESCRIPTION:NHL 2025-26\nMinnesota Wild @ Columbus Blue Jackets\nNationwide Aren
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-21-columbus-blue-jackets-vs-anaheim-ducks@open-sports-cal
+UID:nhl-2025-26-2025-12-20-columbus-blue-jackets-vs-anaheim-ducks@open-sports-cal
 DTSTART:20251221T030000Z
 DTEND:20251221T060000Z
 SUMMARY:Columbus Blue Jackets @ Anaheim Ducks
@@ -423,11 +423,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Anaheim Ducks\nHonda Center
 LOCATION:Honda Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-23-columbus-blue-jackets-vs-los-angeles-kings@open-sports-cal
+UID:nhl-2025-26-2025-12-22-columbus-blue-jackets-vs-los-angeles-kings@open-sports-cal
 DTSTART:20251223T030000Z
 DTEND:20251223T060000Z
 SUMMARY:Columbus Blue Jackets @ Los Angeles Kings
@@ -435,7 +435,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Los Angeles Kings\nCrypto.com A
 LOCATION:Crypto.com Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -447,11 +447,11 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Columbus Blue Jackets\nNationwide 
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2025-12-30-columbus-blue-jackets-vs-ottawa-senators@open-sports-cal
+UID:nhl-2025-26-2025-12-29-columbus-blue-jackets-vs-ottawa-senators@open-sports-cal
 DTSTART:20251230T003000Z
 DTEND:20251230T033000Z
 SUMMARY:Columbus Blue Jackets @ Ottawa Senators
@@ -459,11 +459,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Ottawa Senators\nCanadian Tire 
 LOCATION:Canadian Tire Centre
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-01-new-jersey-devils-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2025-12-31-new-jersey-devils-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20260101T000000Z
 DTEND:20260101T030000Z
 SUMMARY:New Jersey Devils @ Columbus Blue Jackets
@@ -471,7 +471,7 @@ DESCRIPTION:NHL 2025-26\nNew Jersey Devils @ Columbus Blue Jackets\nNationwide A
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -483,7 +483,7 @@ DESCRIPTION:NHL 2025-26\nBuffalo Sabres @ Columbus Blue Jackets\nNationwide Aren
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -495,11 +495,11 @@ DESCRIPTION:NHL 2025-26\nPittsburgh Penguins @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-07-columbus-blue-jackets-vs-san-jose-sharks@open-sports-cal
+UID:nhl-2025-26-2026-01-06-columbus-blue-jackets-vs-san-jose-sharks@open-sports-cal
 DTSTART:20260107T030000Z
 DTEND:20260107T060000Z
 SUMMARY:Columbus Blue Jackets @ San Jose Sharks
@@ -507,11 +507,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ San Jose Sharks\nSAP Center at 
 LOCATION:SAP Center at San Jose
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-09-columbus-blue-jackets-vs-vegas-golden-knights@open-sports-cal
+UID:nhl-2025-26-2026-01-08-columbus-blue-jackets-vs-vegas-golden-knights@open-sports-cal
 DTSTART:20260109T030000Z
 DTEND:20260109T060000Z
 SUMMARY:Columbus Blue Jackets @ Vegas Golden Knights
@@ -519,7 +519,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Vegas Golden Knights\nT-Mobile 
 LOCATION:T-Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -531,23 +531,23 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Colorado Avalanche\nBall Arena
 LOCATION:Ball Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-12-columbus-blue-jackets-vs-utah-hockey-club@open-sports-cal
+UID:nhl-2025-26-2026-01-11-columbus-blue-jackets-vs-utah-mammoth@open-sports-cal
 DTSTART:20260112T000000Z
 DTEND:20260112T030000Z
-SUMMARY:Columbus Blue Jackets @ Utah Hockey Club
-DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Utah Hockey Club\nDelta Center
+SUMMARY:Columbus Blue Jackets @ Utah Mammoth
+DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Utah Mammoth\nDelta Center
 LOCATION:Delta Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Denver
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-14-calgary-flames-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2026-01-13-calgary-flames-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20260114T000000Z
 DTEND:20260114T030000Z
 SUMMARY:Calgary Flames @ Columbus Blue Jackets
@@ -555,11 +555,11 @@ DESCRIPTION:NHL 2025-26\nCalgary Flames @ Columbus Blue Jackets\nNationwide Aren
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-16-vancouver-canucks-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2026-01-15-vancouver-canucks-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20260116T000000Z
 DTEND:20260116T030000Z
 SUMMARY:Vancouver Canucks @ Columbus Blue Jackets
@@ -567,11 +567,11 @@ DESCRIPTION:NHL 2025-26\nVancouver Canucks @ Columbus Blue Jackets\nNationwide A
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-18-columbus-blue-jackets-vs-pittsburgh-penguins@open-sports-cal
+UID:nhl-2025-26-2026-01-17-columbus-blue-jackets-vs-pittsburgh-penguins@open-sports-cal
 DTSTART:20260118T000000Z
 DTEND:20260118T030000Z
 SUMMARY:Columbus Blue Jackets @ Pittsburgh Penguins
@@ -579,11 +579,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Pittsburgh Penguins\nPPG Paints
 LOCATION:PPG Paints Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-21-ottawa-senators-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2026-01-20-ottawa-senators-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20260121T000000Z
 DTEND:20260121T030000Z
 SUMMARY:Ottawa Senators @ Columbus Blue Jackets
@@ -591,11 +591,11 @@ DESCRIPTION:NHL 2025-26\nOttawa Senators @ Columbus Blue Jackets\nNationwide Are
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-23-dallas-stars-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2026-01-22-dallas-stars-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20260123T000000Z
 DTEND:20260123T030000Z
 SUMMARY:Dallas Stars @ Columbus Blue Jackets
@@ -603,11 +603,11 @@ DESCRIPTION:NHL 2025-26\nDallas Stars @ Columbus Blue Jackets\nNationwide Arena
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-25-tampa-bay-lightning-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2026-01-24-tampa-bay-lightning-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20260125T000000Z
 DTEND:20260125T030000Z
 SUMMARY:Tampa Bay Lightning @ Columbus Blue Jackets
@@ -615,11 +615,11 @@ DESCRIPTION:NHL 2025-26\nTampa Bay Lightning @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-29-philadelphia-flyers-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2026-01-28-philadelphia-flyers-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20260129T003000Z
 DTEND:20260129T033000Z
 SUMMARY:Philadelphia Flyers @ Columbus Blue Jackets
@@ -627,11 +627,11 @@ DESCRIPTION:NHL 2025-26\nPhiladelphia Flyers @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-01-31-columbus-blue-jackets-vs-chicago-blackhawks@open-sports-cal
+UID:nhl-2025-26-2026-01-30-columbus-blue-jackets-vs-chicago-blackhawks@open-sports-cal
 DTSTART:20260131T013000Z
 DTEND:20260131T043000Z
 SUMMARY:Columbus Blue Jackets @ Chicago Blackhawks
@@ -639,11 +639,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Chicago Blackhawks\nUnited Cent
 LOCATION:United Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-01-columbus-blue-jackets-vs-st-louis-blues@open-sports-cal
+UID:nhl-2025-26-2026-01-31-columbus-blue-jackets-vs-st-louis-blues@open-sports-cal
 DTSTART:20260201T000000Z
 DTEND:20260201T030000Z
 SUMMARY:Columbus Blue Jackets @ St. Louis Blues
@@ -651,11 +651,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ St. Louis Blues\nEnterprise Cen
 LOCATION:Enterprise Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-04-columbus-blue-jackets-vs-new-jersey-devils@open-sports-cal
+UID:nhl-2025-26-2026-02-03-columbus-blue-jackets-vs-new-jersey-devils@open-sports-cal
 DTSTART:20260204T000000Z
 DTEND:20260204T030000Z
 SUMMARY:Columbus Blue Jackets @ New Jersey Devils
@@ -663,11 +663,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ New Jersey Devils\nPrudential C
 LOCATION:Prudential Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-05-chicago-blackhawks-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2026-02-04-chicago-blackhawks-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20260205T000000Z
 DTEND:20260205T030000Z
 SUMMARY:Chicago Blackhawks @ Columbus Blue Jackets
@@ -675,11 +675,11 @@ DESCRIPTION:NHL 2025-26\nChicago Blackhawks @ Columbus Blue Jackets\nNationwide 
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-02-27-columbus-blue-jackets-vs-boston-bruins@open-sports-cal
+UID:nhl-2025-26-2026-02-26-columbus-blue-jackets-vs-boston-bruins@open-sports-cal
 DTSTART:20260227T000000Z
 DTEND:20260227T030000Z
 SUMMARY:Columbus Blue Jackets @ Boston Bruins
@@ -687,7 +687,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Boston Bruins\nTD Garden
 LOCATION:TD Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -699,11 +699,11 @@ DESCRIPTION:NHL 2025-26\nNew York Islanders @ Columbus Blue Jackets\nNationwide 
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-03-columbus-blue-jackets-vs-new-york-rangers@open-sports-cal
+UID:nhl-2025-26-2026-03-02-columbus-blue-jackets-vs-new-york-rangers@open-sports-cal
 DTSTART:20260303T000000Z
 DTEND:20260303T030000Z
 SUMMARY:Columbus Blue Jackets @ New York Rangers
@@ -711,11 +711,11 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ New York Rangers\nMadison Squar
 LOCATION:Madison Square Garden
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-04-nashville-predators-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2026-03-03-nashville-predators-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20260304T000000Z
 DTEND:20260304T030000Z
 SUMMARY:Nashville Predators @ Columbus Blue Jackets
@@ -723,11 +723,11 @@ DESCRIPTION:NHL 2025-26\nNashville Predators @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-06-florida-panthers-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2026-03-05-florida-panthers-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20260306T000000Z
 DTEND:20260306T030000Z
 SUMMARY:Florida Panthers @ Columbus Blue Jackets
@@ -735,19 +735,19 @@ DESCRIPTION:NHL 2025-26\nFlorida Panthers @ Columbus Blue Jackets\nNationwide Ar
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
-UID:nhl-2025-26-2026-03-08-utah-hockey-club-vs-columbus-blue-jackets@open-sports-cal
+UID:nhl-2025-26-2026-03-07-utah-mammoth-vs-columbus-blue-jackets@open-sports-cal
 DTSTART:20260308T000000Z
 DTEND:20260308T030000Z
-SUMMARY:Utah Hockey Club @ Columbus Blue Jackets
-DESCRIPTION:NHL 2025-26\nUtah Hockey Club @ Columbus Blue Jackets\nNationwide Arena
+SUMMARY:Utah Mammoth @ Columbus Blue Jackets
+DESCRIPTION:NHL 2025-26\nUtah Mammoth @ Columbus Blue Jackets\nNationwide Arena
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -759,7 +759,7 @@ DESCRIPTION:NHL 2025-26\nLos Angeles Kings @ Columbus Blue Jackets\nNationwide A
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -771,7 +771,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Tampa Bay Lightning\nBenchmark 
 LOCATION:Benchmark International Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -783,7 +783,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Florida Panthers\nAmerant Bank 
 LOCATION:Amerant Bank Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -795,7 +795,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Philadelphia Flyers\nXfinity Mo
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -807,7 +807,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -819,7 +819,7 @@ DESCRIPTION:NHL 2025-26\nNew York Rangers @ Columbus Blue Jackets\nNationwide Ar
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -831,7 +831,7 @@ DESCRIPTION:NHL 2025-26\nSeattle Kraken @ Columbus Blue Jackets\nNationwide Aren
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -843,7 +843,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ New York Islanders\nUBS Arena
 LOCATION:UBS Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -855,7 +855,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Philadelphia Flyers\nXfinity Mo
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -867,8 +867,8 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Montréal Canadiens\nCentre Bel
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2026-03-28-san-jose-sharks-vs-columbus-blue-jackets@open-sports-cal
@@ -879,7 +879,7 @@ DESCRIPTION:NHL 2025-26\nSan Jose Sharks @ Columbus Blue Jackets\nNationwide Are
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -891,7 +891,7 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Columbus Blue Jackets\nNationwide Arena
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -903,7 +903,7 @@ DESCRIPTION:NHL 2025-26\nCarolina Hurricanes @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -915,7 +915,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Carolina Hurricanes\nLenovo Cen
 LOCATION:Lenovo Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -927,7 +927,7 @@ DESCRIPTION:NHL 2025-26\nWinnipeg Jets @ Columbus Blue Jackets\nNationwide Arena
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -939,7 +939,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Detroit Red Wings\nLittle Caesa
 LOCATION:Little Caesars Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -951,7 +951,7 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Buffalo Sabres\nKeyBank Center
 LOCATION:KeyBank Center
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -963,8 +963,8 @@ DESCRIPTION:NHL 2025-26\nColumbus Blue Jackets @ Montréal Canadiens\nCentre Bel
 LOCATION:Centre Bell
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
-X-TIMEZONE:America/Toronto
+DTSTAMP:20260529T034919Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:nhl-2025-26-2026-04-12-boston-bruins-vs-columbus-blue-jackets@open-sports-cal
@@ -975,7 +975,7 @@ DESCRIPTION:NHL 2025-26\nBoston Bruins @ Columbus Blue Jackets\nNationwide Arena
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -987,7 +987,7 @@ DESCRIPTION:NHL 2025-26\nWashington Capitals @ Columbus Blue Jackets\nNationwide
 LOCATION:Nationwide Arena
 CATEGORIES:Hockey,NHL,NHL 2025-26
 STATUS:CONFIRMED
-DTSTAMP:20260331T221344Z
+DTSTAMP:20260529T034919Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR
