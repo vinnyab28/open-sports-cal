@@ -78,6 +78,16 @@ def item_type(all_filename: str) -> str:
     return "teams"
 
 
+def is_completed(events: list) -> bool:
+    """A league-season is completed when no event starts today or later."""
+    today = datetime.now(timezone.utc).strftime("%Y%m%d")
+    for ev in events:
+        dt = ev.get("dt", "")
+        if len(dt) >= 8 and dt[:8] >= today:
+            return False
+    return True
+
+
 def build_meta(itype: str, n_items: int, event_count: int) -> str:
     if itype == "teams" and n_items:
         return f"{n_items} teams · {event_count:,} matches"
@@ -199,6 +209,7 @@ for sport_dir in sorted(ROOT.iterdir()):
                         "allFile":  tf.name,
                         "itemType": "slam",
                         "meta":     "Grand Slam",
+                        "completed": is_completed(parse_events(tf)),
                         "teams":    [],
                         "events":   parse_events(tf),
                     })
@@ -212,6 +223,7 @@ for sport_dir in sorted(ROOT.iterdir()):
                     "allFile":  all_file.name,
                     "itemType": itype,
                     "meta":     build_meta(itype, len(team_files), event_count),
+                    "completed": is_completed(parse_events(all_file)),
                     "teams":    teams,
                     "events":   parse_events(all_file),
                 })
