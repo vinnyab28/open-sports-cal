@@ -12,18 +12,17 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - { league: nba,        dir: basketball/nba/2025-26 }
-          - { league: nhl,        dir: hockey/nhl/2025-26 }
-          - { league: mlb,        dir: baseball/mlb/2026 }
-          - { league: pwhl,       dir: hockey/pwhl/2025-26 }
-          - { league: epl,        dir: football/premier-league/2025-26 }
-          - { league: la-liga,    dir: football/la-liga/2025-26 }
-          - { league: bundesliga, dir: football/bundesliga/2025-26 }
-          - { league: serie-a,    dir: football/serie-a/2025-26 }
-          - { league: ligue-1,    dir: football/ligue-1/2025-26 }
+          - { league: nba,        dir: basketball/nba/2026-27 }
+          - { league: nhl,        dir: hockey/nhl/2026-27 }
+          - { league: nfl,        dir: american-football/nfl/2026 }
+          - { league: mlb,        dir: baseball/mlb/2027 }
+          - { league: pwhl,       dir: hockey/pwhl/2026-27 }
+          - { league: epl,        dir: football/premier-league/2026-27 }
+          - { league: la-liga,    dir: football/la-liga/2026-27 }
+          - { league: bundesliga, dir: football/bundesliga/2026-27 }
+          - { league: serie-a,    dir: football/serie-a/2026-27 }
+          - { league: ligue-1,    dir: football/ligue-1/2026-27 }
           - { league: f1,         dir: motorsport/formula-1/2026 }
-          - { league: tennis,     dir: tennis/grand-slams/2026 }
-          - { league: world-cup,  dir: football/world-cup/2026 }
 
     permissions:
       contents: write

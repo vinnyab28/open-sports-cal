@@ -13,47 +13,40 @@ If you find this useful, give it a ⭐ — it helps others find it!
 
 ## Available Calendars
 
-### Cricket
-
-| League | Season | Calendar |
-|--------|--------|----------|
-| IPL | [2026](cricket/ipl/2026/) | All teams + 10 individual team calendars |
-
 ### Football / Soccer
 
 | League | Season | Calendar |
 |--------|--------|----------|
-| FIFA World Cup | [2026](football/world-cup/2026/) | All matches + group stage + 12 group calendars + 48 team calendars |
-| Premier League | [2025-26](football/premier-league/2025-26/) | All teams + 20 individual team calendars |
-| La Liga | [2025-26](football/la-liga/2025-26/) | All teams + 20 individual team calendars |
-| Bundesliga | [2025-26](football/bundesliga/2025-26/) | All teams + 18 individual team calendars |
-| Serie A | [2025-26](football/serie-a/2025-26/) | All teams + 20 individual team calendars |
-| Ligue 1 | [2025-26](football/ligue-1/2025-26/) | All teams + 18 individual team calendars |
+| Premier League | [2026-27](football/premier-league/2026-27/) | All teams + 20 individual team calendars |
+| La Liga | [2026-27](football/la-liga/2026-27/) | All teams + 20 individual team calendars |
+| Bundesliga | [2026-27](football/bundesliga/2026-27/) | All teams + 18 individual team calendars |
+| Serie A | [2026-27](football/serie-a/2026-27/) | All teams + 20 individual team calendars |
+| Ligue 1 | [2026-27](football/ligue-1/2026-27/) | All teams + 18 individual team calendars |
+
+### American Football
+
+| League | Season | Calendar |
+|--------|--------|----------|
+| NFL | [2026](american-football/nfl/2026/) | All teams + 32 individual team calendars |
 
 ### Basketball
 
 | League | Season | Calendar |
 |--------|--------|----------|
-| NBA | [2025-26](basketball/nba/2025-26/) | All teams + 30 individual team calendars |
+| NBA | [2026-27](basketball/nba/2026-27/) | All teams + 30 individual team calendars |
 
 ### Baseball
 
 | League | Season | Calendar |
 |--------|--------|----------|
-| MLB | [2026](baseball/mlb/2026/) | All teams + 30 individual team calendars |
+| MLB | [2027](baseball/mlb/2027/) | All teams + 30 individual team calendars |
 
 ### Hockey
 
 | League | Season | Calendar |
 |--------|--------|----------|
-| NHL | [2025-26](hockey/nhl/2025-26/) | All teams + 32 individual team calendars |
-| PWHL | [2025-26](hockey/pwhl/2025-26/) | All teams + 8 individual team calendars |
-
-### Tennis
-
-| Tournament | Year | Calendar |
-|-----------|------|----------|
-| Grand Slams (AO, RG, Wimbledon, USO) | [2026](tennis/grand-slams/2026/) | All 4 slams combined + individual files |
+| NHL | [2026-27](hockey/nhl/2026-27/) | All teams + 32 individual team calendars |
+| PWHL | [2026-27](hockey/pwhl/2026-27/) | All teams + 12 individual team calendars |
 
 ### Motorsport
 
@@ -62,7 +55,26 @@ If you find this useful, give it a ⭐ — it helps others find it!
 | Formula 1 | [2026](motorsport/formula-1/2026/) | All 22 races + 6 sprints |
 | MotoGP | [2026](motorsport/motogp/2026/) | All 22 races |
 
-> **NFL 2026**: The regular season schedule is expected to be released on May 13, 2026. It will be added once available.
+### Completed Seasons
+
+Finished seasons stay available — existing subscriptions keep working, but no new games appear.
+
+| League | Season |
+|--------|--------|
+| FIFA World Cup | [2026](football/world-cup/2026/) |
+| Premier League | [2025-26](football/premier-league/2025-26/) |
+| La Liga | [2025-26](football/la-liga/2025-26/) |
+| Bundesliga | [2025-26](football/bundesliga/2025-26/) |
+| Serie A | [2025-26](football/serie-a/2025-26/) |
+| Ligue 1 | [2025-26](football/ligue-1/2025-26/) |
+| NBA | [2025-26](basketball/nba/2025-26/) |
+| MLB | [2026](baseball/mlb/2026/) |
+| NHL | [2025-26](hockey/nhl/2025-26/) |
+| PWHL | [2025-26](hockey/pwhl/2025-26/) |
+| IPL | [2026](cricket/ipl/2026/) |
+| Tennis Grand Slams (AO, RG, Wimbledon, USO) | [2026](tennis/grand-slams/2026/) |
+
+> **Coming soon:** Tennis Grand Slams 2027 (dates not yet announced) and IPL 2027 (schedule expected February–March 2027).
 
 **Don't see your league?** [Request it here](https://forms.gle/b9ZoZJibTsZ8DHGw7) — no GitHub account needed.
 
@@ -158,7 +170,8 @@ Schedules are sourced from official publications and public APIs, and are provid
 | Premier League, La Liga, Bundesliga, Serie A, Ligue 1, NBA | [fixturedownload.com](https://fixturedownload.com) |
 | MLB | [MLB Stats API](https://statsapi.mlb.com) |
 | NHL | [NHL API](https://api-web.nhle.com/) |
-| PWHL | [HockeyTech / thepwhl.com](https://www.thepwhl.com/en/schedule-25-26) |
+| NFL | [ESPN](https://www.espn.com/nfl/schedule) |
+| PWHL | [HockeyTech / thepwhl.com](https://www.thepwhl.com/en/schedule) |
 | Formula 1 | [formula1.com](https://www.formula1.com/en/racing/2026) / [f1calendar.com](https://f1calendar.com) |
 | MotoGP | [motogp.com](https://www.motogp.com/en/calendar/2026) |
 | Tennis Grand Slams | [ATP Tour](https://www.atptour.com) / [WTA](https://www.wtatennis.com) |

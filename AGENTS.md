@@ -69,7 +69,12 @@ Edit the file directly. All READMEs follow the same structure — see any existi
 **When the schedule isn't available yet:**
 - Don't create placeholder or estimated `.ics` files
 - Note the expected release date in the relevant README and in `CLAUDE.md`
-- NFL 2026 is a known pending case — do not generate estimated fixtures
+- Currently pending: Tennis Grand Slams 2027 (slam dates not yet announced) and IPL 2027 (schedule expected February–March 2027)
+- Games whose date/matchup is official but whose time is TBD are the exception: emit them as all-day events with a "TBD" note — this applies to NFL flex games (weeks 16–18) and to MLB seasons published before start times (`status.startTimeTBD`)
+
+**Completed seasons:**
+- Never delete a completed season folder — subscriptions keep resolving to it and the website flags it as "Completed" automatically (derived from the last event date in `generate_manifest.py`)
+- When a league's new season is added, repoint its `scripts/update_<league>.py` and the `auto-update.yml` matrix entry at the new folder; leave the old season files untouched
 
 **Timezone:**
 - Use `TZID=Asia/Kolkata` only for IPL; use UTC (`Z` suffix) for everything else

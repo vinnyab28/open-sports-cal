@@ -28,11 +28,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `hockey/pwhl/`
 - `tennis/grand-slams/`
 - `motorsport/formula-1/`, `motorsport/motogp/`
-- NFL is pending — schedule expected May 13, 2026; will go in `american-football/nfl/`
+- `american-football/nfl/`
 
 **Season naming convention:**
-- Single-year seasons: `2026` (IPL, MLB, F1, MotoGP, Tennis)
-- Split-year seasons: `2025-26` (NBA, EPL, La Liga, Bundesliga, Serie A, Ligue 1)
+- Single-year seasons: `2026` (NFL, F1, MotoGP), `2027` (MLB)
+- Split-year seasons: `2026-27` (NBA, EPL, La Liga, Bundesliga, Serie A, Ligue 1, NHL, PWHL)
+- Completed seasons stay in the repo as archives — subscriptions keep working, and the website flags them as "Completed" automatically (derived from last event date in `generate_manifest.py`)
 
 ---
 
@@ -45,7 +46,7 @@ python3 validate.py                                   # validate all files
 python3 validate.py football/premier-league/2025-26   # validate one folder
 ```
 
-CI runs the same script on every PR via `.github/workflows/validate.yml`. All 181 current files pass.
+CI runs the same script on every PR via `.github/workflows/validate.yml`. All 527 current files pass.
 
 ---
 
@@ -253,7 +254,7 @@ Format: `<identifier>@open-sports-cal`
 
 Identifier patterns by sport:
 - IPL: `ipl<year>-match<NN>` → `ipl2026-match01@open-sports-cal`
-- MLB/NBA/NHL: `<league>-<season>-<date>-<away-slug>-vs-<home-slug>` → `nhl-2025-26-2025-10-08-bruins-vs-capitals@open-sports-cal`
+- MLB/NBA/NHL/NFL: `<league>-<season>-<date>-<away-slug>-vs-<home-slug>` → `nhl-2025-26-2025-10-08-bruins-vs-capitals@open-sports-cal`
 - F1: `f1-<year>-r<NN>-race` or `f1-<year>-r<NN>-sprint` → `f1-2026-r01-race@open-sports-cal`
 - MotoGP: `motogp-<year>-r<NN>` → `motogp-2026-r01@open-sports-cal`
 - Soccer: `<league-code>-<index>` → `epl-2025-0@open-sports-cal`
@@ -269,6 +270,7 @@ UIDs must be unique within each `.ics` file.
 | Basketball | `Away @ Home` | `Boston Celtics @ New York Knicks` |
 | Baseball | `Away @ Home` | `New York Yankees @ San Francisco Giants` |
 | Hockey | `Away @ Home` | `Toronto Maple Leafs @ Boston Bruins` |
+| American Football (NFL) | `Away @ Home` | `Chicago Bears @ Green Bay Packers` |
 | F1 race | `<Grand Prix Name>` | `Australian Grand Prix` |
 | F1 sprint | `<Grand Prix Name> — Sprint` | `Chinese Grand Prix — Sprint` |
 | F1 race (sprint weekend) | `<Grand Prix Name> (Sprint Weekend)` | `Chinese Grand Prix (Sprint Weekend)` |
@@ -295,6 +297,7 @@ Comma-separated, no spaces after commas:
 - Basketball: `Basketball,NBA,NBA 2025-26`
 - Baseball: `Baseball,MLB,MLB 2026`
 - Hockey: `Hockey,NHL,NHL 2025-26`
+- American Football: `American Football,NFL,NFL 2026`
 - F1: `Motorsport,Formula 1,F1 2026`
 - MotoGP: `Motorsport,MotoGP,MotoGP 2026`
 - Tennis: `Tennis,Grand Slam,<Tournament Name>`
@@ -302,7 +305,7 @@ Comma-separated, no spaces after commas:
 ### DTSTART / DTEND
 - **UTC (all sports except IPL):** `DTSTART:20260308T040000Z`
 - **IST (IPL only):** `DTSTART;TZID=Asia/Kolkata:20260328T193000`
-- **All-day (Tennis):** `DTSTART;VALUE=DATE:20260629`
+- **All-day (Tennis, NFL flex games):** `DTSTART;VALUE=DATE:20260629`
 - Line endings within the file must be `\r\n` (CRLF) per RFC 5545
 
 ### X-TIMEZONE
@@ -329,6 +332,7 @@ X-TIMEZONE:Australia/Melbourne    # Albert Park, F1
 | Basketball (NBA) | 3 hours | Game + overtime buffer |
 | Baseball (MLB) | 3 hours | Average game length |
 | Hockey (NHL) | 3 hours | Game + overtime buffer |
+| American Football (NFL) | 3 hours | Game + overtime buffer |
 | F1 race | 2 hours | Typical race duration |
 | F1 sprint | 1 hour | Sprint race length |
 | MotoGP race | 90 minutes | Typical race duration |
@@ -373,9 +377,9 @@ Examples:
 | IPL | BCCI official PDF (`documents.iplt20.com`) | Download PDF → `pdftotext` → hardcode parsed data |
 | FIFA World Cup | `fifa.com` / `nbcsports.com` | Hardcoded (official schedule published) |
 | MLB | `statsapi.mlb.com` | Live API, fetch month-by-month |
-| NBA | `fixturedownload.com/feed/json/nba-2025` | Live JSON feed |
+| NBA | `fixturedownload.com/feed/json/nba-2026` | Live JSON feed; skip games with TBD teams (e.g. in-season tournament placeholders); playoffs from ESPN scoreboard (season type 3) once released |
 | NHL | `api-web.nhle.com/v1/schedule/{date}` | Live API, fetch week-by-week |
-| PWHL | `lscluster.hockeytech.com/feed/?feed=modulekit&view=schedule&season_id=8&key=446521baf8c38984&client_code=pwhl` | Live API, season_id=8 for 2025-26 |
+| PWHL | `lscluster.hockeytech.com/feed/?feed=modulekit&view=schedule&key=446521baf8c38984&client_code=pwhl` | Live API; 2026-27 regular season is released in blocks: season_id=10 (November) + 11 (December–April), playoffs in 12 |
 | Premier League | `fixturedownload.com/feed/json/epl-2025` | Live JSON feed |
 | La Liga | `fixturedownload.com/feed/json/la-liga-2025` | Live JSON feed |
 | Bundesliga | `fixturedownload.com/feed/json/bundesliga-2025` | Live JSON feed |
@@ -383,8 +387,23 @@ Examples:
 | Ligue 1 | `fixturedownload.com/feed/json/ligue-1-2025` | Live JSON feed |
 | Formula 1 | `formula1.com` / `f1calendar.com` | Hardcoded (no public API) |
 | MotoGP | `motogp.com/en/calendar/2026` | Hardcoded (no public API) |
-| Tennis | ATP / WTA official announcements | Hardcoded |
-| NFL (pending) | `api.nfl.com` | Live API once schedule is released (May 13, 2026) |
+| Tennis | ATP / WTA official announcements; ESPN tennis scoreboard for dates | Hardcoded + ESPN; 2027 slam dates not announced yet — add the season once they are |
+| NFL | `site.api.espn.com/apis/site/v2/sports/football/nfl/teams/{abbr}/schedule` | Live API, fetch per-team and dedupe by event id |
+
+### ESPN NFL schedule API
+
+Fetch one schedule per team (32 requests), dedupe by event id (every game appears twice). `season=2026` returns the regular season; `seasonType.type == 2` marks regular-season events.
+
+```python
+url = ("https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/"
+       f"{abbr}/schedule?season=2026")
+# Each event: date ("2026-09-10T00:20Z"), week.number, competitions[0]
+# .competitors[] (homeAway + team.displayName), venue.fullName, notes
+```
+
+Team abbreviations: `wsh` for Washington, `jax` for Jacksonville, `lv` for Las Vegas.
+
+Kickoff times for flex games (weeks 16–18) are announced late in the season. Until then ESPN returns a placeholder time ending in `T05:00Z` (midnight ET) with a "Flex Game" note — emit these as all-day events (`DTSTART;VALUE=DATE`) with a "Kickoff time TBD" description line; the daily auto-update converts them to timed events once real times appear. `api.nfl.com` requires OAuth, so ESPN is the source of record.
 
 ### fixturedownload.com JSON feed
 
@@ -398,14 +417,14 @@ def fetch_json(url):
     with urllib.request.urlopen(req, timeout=30) as r:
         return json.loads(r.read())
 
-games = fetch_json("https://fixturedownload.com/feed/json/epl-2025")
+games = fetch_json("https://fixturedownload.com/feed/json/epl-2026")
 # Each game: {"DateUtc": "2025-08-15 19:00:00Z", "HomeTeam": "Liverpool",
 #              "AwayTeam": "Bournemouth", "Location": "Anfield", ...}
 ```
 
-League codes for 2025-26 season: `epl-2025`, `la-liga-2025`, `bundesliga-2025`, `serie-a-2025`, `ligue-1-2025`, `nba-2025`
+League codes for the 2026-27 season: `epl-2026`, `la-liga-2026`, `bundesliga-2026`, `serie-a-2026`, `ligue-1-2026`, `nba-2026`
 
-When adding a new season (e.g. 2026-27), increment the year suffix: `epl-2026`, etc.
+When adding a new season (e.g. 2027-28), increment the year suffix: `epl-2027`, etc.
 
 ### MLB Stats API
 
@@ -433,6 +452,14 @@ def fetch_mlb_month(season, start, end):
             })
     return games
 ```
+
+### MLB Stats API — start-time TBD
+
+For seasons announced before game times are published (e.g. MLB 2027), the API
+returns `status.startTimeTBD: true` with a placeholder `gameDate` ending in
+`:33`. Emit such games as all-day events (`DTSTART;VALUE=DATE`) with a
+"Start time TBD" note — the daily auto-update converts them to timed events
+once the API publishes real times.
 
 ### IPL schedule extraction
 
