@@ -1,0 +1,1017 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2026-27 - Florida Panthers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-09-29-florida-panthers-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20260929T210000Z
+DTEND:20260930T000000Z
+SUMMARY:Florida Panthers @ Carolina Hurricanes
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-01-florida-panthers-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261002T020000Z
+DTEND:20261002T050000Z
+SUMMARY:Florida Panthers @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-04-florida-panthers-vs-anaheim-ducks@open-sports-cal
+DTSTART:20261005T000000Z
+DTEND:20261005T030000Z
+SUMMARY:Florida Panthers @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-06-florida-panthers-vs-los-angeles-kings@open-sports-cal
+DTSTART:20261007T020000Z
+DTEND:20261007T050000Z
+SUMMARY:Florida Panthers @ Los Angeles Kings
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-10-minnesota-wild-vs-florida-panthers@open-sports-cal
+DTSTART:20261010T220000Z
+DTEND:20261011T010000Z
+SUMMARY:Minnesota Wild @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-12-florida-panthers-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261012T170000Z
+DTEND:20261012T200000Z
+SUMMARY:Florida Panthers @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-13-florida-panthers-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261013T221500Z
+DTEND:20261014T011500Z
+SUMMARY:Florida Panthers @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-15-vancouver-canucks-vs-florida-panthers@open-sports-cal
+DTSTART:20261015T230000Z
+DTEND:20261016T020000Z
+SUMMARY:Vancouver Canucks @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nVancouver Canucks @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-17-seattle-kraken-vs-florida-panthers@open-sports-cal
+DTSTART:20261017T220000Z
+DTEND:20261018T010000Z
+SUMMARY:Seattle Kraken @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-21-florida-panthers-vs-ottawa-senators@open-sports-cal
+DTSTART:20261021T233000Z
+DTEND:20261022T023000Z
+SUMMARY:Florida Panthers @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-22-florida-panthers-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261022T230000Z
+DTEND:20261023T020000Z
+SUMMARY:Florida Panthers @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-25-florida-panthers-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261025T190000Z
+DTEND:20261025T220000Z
+SUMMARY:Florida Panthers @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-27-florida-panthers-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261028T000000Z
+DTEND:20261028T030000Z
+SUMMARY:Florida Panthers @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-30-winnipeg-jets-vs-florida-panthers@open-sports-cal
+DTSTART:20261030T230000Z
+DTEND:20261031T020000Z
+SUMMARY:Winnipeg Jets @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-02-detroit-red-wings-vs-florida-panthers@open-sports-cal
+DTSTART:20261103T000000Z
+DTEND:20261103T030000Z
+SUMMARY:Detroit Red Wings @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-04-chicago-blackhawks-vs-florida-panthers@open-sports-cal
+DTSTART:20261105T003000Z
+DTEND:20261105T033000Z
+SUMMARY:Chicago Blackhawks @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-07-florida-panthers-vs-washington-capitals@open-sports-cal
+DTSTART:20261107T173000Z
+DTEND:20261107T203000Z
+SUMMARY:Florida Panthers @ Washington Capitals
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-08-florida-panthers-vs-boston-bruins@open-sports-cal
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Florida Panthers @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-10-florida-panthers-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261111T003000Z
+DTEND:20261111T033000Z
+SUMMARY:Florida Panthers @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-12-detroit-red-wings-vs-florida-panthers@open-sports-cal
+DTSTART:20261113T003000Z
+DTEND:20261113T033000Z
+SUMMARY:Detroit Red Wings @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-14-florida-panthers-vs-st-louis-blues@open-sports-cal
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+SUMMARY:Florida Panthers @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-15-florida-panthers-vs-dallas-stars@open-sports-cal
+DTSTART:20261116T010000Z
+DTEND:20261116T040000Z
+SUMMARY:Florida Panthers @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-17-edmonton-oilers-vs-florida-panthers@open-sports-cal
+DTSTART:20261118T000000Z
+DTEND:20261118T030000Z
+SUMMARY:Edmonton Oilers @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-21-buffalo-sabres-vs-florida-panthers@open-sports-cal
+DTSTART:20261121T230000Z
+DTEND:20261122T020000Z
+SUMMARY:Buffalo Sabres @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-25-ottawa-senators-vs-florida-panthers@open-sports-cal
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:Ottawa Senators @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-27-florida-panthers-vs-washington-capitals@open-sports-cal
+DTSTART:20261127T200000Z
+DTEND:20261127T230000Z
+SUMMARY:Florida Panthers @ Washington Capitals
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-28-tampa-bay-lightning-vs-florida-panthers@open-sports-cal
+DTSTART:20261128T230000Z
+DTEND:20261129T020000Z
+SUMMARY:Tampa Bay Lightning @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-01-florida-panthers-vs-new-york-islanders@open-sports-cal
+DTSTART:20261202T000000Z
+DTEND:20261202T030000Z
+SUMMARY:Florida Panthers @ New York Islanders
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-03-florida-panthers-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261204T000000Z
+DTEND:20261204T030000Z
+SUMMARY:Florida Panthers @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-05-florida-panthers-vs-montreal-canadiens@open-sports-cal
+DTSTART:20261205T180000Z
+DTEND:20261205T210000Z
+SUMMARY:Florida Panthers @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-08-boston-bruins-vs-florida-panthers@open-sports-cal
+DTSTART:20261209T000000Z
+DTEND:20261209T030000Z
+SUMMARY:Boston Bruins @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-10-pittsburgh-penguins-vs-florida-panthers@open-sports-cal
+DTSTART:20261211T000000Z
+DTEND:20261211T030000Z
+SUMMARY:Pittsburgh Penguins @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-12-florida-panthers-vs-detroit-red-wings@open-sports-cal
+DTSTART:20261213T000000Z
+DTEND:20261213T030000Z
+SUMMARY:Florida Panthers @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-14-florida-panthers-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20261215T000000Z
+DTEND:20261215T030000Z
+SUMMARY:Florida Panthers @ Philadelphia Flyers
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-15-florida-panthers-vs-boston-bruins@open-sports-cal
+DTSTART:20261216T000000Z
+DTEND:20261216T030000Z
+SUMMARY:Florida Panthers @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-19-calgary-flames-vs-florida-panthers@open-sports-cal
+DTSTART:20261219T180000Z
+DTEND:20261219T210000Z
+SUMMARY:Calgary Flames @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-21-st-louis-blues-vs-florida-panthers@open-sports-cal
+DTSTART:20261222T000000Z
+DTEND:20261222T030000Z
+SUMMARY:St. Louis Blues @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nSt. Louis Blues @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-26-tampa-bay-lightning-vs-florida-panthers@open-sports-cal
+DTSTART:20261226T230000Z
+DTEND:20261227T020000Z
+SUMMARY:Tampa Bay Lightning @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-28-nashville-predators-vs-florida-panthers@open-sports-cal
+DTSTART:20261229T000000Z
+DTEND:20261229T030000Z
+SUMMARY:Nashville Predators @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nNashville Predators @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-30-buffalo-sabres-vs-florida-panthers@open-sports-cal
+DTSTART:20261231T000000Z
+DTEND:20261231T030000Z
+SUMMARY:Buffalo Sabres @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-01-florida-panthers-vs-nashville-predators@open-sports-cal
+DTSTART:20270101T190000Z
+DTEND:20270101T220000Z
+SUMMARY:Florida Panthers @ Nashville Predators
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-02-montreal-canadiens-vs-florida-panthers@open-sports-cal
+DTSTART:20270102T180000Z
+DTEND:20270102T210000Z
+SUMMARY:Montréal Canadiens @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-05-florida-panthers-vs-calgary-flames@open-sports-cal
+DTSTART:20270106T010000Z
+DTEND:20270106T040000Z
+SUMMARY:Florida Panthers @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-07-florida-panthers-vs-edmonton-oilers@open-sports-cal
+DTSTART:20270108T010000Z
+DTEND:20270108T040000Z
+SUMMARY:Florida Panthers @ Edmonton Oilers
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-09-florida-panthers-vs-vancouver-canucks@open-sports-cal
+DTSTART:20270110T030000Z
+DTEND:20270110T060000Z
+SUMMARY:Florida Panthers @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-12-florida-panthers-vs-seattle-kraken@open-sports-cal
+DTSTART:20270113T024000Z
+DTEND:20270113T054000Z
+SUMMARY:Florida Panthers @ Seattle Kraken
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-14-florida-panthers-vs-minnesota-wild@open-sports-cal
+DTSTART:20270115T023000Z
+DTEND:20270115T053000Z
+SUMMARY:Florida Panthers @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-16-vegas-golden-knights-vs-florida-panthers@open-sports-cal
+DTSTART:20270116T230000Z
+DTEND:20270117T020000Z
+SUMMARY:Vegas Golden Knights @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-18-ottawa-senators-vs-florida-panthers@open-sports-cal
+DTSTART:20270119T003000Z
+DTEND:20270119T033000Z
+SUMMARY:Ottawa Senators @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-21-carolina-hurricanes-vs-florida-panthers@open-sports-cal
+DTSTART:20270122T000000Z
+DTEND:20270122T030000Z
+SUMMARY:Carolina Hurricanes @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nCarolina Hurricanes @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-24-los-angeles-kings-vs-florida-panthers@open-sports-cal
+DTSTART:20270124T230000Z
+DTEND:20270125T020000Z
+SUMMARY:Los Angeles Kings @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-26-florida-panthers-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20270127T000000Z
+DTEND:20270127T030000Z
+SUMMARY:Florida Panthers @ Philadelphia Flyers
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-27-florida-panthers-vs-new-york-rangers@open-sports-cal
+DTSTART:20270128T003000Z
+DTEND:20270128T033000Z
+SUMMARY:Florida Panthers @ New York Rangers
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-29-florida-panthers-vs-detroit-red-wings@open-sports-cal
+DTSTART:20270130T000000Z
+DTEND:20270130T030000Z
+SUMMARY:Florida Panthers @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-01-new-york-islanders-vs-florida-panthers@open-sports-cal
+DTSTART:20270201T190000Z
+DTEND:20270201T220000Z
+SUMMARY:New York Islanders @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-03-washington-capitals-vs-florida-panthers@open-sports-cal
+DTSTART:20270204T000000Z
+DTEND:20270204T030000Z
+SUMMARY:Washington Capitals @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nWashington Capitals @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-12-colorado-avalanche-vs-florida-panthers@open-sports-cal
+DTSTART:20270213T000000Z
+DTEND:20270213T030000Z
+SUMMARY:Colorado Avalanche @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-13-dallas-stars-vs-florida-panthers@open-sports-cal
+DTSTART:20270213T230000Z
+DTEND:20270214T020000Z
+SUMMARY:Dallas Stars @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nDallas Stars @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-16-florida-panthers-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270217T003000Z
+DTEND:20270217T033000Z
+SUMMARY:Florida Panthers @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-18-new-jersey-devils-vs-florida-panthers@open-sports-cal
+DTSTART:20270219T000000Z
+DTEND:20270219T030000Z
+SUMMARY:New Jersey Devils @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nNew Jersey Devils @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-20-anaheim-ducks-vs-florida-panthers@open-sports-cal
+DTSTART:20270220T220000Z
+DTEND:20270221T010000Z
+SUMMARY:Anaheim Ducks @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nAnaheim Ducks @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-21-san-jose-sharks-vs-florida-panthers@open-sports-cal
+DTSTART:20270221T230000Z
+DTEND:20270222T020000Z
+SUMMARY:San Jose Sharks @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-24-florida-panthers-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270225T023000Z
+DTEND:20270225T053000Z
+SUMMARY:Florida Panthers @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-26-florida-panthers-vs-utah-mammoth@open-sports-cal
+DTSTART:20270227T020000Z
+DTEND:20270227T050000Z
+SUMMARY:Florida Panthers @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-27-florida-panthers-vs-colorado-avalanche@open-sports-cal
+DTSTART:20270228T000000Z
+DTEND:20270228T030000Z
+SUMMARY:Florida Panthers @ Colorado Avalanche
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-02-utah-mammoth-vs-florida-panthers@open-sports-cal
+DTSTART:20270303T000000Z
+DTEND:20270303T030000Z
+SUMMARY:Utah Mammoth @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nUtah Mammoth @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-04-pittsburgh-penguins-vs-florida-panthers@open-sports-cal
+DTSTART:20270305T013000Z
+DTEND:20270305T043000Z
+SUMMARY:Pittsburgh Penguins @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-06-toronto-maple-leafs-vs-florida-panthers@open-sports-cal
+DTSTART:20270307T000000Z
+DTEND:20270307T030000Z
+SUMMARY:Toronto Maple Leafs @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-09-new-jersey-devils-vs-florida-panthers@open-sports-cal
+DTSTART:20270310T000000Z
+DTEND:20270310T030000Z
+SUMMARY:New Jersey Devils @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nNew Jersey Devils @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-12-new-york-islanders-vs-florida-panthers@open-sports-cal
+DTSTART:20270313T000000Z
+DTEND:20270313T030000Z
+SUMMARY:New York Islanders @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-15-florida-panthers-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270315T233000Z
+DTEND:20270316T023000Z
+SUMMARY:Florida Panthers @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-16-florida-panthers-vs-montreal-canadiens@open-sports-cal
+DTSTART:20270316T230000Z
+DTEND:20270317T020000Z
+SUMMARY:Florida Panthers @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-18-florida-panthers-vs-ottawa-senators@open-sports-cal
+DTSTART:20270318T230000Z
+DTEND:20270319T020000Z
+SUMMARY:Florida Panthers @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-20-florida-panthers-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270320T170000Z
+DTEND:20270320T200000Z
+SUMMARY:Florida Panthers @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-23-florida-panthers-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270323T230000Z
+DTEND:20270324T020000Z
+SUMMARY:Florida Panthers @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-25-new-york-rangers-vs-florida-panthers@open-sports-cal
+DTSTART:20270325T230000Z
+DTEND:20270326T020000Z
+SUMMARY:New York Rangers @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nNew York Rangers @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-27-philadelphia-flyers-vs-florida-panthers@open-sports-cal
+DTSTART:20270327T220000Z
+DTEND:20270328T010000Z
+SUMMARY:Philadelphia Flyers @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nPhiladelphia Flyers @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-30-columbus-blue-jackets-vs-florida-panthers@open-sports-cal
+DTSTART:20270330T230000Z
+DTEND:20270331T020000Z
+SUMMARY:Columbus Blue Jackets @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-01-toronto-maple-leafs-vs-florida-panthers@open-sports-cal
+DTSTART:20270401T230000Z
+DTEND:20270402T020000Z
+SUMMARY:Toronto Maple Leafs @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-03-florida-panthers-vs-new-york-rangers@open-sports-cal
+DTSTART:20270403T163000Z
+DTEND:20270403T193000Z
+SUMMARY:Florida Panthers @ New York Rangers
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-04-florida-panthers-vs-new-jersey-devils@open-sports-cal
+DTSTART:20270404T203000Z
+DTEND:20270404T233000Z
+SUMMARY:Florida Panthers @ New Jersey Devils
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-06-montreal-canadiens-vs-florida-panthers@open-sports-cal
+DTSTART:20270406T231500Z
+DTEND:20270407T021500Z
+SUMMARY:Montréal Canadiens @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-09-boston-bruins-vs-florida-panthers@open-sports-cal
+DTSTART:20270409T230000Z
+DTEND:20270410T020000Z
+SUMMARY:Boston Bruins @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-10-carolina-hurricanes-vs-florida-panthers@open-sports-cal
+DTSTART:20270410T220000Z
+DTEND:20270411T010000Z
+SUMMARY:Carolina Hurricanes @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nCarolina Hurricanes @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

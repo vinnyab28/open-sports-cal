@@ -1,0 +1,1017 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2026-27 - Toronto Maple Leafs
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-09-29-montreal-canadiens-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20260929T230000Z
+DTEND:20260930T020000Z
+SUMMARY:Montréal Canadiens @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-09-30-new-york-islanders-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20260930T233000Z
+DTEND:20261001T023000Z
+SUMMARY:New York Islanders @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-03-ottawa-senators-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261003T230000Z
+DTEND:20261004T020000Z
+SUMMARY:Ottawa Senators @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-06-nashville-predators-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261006T230000Z
+DTEND:20261007T020000Z
+SUMMARY:Nashville Predators @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nNashville Predators @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-08-toronto-maple-leafs-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261009T020000Z
+DTEND:20261009T050000Z
+SUMMARY:Toronto Maple Leafs @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-10-toronto-maple-leafs-vs-colorado-avalanche@open-sports-cal
+DTSTART:20261010T230000Z
+DTEND:20261011T020000Z
+SUMMARY:Toronto Maple Leafs @ Colorado Avalanche
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-13-toronto-maple-leafs-vs-utah-mammoth@open-sports-cal
+DTSTART:20261014T010000Z
+DTEND:20261014T040000Z
+SUMMARY:Toronto Maple Leafs @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-15-buffalo-sabres-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261015T230000Z
+DTEND:20261016T020000Z
+SUMMARY:Buffalo Sabres @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-17-new-york-islanders-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261017T230000Z
+DTEND:20261018T020000Z
+SUMMARY:New York Islanders @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-19-san-jose-sharks-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261019T233000Z
+DTEND:20261020T023000Z
+SUMMARY:San Jose Sharks @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-20-toronto-maple-leafs-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261020T230000Z
+DTEND:20261021T020000Z
+SUMMARY:Toronto Maple Leafs @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-22-new-york-rangers-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261022T230000Z
+DTEND:20261023T020000Z
+SUMMARY:New York Rangers @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nNew York Rangers @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-24-toronto-maple-leafs-vs-edmonton-oilers@open-sports-cal
+DTSTART:20261024T230000Z
+DTEND:20261025T020000Z
+SUMMARY:Toronto Maple Leafs @ Edmonton Oilers
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-26-toronto-maple-leafs-vs-calgary-flames@open-sports-cal
+DTSTART:20261027T003000Z
+DTEND:20261027T033000Z
+SUMMARY:Toronto Maple Leafs @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-28-toronto-maple-leafs-vs-seattle-kraken@open-sports-cal
+DTSTART:20261029T020000Z
+DTEND:20261029T050000Z
+SUMMARY:Toronto Maple Leafs @ Seattle Kraken
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-31-toronto-maple-leafs-vs-vancouver-canucks@open-sports-cal
+DTSTART:20261031T230000Z
+DTEND:20261101T020000Z
+SUMMARY:Toronto Maple Leafs @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-03-utah-mammoth-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261104T000000Z
+DTEND:20261104T030000Z
+SUMMARY:Utah Mammoth @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nUtah Mammoth @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-07-montreal-canadiens-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261108T000000Z
+DTEND:20261108T030000Z
+SUMMARY:Montréal Canadiens @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-08-new-jersey-devils-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261109T000000Z
+DTEND:20261109T030000Z
+SUMMARY:New Jersey Devils @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nNew Jersey Devils @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-10-colorado-avalanche-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261111T000000Z
+DTEND:20261111T030000Z
+SUMMARY:Colorado Avalanche @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-12-minnesota-wild-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261113T000000Z
+DTEND:20261113T030000Z
+SUMMARY:Minnesota Wild @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-14-edmonton-oilers-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+SUMMARY:Edmonton Oilers @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-17-toronto-maple-leafs-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261118T003000Z
+DTEND:20261118T033000Z
+SUMMARY:Toronto Maple Leafs @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-19-los-angeles-kings-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:Los Angeles Kings @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-21-columbus-blue-jackets-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261122T000000Z
+DTEND:20261122T030000Z
+SUMMARY:Columbus Blue Jackets @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-23-toronto-maple-leafs-vs-new-york-islanders@open-sports-cal
+DTSTART:20261124T003000Z
+DTEND:20261124T033000Z
+SUMMARY:Toronto Maple Leafs @ New York Islanders
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-27-toronto-maple-leafs-vs-boston-bruins@open-sports-cal
+DTSTART:20261127T180000Z
+DTEND:20261127T210000Z
+SUMMARY:Toronto Maple Leafs @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-28-toronto-maple-leafs-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261129T000000Z
+DTEND:20261129T030000Z
+SUMMARY:Toronto Maple Leafs @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-30-philadelphia-flyers-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261201T003000Z
+DTEND:20261201T033000Z
+SUMMARY:Philadelphia Flyers @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nPhiladelphia Flyers @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-03-florida-panthers-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261204T000000Z
+DTEND:20261204T030000Z
+SUMMARY:Florida Panthers @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-05-toronto-maple-leafs-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20261206T000000Z
+DTEND:20261206T030000Z
+SUMMARY:Toronto Maple Leafs @ Carolina Hurricanes
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-09-toronto-maple-leafs-vs-dallas-stars@open-sports-cal
+DTSTART:20261210T003000Z
+DTEND:20261210T033000Z
+SUMMARY:Toronto Maple Leafs @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-12-vegas-golden-knights-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261213T000000Z
+DTEND:20261213T030000Z
+SUMMARY:Vegas Golden Knights @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-13-anaheim-ducks-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261214T000000Z
+DTEND:20261214T030000Z
+SUMMARY:Anaheim Ducks @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nAnaheim Ducks @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-15-toronto-maple-leafs-vs-minnesota-wild@open-sports-cal
+DTSTART:20261216T010000Z
+DTEND:20261216T040000Z
+SUMMARY:Toronto Maple Leafs @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-17-toronto-maple-leafs-vs-new-jersey-devils@open-sports-cal
+DTSTART:20261218T003000Z
+DTEND:20261218T033000Z
+SUMMARY:Toronto Maple Leafs @ New Jersey Devils
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-19-tampa-bay-lightning-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261220T000000Z
+DTEND:20261220T030000Z
+SUMMARY:Tampa Bay Lightning @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-21-washington-capitals-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261221T190000Z
+DTEND:20261221T220000Z
+SUMMARY:Washington Capitals @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nWashington Capitals @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-22-toronto-maple-leafs-vs-detroit-red-wings@open-sports-cal
+DTSTART:20261223T000000Z
+DTEND:20261223T030000Z
+SUMMARY:Toronto Maple Leafs @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-26-toronto-maple-leafs-vs-montreal-canadiens@open-sports-cal
+DTSTART:20261227T000000Z
+DTEND:20261227T030000Z
+SUMMARY:Toronto Maple Leafs @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-29-toronto-maple-leafs-vs-anaheim-ducks@open-sports-cal
+DTSTART:20261230T030000Z
+DTEND:20261230T060000Z
+SUMMARY:Toronto Maple Leafs @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-30-toronto-maple-leafs-vs-los-angeles-kings@open-sports-cal
+DTSTART:20261231T030000Z
+DTEND:20261231T060000Z
+SUMMARY:Toronto Maple Leafs @ Los Angeles Kings
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-02-toronto-maple-leafs-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270103T000000Z
+DTEND:20270103T030000Z
+SUMMARY:Toronto Maple Leafs @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-04-toronto-maple-leafs-vs-washington-capitals@open-sports-cal
+DTSTART:20270105T003000Z
+DTEND:20270105T033000Z
+SUMMARY:Toronto Maple Leafs @ Washington Capitals
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-07-toronto-maple-leafs-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Toronto Maple Leafs @ Philadelphia Flyers
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-09-philadelphia-flyers-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270110T000000Z
+DTEND:20270110T030000Z
+SUMMARY:Philadelphia Flyers @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nPhiladelphia Flyers @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-11-winnipeg-jets-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270112T003000Z
+DTEND:20270112T033000Z
+SUMMARY:Winnipeg Jets @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-14-chicago-blackhawks-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270115T000000Z
+DTEND:20270115T030000Z
+SUMMARY:Chicago Blackhawks @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-16-pittsburgh-penguins-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270117T000000Z
+DTEND:20270117T030000Z
+SUMMARY:Pittsburgh Penguins @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-18-st-louis-blues-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270119T003000Z
+DTEND:20270119T033000Z
+SUMMARY:St. Louis Blues @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nSt. Louis Blues @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-20-toronto-maple-leafs-vs-ottawa-senators@open-sports-cal
+DTSTART:20270121T003000Z
+DTEND:20270121T033000Z
+SUMMARY:Toronto Maple Leafs @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-23-toronto-maple-leafs-vs-st-louis-blues@open-sports-cal
+DTSTART:20270124T000000Z
+DTEND:20270124T030000Z
+SUMMARY:Toronto Maple Leafs @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-26-calgary-flames-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270127T000000Z
+DTEND:20270127T030000Z
+SUMMARY:Calgary Flames @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-27-toronto-maple-leafs-vs-detroit-red-wings@open-sports-cal
+DTSTART:20270128T003000Z
+DTEND:20270128T033000Z
+SUMMARY:Toronto Maple Leafs @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-30-toronto-maple-leafs-vs-boston-bruins@open-sports-cal
+DTSTART:20270131T000000Z
+DTEND:20270131T030000Z
+SUMMARY:Toronto Maple Leafs @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-08-columbus-blue-jackets-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270209T003000Z
+DTEND:20270209T033000Z
+SUMMARY:Columbus Blue Jackets @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-10-boston-bruins-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270211T003000Z
+DTEND:20270211T033000Z
+SUMMARY:Boston Bruins @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-13-toronto-maple-leafs-vs-ottawa-senators@open-sports-cal
+DTSTART:20270214T000000Z
+DTEND:20270214T030000Z
+SUMMARY:Toronto Maple Leafs @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-16-carolina-hurricanes-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270217T000000Z
+DTEND:20270217T030000Z
+SUMMARY:Carolina Hurricanes @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nCarolina Hurricanes @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-18-toronto-maple-leafs-vs-nashville-predators@open-sports-cal
+DTSTART:20270219T010000Z
+DTEND:20270219T040000Z
+SUMMARY:Toronto Maple Leafs @ Nashville Predators
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-20-toronto-maple-leafs-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270221T000000Z
+DTEND:20270221T030000Z
+SUMMARY:Toronto Maple Leafs @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-23-detroit-red-wings-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270224T000000Z
+DTEND:20270224T030000Z
+SUMMARY:Detroit Red Wings @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-25-toronto-maple-leafs-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270226T000000Z
+DTEND:20270226T030000Z
+SUMMARY:Toronto Maple Leafs @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-27-toronto-maple-leafs-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270228T000000Z
+DTEND:20270228T030000Z
+SUMMARY:Toronto Maple Leafs @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-01-detroit-red-wings-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270302T000000Z
+DTEND:20270302T030000Z
+SUMMARY:Detroit Red Wings @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-03-seattle-kraken-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270303T233000Z
+DTEND:20270304T023000Z
+SUMMARY:Seattle Kraken @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-05-toronto-maple-leafs-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20270306T000000Z
+DTEND:20270306T030000Z
+SUMMARY:Toronto Maple Leafs @ Carolina Hurricanes
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-06-toronto-maple-leafs-vs-florida-panthers@open-sports-cal
+DTSTART:20270307T000000Z
+DTEND:20270307T030000Z
+SUMMARY:Toronto Maple Leafs @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-08-dallas-stars-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270309T003000Z
+DTEND:20270309T033000Z
+SUMMARY:Dallas Stars @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nDallas Stars @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-11-toronto-maple-leafs-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270312T000000Z
+DTEND:20270312T030000Z
+SUMMARY:Toronto Maple Leafs @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-13-vancouver-canucks-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270314T000000Z
+DTEND:20270314T030000Z
+SUMMARY:Vancouver Canucks @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nVancouver Canucks @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-15-florida-panthers-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270315T233000Z
+DTEND:20270316T023000Z
+SUMMARY:Florida Panthers @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-17-tampa-bay-lightning-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270317T233000Z
+DTEND:20270318T023000Z
+SUMMARY:Tampa Bay Lightning @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-18-toronto-maple-leafs-vs-new-york-rangers@open-sports-cal
+DTSTART:20270318T230000Z
+DTEND:20270319T020000Z
+SUMMARY:Toronto Maple Leafs @ New York Rangers
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-20-toronto-maple-leafs-vs-new-jersey-devils@open-sports-cal
+DTSTART:20270320T230000Z
+DTEND:20270321T020000Z
+SUMMARY:Toronto Maple Leafs @ New Jersey Devils
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-22-toronto-maple-leafs-vs-montreal-canadiens@open-sports-cal
+DTSTART:20270322T233000Z
+DTEND:20270323T023000Z
+SUMMARY:Toronto Maple Leafs @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-25-toronto-maple-leafs-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270325T230000Z
+DTEND:20270326T020000Z
+SUMMARY:Toronto Maple Leafs @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-27-ottawa-senators-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270327T230000Z
+DTEND:20270328T020000Z
+SUMMARY:Ottawa Senators @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-28-washington-capitals-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270328T230000Z
+DTEND:20270329T020000Z
+SUMMARY:Washington Capitals @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nWashington Capitals @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-30-toronto-maple-leafs-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270330T230000Z
+DTEND:20270331T020000Z
+SUMMARY:Toronto Maple Leafs @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-01-toronto-maple-leafs-vs-florida-panthers@open-sports-cal
+DTSTART:20270401T230000Z
+DTEND:20270402T020000Z
+SUMMARY:Toronto Maple Leafs @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-03-buffalo-sabres-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270403T230000Z
+DTEND:20270404T020000Z
+SUMMARY:Buffalo Sabres @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-05-boston-bruins-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270405T230000Z
+DTEND:20270406T020000Z
+SUMMARY:Boston Bruins @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-10-toronto-maple-leafs-vs-new-york-rangers@open-sports-cal
+DTSTART:20270410T230000Z
+DTEND:20270411T020000Z
+SUMMARY:Toronto Maple Leafs @ New York Rangers
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

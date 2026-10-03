@@ -1,0 +1,1017 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2026-27 - Calgary Flames
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-01-seattle-kraken-vs-calgary-flames@open-sports-cal
+DTSTART:20261002T010000Z
+DTEND:20261002T040000Z
+SUMMARY:Seattle Kraken @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-03-calgary-flames-vs-vancouver-canucks@open-sports-cal
+DTSTART:20261004T020000Z
+DTEND:20261004T050000Z
+SUMMARY:Calgary Flames @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-04-calgary-flames-vs-seattle-kraken@open-sports-cal
+DTSTART:20261005T000000Z
+DTEND:20261005T030000Z
+SUMMARY:Calgary Flames @ Seattle Kraken
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-08-colorado-avalanche-vs-calgary-flames@open-sports-cal
+DTSTART:20261009T010000Z
+DTEND:20261009T040000Z
+SUMMARY:Colorado Avalanche @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-10-anaheim-ducks-vs-calgary-flames@open-sports-cal
+DTSTART:20261011T020000Z
+DTEND:20261011T050000Z
+SUMMARY:Anaheim Ducks @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nAnaheim Ducks @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-13-calgary-flames-vs-anaheim-ducks@open-sports-cal
+DTSTART:20261014T014500Z
+DTEND:20261014T044500Z
+SUMMARY:Calgary Flames @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-15-calgary-flames-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261016T020000Z
+DTEND:20261016T050000Z
+SUMMARY:Calgary Flames @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-18-carolina-hurricanes-vs-calgary-flames@open-sports-cal
+DTSTART:20261019T000000Z
+DTEND:20261019T030000Z
+SUMMARY:Carolina Hurricanes @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nCarolina Hurricanes @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-22-minnesota-wild-vs-calgary-flames@open-sports-cal
+DTSTART:20261023T010000Z
+DTEND:20261023T040000Z
+SUMMARY:Minnesota Wild @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-24-detroit-red-wings-vs-calgary-flames@open-sports-cal
+DTSTART:20261025T020000Z
+DTEND:20261025T050000Z
+SUMMARY:Detroit Red Wings @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-26-toronto-maple-leafs-vs-calgary-flames@open-sports-cal
+DTSTART:20261027T003000Z
+DTEND:20261027T033000Z
+SUMMARY:Toronto Maple Leafs @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-28-calgary-flames-vs-edmonton-oilers@open-sports-cal
+DTSTART:20261029T003000Z
+DTEND:20261029T033000Z
+SUMMARY:Calgary Flames @ Edmonton Oilers
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-30-seattle-kraken-vs-calgary-flames@open-sports-cal
+DTSTART:20261031T000000Z
+DTEND:20261031T030000Z
+SUMMARY:Seattle Kraken @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-31-calgary-flames-vs-colorado-avalanche@open-sports-cal
+DTSTART:20261101T020000Z
+DTEND:20261101T050000Z
+SUMMARY:Calgary Flames @ Colorado Avalanche
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-02-calgary-flames-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261103T020000Z
+DTEND:20261103T050000Z
+SUMMARY:Calgary Flames @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-04-calgary-flames-vs-seattle-kraken@open-sports-cal
+DTSTART:20261105T030000Z
+DTEND:20261105T060000Z
+SUMMARY:Calgary Flames @ Seattle Kraken
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-06-anaheim-ducks-vs-calgary-flames@open-sports-cal
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:Anaheim Ducks @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nAnaheim Ducks @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-08-philadelphia-flyers-vs-calgary-flames@open-sports-cal
+DTSTART:20261109T000000Z
+DTEND:20261109T030000Z
+SUMMARY:Philadelphia Flyers @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nPhiladelphia Flyers @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-11-new-york-rangers-vs-calgary-flames@open-sports-cal
+DTSTART:20261112T003000Z
+DTEND:20261112T033000Z
+SUMMARY:New York Rangers @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nNew York Rangers @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-14-calgary-flames-vs-los-angeles-kings@open-sports-cal
+DTSTART:20261115T030000Z
+DTEND:20261115T060000Z
+SUMMARY:Calgary Flames @ Los Angeles Kings
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-15-calgary-flames-vs-anaheim-ducks@open-sports-cal
+DTSTART:20261116T010000Z
+DTEND:20261116T040000Z
+SUMMARY:Calgary Flames @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-17-calgary-flames-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261118T030000Z
+DTEND:20261118T060000Z
+SUMMARY:Calgary Flames @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-19-minnesota-wild-vs-calgary-flames@open-sports-cal
+DTSTART:20261120T010000Z
+DTEND:20261120T040000Z
+SUMMARY:Minnesota Wild @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-21-chicago-blackhawks-vs-calgary-flames@open-sports-cal
+DTSTART:20261121T203000Z
+DTEND:20261121T233000Z
+SUMMARY:Chicago Blackhawks @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-23-calgary-flames-vs-ottawa-senators@open-sports-cal
+DTSTART:20261124T003000Z
+DTEND:20261124T033000Z
+SUMMARY:Calgary Flames @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-25-calgary-flames-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:Calgary Flames @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-27-calgary-flames-vs-new-jersey-devils@open-sports-cal
+DTSTART:20261127T180000Z
+DTEND:20261127T210000Z
+SUMMARY:Calgary Flames @ New Jersey Devils
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-28-calgary-flames-vs-new-york-rangers@open-sports-cal
+DTSTART:20261129T000000Z
+DTEND:20261129T030000Z
+SUMMARY:Calgary Flames @ New York Rangers
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-01-calgary-flames-vs-detroit-red-wings@open-sports-cal
+DTSTART:20261202T000000Z
+DTEND:20261202T030000Z
+SUMMARY:Calgary Flames @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-03-buffalo-sabres-vs-calgary-flames@open-sports-cal
+DTSTART:20261204T010000Z
+DTEND:20261204T040000Z
+SUMMARY:Buffalo Sabres @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-05-washington-capitals-vs-calgary-flames@open-sports-cal
+DTSTART:20261205T203000Z
+DTEND:20261205T233000Z
+SUMMARY:Washington Capitals @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nWashington Capitals @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-08-nashville-predators-vs-calgary-flames@open-sports-cal
+DTSTART:20261209T010000Z
+DTEND:20261209T040000Z
+SUMMARY:Nashville Predators @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nNashville Predators @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-10-calgary-flames-vs-new-york-islanders@open-sports-cal
+DTSTART:20261211T000000Z
+DTEND:20261211T030000Z
+SUMMARY:Calgary Flames @ New York Islanders
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-11-calgary-flames-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20261212T000000Z
+DTEND:20261212T030000Z
+SUMMARY:Calgary Flames @ Philadelphia Flyers
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-15-calgary-flames-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261216T000000Z
+DTEND:20261216T030000Z
+SUMMARY:Calgary Flames @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-17-calgary-flames-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261218T000000Z
+DTEND:20261218T030000Z
+SUMMARY:Calgary Flames @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-19-calgary-flames-vs-florida-panthers@open-sports-cal
+DTSTART:20261219T180000Z
+DTEND:20261219T210000Z
+SUMMARY:Calgary Flames @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-22-calgary-flames-vs-dallas-stars@open-sports-cal
+DTSTART:20261223T010000Z
+DTEND:20261223T040000Z
+SUMMARY:Calgary Flames @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-26-vancouver-canucks-vs-calgary-flames@open-sports-cal
+DTSTART:20261227T030000Z
+DTEND:20261227T060000Z
+SUMMARY:Vancouver Canucks @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nVancouver Canucks @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-29-san-jose-sharks-vs-calgary-flames@open-sports-cal
+DTSTART:20261230T010000Z
+DTEND:20261230T040000Z
+SUMMARY:San Jose Sharks @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-31-winnipeg-jets-vs-calgary-flames@open-sports-cal
+DTSTART:20270101T010000Z
+DTEND:20270101T040000Z
+SUMMARY:Winnipeg Jets @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-02-calgary-flames-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270103T000000Z
+DTEND:20270103T030000Z
+SUMMARY:Calgary Flames @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-03-calgary-flames-vs-st-louis-blues@open-sports-cal
+DTSTART:20270104T000000Z
+DTEND:20270104T030000Z
+SUMMARY:Calgary Flames @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-05-florida-panthers-vs-calgary-flames@open-sports-cal
+DTSTART:20270106T010000Z
+DTEND:20270106T040000Z
+SUMMARY:Florida Panthers @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-07-new-york-islanders-vs-calgary-flames@open-sports-cal
+DTSTART:20270108T010000Z
+DTEND:20270108T040000Z
+SUMMARY:New York Islanders @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-09-tampa-bay-lightning-vs-calgary-flames@open-sports-cal
+DTSTART:20270109T203000Z
+DTEND:20270109T233000Z
+SUMMARY:Tampa Bay Lightning @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-12-columbus-blue-jackets-vs-calgary-flames@open-sports-cal
+DTSTART:20270113T010000Z
+DTEND:20270113T040000Z
+SUMMARY:Columbus Blue Jackets @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-14-san-jose-sharks-vs-calgary-flames@open-sports-cal
+DTSTART:20270115T010000Z
+DTEND:20270115T040000Z
+SUMMARY:San Jose Sharks @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-16-los-angeles-kings-vs-calgary-flames@open-sports-cal
+DTSTART:20270117T030000Z
+DTEND:20270117T060000Z
+SUMMARY:Los Angeles Kings @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-18-calgary-flames-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270119T013000Z
+DTEND:20270119T043000Z
+SUMMARY:Calgary Flames @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-21-calgary-flames-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270122T000000Z
+DTEND:20270122T030000Z
+SUMMARY:Calgary Flames @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-23-calgary-flames-vs-montreal-canadiens@open-sports-cal
+DTSTART:20270124T000000Z
+DTEND:20270124T030000Z
+SUMMARY:Calgary Flames @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-26-calgary-flames-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270127T000000Z
+DTEND:20270127T030000Z
+SUMMARY:Calgary Flames @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-28-montreal-canadiens-vs-calgary-flames@open-sports-cal
+DTSTART:20270129T010000Z
+DTEND:20270129T040000Z
+SUMMARY:Montréal Canadiens @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-30-new-jersey-devils-vs-calgary-flames@open-sports-cal
+DTSTART:20270130T203000Z
+DTEND:20270130T233000Z
+SUMMARY:New Jersey Devils @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nNew Jersey Devils @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-01-vegas-golden-knights-vs-calgary-flames@open-sports-cal
+DTSTART:20270202T003000Z
+DTEND:20270202T033000Z
+SUMMARY:Vegas Golden Knights @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-03-utah-mammoth-vs-calgary-flames@open-sports-cal
+DTSTART:20270204T020000Z
+DTEND:20270204T050000Z
+SUMMARY:Utah Mammoth @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nUtah Mammoth @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-12-calgary-flames-vs-utah-mammoth@open-sports-cal
+DTSTART:20270213T020000Z
+DTEND:20270213T050000Z
+SUMMARY:Calgary Flames @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-13-calgary-flames-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270214T030000Z
+DTEND:20270214T060000Z
+SUMMARY:Calgary Flames @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-15-calgary-flames-vs-los-angeles-kings@open-sports-cal
+DTSTART:20270216T030000Z
+DTEND:20270216T060000Z
+SUMMARY:Calgary Flames @ Los Angeles Kings
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-17-boston-bruins-vs-calgary-flames@open-sports-cal
+DTSTART:20270218T020000Z
+DTEND:20270218T050000Z
+SUMMARY:Boston Bruins @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-19-pittsburgh-penguins-vs-calgary-flames@open-sports-cal
+DTSTART:20270220T010000Z
+DTEND:20270220T040000Z
+SUMMARY:Pittsburgh Penguins @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-21-ottawa-senators-vs-calgary-flames@open-sports-cal
+DTSTART:20270222T000000Z
+DTEND:20270222T030000Z
+SUMMARY:Ottawa Senators @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-24-calgary-flames-vs-utah-mammoth@open-sports-cal
+DTSTART:20270225T010000Z
+DTEND:20270225T040000Z
+SUMMARY:Calgary Flames @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-27-calgary-flames-vs-vancouver-canucks@open-sports-cal
+DTSTART:20270228T030000Z
+DTEND:20270228T060000Z
+SUMMARY:Calgary Flames @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-03-edmonton-oilers-vs-calgary-flames@open-sports-cal
+DTSTART:20270304T013000Z
+DTEND:20270304T043000Z
+SUMMARY:Edmonton Oilers @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-05-chicago-blackhawks-vs-calgary-flames@open-sports-cal
+DTSTART:20270306T010000Z
+DTEND:20270306T040000Z
+SUMMARY:Chicago Blackhawks @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-07-calgary-flames-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270307T190000Z
+DTEND:20270307T220000Z
+SUMMARY:Calgary Flames @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-09-calgary-flames-vs-washington-capitals@open-sports-cal
+DTSTART:20270310T000000Z
+DTEND:20270310T030000Z
+SUMMARY:Calgary Flames @ Washington Capitals
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-12-calgary-flames-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20270313T000000Z
+DTEND:20270313T030000Z
+SUMMARY:Calgary Flames @ Carolina Hurricanes
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-13-calgary-flames-vs-boston-bruins@open-sports-cal
+DTSTART:20270314T000000Z
+DTEND:20270314T030000Z
+SUMMARY:Calgary Flames @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-15-nashville-predators-vs-calgary-flames@open-sports-cal
+DTSTART:20270316T013000Z
+DTEND:20270316T043000Z
+SUMMARY:Nashville Predators @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nNashville Predators @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-17-dallas-stars-vs-calgary-flames@open-sports-cal
+DTSTART:20270318T013000Z
+DTEND:20270318T043000Z
+SUMMARY:Dallas Stars @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nDallas Stars @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-19-calgary-flames-vs-minnesota-wild@open-sports-cal
+DTSTART:20270320T000000Z
+DTEND:20270320T030000Z
+SUMMARY:Calgary Flames @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-21-st-louis-blues-vs-calgary-flames@open-sports-cal
+DTSTART:20270322T000000Z
+DTEND:20270322T030000Z
+SUMMARY:St. Louis Blues @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nSt. Louis Blues @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-23-edmonton-oilers-vs-calgary-flames@open-sports-cal
+DTSTART:20270324T010000Z
+DTEND:20270324T040000Z
+SUMMARY:Edmonton Oilers @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-25-los-angeles-kings-vs-calgary-flames@open-sports-cal
+DTSTART:20270326T010000Z
+DTEND:20270326T040000Z
+SUMMARY:Los Angeles Kings @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-27-vegas-golden-knights-vs-calgary-flames@open-sports-cal
+DTSTART:20270328T020000Z
+DTEND:20270328T050000Z
+SUMMARY:Vegas Golden Knights @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-30-calgary-flames-vs-dallas-stars@open-sports-cal
+DTSTART:20270331T000000Z
+DTEND:20270331T030000Z
+SUMMARY:Calgary Flames @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-01-calgary-flames-vs-st-louis-blues@open-sports-cal
+DTSTART:20270402T000000Z
+DTEND:20270402T030000Z
+SUMMARY:Calgary Flames @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-03-calgary-flames-vs-nashville-predators@open-sports-cal
+DTSTART:20270403T193000Z
+DTEND:20270403T223000Z
+SUMMARY:Calgary Flames @ Nashville Predators
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-05-calgary-flames-vs-edmonton-oilers@open-sports-cal
+DTSTART:20270406T013000Z
+DTEND:20270406T043000Z
+SUMMARY:Calgary Flames @ Edmonton Oilers
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-08-colorado-avalanche-vs-calgary-flames@open-sports-cal
+DTSTART:20270409T010000Z
+DTEND:20270409T040000Z
+SUMMARY:Colorado Avalanche @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-10-vancouver-canucks-vs-calgary-flames@open-sports-cal
+DTSTART:20270411T020000Z
+DTEND:20270411T050000Z
+SUMMARY:Vancouver Canucks @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nVancouver Canucks @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+END:VCALENDAR

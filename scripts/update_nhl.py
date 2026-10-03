@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 """
-NHL 2025-26: full regeneration from api-web.nhle.com.
+NHL 2026-27: full regeneration from api-web.nhle.com.
 Regular season UIDs are date+team based (stable across reruns).
-Playoff UIDs include game number per series.
+Playoff UIDs include game number per series and are added
+automatically once the league publishes the playoff schedule.
+Venue timezones come from the API's venueTimezone field, normalized
+to canonical IANA names; the team map is only a fallback.
 """
 import json
+import re
 import sys
 import urllib.request
 from collections import defaultdict
@@ -14,9 +18,24 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 from common import slug, fmt_utc, make_vevent, make_calendar, write_calendar, DTSTAMP
 
-OUT_DIR = Path("hockey/nhl/2025-26")
+OUT_DIR = Path("hockey/nhl/2026-27")
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
 
+SEASON = "NHL 2026-27"
+UID_PREFIX = "nhl-2026-27"
+CATEGORIES = "Hockey,NHL,NHL 2026-27"
+PLAYOFF_CATEGORIES = "Hockey,NHL,NHL Playoffs 2026-27"
+
+# Legacy aliases returned by the NHL API → canonical IANA zones
+TZ_NORMALIZE = {
+    "US/Eastern": "America/New_York",
+    "US/Central": "America/Chicago",
+    "US/Mountain": "America/Denver",
+    "US/Pacific": "America/Los_Angeles",
+    "America/Detroit": "America/New_York",
+}
+
+# Fallback only — the API's venueTimezone field is preferred
 TEAM_TZ = {
     "Anaheim Ducks": "America/Los_Angeles",
     "Boston Bruins": "America/New_York",
@@ -32,6 +51,7 @@ TEAM_TZ = {
     "Florida Panthers": "America/New_York",
     "Los Angeles Kings": "America/Los_Angeles",
     "Minnesota Wild": "America/Chicago",
+    "Montréal Canadiens": "America/Toronto",
     "Montreal Canadiens": "America/Toronto",
     "Nashville Predators": "America/Chicago",
     "New Jersey Devils": "America/New_York",
@@ -45,7 +65,7 @@ TEAM_TZ = {
     "St. Louis Blues": "America/Chicago",
     "Tampa Bay Lightning": "America/New_York",
     "Toronto Maple Leafs": "America/Toronto",
-    "Utah Hockey Club": "America/Denver",
+    "Utah Mammoth": "America/Denver",
     "Vancouver Canucks": "America/Vancouver",
     "Vegas Golden Knights": "America/Los_Angeles",
     "Washington Capitals": "America/New_York",
@@ -65,9 +85,9 @@ def fetch_week(date_str):
 
 
 def fetch_all_games():
-    games = {}  # uid -> game dict (dedup)
-    start = datetime(2025, 10, 1)
-    end = datetime(2026, 6, 30)
+    games = {}  # id -> game dict (dedup)
+    start = datetime(2026, 9, 1)
+    end = datetime(2027, 6, 30)
     current = start
     while current <= end:
         date_str = current.strftime("%Y-%m-%d")
@@ -85,18 +105,25 @@ def fetch_all_games():
                 if not home_name or not away_name:
                     continue
                 start_utc = g.get("startTimeUTC", "")
-                venue = g.get("venue", {}).get("default", "TBD")
                 games[g["id"]] = {
                     "id": g["id"],
                     "game_type": game_type,
                     "local_date": local_date,
                     "home": home_name,
                     "away": away_name,
-                    "venue": venue,
+                    "venue": g.get("venue", {}).get("default", "TBD"),
+                    "venue_tz": g.get("venueTimezone", ""),
                     "start_utc": start_utc,
                 }
         current += timedelta(days=7)
     return list(games.values())
+
+
+def game_tz(g):
+    api_tz = TZ_NORMALIZE.get(g["venue_tz"], g["venue_tz"])
+    if api_tz:
+        return api_tz
+    return TEAM_TZ.get(g["home"], "America/New_York")
 
 
 def build_events(games):
@@ -114,15 +141,16 @@ def build_events(games):
         except ValueError:
             continue
         away_s, home_s = slug(g["away"]), slug(g["home"])
-        uid = f"nhl-2025-26-{g['local_date']}-{away_s}-vs-{home_s}@open-sports-cal"
+        uid = f"{UID_PREFIX}-{g['local_date']}-{away_s}-vs-{home_s}@open-sports-cal"
         summary = f"{g['away']} @ {g['home']}"
-        description = f"NHL 2025-26\\n{g['away']} @ {g['home']}\\n{g['venue']}"
-        tz = TEAM_TZ.get(g["home"], "America/New_York")
+        description = f"{SEASON}\\n{g['away']} @ {g['home']}\\n{g['venue']}"
         vevents.append({
             "vevent": make_vevent(uid, summary, fmt_utc(dt), fmt_utc(dt + timedelta(hours=3)),
-                                  g["venue"], description, "Hockey,NHL,NHL 2025-26", tz),
+                                  g["venue"], description, CATEGORIES, game_tz(g)),
             "away_slug": away_s,
             "home_slug": home_s,
+            "away_name": g["away"],
+            "home_name": g["home"],
         })
 
     series_counts = defaultdict(int)
@@ -135,18 +163,18 @@ def build_events(games):
         series_counts[series_key] += 1
         game_num = series_counts[series_key]
         away_s, home_s = slug(g["away"]), slug(g["home"])
-        uid = f"nhl-2025-26-playoffs-{g['local_date']}-{away_s}-vs-{home_s}-g{game_num}@open-sports-cal"
+        uid = f"{UID_PREFIX}-playoffs-{g['local_date']}-{away_s}-vs-{home_s}-g{game_num}@open-sports-cal"
         summary = f"{g['away']} @ {g['home']} (Game {game_num})"
-        description = (f"NHL Playoffs 2025-26\\n"
+        description = (f"NHL Playoffs 2026-27\\n"
                        f"{g['away']} @ {g['home']} — Game {game_num}\\n"
                        f"{g['venue']}")
-        tz = TEAM_TZ.get(g["home"], "America/New_York")
         vevents.append({
             "vevent": make_vevent(uid, summary, fmt_utc(dt), fmt_utc(dt + timedelta(hours=3)),
-                                  g["venue"], description,
-                                  "Hockey,NHL,NHL Playoffs 2025-26", tz),
+                                  g["venue"], description, PLAYOFF_CATEGORIES, game_tz(g)),
             "away_slug": away_s,
             "home_slug": home_s,
+            "away_name": g["away"],
+            "home_name": g["home"],
         })
 
     return vevents
@@ -161,25 +189,33 @@ def main():
     events = build_events(games)
     print(f"  Built {len(events)} events")
 
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+
     all_vevents = [e["vevent"] for e in events]
     (OUT_DIR / "all-teams.ics").write_text(
-        make_calendar(all_vevents, "NHL 2025-26 - All Teams", "NHL 2025-26"),
+        make_calendar(all_vevents, "NHL 2026-27 - All Teams", SEASON),
         encoding="utf-8",
     )
     print(f"  Wrote all-teams.ics ({len(all_vevents)} events)")
 
-    team_files = [f for f in OUT_DIR.glob("*.ics") if f.name != "all-teams.ics"]
-    for team_file in sorted(team_files):
-        ts = team_file.stem
-        team_events = [e["vevent"] for e in events
-                       if e["away_slug"] == ts or e["home_slug"] == ts]
-        import re
-        existing = team_file.read_text(encoding="utf-8")
-        cal_name_m = re.search(r"X-WR-CALNAME:(.+)", existing)
-        cal_name = cal_name_m.group(1).strip() if cal_name_m else f"NHL 2025-26 - {ts}"
-        team_file.write_text(make_calendar(team_events, cal_name, "NHL 2025-26"),
-                             encoding="utf-8")
+    teams = {}
+    for e in events:
+        teams[e["home_slug"]] = e["home_name"]
+        teams[e["away_slug"]] = e["away_name"]
 
+    for ts, display in sorted(teams.items()):
+        team_events = [e["vevent"] for e in events
+                        if e["away_slug"] == ts or e["home_slug"] == ts]
+        team_path = OUT_DIR / f"{ts}.ics"
+        cal_name = f"{SEASON} - {display}"
+        if team_path.exists():
+            existing = team_path.read_text(encoding="utf-8")
+            m = re.search(r"X-WR-CALNAME:(.+)", existing)
+            if m:
+                cal_name = m.group(1).strip()
+        team_path.write_text(make_calendar(team_events, cal_name, SEASON),
+                             encoding="utf-8")
+    print(f"  Wrote {len(teams)} team files")
     print("NHL: done.")
 
 

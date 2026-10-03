@@ -1,0 +1,1017 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2026-27 - Minnesota Wild
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-01-minnesota-wild-vs-nashville-predators@open-sports-cal
+DTSTART:20261002T000000Z
+DTEND:20261002T030000Z
+SUMMARY:Minnesota Wild @ Nashville Predators
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-03-boston-bruins-vs-minnesota-wild@open-sports-cal
+DTSTART:20261004T000000Z
+DTEND:20261004T030000Z
+SUMMARY:Boston Bruins @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-06-minnesota-wild-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261006T230000Z
+DTEND:20261007T020000Z
+SUMMARY:Minnesota Wild @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-08-minnesota-wild-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261008T230000Z
+DTEND:20261009T020000Z
+SUMMARY:Minnesota Wild @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-10-minnesota-wild-vs-florida-panthers@open-sports-cal
+DTSTART:20261010T220000Z
+DTEND:20261011T010000Z
+SUMMARY:Minnesota Wild @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-12-vegas-golden-knights-vs-minnesota-wild@open-sports-cal
+DTSTART:20261013T000000Z
+DTEND:20261013T030000Z
+SUMMARY:Vegas Golden Knights @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-13-minnesota-wild-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261014T001500Z
+DTEND:20261014T031500Z
+SUMMARY:Minnesota Wild @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-15-st-louis-blues-vs-minnesota-wild@open-sports-cal
+DTSTART:20261016T000000Z
+DTEND:20261016T030000Z
+SUMMARY:St. Louis Blues @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nSt. Louis Blues @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-18-columbus-blue-jackets-vs-minnesota-wild@open-sports-cal
+DTSTART:20261018T220000Z
+DTEND:20261019T010000Z
+SUMMARY:Columbus Blue Jackets @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-20-minnesota-wild-vs-edmonton-oilers@open-sports-cal
+DTSTART:20261021T010000Z
+DTEND:20261021T040000Z
+SUMMARY:Minnesota Wild @ Edmonton Oilers
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-22-minnesota-wild-vs-calgary-flames@open-sports-cal
+DTSTART:20261023T010000Z
+DTEND:20261023T040000Z
+SUMMARY:Minnesota Wild @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-24-minnesota-wild-vs-seattle-kraken@open-sports-cal
+DTSTART:20261025T020000Z
+DTEND:20261025T050000Z
+SUMMARY:Minnesota Wild @ Seattle Kraken
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-25-minnesota-wild-vs-vancouver-canucks@open-sports-cal
+DTSTART:20261026T020000Z
+DTEND:20261026T050000Z
+SUMMARY:Minnesota Wild @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-27-minnesota-wild-vs-utah-mammoth@open-sports-cal
+DTSTART:20261028T010000Z
+DTEND:20261028T040000Z
+SUMMARY:Minnesota Wild @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-29-new-york-islanders-vs-minnesota-wild@open-sports-cal
+DTSTART:20261030T000000Z
+DTEND:20261030T030000Z
+SUMMARY:New York Islanders @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-01-minnesota-wild-vs-washington-capitals@open-sports-cal
+DTSTART:20261101T203000Z
+DTEND:20261101T233000Z
+SUMMARY:Minnesota Wild @ Washington Capitals
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-03-minnesota-wild-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20261104T000000Z
+DTEND:20261104T030000Z
+SUMMARY:Minnesota Wild @ Philadelphia Flyers
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-06-san-jose-sharks-vs-minnesota-wild@open-sports-cal
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:San Jose Sharks @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-07-tampa-bay-lightning-vs-minnesota-wild@open-sports-cal
+DTSTART:20261108T010000Z
+DTEND:20261108T040000Z
+SUMMARY:Tampa Bay Lightning @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-10-minnesota-wild-vs-montreal-canadiens@open-sports-cal
+DTSTART:20261111T000000Z
+DTEND:20261111T030000Z
+SUMMARY:Minnesota Wild @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-12-minnesota-wild-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261113T000000Z
+DTEND:20261113T030000Z
+SUMMARY:Minnesota Wild @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-14-minnesota-wild-vs-boston-bruins@open-sports-cal
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+SUMMARY:Minnesota Wild @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-17-nashville-predators-vs-minnesota-wild@open-sports-cal
+DTSTART:20261118T010000Z
+DTEND:20261118T040000Z
+SUMMARY:Nashville Predators @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nNashville Predators @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-19-minnesota-wild-vs-calgary-flames@open-sports-cal
+DTSTART:20261120T010000Z
+DTEND:20261120T040000Z
+SUMMARY:Minnesota Wild @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-21-minnesota-wild-vs-vancouver-canucks@open-sports-cal
+DTSTART:20261122T030000Z
+DTEND:20261122T060000Z
+SUMMARY:Minnesota Wild @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-23-minnesota-wild-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261124T030000Z
+DTEND:20261124T060000Z
+SUMMARY:Minnesota Wild @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-25-utah-mammoth-vs-minnesota-wild@open-sports-cal
+DTSTART:20261126T010000Z
+DTEND:20261126T040000Z
+SUMMARY:Utah Mammoth @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nUtah Mammoth @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-27-colorado-avalanche-vs-minnesota-wild@open-sports-cal
+DTSTART:20261127T210000Z
+DTEND:20261128T000000Z
+SUMMARY:Colorado Avalanche @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-29-minnesota-wild-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261129T190000Z
+DTEND:20261129T220000Z
+SUMMARY:Minnesota Wild @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-01-minnesota-wild-vs-anaheim-ducks@open-sports-cal
+DTSTART:20261202T030000Z
+DTEND:20261202T060000Z
+SUMMARY:Minnesota Wild @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-03-minnesota-wild-vs-los-angeles-kings@open-sports-cal
+DTSTART:20261204T030000Z
+DTEND:20261204T060000Z
+SUMMARY:Minnesota Wild @ Los Angeles Kings
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-05-philadelphia-flyers-vs-minnesota-wild@open-sports-cal
+DTSTART:20261206T010000Z
+DTEND:20261206T040000Z
+SUMMARY:Philadelphia Flyers @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nPhiladelphia Flyers @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-08-edmonton-oilers-vs-minnesota-wild@open-sports-cal
+DTSTART:20261209T010000Z
+DTEND:20261209T040000Z
+SUMMARY:Edmonton Oilers @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-10-minnesota-wild-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261211T000000Z
+DTEND:20261211T030000Z
+SUMMARY:Minnesota Wild @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-12-winnipeg-jets-vs-minnesota-wild@open-sports-cal
+DTSTART:20261212T203000Z
+DTEND:20261212T233000Z
+SUMMARY:Winnipeg Jets @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-15-toronto-maple-leafs-vs-minnesota-wild@open-sports-cal
+DTSTART:20261216T010000Z
+DTEND:20261216T040000Z
+SUMMARY:Toronto Maple Leafs @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-18-anaheim-ducks-vs-minnesota-wild@open-sports-cal
+DTSTART:20261219T010000Z
+DTEND:20261219T040000Z
+SUMMARY:Anaheim Ducks @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nAnaheim Ducks @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-19-montreal-canadiens-vs-minnesota-wild@open-sports-cal
+DTSTART:20261220T000000Z
+DTEND:20261220T030000Z
+SUMMARY:Montréal Canadiens @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-22-los-angeles-kings-vs-minnesota-wild@open-sports-cal
+DTSTART:20261223T010000Z
+DTEND:20261223T040000Z
+SUMMARY:Los Angeles Kings @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-26-winnipeg-jets-vs-minnesota-wild@open-sports-cal
+DTSTART:20261227T000000Z
+DTEND:20261227T030000Z
+SUMMARY:Winnipeg Jets @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-28-vegas-golden-knights-vs-minnesota-wild@open-sports-cal
+DTSTART:20261228T190000Z
+DTEND:20261228T220000Z
+SUMMARY:Vegas Golden Knights @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-01-minnesota-wild-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270101T230000Z
+DTEND:20270102T020000Z
+SUMMARY:Minnesota Wild @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-02-st-louis-blues-vs-minnesota-wild@open-sports-cal
+DTSTART:20270103T000000Z
+DTEND:20270103T030000Z
+SUMMARY:St. Louis Blues @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nSt. Louis Blues @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-05-minnesota-wild-vs-anaheim-ducks@open-sports-cal
+DTSTART:20270106T030000Z
+DTEND:20270106T060000Z
+SUMMARY:Minnesota Wild @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-07-minnesota-wild-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270108T023000Z
+DTEND:20270108T053000Z
+SUMMARY:Minnesota Wild @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-09-nashville-predators-vs-minnesota-wild@open-sports-cal
+DTSTART:20270110T010000Z
+DTEND:20270110T040000Z
+SUMMARY:Nashville Predators @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nNashville Predators @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-14-florida-panthers-vs-minnesota-wild@open-sports-cal
+DTSTART:20270115T023000Z
+DTEND:20270115T053000Z
+SUMMARY:Florida Panthers @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-16-minnesota-wild-vs-st-louis-blues@open-sports-cal
+DTSTART:20270117T000000Z
+DTEND:20270117T030000Z
+SUMMARY:Minnesota Wild @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-17-minnesota-wild-vs-detroit-red-wings@open-sports-cal
+DTSTART:20270117T220000Z
+DTEND:20270118T010000Z
+SUMMARY:Minnesota Wild @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-19-minnesota-wild-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270120T000000Z
+DTEND:20270120T030000Z
+SUMMARY:Minnesota Wild @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-21-detroit-red-wings-vs-minnesota-wild@open-sports-cal
+DTSTART:20270122T020000Z
+DTEND:20270122T050000Z
+SUMMARY:Detroit Red Wings @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-23-new-york-rangers-vs-minnesota-wild@open-sports-cal
+DTSTART:20270124T010000Z
+DTEND:20270124T040000Z
+SUMMARY:New York Rangers @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nNew York Rangers @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-25-minnesota-wild-vs-utah-mammoth@open-sports-cal
+DTSTART:20270126T020000Z
+DTEND:20270126T050000Z
+SUMMARY:Minnesota Wild @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-26-vancouver-canucks-vs-minnesota-wild@open-sports-cal
+DTSTART:20270127T010000Z
+DTEND:20270127T040000Z
+SUMMARY:Vancouver Canucks @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nVancouver Canucks @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-28-seattle-kraken-vs-minnesota-wild@open-sports-cal
+DTSTART:20270129T020000Z
+DTEND:20270129T050000Z
+SUMMARY:Seattle Kraken @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-30-dallas-stars-vs-minnesota-wild@open-sports-cal
+DTSTART:20270131T020000Z
+DTEND:20270131T050000Z
+SUMMARY:Dallas Stars @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nDallas Stars @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-11-minnesota-wild-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20270212T003000Z
+DTEND:20270212T033000Z
+SUMMARY:Minnesota Wild @ Carolina Hurricanes
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-13-minnesota-wild-vs-new-york-islanders@open-sports-cal
+DTSTART:20270214T000000Z
+DTEND:20270214T030000Z
+SUMMARY:Minnesota Wild @ New York Islanders
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-15-ottawa-senators-vs-minnesota-wild@open-sports-cal
+DTSTART:20270216T003000Z
+DTEND:20270216T033000Z
+SUMMARY:Ottawa Senators @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-16-minnesota-wild-vs-dallas-stars@open-sports-cal
+DTSTART:20270217T010000Z
+DTEND:20270217T040000Z
+SUMMARY:Minnesota Wild @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-18-los-angeles-kings-vs-minnesota-wild@open-sports-cal
+DTSTART:20270219T010000Z
+DTEND:20270219T040000Z
+SUMMARY:Los Angeles Kings @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-20-minnesota-wild-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270220T200000Z
+DTEND:20270220T230000Z
+SUMMARY:Minnesota Wild @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-23-pittsburgh-penguins-vs-minnesota-wild@open-sports-cal
+DTSTART:20270224T010000Z
+DTEND:20270224T040000Z
+SUMMARY:Pittsburgh Penguins @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-27-minnesota-wild-vs-st-louis-blues@open-sports-cal
+DTSTART:20270227T210000Z
+DTEND:20270228T000000Z
+SUMMARY:Minnesota Wild @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-28-new-jersey-devils-vs-minnesota-wild@open-sports-cal
+DTSTART:20270228T203000Z
+DTEND:20270228T233000Z
+SUMMARY:New Jersey Devils @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nNew Jersey Devils @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-03-minnesota-wild-vs-dallas-stars@open-sports-cal
+DTSTART:20270304T010000Z
+DTEND:20270304T040000Z
+SUMMARY:Minnesota Wild @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-06-minnesota-wild-vs-nashville-predators@open-sports-cal
+DTSTART:20270307T010000Z
+DTEND:20270307T040000Z
+SUMMARY:Minnesota Wild @ Nashville Predators
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-07-washington-capitals-vs-minnesota-wild@open-sports-cal
+DTSTART:20270308T023000Z
+DTEND:20270308T053000Z
+SUMMARY:Washington Capitals @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nWashington Capitals @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-09-carolina-hurricanes-vs-minnesota-wild@open-sports-cal
+DTSTART:20270310T010000Z
+DTEND:20270310T040000Z
+SUMMARY:Carolina Hurricanes @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nCarolina Hurricanes @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-11-minnesota-wild-vs-ottawa-senators@open-sports-cal
+DTSTART:20270312T000000Z
+DTEND:20270312T030000Z
+SUMMARY:Minnesota Wild @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-14-buffalo-sabres-vs-minnesota-wild@open-sports-cal
+DTSTART:20270314T230000Z
+DTEND:20270315T020000Z
+SUMMARY:Buffalo Sabres @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-17-minnesota-wild-vs-colorado-avalanche@open-sports-cal
+DTSTART:20270318T003000Z
+DTEND:20270318T033000Z
+SUMMARY:Minnesota Wild @ Colorado Avalanche
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-19-calgary-flames-vs-minnesota-wild@open-sports-cal
+DTSTART:20270320T000000Z
+DTEND:20270320T030000Z
+SUMMARY:Calgary Flames @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-21-utah-mammoth-vs-minnesota-wild@open-sports-cal
+DTSTART:20270321T180000Z
+DTEND:20270321T210000Z
+SUMMARY:Utah Mammoth @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nUtah Mammoth @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-23-chicago-blackhawks-vs-minnesota-wild@open-sports-cal
+DTSTART:20270324T000000Z
+DTEND:20270324T030000Z
+SUMMARY:Chicago Blackhawks @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-25-edmonton-oilers-vs-minnesota-wild@open-sports-cal
+DTSTART:20270326T010000Z
+DTEND:20270326T040000Z
+SUMMARY:Edmonton Oilers @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-27-seattle-kraken-vs-minnesota-wild@open-sports-cal
+DTSTART:20270327T180000Z
+DTEND:20270327T210000Z
+SUMMARY:Seattle Kraken @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-29-minnesota-wild-vs-new-york-rangers@open-sports-cal
+DTSTART:20270329T230000Z
+DTEND:20270330T020000Z
+SUMMARY:Minnesota Wild @ New York Rangers
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-31-minnesota-wild-vs-new-jersey-devils@open-sports-cal
+DTSTART:20270331T233000Z
+DTEND:20270401T023000Z
+SUMMARY:Minnesota Wild @ New Jersey Devils
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-02-dallas-stars-vs-minnesota-wild@open-sports-cal
+DTSTART:20270403T000000Z
+DTEND:20270403T030000Z
+SUMMARY:Dallas Stars @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nDallas Stars @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-04-colorado-avalanche-vs-minnesota-wild@open-sports-cal
+DTSTART:20270404T180000Z
+DTEND:20270404T210000Z
+SUMMARY:Colorado Avalanche @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-06-chicago-blackhawks-vs-minnesota-wild@open-sports-cal
+DTSTART:20270407T000000Z
+DTEND:20270407T030000Z
+SUMMARY:Chicago Blackhawks @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-08-minnesota-wild-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270409T020000Z
+DTEND:20270409T050000Z
+SUMMARY:Minnesota Wild @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-10-minnesota-wild-vs-colorado-avalanche@open-sports-cal
+DTSTART:20270410T190000Z
+DTEND:20270410T220000Z
+SUMMARY:Minnesota Wild @ Colorado Avalanche
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+END:VCALENDAR

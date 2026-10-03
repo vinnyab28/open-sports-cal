@@ -1,0 +1,1017 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2026-27 - Winnipeg Jets
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-02-boston-bruins-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261003T000000Z
+DTEND:20261003T030000Z
+SUMMARY:Boston Bruins @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-04-winnipeg-jets-vs-detroit-red-wings@open-sports-cal
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Winnipeg Jets @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-05-winnipeg-jets-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261005T233000Z
+DTEND:20261006T023000Z
+SUMMARY:Winnipeg Jets @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-07-colorado-avalanche-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261007T233000Z
+DTEND:20261008T023000Z
+SUMMARY:Colorado Avalanche @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-09-anaheim-ducks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261010T000000Z
+DTEND:20261010T030000Z
+SUMMARY:Anaheim Ducks @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nAnaheim Ducks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-13-minnesota-wild-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261014T001500Z
+DTEND:20261014T031500Z
+SUMMARY:Minnesota Wild @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-15-winnipeg-jets-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261016T000000Z
+DTEND:20261016T030000Z
+SUMMARY:Winnipeg Jets @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-17-carolina-hurricanes-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261017T193000Z
+DTEND:20261017T223000Z
+SUMMARY:Carolina Hurricanes @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nCarolina Hurricanes @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-20-winnipeg-jets-vs-st-louis-blues@open-sports-cal
+DTSTART:20261021T000000Z
+DTEND:20261021T030000Z
+SUMMARY:Winnipeg Jets @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-22-winnipeg-jets-vs-dallas-stars@open-sports-cal
+DTSTART:20261023T000000Z
+DTEND:20261023T030000Z
+SUMMARY:Winnipeg Jets @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-25-montreal-canadiens-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261025T230000Z
+DTEND:20261026T020000Z
+SUMMARY:Montréal Canadiens @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ Winnipeg Jets\nPrincess Auto Stadium
+LOCATION:Princess Auto Stadium
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-27-florida-panthers-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261028T000000Z
+DTEND:20261028T030000Z
+SUMMARY:Florida Panthers @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-29-winnipeg-jets-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261029T230000Z
+DTEND:20261030T020000Z
+SUMMARY:Winnipeg Jets @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-30-winnipeg-jets-vs-florida-panthers@open-sports-cal
+DTSTART:20261030T230000Z
+DTEND:20261031T020000Z
+SUMMARY:Winnipeg Jets @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-01-winnipeg-jets-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Winnipeg Jets @ Carolina Hurricanes
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-03-winnipeg-jets-vs-montreal-canadiens@open-sports-cal
+DTSTART:20261104T000000Z
+DTEND:20261104T030000Z
+SUMMARY:Winnipeg Jets @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-05-vancouver-canucks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261106T000000Z
+DTEND:20261106T030000Z
+SUMMARY:Vancouver Canucks @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nVancouver Canucks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-08-tampa-bay-lightning-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261108T230000Z
+DTEND:20261109T020000Z
+SUMMARY:Tampa Bay Lightning @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-10-new-jersey-devils-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261111T000000Z
+DTEND:20261111T030000Z
+SUMMARY:New Jersey Devils @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nNew Jersey Devils @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-12-winnipeg-jets-vs-dallas-stars@open-sports-cal
+DTSTART:20261113T010000Z
+DTEND:20261113T040000Z
+SUMMARY:Winnipeg Jets @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-14-winnipeg-jets-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261114T203000Z
+DTEND:20261114T233000Z
+SUMMARY:Winnipeg Jets @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-17-ottawa-senators-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261118T000000Z
+DTEND:20261118T030000Z
+SUMMARY:Ottawa Senators @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-19-new-york-islanders-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:New York Islanders @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-21-vegas-golden-knights-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261122T000000Z
+DTEND:20261122T030000Z
+SUMMARY:Vegas Golden Knights @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-23-utah-mammoth-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261124T003000Z
+DTEND:20261124T033000Z
+SUMMARY:Utah Mammoth @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nUtah Mammoth @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-25-winnipeg-jets-vs-boston-bruins@open-sports-cal
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:Winnipeg Jets @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-27-winnipeg-jets-vs-new-york-islanders@open-sports-cal
+DTSTART:20261128T003000Z
+DTEND:20261128T033000Z
+SUMMARY:Winnipeg Jets @ New York Islanders
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-28-winnipeg-jets-vs-new-jersey-devils@open-sports-cal
+DTSTART:20261129T000000Z
+DTEND:20261129T030000Z
+SUMMARY:Winnipeg Jets @ New Jersey Devils
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-30-chicago-blackhawks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261201T003000Z
+DTEND:20261201T033000Z
+SUMMARY:Chicago Blackhawks @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-02-winnipeg-jets-vs-utah-mammoth@open-sports-cal
+DTSTART:20261203T023000Z
+DTEND:20261203T053000Z
+SUMMARY:Winnipeg Jets @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-05-winnipeg-jets-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261206T000000Z
+DTEND:20261206T030000Z
+SUMMARY:Winnipeg Jets @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-06-winnipeg-jets-vs-anaheim-ducks@open-sports-cal
+DTSTART:20261207T010000Z
+DTEND:20261207T040000Z
+SUMMARY:Winnipeg Jets @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-08-philadelphia-flyers-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261209T000000Z
+DTEND:20261209T030000Z
+SUMMARY:Philadelphia Flyers @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nPhiladelphia Flyers @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-10-chicago-blackhawks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261211T000000Z
+DTEND:20261211T030000Z
+SUMMARY:Chicago Blackhawks @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-12-winnipeg-jets-vs-minnesota-wild@open-sports-cal
+DTSTART:20261212T203000Z
+DTEND:20261212T233000Z
+SUMMARY:Winnipeg Jets @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-15-winnipeg-jets-vs-st-louis-blues@open-sports-cal
+DTSTART:20261216T010000Z
+DTEND:20261216T040000Z
+SUMMARY:Winnipeg Jets @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-19-dallas-stars-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261220T000000Z
+DTEND:20261220T030000Z
+SUMMARY:Dallas Stars @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nDallas Stars @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-20-dallas-stars-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261220T220000Z
+DTEND:20261221T010000Z
+SUMMARY:Dallas Stars @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nDallas Stars @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-22-winnipeg-jets-vs-nashville-predators@open-sports-cal
+DTSTART:20261223T010000Z
+DTEND:20261223T040000Z
+SUMMARY:Winnipeg Jets @ Nashville Predators
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-26-winnipeg-jets-vs-minnesota-wild@open-sports-cal
+DTSTART:20261227T000000Z
+DTEND:20261227T030000Z
+SUMMARY:Winnipeg Jets @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-28-san-jose-sharks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261229T003000Z
+DTEND:20261229T033000Z
+SUMMARY:San Jose Sharks @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-31-winnipeg-jets-vs-calgary-flames@open-sports-cal
+DTSTART:20270101T010000Z
+DTEND:20270101T040000Z
+SUMMARY:Winnipeg Jets @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-02-calgary-flames-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270103T000000Z
+DTEND:20270103T030000Z
+SUMMARY:Calgary Flames @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-04-winnipeg-jets-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270105T003000Z
+DTEND:20270105T033000Z
+SUMMARY:Winnipeg Jets @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-07-nashville-predators-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Nashville Predators @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nNashville Predators @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-09-utah-mammoth-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270110T000000Z
+DTEND:20270110T030000Z
+SUMMARY:Utah Mammoth @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nUtah Mammoth @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-11-winnipeg-jets-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270112T003000Z
+DTEND:20270112T033000Z
+SUMMARY:Winnipeg Jets @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-14-winnipeg-jets-vs-ottawa-senators@open-sports-cal
+DTSTART:20270115T000000Z
+DTEND:20270115T030000Z
+SUMMARY:Winnipeg Jets @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-16-anaheim-ducks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270117T000000Z
+DTEND:20270117T030000Z
+SUMMARY:Anaheim Ducks @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nAnaheim Ducks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-17-winnipeg-jets-vs-edmonton-oilers@open-sports-cal
+DTSTART:20270118T000000Z
+DTEND:20270118T030000Z
+SUMMARY:Winnipeg Jets @ Edmonton Oilers
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-19-minnesota-wild-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270120T000000Z
+DTEND:20270120T030000Z
+SUMMARY:Minnesota Wild @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-21-new-york-rangers-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270122T000000Z
+DTEND:20270122T030000Z
+SUMMARY:New York Rangers @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nNew York Rangers @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-24-buffalo-sabres-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270124T200000Z
+DTEND:20270124T230000Z
+SUMMARY:Buffalo Sabres @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-28-winnipeg-jets-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270129T000000Z
+DTEND:20270129T030000Z
+SUMMARY:Winnipeg Jets @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-30-winnipeg-jets-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20270130T180000Z
+DTEND:20270130T210000Z
+SUMMARY:Winnipeg Jets @ Philadelphia Flyers
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-02-winnipeg-jets-vs-washington-capitals@open-sports-cal
+DTSTART:20270202T230000Z
+DTEND:20270203T020000Z
+SUMMARY:Winnipeg Jets @ Washington Capitals
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-03-winnipeg-jets-vs-new-york-rangers@open-sports-cal
+DTSTART:20270204T003000Z
+DTEND:20270204T033000Z
+SUMMARY:Winnipeg Jets @ New York Rangers
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-13-winnipeg-jets-vs-vancouver-canucks@open-sports-cal
+DTSTART:20270214T030000Z
+DTEND:20270214T060000Z
+SUMMARY:Winnipeg Jets @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-15-winnipeg-jets-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270216T003000Z
+DTEND:20270216T033000Z
+SUMMARY:Winnipeg Jets @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-17-los-angeles-kings-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270218T003000Z
+DTEND:20270218T033000Z
+SUMMARY:Los Angeles Kings @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-19-st-louis-blues-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270220T000000Z
+DTEND:20270220T030000Z
+SUMMARY:St. Louis Blues @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nSt. Louis Blues @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-21-pittsburgh-penguins-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270221T220000Z
+DTEND:20270222T010000Z
+SUMMARY:Pittsburgh Penguins @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-23-winnipeg-jets-vs-nashville-predators@open-sports-cal
+DTSTART:20270224T010000Z
+DTEND:20270224T040000Z
+SUMMARY:Winnipeg Jets @ Nashville Predators
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-25-winnipeg-jets-vs-colorado-avalanche@open-sports-cal
+DTSTART:20270226T020000Z
+DTEND:20270226T050000Z
+SUMMARY:Winnipeg Jets @ Colorado Avalanche
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-27-winnipeg-jets-vs-seattle-kraken@open-sports-cal
+DTSTART:20270228T000000Z
+DTEND:20270228T030000Z
+SUMMARY:Winnipeg Jets @ Seattle Kraken
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-01-seattle-kraken-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270302T000000Z
+DTEND:20270302T030000Z
+SUMMARY:Seattle Kraken @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-05-washington-capitals-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270306T000000Z
+DTEND:20270306T030000Z
+SUMMARY:Washington Capitals @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nWashington Capitals @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-07-calgary-flames-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270307T190000Z
+DTEND:20270307T220000Z
+SUMMARY:Calgary Flames @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-09-detroit-red-wings-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270310T000000Z
+DTEND:20270310T030000Z
+SUMMARY:Detroit Red Wings @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-11-toronto-maple-leafs-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270312T000000Z
+DTEND:20270312T030000Z
+SUMMARY:Toronto Maple Leafs @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-13-nashville-predators-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270313T203000Z
+DTEND:20270313T233000Z
+SUMMARY:Nashville Predators @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nNashville Predators @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-15-winnipeg-jets-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270316T020000Z
+DTEND:20270316T050000Z
+SUMMARY:Winnipeg Jets @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-16-winnipeg-jets-vs-los-angeles-kings@open-sports-cal
+DTSTART:20270317T020000Z
+DTEND:20270317T050000Z
+SUMMARY:Winnipeg Jets @ Los Angeles Kings
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-18-san-jose-sharks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270319T000000Z
+DTEND:20270319T030000Z
+SUMMARY:San Jose Sharks @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-20-columbus-blue-jackets-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270320T230000Z
+DTEND:20270321T020000Z
+SUMMARY:Columbus Blue Jackets @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-23-st-louis-blues-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270324T000000Z
+DTEND:20270324T030000Z
+SUMMARY:St. Louis Blues @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nSt. Louis Blues @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-25-colorado-avalanche-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270326T000000Z
+DTEND:20270326T030000Z
+SUMMARY:Colorado Avalanche @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-27-winnipeg-jets-vs-colorado-avalanche@open-sports-cal
+DTSTART:20270327T230000Z
+DTEND:20270328T020000Z
+SUMMARY:Winnipeg Jets @ Colorado Avalanche
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-31-winnipeg-jets-vs-los-angeles-kings@open-sports-cal
+DTSTART:20270401T020000Z
+DTEND:20270401T050000Z
+SUMMARY:Winnipeg Jets @ Los Angeles Kings
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-03-winnipeg-jets-vs-seattle-kraken@open-sports-cal
+DTSTART:20270403T230000Z
+DTEND:20270404T020000Z
+SUMMARY:Winnipeg Jets @ Seattle Kraken
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-05-winnipeg-jets-vs-utah-mammoth@open-sports-cal
+DTSTART:20270406T013000Z
+DTEND:20270406T043000Z
+SUMMARY:Winnipeg Jets @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-07-edmonton-oilers-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270408T000000Z
+DTEND:20270408T030000Z
+SUMMARY:Edmonton Oilers @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-09-vancouver-canucks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270409T230000Z
+DTEND:20270410T020000Z
+SUMMARY:Vancouver Canucks @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nVancouver Canucks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-10-winnipeg-jets-vs-edmonton-oilers@open-sports-cal
+DTSTART:20270411T020000Z
+DTEND:20270411T050000Z
+SUMMARY:Winnipeg Jets @ Edmonton Oilers
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+END:VCALENDAR

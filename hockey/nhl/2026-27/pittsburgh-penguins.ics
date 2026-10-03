@@ -1,0 +1,1017 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2026-27 - Pittsburgh Penguins
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-09-30-pittsburgh-penguins-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20260930T233000Z
+DTEND:20261001T023000Z
+SUMMARY:Pittsburgh Penguins @ Philadelphia Flyers
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-03-montreal-canadiens-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261003T230000Z
+DTEND:20261004T020000Z
+SUMMARY:Montréal Canadiens @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-05-winnipeg-jets-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261005T233000Z
+DTEND:20261006T023000Z
+SUMMARY:Winnipeg Jets @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-07-pittsburgh-penguins-vs-washington-capitals@open-sports-cal
+DTSTART:20261007T233000Z
+DTEND:20261008T023000Z
+SUMMARY:Pittsburgh Penguins @ Washington Capitals
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-09-pittsburgh-penguins-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261009T230000Z
+DTEND:20261010T020000Z
+SUMMARY:Pittsburgh Penguins @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-10-dallas-stars-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261010T230000Z
+DTEND:20261011T020000Z
+SUMMARY:Dallas Stars @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nDallas Stars @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-13-pittsburgh-penguins-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261014T000000Z
+DTEND:20261014T030000Z
+SUMMARY:Pittsburgh Penguins @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-16-pittsburgh-penguins-vs-colorado-avalanche@open-sports-cal
+DTSTART:20261017T010000Z
+DTEND:20261017T040000Z
+SUMMARY:Pittsburgh Penguins @ Colorado Avalanche
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-17-pittsburgh-penguins-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261018T020000Z
+DTEND:20261018T050000Z
+SUMMARY:Pittsburgh Penguins @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-19-pittsburgh-penguins-vs-utah-mammoth@open-sports-cal
+DTSTART:20261020T010000Z
+DTEND:20261020T040000Z
+SUMMARY:Pittsburgh Penguins @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-22-florida-panthers-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261022T230000Z
+DTEND:20261023T020000Z
+SUMMARY:Florida Panthers @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-24-nashville-predators-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261024T230000Z
+DTEND:20261025T020000Z
+SUMMARY:Nashville Predators @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nNashville Predators @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-29-utah-mammoth-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261029T230000Z
+DTEND:20261030T020000Z
+SUMMARY:Utah Mammoth @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nUtah Mammoth @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-31-pittsburgh-penguins-vs-montreal-canadiens@open-sports-cal
+DTSTART:20261031T230000Z
+DTEND:20261101T020000Z
+SUMMARY:Pittsburgh Penguins @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-03-vegas-golden-knights-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261104T000000Z
+DTEND:20261104T030000Z
+SUMMARY:Vegas Golden Knights @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-05-boston-bruins-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261106T000000Z
+DTEND:20261106T030000Z
+SUMMARY:Boston Bruins @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-07-pittsburgh-penguins-vs-los-angeles-kings@open-sports-cal
+DTSTART:20261108T020000Z
+DTEND:20261108T050000Z
+SUMMARY:Pittsburgh Penguins @ Los Angeles Kings
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-08-pittsburgh-penguins-vs-anaheim-ducks@open-sports-cal
+DTSTART:20261109T010000Z
+DTEND:20261109T040000Z
+SUMMARY:Pittsburgh Penguins @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-11-pittsburgh-penguins-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261112T030000Z
+DTEND:20261112T060000Z
+SUMMARY:Pittsburgh Penguins @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-14-ottawa-senators-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+SUMMARY:Ottawa Senators @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-19-st-louis-blues-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:St. Louis Blues @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nSt. Louis Blues @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-21-pittsburgh-penguins-vs-nashville-predators@open-sports-cal
+DTSTART:20261121T230000Z
+DTEND:20261122T020000Z
+SUMMARY:Pittsburgh Penguins @ Nashville Predators
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-22-pittsburgh-penguins-vs-dallas-stars@open-sports-cal
+DTSTART:20261123T000000Z
+DTEND:20261123T030000Z
+SUMMARY:Pittsburgh Penguins @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-25-calgary-flames-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:Calgary Flames @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-27-pittsburgh-penguins-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261128T010000Z
+DTEND:20261128T040000Z
+SUMMARY:Pittsburgh Penguins @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-28-toronto-maple-leafs-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261129T000000Z
+DTEND:20261129T030000Z
+SUMMARY:Toronto Maple Leafs @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-30-columbus-blue-jackets-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261201T000000Z
+DTEND:20261201T030000Z
+SUMMARY:Columbus Blue Jackets @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-02-pittsburgh-penguins-vs-st-louis-blues@open-sports-cal
+DTSTART:20261203T010000Z
+DTEND:20261203T040000Z
+SUMMARY:Pittsburgh Penguins @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-05-new-jersey-devils-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261205T200000Z
+DTEND:20261205T230000Z
+SUMMARY:New Jersey Devils @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nNew Jersey Devils @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-06-san-jose-sharks-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261206T200000Z
+DTEND:20261206T230000Z
+SUMMARY:San Jose Sharks @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-08-chicago-blackhawks-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261209T003000Z
+DTEND:20261209T033000Z
+SUMMARY:Chicago Blackhawks @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-10-pittsburgh-penguins-vs-florida-panthers@open-sports-cal
+DTSTART:20261211T000000Z
+DTEND:20261211T030000Z
+SUMMARY:Pittsburgh Penguins @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-12-pittsburgh-penguins-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261212T203000Z
+DTEND:20261212T233000Z
+SUMMARY:Pittsburgh Penguins @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-15-tampa-bay-lightning-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261216T000000Z
+DTEND:20261216T030000Z
+SUMMARY:Tampa Bay Lightning @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-17-los-angeles-kings-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261218T000000Z
+DTEND:20261218T030000Z
+SUMMARY:Los Angeles Kings @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-18-seattle-kraken-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261219T000000Z
+DTEND:20261219T030000Z
+SUMMARY:Seattle Kraken @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-22-buffalo-sabres-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261223T000000Z
+DTEND:20261223T030000Z
+SUMMARY:Buffalo Sabres @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-26-pittsburgh-penguins-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20261227T000000Z
+DTEND:20261227T030000Z
+SUMMARY:Pittsburgh Penguins @ Carolina Hurricanes
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-29-carolina-hurricanes-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261230T000000Z
+DTEND:20261230T030000Z
+SUMMARY:Carolina Hurricanes @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nCarolina Hurricanes @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-31-pittsburgh-penguins-vs-ottawa-senators@open-sports-cal
+DTSTART:20261231T190000Z
+DTEND:20261231T220000Z
+SUMMARY:Pittsburgh Penguins @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-01-minnesota-wild-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270101T230000Z
+DTEND:20270102T020000Z
+SUMMARY:Minnesota Wild @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-03-edmonton-oilers-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270103T200000Z
+DTEND:20270103T230000Z
+SUMMARY:Edmonton Oilers @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-07-pittsburgh-penguins-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Pittsburgh Penguins @ Carolina Hurricanes
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-09-pittsburgh-penguins-vs-montreal-canadiens@open-sports-cal
+DTSTART:20270110T000000Z
+DTEND:20270110T030000Z
+SUMMARY:Pittsburgh Penguins @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-12-colorado-avalanche-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270113T000000Z
+DTEND:20270113T030000Z
+SUMMARY:Colorado Avalanche @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-13-pittsburgh-penguins-vs-new-york-islanders@open-sports-cal
+DTSTART:20270114T003000Z
+DTEND:20270114T033000Z
+SUMMARY:Pittsburgh Penguins @ New York Islanders
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-16-pittsburgh-penguins-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270117T000000Z
+DTEND:20270117T030000Z
+SUMMARY:Pittsburgh Penguins @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-18-washington-capitals-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270118T210000Z
+DTEND:20270119T000000Z
+SUMMARY:Washington Capitals @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nWashington Capitals @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-21-anaheim-ducks-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270122T000000Z
+DTEND:20270122T030000Z
+SUMMARY:Anaheim Ducks @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nAnaheim Ducks @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-23-vancouver-canucks-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270124T000000Z
+DTEND:20270124T030000Z
+SUMMARY:Vancouver Canucks @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nVancouver Canucks @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-25-pittsburgh-penguins-vs-detroit-red-wings@open-sports-cal
+DTSTART:20270126T000000Z
+DTEND:20270126T030000Z
+SUMMARY:Pittsburgh Penguins @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-26-new-york-islanders-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270127T000000Z
+DTEND:20270127T030000Z
+SUMMARY:New York Islanders @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-29-new-york-rangers-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270130T000000Z
+DTEND:20270130T030000Z
+SUMMARY:New York Rangers @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nNew York Rangers @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-31-philadelphia-flyers-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270131T170000Z
+DTEND:20270131T200000Z
+SUMMARY:Philadelphia Flyers @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nPhiladelphia Flyers @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-02-tampa-bay-lightning-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270203T000000Z
+DTEND:20270203T030000Z
+SUMMARY:Tampa Bay Lightning @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-13-pittsburgh-penguins-vs-edmonton-oilers@open-sports-cal
+DTSTART:20270214T000000Z
+DTEND:20270214T030000Z
+SUMMARY:Pittsburgh Penguins @ Edmonton Oilers
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-15-pittsburgh-penguins-vs-seattle-kraken@open-sports-cal
+DTSTART:20270215T210000Z
+DTEND:20270216T000000Z
+SUMMARY:Pittsburgh Penguins @ Seattle Kraken
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-16-pittsburgh-penguins-vs-vancouver-canucks@open-sports-cal
+DTSTART:20270217T020000Z
+DTEND:20270217T050000Z
+SUMMARY:Pittsburgh Penguins @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-19-pittsburgh-penguins-vs-calgary-flames@open-sports-cal
+DTSTART:20270220T010000Z
+DTEND:20270220T040000Z
+SUMMARY:Pittsburgh Penguins @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-21-pittsburgh-penguins-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270221T220000Z
+DTEND:20270222T010000Z
+SUMMARY:Pittsburgh Penguins @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-23-pittsburgh-penguins-vs-minnesota-wild@open-sports-cal
+DTSTART:20270224T010000Z
+DTEND:20270224T040000Z
+SUMMARY:Pittsburgh Penguins @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-25-toronto-maple-leafs-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270226T000000Z
+DTEND:20270226T030000Z
+SUMMARY:Toronto Maple Leafs @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-28-new-york-rangers-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270228T180000Z
+DTEND:20270228T210000Z
+SUMMARY:New York Rangers @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nNew York Rangers @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-02-pittsburgh-penguins-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270303T000000Z
+DTEND:20270303T030000Z
+SUMMARY:Pittsburgh Penguins @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-04-pittsburgh-penguins-vs-florida-panthers@open-sports-cal
+DTSTART:20270305T013000Z
+DTEND:20270305T043000Z
+SUMMARY:Pittsburgh Penguins @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-06-pittsburgh-penguins-vs-boston-bruins@open-sports-cal
+DTSTART:20270306T173000Z
+DTEND:20270306T203000Z
+SUMMARY:Pittsburgh Penguins @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-07-pittsburgh-penguins-vs-new-york-islanders@open-sports-cal
+DTSTART:20270307T180000Z
+DTEND:20270307T210000Z
+SUMMARY:Pittsburgh Penguins @ New York Islanders
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-09-ottawa-senators-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270310T000000Z
+DTEND:20270310T030000Z
+SUMMARY:Ottawa Senators @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-11-boston-bruins-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270312T003000Z
+DTEND:20270312T033000Z
+SUMMARY:Boston Bruins @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-13-washington-capitals-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270313T200000Z
+DTEND:20270313T230000Z
+SUMMARY:Washington Capitals @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nWashington Capitals @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-14-detroit-red-wings-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270314T180000Z
+DTEND:20270314T210000Z
+SUMMARY:Detroit Red Wings @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-16-pittsburgh-penguins-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270316T230000Z
+DTEND:20270317T020000Z
+SUMMARY:Pittsburgh Penguins @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-18-pittsburgh-penguins-vs-new-jersey-devils@open-sports-cal
+DTSTART:20270318T230000Z
+DTEND:20270319T020000Z
+SUMMARY:Pittsburgh Penguins @ New Jersey Devils
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-20-pittsburgh-penguins-vs-new-york-rangers@open-sports-cal
+DTSTART:20270321T000000Z
+DTEND:20270321T030000Z
+SUMMARY:Pittsburgh Penguins @ New York Rangers
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-22-columbus-blue-jackets-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270322T230000Z
+DTEND:20270323T020000Z
+SUMMARY:Columbus Blue Jackets @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-25-new-jersey-devils-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270325T230000Z
+DTEND:20270326T020000Z
+SUMMARY:New Jersey Devils @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nNew Jersey Devils @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-27-carolina-hurricanes-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270327T230000Z
+DTEND:20270328T020000Z
+SUMMARY:Carolina Hurricanes @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nCarolina Hurricanes @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-30-pittsburgh-penguins-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20270330T230000Z
+DTEND:20270331T020000Z
+SUMMARY:Pittsburgh Penguins @ Philadelphia Flyers
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-01-new-york-islanders-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270401T230000Z
+DTEND:20270402T020000Z
+SUMMARY:New York Islanders @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-03-philadelphia-flyers-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270404T000000Z
+DTEND:20270404T030000Z
+SUMMARY:Philadelphia Flyers @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nPhiladelphia Flyers @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-04-pittsburgh-penguins-vs-washington-capitals@open-sports-cal
+DTSTART:20270404T230000Z
+DTEND:20270405T020000Z
+SUMMARY:Pittsburgh Penguins @ Washington Capitals
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-06-pittsburgh-penguins-vs-new-york-rangers@open-sports-cal
+DTSTART:20270406T230000Z
+DTEND:20270407T020000Z
+SUMMARY:Pittsburgh Penguins @ New York Rangers
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-09-pittsburgh-penguins-vs-detroit-red-wings@open-sports-cal
+DTSTART:20270409T230000Z
+DTEND:20270410T020000Z
+SUMMARY:Pittsburgh Penguins @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-10-pittsburgh-penguins-vs-new-jersey-devils@open-sports-cal
+DTSTART:20270410T220000Z
+DTEND:20270411T010000Z
+SUMMARY:Pittsburgh Penguins @ New Jersey Devils
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

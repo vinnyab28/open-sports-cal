@@ -1,0 +1,1017 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2026-27 - Columbus Blue Jackets
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-01-buffalo-sabres-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261001T230000Z
+DTEND:20261002T020000Z
+SUMMARY:Buffalo Sabres @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-03-utah-mammoth-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261003T230000Z
+DTEND:20261004T020000Z
+SUMMARY:Utah Mammoth @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nUtah Mammoth @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-09-pittsburgh-penguins-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261009T230000Z
+DTEND:20261010T020000Z
+SUMMARY:Pittsburgh Penguins @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-10-columbus-blue-jackets-vs-st-louis-blues@open-sports-cal
+DTSTART:20261010T230000Z
+DTEND:20261011T020000Z
+SUMMARY:Columbus Blue Jackets @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-13-florida-panthers-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261013T221500Z
+DTEND:20261014T011500Z
+SUMMARY:Florida Panthers @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-17-new-york-rangers-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261017T230000Z
+DTEND:20261018T020000Z
+SUMMARY:New York Rangers @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nNew York Rangers @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-18-columbus-blue-jackets-vs-minnesota-wild@open-sports-cal
+DTSTART:20261018T220000Z
+DTEND:20261019T010000Z
+SUMMARY:Columbus Blue Jackets @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-20-toronto-maple-leafs-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261020T230000Z
+DTEND:20261021T020000Z
+SUMMARY:Toronto Maple Leafs @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-24-vegas-golden-knights-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261024T230000Z
+DTEND:20261025T020000Z
+SUMMARY:Vegas Golden Knights @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-27-columbus-blue-jackets-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20261027T230000Z
+DTEND:20261028T020000Z
+SUMMARY:Columbus Blue Jackets @ Philadelphia Flyers
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-29-columbus-blue-jackets-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20261029T230000Z
+DTEND:20261030T020000Z
+SUMMARY:Columbus Blue Jackets @ Carolina Hurricanes
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-31-columbus-blue-jackets-vs-dallas-stars@open-sports-cal
+DTSTART:20261101T000000Z
+DTEND:20261101T030000Z
+SUMMARY:Columbus Blue Jackets @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-03-colorado-avalanche-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261104T000000Z
+DTEND:20261104T030000Z
+SUMMARY:Colorado Avalanche @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-05-dallas-stars-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261106T000000Z
+DTEND:20261106T030000Z
+SUMMARY:Dallas Stars @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nDallas Stars @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-06-columbus-blue-jackets-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261107T000000Z
+DTEND:20261107T030000Z
+SUMMARY:Columbus Blue Jackets @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-10-florida-panthers-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261111T003000Z
+DTEND:20261111T033000Z
+SUMMARY:Florida Panthers @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-12-tampa-bay-lightning-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261113T000000Z
+DTEND:20261113T030000Z
+SUMMARY:Tampa Bay Lightning @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-14-philadelphia-flyers-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+SUMMARY:Philadelphia Flyers @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nPhiladelphia Flyers @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-17-columbus-blue-jackets-vs-new-york-islanders@open-sports-cal
+DTSTART:20261118T000000Z
+DTEND:20261118T030000Z
+SUMMARY:Columbus Blue Jackets @ New York Islanders
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-19-columbus-blue-jackets-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261120T010000Z
+DTEND:20261120T040000Z
+SUMMARY:Columbus Blue Jackets @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-21-columbus-blue-jackets-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261122T000000Z
+DTEND:20261122T030000Z
+SUMMARY:Columbus Blue Jackets @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-23-columbus-blue-jackets-vs-new-jersey-devils@open-sports-cal
+DTSTART:20261124T000000Z
+DTEND:20261124T030000Z
+SUMMARY:Columbus Blue Jackets @ New Jersey Devils
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-25-new-jersey-devils-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:New Jersey Devils @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nNew Jersey Devils @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-27-detroit-red-wings-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261127T200000Z
+DTEND:20261127T230000Z
+SUMMARY:Detroit Red Wings @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-30-columbus-blue-jackets-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261201T000000Z
+DTEND:20261201T030000Z
+SUMMARY:Columbus Blue Jackets @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-03-columbus-blue-jackets-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20261204T000000Z
+DTEND:20261204T030000Z
+SUMMARY:Columbus Blue Jackets @ Carolina Hurricanes
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-05-columbus-blue-jackets-vs-nashville-predators@open-sports-cal
+DTSTART:20261205T190000Z
+DTEND:20261205T220000Z
+SUMMARY:Columbus Blue Jackets @ Nashville Predators
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-07-columbus-blue-jackets-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261208T000000Z
+DTEND:20261208T030000Z
+SUMMARY:Columbus Blue Jackets @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-10-minnesota-wild-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261211T000000Z
+DTEND:20261211T030000Z
+SUMMARY:Minnesota Wild @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-12-montreal-canadiens-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261212T180000Z
+DTEND:20261212T210000Z
+SUMMARY:Montréal Canadiens @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-13-columbus-blue-jackets-vs-new-york-rangers@open-sports-cal
+DTSTART:20261213T230000Z
+DTEND:20261214T020000Z
+SUMMARY:Columbus Blue Jackets @ New York Rangers
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-15-carolina-hurricanes-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261216T000000Z
+DTEND:20261216T030000Z
+SUMMARY:Carolina Hurricanes @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nCarolina Hurricanes @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-17-seattle-kraken-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261218T000000Z
+DTEND:20261218T030000Z
+SUMMARY:Seattle Kraken @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-19-los-angeles-kings-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261220T000000Z
+DTEND:20261220T030000Z
+SUMMARY:Los Angeles Kings @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-21-columbus-blue-jackets-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20261222T000000Z
+DTEND:20261222T030000Z
+SUMMARY:Columbus Blue Jackets @ Philadelphia Flyers
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-22-montreal-canadiens-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261223T000000Z
+DTEND:20261223T030000Z
+SUMMARY:Montréal Canadiens @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-26-columbus-blue-jackets-vs-washington-capitals@open-sports-cal
+DTSTART:20261227T010000Z
+DTEND:20261227T040000Z
+SUMMARY:Columbus Blue Jackets @ Washington Capitals
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-27-edmonton-oilers-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261227T230000Z
+DTEND:20261228T020000Z
+SUMMARY:Edmonton Oilers @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-29-columbus-blue-jackets-vs-montreal-canadiens@open-sports-cal
+DTSTART:20261230T000000Z
+DTEND:20261230T030000Z
+SUMMARY:Columbus Blue Jackets @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-31-washington-capitals-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261231T190000Z
+DTEND:20261231T220000Z
+SUMMARY:Washington Capitals @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nWashington Capitals @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-02-boston-bruins-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270103T000000Z
+DTEND:20270103T030000Z
+SUMMARY:Boston Bruins @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-03-columbus-blue-jackets-vs-new-york-rangers@open-sports-cal
+DTSTART:20270103T230000Z
+DTEND:20270104T020000Z
+SUMMARY:Columbus Blue Jackets @ New York Rangers
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-05-new-york-rangers-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270106T000000Z
+DTEND:20270106T030000Z
+SUMMARY:New York Rangers @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nNew York Rangers @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-07-columbus-blue-jackets-vs-new-jersey-devils@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Columbus Blue Jackets @ New Jersey Devils
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-08-buffalo-sabres-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270109T000000Z
+DTEND:20270109T030000Z
+SUMMARY:Buffalo Sabres @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-12-columbus-blue-jackets-vs-calgary-flames@open-sports-cal
+DTSTART:20270113T010000Z
+DTEND:20270113T040000Z
+SUMMARY:Columbus Blue Jackets @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-15-columbus-blue-jackets-vs-edmonton-oilers@open-sports-cal
+DTSTART:20270116T010000Z
+DTEND:20270116T040000Z
+SUMMARY:Columbus Blue Jackets @ Edmonton Oilers
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-16-columbus-blue-jackets-vs-vancouver-canucks@open-sports-cal
+DTSTART:20270117T030000Z
+DTEND:20270117T060000Z
+SUMMARY:Columbus Blue Jackets @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-18-columbus-blue-jackets-vs-seattle-kraken@open-sports-cal
+DTSTART:20270118T210000Z
+DTEND:20270119T000000Z
+SUMMARY:Columbus Blue Jackets @ Seattle Kraken
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-21-calgary-flames-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270122T000000Z
+DTEND:20270122T030000Z
+SUMMARY:Calgary Flames @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-23-columbus-blue-jackets-vs-ottawa-senators@open-sports-cal
+DTSTART:20270123T203000Z
+DTEND:20270123T233000Z
+SUMMARY:Columbus Blue Jackets @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-24-anaheim-ducks-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270124T220000Z
+DTEND:20270125T010000Z
+SUMMARY:Anaheim Ducks @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nAnaheim Ducks @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-26-columbus-blue-jackets-vs-boston-bruins@open-sports-cal
+DTSTART:20270127T000000Z
+DTEND:20270127T030000Z
+SUMMARY:Columbus Blue Jackets @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-28-winnipeg-jets-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270129T000000Z
+DTEND:20270129T030000Z
+SUMMARY:Winnipeg Jets @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-30-detroit-red-wings-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270131T000000Z
+DTEND:20270131T030000Z
+SUMMARY:Detroit Red Wings @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-08-columbus-blue-jackets-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270209T003000Z
+DTEND:20270209T033000Z
+SUMMARY:Columbus Blue Jackets @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-09-columbus-blue-jackets-vs-ottawa-senators@open-sports-cal
+DTSTART:20270210T000000Z
+DTEND:20270210T030000Z
+SUMMARY:Columbus Blue Jackets @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-11-ottawa-senators-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270212T000000Z
+DTEND:20270212T030000Z
+SUMMARY:Ottawa Senators @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-13-columbus-blue-jackets-vs-boston-bruins@open-sports-cal
+DTSTART:20270214T000000Z
+DTEND:20270214T030000Z
+SUMMARY:Columbus Blue Jackets @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-15-columbus-blue-jackets-vs-colorado-avalanche@open-sports-cal
+DTSTART:20270215T200000Z
+DTEND:20270215T230000Z
+SUMMARY:Columbus Blue Jackets @ Colorado Avalanche
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-17-columbus-blue-jackets-vs-utah-mammoth@open-sports-cal
+DTSTART:20270218T020000Z
+DTEND:20270218T050000Z
+SUMMARY:Columbus Blue Jackets @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-18-columbus-blue-jackets-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270219T030000Z
+DTEND:20270219T060000Z
+SUMMARY:Columbus Blue Jackets @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-20-nashville-predators-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270220T220000Z
+DTEND:20270221T010000Z
+SUMMARY:Nashville Predators @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nNashville Predators @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-22-new-york-islanders-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270223T000000Z
+DTEND:20270223T030000Z
+SUMMARY:New York Islanders @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-26-new-jersey-devils-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270227T000000Z
+DTEND:20270227T030000Z
+SUMMARY:New Jersey Devils @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nNew Jersey Devils @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-27-new-york-islanders-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270228T000000Z
+DTEND:20270228T030000Z
+SUMMARY:New York Islanders @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-01-carolina-hurricanes-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270302T000000Z
+DTEND:20270302T030000Z
+SUMMARY:Carolina Hurricanes @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nCarolina Hurricanes @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-03-columbus-blue-jackets-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270304T030000Z
+DTEND:20270304T060000Z
+SUMMARY:Columbus Blue Jackets @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-05-columbus-blue-jackets-vs-los-angeles-kings@open-sports-cal
+DTSTART:20270306T030000Z
+DTEND:20270306T060000Z
+SUMMARY:Columbus Blue Jackets @ Los Angeles Kings
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-07-columbus-blue-jackets-vs-anaheim-ducks@open-sports-cal
+DTSTART:20270308T010000Z
+DTEND:20270308T040000Z
+SUMMARY:Columbus Blue Jackets @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-11-vancouver-canucks-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270312T000000Z
+DTEND:20270312T030000Z
+SUMMARY:Vancouver Canucks @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nVancouver Canucks @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-13-san-jose-sharks-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270314T000000Z
+DTEND:20270314T030000Z
+SUMMARY:San Jose Sharks @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-16-pittsburgh-penguins-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270316T230000Z
+DTEND:20270317T020000Z
+SUMMARY:Pittsburgh Penguins @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-18-columbus-blue-jackets-vs-detroit-red-wings@open-sports-cal
+DTSTART:20270318T230000Z
+DTEND:20270319T020000Z
+SUMMARY:Columbus Blue Jackets @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-20-columbus-blue-jackets-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270320T230000Z
+DTEND:20270321T020000Z
+SUMMARY:Columbus Blue Jackets @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-22-columbus-blue-jackets-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270322T230000Z
+DTEND:20270323T020000Z
+SUMMARY:Columbus Blue Jackets @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-25-chicago-blackhawks-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270325T230000Z
+DTEND:20270326T020000Z
+SUMMARY:Chicago Blackhawks @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-27-st-louis-blues-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270327T230000Z
+DTEND:20270328T020000Z
+SUMMARY:St. Louis Blues @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nSt. Louis Blues @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-30-columbus-blue-jackets-vs-florida-panthers@open-sports-cal
+DTSTART:20270330T230000Z
+DTEND:20270331T020000Z
+SUMMARY:Columbus Blue Jackets @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-01-columbus-blue-jackets-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270401T230000Z
+DTEND:20270402T020000Z
+SUMMARY:Columbus Blue Jackets @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-03-columbus-blue-jackets-vs-washington-capitals@open-sports-cal
+DTSTART:20270403T210000Z
+DTEND:20270404T000000Z
+SUMMARY:Columbus Blue Jackets @ Washington Capitals
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-06-washington-capitals-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270406T234500Z
+DTEND:20270407T024500Z
+SUMMARY:Washington Capitals @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nWashington Capitals @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-08-philadelphia-flyers-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270408T233000Z
+DTEND:20270409T023000Z
+SUMMARY:Philadelphia Flyers @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nPhiladelphia Flyers @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-10-columbus-blue-jackets-vs-new-york-islanders@open-sports-cal
+DTSTART:20270410T210000Z
+DTEND:20270411T000000Z
+SUMMARY:Columbus Blue Jackets @ New York Islanders
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

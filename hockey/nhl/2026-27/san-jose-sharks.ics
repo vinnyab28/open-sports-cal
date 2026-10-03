@@ -1,0 +1,1017 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2026-27 - San Jose Sharks
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-01-florida-panthers-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261002T020000Z
+DTEND:20261002T050000Z
+SUMMARY:Florida Panthers @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-03-los-angeles-kings-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261004T020000Z
+DTEND:20261004T050000Z
+SUMMARY:Los Angeles Kings @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-05-san-jose-sharks-vs-dallas-stars@open-sports-cal
+DTSTART:20261006T000000Z
+DTEND:20261006T030000Z
+SUMMARY:San Jose Sharks @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-08-san-jose-sharks-vs-st-louis-blues@open-sports-cal
+DTSTART:20261009T000000Z
+DTEND:20261009T030000Z
+SUMMARY:San Jose Sharks @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-10-edmonton-oilers-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261010T200000Z
+DTEND:20261010T230000Z
+SUMMARY:Edmonton Oilers @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-13-boston-bruins-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261014T030000Z
+DTEND:20261014T060000Z
+SUMMARY:Boston Bruins @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-15-san-jose-sharks-vs-nashville-predators@open-sports-cal
+DTSTART:20261016T000000Z
+DTEND:20261016T030000Z
+SUMMARY:San Jose Sharks @ Nashville Predators
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-17-san-jose-sharks-vs-detroit-red-wings@open-sports-cal
+DTSTART:20261017T230000Z
+DTEND:20261018T020000Z
+SUMMARY:San Jose Sharks @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-19-san-jose-sharks-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261019T233000Z
+DTEND:20261020T023000Z
+SUMMARY:San Jose Sharks @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-20-san-jose-sharks-vs-montreal-canadiens@open-sports-cal
+DTSTART:20261020T230000Z
+DTEND:20261021T020000Z
+SUMMARY:San Jose Sharks @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-22-san-jose-sharks-vs-ottawa-senators@open-sports-cal
+DTSTART:20261022T230000Z
+DTEND:20261023T020000Z
+SUMMARY:San Jose Sharks @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-24-san-jose-sharks-vs-boston-bruins@open-sports-cal
+DTSTART:20261024T230000Z
+DTEND:20261025T020000Z
+SUMMARY:San Jose Sharks @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-27-buffalo-sabres-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261028T023000Z
+DTEND:20261028T053000Z
+SUMMARY:Buffalo Sabres @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-29-vancouver-canucks-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261030T020000Z
+DTEND:20261030T050000Z
+SUMMARY:Vancouver Canucks @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nVancouver Canucks @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-31-ottawa-senators-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261031T200000Z
+DTEND:20261031T230000Z
+SUMMARY:Ottawa Senators @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-02-calgary-flames-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261103T020000Z
+DTEND:20261103T050000Z
+SUMMARY:Calgary Flames @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-04-san-jose-sharks-vs-los-angeles-kings@open-sports-cal
+DTSTART:20261105T030000Z
+DTEND:20261105T060000Z
+SUMMARY:San Jose Sharks @ Los Angeles Kings
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-06-san-jose-sharks-vs-minnesota-wild@open-sports-cal
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:San Jose Sharks @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-07-san-jose-sharks-vs-dallas-stars@open-sports-cal
+DTSTART:20261108T010000Z
+DTEND:20261108T040000Z
+SUMMARY:San Jose Sharks @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-09-new-york-islanders-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261110T030000Z
+DTEND:20261110T060000Z
+SUMMARY:New York Islanders @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-11-pittsburgh-penguins-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261112T030000Z
+DTEND:20261112T060000Z
+SUMMARY:Pittsburgh Penguins @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-14-san-jose-sharks-vs-utah-mammoth@open-sports-cal
+DTSTART:20261115T020000Z
+DTEND:20261115T050000Z
+SUMMARY:San Jose Sharks @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-15-nashville-predators-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261116T020000Z
+DTEND:20261116T050000Z
+SUMMARY:Nashville Predators @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nNashville Predators @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-17-calgary-flames-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261118T030000Z
+DTEND:20261118T060000Z
+SUMMARY:Calgary Flames @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-21-seattle-kraken-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261122T030000Z
+DTEND:20261122T060000Z
+SUMMARY:Seattle Kraken @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-23-minnesota-wild-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261124T030000Z
+DTEND:20261124T060000Z
+SUMMARY:Minnesota Wild @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-25-san-jose-sharks-vs-anaheim-ducks@open-sports-cal
+DTSTART:20261126T030000Z
+DTEND:20261126T060000Z
+SUMMARY:San Jose Sharks @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-27-vegas-golden-knights-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261127T210000Z
+DTEND:20261128T000000Z
+SUMMARY:Vegas Golden Knights @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-28-san-jose-sharks-vs-colorado-avalanche@open-sports-cal
+DTSTART:20261129T020000Z
+DTEND:20261129T050000Z
+SUMMARY:San Jose Sharks @ Colorado Avalanche
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-01-san-jose-sharks-vs-new-jersey-devils@open-sports-cal
+DTSTART:20261202T003000Z
+DTEND:20261202T033000Z
+SUMMARY:San Jose Sharks @ New Jersey Devils
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-03-san-jose-sharks-vs-new-york-rangers@open-sports-cal
+DTSTART:20261204T000000Z
+DTEND:20261204T030000Z
+SUMMARY:San Jose Sharks @ New York Rangers
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-04-san-jose-sharks-vs-new-york-islanders@open-sports-cal
+DTSTART:20261205T000000Z
+DTEND:20261205T030000Z
+SUMMARY:San Jose Sharks @ New York Islanders
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-06-san-jose-sharks-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261206T200000Z
+DTEND:20261206T230000Z
+SUMMARY:San Jose Sharks @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-08-seattle-kraken-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261209T030000Z
+DTEND:20261209T060000Z
+SUMMARY:Seattle Kraken @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-09-san-jose-sharks-vs-los-angeles-kings@open-sports-cal
+DTSTART:20261210T023000Z
+DTEND:20261210T053000Z
+SUMMARY:San Jose Sharks @ Los Angeles Kings
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-11-los-angeles-kings-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261212T030000Z
+DTEND:20261212T060000Z
+SUMMARY:Los Angeles Kings @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-14-vancouver-canucks-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261215T030000Z
+DTEND:20261215T060000Z
+SUMMARY:Vancouver Canucks @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nVancouver Canucks @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-16-san-jose-sharks-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261217T030000Z
+DTEND:20261217T060000Z
+SUMMARY:San Jose Sharks @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-19-san-jose-sharks-vs-vancouver-canucks@open-sports-cal
+DTSTART:20261220T030000Z
+DTEND:20261220T060000Z
+SUMMARY:San Jose Sharks @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-22-san-jose-sharks-vs-seattle-kraken@open-sports-cal
+DTSTART:20261223T024000Z
+DTEND:20261223T054000Z
+SUMMARY:San Jose Sharks @ Seattle Kraken
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-26-vegas-golden-knights-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261227T030000Z
+DTEND:20261227T060000Z
+SUMMARY:Vegas Golden Knights @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-28-san-jose-sharks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261229T003000Z
+DTEND:20261229T033000Z
+SUMMARY:San Jose Sharks @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-29-san-jose-sharks-vs-calgary-flames@open-sports-cal
+DTSTART:20261230T010000Z
+DTEND:20261230T040000Z
+SUMMARY:San Jose Sharks @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-01-philadelphia-flyers-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270101T210000Z
+DTEND:20270102T000000Z
+SUMMARY:Philadelphia Flyers @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nPhiladelphia Flyers @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-02-toronto-maple-leafs-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270103T000000Z
+DTEND:20270103T030000Z
+SUMMARY:Toronto Maple Leafs @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-04-new-jersey-devils-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270105T030000Z
+DTEND:20270105T060000Z
+SUMMARY:New Jersey Devils @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nNew Jersey Devils @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-06-dallas-stars-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270107T030000Z
+DTEND:20270107T060000Z
+SUMMARY:Dallas Stars @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nDallas Stars @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-08-washington-capitals-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270109T030000Z
+DTEND:20270109T060000Z
+SUMMARY:Washington Capitals @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nWashington Capitals @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-09-new-york-rangers-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270110T030000Z
+DTEND:20270110T060000Z
+SUMMARY:New York Rangers @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nNew York Rangers @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-13-san-jose-sharks-vs-edmonton-oilers@open-sports-cal
+DTSTART:20270114T020000Z
+DTEND:20270114T050000Z
+SUMMARY:San Jose Sharks @ Edmonton Oilers
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-14-san-jose-sharks-vs-calgary-flames@open-sports-cal
+DTSTART:20270115T010000Z
+DTEND:20270115T040000Z
+SUMMARY:San Jose Sharks @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-16-san-jose-sharks-vs-seattle-kraken@open-sports-cal
+DTSTART:20270117T030000Z
+DTEND:20270117T060000Z
+SUMMARY:San Jose Sharks @ Seattle Kraken
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-18-utah-mammoth-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270118T210000Z
+DTEND:20270119T000000Z
+SUMMARY:Utah Mammoth @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nUtah Mammoth @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-23-edmonton-oilers-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270124T030000Z
+DTEND:20270124T060000Z
+SUMMARY:Edmonton Oilers @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-28-nashville-predators-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270129T030000Z
+DTEND:20270129T060000Z
+SUMMARY:Nashville Predators @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nNashville Predators @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-30-chicago-blackhawks-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270130T210000Z
+DTEND:20270131T000000Z
+SUMMARY:Chicago Blackhawks @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-10-chicago-blackhawks-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270211T030000Z
+DTEND:20270211T060000Z
+SUMMARY:Chicago Blackhawks @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-13-detroit-red-wings-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270213T210000Z
+DTEND:20270214T000000Z
+SUMMARY:Detroit Red Wings @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-15-winnipeg-jets-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270216T003000Z
+DTEND:20270216T033000Z
+SUMMARY:Winnipeg Jets @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-19-san-jose-sharks-vs-washington-capitals@open-sports-cal
+DTSTART:20270220T000000Z
+DTEND:20270220T030000Z
+SUMMARY:San Jose Sharks @ Washington Capitals
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-21-san-jose-sharks-vs-florida-panthers@open-sports-cal
+DTSTART:20270221T230000Z
+DTEND:20270222T020000Z
+SUMMARY:San Jose Sharks @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-23-san-jose-sharks-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270224T000000Z
+DTEND:20270224T030000Z
+SUMMARY:San Jose Sharks @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-25-san-jose-sharks-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20270226T000000Z
+DTEND:20270226T030000Z
+SUMMARY:San Jose Sharks @ Carolina Hurricanes
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-27-san-jose-sharks-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20270228T000000Z
+DTEND:20270228T030000Z
+SUMMARY:San Jose Sharks @ Philadelphia Flyers
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-01-montreal-canadiens-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270302T030000Z
+DTEND:20270302T060000Z
+SUMMARY:Montréal Canadiens @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-03-columbus-blue-jackets-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270304T030000Z
+DTEND:20270304T060000Z
+SUMMARY:Columbus Blue Jackets @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-05-colorado-avalanche-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270306T030000Z
+DTEND:20270306T060000Z
+SUMMARY:Colorado Avalanche @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-06-tampa-bay-lightning-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270307T030000Z
+DTEND:20270307T060000Z
+SUMMARY:Tampa Bay Lightning @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-09-san-jose-sharks-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270310T033000Z
+DTEND:20270310T063000Z
+SUMMARY:San Jose Sharks @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-11-san-jose-sharks-vs-st-louis-blues@open-sports-cal
+DTSTART:20270312T010000Z
+DTEND:20270312T040000Z
+SUMMARY:San Jose Sharks @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-13-san-jose-sharks-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270314T000000Z
+DTEND:20270314T030000Z
+SUMMARY:San Jose Sharks @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-15-san-jose-sharks-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270315T230000Z
+DTEND:20270316T020000Z
+SUMMARY:San Jose Sharks @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-16-san-jose-sharks-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270317T000000Z
+DTEND:20270317T030000Z
+SUMMARY:San Jose Sharks @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-18-san-jose-sharks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270319T000000Z
+DTEND:20270319T030000Z
+SUMMARY:San Jose Sharks @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-20-carolina-hurricanes-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270321T023000Z
+DTEND:20270321T053000Z
+SUMMARY:Carolina Hurricanes @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nCarolina Hurricanes @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-22-san-jose-sharks-vs-anaheim-ducks@open-sports-cal
+DTSTART:20270323T020000Z
+DTEND:20270323T050000Z
+SUMMARY:San Jose Sharks @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-24-anaheim-ducks-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270325T020000Z
+DTEND:20270325T050000Z
+SUMMARY:Anaheim Ducks @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nAnaheim Ducks @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-26-san-jose-sharks-vs-utah-mammoth@open-sports-cal
+DTSTART:20270327T010000Z
+DTEND:20270327T040000Z
+SUMMARY:San Jose Sharks @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-29-colorado-avalanche-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270330T020000Z
+DTEND:20270330T050000Z
+SUMMARY:Colorado Avalanche @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-31-san-jose-sharks-vs-edmonton-oilers@open-sports-cal
+DTSTART:20270401T003000Z
+DTEND:20270401T033000Z
+SUMMARY:San Jose Sharks @ Edmonton Oilers
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-03-san-jose-sharks-vs-vancouver-canucks@open-sports-cal
+DTSTART:20270404T020000Z
+DTEND:20270404T050000Z
+SUMMARY:San Jose Sharks @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-04-st-louis-blues-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270405T013000Z
+DTEND:20270405T043000Z
+SUMMARY:St. Louis Blues @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nSt. Louis Blues @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-08-minnesota-wild-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270409T020000Z
+DTEND:20270409T050000Z
+SUMMARY:Minnesota Wild @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-10-anaheim-ducks-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270410T200000Z
+DTEND:20270410T230000Z
+SUMMARY:Anaheim Ducks @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nAnaheim Ducks @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR

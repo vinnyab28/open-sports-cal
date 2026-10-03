@@ -1,0 +1,1017 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2026-27 - Tampa Bay Lightning
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-01-tampa-bay-lightning-vs-new-york-rangers@open-sports-cal
+DTSTART:20261001T230000Z
+DTEND:20261002T020000Z
+SUMMARY:Tampa Bay Lightning @ New York Rangers
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-03-washington-capitals-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261003T230000Z
+DTEND:20261004T020000Z
+SUMMARY:Washington Capitals @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nWashington Capitals @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-05-philadelphia-flyers-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261005T230000Z
+DTEND:20261006T020000Z
+SUMMARY:Philadelphia Flyers @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nPhiladelphia Flyers @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-08-minnesota-wild-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261008T230000Z
+DTEND:20261009T020000Z
+SUMMARY:Minnesota Wild @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-10-tampa-bay-lightning-vs-new-york-islanders@open-sports-cal
+DTSTART:20261010T233000Z
+DTEND:20261011T023000Z
+SUMMARY:Tampa Bay Lightning @ New York Islanders
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-13-tampa-bay-lightning-vs-new-york-rangers@open-sports-cal
+DTSTART:20261013T231500Z
+DTEND:20261014T021500Z
+SUMMARY:Tampa Bay Lightning @ New York Rangers
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-15-seattle-kraken-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261015T230000Z
+DTEND:20261016T020000Z
+SUMMARY:Seattle Kraken @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-17-vancouver-canucks-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261017T200000Z
+DTEND:20261017T230000Z
+SUMMARY:Vancouver Canucks @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nVancouver Canucks @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-20-tampa-bay-lightning-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261021T023000Z
+DTEND:20261021T053000Z
+SUMMARY:Tampa Bay Lightning @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-23-tampa-bay-lightning-vs-colorado-avalanche@open-sports-cal
+DTSTART:20261024T010000Z
+DTEND:20261024T040000Z
+SUMMARY:Tampa Bay Lightning @ Colorado Avalanche
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-24-tampa-bay-lightning-vs-utah-mammoth@open-sports-cal
+DTSTART:20261025T010000Z
+DTEND:20261025T040000Z
+SUMMARY:Tampa Bay Lightning @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-29-winnipeg-jets-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261029T230000Z
+DTEND:20261030T020000Z
+SUMMARY:Winnipeg Jets @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-31-tampa-bay-lightning-vs-nashville-predators@open-sports-cal
+DTSTART:20261031T180000Z
+DTEND:20261031T210000Z
+SUMMARY:Tampa Bay Lightning @ Nashville Predators
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-03-detroit-red-wings-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261104T000000Z
+DTEND:20261104T030000Z
+SUMMARY:Detroit Red Wings @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-05-chicago-blackhawks-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261106T000000Z
+DTEND:20261106T030000Z
+SUMMARY:Chicago Blackhawks @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-07-tampa-bay-lightning-vs-minnesota-wild@open-sports-cal
+DTSTART:20261108T010000Z
+DTEND:20261108T040000Z
+SUMMARY:Tampa Bay Lightning @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-08-tampa-bay-lightning-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261108T230000Z
+DTEND:20261109T020000Z
+SUMMARY:Tampa Bay Lightning @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-11-tampa-bay-lightning-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261112T000000Z
+DTEND:20261112T030000Z
+SUMMARY:Tampa Bay Lightning @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-12-tampa-bay-lightning-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261113T000000Z
+DTEND:20261113T030000Z
+SUMMARY:Tampa Bay Lightning @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-14-detroit-red-wings-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+SUMMARY:Detroit Red Wings @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-17-washington-capitals-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261118T003000Z
+DTEND:20261118T033000Z
+SUMMARY:Washington Capitals @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nWashington Capitals @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-19-edmonton-oilers-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261120T003000Z
+DTEND:20261120T033000Z
+SUMMARY:Edmonton Oilers @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-22-buffalo-sabres-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261122T220000Z
+DTEND:20261123T010000Z
+SUMMARY:Buffalo Sabres @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-25-carolina-hurricanes-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:Carolina Hurricanes @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nCarolina Hurricanes @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-27-ottawa-senators-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261127T200000Z
+DTEND:20261127T230000Z
+SUMMARY:Ottawa Senators @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-28-tampa-bay-lightning-vs-florida-panthers@open-sports-cal
+DTSTART:20261128T230000Z
+DTEND:20261129T020000Z
+SUMMARY:Tampa Bay Lightning @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-02-tampa-bay-lightning-vs-montreal-canadiens@open-sports-cal
+DTSTART:20261203T003000Z
+DTEND:20261203T033000Z
+SUMMARY:Tampa Bay Lightning @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-05-tampa-bay-lightning-vs-ottawa-senators@open-sports-cal
+DTSTART:20261206T000000Z
+DTEND:20261206T030000Z
+SUMMARY:Tampa Bay Lightning @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-07-columbus-blue-jackets-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261208T000000Z
+DTEND:20261208T030000Z
+SUMMARY:Columbus Blue Jackets @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-10-boston-bruins-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261211T000000Z
+DTEND:20261211T030000Z
+SUMMARY:Boston Bruins @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-12-pittsburgh-penguins-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261212T203000Z
+DTEND:20261212T233000Z
+SUMMARY:Pittsburgh Penguins @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-13-tampa-bay-lightning-vs-st-louis-blues@open-sports-cal
+DTSTART:20261214T010000Z
+DTEND:20261214T040000Z
+SUMMARY:Tampa Bay Lightning @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-15-tampa-bay-lightning-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261216T000000Z
+DTEND:20261216T030000Z
+SUMMARY:Tampa Bay Lightning @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-17-calgary-flames-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261218T000000Z
+DTEND:20261218T030000Z
+SUMMARY:Calgary Flames @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-19-tampa-bay-lightning-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261220T000000Z
+DTEND:20261220T030000Z
+SUMMARY:Tampa Bay Lightning @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-20-tampa-bay-lightning-vs-detroit-red-wings@open-sports-cal
+DTSTART:20261220T220000Z
+DTEND:20261221T010000Z
+SUMMARY:Tampa Bay Lightning @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-22-st-louis-blues-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261223T000000Z
+DTEND:20261223T030000Z
+SUMMARY:St. Louis Blues @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nSt. Louis Blues @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-26-tampa-bay-lightning-vs-florida-panthers@open-sports-cal
+DTSTART:20261226T230000Z
+DTEND:20261227T020000Z
+SUMMARY:Tampa Bay Lightning @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-28-tampa-bay-lightning-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20261229T000000Z
+DTEND:20261229T030000Z
+SUMMARY:Tampa Bay Lightning @ Carolina Hurricanes
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-29-nashville-predators-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261230T000000Z
+DTEND:20261230T030000Z
+SUMMARY:Nashville Predators @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nNashville Predators @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-31-montreal-canadiens-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261231T190000Z
+DTEND:20261231T220000Z
+SUMMARY:Montréal Canadiens @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-02-buffalo-sabres-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270103T000000Z
+DTEND:20270103T030000Z
+SUMMARY:Buffalo Sabres @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-05-tampa-bay-lightning-vs-seattle-kraken@open-sports-cal
+DTSTART:20270106T024000Z
+DTEND:20270106T054000Z
+SUMMARY:Tampa Bay Lightning @ Seattle Kraken
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-07-tampa-bay-lightning-vs-vancouver-canucks@open-sports-cal
+DTSTART:20270108T020000Z
+DTEND:20270108T050000Z
+SUMMARY:Tampa Bay Lightning @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-09-tampa-bay-lightning-vs-calgary-flames@open-sports-cal
+DTSTART:20270109T203000Z
+DTEND:20270109T233000Z
+SUMMARY:Tampa Bay Lightning @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-11-tampa-bay-lightning-vs-edmonton-oilers@open-sports-cal
+DTSTART:20270112T013000Z
+DTEND:20270112T043000Z
+SUMMARY:Tampa Bay Lightning @ Edmonton Oilers
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-14-vegas-golden-knights-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270115T000000Z
+DTEND:20270115T030000Z
+SUMMARY:Vegas Golden Knights @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-16-ottawa-senators-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270116T203000Z
+DTEND:20270116T233000Z
+SUMMARY:Ottawa Senators @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-18-tampa-bay-lightning-vs-boston-bruins@open-sports-cal
+DTSTART:20270118T183000Z
+DTEND:20270118T213000Z
+SUMMARY:Tampa Bay Lightning @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-21-tampa-bay-lightning-vs-new-jersey-devils@open-sports-cal
+DTSTART:20270122T000000Z
+DTEND:20270122T030000Z
+SUMMARY:Tampa Bay Lightning @ New Jersey Devils
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-23-tampa-bay-lightning-vs-detroit-red-wings@open-sports-cal
+DTSTART:20270123T173000Z
+DTEND:20270123T203000Z
+SUMMARY:Tampa Bay Lightning @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-26-los-angeles-kings-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270127T000000Z
+DTEND:20270127T030000Z
+SUMMARY:Los Angeles Kings @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-30-new-york-islanders-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270131T000000Z
+DTEND:20270131T030000Z
+SUMMARY:New York Islanders @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-02-tampa-bay-lightning-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20270203T000000Z
+DTEND:20270203T030000Z
+SUMMARY:Tampa Bay Lightning @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-03-tampa-bay-lightning-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20270204T003000Z
+DTEND:20270204T033000Z
+SUMMARY:Tampa Bay Lightning @ Philadelphia Flyers
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-12-dallas-stars-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270213T000000Z
+DTEND:20270213T030000Z
+SUMMARY:Dallas Stars @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nDallas Stars @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-13-colorado-avalanche-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270214T000000Z
+DTEND:20270214T030000Z
+SUMMARY:Colorado Avalanche @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-16-florida-panthers-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270217T003000Z
+DTEND:20270217T033000Z
+SUMMARY:Florida Panthers @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-18-anaheim-ducks-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270219T000000Z
+DTEND:20270219T030000Z
+SUMMARY:Anaheim Ducks @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nAnaheim Ducks @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-20-toronto-maple-leafs-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270221T000000Z
+DTEND:20270221T030000Z
+SUMMARY:Toronto Maple Leafs @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-23-san-jose-sharks-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270224T000000Z
+DTEND:20270224T030000Z
+SUMMARY:San Jose Sharks @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-25-tampa-bay-lightning-vs-dallas-stars@open-sports-cal
+DTSTART:20270226T010000Z
+DTEND:20270226T040000Z
+SUMMARY:Tampa Bay Lightning @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-27-tampa-bay-lightning-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20270228T000000Z
+DTEND:20270228T030000Z
+SUMMARY:Tampa Bay Lightning @ Carolina Hurricanes
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-28-utah-mammoth-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270301T000000Z
+DTEND:20270301T030000Z
+SUMMARY:Utah Mammoth @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nUtah Mammoth @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-03-tampa-bay-lightning-vs-los-angeles-kings@open-sports-cal
+DTSTART:20270304T030000Z
+DTEND:20270304T060000Z
+SUMMARY:Tampa Bay Lightning @ Los Angeles Kings
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-05-tampa-bay-lightning-vs-anaheim-ducks@open-sports-cal
+DTSTART:20270306T030000Z
+DTEND:20270306T060000Z
+SUMMARY:Tampa Bay Lightning @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-06-tampa-bay-lightning-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270307T030000Z
+DTEND:20270307T060000Z
+SUMMARY:Tampa Bay Lightning @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-08-tampa-bay-lightning-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270309T010000Z
+DTEND:20270309T040000Z
+SUMMARY:Tampa Bay Lightning @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-11-new-jersey-devils-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270312T000000Z
+DTEND:20270312T030000Z
+SUMMARY:New Jersey Devils @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nNew Jersey Devils @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-13-new-york-islanders-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270314T000000Z
+DTEND:20270314T030000Z
+SUMMARY:New York Islanders @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-15-tampa-bay-lightning-vs-washington-capitals@open-sports-cal
+DTSTART:20270315T190000Z
+DTEND:20270315T220000Z
+SUMMARY:Tampa Bay Lightning @ Washington Capitals
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-17-tampa-bay-lightning-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270317T233000Z
+DTEND:20270318T023000Z
+SUMMARY:Tampa Bay Lightning @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-18-tampa-bay-lightning-vs-montreal-canadiens@open-sports-cal
+DTSTART:20270318T230000Z
+DTEND:20270319T020000Z
+SUMMARY:Tampa Bay Lightning @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-20-tampa-bay-lightning-vs-ottawa-senators@open-sports-cal
+DTSTART:20270320T230000Z
+DTEND:20270321T020000Z
+SUMMARY:Tampa Bay Lightning @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-23-florida-panthers-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270323T230000Z
+DTEND:20270324T020000Z
+SUMMARY:Florida Panthers @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-25-philadelphia-flyers-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270325T223000Z
+DTEND:20270326T013000Z
+SUMMARY:Philadelphia Flyers @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nPhiladelphia Flyers @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-27-new-york-rangers-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270327T230000Z
+DTEND:20270328T020000Z
+SUMMARY:New York Rangers @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nNew York Rangers @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-30-toronto-maple-leafs-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270330T230000Z
+DTEND:20270331T020000Z
+SUMMARY:Toronto Maple Leafs @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-01-columbus-blue-jackets-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270401T230000Z
+DTEND:20270402T020000Z
+SUMMARY:Columbus Blue Jackets @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-03-tampa-bay-lightning-vs-boston-bruins@open-sports-cal
+DTSTART:20270403T190000Z
+DTEND:20270403T220000Z
+SUMMARY:Tampa Bay Lightning @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-05-tampa-bay-lightning-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270405T230000Z
+DTEND:20270406T020000Z
+SUMMARY:Tampa Bay Lightning @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-06-tampa-bay-lightning-vs-new-jersey-devils@open-sports-cal
+DTSTART:20270406T233000Z
+DTEND:20270407T023000Z
+SUMMARY:Tampa Bay Lightning @ New Jersey Devils
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-08-montreal-canadiens-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270408T230000Z
+DTEND:20270409T020000Z
+SUMMARY:Montréal Canadiens @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-10-boston-bruins-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270411T000000Z
+DTEND:20270411T030000Z
+SUMMARY:Boston Bruins @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

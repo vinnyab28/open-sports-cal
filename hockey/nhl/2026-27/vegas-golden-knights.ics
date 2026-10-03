@@ -1,0 +1,1017 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2026-27 - Vegas Golden Knights
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-09-29-chicago-blackhawks-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20260930T023000Z
+DTEND:20260930T053000Z
+SUMMARY:Chicago Blackhawks @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-02-anaheim-ducks-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261003T020000Z
+DTEND:20261003T050000Z
+SUMMARY:Anaheim Ducks @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nAnaheim Ducks @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-04-vegas-golden-knights-vs-vancouver-canucks@open-sports-cal
+DTSTART:20261005T010000Z
+DTEND:20261005T040000Z
+SUMMARY:Vegas Golden Knights @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-06-vegas-golden-knights-vs-seattle-kraken@open-sports-cal
+DTSTART:20261007T014000Z
+DTEND:20261007T044000Z
+SUMMARY:Vegas Golden Knights @ Seattle Kraken
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-08-toronto-maple-leafs-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261009T020000Z
+DTEND:20261009T050000Z
+SUMMARY:Toronto Maple Leafs @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-10-los-angeles-kings-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261011T020000Z
+DTEND:20261011T050000Z
+SUMMARY:Los Angeles Kings @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-12-vegas-golden-knights-vs-minnesota-wild@open-sports-cal
+DTSTART:20261013T000000Z
+DTEND:20261013T030000Z
+SUMMARY:Vegas Golden Knights @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-13-vegas-golden-knights-vs-nashville-predators@open-sports-cal
+DTSTART:20261014T004500Z
+DTEND:20261014T034500Z
+SUMMARY:Vegas Golden Knights @ Nashville Predators
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-15-calgary-flames-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261016T020000Z
+DTEND:20261016T050000Z
+SUMMARY:Calgary Flames @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-17-pittsburgh-penguins-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261018T020000Z
+DTEND:20261018T050000Z
+SUMMARY:Pittsburgh Penguins @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-20-tampa-bay-lightning-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261021T023000Z
+DTEND:20261021T053000Z
+SUMMARY:Tampa Bay Lightning @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-22-vegas-golden-knights-vs-st-louis-blues@open-sports-cal
+DTSTART:20261023T000000Z
+DTEND:20261023T030000Z
+SUMMARY:Vegas Golden Knights @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-24-vegas-golden-knights-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261024T230000Z
+DTEND:20261025T020000Z
+SUMMARY:Vegas Golden Knights @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-27-ottawa-senators-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261028T020000Z
+DTEND:20261028T050000Z
+SUMMARY:Ottawa Senators @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-30-new-jersey-devils-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261030T220000Z
+DTEND:20261031T010000Z
+SUMMARY:New Jersey Devils @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nNew Jersey Devils @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-02-vegas-golden-knights-vs-boston-bruins@open-sports-cal
+DTSTART:20261103T000000Z
+DTEND:20261103T030000Z
+SUMMARY:Vegas Golden Knights @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-03-vegas-golden-knights-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261104T000000Z
+DTEND:20261104T030000Z
+SUMMARY:Vegas Golden Knights @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-05-vegas-golden-knights-vs-detroit-red-wings@open-sports-cal
+DTSTART:20261106T000000Z
+DTEND:20261106T030000Z
+SUMMARY:Vegas Golden Knights @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-08-vegas-golden-knights-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261108T203000Z
+DTEND:20261108T233000Z
+SUMMARY:Vegas Golden Knights @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-11-utah-mammoth-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261112T023000Z
+DTEND:20261112T053000Z
+SUMMARY:Utah Mammoth @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nUtah Mammoth @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-13-nashville-predators-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261114T030000Z
+DTEND:20261114T060000Z
+SUMMARY:Nashville Predators @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nNashville Predators @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-15-vancouver-canucks-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261116T020000Z
+DTEND:20261116T050000Z
+SUMMARY:Vancouver Canucks @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nVancouver Canucks @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-17-dallas-stars-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261118T030000Z
+DTEND:20261118T060000Z
+SUMMARY:Dallas Stars @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nDallas Stars @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-19-dallas-stars-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261120T030000Z
+DTEND:20261120T060000Z
+SUMMARY:Dallas Stars @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nDallas Stars @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-21-vegas-golden-knights-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261122T000000Z
+DTEND:20261122T030000Z
+SUMMARY:Vegas Golden Knights @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-24-vegas-golden-knights-vs-edmonton-oilers@open-sports-cal
+DTSTART:20261125T010000Z
+DTEND:20261125T040000Z
+SUMMARY:Vegas Golden Knights @ Edmonton Oilers
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-27-vegas-golden-knights-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261127T210000Z
+DTEND:20261128T000000Z
+SUMMARY:Vegas Golden Knights @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-28-montreal-canadiens-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261128T210000Z
+DTEND:20261129T000000Z
+SUMMARY:Montréal Canadiens @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-01-vegas-golden-knights-vs-los-angeles-kings@open-sports-cal
+DTSTART:20261202T030000Z
+DTEND:20261202T060000Z
+SUMMARY:Vegas Golden Knights @ Los Angeles Kings
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-03-utah-mammoth-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261204T030000Z
+DTEND:20261204T060000Z
+SUMMARY:Utah Mammoth @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nUtah Mammoth @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-05-winnipeg-jets-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261206T000000Z
+DTEND:20261206T030000Z
+SUMMARY:Winnipeg Jets @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-08-vegas-golden-knights-vs-montreal-canadiens@open-sports-cal
+DTSTART:20261209T000000Z
+DTEND:20261209T030000Z
+SUMMARY:Vegas Golden Knights @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-10-vegas-golden-knights-vs-ottawa-senators@open-sports-cal
+DTSTART:20261211T000000Z
+DTEND:20261211T030000Z
+SUMMARY:Vegas Golden Knights @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-12-vegas-golden-knights-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261213T000000Z
+DTEND:20261213T030000Z
+SUMMARY:Vegas Golden Knights @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-16-san-jose-sharks-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261217T030000Z
+DTEND:20261217T060000Z
+SUMMARY:San Jose Sharks @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-18-new-york-islanders-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261219T030000Z
+DTEND:20261219T060000Z
+SUMMARY:New York Islanders @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-21-carolina-hurricanes-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261222T030000Z
+DTEND:20261222T060000Z
+SUMMARY:Carolina Hurricanes @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nCarolina Hurricanes @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-22-vegas-golden-knights-vs-anaheim-ducks@open-sports-cal
+DTSTART:20261223T023000Z
+DTEND:20261223T053000Z
+SUMMARY:Vegas Golden Knights @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-26-vegas-golden-knights-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261227T030000Z
+DTEND:20261227T060000Z
+SUMMARY:Vegas Golden Knights @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-28-vegas-golden-knights-vs-minnesota-wild@open-sports-cal
+DTSTART:20261228T190000Z
+DTEND:20261228T220000Z
+SUMMARY:Vegas Golden Knights @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-29-vegas-golden-knights-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261230T010000Z
+DTEND:20261230T040000Z
+SUMMARY:Vegas Golden Knights @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-31-st-louis-blues-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20261231T200000Z
+DTEND:20261231T230000Z
+SUMMARY:St. Louis Blues @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nSt. Louis Blues @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-02-colorado-avalanche-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270103T030000Z
+DTEND:20270103T060000Z
+SUMMARY:Colorado Avalanche @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-04-vegas-golden-knights-vs-colorado-avalanche@open-sports-cal
+DTSTART:20270105T020000Z
+DTEND:20270105T050000Z
+SUMMARY:Vegas Golden Knights @ Colorado Avalanche
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-07-minnesota-wild-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270108T023000Z
+DTEND:20270108T053000Z
+SUMMARY:Minnesota Wild @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-09-seattle-kraken-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270110T030000Z
+DTEND:20270110T060000Z
+SUMMARY:Seattle Kraken @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-12-vegas-golden-knights-vs-washington-capitals@open-sports-cal
+DTSTART:20270113T000000Z
+DTEND:20270113T030000Z
+SUMMARY:Vegas Golden Knights @ Washington Capitals
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-14-vegas-golden-knights-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270115T000000Z
+DTEND:20270115T030000Z
+SUMMARY:Vegas Golden Knights @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-16-vegas-golden-knights-vs-florida-panthers@open-sports-cal
+DTSTART:20270116T230000Z
+DTEND:20270117T020000Z
+SUMMARY:Vegas Golden Knights @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-17-vegas-golden-knights-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20270117T230000Z
+DTEND:20270118T020000Z
+SUMMARY:Vegas Golden Knights @ Carolina Hurricanes
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-20-edmonton-oilers-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270121T030000Z
+DTEND:20270121T060000Z
+SUMMARY:Edmonton Oilers @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-22-boston-bruins-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270123T030000Z
+DTEND:20270123T060000Z
+SUMMARY:Boston Bruins @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-24-vegas-golden-knights-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270125T000000Z
+DTEND:20270125T030000Z
+SUMMARY:Vegas Golden Knights @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-26-vegas-golden-knights-vs-nashville-predators@open-sports-cal
+DTSTART:20270127T010000Z
+DTEND:20270127T040000Z
+SUMMARY:Vegas Golden Knights @ Nashville Predators
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-28-buffalo-sabres-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270129T030000Z
+DTEND:20270129T060000Z
+SUMMARY:Buffalo Sabres @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-30-washington-capitals-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270131T030000Z
+DTEND:20270131T060000Z
+SUMMARY:Washington Capitals @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nWashington Capitals @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-01-vegas-golden-knights-vs-calgary-flames@open-sports-cal
+DTSTART:20270202T003000Z
+DTEND:20270202T033000Z
+SUMMARY:Vegas Golden Knights @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-03-vegas-golden-knights-vs-edmonton-oilers@open-sports-cal
+DTSTART:20270204T020000Z
+DTEND:20270204T050000Z
+SUMMARY:Vegas Golden Knights @ Edmonton Oilers
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-13-calgary-flames-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270214T030000Z
+DTEND:20270214T060000Z
+SUMMARY:Calgary Flames @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-15-detroit-red-wings-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270216T030000Z
+DTEND:20270216T060000Z
+SUMMARY:Detroit Red Wings @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-18-columbus-blue-jackets-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270219T030000Z
+DTEND:20270219T060000Z
+SUMMARY:Columbus Blue Jackets @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-20-vegas-golden-knights-vs-dallas-stars@open-sports-cal
+DTSTART:20270221T010000Z
+DTEND:20270221T040000Z
+SUMMARY:Vegas Golden Knights @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Dallas Stars\nAT&T Stadium
+LOCATION:AT&T Stadium
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-22-vegas-golden-knights-vs-colorado-avalanche@open-sports-cal
+DTSTART:20270223T020000Z
+DTEND:20270223T050000Z
+SUMMARY:Vegas Golden Knights @ Colorado Avalanche
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-24-florida-panthers-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270225T023000Z
+DTEND:20270225T053000Z
+SUMMARY:Florida Panthers @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-26-anaheim-ducks-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270227T020000Z
+DTEND:20270227T050000Z
+SUMMARY:Anaheim Ducks @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nAnaheim Ducks @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-02-vegas-golden-knights-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20270303T000000Z
+DTEND:20270303T030000Z
+SUMMARY:Vegas Golden Knights @ Philadelphia Flyers
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-04-vegas-golden-knights-vs-new-york-islanders@open-sports-cal
+DTSTART:20270305T000000Z
+DTEND:20270305T030000Z
+SUMMARY:Vegas Golden Knights @ New York Islanders
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-05-vegas-golden-knights-vs-new-jersey-devils@open-sports-cal
+DTSTART:20270306T000000Z
+DTEND:20270306T030000Z
+SUMMARY:Vegas Golden Knights @ New Jersey Devils
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-07-vegas-golden-knights-vs-new-york-rangers@open-sports-cal
+DTSTART:20270308T000000Z
+DTEND:20270308T030000Z
+SUMMARY:Vegas Golden Knights @ New York Rangers
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-09-san-jose-sharks-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270310T033000Z
+DTEND:20270310T063000Z
+SUMMARY:San Jose Sharks @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-11-philadelphia-flyers-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270312T030000Z
+DTEND:20270312T060000Z
+SUMMARY:Philadelphia Flyers @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nPhiladelphia Flyers @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-13-new-york-rangers-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270314T030000Z
+DTEND:20270314T060000Z
+SUMMARY:New York Rangers @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nNew York Rangers @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-15-winnipeg-jets-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270316T020000Z
+DTEND:20270316T050000Z
+SUMMARY:Winnipeg Jets @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-17-seattle-kraken-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270318T020000Z
+DTEND:20270318T050000Z
+SUMMARY:Seattle Kraken @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-20-vegas-golden-knights-vs-anaheim-ducks@open-sports-cal
+DTSTART:20270321T023000Z
+DTEND:20270321T053000Z
+SUMMARY:Vegas Golden Knights @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-23-vegas-golden-knights-vs-seattle-kraken@open-sports-cal
+DTSTART:20270324T014000Z
+DTEND:20270324T044000Z
+SUMMARY:Vegas Golden Knights @ Seattle Kraken
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-25-vegas-golden-knights-vs-vancouver-canucks@open-sports-cal
+DTSTART:20270326T020000Z
+DTEND:20270326T050000Z
+SUMMARY:Vegas Golden Knights @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-27-vegas-golden-knights-vs-calgary-flames@open-sports-cal
+DTSTART:20270328T020000Z
+DTEND:20270328T050000Z
+SUMMARY:Vegas Golden Knights @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-31-vancouver-canucks-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270401T023000Z
+DTEND:20270401T053000Z
+SUMMARY:Vancouver Canucks @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nVancouver Canucks @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-02-edmonton-oilers-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270403T020000Z
+DTEND:20270403T050000Z
+SUMMARY:Edmonton Oilers @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-03-vegas-golden-knights-vs-utah-mammoth@open-sports-cal
+DTSTART:20270404T020000Z
+DTEND:20270404T050000Z
+SUMMARY:Vegas Golden Knights @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-06-st-louis-blues-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270407T023000Z
+DTEND:20270407T053000Z
+SUMMARY:St. Louis Blues @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nSt. Louis Blues @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-08-vegas-golden-knights-vs-los-angeles-kings@open-sports-cal
+DTSTART:20270409T020000Z
+DTEND:20270409T050000Z
+SUMMARY:Vegas Golden Knights @ Los Angeles Kings
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-10-los-angeles-kings-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270411T023000Z
+DTEND:20270411T053000Z
+SUMMARY:Los Angeles Kings @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR

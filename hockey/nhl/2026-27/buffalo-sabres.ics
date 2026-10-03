@@ -1,0 +1,1017 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2026-27 - Buffalo Sabres
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-01-buffalo-sabres-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20261001T230000Z
+DTEND:20261002T020000Z
+SUMMARY:Buffalo Sabres @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-03-chicago-blackhawks-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261003T230000Z
+DTEND:20261004T020000Z
+SUMMARY:Chicago Blackhawks @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-06-minnesota-wild-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261006T230000Z
+DTEND:20261007T020000Z
+SUMMARY:Minnesota Wild @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-08-dallas-stars-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261008T230000Z
+DTEND:20261009T020000Z
+SUMMARY:Dallas Stars @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nDallas Stars @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-10-utah-mammoth-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261010T230000Z
+DTEND:20261011T020000Z
+SUMMARY:Utah Mammoth @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nUtah Mammoth @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-12-florida-panthers-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261012T170000Z
+DTEND:20261012T200000Z
+SUMMARY:Florida Panthers @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-13-buffalo-sabres-vs-montreal-canadiens@open-sports-cal
+DTSTART:20261013T223000Z
+DTEND:20261014T013000Z
+SUMMARY:Buffalo Sabres @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-15-buffalo-sabres-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20261015T230000Z
+DTEND:20261016T020000Z
+SUMMARY:Buffalo Sabres @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-17-buffalo-sabres-vs-montreal-canadiens@open-sports-cal
+DTSTART:20261017T230000Z
+DTEND:20261018T020000Z
+SUMMARY:Buffalo Sabres @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-21-philadelphia-flyers-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261021T233000Z
+DTEND:20261022T023000Z
+SUMMARY:Philadelphia Flyers @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nPhiladelphia Flyers @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-24-buffalo-sabres-vs-washington-capitals@open-sports-cal
+DTSTART:20261024T230000Z
+DTEND:20261025T020000Z
+SUMMARY:Buffalo Sabres @ Washington Capitals
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-27-buffalo-sabres-vs-san-jose-sharks@open-sports-cal
+DTSTART:20261028T023000Z
+DTEND:20261028T053000Z
+SUMMARY:Buffalo Sabres @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-29-buffalo-sabres-vs-anaheim-ducks@open-sports-cal
+DTSTART:20261030T020000Z
+DTEND:20261030T050000Z
+SUMMARY:Buffalo Sabres @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-31-buffalo-sabres-vs-los-angeles-kings@open-sports-cal
+DTSTART:20261031T200000Z
+DTEND:20261031T230000Z
+SUMMARY:Buffalo Sabres @ Los Angeles Kings
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-04-ottawa-senators-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261105T003000Z
+DTEND:20261105T033000Z
+SUMMARY:Ottawa Senators @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-06-columbus-blue-jackets-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261107T000000Z
+DTEND:20261107T030000Z
+SUMMARY:Columbus Blue Jackets @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-08-vegas-golden-knights-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261108T203000Z
+DTEND:20261108T233000Z
+SUMMARY:Vegas Golden Knights @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-11-tampa-bay-lightning-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261112T000000Z
+DTEND:20261112T030000Z
+SUMMARY:Tampa Bay Lightning @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-12-buffalo-sabres-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261113T010000Z
+DTEND:20261113T040000Z
+SUMMARY:Buffalo Sabres @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-14-buffalo-sabres-vs-dallas-stars@open-sports-cal
+DTSTART:20261115T010000Z
+DTEND:20261115T040000Z
+SUMMARY:Buffalo Sabres @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-17-buffalo-sabres-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20261118T000000Z
+DTEND:20261118T030000Z
+SUMMARY:Buffalo Sabres @ Philadelphia Flyers
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-19-buffalo-sabres-vs-washington-capitals@open-sports-cal
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:Buffalo Sabres @ Washington Capitals
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-21-buffalo-sabres-vs-florida-panthers@open-sports-cal
+DTSTART:20261121T230000Z
+DTEND:20261122T020000Z
+SUMMARY:Buffalo Sabres @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-22-buffalo-sabres-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261122T220000Z
+DTEND:20261123T010000Z
+SUMMARY:Buffalo Sabres @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-25-new-york-rangers-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:New York Rangers @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nNew York Rangers @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-27-pittsburgh-penguins-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261128T010000Z
+DTEND:20261128T040000Z
+SUMMARY:Pittsburgh Penguins @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-01-buffalo-sabres-vs-edmonton-oilers@open-sports-cal
+DTSTART:20261202T010000Z
+DTEND:20261202T040000Z
+SUMMARY:Buffalo Sabres @ Edmonton Oilers
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-03-buffalo-sabres-vs-calgary-flames@open-sports-cal
+DTSTART:20261204T010000Z
+DTEND:20261204T040000Z
+SUMMARY:Buffalo Sabres @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-04-buffalo-sabres-vs-vancouver-canucks@open-sports-cal
+DTSTART:20261205T020000Z
+DTEND:20261205T050000Z
+SUMMARY:Buffalo Sabres @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-06-buffalo-sabres-vs-seattle-kraken@open-sports-cal
+DTSTART:20261207T010000Z
+DTEND:20261207T040000Z
+SUMMARY:Buffalo Sabres @ Seattle Kraken
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-10-edmonton-oilers-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261211T000000Z
+DTEND:20261211T030000Z
+SUMMARY:Edmonton Oilers @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-12-anaheim-ducks-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261213T000000Z
+DTEND:20261213T030000Z
+SUMMARY:Anaheim Ducks @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nAnaheim Ducks @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-14-buffalo-sabres-vs-ottawa-senators@open-sports-cal
+DTSTART:20261214T190000Z
+DTEND:20261214T220000Z
+SUMMARY:Buffalo Sabres @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-15-calgary-flames-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261216T000000Z
+DTEND:20261216T030000Z
+SUMMARY:Calgary Flames @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-18-montreal-canadiens-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261219T003000Z
+DTEND:20261219T033000Z
+SUMMARY:Montréal Canadiens @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-20-los-angeles-kings-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261220T230000Z
+DTEND:20261221T020000Z
+SUMMARY:Los Angeles Kings @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-22-buffalo-sabres-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261223T000000Z
+DTEND:20261223T030000Z
+SUMMARY:Buffalo Sabres @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-26-new-jersey-devils-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261227T000000Z
+DTEND:20261227T030000Z
+SUMMARY:New Jersey Devils @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nNew Jersey Devils @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-28-detroit-red-wings-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261229T000000Z
+DTEND:20261229T030000Z
+SUMMARY:Detroit Red Wings @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-30-buffalo-sabres-vs-florida-panthers@open-sports-cal
+DTSTART:20261231T000000Z
+DTEND:20261231T030000Z
+SUMMARY:Buffalo Sabres @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-02-buffalo-sabres-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20270103T000000Z
+DTEND:20270103T030000Z
+SUMMARY:Buffalo Sabres @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-04-winnipeg-jets-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270105T003000Z
+DTEND:20270105T033000Z
+SUMMARY:Winnipeg Jets @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-05-buffalo-sabres-vs-boston-bruins@open-sports-cal
+DTSTART:20270106T003000Z
+DTEND:20270106T033000Z
+SUMMARY:Buffalo Sabres @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-08-buffalo-sabres-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270109T000000Z
+DTEND:20270109T030000Z
+SUMMARY:Buffalo Sabres @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-09-carolina-hurricanes-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270110T000000Z
+DTEND:20270110T030000Z
+SUMMARY:Carolina Hurricanes @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nCarolina Hurricanes @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-12-new-jersey-devils-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270113T000000Z
+DTEND:20270113T030000Z
+SUMMARY:New Jersey Devils @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nNew Jersey Devils @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-14-colorado-avalanche-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270115T003000Z
+DTEND:20270115T033000Z
+SUMMARY:Colorado Avalanche @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-16-nashville-predators-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270117T000000Z
+DTEND:20270117T030000Z
+SUMMARY:Nashville Predators @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nNashville Predators @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-18-montreal-canadiens-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270118T190000Z
+DTEND:20270118T220000Z
+SUMMARY:Montréal Canadiens @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-20-buffalo-sabres-vs-new-york-islanders@open-sports-cal
+DTSTART:20270121T000000Z
+DTEND:20270121T030000Z
+SUMMARY:Buffalo Sabres @ New York Islanders
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-21-seattle-kraken-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270122T000000Z
+DTEND:20270122T030000Z
+SUMMARY:Seattle Kraken @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-24-buffalo-sabres-vs-winnipeg-jets@open-sports-cal
+DTSTART:20270124T200000Z
+DTEND:20270124T230000Z
+SUMMARY:Buffalo Sabres @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-27-buffalo-sabres-vs-utah-mammoth@open-sports-cal
+DTSTART:20270128T020000Z
+DTEND:20270128T050000Z
+SUMMARY:Buffalo Sabres @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-28-buffalo-sabres-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20270129T030000Z
+DTEND:20270129T060000Z
+SUMMARY:Buffalo Sabres @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-30-buffalo-sabres-vs-colorado-avalanche@open-sports-cal
+DTSTART:20270130T220000Z
+DTEND:20270131T010000Z
+SUMMARY:Buffalo Sabres @ Colorado Avalanche
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-03-new-york-islanders-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270204T000000Z
+DTEND:20270204T030000Z
+SUMMARY:New York Islanders @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-13-buffalo-sabres-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20270214T000000Z
+DTEND:20270214T030000Z
+SUMMARY:Buffalo Sabres @ Carolina Hurricanes
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-15-buffalo-sabres-vs-new-york-rangers@open-sports-cal
+DTSTART:20270215T230000Z
+DTEND:20270216T020000Z
+SUMMARY:Buffalo Sabres @ New York Rangers
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-18-carolina-hurricanes-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270219T000000Z
+DTEND:20270219T030000Z
+SUMMARY:Carolina Hurricanes @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nCarolina Hurricanes @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-20-buffalo-sabres-vs-new-jersey-devils@open-sports-cal
+DTSTART:20270220T183000Z
+DTEND:20270220T213000Z
+SUMMARY:Buffalo Sabres @ New Jersey Devils
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-21-buffalo-sabres-vs-detroit-red-wings@open-sports-cal
+DTSTART:20270221T203000Z
+DTEND:20270221T233000Z
+SUMMARY:Buffalo Sabres @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-24-buffalo-sabres-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20270225T000000Z
+DTEND:20270225T030000Z
+SUMMARY:Buffalo Sabres @ Philadelphia Flyers
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-26-ottawa-senators-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270227T003000Z
+DTEND:20270227T033000Z
+SUMMARY:Ottawa Senators @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-27-toronto-maple-leafs-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270228T000000Z
+DTEND:20270228T030000Z
+SUMMARY:Toronto Maple Leafs @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-02-pittsburgh-penguins-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270303T000000Z
+DTEND:20270303T030000Z
+SUMMARY:Pittsburgh Penguins @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-04-st-louis-blues-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270305T000000Z
+DTEND:20270305T030000Z
+SUMMARY:St. Louis Blues @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nSt. Louis Blues @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-06-new-york-rangers-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270306T200000Z
+DTEND:20270306T230000Z
+SUMMARY:New York Rangers @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nNew York Rangers @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-07-buffalo-sabres-vs-ottawa-senators@open-sports-cal
+DTSTART:20270307T200000Z
+DTEND:20270307T230000Z
+SUMMARY:Buffalo Sabres @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Ottawa Senators\nCanadian Tire Centre
+LOCATION:Canadian Tire Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-09-vancouver-canucks-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270310T000000Z
+DTEND:20270310T030000Z
+SUMMARY:Vancouver Canucks @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nVancouver Canucks @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-12-buffalo-sabres-vs-detroit-red-wings@open-sports-cal
+DTSTART:20270313T000000Z
+DTEND:20270313T030000Z
+SUMMARY:Buffalo Sabres @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-14-buffalo-sabres-vs-minnesota-wild@open-sports-cal
+DTSTART:20270314T230000Z
+DTEND:20270315T020000Z
+SUMMARY:Buffalo Sabres @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-15-san-jose-sharks-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270315T230000Z
+DTEND:20270316T020000Z
+SUMMARY:San Jose Sharks @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-18-washington-capitals-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270318T233000Z
+DTEND:20270319T023000Z
+SUMMARY:Washington Capitals @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nWashington Capitals @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-20-florida-panthers-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270320T170000Z
+DTEND:20270320T200000Z
+SUMMARY:Florida Panthers @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-21-buffalo-sabres-vs-new-york-islanders@open-sports-cal
+DTSTART:20270321T190000Z
+DTEND:20270321T220000Z
+SUMMARY:Buffalo Sabres @ New York Islanders
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-23-buffalo-sabres-vs-boston-bruins@open-sports-cal
+DTSTART:20270323T230000Z
+DTEND:20270324T020000Z
+SUMMARY:Buffalo Sabres @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-25-toronto-maple-leafs-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270325T230000Z
+DTEND:20270326T020000Z
+SUMMARY:Toronto Maple Leafs @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-28-buffalo-sabres-vs-st-louis-blues@open-sports-cal
+DTSTART:20270329T003000Z
+DTEND:20270329T033000Z
+SUMMARY:Buffalo Sabres @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-30-buffalo-sabres-vs-nashville-predators@open-sports-cal
+DTSTART:20270331T000000Z
+DTEND:20270331T030000Z
+SUMMARY:Buffalo Sabres @ Nashville Predators
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-01-boston-bruins-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270401T230000Z
+DTEND:20270402T020000Z
+SUMMARY:Boston Bruins @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-03-buffalo-sabres-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270403T230000Z
+DTEND:20270404T020000Z
+SUMMARY:Buffalo Sabres @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-05-tampa-bay-lightning-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270405T230000Z
+DTEND:20270406T020000Z
+SUMMARY:Tampa Bay Lightning @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-07-boston-bruins-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270407T233000Z
+DTEND:20270408T023000Z
+SUMMARY:Boston Bruins @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-10-detroit-red-wings-vs-buffalo-sabres@open-sports-cal
+DTSTART:20270410T220000Z
+DTEND:20270411T010000Z
+SUMMARY:Detroit Red Wings @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

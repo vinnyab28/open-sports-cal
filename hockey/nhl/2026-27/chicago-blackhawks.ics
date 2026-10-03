@@ -1,0 +1,1017 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL 2026-27 - Chicago Blackhawks
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-09-29-chicago-blackhawks-vs-vegas-golden-knights@open-sports-cal
+DTSTART:20260930T023000Z
+DTEND:20260930T053000Z
+SUMMARY:Chicago Blackhawks @ Vegas Golden Knights
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Vegas Golden Knights\nT-Mobile Arena
+LOCATION:T-Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-01-chicago-blackhawks-vs-utah-mammoth@open-sports-cal
+DTSTART:20261002T013000Z
+DTEND:20261002T043000Z
+SUMMARY:Chicago Blackhawks @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-03-chicago-blackhawks-vs-buffalo-sabres@open-sports-cal
+DTSTART:20261003T230000Z
+DTEND:20261004T020000Z
+SUMMARY:Chicago Blackhawks @ Buffalo Sabres
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Buffalo Sabres\nKeyBank Center
+LOCATION:KeyBank Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-06-st-louis-blues-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261007T000000Z
+DTEND:20261007T030000Z
+SUMMARY:St. Louis Blues @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nSt. Louis Blues @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-08-chicago-blackhawks-vs-new-york-islanders@open-sports-cal
+DTSTART:20261008T233000Z
+DTEND:20261009T023000Z
+SUMMARY:Chicago Blackhawks @ New York Islanders
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ New York Islanders\nUBS Arena
+LOCATION:UBS Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-10-carolina-hurricanes-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261010T230000Z
+DTEND:20261011T020000Z
+SUMMARY:Carolina Hurricanes @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nCarolina Hurricanes @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-13-pittsburgh-penguins-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261014T000000Z
+DTEND:20261014T030000Z
+SUMMARY:Pittsburgh Penguins @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nPittsburgh Penguins @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-15-winnipeg-jets-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261016T000000Z
+DTEND:20261016T030000Z
+SUMMARY:Winnipeg Jets @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-17-dallas-stars-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261017T230000Z
+DTEND:20261018T020000Z
+SUMMARY:Dallas Stars @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nDallas Stars @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-23-montreal-canadiens-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261024T000000Z
+DTEND:20261024T030000Z
+SUMMARY:Montréal Canadiens @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nMontréal Canadiens @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-25-florida-panthers-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261025T190000Z
+DTEND:20261025T220000Z
+SUMMARY:Florida Panthers @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nFlorida Panthers @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-27-los-angeles-kings-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261028T000000Z
+DTEND:20261028T030000Z
+SUMMARY:Los Angeles Kings @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-29-chicago-blackhawks-vs-detroit-red-wings@open-sports-cal
+DTSTART:20261029T233000Z
+DTEND:20261030T023000Z
+SUMMARY:Chicago Blackhawks @ Detroit Red Wings
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Detroit Red Wings\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-10-31-chicago-blackhawks-vs-boston-bruins@open-sports-cal
+DTSTART:20261031T170000Z
+DTEND:20261031T200000Z
+SUMMARY:Chicago Blackhawks @ Boston Bruins
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Boston Bruins\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-02-colorado-avalanche-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261103T010000Z
+DTEND:20261103T040000Z
+SUMMARY:Colorado Avalanche @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-04-chicago-blackhawks-vs-florida-panthers@open-sports-cal
+DTSTART:20261105T003000Z
+DTEND:20261105T033000Z
+SUMMARY:Chicago Blackhawks @ Florida Panthers
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Florida Panthers\nAmerant Bank Arena
+LOCATION:Amerant Bank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-05-chicago-blackhawks-vs-tampa-bay-lightning@open-sports-cal
+DTSTART:20261106T000000Z
+DTEND:20261106T030000Z
+SUMMARY:Chicago Blackhawks @ Tampa Bay Lightning
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Tampa Bay Lightning\nBenchmark International Arena
+LOCATION:Benchmark International Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-07-chicago-blackhawks-vs-carolina-hurricanes@open-sports-cal
+DTSTART:20261108T010000Z
+DTEND:20261108T040000Z
+SUMMARY:Chicago Blackhawks @ Carolina Hurricanes
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Carolina Hurricanes\nLenovo Center
+LOCATION:Lenovo Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-12-buffalo-sabres-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261113T010000Z
+DTEND:20261113T040000Z
+SUMMARY:Buffalo Sabres @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nBuffalo Sabres @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-14-winnipeg-jets-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261114T203000Z
+DTEND:20261114T233000Z
+SUMMARY:Winnipeg Jets @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nWinnipeg Jets @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-17-toronto-maple-leafs-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261118T003000Z
+DTEND:20261118T033000Z
+SUMMARY:Toronto Maple Leafs @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nToronto Maple Leafs @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-19-columbus-blue-jackets-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261120T010000Z
+DTEND:20261120T040000Z
+SUMMARY:Columbus Blue Jackets @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nColumbus Blue Jackets @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-21-chicago-blackhawks-vs-calgary-flames@open-sports-cal
+DTSTART:20261121T203000Z
+DTEND:20261121T233000Z
+SUMMARY:Chicago Blackhawks @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-22-chicago-blackhawks-vs-vancouver-canucks@open-sports-cal
+DTSTART:20261123T010000Z
+DTEND:20261123T040000Z
+SUMMARY:Chicago Blackhawks @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-25-chicago-blackhawks-vs-seattle-kraken@open-sports-cal
+DTSTART:20261126T024000Z
+DTEND:20261126T054000Z
+SUMMARY:Chicago Blackhawks @ Seattle Kraken
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Seattle Kraken\nClimate Pledge Arena
+LOCATION:Climate Pledge Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-27-new-york-rangers-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261127T223000Z
+DTEND:20261128T013000Z
+SUMMARY:New York Rangers @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nNew York Rangers @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-29-minnesota-wild-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261129T190000Z
+DTEND:20261129T220000Z
+SUMMARY:Minnesota Wild @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-11-30-chicago-blackhawks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261201T003000Z
+DTEND:20261201T033000Z
+SUMMARY:Chicago Blackhawks @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-03-chicago-blackhawks-vs-nashville-predators@open-sports-cal
+DTSTART:20261204T010000Z
+DTEND:20261204T040000Z
+SUMMARY:Chicago Blackhawks @ Nashville Predators
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-04-chicago-blackhawks-vs-st-louis-blues@open-sports-cal
+DTSTART:20261205T010000Z
+DTEND:20261205T040000Z
+SUMMARY:Chicago Blackhawks @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-06-edmonton-oilers-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261207T000000Z
+DTEND:20261207T030000Z
+SUMMARY:Edmonton Oilers @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-08-chicago-blackhawks-vs-pittsburgh-penguins@open-sports-cal
+DTSTART:20261209T003000Z
+DTEND:20261209T033000Z
+SUMMARY:Chicago Blackhawks @ Pittsburgh Penguins
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Pittsburgh Penguins\nPPG Paints Arena
+LOCATION:PPG Paints Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-10-chicago-blackhawks-vs-winnipeg-jets@open-sports-cal
+DTSTART:20261211T000000Z
+DTEND:20261211T030000Z
+SUMMARY:Chicago Blackhawks @ Winnipeg Jets
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Winnipeg Jets\nCanada Life Centre
+LOCATION:Canada Life Centre
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Winnipeg
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-12-utah-mammoth-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261213T000000Z
+DTEND:20261213T030000Z
+SUMMARY:Utah Mammoth @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nUtah Mammoth @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-18-chicago-blackhawks-vs-ottawa-senators@open-sports-cal
+DTSTART:20261218T180000Z
+DTEND:20261218T210000Z
+SUMMARY:Chicago Blackhawks @ Ottawa Senators
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Ottawa Senators\nPSD Bank Dome
+LOCATION:PSD Bank Dome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:Europe/Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-20-ottawa-senators-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261220T130000Z
+DTEND:20261220T160000Z
+SUMMARY:Ottawa Senators @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nOttawa Senators @ Chicago Blackhawks\nPSD Bank Dome
+LOCATION:PSD Bank Dome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:Europe/Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-27-philadelphia-flyers-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261227T200000Z
+DTEND:20261227T230000Z
+SUMMARY:Philadelphia Flyers @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nPhiladelphia Flyers @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2026-12-29-vegas-golden-knights-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20261230T010000Z
+DTEND:20261230T040000Z
+SUMMARY:Vegas Golden Knights @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-01-boston-bruins-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270101T200000Z
+DTEND:20270101T230000Z
+SUMMARY:Boston Bruins @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nBoston Bruins @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-02-chicago-blackhawks-vs-dallas-stars@open-sports-cal
+DTSTART:20270103T010000Z
+DTEND:20270103T040000Z
+SUMMARY:Chicago Blackhawks @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-04-chicago-blackhawks-vs-montreal-canadiens@open-sports-cal
+DTSTART:20270105T003000Z
+DTEND:20270105T033000Z
+SUMMARY:Chicago Blackhawks @ Montréal Canadiens
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Montréal Canadiens\nCentre Bell
+LOCATION:Centre Bell
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Montreal
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-07-chicago-blackhawks-vs-new-york-rangers@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Chicago Blackhawks @ New York Rangers
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ New York Rangers\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-09-chicago-blackhawks-vs-new-jersey-devils@open-sports-cal
+DTSTART:20270109T170000Z
+DTEND:20270109T200000Z
+SUMMARY:Chicago Blackhawks @ New Jersey Devils
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ New Jersey Devils\nPrudential Center
+LOCATION:Prudential Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-10-chicago-blackhawks-vs-philadelphia-flyers@open-sports-cal
+DTSTART:20270111T003000Z
+DTEND:20270111T033000Z
+SUMMARY:Chicago Blackhawks @ Philadelphia Flyers
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Philadelphia Flyers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-12-utah-mammoth-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270113T010000Z
+DTEND:20270113T040000Z
+SUMMARY:Utah Mammoth @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nUtah Mammoth @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-14-chicago-blackhawks-vs-toronto-maple-leafs@open-sports-cal
+DTSTART:20270115T000000Z
+DTEND:20270115T030000Z
+SUMMARY:Chicago Blackhawks @ Toronto Maple Leafs
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Toronto Maple Leafs\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-16-detroit-red-wings-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270117T000000Z
+DTEND:20270117T030000Z
+SUMMARY:Detroit Red Wings @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nDetroit Red Wings @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-18-calgary-flames-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270119T013000Z
+DTEND:20270119T043000Z
+SUMMARY:Calgary Flames @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nCalgary Flames @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-20-dallas-stars-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270121T003000Z
+DTEND:20270121T033000Z
+SUMMARY:Dallas Stars @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nDallas Stars @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-22-vancouver-canucks-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270123T010000Z
+DTEND:20270123T040000Z
+SUMMARY:Vancouver Canucks @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nVancouver Canucks @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-24-vegas-golden-knights-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270125T000000Z
+DTEND:20270125T030000Z
+SUMMARY:Vegas Golden Knights @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nVegas Golden Knights @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-26-chicago-blackhawks-vs-st-louis-blues@open-sports-cal
+DTSTART:20270127T010000Z
+DTEND:20270127T040000Z
+SUMMARY:Chicago Blackhawks @ St. Louis Blues
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ St. Louis Blues\nEnterprise Center
+LOCATION:Enterprise Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-28-chicago-blackhawks-vs-anaheim-ducks@open-sports-cal
+DTSTART:20270129T030000Z
+DTEND:20270129T060000Z
+SUMMARY:Chicago Blackhawks @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-01-30-chicago-blackhawks-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270130T210000Z
+DTEND:20270131T000000Z
+SUMMARY:Chicago Blackhawks @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-10-chicago-blackhawks-vs-san-jose-sharks@open-sports-cal
+DTSTART:20270211T030000Z
+DTEND:20270211T060000Z
+SUMMARY:Chicago Blackhawks @ San Jose Sharks
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ San Jose Sharks\nSAP Center at San Jose
+LOCATION:SAP Center at San Jose
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-11-chicago-blackhawks-vs-anaheim-ducks@open-sports-cal
+DTSTART:20270212T030000Z
+DTEND:20270212T060000Z
+SUMMARY:Chicago Blackhawks @ Anaheim Ducks
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Anaheim Ducks\nHonda Center
+LOCATION:Honda Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-13-chicago-blackhawks-vs-los-angeles-kings@open-sports-cal
+DTSTART:20270213T230000Z
+DTEND:20270214T020000Z
+SUMMARY:Chicago Blackhawks @ Los Angeles Kings
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Los Angeles Kings\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-17-st-louis-blues-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270218T003000Z
+DTEND:20270218T033000Z
+SUMMARY:St. Louis Blues @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nSt. Louis Blues @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-20-minnesota-wild-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270220T200000Z
+DTEND:20270220T230000Z
+SUMMARY:Minnesota Wild @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nMinnesota Wild @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-21-new-jersey-devils-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270221T230000Z
+DTEND:20270222T020000Z
+SUMMARY:New Jersey Devils @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nNew Jersey Devils @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-23-new-york-islanders-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270224T010000Z
+DTEND:20270224T040000Z
+SUMMARY:New York Islanders @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nNew York Islanders @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-26-los-angeles-kings-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270227T010000Z
+DTEND:20270227T040000Z
+SUMMARY:Los Angeles Kings @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nLos Angeles Kings @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-02-28-colorado-avalanche-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270228T233000Z
+DTEND:20270301T023000Z
+SUMMARY:Colorado Avalanche @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nColorado Avalanche @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-01-edmonton-oilers-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270302T013000Z
+DTEND:20270302T043000Z
+SUMMARY:Edmonton Oilers @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nEdmonton Oilers @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-03-chicago-blackhawks-vs-vancouver-canucks@open-sports-cal
+DTSTART:20270304T030000Z
+DTEND:20270304T060000Z
+SUMMARY:Chicago Blackhawks @ Vancouver Canucks
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Vancouver Canucks\nRogers Arena
+LOCATION:Rogers Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-05-chicago-blackhawks-vs-calgary-flames@open-sports-cal
+DTSTART:20270306T010000Z
+DTEND:20270306T040000Z
+SUMMARY:Chicago Blackhawks @ Calgary Flames
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Calgary Flames\nScotiabank Saddledome
+LOCATION:Scotiabank Saddledome
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-06-chicago-blackhawks-vs-edmonton-oilers@open-sports-cal
+DTSTART:20270307T030000Z
+DTEND:20270307T060000Z
+SUMMARY:Chicago Blackhawks @ Edmonton Oilers
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Edmonton Oilers\nRogers Place
+LOCATION:Rogers Place
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Edmonton
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-08-tampa-bay-lightning-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270309T010000Z
+DTEND:20270309T040000Z
+SUMMARY:Tampa Bay Lightning @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nTampa Bay Lightning @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-10-washington-capitals-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270311T010000Z
+DTEND:20270311T040000Z
+SUMMARY:Washington Capitals @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nWashington Capitals @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-13-chicago-blackhawks-vs-colorado-avalanche@open-sports-cal
+DTSTART:20270313T230000Z
+DTEND:20270314T020000Z
+SUMMARY:Chicago Blackhawks @ Colorado Avalanche
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-14-anaheim-ducks-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270314T203000Z
+DTEND:20270314T233000Z
+SUMMARY:Anaheim Ducks @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nAnaheim Ducks @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-16-san-jose-sharks-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270317T000000Z
+DTEND:20270317T030000Z
+SUMMARY:San Jose Sharks @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nSan Jose Sharks @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-19-chicago-blackhawks-vs-utah-mammoth@open-sports-cal
+DTSTART:20270320T020000Z
+DTEND:20270320T050000Z
+SUMMARY:Chicago Blackhawks @ Utah Mammoth
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Utah Mammoth\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-21-chicago-blackhawks-vs-colorado-avalanche@open-sports-cal
+DTSTART:20270321T210000Z
+DTEND:20270322T000000Z
+SUMMARY:Chicago Blackhawks @ Colorado Avalanche
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Colorado Avalanche\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-23-chicago-blackhawks-vs-minnesota-wild@open-sports-cal
+DTSTART:20270324T000000Z
+DTEND:20270324T030000Z
+SUMMARY:Chicago Blackhawks @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-25-chicago-blackhawks-vs-columbus-blue-jackets@open-sports-cal
+DTSTART:20270325T230000Z
+DTEND:20270326T020000Z
+SUMMARY:Chicago Blackhawks @ Columbus Blue Jackets
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Columbus Blue Jackets\nNationwide Arena
+LOCATION:Nationwide Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-26-nashville-predators-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270327T000000Z
+DTEND:20270327T030000Z
+SUMMARY:Nashville Predators @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nNashville Predators @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-28-seattle-kraken-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270328T180000Z
+DTEND:20270328T210000Z
+SUMMARY:Seattle Kraken @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-03-30-chicago-blackhawks-vs-washington-capitals@open-sports-cal
+DTSTART:20270330T230000Z
+DTEND:20270331T020000Z
+SUMMARY:Chicago Blackhawks @ Washington Capitals
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Washington Capitals\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-01-chicago-blackhawks-vs-nashville-predators@open-sports-cal
+DTSTART:20270402T000000Z
+DTEND:20270402T030000Z
+SUMMARY:Chicago Blackhawks @ Nashville Predators
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Nashville Predators\nBridgestone Arena
+LOCATION:Bridgestone Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-03-chicago-blackhawks-vs-dallas-stars@open-sports-cal
+DTSTART:20270403T220000Z
+DTEND:20270404T010000Z
+SUMMARY:Chicago Blackhawks @ Dallas Stars
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Dallas Stars\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-06-chicago-blackhawks-vs-minnesota-wild@open-sports-cal
+DTSTART:20270407T000000Z
+DTEND:20270407T030000Z
+SUMMARY:Chicago Blackhawks @ Minnesota Wild
+DESCRIPTION:NHL 2026-27\nChicago Blackhawks @ Minnesota Wild\nGrand Casino Arena
+LOCATION:Grand Casino Arena
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-08-nashville-predators-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270409T000000Z
+DTEND:20270409T030000Z
+SUMMARY:Nashville Predators @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nNashville Predators @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nhl-2026-27-2027-04-10-seattle-kraken-vs-chicago-blackhawks@open-sports-cal
+DTSTART:20270410T220000Z
+DTEND:20270411T010000Z
+SUMMARY:Seattle Kraken @ Chicago Blackhawks
+DESCRIPTION:NHL 2026-27\nSeattle Kraken @ Chicago Blackhawks\nUnited Center
+LOCATION:United Center
+CATEGORIES:Hockey,NHL,NHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T015155Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR
