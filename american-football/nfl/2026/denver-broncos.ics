@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Denver Broncos
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-14-denver-broncos-vs-kansas-city-chiefs@open-sports-cal
+DTSTART:20260915T001500Z
+DTEND:20260915T031500Z
+SUMMARY:Denver Broncos @ Kansas City Chiefs
+DESCRIPTION:NFL 2026 — Week 1\nDenver Broncos @ Kansas City Chiefs\nArrowhead Stadium
+LOCATION:Arrowhead Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-jacksonville-jaguars-vs-denver-broncos@open-sports-cal
+DTSTART:20260920T200500Z
+DTEND:20260920T230500Z
+SUMMARY:Jacksonville Jaguars @ Denver Broncos
+DESCRIPTION:NFL 2026 — Week 2\nJacksonville Jaguars @ Denver Broncos\nEmpower Field at Mile High
+LOCATION:Empower Field at Mile High
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-los-angeles-rams-vs-denver-broncos@open-sports-cal
+DTSTART:20260928T002000Z
+DTEND:20260928T032000Z
+SUMMARY:Los Angeles Rams @ Denver Broncos
+DESCRIPTION:NFL 2026 — Week 3\nLos Angeles Rams @ Denver Broncos\nEmpower Field at Mile High
+LOCATION:Empower Field at Mile High
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-denver-broncos-vs-san-francisco-49ers@open-sports-cal
+DTSTART:20261004T202500Z
+DTEND:20261004T232500Z
+SUMMARY:Denver Broncos @ San Francisco 49ers
+DESCRIPTION:NFL 2026 — Week 4\nDenver Broncos @ San Francisco 49ers\nLevi's Stadium
+LOCATION:Levi's Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-denver-broncos-vs-los-angeles-chargers@open-sports-cal
+DTSTART:20261011T200500Z
+DTEND:20261011T230500Z
+SUMMARY:Denver Broncos @ Los Angeles Chargers
+DESCRIPTION:NFL 2026 — Week 5\nDenver Broncos @ Los Angeles Chargers\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-15-seattle-seahawks-vs-denver-broncos@open-sports-cal
+DTSTART:20261016T001500Z
+DTEND:20261016T031500Z
+SUMMARY:Seattle Seahawks @ Denver Broncos
+DESCRIPTION:NFL 2026 — Week 6\nSeattle Seahawks @ Denver Broncos\nEmpower Field at Mile High
+LOCATION:Empower Field at Mile High
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-denver-broncos-vs-arizona-cardinals@open-sports-cal
+DTSTART:20261025T200500Z
+DTEND:20261025T230500Z
+SUMMARY:Denver Broncos @ Arizona Cardinals
+DESCRIPTION:NFL 2026 — Week 7\nDenver Broncos @ Arizona Cardinals\nState Farm Stadium
+LOCATION:State Farm Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-kansas-city-chiefs-vs-denver-broncos@open-sports-cal
+DTSTART:20261101T212500Z
+DTEND:20261102T002500Z
+SUMMARY:Kansas City Chiefs @ Denver Broncos
+DESCRIPTION:NFL 2026 — Week 8\nKansas City Chiefs @ Denver Broncos\nEmpower Field at Mile High
+LOCATION:Empower Field at Mile High
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-denver-broncos-vs-carolina-panthers@open-sports-cal
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Denver Broncos @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 9\nDenver Broncos @ Carolina Panthers\nBank of America Stadium
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-las-vegas-raiders-vs-denver-broncos@open-sports-cal
+DTSTART:20261122T212500Z
+DTEND:20261123T002500Z
+SUMMARY:Las Vegas Raiders @ Denver Broncos
+DESCRIPTION:NFL 2026 — Week 11\nLas Vegas Raiders @ Denver Broncos\nEmpower Field at Mile High
+LOCATION:Empower Field at Mile High
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-27-denver-broncos-vs-pittsburgh-steelers@open-sports-cal
+DTSTART:20261127T200000Z
+DTEND:20261127T230000Z
+SUMMARY:Denver Broncos @ Pittsburgh Steelers
+DESCRIPTION:NFL 2026 — Week 12\nDenver Broncos @ Pittsburgh Steelers\nAcrisure Stadium
+LOCATION:Acrisure Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-miami-dolphins-vs-denver-broncos@open-sports-cal
+DTSTART:20261206T210500Z
+DTEND:20261207T000500Z
+SUMMARY:Miami Dolphins @ Denver Broncos
+DESCRIPTION:NFL 2026 — Week 13\nMiami Dolphins @ Denver Broncos\nEmpower Field at Mile High
+LOCATION:Empower Field at Mile High
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-denver-broncos-vs-new-york-jets@open-sports-cal
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Denver Broncos @ New York Jets
+DESCRIPTION:NFL 2026 — Week 14\nDenver Broncos @ New York Jets\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-denver-broncos-vs-las-vegas-raiders@open-sports-cal
+DTSTART:20261220T212500Z
+DTEND:20261221T002500Z
+SUMMARY:Denver Broncos @ Las Vegas Raiders
+DESCRIPTION:NFL 2026 — Week 15\nDenver Broncos @ Las Vegas Raiders\nAllegiant Stadium
+LOCATION:Allegiant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-25-buffalo-bills-vs-denver-broncos@open-sports-cal
+DTSTART:20261225T213000Z
+DTEND:20261226T003000Z
+SUMMARY:Buffalo Bills @ Denver Broncos
+DESCRIPTION:NFL 2026 — Week 16\nBuffalo Bills @ Denver Broncos\nEmpower Field at Mile High
+LOCATION:Empower Field at Mile High
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-denver-broncos-vs-new-england-patriots@open-sports-cal
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Denver Broncos @ New England Patriots
+DESCRIPTION:NFL 2026 — Week 17\nDenver Broncos @ New England Patriots\nGillette Stadium\nKickoff time TBD
+LOCATION:Gillette Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-los-angeles-chargers-vs-denver-broncos@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Los Angeles Chargers @ Denver Broncos
+DESCRIPTION:NFL 2026 — Week 18\nLos Angeles Chargers @ Denver Broncos\nEmpower Field at Mile High\nKickoff time TBD
+LOCATION:Empower Field at Mile High
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

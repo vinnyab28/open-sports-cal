@@ -19,12 +19,18 @@ def fmt_utc(dt: datetime) -> str:
     return dt.strftime("%Y%m%dT%H%M%SZ")
 
 
-def make_vevent(uid, summary, dtstart, dtend, location, description, categories, tz=""):
+def make_vevent(uid, summary, dtstart, dtend, location, description, categories, tz="", all_day=False):
+    if all_day:
+        start_line = f"DTSTART;VALUE=DATE:{dtstart}"
+        end_line = f"DTEND;VALUE=DATE:{dtend}"
+    else:
+        start_line = f"DTSTART:{dtstart}"
+        end_line = f"DTEND:{dtend}"
     lines = [
         "BEGIN:VEVENT",
         f"UID:{uid}",
-        f"DTSTART:{dtstart}",
-        f"DTEND:{dtend}",
+        start_line,
+        end_line,
         f"SUMMARY:{summary}",
         f"DESCRIPTION:{description}",
         f"LOCATION:{location}",

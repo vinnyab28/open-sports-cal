@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Buffalo Bills
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-buffalo-bills-vs-houston-texans@open-sports-cal
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Buffalo Bills @ Houston Texans
+DESCRIPTION:NFL 2026 — Week 1\nBuffalo Bills @ Houston Texans\nReliant Stadium
+LOCATION:Reliant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-17-detroit-lions-vs-buffalo-bills@open-sports-cal
+DTSTART:20260918T001500Z
+DTEND:20260918T031500Z
+SUMMARY:Detroit Lions @ Buffalo Bills
+DESCRIPTION:NFL 2026 — Week 2\nDetroit Lions @ Buffalo Bills\nHighmark Stadium
+LOCATION:Highmark Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-los-angeles-chargers-vs-buffalo-bills@open-sports-cal
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Los Angeles Chargers @ Buffalo Bills
+DESCRIPTION:NFL 2026 — Week 3\nLos Angeles Chargers @ Buffalo Bills\nHighmark Stadium
+LOCATION:Highmark Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-new-england-patriots-vs-buffalo-bills@open-sports-cal
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:New England Patriots @ Buffalo Bills
+DESCRIPTION:NFL 2026 — Week 4\nNew England Patriots @ Buffalo Bills\nHighmark Stadium
+LOCATION:Highmark Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-12-buffalo-bills-vs-los-angeles-rams@open-sports-cal
+DTSTART:20261013T001500Z
+DTEND:20261013T031500Z
+SUMMARY:Buffalo Bills @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 5\nBuffalo Bills @ Los Angeles Rams\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-buffalo-bills-vs-las-vegas-raiders@open-sports-cal
+DTSTART:20261018T202500Z
+DTEND:20261018T232500Z
+SUMMARY:Buffalo Bills @ Las Vegas Raiders
+DESCRIPTION:NFL 2026 — Week 6\nBuffalo Bills @ Las Vegas Raiders\nAllegiant Stadium
+LOCATION:Allegiant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-baltimore-ravens-vs-buffalo-bills@open-sports-cal
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Baltimore Ravens @ Buffalo Bills
+DESCRIPTION:NFL 2026 — Week 8\nBaltimore Ravens @ Buffalo Bills\nHighmark Stadium
+LOCATION:Highmark Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-09-buffalo-bills-vs-minnesota-vikings@open-sports-cal
+DTSTART:20261110T011500Z
+DTEND:20261110T041500Z
+SUMMARY:Buffalo Bills @ Minnesota Vikings
+DESCRIPTION:NFL 2026 — Week 9\nBuffalo Bills @ Minnesota Vikings\nU.S. Bank Stadium
+LOCATION:U.S. Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-buffalo-bills-vs-new-york-jets@open-sports-cal
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Buffalo Bills @ New York Jets
+DESCRIPTION:NFL 2026 — Week 10\nBuffalo Bills @ New York Jets\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-miami-dolphins-vs-buffalo-bills@open-sports-cal
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Miami Dolphins @ Buffalo Bills
+DESCRIPTION:NFL 2026 — Week 11\nMiami Dolphins @ Buffalo Bills\nHighmark Stadium
+LOCATION:Highmark Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-26-kansas-city-chiefs-vs-buffalo-bills@open-sports-cal
+DTSTART:20261127T012000Z
+DTEND:20261127T042000Z
+SUMMARY:Kansas City Chiefs @ Buffalo Bills
+DESCRIPTION:NFL 2026 — Week 12\nKansas City Chiefs @ Buffalo Bills\nHighmark Stadium
+LOCATION:Highmark Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-buffalo-bills-vs-new-england-patriots@open-sports-cal
+DTSTART:20261206T212500Z
+DTEND:20261207T002500Z
+SUMMARY:Buffalo Bills @ New England Patriots
+DESCRIPTION:NFL 2026 — Week 13\nBuffalo Bills @ New England Patriots\nGillette Stadium
+LOCATION:Gillette Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-buffalo-bills-vs-green-bay-packers@open-sports-cal
+DTSTART:20261214T012000Z
+DTEND:20261214T042000Z
+SUMMARY:Buffalo Bills @ Green Bay Packers
+DESCRIPTION:NFL 2026 — Week 14\nBuffalo Bills @ Green Bay Packers\nLambeau Field
+LOCATION:Lambeau Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-19-chicago-bears-vs-buffalo-bills@open-sports-cal
+DTSTART:20261220T012000Z
+DTEND:20261220T042000Z
+SUMMARY:Chicago Bears @ Buffalo Bills
+DESCRIPTION:NFL 2026 — Week 15\nChicago Bears @ Buffalo Bills\nHighmark Stadium
+LOCATION:Highmark Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-25-buffalo-bills-vs-denver-broncos@open-sports-cal
+DTSTART:20261225T213000Z
+DTEND:20261226T003000Z
+SUMMARY:Buffalo Bills @ Denver Broncos
+DESCRIPTION:NFL 2026 — Week 16\nBuffalo Bills @ Denver Broncos\nEmpower Field at Mile High
+LOCATION:Empower Field at Mile High
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-buffalo-bills-vs-miami-dolphins@open-sports-cal
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Buffalo Bills @ Miami Dolphins
+DESCRIPTION:NFL 2026 — Week 17\nBuffalo Bills @ Miami Dolphins\nHard Rock Stadium
+LOCATION:Hard Rock Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-new-york-jets-vs-buffalo-bills@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:New York Jets @ Buffalo Bills
+DESCRIPTION:NFL 2026 — Week 18\nNew York Jets @ Buffalo Bills\nHighmark Stadium\nKickoff time TBD
+LOCATION:Highmark Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

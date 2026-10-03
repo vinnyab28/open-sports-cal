@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Arizona Cardinals
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-arizona-cardinals-vs-los-angeles-chargers@open-sports-cal
+DTSTART:20260913T202500Z
+DTEND:20260913T232500Z
+SUMMARY:Arizona Cardinals @ Los Angeles Chargers
+DESCRIPTION:NFL 2026 — Week 1\nArizona Cardinals @ Los Angeles Chargers\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-seattle-seahawks-vs-arizona-cardinals@open-sports-cal
+DTSTART:20260920T202500Z
+DTEND:20260920T232500Z
+SUMMARY:Seattle Seahawks @ Arizona Cardinals
+DESCRIPTION:NFL 2026 — Week 2\nSeattle Seahawks @ Arizona Cardinals\nState Farm Stadium
+LOCATION:State Farm Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-arizona-cardinals-vs-san-francisco-49ers@open-sports-cal
+DTSTART:20260927T200500Z
+DTEND:20260927T230500Z
+SUMMARY:Arizona Cardinals @ San Francisco 49ers
+DESCRIPTION:NFL 2026 — Week 3\nArizona Cardinals @ San Francisco 49ers\nLevi's Stadium
+LOCATION:Levi's Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-arizona-cardinals-vs-new-york-giants@open-sports-cal
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Arizona Cardinals @ New York Giants
+DESCRIPTION:NFL 2026 — Week 4\nArizona Cardinals @ New York Giants\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-detroit-lions-vs-arizona-cardinals@open-sports-cal
+DTSTART:20261011T202500Z
+DTEND:20261011T232500Z
+SUMMARY:Detroit Lions @ Arizona Cardinals
+DESCRIPTION:NFL 2026 — Week 5\nDetroit Lions @ Arizona Cardinals\nState Farm Stadium
+LOCATION:State Farm Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-arizona-cardinals-vs-los-angeles-rams@open-sports-cal
+DTSTART:20261018T200500Z
+DTEND:20261018T230500Z
+SUMMARY:Arizona Cardinals @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 6\nArizona Cardinals @ Los Angeles Rams\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-denver-broncos-vs-arizona-cardinals@open-sports-cal
+DTSTART:20261025T200500Z
+DTEND:20261025T230500Z
+SUMMARY:Denver Broncos @ Arizona Cardinals
+DESCRIPTION:NFL 2026 — Week 7\nDenver Broncos @ Arizona Cardinals\nState Farm Stadium
+LOCATION:State Farm Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-arizona-cardinals-vs-dallas-cowboys@open-sports-cal
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Arizona Cardinals @ Dallas Cowboys
+DESCRIPTION:NFL 2026 — Week 8\nArizona Cardinals @ Dallas Cowboys\nAT&T Stadium
+LOCATION:AT&T Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-arizona-cardinals-vs-seattle-seahawks@open-sports-cal
+DTSTART:20261108T212500Z
+DTEND:20261109T002500Z
+SUMMARY:Arizona Cardinals @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 9\nArizona Cardinals @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-los-angeles-rams-vs-arizona-cardinals@open-sports-cal
+DTSTART:20261115T210500Z
+DTEND:20261116T000500Z
+SUMMARY:Los Angeles Rams @ Arizona Cardinals
+DESCRIPTION:NFL 2026 — Week 10\nLos Angeles Rams @ Arizona Cardinals\nState Farm Stadium
+LOCATION:State Farm Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-arizona-cardinals-vs-kansas-city-chiefs@open-sports-cal
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Arizona Cardinals @ Kansas City Chiefs
+DESCRIPTION:NFL 2026 — Week 11\nArizona Cardinals @ Kansas City Chiefs\nArrowhead Stadium
+LOCATION:Arrowhead Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-29-washington-commanders-vs-arizona-cardinals@open-sports-cal
+DTSTART:20261129T212500Z
+DTEND:20261130T002500Z
+SUMMARY:Washington Commanders @ Arizona Cardinals
+DESCRIPTION:NFL 2026 — Week 12\nWashington Commanders @ Arizona Cardinals\nState Farm Stadium
+LOCATION:State Farm Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-philadelphia-eagles-vs-arizona-cardinals@open-sports-cal
+DTSTART:20261206T210500Z
+DTEND:20261207T000500Z
+SUMMARY:Philadelphia Eagles @ Arizona Cardinals
+DESCRIPTION:NFL 2026 — Week 13\nPhiladelphia Eagles @ Arizona Cardinals\nState Farm Stadium
+LOCATION:State Farm Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-new-york-jets-vs-arizona-cardinals@open-sports-cal
+DTSTART:20261220T210500Z
+DTEND:20261221T000500Z
+SUMMARY:New York Jets @ Arizona Cardinals
+DESCRIPTION:NFL 2026 — Week 15\nNew York Jets @ Arizona Cardinals\nState Farm Stadium
+LOCATION:State Farm Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-arizona-cardinals-vs-new-orleans-saints@open-sports-cal
+DTSTART:20261227T180000Z
+DTEND:20261227T210000Z
+SUMMARY:Arizona Cardinals @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 16\nArizona Cardinals @ New Orleans Saints\nCaesars Superdome
+LOCATION:Caesars Superdome
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-las-vegas-raiders-vs-arizona-cardinals@open-sports-cal
+DTSTART:20270103T210500Z
+DTEND:20270104T000500Z
+SUMMARY:Las Vegas Raiders @ Arizona Cardinals
+DESCRIPTION:NFL 2026 — Week 17\nLas Vegas Raiders @ Arizona Cardinals\nState Farm Stadium
+LOCATION:State Farm Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-san-francisco-49ers-vs-arizona-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:San Francisco 49ers @ Arizona Cardinals
+DESCRIPTION:NFL 2026 — Week 18\nSan Francisco 49ers @ Arizona Cardinals\nState Farm Stadium\nKickoff time TBD
+LOCATION:State Farm Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

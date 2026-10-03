@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Tennessee Titans
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-new-york-jets-vs-tennessee-titans@open-sports-cal
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:New York Jets @ Tennessee Titans
+DESCRIPTION:NFL 2026 — Week 1\nNew York Jets @ Tennessee Titans\nNissan Stadium
+LOCATION:Nissan Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-philadelphia-eagles-vs-tennessee-titans@open-sports-cal
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Philadelphia Eagles @ Tennessee Titans
+DESCRIPTION:NFL 2026 — Week 2\nPhiladelphia Eagles @ Tennessee Titans\nNissan Stadium
+LOCATION:Nissan Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-tennessee-titans-vs-new-york-giants@open-sports-cal
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Tennessee Titans @ New York Giants
+DESCRIPTION:NFL 2026 — Week 3\nTennessee Titans @ New York Giants\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-tennessee-titans-vs-baltimore-ravens@open-sports-cal
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Tennessee Titans @ Baltimore Ravens
+DESCRIPTION:NFL 2026 — Week 4\nTennessee Titans @ Baltimore Ravens\nM&T Bank Stadium
+LOCATION:M&T Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-houston-texans-vs-tennessee-titans@open-sports-cal
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Houston Texans @ Tennessee Titans
+DESCRIPTION:NFL 2026 — Week 5\nHouston Texans @ Tennessee Titans\nNissan Stadium
+LOCATION:Nissan Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-tennessee-titans-vs-indianapolis-colts@open-sports-cal
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:Tennessee Titans @ Indianapolis Colts
+DESCRIPTION:NFL 2026 — Week 6\nTennessee Titans @ Indianapolis Colts\nLucas Oil Stadium
+LOCATION:Lucas Oil Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-cleveland-browns-vs-tennessee-titans@open-sports-cal
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:Cleveland Browns @ Tennessee Titans
+DESCRIPTION:NFL 2026 — Week 7\nCleveland Browns @ Tennessee Titans\nNissan Stadium
+LOCATION:Nissan Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-tennessee-titans-vs-cincinnati-bengals@open-sports-cal
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Tennessee Titans @ Cincinnati Bengals
+DESCRIPTION:NFL 2026 — Week 8\nTennessee Titans @ Cincinnati Bengals\nPaycor Stadium
+LOCATION:Paycor Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-jacksonville-jaguars-vs-tennessee-titans@open-sports-cal
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Jacksonville Jaguars @ Tennessee Titans
+DESCRIPTION:NFL 2026 — Week 10\nJacksonville Jaguars @ Tennessee Titans\nNissan Stadium
+LOCATION:Nissan Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-tennessee-titans-vs-dallas-cowboys@open-sports-cal
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Tennessee Titans @ Dallas Cowboys
+DESCRIPTION:NFL 2026 — Week 11\nTennessee Titans @ Dallas Cowboys\nAT&T Stadium
+LOCATION:AT&T Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-29-tennessee-titans-vs-jacksonville-jaguars@open-sports-cal
+DTSTART:20261129T210500Z
+DTEND:20261130T000500Z
+SUMMARY:Tennessee Titans @ Jacksonville Jaguars
+DESCRIPTION:NFL 2026 — Week 12\nTennessee Titans @ Jacksonville Jaguars\nEverBank Stadium
+LOCATION:EverBank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-washington-commanders-vs-tennessee-titans@open-sports-cal
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Washington Commanders @ Tennessee Titans
+DESCRIPTION:NFL 2026 — Week 13\nWashington Commanders @ Tennessee Titans\nNissan Stadium
+LOCATION:Nissan Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-tennessee-titans-vs-detroit-lions@open-sports-cal
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Tennessee Titans @ Detroit Lions
+DESCRIPTION:NFL 2026 — Week 14\nTennessee Titans @ Detroit Lions\nFord Field
+LOCATION:Ford Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-indianapolis-colts-vs-tennessee-titans@open-sports-cal
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Indianapolis Colts @ Tennessee Titans
+DESCRIPTION:NFL 2026 — Week 15\nIndianapolis Colts @ Tennessee Titans\nNissan Stadium
+LOCATION:Nissan Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-tennessee-titans-vs-las-vegas-raiders@open-sports-cal
+DTSTART:20261227T210500Z
+DTEND:20261228T000500Z
+SUMMARY:Tennessee Titans @ Las Vegas Raiders
+DESCRIPTION:NFL 2026 — Week 16\nTennessee Titans @ Las Vegas Raiders\nAllegiant Stadium
+LOCATION:Allegiant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-pittsburgh-steelers-vs-tennessee-titans@open-sports-cal
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Pittsburgh Steelers @ Tennessee Titans
+DESCRIPTION:NFL 2026 — Week 17\nPittsburgh Steelers @ Tennessee Titans\nNissan Stadium
+LOCATION:Nissan Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-tennessee-titans-vs-houston-texans@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Tennessee Titans @ Houston Texans
+DESCRIPTION:NFL 2026 — Week 18\nTennessee Titans @ Houston Texans\nReliant Stadium\nKickoff time TBD
+LOCATION:Reliant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

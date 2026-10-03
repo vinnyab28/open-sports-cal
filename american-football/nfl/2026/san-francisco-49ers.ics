@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - San Francisco 49ers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-11-san-francisco-49ers-vs-los-angeles-rams@open-sports-cal
+DTSTART:20260911T003500Z
+DTEND:20260911T033500Z
+SUMMARY:San Francisco 49ers @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 1\nSan Francisco 49ers @ Los Angeles Rams\nMelbourne Cricket Ground
+LOCATION:Melbourne Cricket Ground
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:Australia/Melbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-miami-dolphins-vs-san-francisco-49ers@open-sports-cal
+DTSTART:20260920T202500Z
+DTEND:20260920T232500Z
+SUMMARY:Miami Dolphins @ San Francisco 49ers
+DESCRIPTION:NFL 2026 — Week 2\nMiami Dolphins @ San Francisco 49ers\nLevi's Stadium
+LOCATION:Levi's Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-arizona-cardinals-vs-san-francisco-49ers@open-sports-cal
+DTSTART:20260927T200500Z
+DTEND:20260927T230500Z
+SUMMARY:Arizona Cardinals @ San Francisco 49ers
+DESCRIPTION:NFL 2026 — Week 3\nArizona Cardinals @ San Francisco 49ers\nLevi's Stadium
+LOCATION:Levi's Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-denver-broncos-vs-san-francisco-49ers@open-sports-cal
+DTSTART:20261004T202500Z
+DTEND:20261004T232500Z
+SUMMARY:Denver Broncos @ San Francisco 49ers
+DESCRIPTION:NFL 2026 — Week 4\nDenver Broncos @ San Francisco 49ers\nLevi's Stadium
+LOCATION:Levi's Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-san-francisco-49ers-vs-seattle-seahawks@open-sports-cal
+DTSTART:20261011T202500Z
+DTEND:20261011T232500Z
+SUMMARY:San Francisco 49ers @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 5\nSan Francisco 49ers @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-19-washington-commanders-vs-san-francisco-49ers@open-sports-cal
+DTSTART:20261020T001500Z
+DTEND:20261020T031500Z
+SUMMARY:Washington Commanders @ San Francisco 49ers
+DESCRIPTION:NFL 2026 — Week 6\nWashington Commanders @ San Francisco 49ers\nLevi's Stadium
+LOCATION:Levi's Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-san-francisco-49ers-vs-atlanta-falcons@open-sports-cal
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:San Francisco 49ers @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 7\nSan Francisco 49ers @ Atlanta Falcons\nMercedes-Benz Stadium
+LOCATION:Mercedes-Benz Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-las-vegas-raiders-vs-san-francisco-49ers@open-sports-cal
+DTSTART:20261108T210500Z
+DTEND:20261109T000500Z
+SUMMARY:Las Vegas Raiders @ San Francisco 49ers
+DESCRIPTION:NFL 2026 — Week 9\nLas Vegas Raiders @ San Francisco 49ers\nLevi's Stadium
+LOCATION:Levi's Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-san-francisco-49ers-vs-dallas-cowboys@open-sports-cal
+DTSTART:20261115T212500Z
+DTEND:20261116T002500Z
+SUMMARY:San Francisco 49ers @ Dallas Cowboys
+DESCRIPTION:NFL 2026 — Week 10\nSan Francisco 49ers @ Dallas Cowboys\nAT&T Stadium
+LOCATION:AT&T Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-minnesota-vikings-vs-san-francisco-49ers@open-sports-cal
+DTSTART:20261123T012000Z
+DTEND:20261123T042000Z
+SUMMARY:Minnesota Vikings @ San Francisco 49ers
+DESCRIPTION:NFL 2026 — Week 11\nMinnesota Vikings @ San Francisco 49ers\nEstadio Banorte
+LOCATION:Estadio Banorte
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Mexico_City
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-29-seattle-seahawks-vs-san-francisco-49ers@open-sports-cal
+DTSTART:20261129T212500Z
+DTEND:20261130T002500Z
+SUMMARY:Seattle Seahawks @ San Francisco 49ers
+DESCRIPTION:NFL 2026 — Week 12\nSeattle Seahawks @ San Francisco 49ers\nLevi's Stadium
+LOCATION:Levi's Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-san-francisco-49ers-vs-new-york-giants@open-sports-cal
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:San Francisco 49ers @ New York Giants
+DESCRIPTION:NFL 2026 — Week 13\nSan Francisco 49ers @ New York Giants\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-los-angeles-rams-vs-san-francisco-49ers@open-sports-cal
+DTSTART:20261213T212500Z
+DTEND:20261214T002500Z
+SUMMARY:Los Angeles Rams @ San Francisco 49ers
+DESCRIPTION:NFL 2026 — Week 14\nLos Angeles Rams @ San Francisco 49ers\nLevi's Stadium
+LOCATION:Levi's Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-17-san-francisco-49ers-vs-los-angeles-chargers@open-sports-cal
+DTSTART:20261218T011500Z
+DTEND:20261218T041500Z
+SUMMARY:San Francisco 49ers @ Los Angeles Chargers
+DESCRIPTION:NFL 2026 — Week 15\nSan Francisco 49ers @ Los Angeles Chargers\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-san-francisco-49ers-vs-kansas-city-chiefs@open-sports-cal
+DTSTART:20261227T212500Z
+DTEND:20261228T002500Z
+SUMMARY:San Francisco 49ers @ Kansas City Chiefs
+DESCRIPTION:NFL 2026 — Week 16\nSan Francisco 49ers @ Kansas City Chiefs\nArrowhead Stadium
+LOCATION:Arrowhead Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-philadelphia-eagles-vs-san-francisco-49ers@open-sports-cal
+DTSTART:20270104T012000Z
+DTEND:20270104T042000Z
+SUMMARY:Philadelphia Eagles @ San Francisco 49ers
+DESCRIPTION:NFL 2026 — Week 17\nPhiladelphia Eagles @ San Francisco 49ers\nLevi's Stadium
+LOCATION:Levi's Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-san-francisco-49ers-vs-arizona-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:San Francisco 49ers @ Arizona Cardinals
+DESCRIPTION:NFL 2026 — Week 18\nSan Francisco 49ers @ Arizona Cardinals\nState Farm Stadium\nKickoff time TBD
+LOCATION:State Farm Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

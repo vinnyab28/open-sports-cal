@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Los Angeles Chargers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-arizona-cardinals-vs-los-angeles-chargers@open-sports-cal
+DTSTART:20260913T202500Z
+DTEND:20260913T232500Z
+SUMMARY:Arizona Cardinals @ Los Angeles Chargers
+DESCRIPTION:NFL 2026 — Week 1\nArizona Cardinals @ Los Angeles Chargers\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-las-vegas-raiders-vs-los-angeles-chargers@open-sports-cal
+DTSTART:20260920T200500Z
+DTEND:20260920T230500Z
+SUMMARY:Las Vegas Raiders @ Los Angeles Chargers
+DESCRIPTION:NFL 2026 — Week 2\nLas Vegas Raiders @ Los Angeles Chargers\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-los-angeles-chargers-vs-buffalo-bills@open-sports-cal
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Los Angeles Chargers @ Buffalo Bills
+DESCRIPTION:NFL 2026 — Week 3\nLos Angeles Chargers @ Buffalo Bills\nHighmark Stadium
+LOCATION:Highmark Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-los-angeles-chargers-vs-seattle-seahawks@open-sports-cal
+DTSTART:20261004T202500Z
+DTEND:20261004T232500Z
+SUMMARY:Los Angeles Chargers @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 4\nLos Angeles Chargers @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-denver-broncos-vs-los-angeles-chargers@open-sports-cal
+DTSTART:20261011T200500Z
+DTEND:20261011T230500Z
+SUMMARY:Denver Broncos @ Los Angeles Chargers
+DESCRIPTION:NFL 2026 — Week 5\nDenver Broncos @ Los Angeles Chargers\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-los-angeles-chargers-vs-kansas-city-chiefs@open-sports-cal
+DTSTART:20261018T202500Z
+DTEND:20261018T232500Z
+SUMMARY:Los Angeles Chargers @ Kansas City Chiefs
+DESCRIPTION:NFL 2026 — Week 6\nLos Angeles Chargers @ Kansas City Chiefs\nArrowhead Stadium
+LOCATION:Arrowhead Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-los-angeles-chargers-vs-los-angeles-rams@open-sports-cal
+DTSTART:20261101T210500Z
+DTEND:20261102T000500Z
+SUMMARY:Los Angeles Chargers @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 8\nLos Angeles Chargers @ Los Angeles Rams\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-houston-texans-vs-los-angeles-chargers@open-sports-cal
+DTSTART:20261108T210500Z
+DTEND:20261109T000500Z
+SUMMARY:Houston Texans @ Los Angeles Chargers
+DESCRIPTION:NFL 2026 — Week 9\nHouston Texans @ Los Angeles Chargers\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-16-los-angeles-chargers-vs-baltimore-ravens@open-sports-cal
+DTSTART:20261117T011500Z
+DTEND:20261117T041500Z
+SUMMARY:Los Angeles Chargers @ Baltimore Ravens
+DESCRIPTION:NFL 2026 — Week 10\nLos Angeles Chargers @ Baltimore Ravens\nM&T Bank Stadium
+LOCATION:M&T Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-new-york-jets-vs-los-angeles-chargers@open-sports-cal
+DTSTART:20261122T210500Z
+DTEND:20261123T000500Z
+SUMMARY:New York Jets @ Los Angeles Chargers
+DESCRIPTION:NFL 2026 — Week 11\nNew York Jets @ Los Angeles Chargers\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-29-new-england-patriots-vs-los-angeles-chargers@open-sports-cal
+DTSTART:20261130T012000Z
+DTEND:20261130T042000Z
+SUMMARY:New England Patriots @ Los Angeles Chargers
+DESCRIPTION:NFL 2026 — Week 12\nNew England Patriots @ Los Angeles Chargers\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-los-angeles-chargers-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Los Angeles Chargers @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 13\nLos Angeles Chargers @ Tampa Bay Buccaneers\nRaymond James Stadium
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-los-angeles-chargers-vs-las-vegas-raiders@open-sports-cal
+DTSTART:20261213T210500Z
+DTEND:20261214T000500Z
+SUMMARY:Los Angeles Chargers @ Las Vegas Raiders
+DESCRIPTION:NFL 2026 — Week 14\nLos Angeles Chargers @ Las Vegas Raiders\nAllegiant Stadium
+LOCATION:Allegiant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-17-san-francisco-49ers-vs-los-angeles-chargers@open-sports-cal
+DTSTART:20261218T011500Z
+DTEND:20261218T041500Z
+SUMMARY:San Francisco 49ers @ Los Angeles Chargers
+DESCRIPTION:NFL 2026 — Week 15\nSan Francisco 49ers @ Los Angeles Chargers\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-los-angeles-chargers-vs-miami-dolphins@open-sports-cal
+DTSTART:20261227T180000Z
+DTEND:20261227T210000Z
+SUMMARY:Los Angeles Chargers @ Miami Dolphins
+DESCRIPTION:NFL 2026 — Week 16\nLos Angeles Chargers @ Miami Dolphins\nHard Rock Stadium
+LOCATION:Hard Rock Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-kansas-city-chiefs-vs-los-angeles-chargers@open-sports-cal
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Kansas City Chiefs @ Los Angeles Chargers
+DESCRIPTION:NFL 2026 — Week 17\nKansas City Chiefs @ Los Angeles Chargers\nSoFi Stadium\nKickoff time TBD
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-los-angeles-chargers-vs-denver-broncos@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Los Angeles Chargers @ Denver Broncos
+DESCRIPTION:NFL 2026 — Week 18\nLos Angeles Chargers @ Denver Broncos\nEmpower Field at Mile High\nKickoff time TBD
+LOCATION:Empower Field at Mile High
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

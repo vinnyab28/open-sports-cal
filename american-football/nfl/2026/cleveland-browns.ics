@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Cleveland Browns
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-cleveland-browns-vs-jacksonville-jaguars@open-sports-cal
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Cleveland Browns @ Jacksonville Jaguars
+DESCRIPTION:NFL 2026 — Week 1\nCleveland Browns @ Jacksonville Jaguars\nEverBank Stadium
+LOCATION:EverBank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-cleveland-browns-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Cleveland Browns @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 2\nCleveland Browns @ Tampa Bay Buccaneers\nRaymond James Stadium
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-carolina-panthers-vs-cleveland-browns@open-sports-cal
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Carolina Panthers @ Cleveland Browns
+DESCRIPTION:NFL 2026 — Week 3\nCarolina Panthers @ Cleveland Browns\nHuntington Bank Field
+LOCATION:Huntington Bank Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-01-pittsburgh-steelers-vs-cleveland-browns@open-sports-cal
+DTSTART:20261002T001500Z
+DTEND:20261002T031500Z
+SUMMARY:Pittsburgh Steelers @ Cleveland Browns
+DESCRIPTION:NFL 2026 — Week 4\nPittsburgh Steelers @ Cleveland Browns\nHuntington Bank Field
+LOCATION:Huntington Bank Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-cleveland-browns-vs-new-york-jets@open-sports-cal
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Cleveland Browns @ New York Jets
+DESCRIPTION:NFL 2026 — Week 5\nCleveland Browns @ New York Jets\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-baltimore-ravens-vs-cleveland-browns@open-sports-cal
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:Baltimore Ravens @ Cleveland Browns
+DESCRIPTION:NFL 2026 — Week 6\nBaltimore Ravens @ Cleveland Browns\nHuntington Bank Field
+LOCATION:Huntington Bank Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-cleveland-browns-vs-tennessee-titans@open-sports-cal
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:Cleveland Browns @ Tennessee Titans
+DESCRIPTION:NFL 2026 — Week 7\nCleveland Browns @ Tennessee Titans\nNissan Stadium
+LOCATION:Nissan Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-cleveland-browns-vs-pittsburgh-steelers@open-sports-cal
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Cleveland Browns @ Pittsburgh Steelers
+DESCRIPTION:NFL 2026 — Week 8\nCleveland Browns @ Pittsburgh Steelers\nAcrisure Stadium
+LOCATION:Acrisure Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-cleveland-browns-vs-new-orleans-saints@open-sports-cal
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Cleveland Browns @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 9\nCleveland Browns @ New Orleans Saints\nCaesars Superdome
+LOCATION:Caesars Superdome
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-houston-texans-vs-cleveland-browns@open-sports-cal
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Houston Texans @ Cleveland Browns
+DESCRIPTION:NFL 2026 — Week 10\nHouston Texans @ Cleveland Browns\nHuntington Bank Field
+LOCATION:Huntington Bank Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-29-las-vegas-raiders-vs-cleveland-browns@open-sports-cal
+DTSTART:20261129T180000Z
+DTEND:20261129T210000Z
+SUMMARY:Las Vegas Raiders @ Cleveland Browns
+DESCRIPTION:NFL 2026 — Week 12\nLas Vegas Raiders @ Cleveland Browns\nHuntington Bank Field
+LOCATION:Huntington Bank Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-cincinnati-bengals-vs-cleveland-browns@open-sports-cal
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Cincinnati Bengals @ Cleveland Browns
+DESCRIPTION:NFL 2026 — Week 13\nCincinnati Bengals @ Cleveland Browns\nHuntington Bank Field
+LOCATION:Huntington Bank Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-atlanta-falcons-vs-cleveland-browns@open-sports-cal
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Atlanta Falcons @ Cleveland Browns
+DESCRIPTION:NFL 2026 — Week 14\nAtlanta Falcons @ Cleveland Browns\nHuntington Bank Field
+LOCATION:Huntington Bank Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-cleveland-browns-vs-new-york-giants@open-sports-cal
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Cleveland Browns @ New York Giants
+DESCRIPTION:NFL 2026 — Week 15\nCleveland Browns @ New York Giants\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-cleveland-browns-vs-baltimore-ravens@open-sports-cal
+DTSTART:20261227T180000Z
+DTEND:20261227T210000Z
+SUMMARY:Cleveland Browns @ Baltimore Ravens
+DESCRIPTION:NFL 2026 — Week 16\nCleveland Browns @ Baltimore Ravens\nM&T Bank Stadium
+LOCATION:M&T Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-indianapolis-colts-vs-cleveland-browns@open-sports-cal
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Indianapolis Colts @ Cleveland Browns
+DESCRIPTION:NFL 2026 — Week 17\nIndianapolis Colts @ Cleveland Browns\nHuntington Bank Field
+LOCATION:Huntington Bank Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-cleveland-browns-vs-cincinnati-bengals@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Cleveland Browns @ Cincinnati Bengals
+DESCRIPTION:NFL 2026 — Week 18\nCleveland Browns @ Cincinnati Bengals\nPaycor Stadium\nKickoff time TBD
+LOCATION:Paycor Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

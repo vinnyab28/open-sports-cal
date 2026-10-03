@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Cincinnati Bengals
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-tampa-bay-buccaneers-vs-cincinnati-bengals@open-sports-cal
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Tampa Bay Buccaneers @ Cincinnati Bengals
+DESCRIPTION:NFL 2026 — Week 1\nTampa Bay Buccaneers @ Cincinnati Bengals\nPaycor Stadium
+LOCATION:Paycor Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-cincinnati-bengals-vs-houston-texans@open-sports-cal
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Cincinnati Bengals @ Houston Texans
+DESCRIPTION:NFL 2026 — Week 2\nCincinnati Bengals @ Houston Texans\nReliant Stadium
+LOCATION:Reliant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-cincinnati-bengals-vs-pittsburgh-steelers@open-sports-cal
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Cincinnati Bengals @ Pittsburgh Steelers
+DESCRIPTION:NFL 2026 — Week 3\nCincinnati Bengals @ Pittsburgh Steelers\nAcrisure Stadium
+LOCATION:Acrisure Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-jacksonville-jaguars-vs-cincinnati-bengals@open-sports-cal
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Jacksonville Jaguars @ Cincinnati Bengals
+DESCRIPTION:NFL 2026 — Week 4\nJacksonville Jaguars @ Cincinnati Bengals\nPaycor Stadium
+LOCATION:Paycor Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-cincinnati-bengals-vs-miami-dolphins@open-sports-cal
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Cincinnati Bengals @ Miami Dolphins
+DESCRIPTION:NFL 2026 — Week 5\nCincinnati Bengals @ Miami Dolphins\nHard Rock Stadium
+LOCATION:Hard Rock Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-cincinnati-bengals-vs-baltimore-ravens@open-sports-cal
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:Cincinnati Bengals @ Baltimore Ravens
+DESCRIPTION:NFL 2026 — Week 7\nCincinnati Bengals @ Baltimore Ravens\nM&T Bank Stadium
+LOCATION:M&T Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-tennessee-titans-vs-cincinnati-bengals@open-sports-cal
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Tennessee Titans @ Cincinnati Bengals
+DESCRIPTION:NFL 2026 — Week 8\nTennessee Titans @ Cincinnati Bengals\nPaycor Stadium
+LOCATION:Paycor Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-cincinnati-bengals-vs-atlanta-falcons@open-sports-cal
+DTSTART:20261108T143000Z
+DTEND:20261108T173000Z
+SUMMARY:Cincinnati Bengals @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 9\nCincinnati Bengals @ Atlanta Falcons\nSantiago Bernabéu
+LOCATION:Santiago Bernabéu
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:Europe/Madrid
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-pittsburgh-steelers-vs-cincinnati-bengals@open-sports-cal
+DTSTART:20261116T012000Z
+DTEND:20261116T042000Z
+SUMMARY:Pittsburgh Steelers @ Cincinnati Bengals
+DESCRIPTION:NFL 2026 — Week 10\nPittsburgh Steelers @ Cincinnati Bengals\nPaycor Stadium
+LOCATION:Paycor Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-23-cincinnati-bengals-vs-washington-commanders@open-sports-cal
+DTSTART:20261124T011500Z
+DTEND:20261124T041500Z
+SUMMARY:Cincinnati Bengals @ Washington Commanders
+DESCRIPTION:NFL 2026 — Week 11\nCincinnati Bengals @ Washington Commanders\nNorthwest Stadium
+LOCATION:Northwest Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-29-new-orleans-saints-vs-cincinnati-bengals@open-sports-cal
+DTSTART:20261129T180000Z
+DTEND:20261129T210000Z
+SUMMARY:New Orleans Saints @ Cincinnati Bengals
+DESCRIPTION:NFL 2026 — Week 12\nNew Orleans Saints @ Cincinnati Bengals\nPaycor Stadium
+LOCATION:Paycor Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-cincinnati-bengals-vs-cleveland-browns@open-sports-cal
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Cincinnati Bengals @ Cleveland Browns
+DESCRIPTION:NFL 2026 — Week 13\nCincinnati Bengals @ Cleveland Browns\nHuntington Bank Field
+LOCATION:Huntington Bank Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-kansas-city-chiefs-vs-cincinnati-bengals@open-sports-cal
+DTSTART:20261213T212500Z
+DTEND:20261214T002500Z
+SUMMARY:Kansas City Chiefs @ Cincinnati Bengals
+DESCRIPTION:NFL 2026 — Week 14\nKansas City Chiefs @ Cincinnati Bengals\nPaycor Stadium
+LOCATION:Paycor Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-cincinnati-bengals-vs-carolina-panthers@open-sports-cal
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Cincinnati Bengals @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 15\nCincinnati Bengals @ Carolina Panthers\nBank of America Stadium
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-cincinnati-bengals-vs-indianapolis-colts@open-sports-cal
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Cincinnati Bengals @ Indianapolis Colts
+DESCRIPTION:NFL 2026 — Week 16\nCincinnati Bengals @ Indianapolis Colts\nLucas Oil Stadium\nKickoff time TBD
+LOCATION:Lucas Oil Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-31-baltimore-ravens-vs-cincinnati-bengals@open-sports-cal
+DTSTART:20270101T011500Z
+DTEND:20270101T041500Z
+SUMMARY:Baltimore Ravens @ Cincinnati Bengals
+DESCRIPTION:NFL 2026 — Week 17\nBaltimore Ravens @ Cincinnati Bengals\nPaycor Stadium
+LOCATION:Paycor Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-cleveland-browns-vs-cincinnati-bengals@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Cleveland Browns @ Cincinnati Bengals
+DESCRIPTION:NFL 2026 — Week 18\nCleveland Browns @ Cincinnati Bengals\nPaycor Stadium\nKickoff time TBD
+LOCATION:Paycor Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Atlanta Falcons
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-atlanta-falcons-vs-pittsburgh-steelers@open-sports-cal
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Atlanta Falcons @ Pittsburgh Steelers
+DESCRIPTION:NFL 2026 — Week 1\nAtlanta Falcons @ Pittsburgh Steelers\nAcrisure Stadium
+LOCATION:Acrisure Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-carolina-panthers-vs-atlanta-falcons@open-sports-cal
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Carolina Panthers @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 2\nCarolina Panthers @ Atlanta Falcons\nMercedes-Benz Stadium
+LOCATION:Mercedes-Benz Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-24-atlanta-falcons-vs-green-bay-packers@open-sports-cal
+DTSTART:20260925T001500Z
+DTEND:20260925T031500Z
+SUMMARY:Atlanta Falcons @ Green Bay Packers
+DESCRIPTION:NFL 2026 — Week 3\nAtlanta Falcons @ Green Bay Packers\nLambeau Field
+LOCATION:Lambeau Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-05-atlanta-falcons-vs-new-orleans-saints@open-sports-cal
+DTSTART:20261006T001500Z
+DTEND:20261006T031500Z
+SUMMARY:Atlanta Falcons @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 4\nAtlanta Falcons @ New Orleans Saints\nCaesars Superdome
+LOCATION:Caesars Superdome
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-baltimore-ravens-vs-atlanta-falcons@open-sports-cal
+DTSTART:20261012T002000Z
+DTEND:20261012T032000Z
+SUMMARY:Baltimore Ravens @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 5\nBaltimore Ravens @ Atlanta Falcons\nMercedes-Benz Stadium
+LOCATION:Mercedes-Benz Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-chicago-bears-vs-atlanta-falcons@open-sports-cal
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:Chicago Bears @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 6\nChicago Bears @ Atlanta Falcons\nMercedes-Benz Stadium
+LOCATION:Mercedes-Benz Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-san-francisco-49ers-vs-atlanta-falcons@open-sports-cal
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:San Francisco 49ers @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 7\nSan Francisco 49ers @ Atlanta Falcons\nMercedes-Benz Stadium
+LOCATION:Mercedes-Benz Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-atlanta-falcons-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Atlanta Falcons @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 8\nAtlanta Falcons @ Tampa Bay Buccaneers\nRaymond James Stadium
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-cincinnati-bengals-vs-atlanta-falcons@open-sports-cal
+DTSTART:20261108T143000Z
+DTEND:20261108T173000Z
+SUMMARY:Cincinnati Bengals @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 9\nCincinnati Bengals @ Atlanta Falcons\nSantiago Bernabéu
+LOCATION:Santiago Bernabéu
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:Europe/Madrid
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-kansas-city-chiefs-vs-atlanta-falcons@open-sports-cal
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Kansas City Chiefs @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 10\nKansas City Chiefs @ Atlanta Falcons\nMercedes-Benz Stadium
+LOCATION:Mercedes-Benz Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-29-atlanta-falcons-vs-minnesota-vikings@open-sports-cal
+DTSTART:20261129T180000Z
+DTEND:20261129T210000Z
+SUMMARY:Atlanta Falcons @ Minnesota Vikings
+DESCRIPTION:NFL 2026 — Week 12\nAtlanta Falcons @ Minnesota Vikings\nU.S. Bank Stadium
+LOCATION:U.S. Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-detroit-lions-vs-atlanta-falcons@open-sports-cal
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Detroit Lions @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 13\nDetroit Lions @ Atlanta Falcons\nMercedes-Benz Stadium
+LOCATION:Mercedes-Benz Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-atlanta-falcons-vs-cleveland-browns@open-sports-cal
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Atlanta Falcons @ Cleveland Browns
+DESCRIPTION:NFL 2026 — Week 14\nAtlanta Falcons @ Cleveland Browns\nHuntington Bank Field
+LOCATION:Huntington Bank Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-atlanta-falcons-vs-washington-commanders@open-sports-cal
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Atlanta Falcons @ Washington Commanders
+DESCRIPTION:NFL 2026 — Week 15\nAtlanta Falcons @ Washington Commanders\nNorthwest Stadium
+LOCATION:Northwest Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-tampa-bay-buccaneers-vs-atlanta-falcons@open-sports-cal
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Tampa Bay Buccaneers @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 16\nTampa Bay Buccaneers @ Atlanta Falcons\nMercedes-Benz Stadium\nKickoff time TBD
+LOCATION:Mercedes-Benz Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-new-orleans-saints-vs-atlanta-falcons@open-sports-cal
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:New Orleans Saints @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 17\nNew Orleans Saints @ Atlanta Falcons\nMercedes-Benz Stadium
+LOCATION:Mercedes-Benz Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-atlanta-falcons-vs-carolina-panthers@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Atlanta Falcons @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 18\nAtlanta Falcons @ Carolina Panthers\nBank of America Stadium\nKickoff time TBD
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

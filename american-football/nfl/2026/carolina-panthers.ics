@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Carolina Panthers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-chicago-bears-vs-carolina-panthers@open-sports-cal
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Chicago Bears @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 1\nChicago Bears @ Carolina Panthers\nBank of America Stadium
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-carolina-panthers-vs-atlanta-falcons@open-sports-cal
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Carolina Panthers @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 2\nCarolina Panthers @ Atlanta Falcons\nMercedes-Benz Stadium
+LOCATION:Mercedes-Benz Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-carolina-panthers-vs-cleveland-browns@open-sports-cal
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Carolina Panthers @ Cleveland Browns
+DESCRIPTION:NFL 2026 — Week 3\nCarolina Panthers @ Cleveland Browns\nHuntington Bank Field
+LOCATION:Huntington Bank Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-detroit-lions-vs-carolina-panthers@open-sports-cal
+DTSTART:20261005T002000Z
+DTEND:20261005T032000Z
+SUMMARY:Detroit Lions @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 4\nDetroit Lions @ Carolina Panthers\nBank of America Stadium
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-carolina-panthers-vs-philadelphia-eagles@open-sports-cal
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:Carolina Panthers @ Philadelphia Eagles
+DESCRIPTION:NFL 2026 — Week 6\nCarolina Panthers @ Philadelphia Eagles\nLincoln Financial Field
+LOCATION:Lincoln Financial Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-tampa-bay-buccaneers-vs-carolina-panthers@open-sports-cal
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:Tampa Bay Buccaneers @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 7\nTampa Bay Buccaneers @ Carolina Panthers\nBank of America Stadium
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-29-carolina-panthers-vs-green-bay-packers@open-sports-cal
+DTSTART:20261030T001500Z
+DTEND:20261030T031500Z
+SUMMARY:Carolina Panthers @ Green Bay Packers
+DESCRIPTION:NFL 2026 — Week 8\nCarolina Panthers @ Green Bay Packers\nLambeau Field
+LOCATION:Lambeau Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-denver-broncos-vs-carolina-panthers@open-sports-cal
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Denver Broncos @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 9\nDenver Broncos @ Carolina Panthers\nBank of America Stadium
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-carolina-panthers-vs-new-orleans-saints@open-sports-cal
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Carolina Panthers @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 10\nCarolina Panthers @ New Orleans Saints\nCaesars Superdome
+LOCATION:Caesars Superdome
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-baltimore-ravens-vs-carolina-panthers@open-sports-cal
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Baltimore Ravens @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 11\nBaltimore Ravens @ Carolina Panthers\nBank of America Stadium
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-30-carolina-panthers-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART:20261201T011500Z
+DTEND:20261201T041500Z
+SUMMARY:Carolina Panthers @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 12\nCarolina Panthers @ Tampa Bay Buccaneers\nRaymond James Stadium
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-carolina-panthers-vs-minnesota-vikings@open-sports-cal
+DTSTART:20261206T212500Z
+DTEND:20261207T002500Z
+SUMMARY:Carolina Panthers @ Minnesota Vikings
+DESCRIPTION:NFL 2026 — Week 13\nCarolina Panthers @ Minnesota Vikings\nU.S. Bank Stadium
+LOCATION:U.S. Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-new-orleans-saints-vs-carolina-panthers@open-sports-cal
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:New Orleans Saints @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 14\nNew Orleans Saints @ Carolina Panthers\nBank of America Stadium
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-cincinnati-bengals-vs-carolina-panthers@open-sports-cal
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Cincinnati Bengals @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 15\nCincinnati Bengals @ Carolina Panthers\nBank of America Stadium
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-carolina-panthers-vs-pittsburgh-steelers@open-sports-cal
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Carolina Panthers @ Pittsburgh Steelers
+DESCRIPTION:NFL 2026 — Week 16\nCarolina Panthers @ Pittsburgh Steelers\nAcrisure Stadium\nKickoff time TBD
+LOCATION:Acrisure Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-seattle-seahawks-vs-carolina-panthers@open-sports-cal
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Seattle Seahawks @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 17\nSeattle Seahawks @ Carolina Panthers\nBank of America Stadium
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-atlanta-falcons-vs-carolina-panthers@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Atlanta Falcons @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 18\nAtlanta Falcons @ Carolina Panthers\nBank of America Stadium\nKickoff time TBD
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Dallas Cowboys
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-dallas-cowboys-vs-new-york-giants@open-sports-cal
+DTSTART:20260914T002000Z
+DTEND:20260914T032000Z
+SUMMARY:Dallas Cowboys @ New York Giants
+DESCRIPTION:NFL 2026 — Week 1\nDallas Cowboys @ New York Giants\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-washington-commanders-vs-dallas-cowboys@open-sports-cal
+DTSTART:20260920T202500Z
+DTEND:20260920T232500Z
+SUMMARY:Washington Commanders @ Dallas Cowboys
+DESCRIPTION:NFL 2026 — Week 2\nWashington Commanders @ Dallas Cowboys\nAT&T Stadium
+LOCATION:AT&T Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-baltimore-ravens-vs-dallas-cowboys@open-sports-cal
+DTSTART:20260927T202500Z
+DTEND:20260927T232500Z
+SUMMARY:Baltimore Ravens @ Dallas Cowboys
+DESCRIPTION:NFL 2026 — Week 3\nBaltimore Ravens @ Dallas Cowboys\nMaracanã Stadium
+LOCATION:Maracanã Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Sao_Paulo
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-dallas-cowboys-vs-houston-texans@open-sports-cal
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Dallas Cowboys @ Houston Texans
+DESCRIPTION:NFL 2026 — Week 4\nDallas Cowboys @ Houston Texans\nReliant Stadium
+LOCATION:Reliant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-08-tampa-bay-buccaneers-vs-dallas-cowboys@open-sports-cal
+DTSTART:20261009T001500Z
+DTEND:20261009T031500Z
+SUMMARY:Tampa Bay Buccaneers @ Dallas Cowboys
+DESCRIPTION:NFL 2026 — Week 5\nTampa Bay Buccaneers @ Dallas Cowboys\nAT&T Stadium
+LOCATION:AT&T Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-dallas-cowboys-vs-green-bay-packers@open-sports-cal
+DTSTART:20261019T002000Z
+DTEND:20261019T032000Z
+SUMMARY:Dallas Cowboys @ Green Bay Packers
+DESCRIPTION:NFL 2026 — Week 6\nDallas Cowboys @ Green Bay Packers\nLambeau Field
+LOCATION:Lambeau Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-26-dallas-cowboys-vs-philadelphia-eagles@open-sports-cal
+DTSTART:20261027T001500Z
+DTEND:20261027T031500Z
+SUMMARY:Dallas Cowboys @ Philadelphia Eagles
+DESCRIPTION:NFL 2026 — Week 7\nDallas Cowboys @ Philadelphia Eagles\nLincoln Financial Field
+LOCATION:Lincoln Financial Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-arizona-cardinals-vs-dallas-cowboys@open-sports-cal
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Arizona Cardinals @ Dallas Cowboys
+DESCRIPTION:NFL 2026 — Week 8\nArizona Cardinals @ Dallas Cowboys\nAT&T Stadium
+LOCATION:AT&T Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-dallas-cowboys-vs-indianapolis-colts@open-sports-cal
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Dallas Cowboys @ Indianapolis Colts
+DESCRIPTION:NFL 2026 — Week 9\nDallas Cowboys @ Indianapolis Colts\nLucas Oil Stadium
+LOCATION:Lucas Oil Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-san-francisco-49ers-vs-dallas-cowboys@open-sports-cal
+DTSTART:20261115T212500Z
+DTEND:20261116T002500Z
+SUMMARY:San Francisco 49ers @ Dallas Cowboys
+DESCRIPTION:NFL 2026 — Week 10\nSan Francisco 49ers @ Dallas Cowboys\nAT&T Stadium
+LOCATION:AT&T Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-tennessee-titans-vs-dallas-cowboys@open-sports-cal
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Tennessee Titans @ Dallas Cowboys
+DESCRIPTION:NFL 2026 — Week 11\nTennessee Titans @ Dallas Cowboys\nAT&T Stadium
+LOCATION:AT&T Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-26-philadelphia-eagles-vs-dallas-cowboys@open-sports-cal
+DTSTART:20261126T213000Z
+DTEND:20261127T003000Z
+SUMMARY:Philadelphia Eagles @ Dallas Cowboys
+DESCRIPTION:NFL 2026 — Week 12\nPhiladelphia Eagles @ Dallas Cowboys\nAT&T Stadium
+LOCATION:AT&T Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-07-dallas-cowboys-vs-seattle-seahawks@open-sports-cal
+DTSTART:20261208T011500Z
+DTEND:20261208T041500Z
+SUMMARY:Dallas Cowboys @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 13\nDallas Cowboys @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-dallas-cowboys-vs-los-angeles-rams@open-sports-cal
+DTSTART:20261220T212500Z
+DTEND:20261221T002500Z
+SUMMARY:Dallas Cowboys @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 15\nDallas Cowboys @ Los Angeles Rams\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-jacksonville-jaguars-vs-dallas-cowboys@open-sports-cal
+DTSTART:20261228T012000Z
+DTEND:20261228T042000Z
+SUMMARY:Jacksonville Jaguars @ Dallas Cowboys
+DESCRIPTION:NFL 2026 — Week 16\nJacksonville Jaguars @ Dallas Cowboys\nAT&T Stadium
+LOCATION:AT&T Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-new-york-giants-vs-dallas-cowboys@open-sports-cal
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:New York Giants @ Dallas Cowboys
+DESCRIPTION:NFL 2026 — Week 17\nNew York Giants @ Dallas Cowboys\nAT&T Stadium
+LOCATION:AT&T Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-dallas-cowboys-vs-washington-commanders@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Dallas Cowboys @ Washington Commanders
+DESCRIPTION:NFL 2026 — Week 18\nDallas Cowboys @ Washington Commanders\nNorthwest Stadium\nKickoff time TBD
+LOCATION:Northwest Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - New York Giants
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-dallas-cowboys-vs-new-york-giants@open-sports-cal
+DTSTART:20260914T002000Z
+DTEND:20260914T032000Z
+SUMMARY:Dallas Cowboys @ New York Giants
+DESCRIPTION:NFL 2026 — Week 1\nDallas Cowboys @ New York Giants\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-21-new-york-giants-vs-los-angeles-rams@open-sports-cal
+DTSTART:20260922T001500Z
+DTEND:20260922T031500Z
+SUMMARY:New York Giants @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 2\nNew York Giants @ Los Angeles Rams\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-tennessee-titans-vs-new-york-giants@open-sports-cal
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Tennessee Titans @ New York Giants
+DESCRIPTION:NFL 2026 — Week 3\nTennessee Titans @ New York Giants\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-arizona-cardinals-vs-new-york-giants@open-sports-cal
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Arizona Cardinals @ New York Giants
+DESCRIPTION:NFL 2026 — Week 4\nArizona Cardinals @ New York Giants\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-new-york-giants-vs-washington-commanders@open-sports-cal
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:New York Giants @ Washington Commanders
+DESCRIPTION:NFL 2026 — Week 5\nNew York Giants @ Washington Commanders\nNorthwest Stadium
+LOCATION:Northwest Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-new-orleans-saints-vs-new-york-giants@open-sports-cal
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:New Orleans Saints @ New York Giants
+DESCRIPTION:NFL 2026 — Week 6\nNew Orleans Saints @ New York Giants\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-new-york-giants-vs-houston-texans@open-sports-cal
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:New York Giants @ Houston Texans
+DESCRIPTION:NFL 2026 — Week 7\nNew York Giants @ Houston Texans\nReliant Stadium
+LOCATION:Reliant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-new-york-giants-vs-philadelphia-eagles@open-sports-cal
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:New York Giants @ Philadelphia Eagles
+DESCRIPTION:NFL 2026 — Week 9\nNew York Giants @ Philadelphia Eagles\nLincoln Financial Field
+LOCATION:Lincoln Financial Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-12-washington-commanders-vs-new-york-giants@open-sports-cal
+DTSTART:20261113T011500Z
+DTEND:20261113T041500Z
+SUMMARY:Washington Commanders @ New York Giants
+DESCRIPTION:NFL 2026 — Week 10\nWashington Commanders @ New York Giants\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-jacksonville-jaguars-vs-new-york-giants@open-sports-cal
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Jacksonville Jaguars @ New York Giants
+DESCRIPTION:NFL 2026 — Week 11\nJacksonville Jaguars @ New York Giants\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-29-new-york-giants-vs-indianapolis-colts@open-sports-cal
+DTSTART:20261129T180000Z
+DTEND:20261129T210000Z
+SUMMARY:New York Giants @ Indianapolis Colts
+DESCRIPTION:NFL 2026 — Week 12\nNew York Giants @ Indianapolis Colts\nLucas Oil Stadium
+LOCATION:Lucas Oil Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-san-francisco-49ers-vs-new-york-giants@open-sports-cal
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:San Francisco 49ers @ New York Giants
+DESCRIPTION:NFL 2026 — Week 13\nSan Francisco 49ers @ New York Giants\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-new-york-giants-vs-seattle-seahawks@open-sports-cal
+DTSTART:20261213T212500Z
+DTEND:20261214T002500Z
+SUMMARY:New York Giants @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 14\nNew York Giants @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-cleveland-browns-vs-new-york-giants@open-sports-cal
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Cleveland Browns @ New York Giants
+DESCRIPTION:NFL 2026 — Week 15\nCleveland Browns @ New York Giants\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-28-new-york-giants-vs-detroit-lions@open-sports-cal
+DTSTART:20261229T011500Z
+DTEND:20261229T041500Z
+SUMMARY:New York Giants @ Detroit Lions
+DESCRIPTION:NFL 2026 — Week 16\nNew York Giants @ Detroit Lions\nFord Field
+LOCATION:Ford Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-new-york-giants-vs-dallas-cowboys@open-sports-cal
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:New York Giants @ Dallas Cowboys
+DESCRIPTION:NFL 2026 — Week 17\nNew York Giants @ Dallas Cowboys\nAT&T Stadium
+LOCATION:AT&T Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-philadelphia-eagles-vs-new-york-giants@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Philadelphia Eagles @ New York Giants
+DESCRIPTION:NFL 2026 — Week 18\nPhiladelphia Eagles @ New York Giants\nMetLife Stadium\nKickoff time TBD
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Chicago Bears
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-chicago-bears-vs-carolina-panthers@open-sports-cal
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Chicago Bears @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 1\nChicago Bears @ Carolina Panthers\nBank of America Stadium
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-minnesota-vikings-vs-chicago-bears@open-sports-cal
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Minnesota Vikings @ Chicago Bears
+DESCRIPTION:NFL 2026 — Week 2\nMinnesota Vikings @ Chicago Bears\nSoldier Field
+LOCATION:Soldier Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-28-philadelphia-eagles-vs-chicago-bears@open-sports-cal
+DTSTART:20260929T001500Z
+DTEND:20260929T031500Z
+SUMMARY:Philadelphia Eagles @ Chicago Bears
+DESCRIPTION:NFL 2026 — Week 3\nPhiladelphia Eagles @ Chicago Bears\nSoldier Field
+LOCATION:Soldier Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-new-york-jets-vs-chicago-bears@open-sports-cal
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:New York Jets @ Chicago Bears
+DESCRIPTION:NFL 2026 — Week 4\nNew York Jets @ Chicago Bears\nSoldier Field
+LOCATION:Soldier Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-chicago-bears-vs-green-bay-packers@open-sports-cal
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Chicago Bears @ Green Bay Packers
+DESCRIPTION:NFL 2026 — Week 5\nChicago Bears @ Green Bay Packers\nLambeau Field
+LOCATION:Lambeau Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-chicago-bears-vs-atlanta-falcons@open-sports-cal
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:Chicago Bears @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 6\nChicago Bears @ Atlanta Falcons\nMercedes-Benz Stadium
+LOCATION:Mercedes-Benz Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-22-new-england-patriots-vs-chicago-bears@open-sports-cal
+DTSTART:20261023T001500Z
+DTEND:20261023T031500Z
+SUMMARY:New England Patriots @ Chicago Bears
+DESCRIPTION:NFL 2026 — Week 7\nNew England Patriots @ Chicago Bears\nSoldier Field
+LOCATION:Soldier Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-02-chicago-bears-vs-seattle-seahawks@open-sports-cal
+DTSTART:20261103T011500Z
+DTEND:20261103T041500Z
+SUMMARY:Chicago Bears @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 8\nChicago Bears @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-tampa-bay-buccaneers-vs-chicago-bears@open-sports-cal
+DTSTART:20261109T012000Z
+DTEND:20261109T042000Z
+SUMMARY:Tampa Bay Buccaneers @ Chicago Bears
+DESCRIPTION:NFL 2026 — Week 9\nTampa Bay Buccaneers @ Chicago Bears\nSoldier Field
+LOCATION:Soldier Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-new-orleans-saints-vs-chicago-bears@open-sports-cal
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:New Orleans Saints @ Chicago Bears
+DESCRIPTION:NFL 2026 — Week 11\nNew Orleans Saints @ Chicago Bears\nSoldier Field
+LOCATION:Soldier Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-26-chicago-bears-vs-detroit-lions@open-sports-cal
+DTSTART:20261126T180000Z
+DTEND:20261126T210000Z
+SUMMARY:Chicago Bears @ Detroit Lions
+DESCRIPTION:NFL 2026 — Week 12\nChicago Bears @ Detroit Lions\nFord Field
+LOCATION:Ford Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-jacksonville-jaguars-vs-chicago-bears@open-sports-cal
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Jacksonville Jaguars @ Chicago Bears
+DESCRIPTION:NFL 2026 — Week 13\nJacksonville Jaguars @ Chicago Bears\nSoldier Field
+LOCATION:Soldier Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-chicago-bears-vs-miami-dolphins@open-sports-cal
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Chicago Bears @ Miami Dolphins
+DESCRIPTION:NFL 2026 — Week 14\nChicago Bears @ Miami Dolphins\nHard Rock Stadium
+LOCATION:Hard Rock Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-19-chicago-bears-vs-buffalo-bills@open-sports-cal
+DTSTART:20261220T012000Z
+DTEND:20261220T042000Z
+SUMMARY:Chicago Bears @ Buffalo Bills
+DESCRIPTION:NFL 2026 — Week 15\nChicago Bears @ Buffalo Bills\nHighmark Stadium
+LOCATION:Highmark Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-25-green-bay-packers-vs-chicago-bears@open-sports-cal
+DTSTART:20261225T180000Z
+DTEND:20261225T210000Z
+SUMMARY:Green Bay Packers @ Chicago Bears
+DESCRIPTION:NFL 2026 — Week 16\nGreen Bay Packers @ Chicago Bears\nSoldier Field
+LOCATION:Soldier Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-detroit-lions-vs-chicago-bears@open-sports-cal
+DTSTART:20270103T212500Z
+DTEND:20270104T002500Z
+SUMMARY:Detroit Lions @ Chicago Bears
+DESCRIPTION:NFL 2026 — Week 17\nDetroit Lions @ Chicago Bears\nSoldier Field
+LOCATION:Soldier Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-chicago-bears-vs-minnesota-vikings@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Chicago Bears @ Minnesota Vikings
+DESCRIPTION:NFL 2026 — Week 18\nChicago Bears @ Minnesota Vikings\nU.S. Bank Stadium\nKickoff time TBD
+LOCATION:U.S. Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

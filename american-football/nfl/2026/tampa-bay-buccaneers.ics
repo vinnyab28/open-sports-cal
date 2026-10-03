@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Tampa Bay Buccaneers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-tampa-bay-buccaneers-vs-cincinnati-bengals@open-sports-cal
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Tampa Bay Buccaneers @ Cincinnati Bengals
+DESCRIPTION:NFL 2026 — Week 1\nTampa Bay Buccaneers @ Cincinnati Bengals\nPaycor Stadium
+LOCATION:Paycor Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-cleveland-browns-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Cleveland Browns @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 2\nCleveland Browns @ Tampa Bay Buccaneers\nRaymond James Stadium
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-minnesota-vikings-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART:20260927T200500Z
+DTEND:20260927T230500Z
+SUMMARY:Minnesota Vikings @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 3\nMinnesota Vikings @ Tampa Bay Buccaneers\nRaymond James Stadium
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-green-bay-packers-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Green Bay Packers @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 4\nGreen Bay Packers @ Tampa Bay Buccaneers\nRaymond James Stadium
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-08-tampa-bay-buccaneers-vs-dallas-cowboys@open-sports-cal
+DTSTART:20261009T001500Z
+DTEND:20261009T031500Z
+SUMMARY:Tampa Bay Buccaneers @ Dallas Cowboys
+DESCRIPTION:NFL 2026 — Week 5\nTampa Bay Buccaneers @ Dallas Cowboys\nAT&T Stadium
+LOCATION:AT&T Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-pittsburgh-steelers-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:Pittsburgh Steelers @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 6\nPittsburgh Steelers @ Tampa Bay Buccaneers\nRaymond James Stadium
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-tampa-bay-buccaneers-vs-carolina-panthers@open-sports-cal
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:Tampa Bay Buccaneers @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 7\nTampa Bay Buccaneers @ Carolina Panthers\nBank of America Stadium
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-atlanta-falcons-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Atlanta Falcons @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 8\nAtlanta Falcons @ Tampa Bay Buccaneers\nRaymond James Stadium
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-tampa-bay-buccaneers-vs-chicago-bears@open-sports-cal
+DTSTART:20261109T012000Z
+DTEND:20261109T042000Z
+SUMMARY:Tampa Bay Buccaneers @ Chicago Bears
+DESCRIPTION:NFL 2026 — Week 9\nTampa Bay Buccaneers @ Chicago Bears\nSoldier Field
+LOCATION:Soldier Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-tampa-bay-buccaneers-vs-detroit-lions@open-sports-cal
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Tampa Bay Buccaneers @ Detroit Lions
+DESCRIPTION:NFL 2026 — Week 11\nTampa Bay Buccaneers @ Detroit Lions\nFord Field
+LOCATION:Ford Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-30-carolina-panthers-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART:20261201T011500Z
+DTEND:20261201T041500Z
+SUMMARY:Carolina Panthers @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 12\nCarolina Panthers @ Tampa Bay Buccaneers\nRaymond James Stadium
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-los-angeles-chargers-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Los Angeles Chargers @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 13\nLos Angeles Chargers @ Tampa Bay Buccaneers\nRaymond James Stadium
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-tampa-bay-buccaneers-vs-baltimore-ravens@open-sports-cal
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Tampa Bay Buccaneers @ Baltimore Ravens
+DESCRIPTION:NFL 2026 — Week 14\nTampa Bay Buccaneers @ Baltimore Ravens\nM&T Bank Stadium
+LOCATION:M&T Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-new-orleans-saints-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:New Orleans Saints @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 15\nNew Orleans Saints @ Tampa Bay Buccaneers\nRaymond James Stadium
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-tampa-bay-buccaneers-vs-atlanta-falcons@open-sports-cal
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Tampa Bay Buccaneers @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 16\nTampa Bay Buccaneers @ Atlanta Falcons\nMercedes-Benz Stadium\nKickoff time TBD
+LOCATION:Mercedes-Benz Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-los-angeles-rams-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Los Angeles Rams @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 17\nLos Angeles Rams @ Tampa Bay Buccaneers\nRaymond James Stadium\nKickoff time TBD
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-tampa-bay-buccaneers-vs-new-orleans-saints@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Tampa Bay Buccaneers @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 18\nTampa Bay Buccaneers @ New Orleans Saints\nCaesars Superdome\nKickoff time TBD
+LOCATION:Caesars Superdome
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

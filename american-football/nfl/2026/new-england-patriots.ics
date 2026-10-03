@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - New England Patriots
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-09-new-england-patriots-vs-seattle-seahawks@open-sports-cal
+DTSTART:20260910T002000Z
+DTEND:20260910T032000Z
+SUMMARY:New England Patriots @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 1\nNew England Patriots @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-pittsburgh-steelers-vs-new-england-patriots@open-sports-cal
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Pittsburgh Steelers @ New England Patriots
+DESCRIPTION:NFL 2026 — Week 2\nPittsburgh Steelers @ New England Patriots\nGillette Stadium
+LOCATION:Gillette Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-new-england-patriots-vs-jacksonville-jaguars@open-sports-cal
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:New England Patriots @ Jacksonville Jaguars
+DESCRIPTION:NFL 2026 — Week 3\nNew England Patriots @ Jacksonville Jaguars\nEverBank Stadium
+LOCATION:EverBank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-new-england-patriots-vs-buffalo-bills@open-sports-cal
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:New England Patriots @ Buffalo Bills
+DESCRIPTION:NFL 2026 — Week 4\nNew England Patriots @ Buffalo Bills\nHighmark Stadium
+LOCATION:Highmark Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-las-vegas-raiders-vs-new-england-patriots@open-sports-cal
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Las Vegas Raiders @ New England Patriots
+DESCRIPTION:NFL 2026 — Week 5\nLas Vegas Raiders @ New England Patriots\nGillette Stadium
+LOCATION:Gillette Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-new-york-jets-vs-new-england-patriots@open-sports-cal
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:New York Jets @ New England Patriots
+DESCRIPTION:NFL 2026 — Week 6\nNew York Jets @ New England Patriots\nGillette Stadium
+LOCATION:Gillette Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-22-new-england-patriots-vs-chicago-bears@open-sports-cal
+DTSTART:20261023T001500Z
+DTEND:20261023T031500Z
+SUMMARY:New England Patriots @ Chicago Bears
+DESCRIPTION:NFL 2026 — Week 7\nNew England Patriots @ Chicago Bears\nSoldier Field
+LOCATION:Soldier Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-new-england-patriots-vs-miami-dolphins@open-sports-cal
+DTSTART:20261101T212500Z
+DTEND:20261102T002500Z
+SUMMARY:New England Patriots @ Miami Dolphins
+DESCRIPTION:NFL 2026 — Week 8\nNew England Patriots @ Miami Dolphins\nHard Rock Stadium
+LOCATION:Hard Rock Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-green-bay-packers-vs-new-england-patriots@open-sports-cal
+DTSTART:20261108T212500Z
+DTEND:20261109T002500Z
+SUMMARY:Green Bay Packers @ New England Patriots
+DESCRIPTION:NFL 2026 — Week 9\nGreen Bay Packers @ New England Patriots\nGillette Stadium
+LOCATION:Gillette Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-new-england-patriots-vs-detroit-lions@open-sports-cal
+DTSTART:20261115T143000Z
+DTEND:20261115T173000Z
+SUMMARY:New England Patriots @ Detroit Lions
+DESCRIPTION:NFL 2026 — Week 10\nNew England Patriots @ Detroit Lions\nFC Bayern Munich Stadium
+LOCATION:FC Bayern Munich Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:Europe/Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-29-new-england-patriots-vs-los-angeles-chargers@open-sports-cal
+DTSTART:20261130T012000Z
+DTEND:20261130T042000Z
+SUMMARY:New England Patriots @ Los Angeles Chargers
+DESCRIPTION:NFL 2026 — Week 12\nNew England Patriots @ Los Angeles Chargers\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-buffalo-bills-vs-new-england-patriots@open-sports-cal
+DTSTART:20261206T212500Z
+DTEND:20261207T002500Z
+SUMMARY:Buffalo Bills @ New England Patriots
+DESCRIPTION:NFL 2026 — Week 13\nBuffalo Bills @ New England Patriots\nGillette Stadium
+LOCATION:Gillette Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-10-minnesota-vikings-vs-new-england-patriots@open-sports-cal
+DTSTART:20261211T011500Z
+DTEND:20261211T041500Z
+SUMMARY:Minnesota Vikings @ New England Patriots
+DESCRIPTION:NFL 2026 — Week 14\nMinnesota Vikings @ New England Patriots\nGillette Stadium
+LOCATION:Gillette Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-21-new-england-patriots-vs-kansas-city-chiefs@open-sports-cal
+DTSTART:20261222T011500Z
+DTEND:20261222T041500Z
+SUMMARY:New England Patriots @ Kansas City Chiefs
+DESCRIPTION:NFL 2026 — Week 15\nNew England Patriots @ Kansas City Chiefs\nArrowhead Stadium
+LOCATION:Arrowhead Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-new-england-patriots-vs-new-york-jets@open-sports-cal
+DTSTART:20261227T180000Z
+DTEND:20261227T210000Z
+SUMMARY:New England Patriots @ New York Jets
+DESCRIPTION:NFL 2026 — Week 16\nNew England Patriots @ New York Jets\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-denver-broncos-vs-new-england-patriots@open-sports-cal
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Denver Broncos @ New England Patriots
+DESCRIPTION:NFL 2026 — Week 17\nDenver Broncos @ New England Patriots\nGillette Stadium\nKickoff time TBD
+LOCATION:Gillette Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-miami-dolphins-vs-new-england-patriots@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Miami Dolphins @ New England Patriots
+DESCRIPTION:NFL 2026 — Week 18\nMiami Dolphins @ New England Patriots\nGillette Stadium\nKickoff time TBD
+LOCATION:Gillette Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

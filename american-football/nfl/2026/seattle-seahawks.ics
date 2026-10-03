@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Seattle Seahawks
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-09-new-england-patriots-vs-seattle-seahawks@open-sports-cal
+DTSTART:20260910T002000Z
+DTEND:20260910T032000Z
+SUMMARY:New England Patriots @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 1\nNew England Patriots @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-seattle-seahawks-vs-arizona-cardinals@open-sports-cal
+DTSTART:20260920T202500Z
+DTEND:20260920T232500Z
+SUMMARY:Seattle Seahawks @ Arizona Cardinals
+DESCRIPTION:NFL 2026 — Week 2\nSeattle Seahawks @ Arizona Cardinals\nState Farm Stadium
+LOCATION:State Farm Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-seattle-seahawks-vs-washington-commanders@open-sports-cal
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Seattle Seahawks @ Washington Commanders
+DESCRIPTION:NFL 2026 — Week 3\nSeattle Seahawks @ Washington Commanders\nNorthwest Stadium
+LOCATION:Northwest Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-los-angeles-chargers-vs-seattle-seahawks@open-sports-cal
+DTSTART:20261004T202500Z
+DTEND:20261004T232500Z
+SUMMARY:Los Angeles Chargers @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 4\nLos Angeles Chargers @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-san-francisco-49ers-vs-seattle-seahawks@open-sports-cal
+DTSTART:20261011T202500Z
+DTEND:20261011T232500Z
+SUMMARY:San Francisco 49ers @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 5\nSan Francisco 49ers @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-15-seattle-seahawks-vs-denver-broncos@open-sports-cal
+DTSTART:20261016T001500Z
+DTEND:20261016T031500Z
+SUMMARY:Seattle Seahawks @ Denver Broncos
+DESCRIPTION:NFL 2026 — Week 6\nSeattle Seahawks @ Denver Broncos\nEmpower Field at Mile High
+LOCATION:Empower Field at Mile High
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-kansas-city-chiefs-vs-seattle-seahawks@open-sports-cal
+DTSTART:20261026T002000Z
+DTEND:20261026T032000Z
+SUMMARY:Kansas City Chiefs @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 7\nKansas City Chiefs @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-02-chicago-bears-vs-seattle-seahawks@open-sports-cal
+DTSTART:20261103T011500Z
+DTEND:20261103T041500Z
+SUMMARY:Chicago Bears @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 8\nChicago Bears @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-arizona-cardinals-vs-seattle-seahawks@open-sports-cal
+DTSTART:20261108T212500Z
+DTEND:20261109T002500Z
+SUMMARY:Arizona Cardinals @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 9\nArizona Cardinals @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-seattle-seahawks-vs-las-vegas-raiders@open-sports-cal
+DTSTART:20261115T210500Z
+DTEND:20261116T000500Z
+SUMMARY:Seattle Seahawks @ Las Vegas Raiders
+DESCRIPTION:NFL 2026 — Week 10\nSeattle Seahawks @ Las Vegas Raiders\nAllegiant Stadium
+LOCATION:Allegiant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-29-seattle-seahawks-vs-san-francisco-49ers@open-sports-cal
+DTSTART:20261129T212500Z
+DTEND:20261130T002500Z
+SUMMARY:Seattle Seahawks @ San Francisco 49ers
+DESCRIPTION:NFL 2026 — Week 12\nSeattle Seahawks @ San Francisco 49ers\nLevi's Stadium
+LOCATION:Levi's Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-07-dallas-cowboys-vs-seattle-seahawks@open-sports-cal
+DTSTART:20261208T011500Z
+DTEND:20261208T041500Z
+SUMMARY:Dallas Cowboys @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 13\nDallas Cowboys @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-new-york-giants-vs-seattle-seahawks@open-sports-cal
+DTSTART:20261213T212500Z
+DTEND:20261214T002500Z
+SUMMARY:New York Giants @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 14\nNew York Giants @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-19-seattle-seahawks-vs-philadelphia-eagles@open-sports-cal
+DTSTART:20261219T220000Z
+DTEND:20261220T010000Z
+SUMMARY:Seattle Seahawks @ Philadelphia Eagles
+DESCRIPTION:NFL 2026 — Week 15\nSeattle Seahawks @ Philadelphia Eagles\nLincoln Financial Field
+LOCATION:Lincoln Financial Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-25-los-angeles-rams-vs-seattle-seahawks@open-sports-cal
+DTSTART:20261226T011500Z
+DTEND:20261226T041500Z
+SUMMARY:Los Angeles Rams @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 16\nLos Angeles Rams @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-seattle-seahawks-vs-carolina-panthers@open-sports-cal
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Seattle Seahawks @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 17\nSeattle Seahawks @ Carolina Panthers\nBank of America Stadium
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-seattle-seahawks-vs-los-angeles-rams@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Seattle Seahawks @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 18\nSeattle Seahawks @ Los Angeles Rams\nSoFi Stadium\nKickoff time TBD
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

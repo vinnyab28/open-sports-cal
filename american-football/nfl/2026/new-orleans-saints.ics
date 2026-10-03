@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - New Orleans Saints
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-new-orleans-saints-vs-detroit-lions@open-sports-cal
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:New Orleans Saints @ Detroit Lions
+DESCRIPTION:NFL 2026 — Week 1\nNew Orleans Saints @ Detroit Lions\nFord Field
+LOCATION:Ford Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-new-orleans-saints-vs-baltimore-ravens@open-sports-cal
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:New Orleans Saints @ Baltimore Ravens
+DESCRIPTION:NFL 2026 — Week 2\nNew Orleans Saints @ Baltimore Ravens\nM&T Bank Stadium
+LOCATION:M&T Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-las-vegas-raiders-vs-new-orleans-saints@open-sports-cal
+DTSTART:20260927T202500Z
+DTEND:20260927T232500Z
+SUMMARY:Las Vegas Raiders @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 3\nLas Vegas Raiders @ New Orleans Saints\nCaesars Superdome
+LOCATION:Caesars Superdome
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-05-atlanta-falcons-vs-new-orleans-saints@open-sports-cal
+DTSTART:20261006T001500Z
+DTEND:20261006T031500Z
+SUMMARY:Atlanta Falcons @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 4\nAtlanta Falcons @ New Orleans Saints\nCaesars Superdome
+LOCATION:Caesars Superdome
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-minnesota-vikings-vs-new-orleans-saints@open-sports-cal
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Minnesota Vikings @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 5\nMinnesota Vikings @ New Orleans Saints\nCaesars Superdome
+LOCATION:Caesars Superdome
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-new-orleans-saints-vs-new-york-giants@open-sports-cal
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:New Orleans Saints @ New York Giants
+DESCRIPTION:NFL 2026 — Week 6\nNew Orleans Saints @ New York Giants\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-pittsburgh-steelers-vs-new-orleans-saints@open-sports-cal
+DTSTART:20261025T133000Z
+DTEND:20261025T163000Z
+SUMMARY:Pittsburgh Steelers @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 7\nPittsburgh Steelers @ New Orleans Saints\nStade de France
+LOCATION:Stade de France
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-cleveland-browns-vs-new-orleans-saints@open-sports-cal
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Cleveland Browns @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 9\nCleveland Browns @ New Orleans Saints\nCaesars Superdome
+LOCATION:Caesars Superdome
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-carolina-panthers-vs-new-orleans-saints@open-sports-cal
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Carolina Panthers @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 10\nCarolina Panthers @ New Orleans Saints\nCaesars Superdome
+LOCATION:Caesars Superdome
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-new-orleans-saints-vs-chicago-bears@open-sports-cal
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:New Orleans Saints @ Chicago Bears
+DESCRIPTION:NFL 2026 — Week 11\nNew Orleans Saints @ Chicago Bears\nSoldier Field
+LOCATION:Soldier Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-29-new-orleans-saints-vs-cincinnati-bengals@open-sports-cal
+DTSTART:20261129T180000Z
+DTEND:20261129T210000Z
+SUMMARY:New Orleans Saints @ Cincinnati Bengals
+DESCRIPTION:NFL 2026 — Week 12\nNew Orleans Saints @ Cincinnati Bengals\nPaycor Stadium
+LOCATION:Paycor Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-green-bay-packers-vs-new-orleans-saints@open-sports-cal
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Green Bay Packers @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 13\nGreen Bay Packers @ New Orleans Saints\nCaesars Superdome
+LOCATION:Caesars Superdome
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-new-orleans-saints-vs-carolina-panthers@open-sports-cal
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:New Orleans Saints @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 14\nNew Orleans Saints @ Carolina Panthers\nBank of America Stadium
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-new-orleans-saints-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:New Orleans Saints @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 15\nNew Orleans Saints @ Tampa Bay Buccaneers\nRaymond James Stadium
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-arizona-cardinals-vs-new-orleans-saints@open-sports-cal
+DTSTART:20261227T180000Z
+DTEND:20261227T210000Z
+SUMMARY:Arizona Cardinals @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 16\nArizona Cardinals @ New Orleans Saints\nCaesars Superdome
+LOCATION:Caesars Superdome
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-new-orleans-saints-vs-atlanta-falcons@open-sports-cal
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:New Orleans Saints @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 17\nNew Orleans Saints @ Atlanta Falcons\nMercedes-Benz Stadium
+LOCATION:Mercedes-Benz Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-tampa-bay-buccaneers-vs-new-orleans-saints@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Tampa Bay Buccaneers @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 18\nTampa Bay Buccaneers @ New Orleans Saints\nCaesars Superdome\nKickoff time TBD
+LOCATION:Caesars Superdome
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

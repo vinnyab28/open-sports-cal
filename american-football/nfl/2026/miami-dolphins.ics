@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Miami Dolphins
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-miami-dolphins-vs-las-vegas-raiders@open-sports-cal
+DTSTART:20260913T202500Z
+DTEND:20260913T232500Z
+SUMMARY:Miami Dolphins @ Las Vegas Raiders
+DESCRIPTION:NFL 2026 — Week 1\nMiami Dolphins @ Las Vegas Raiders\nAllegiant Stadium
+LOCATION:Allegiant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-miami-dolphins-vs-san-francisco-49ers@open-sports-cal
+DTSTART:20260920T202500Z
+DTEND:20260920T232500Z
+SUMMARY:Miami Dolphins @ San Francisco 49ers
+DESCRIPTION:NFL 2026 — Week 2\nMiami Dolphins @ San Francisco 49ers\nLevi's Stadium
+LOCATION:Levi's Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-kansas-city-chiefs-vs-miami-dolphins@open-sports-cal
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Kansas City Chiefs @ Miami Dolphins
+DESCRIPTION:NFL 2026 — Week 3\nKansas City Chiefs @ Miami Dolphins\nHard Rock Stadium
+LOCATION:Hard Rock Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-miami-dolphins-vs-minnesota-vikings@open-sports-cal
+DTSTART:20261004T200500Z
+DTEND:20261004T230500Z
+SUMMARY:Miami Dolphins @ Minnesota Vikings
+DESCRIPTION:NFL 2026 — Week 4\nMiami Dolphins @ Minnesota Vikings\nU.S. Bank Stadium
+LOCATION:U.S. Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-cincinnati-bengals-vs-miami-dolphins@open-sports-cal
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Cincinnati Bengals @ Miami Dolphins
+DESCRIPTION:NFL 2026 — Week 5\nCincinnati Bengals @ Miami Dolphins\nHard Rock Stadium
+LOCATION:Hard Rock Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-miami-dolphins-vs-new-york-jets@open-sports-cal
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:Miami Dolphins @ New York Jets
+DESCRIPTION:NFL 2026 — Week 7\nMiami Dolphins @ New York Jets\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-new-england-patriots-vs-miami-dolphins@open-sports-cal
+DTSTART:20261101T212500Z
+DTEND:20261102T002500Z
+SUMMARY:New England Patriots @ Miami Dolphins
+DESCRIPTION:NFL 2026 — Week 8\nNew England Patriots @ Miami Dolphins\nHard Rock Stadium
+LOCATION:Hard Rock Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-detroit-lions-vs-miami-dolphins@open-sports-cal
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Detroit Lions @ Miami Dolphins
+DESCRIPTION:NFL 2026 — Week 9\nDetroit Lions @ Miami Dolphins\nHard Rock Stadium
+LOCATION:Hard Rock Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-miami-dolphins-vs-indianapolis-colts@open-sports-cal
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Miami Dolphins @ Indianapolis Colts
+DESCRIPTION:NFL 2026 — Week 10\nMiami Dolphins @ Indianapolis Colts\nLucas Oil Stadium
+LOCATION:Lucas Oil Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-miami-dolphins-vs-buffalo-bills@open-sports-cal
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Miami Dolphins @ Buffalo Bills
+DESCRIPTION:NFL 2026 — Week 11\nMiami Dolphins @ Buffalo Bills\nHighmark Stadium
+LOCATION:Highmark Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-29-new-york-jets-vs-miami-dolphins@open-sports-cal
+DTSTART:20261129T180000Z
+DTEND:20261129T210000Z
+SUMMARY:New York Jets @ Miami Dolphins
+DESCRIPTION:NFL 2026 — Week 12\nNew York Jets @ Miami Dolphins\nHard Rock Stadium
+LOCATION:Hard Rock Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-miami-dolphins-vs-denver-broncos@open-sports-cal
+DTSTART:20261206T210500Z
+DTEND:20261207T000500Z
+SUMMARY:Miami Dolphins @ Denver Broncos
+DESCRIPTION:NFL 2026 — Week 13\nMiami Dolphins @ Denver Broncos\nEmpower Field at Mile High
+LOCATION:Empower Field at Mile High
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-chicago-bears-vs-miami-dolphins@open-sports-cal
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Chicago Bears @ Miami Dolphins
+DESCRIPTION:NFL 2026 — Week 14\nChicago Bears @ Miami Dolphins\nHard Rock Stadium
+LOCATION:Hard Rock Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-miami-dolphins-vs-green-bay-packers@open-sports-cal
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Miami Dolphins @ Green Bay Packers
+DESCRIPTION:NFL 2026 — Week 15\nMiami Dolphins @ Green Bay Packers\nLambeau Field
+LOCATION:Lambeau Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-los-angeles-chargers-vs-miami-dolphins@open-sports-cal
+DTSTART:20261227T180000Z
+DTEND:20261227T210000Z
+SUMMARY:Los Angeles Chargers @ Miami Dolphins
+DESCRIPTION:NFL 2026 — Week 16\nLos Angeles Chargers @ Miami Dolphins\nHard Rock Stadium
+LOCATION:Hard Rock Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-buffalo-bills-vs-miami-dolphins@open-sports-cal
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Buffalo Bills @ Miami Dolphins
+DESCRIPTION:NFL 2026 — Week 17\nBuffalo Bills @ Miami Dolphins\nHard Rock Stadium
+LOCATION:Hard Rock Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-miami-dolphins-vs-new-england-patriots@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Miami Dolphins @ New England Patriots
+DESCRIPTION:NFL 2026 — Week 18\nMiami Dolphins @ New England Patriots\nGillette Stadium\nKickoff time TBD
+LOCATION:Gillette Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

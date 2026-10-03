@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Baltimore Ravens
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-baltimore-ravens-vs-indianapolis-colts@open-sports-cal
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Baltimore Ravens @ Indianapolis Colts
+DESCRIPTION:NFL 2026 — Week 1\nBaltimore Ravens @ Indianapolis Colts\nLucas Oil Stadium
+LOCATION:Lucas Oil Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-new-orleans-saints-vs-baltimore-ravens@open-sports-cal
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:New Orleans Saints @ Baltimore Ravens
+DESCRIPTION:NFL 2026 — Week 2\nNew Orleans Saints @ Baltimore Ravens\nM&T Bank Stadium
+LOCATION:M&T Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-baltimore-ravens-vs-dallas-cowboys@open-sports-cal
+DTSTART:20260927T202500Z
+DTEND:20260927T232500Z
+SUMMARY:Baltimore Ravens @ Dallas Cowboys
+DESCRIPTION:NFL 2026 — Week 3\nBaltimore Ravens @ Dallas Cowboys\nMaracanã Stadium
+LOCATION:Maracanã Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Sao_Paulo
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-tennessee-titans-vs-baltimore-ravens@open-sports-cal
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Tennessee Titans @ Baltimore Ravens
+DESCRIPTION:NFL 2026 — Week 4\nTennessee Titans @ Baltimore Ravens\nM&T Bank Stadium
+LOCATION:M&T Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-baltimore-ravens-vs-atlanta-falcons@open-sports-cal
+DTSTART:20261012T002000Z
+DTEND:20261012T032000Z
+SUMMARY:Baltimore Ravens @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 5\nBaltimore Ravens @ Atlanta Falcons\nMercedes-Benz Stadium
+LOCATION:Mercedes-Benz Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-baltimore-ravens-vs-cleveland-browns@open-sports-cal
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:Baltimore Ravens @ Cleveland Browns
+DESCRIPTION:NFL 2026 — Week 6\nBaltimore Ravens @ Cleveland Browns\nHuntington Bank Field
+LOCATION:Huntington Bank Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-cincinnati-bengals-vs-baltimore-ravens@open-sports-cal
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:Cincinnati Bengals @ Baltimore Ravens
+DESCRIPTION:NFL 2026 — Week 7\nCincinnati Bengals @ Baltimore Ravens\nM&T Bank Stadium
+LOCATION:M&T Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-baltimore-ravens-vs-buffalo-bills@open-sports-cal
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Baltimore Ravens @ Buffalo Bills
+DESCRIPTION:NFL 2026 — Week 8\nBaltimore Ravens @ Buffalo Bills\nHighmark Stadium
+LOCATION:Highmark Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-05-jacksonville-jaguars-vs-baltimore-ravens@open-sports-cal
+DTSTART:20261106T011500Z
+DTEND:20261106T041500Z
+SUMMARY:Jacksonville Jaguars @ Baltimore Ravens
+DESCRIPTION:NFL 2026 — Week 9\nJacksonville Jaguars @ Baltimore Ravens\nM&T Bank Stadium
+LOCATION:M&T Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-16-los-angeles-chargers-vs-baltimore-ravens@open-sports-cal
+DTSTART:20261117T011500Z
+DTEND:20261117T041500Z
+SUMMARY:Los Angeles Chargers @ Baltimore Ravens
+DESCRIPTION:NFL 2026 — Week 10\nLos Angeles Chargers @ Baltimore Ravens\nM&T Bank Stadium
+LOCATION:M&T Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-baltimore-ravens-vs-carolina-panthers@open-sports-cal
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Baltimore Ravens @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 11\nBaltimore Ravens @ Carolina Panthers\nBank of America Stadium
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-29-baltimore-ravens-vs-houston-texans@open-sports-cal
+DTSTART:20261129T180000Z
+DTEND:20261129T210000Z
+SUMMARY:Baltimore Ravens @ Houston Texans
+DESCRIPTION:NFL 2026 — Week 12\nBaltimore Ravens @ Houston Texans\nReliant Stadium
+LOCATION:Reliant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-tampa-bay-buccaneers-vs-baltimore-ravens@open-sports-cal
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Tampa Bay Buccaneers @ Baltimore Ravens
+DESCRIPTION:NFL 2026 — Week 14\nTampa Bay Buccaneers @ Baltimore Ravens\nM&T Bank Stadium
+LOCATION:M&T Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-baltimore-ravens-vs-pittsburgh-steelers@open-sports-cal
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Baltimore Ravens @ Pittsburgh Steelers
+DESCRIPTION:NFL 2026 — Week 15\nBaltimore Ravens @ Pittsburgh Steelers\nAcrisure Stadium
+LOCATION:Acrisure Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-cleveland-browns-vs-baltimore-ravens@open-sports-cal
+DTSTART:20261227T180000Z
+DTEND:20261227T210000Z
+SUMMARY:Cleveland Browns @ Baltimore Ravens
+DESCRIPTION:NFL 2026 — Week 16\nCleveland Browns @ Baltimore Ravens\nM&T Bank Stadium
+LOCATION:M&T Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-31-baltimore-ravens-vs-cincinnati-bengals@open-sports-cal
+DTSTART:20270101T011500Z
+DTEND:20270101T041500Z
+SUMMARY:Baltimore Ravens @ Cincinnati Bengals
+DESCRIPTION:NFL 2026 — Week 17\nBaltimore Ravens @ Cincinnati Bengals\nPaycor Stadium
+LOCATION:Paycor Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-pittsburgh-steelers-vs-baltimore-ravens@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Pittsburgh Steelers @ Baltimore Ravens
+DESCRIPTION:NFL 2026 — Week 18\nPittsburgh Steelers @ Baltimore Ravens\nM&T Bank Stadium\nKickoff time TBD
+LOCATION:M&T Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

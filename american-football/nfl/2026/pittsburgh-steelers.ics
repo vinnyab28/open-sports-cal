@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Pittsburgh Steelers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-atlanta-falcons-vs-pittsburgh-steelers@open-sports-cal
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Atlanta Falcons @ Pittsburgh Steelers
+DESCRIPTION:NFL 2026 — Week 1\nAtlanta Falcons @ Pittsburgh Steelers\nAcrisure Stadium
+LOCATION:Acrisure Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-pittsburgh-steelers-vs-new-england-patriots@open-sports-cal
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Pittsburgh Steelers @ New England Patriots
+DESCRIPTION:NFL 2026 — Week 2\nPittsburgh Steelers @ New England Patriots\nGillette Stadium
+LOCATION:Gillette Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-cincinnati-bengals-vs-pittsburgh-steelers@open-sports-cal
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Cincinnati Bengals @ Pittsburgh Steelers
+DESCRIPTION:NFL 2026 — Week 3\nCincinnati Bengals @ Pittsburgh Steelers\nAcrisure Stadium
+LOCATION:Acrisure Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-01-pittsburgh-steelers-vs-cleveland-browns@open-sports-cal
+DTSTART:20261002T001500Z
+DTEND:20261002T031500Z
+SUMMARY:Pittsburgh Steelers @ Cleveland Browns
+DESCRIPTION:NFL 2026 — Week 4\nPittsburgh Steelers @ Cleveland Browns\nHuntington Bank Field
+LOCATION:Huntington Bank Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-indianapolis-colts-vs-pittsburgh-steelers@open-sports-cal
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Indianapolis Colts @ Pittsburgh Steelers
+DESCRIPTION:NFL 2026 — Week 5\nIndianapolis Colts @ Pittsburgh Steelers\nAcrisure Stadium
+LOCATION:Acrisure Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-pittsburgh-steelers-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:Pittsburgh Steelers @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 6\nPittsburgh Steelers @ Tampa Bay Buccaneers\nRaymond James Stadium
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-pittsburgh-steelers-vs-new-orleans-saints@open-sports-cal
+DTSTART:20261025T133000Z
+DTEND:20261025T163000Z
+SUMMARY:Pittsburgh Steelers @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 7\nPittsburgh Steelers @ New Orleans Saints\nStade de France
+LOCATION:Stade de France
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-cleveland-browns-vs-pittsburgh-steelers@open-sports-cal
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Cleveland Browns @ Pittsburgh Steelers
+DESCRIPTION:NFL 2026 — Week 8\nCleveland Browns @ Pittsburgh Steelers\nAcrisure Stadium
+LOCATION:Acrisure Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-pittsburgh-steelers-vs-cincinnati-bengals@open-sports-cal
+DTSTART:20261116T012000Z
+DTEND:20261116T042000Z
+SUMMARY:Pittsburgh Steelers @ Cincinnati Bengals
+DESCRIPTION:NFL 2026 — Week 10\nPittsburgh Steelers @ Cincinnati Bengals\nPaycor Stadium
+LOCATION:Paycor Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-pittsburgh-steelers-vs-philadelphia-eagles@open-sports-cal
+DTSTART:20261122T212500Z
+DTEND:20261123T002500Z
+SUMMARY:Pittsburgh Steelers @ Philadelphia Eagles
+DESCRIPTION:NFL 2026 — Week 11\nPittsburgh Steelers @ Philadelphia Eagles\nLincoln Financial Field
+LOCATION:Lincoln Financial Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-27-denver-broncos-vs-pittsburgh-steelers@open-sports-cal
+DTSTART:20261127T200000Z
+DTEND:20261127T230000Z
+SUMMARY:Denver Broncos @ Pittsburgh Steelers
+DESCRIPTION:NFL 2026 — Week 12\nDenver Broncos @ Pittsburgh Steelers\nAcrisure Stadium
+LOCATION:Acrisure Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-houston-texans-vs-pittsburgh-steelers@open-sports-cal
+DTSTART:20261207T012000Z
+DTEND:20261207T042000Z
+SUMMARY:Houston Texans @ Pittsburgh Steelers
+DESCRIPTION:NFL 2026 — Week 13\nHouston Texans @ Pittsburgh Steelers\nAcrisure Stadium
+LOCATION:Acrisure Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-14-pittsburgh-steelers-vs-jacksonville-jaguars@open-sports-cal
+DTSTART:20261215T011500Z
+DTEND:20261215T041500Z
+SUMMARY:Pittsburgh Steelers @ Jacksonville Jaguars
+DESCRIPTION:NFL 2026 — Week 14\nPittsburgh Steelers @ Jacksonville Jaguars\nEverBank Stadium
+LOCATION:EverBank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-baltimore-ravens-vs-pittsburgh-steelers@open-sports-cal
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Baltimore Ravens @ Pittsburgh Steelers
+DESCRIPTION:NFL 2026 — Week 15\nBaltimore Ravens @ Pittsburgh Steelers\nAcrisure Stadium
+LOCATION:Acrisure Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-carolina-panthers-vs-pittsburgh-steelers@open-sports-cal
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Carolina Panthers @ Pittsburgh Steelers
+DESCRIPTION:NFL 2026 — Week 16\nCarolina Panthers @ Pittsburgh Steelers\nAcrisure Stadium\nKickoff time TBD
+LOCATION:Acrisure Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-pittsburgh-steelers-vs-tennessee-titans@open-sports-cal
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Pittsburgh Steelers @ Tennessee Titans
+DESCRIPTION:NFL 2026 — Week 17\nPittsburgh Steelers @ Tennessee Titans\nNissan Stadium
+LOCATION:Nissan Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-pittsburgh-steelers-vs-baltimore-ravens@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Pittsburgh Steelers @ Baltimore Ravens
+DESCRIPTION:NFL 2026 — Week 18\nPittsburgh Steelers @ Baltimore Ravens\nM&T Bank Stadium\nKickoff time TBD
+LOCATION:M&T Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

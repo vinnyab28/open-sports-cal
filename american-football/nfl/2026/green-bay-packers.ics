@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Green Bay Packers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-green-bay-packers-vs-minnesota-vikings@open-sports-cal
+DTSTART:20260913T202500Z
+DTEND:20260913T232500Z
+SUMMARY:Green Bay Packers @ Minnesota Vikings
+DESCRIPTION:NFL 2026 — Week 1\nGreen Bay Packers @ Minnesota Vikings\nU.S. Bank Stadium
+LOCATION:U.S. Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-green-bay-packers-vs-new-york-jets@open-sports-cal
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Green Bay Packers @ New York Jets
+DESCRIPTION:NFL 2026 — Week 2\nGreen Bay Packers @ New York Jets\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-24-atlanta-falcons-vs-green-bay-packers@open-sports-cal
+DTSTART:20260925T001500Z
+DTEND:20260925T031500Z
+SUMMARY:Atlanta Falcons @ Green Bay Packers
+DESCRIPTION:NFL 2026 — Week 3\nAtlanta Falcons @ Green Bay Packers\nLambeau Field
+LOCATION:Lambeau Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-green-bay-packers-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Green Bay Packers @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 4\nGreen Bay Packers @ Tampa Bay Buccaneers\nRaymond James Stadium
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-chicago-bears-vs-green-bay-packers@open-sports-cal
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Chicago Bears @ Green Bay Packers
+DESCRIPTION:NFL 2026 — Week 5\nChicago Bears @ Green Bay Packers\nLambeau Field
+LOCATION:Lambeau Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-dallas-cowboys-vs-green-bay-packers@open-sports-cal
+DTSTART:20261019T002000Z
+DTEND:20261019T032000Z
+SUMMARY:Dallas Cowboys @ Green Bay Packers
+DESCRIPTION:NFL 2026 — Week 6\nDallas Cowboys @ Green Bay Packers\nLambeau Field
+LOCATION:Lambeau Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-green-bay-packers-vs-detroit-lions@open-sports-cal
+DTSTART:20261025T202500Z
+DTEND:20261025T232500Z
+SUMMARY:Green Bay Packers @ Detroit Lions
+DESCRIPTION:NFL 2026 — Week 7\nGreen Bay Packers @ Detroit Lions\nFord Field
+LOCATION:Ford Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-29-carolina-panthers-vs-green-bay-packers@open-sports-cal
+DTSTART:20261030T001500Z
+DTEND:20261030T031500Z
+SUMMARY:Carolina Panthers @ Green Bay Packers
+DESCRIPTION:NFL 2026 — Week 8\nCarolina Panthers @ Green Bay Packers\nLambeau Field
+LOCATION:Lambeau Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-green-bay-packers-vs-new-england-patriots@open-sports-cal
+DTSTART:20261108T212500Z
+DTEND:20261109T002500Z
+SUMMARY:Green Bay Packers @ New England Patriots
+DESCRIPTION:NFL 2026 — Week 9\nGreen Bay Packers @ New England Patriots\nGillette Stadium
+LOCATION:Gillette Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-minnesota-vikings-vs-green-bay-packers@open-sports-cal
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Minnesota Vikings @ Green Bay Packers
+DESCRIPTION:NFL 2026 — Week 10\nMinnesota Vikings @ Green Bay Packers\nLambeau Field
+LOCATION:Lambeau Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-25-green-bay-packers-vs-los-angeles-rams@open-sports-cal
+DTSTART:20261126T010000Z
+DTEND:20261126T040000Z
+SUMMARY:Green Bay Packers @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 12\nGreen Bay Packers @ Los Angeles Rams\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-green-bay-packers-vs-new-orleans-saints@open-sports-cal
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Green Bay Packers @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 13\nGreen Bay Packers @ New Orleans Saints\nCaesars Superdome
+LOCATION:Caesars Superdome
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-buffalo-bills-vs-green-bay-packers@open-sports-cal
+DTSTART:20261214T012000Z
+DTEND:20261214T042000Z
+SUMMARY:Buffalo Bills @ Green Bay Packers
+DESCRIPTION:NFL 2026 — Week 14\nBuffalo Bills @ Green Bay Packers\nLambeau Field
+LOCATION:Lambeau Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-miami-dolphins-vs-green-bay-packers@open-sports-cal
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Miami Dolphins @ Green Bay Packers
+DESCRIPTION:NFL 2026 — Week 15\nMiami Dolphins @ Green Bay Packers\nLambeau Field
+LOCATION:Lambeau Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-25-green-bay-packers-vs-chicago-bears@open-sports-cal
+DTSTART:20261225T180000Z
+DTEND:20261225T210000Z
+SUMMARY:Green Bay Packers @ Chicago Bears
+DESCRIPTION:NFL 2026 — Week 16\nGreen Bay Packers @ Chicago Bears\nSoldier Field
+LOCATION:Soldier Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-04-houston-texans-vs-green-bay-packers@open-sports-cal
+DTSTART:20270105T011500Z
+DTEND:20270105T041500Z
+SUMMARY:Houston Texans @ Green Bay Packers
+DESCRIPTION:NFL 2026 — Week 17\nHouston Texans @ Green Bay Packers\nLambeau Field
+LOCATION:Lambeau Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-detroit-lions-vs-green-bay-packers@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Detroit Lions @ Green Bay Packers
+DESCRIPTION:NFL 2026 — Week 18\nDetroit Lions @ Green Bay Packers\nLambeau Field\nKickoff time TBD
+LOCATION:Lambeau Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

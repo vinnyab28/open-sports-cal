@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Las Vegas Raiders
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-miami-dolphins-vs-las-vegas-raiders@open-sports-cal
+DTSTART:20260913T202500Z
+DTEND:20260913T232500Z
+SUMMARY:Miami Dolphins @ Las Vegas Raiders
+DESCRIPTION:NFL 2026 — Week 1\nMiami Dolphins @ Las Vegas Raiders\nAllegiant Stadium
+LOCATION:Allegiant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-las-vegas-raiders-vs-los-angeles-chargers@open-sports-cal
+DTSTART:20260920T200500Z
+DTEND:20260920T230500Z
+SUMMARY:Las Vegas Raiders @ Los Angeles Chargers
+DESCRIPTION:NFL 2026 — Week 2\nLas Vegas Raiders @ Los Angeles Chargers\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-las-vegas-raiders-vs-new-orleans-saints@open-sports-cal
+DTSTART:20260927T202500Z
+DTEND:20260927T232500Z
+SUMMARY:Las Vegas Raiders @ New Orleans Saints
+DESCRIPTION:NFL 2026 — Week 3\nLas Vegas Raiders @ New Orleans Saints\nCaesars Superdome
+LOCATION:Caesars Superdome
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-kansas-city-chiefs-vs-las-vegas-raiders@open-sports-cal
+DTSTART:20261004T202500Z
+DTEND:20261004T232500Z
+SUMMARY:Kansas City Chiefs @ Las Vegas Raiders
+DESCRIPTION:NFL 2026 — Week 4\nKansas City Chiefs @ Las Vegas Raiders\nAllegiant Stadium
+LOCATION:Allegiant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-las-vegas-raiders-vs-new-england-patriots@open-sports-cal
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Las Vegas Raiders @ New England Patriots
+DESCRIPTION:NFL 2026 — Week 5\nLas Vegas Raiders @ New England Patriots\nGillette Stadium
+LOCATION:Gillette Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-buffalo-bills-vs-las-vegas-raiders@open-sports-cal
+DTSTART:20261018T202500Z
+DTEND:20261018T232500Z
+SUMMARY:Buffalo Bills @ Las Vegas Raiders
+DESCRIPTION:NFL 2026 — Week 6\nBuffalo Bills @ Las Vegas Raiders\nAllegiant Stadium
+LOCATION:Allegiant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-los-angeles-rams-vs-las-vegas-raiders@open-sports-cal
+DTSTART:20261025T202500Z
+DTEND:20261025T232500Z
+SUMMARY:Los Angeles Rams @ Las Vegas Raiders
+DESCRIPTION:NFL 2026 — Week 7\nLos Angeles Rams @ Las Vegas Raiders\nAllegiant Stadium
+LOCATION:Allegiant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-las-vegas-raiders-vs-new-york-jets@open-sports-cal
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Las Vegas Raiders @ New York Jets
+DESCRIPTION:NFL 2026 — Week 8\nLas Vegas Raiders @ New York Jets\nMetLife Stadium
+LOCATION:MetLife Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-las-vegas-raiders-vs-san-francisco-49ers@open-sports-cal
+DTSTART:20261108T210500Z
+DTEND:20261109T000500Z
+SUMMARY:Las Vegas Raiders @ San Francisco 49ers
+DESCRIPTION:NFL 2026 — Week 9\nLas Vegas Raiders @ San Francisco 49ers\nLevi's Stadium
+LOCATION:Levi's Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-seattle-seahawks-vs-las-vegas-raiders@open-sports-cal
+DTSTART:20261115T210500Z
+DTEND:20261116T000500Z
+SUMMARY:Seattle Seahawks @ Las Vegas Raiders
+DESCRIPTION:NFL 2026 — Week 10\nSeattle Seahawks @ Las Vegas Raiders\nAllegiant Stadium
+LOCATION:Allegiant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-las-vegas-raiders-vs-denver-broncos@open-sports-cal
+DTSTART:20261122T212500Z
+DTEND:20261123T002500Z
+SUMMARY:Las Vegas Raiders @ Denver Broncos
+DESCRIPTION:NFL 2026 — Week 11\nLas Vegas Raiders @ Denver Broncos\nEmpower Field at Mile High
+LOCATION:Empower Field at Mile High
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-29-las-vegas-raiders-vs-cleveland-browns@open-sports-cal
+DTSTART:20261129T180000Z
+DTEND:20261129T210000Z
+SUMMARY:Las Vegas Raiders @ Cleveland Browns
+DESCRIPTION:NFL 2026 — Week 12\nLas Vegas Raiders @ Cleveland Browns\nHuntington Bank Field
+LOCATION:Huntington Bank Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-los-angeles-chargers-vs-las-vegas-raiders@open-sports-cal
+DTSTART:20261213T210500Z
+DTEND:20261214T000500Z
+SUMMARY:Los Angeles Chargers @ Las Vegas Raiders
+DESCRIPTION:NFL 2026 — Week 14\nLos Angeles Chargers @ Las Vegas Raiders\nAllegiant Stadium
+LOCATION:Allegiant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-denver-broncos-vs-las-vegas-raiders@open-sports-cal
+DTSTART:20261220T212500Z
+DTEND:20261221T002500Z
+SUMMARY:Denver Broncos @ Las Vegas Raiders
+DESCRIPTION:NFL 2026 — Week 15\nDenver Broncos @ Las Vegas Raiders\nAllegiant Stadium
+LOCATION:Allegiant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-tennessee-titans-vs-las-vegas-raiders@open-sports-cal
+DTSTART:20261227T210500Z
+DTEND:20261228T000500Z
+SUMMARY:Tennessee Titans @ Las Vegas Raiders
+DESCRIPTION:NFL 2026 — Week 16\nTennessee Titans @ Las Vegas Raiders\nAllegiant Stadium
+LOCATION:Allegiant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-las-vegas-raiders-vs-arizona-cardinals@open-sports-cal
+DTSTART:20270103T210500Z
+DTEND:20270104T000500Z
+SUMMARY:Las Vegas Raiders @ Arizona Cardinals
+DESCRIPTION:NFL 2026 — Week 17\nLas Vegas Raiders @ Arizona Cardinals\nState Farm Stadium
+LOCATION:State Farm Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-las-vegas-raiders-vs-kansas-city-chiefs@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Las Vegas Raiders @ Kansas City Chiefs
+DESCRIPTION:NFL 2026 — Week 18\nLas Vegas Raiders @ Kansas City Chiefs\nArrowhead Stadium\nKickoff time TBD
+LOCATION:Arrowhead Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

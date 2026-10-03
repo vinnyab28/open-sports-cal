@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Los Angeles Rams
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-11-san-francisco-49ers-vs-los-angeles-rams@open-sports-cal
+DTSTART:20260911T003500Z
+DTEND:20260911T033500Z
+SUMMARY:San Francisco 49ers @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 1\nSan Francisco 49ers @ Los Angeles Rams\nMelbourne Cricket Ground
+LOCATION:Melbourne Cricket Ground
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:Australia/Melbourne
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-21-new-york-giants-vs-los-angeles-rams@open-sports-cal
+DTSTART:20260922T001500Z
+DTEND:20260922T031500Z
+SUMMARY:New York Giants @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 2\nNew York Giants @ Los Angeles Rams\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-los-angeles-rams-vs-denver-broncos@open-sports-cal
+DTSTART:20260928T002000Z
+DTEND:20260928T032000Z
+SUMMARY:Los Angeles Rams @ Denver Broncos
+DESCRIPTION:NFL 2026 — Week 3\nLos Angeles Rams @ Denver Broncos\nEmpower Field at Mile High
+LOCATION:Empower Field at Mile High
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-los-angeles-rams-vs-philadelphia-eagles@open-sports-cal
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Los Angeles Rams @ Philadelphia Eagles
+DESCRIPTION:NFL 2026 — Week 4\nLos Angeles Rams @ Philadelphia Eagles\nLincoln Financial Field
+LOCATION:Lincoln Financial Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-12-buffalo-bills-vs-los-angeles-rams@open-sports-cal
+DTSTART:20261013T001500Z
+DTEND:20261013T031500Z
+SUMMARY:Buffalo Bills @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 5\nBuffalo Bills @ Los Angeles Rams\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-arizona-cardinals-vs-los-angeles-rams@open-sports-cal
+DTSTART:20261018T200500Z
+DTEND:20261018T230500Z
+SUMMARY:Arizona Cardinals @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 6\nArizona Cardinals @ Los Angeles Rams\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-los-angeles-rams-vs-las-vegas-raiders@open-sports-cal
+DTSTART:20261025T202500Z
+DTEND:20261025T232500Z
+SUMMARY:Los Angeles Rams @ Las Vegas Raiders
+DESCRIPTION:NFL 2026 — Week 7\nLos Angeles Rams @ Las Vegas Raiders\nAllegiant Stadium
+LOCATION:Allegiant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-los-angeles-chargers-vs-los-angeles-rams@open-sports-cal
+DTSTART:20261101T210500Z
+DTEND:20261102T000500Z
+SUMMARY:Los Angeles Chargers @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 8\nLos Angeles Chargers @ Los Angeles Rams\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-los-angeles-rams-vs-washington-commanders@open-sports-cal
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Los Angeles Rams @ Washington Commanders
+DESCRIPTION:NFL 2026 — Week 9\nLos Angeles Rams @ Washington Commanders\nNorthwest Stadium
+LOCATION:Northwest Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-los-angeles-rams-vs-arizona-cardinals@open-sports-cal
+DTSTART:20261115T210500Z
+DTEND:20261116T000500Z
+SUMMARY:Los Angeles Rams @ Arizona Cardinals
+DESCRIPTION:NFL 2026 — Week 10\nLos Angeles Rams @ Arizona Cardinals\nState Farm Stadium
+LOCATION:State Farm Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-25-green-bay-packers-vs-los-angeles-rams@open-sports-cal
+DTSTART:20261126T010000Z
+DTEND:20261126T040000Z
+SUMMARY:Green Bay Packers @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 12\nGreen Bay Packers @ Los Angeles Rams\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-03-kansas-city-chiefs-vs-los-angeles-rams@open-sports-cal
+DTSTART:20261204T011500Z
+DTEND:20261204T041500Z
+SUMMARY:Kansas City Chiefs @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 13\nKansas City Chiefs @ Los Angeles Rams\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-los-angeles-rams-vs-san-francisco-49ers@open-sports-cal
+DTSTART:20261213T212500Z
+DTEND:20261214T002500Z
+SUMMARY:Los Angeles Rams @ San Francisco 49ers
+DESCRIPTION:NFL 2026 — Week 14\nLos Angeles Rams @ San Francisco 49ers\nLevi's Stadium
+LOCATION:Levi's Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-dallas-cowboys-vs-los-angeles-rams@open-sports-cal
+DTSTART:20261220T212500Z
+DTEND:20261221T002500Z
+SUMMARY:Dallas Cowboys @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 15\nDallas Cowboys @ Los Angeles Rams\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-25-los-angeles-rams-vs-seattle-seahawks@open-sports-cal
+DTSTART:20261226T011500Z
+DTEND:20261226T041500Z
+SUMMARY:Los Angeles Rams @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 16\nLos Angeles Rams @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-los-angeles-rams-vs-tampa-bay-buccaneers@open-sports-cal
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Los Angeles Rams @ Tampa Bay Buccaneers
+DESCRIPTION:NFL 2026 — Week 17\nLos Angeles Rams @ Tampa Bay Buccaneers\nRaymond James Stadium\nKickoff time TBD
+LOCATION:Raymond James Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-seattle-seahawks-vs-los-angeles-rams@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Seattle Seahawks @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 18\nSeattle Seahawks @ Los Angeles Rams\nSoFi Stadium\nKickoff time TBD
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

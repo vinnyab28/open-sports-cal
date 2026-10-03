@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Kansas City Chiefs
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-14-denver-broncos-vs-kansas-city-chiefs@open-sports-cal
+DTSTART:20260915T001500Z
+DTEND:20260915T031500Z
+SUMMARY:Denver Broncos @ Kansas City Chiefs
+DESCRIPTION:NFL 2026 — Week 1\nDenver Broncos @ Kansas City Chiefs\nArrowhead Stadium
+LOCATION:Arrowhead Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-20-indianapolis-colts-vs-kansas-city-chiefs@open-sports-cal
+DTSTART:20260921T002000Z
+DTEND:20260921T032000Z
+SUMMARY:Indianapolis Colts @ Kansas City Chiefs
+DESCRIPTION:NFL 2026 — Week 2\nIndianapolis Colts @ Kansas City Chiefs\nArrowhead Stadium
+LOCATION:Arrowhead Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-kansas-city-chiefs-vs-miami-dolphins@open-sports-cal
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Kansas City Chiefs @ Miami Dolphins
+DESCRIPTION:NFL 2026 — Week 3\nKansas City Chiefs @ Miami Dolphins\nHard Rock Stadium
+LOCATION:Hard Rock Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-kansas-city-chiefs-vs-las-vegas-raiders@open-sports-cal
+DTSTART:20261004T202500Z
+DTEND:20261004T232500Z
+SUMMARY:Kansas City Chiefs @ Las Vegas Raiders
+DESCRIPTION:NFL 2026 — Week 4\nKansas City Chiefs @ Las Vegas Raiders\nAllegiant Stadium
+LOCATION:Allegiant Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-18-los-angeles-chargers-vs-kansas-city-chiefs@open-sports-cal
+DTSTART:20261018T202500Z
+DTEND:20261018T232500Z
+SUMMARY:Los Angeles Chargers @ Kansas City Chiefs
+DESCRIPTION:NFL 2026 — Week 6\nLos Angeles Chargers @ Kansas City Chiefs\nArrowhead Stadium
+LOCATION:Arrowhead Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-kansas-city-chiefs-vs-seattle-seahawks@open-sports-cal
+DTSTART:20261026T002000Z
+DTEND:20261026T032000Z
+SUMMARY:Kansas City Chiefs @ Seattle Seahawks
+DESCRIPTION:NFL 2026 — Week 7\nKansas City Chiefs @ Seattle Seahawks\nLumen Field
+LOCATION:Lumen Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-kansas-city-chiefs-vs-denver-broncos@open-sports-cal
+DTSTART:20261101T212500Z
+DTEND:20261102T002500Z
+SUMMARY:Kansas City Chiefs @ Denver Broncos
+DESCRIPTION:NFL 2026 — Week 8\nKansas City Chiefs @ Denver Broncos\nEmpower Field at Mile High
+LOCATION:Empower Field at Mile High
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-new-york-jets-vs-kansas-city-chiefs@open-sports-cal
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:New York Jets @ Kansas City Chiefs
+DESCRIPTION:NFL 2026 — Week 9\nNew York Jets @ Kansas City Chiefs\nArrowhead Stadium
+LOCATION:Arrowhead Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-kansas-city-chiefs-vs-atlanta-falcons@open-sports-cal
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Kansas City Chiefs @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 10\nKansas City Chiefs @ Atlanta Falcons\nMercedes-Benz Stadium
+LOCATION:Mercedes-Benz Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-arizona-cardinals-vs-kansas-city-chiefs@open-sports-cal
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Arizona Cardinals @ Kansas City Chiefs
+DESCRIPTION:NFL 2026 — Week 11\nArizona Cardinals @ Kansas City Chiefs\nArrowhead Stadium
+LOCATION:Arrowhead Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-26-kansas-city-chiefs-vs-buffalo-bills@open-sports-cal
+DTSTART:20261127T012000Z
+DTEND:20261127T042000Z
+SUMMARY:Kansas City Chiefs @ Buffalo Bills
+DESCRIPTION:NFL 2026 — Week 12\nKansas City Chiefs @ Buffalo Bills\nHighmark Stadium
+LOCATION:Highmark Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-03-kansas-city-chiefs-vs-los-angeles-rams@open-sports-cal
+DTSTART:20261204T011500Z
+DTEND:20261204T041500Z
+SUMMARY:Kansas City Chiefs @ Los Angeles Rams
+DESCRIPTION:NFL 2026 — Week 13\nKansas City Chiefs @ Los Angeles Rams\nSoFi Stadium
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-kansas-city-chiefs-vs-cincinnati-bengals@open-sports-cal
+DTSTART:20261213T212500Z
+DTEND:20261214T002500Z
+SUMMARY:Kansas City Chiefs @ Cincinnati Bengals
+DESCRIPTION:NFL 2026 — Week 14\nKansas City Chiefs @ Cincinnati Bengals\nPaycor Stadium
+LOCATION:Paycor Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-21-new-england-patriots-vs-kansas-city-chiefs@open-sports-cal
+DTSTART:20261222T011500Z
+DTEND:20261222T041500Z
+SUMMARY:New England Patriots @ Kansas City Chiefs
+DESCRIPTION:NFL 2026 — Week 15\nNew England Patriots @ Kansas City Chiefs\nArrowhead Stadium
+LOCATION:Arrowhead Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-27-san-francisco-49ers-vs-kansas-city-chiefs@open-sports-cal
+DTSTART:20261227T212500Z
+DTEND:20261228T002500Z
+SUMMARY:San Francisco 49ers @ Kansas City Chiefs
+DESCRIPTION:NFL 2026 — Week 16\nSan Francisco 49ers @ Kansas City Chiefs\nArrowhead Stadium
+LOCATION:Arrowhead Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-kansas-city-chiefs-vs-los-angeles-chargers@open-sports-cal
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Kansas City Chiefs @ Los Angeles Chargers
+DESCRIPTION:NFL 2026 — Week 17\nKansas City Chiefs @ Los Angeles Chargers\nSoFi Stadium\nKickoff time TBD
+LOCATION:SoFi Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-las-vegas-raiders-vs-kansas-city-chiefs@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Las Vegas Raiders @ Kansas City Chiefs
+DESCRIPTION:NFL 2026 — Week 18\nLas Vegas Raiders @ Kansas City Chiefs\nArrowhead Stadium\nKickoff time TBD
+LOCATION:Arrowhead Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR

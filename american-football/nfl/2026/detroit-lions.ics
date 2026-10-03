@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NFL 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL 2026 - Detroit Lions
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-13-new-orleans-saints-vs-detroit-lions@open-sports-cal
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:New Orleans Saints @ Detroit Lions
+DESCRIPTION:NFL 2026 — Week 1\nNew Orleans Saints @ Detroit Lions\nFord Field
+LOCATION:Ford Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-17-detroit-lions-vs-buffalo-bills@open-sports-cal
+DTSTART:20260918T001500Z
+DTEND:20260918T031500Z
+SUMMARY:Detroit Lions @ Buffalo Bills
+DESCRIPTION:NFL 2026 — Week 2\nDetroit Lions @ Buffalo Bills\nHighmark Stadium
+LOCATION:Highmark Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-09-27-new-york-jets-vs-detroit-lions@open-sports-cal
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:New York Jets @ Detroit Lions
+DESCRIPTION:NFL 2026 — Week 3\nNew York Jets @ Detroit Lions\nFord Field
+LOCATION:Ford Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-04-detroit-lions-vs-carolina-panthers@open-sports-cal
+DTSTART:20261005T002000Z
+DTEND:20261005T032000Z
+SUMMARY:Detroit Lions @ Carolina Panthers
+DESCRIPTION:NFL 2026 — Week 4\nDetroit Lions @ Carolina Panthers\nBank of America Stadium
+LOCATION:Bank of America Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-11-detroit-lions-vs-arizona-cardinals@open-sports-cal
+DTSTART:20261011T202500Z
+DTEND:20261011T232500Z
+SUMMARY:Detroit Lions @ Arizona Cardinals
+DESCRIPTION:NFL 2026 — Week 5\nDetroit Lions @ Arizona Cardinals\nState Farm Stadium
+LOCATION:State Farm Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-10-25-green-bay-packers-vs-detroit-lions@open-sports-cal
+DTSTART:20261025T202500Z
+DTEND:20261025T232500Z
+SUMMARY:Green Bay Packers @ Detroit Lions
+DESCRIPTION:NFL 2026 — Week 7\nGreen Bay Packers @ Detroit Lions\nFord Field
+LOCATION:Ford Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-01-minnesota-vikings-vs-detroit-lions@open-sports-cal
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Minnesota Vikings @ Detroit Lions
+DESCRIPTION:NFL 2026 — Week 8\nMinnesota Vikings @ Detroit Lions\nFord Field
+LOCATION:Ford Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-08-detroit-lions-vs-miami-dolphins@open-sports-cal
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Detroit Lions @ Miami Dolphins
+DESCRIPTION:NFL 2026 — Week 9\nDetroit Lions @ Miami Dolphins\nHard Rock Stadium
+LOCATION:Hard Rock Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-15-new-england-patriots-vs-detroit-lions@open-sports-cal
+DTSTART:20261115T143000Z
+DTEND:20261115T173000Z
+SUMMARY:New England Patriots @ Detroit Lions
+DESCRIPTION:NFL 2026 — Week 10\nNew England Patriots @ Detroit Lions\nFC Bayern Munich Stadium
+LOCATION:FC Bayern Munich Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:Europe/Berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-22-tampa-bay-buccaneers-vs-detroit-lions@open-sports-cal
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Tampa Bay Buccaneers @ Detroit Lions
+DESCRIPTION:NFL 2026 — Week 11\nTampa Bay Buccaneers @ Detroit Lions\nFord Field
+LOCATION:Ford Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-11-26-chicago-bears-vs-detroit-lions@open-sports-cal
+DTSTART:20261126T180000Z
+DTEND:20261126T210000Z
+SUMMARY:Chicago Bears @ Detroit Lions
+DESCRIPTION:NFL 2026 — Week 12\nChicago Bears @ Detroit Lions\nFord Field
+LOCATION:Ford Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-06-detroit-lions-vs-atlanta-falcons@open-sports-cal
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Detroit Lions @ Atlanta Falcons
+DESCRIPTION:NFL 2026 — Week 13\nDetroit Lions @ Atlanta Falcons\nMercedes-Benz Stadium
+LOCATION:Mercedes-Benz Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-13-tennessee-titans-vs-detroit-lions@open-sports-cal
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Tennessee Titans @ Detroit Lions
+DESCRIPTION:NFL 2026 — Week 14\nTennessee Titans @ Detroit Lions\nFord Field
+LOCATION:Ford Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-20-detroit-lions-vs-minnesota-vikings@open-sports-cal
+DTSTART:20261221T012000Z
+DTEND:20261221T042000Z
+SUMMARY:Detroit Lions @ Minnesota Vikings
+DESCRIPTION:NFL 2026 — Week 15\nDetroit Lions @ Minnesota Vikings\nU.S. Bank Stadium
+LOCATION:U.S. Bank Stadium
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2026-12-28-new-york-giants-vs-detroit-lions@open-sports-cal
+DTSTART:20261229T011500Z
+DTEND:20261229T041500Z
+SUMMARY:New York Giants @ Detroit Lions
+DESCRIPTION:NFL 2026 — Week 16\nNew York Giants @ Detroit Lions\nFord Field
+LOCATION:Ford Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-03-detroit-lions-vs-chicago-bears@open-sports-cal
+DTSTART:20270103T212500Z
+DTEND:20270104T002500Z
+SUMMARY:Detroit Lions @ Chicago Bears
+DESCRIPTION:NFL 2026 — Week 17\nDetroit Lions @ Chicago Bears\nSoldier Field
+LOCATION:Soldier Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nfl-2026-2027-01-10-detroit-lions-vs-green-bay-packers@open-sports-cal
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Detroit Lions @ Green Bay Packers
+DESCRIPTION:NFL 2026 — Week 18\nDetroit Lions @ Green Bay Packers\nLambeau Field\nKickoff time TBD
+LOCATION:Lambeau Field
+CATEGORIES:American Football,NFL,NFL 2026
+STATUS:CONFIRMED
+DTSTAMP:20261003T015149Z
+END:VEVENT
+END:VCALENDAR
