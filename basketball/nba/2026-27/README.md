@@ -1,0 +1,78 @@
+# NBA 2026-27 Calendars
+
+**National Basketball Association 2026-27** — 30 teams. Season: October 20, 2026 – April 12, 2027.
+
+All times are in **UTC**. Each game is blocked for **3 hours**.
+
+---
+
+## Download / Subscribe
+
+### All Teams (1200 games)
+
+| | |
+|--|--|
+| **Raw URL** | `https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/basketball/nba/2026-27/all-teams.ics` |
+| **Download** | [all-teams.ics](all-teams.ics) |
+
+### Individual Teams
+
+| Team | Download | | Team | Download |
+|------|----------|-|------|----------|
+| Atlanta Hawks | [atlanta-hawks.ics](atlanta-hawks.ics) | | | Miami Heat | [miami-heat.ics](miami-heat.ics) |
+| Boston Celtics | [boston-celtics.ics](boston-celtics.ics) | | | Milwaukee Bucks | [milwaukee-bucks.ics](milwaukee-bucks.ics) |
+| Brooklyn Nets | [brooklyn-nets.ics](brooklyn-nets.ics) | | | Minnesota Timberwolves | [minnesota-timberwolves.ics](minnesota-timberwolves.ics) |
+| Charlotte Hornets | [charlotte-hornets.ics](charlotte-hornets.ics) | | | New Orleans Pelicans | [new-orleans-pelicans.ics](new-orleans-pelicans.ics) |
+| Chicago Bulls | [chicago-bulls.ics](chicago-bulls.ics) | | | New York Knicks | [new-york-knicks.ics](new-york-knicks.ics) |
+| Cleveland Cavaliers | [cleveland-cavaliers.ics](cleveland-cavaliers.ics) | | | Oklahoma City Thunder | [oklahoma-city-thunder.ics](oklahoma-city-thunder.ics) |
+| Dallas Mavericks | [dallas-mavericks.ics](dallas-mavericks.ics) | | | Orlando Magic | [orlando-magic.ics](orlando-magic.ics) |
+| Denver Nuggets | [denver-nuggets.ics](denver-nuggets.ics) | | | Philadelphia 76ers | [philadelphia-76ers.ics](philadelphia-76ers.ics) |
+| Detroit Pistons | [detroit-pistons.ics](detroit-pistons.ics) | | | Phoenix Suns | [phoenix-suns.ics](phoenix-suns.ics) |
+| Golden State Warriors | [golden-state-warriors.ics](golden-state-warriors.ics) | | | Portland Trail Blazers | [portland-trail-blazers.ics](portland-trail-blazers.ics) |
+| Houston Rockets | [houston-rockets.ics](houston-rockets.ics) | | | Sacramento Kings | [sacramento-kings.ics](sacramento-kings.ics) |
+| Indiana Pacers | [indiana-pacers.ics](indiana-pacers.ics) | | | San Antonio Spurs | [san-antonio-spurs.ics](san-antonio-spurs.ics) |
+| LA Clippers | [la-clippers.ics](la-clippers.ics) | | | Toronto Raptors | [toronto-raptors.ics](toronto-raptors.ics) |
+| Los Angeles Lakers | [los-angeles-lakers.ics](los-angeles-lakers.ics) | | | Utah Jazz | [utah-jazz.ics](utah-jazz.ics) |
+| Memphis Grizzlies | [memphis-grizzlies.ics](memphis-grizzlies.ics) | | | Washington Wizards | [washington-wizards.ics](washington-wizards.ics) |
+
+---
+
+## How to Subscribe
+
+**Easiest:** Use the [website](https://vinnyab28.github.io/open-sports-cal/) — one click to subscribe or download any calendar.
+
+### Google Calendar
+1. Copy the Raw URL above
+2. Open [Google Calendar](https://calendar.google.com) → **+** next to "Other calendars" → **From URL**
+3. Paste the URL → **Add calendar**
+
+> **Android:** The Google Calendar app cannot subscribe to external URLs directly. Use the desktop steps above — it will sync to your phone automatically.
+
+### Apple Calendar (macOS)
+File → **New Calendar Subscription** → paste URL → **Subscribe**
+
+### Apple Calendar (iOS)
+Settings → Calendar → Accounts → **Add Account** → Other → **Add Subscribed Calendar** → paste URL
+
+### Microsoft Outlook
+Calendar → **Add calendar** → **Subscribe from web** → paste URL → **Import**
+
+---
+
+## Key Dates
+
+| Event | Date |
+|-------|------|
+| Regular Season Start | October 20, 2026 |
+| Regular Season End | April 12, 2027 |
+| Playoffs Start | Mid-April 2027 |
+| NBA Finals | June 2027 |
+
+---
+
+## Notes
+
+- Times are in **UTC** — your calendar app converts to local time automatically.
+- 80-game regular season format (1,200 games).
+- Playoff games are added automatically once the NBA releases the schedule.
+- Data source: [fixturedownload.com](https://fixturedownload.com) / [ESPN](https://www.espn.com/nba/schedule)

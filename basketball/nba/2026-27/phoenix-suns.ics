@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Phoenix Suns
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-21-phoenix-suns-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261022T020000Z
+DTEND:20261022T050000Z
+SUMMARY:Phoenix Suns @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-24-golden-state-warriors-vs-phoenix-suns@open-sports-cal
+DTSTART:20261025T020000Z
+DTEND:20261025T050000Z
+SUMMARY:Golden State Warriors @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-26-phoenix-suns-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261027T000000Z
+DTEND:20261027T030000Z
+SUMMARY:Phoenix Suns @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-30-denver-nuggets-vs-phoenix-suns@open-sports-cal
+DTSTART:20261031T020000Z
+DTEND:20261031T050000Z
+SUMMARY:Denver Nuggets @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-phoenix-suns-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261103T030000Z
+DTEND:20261103T060000Z
+SUMMARY:Phoenix Suns @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-portland-trail-blazers-vs-phoenix-suns@open-sports-cal
+DTSTART:20261105T020000Z
+DTEND:20261105T050000Z
+SUMMARY:Portland Trail Blazers @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-05-orlando-magic-vs-phoenix-suns@open-sports-cal
+DTSTART:20261106T020000Z
+DTEND:20261106T050000Z
+SUMMARY:Orlando Magic @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-07-houston-rockets-vs-phoenix-suns@open-sports-cal
+DTSTART:20261108T020000Z
+DTEND:20261108T050000Z
+SUMMARY:Houston Rockets @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-09-san-antonio-spurs-vs-phoenix-suns@open-sports-cal
+DTSTART:20261110T020000Z
+DTEND:20261110T050000Z
+SUMMARY:San Antonio Spurs @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-10-la-clippers-vs-phoenix-suns@open-sports-cal
+DTSTART:20261111T020000Z
+DTEND:20261111T050000Z
+SUMMARY:LA Clippers @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-12-charlotte-hornets-vs-phoenix-suns@open-sports-cal
+DTSTART:20261113T020000Z
+DTEND:20261113T050000Z
+SUMMARY:Charlotte Hornets @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-15-los-angeles-lakers-vs-phoenix-suns@open-sports-cal
+DTSTART:20261115T210000Z
+DTEND:20261116T000000Z
+SUMMARY:Los Angeles Lakers @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-16-phoenix-suns-vs-denver-nuggets@open-sports-cal
+DTSTART:20261117T020000Z
+DTEND:20261117T050000Z
+SUMMARY:Phoenix Suns @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-phoenix-suns-vs-sacramento-kings@open-sports-cal
+DTSTART:20261119T030000Z
+DTEND:20261119T060000Z
+SUMMARY:Phoenix Suns @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-20-phoenix-suns-vs-utah-jazz@open-sports-cal
+DTSTART:20261121T023000Z
+DTEND:20261121T053000Z
+SUMMARY:Phoenix Suns @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-23-phoenix-suns-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261124T010000Z
+DTEND:20261124T040000Z
+SUMMARY:Phoenix Suns @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-25-phoenix-suns-vs-houston-rockets@open-sports-cal
+DTSTART:20261126T013000Z
+DTEND:20261126T043000Z
+SUMMARY:Phoenix Suns @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-27-dallas-mavericks-vs-phoenix-suns@open-sports-cal
+DTSTART:20261128T020000Z
+DTEND:20261128T050000Z
+SUMMARY:Dallas Mavericks @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-29-phoenix-suns-vs-utah-jazz@open-sports-cal
+DTSTART:20261129T220000Z
+DTEND:20261130T010000Z
+SUMMARY:Phoenix Suns @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-01-la-clippers-vs-phoenix-suns@open-sports-cal
+DTSTART:20261202T020000Z
+DTEND:20261202T050000Z
+SUMMARY:LA Clippers @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-02-sacramento-kings-vs-phoenix-suns@open-sports-cal
+DTSTART:20261203T020000Z
+DTEND:20261203T050000Z
+SUMMARY:Sacramento Kings @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-12-minnesota-timberwolves-vs-phoenix-suns@open-sports-cal
+DTSTART:20261213T020000Z
+DTEND:20261213T050000Z
+SUMMARY:Minnesota Timberwolves @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-14-atlanta-hawks-vs-phoenix-suns@open-sports-cal
+DTSTART:20261215T020000Z
+DTEND:20261215T050000Z
+SUMMARY:Atlanta Hawks @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-phoenix-suns-vs-detroit-pistons@open-sports-cal
+DTSTART:20261217T000000Z
+DTEND:20261217T030000Z
+SUMMARY:Phoenix Suns @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-18-phoenix-suns-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20261219T010000Z
+DTEND:20261219T040000Z
+SUMMARY:Phoenix Suns @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-20-phoenix-suns-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261220T210000Z
+DTEND:20261221T000000Z
+SUMMARY:Phoenix Suns @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-21-phoenix-suns-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261222T010000Z
+DTEND:20261222T040000Z
+SUMMARY:Phoenix Suns @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-indiana-pacers-vs-phoenix-suns@open-sports-cal
+DTSTART:20261224T020000Z
+DTEND:20261224T050000Z
+SUMMARY:Indiana Pacers @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-26-phoenix-suns-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261227T010000Z
+DTEND:20261227T040000Z
+SUMMARY:Phoenix Suns @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-28-golden-state-warriors-vs-phoenix-suns@open-sports-cal
+DTSTART:20261229T020000Z
+DTEND:20261229T050000Z
+SUMMARY:Golden State Warriors @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-30-philadelphia-76ers-vs-phoenix-suns@open-sports-cal
+DTSTART:20261231T020000Z
+DTEND:20261231T050000Z
+SUMMARY:Philadelphia 76ers @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-31-new-york-knicks-vs-phoenix-suns@open-sports-cal
+DTSTART:20270101T020000Z
+DTEND:20270101T050000Z
+SUMMARY:New York Knicks @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-02-sacramento-kings-vs-phoenix-suns@open-sports-cal
+DTSTART:20270103T020000Z
+DTEND:20270103T050000Z
+SUMMARY:Sacramento Kings @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-04-boston-celtics-vs-phoenix-suns@open-sports-cal
+DTSTART:20270105T020000Z
+DTEND:20270105T050000Z
+SUMMARY:Boston Celtics @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-05-phoenix-suns-vs-denver-nuggets@open-sports-cal
+DTSTART:20270106T030000Z
+DTEND:20270106T060000Z
+SUMMARY:Phoenix Suns @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-08-phoenix-suns-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270109T023000Z
+DTEND:20270109T053000Z
+SUMMARY:Phoenix Suns @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-10-chicago-bulls-vs-phoenix-suns@open-sports-cal
+DTSTART:20270111T000000Z
+DTEND:20270111T030000Z
+SUMMARY:Chicago Bulls @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-13-phoenix-suns-vs-toronto-raptors@open-sports-cal
+DTSTART:20270114T003000Z
+DTEND:20270114T033000Z
+SUMMARY:Phoenix Suns @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-15-phoenix-suns-vs-indiana-pacers@open-sports-cal
+DTSTART:20270116T000000Z
+DTEND:20270116T030000Z
+SUMMARY:Phoenix Suns @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-18-phoenix-suns-vs-la-clippers@open-sports-cal
+DTSTART:20270119T033000Z
+DTEND:20270119T063000Z
+SUMMARY:Phoenix Suns @ LA Clippers
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-20-memphis-grizzlies-vs-phoenix-suns@open-sports-cal
+DTSTART:20270121T020000Z
+DTEND:20270121T050000Z
+SUMMARY:Memphis Grizzlies @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-22-utah-jazz-vs-phoenix-suns@open-sports-cal
+DTSTART:20270123T020000Z
+DTEND:20270123T050000Z
+SUMMARY:Utah Jazz @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-24-utah-jazz-vs-phoenix-suns@open-sports-cal
+DTSTART:20270124T210000Z
+DTEND:20270125T000000Z
+SUMMARY:Utah Jazz @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-26-phoenix-suns-vs-new-york-knicks@open-sports-cal
+DTSTART:20270127T003000Z
+DTEND:20270127T033000Z
+SUMMARY:Phoenix Suns @ New York Knicks
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-27-phoenix-suns-vs-brooklyn-nets@open-sports-cal
+DTSTART:20270128T003000Z
+DTEND:20270128T033000Z
+SUMMARY:Phoenix Suns @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-29-phoenix-suns-vs-boston-celtics@open-sports-cal
+DTSTART:20270130T003000Z
+DTEND:20270130T033000Z
+SUMMARY:Phoenix Suns @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-31-phoenix-suns-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270131T230000Z
+DTEND:20270201T020000Z
+SUMMARY:Phoenix Suns @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-03-cleveland-cavaliers-vs-phoenix-suns@open-sports-cal
+DTSTART:20270204T020000Z
+DTEND:20270204T050000Z
+SUMMARY:Cleveland Cavaliers @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-05-houston-rockets-vs-phoenix-suns@open-sports-cal
+DTSTART:20270206T020000Z
+DTEND:20270206T050000Z
+SUMMARY:Houston Rockets @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-06-phoenix-suns-vs-sacramento-kings@open-sports-cal
+DTSTART:20270207T030000Z
+DTEND:20270207T060000Z
+SUMMARY:Phoenix Suns @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-08-los-angeles-lakers-vs-phoenix-suns@open-sports-cal
+DTSTART:20270209T023000Z
+DTEND:20270209T053000Z
+SUMMARY:Los Angeles Lakers @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-10-detroit-pistons-vs-phoenix-suns@open-sports-cal
+DTSTART:20270211T020000Z
+DTEND:20270211T050000Z
+SUMMARY:Detroit Pistons @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-12-phoenix-suns-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270213T000000Z
+DTEND:20270213T030000Z
+SUMMARY:Phoenix Suns @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-14-phoenix-suns-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270214T180000Z
+DTEND:20270214T210000Z
+SUMMARY:Phoenix Suns @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-15-phoenix-suns-vs-washington-wizards@open-sports-cal
+DTSTART:20270216T000000Z
+DTEND:20270216T030000Z
+SUMMARY:Phoenix Suns @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-phoenix-suns-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270218T000000Z
+DTEND:20270218T030000Z
+SUMMARY:Phoenix Suns @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-25-phoenix-suns-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270226T010000Z
+DTEND:20270226T040000Z
+SUMMARY:Phoenix Suns @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-27-new-orleans-pelicans-vs-phoenix-suns@open-sports-cal
+DTSTART:20270228T020000Z
+DTEND:20270228T050000Z
+SUMMARY:New Orleans Pelicans @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-01-washington-wizards-vs-phoenix-suns@open-sports-cal
+DTSTART:20270302T023000Z
+DTEND:20270302T053000Z
+SUMMARY:Washington Wizards @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-03-brooklyn-nets-vs-phoenix-suns@open-sports-cal
+DTSTART:20270304T020000Z
+DTEND:20270304T050000Z
+SUMMARY:Brooklyn Nets @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-05-minnesota-timberwolves-vs-phoenix-suns@open-sports-cal
+DTSTART:20270306T020000Z
+DTEND:20270306T050000Z
+SUMMARY:Minnesota Timberwolves @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-08-phoenix-suns-vs-miami-heat@open-sports-cal
+DTSTART:20270309T003000Z
+DTEND:20270309T033000Z
+SUMMARY:Phoenix Suns @ Miami Heat
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-09-phoenix-suns-vs-orlando-magic@open-sports-cal
+DTSTART:20270310T000000Z
+DTEND:20270310T030000Z
+SUMMARY:Phoenix Suns @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-11-phoenix-suns-vs-chicago-bulls@open-sports-cal
+DTSTART:20270312T010000Z
+DTEND:20270312T040000Z
+SUMMARY:Phoenix Suns @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-13-phoenix-suns-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270313T230000Z
+DTEND:20270314T020000Z
+SUMMARY:Phoenix Suns @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-15-phoenix-suns-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270316T000000Z
+DTEND:20270316T030000Z
+SUMMARY:Phoenix Suns @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-17-phoenix-suns-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270318T020000Z
+DTEND:20270318T050000Z
+SUMMARY:Phoenix Suns @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-19-miami-heat-vs-phoenix-suns@open-sports-cal
+DTSTART:20270320T023000Z
+DTEND:20270320T053000Z
+SUMMARY:Miami Heat @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-21-portland-trail-blazers-vs-phoenix-suns@open-sports-cal
+DTSTART:20270321T210000Z
+DTEND:20270322T000000Z
+SUMMARY:Portland Trail Blazers @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-23-oklahoma-city-thunder-vs-phoenix-suns@open-sports-cal
+DTSTART:20270324T030000Z
+DTEND:20270324T060000Z
+SUMMARY:Oklahoma City Thunder @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-oklahoma-city-thunder-vs-phoenix-suns@open-sports-cal
+DTSTART:20270325T020000Z
+DTEND:20270325T050000Z
+SUMMARY:Oklahoma City Thunder @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-26-milwaukee-bucks-vs-phoenix-suns@open-sports-cal
+DTSTART:20270327T020000Z
+DTEND:20270327T050000Z
+SUMMARY:Milwaukee Bucks @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-28-toronto-raptors-vs-phoenix-suns@open-sports-cal
+DTSTART:20270329T010000Z
+DTEND:20270329T040000Z
+SUMMARY:Toronto Raptors @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-29-phoenix-suns-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270330T013000Z
+DTEND:20270330T043000Z
+SUMMARY:Phoenix Suns @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-31-phoenix-suns-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270401T000000Z
+DTEND:20270401T030000Z
+SUMMARY:Phoenix Suns @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-02-denver-nuggets-vs-phoenix-suns@open-sports-cal
+DTSTART:20270403T020000Z
+DTEND:20270403T050000Z
+SUMMARY:Denver Nuggets @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-phoenix-suns-vs-la-clippers@open-sports-cal
+DTSTART:20270404T203000Z
+DTEND:20270404T233000Z
+SUMMARY:Phoenix Suns @ LA Clippers
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-06-phoenix-suns-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270407T030000Z
+DTEND:20270407T060000Z
+SUMMARY:Phoenix Suns @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-memphis-grizzlies-vs-phoenix-suns@open-sports-cal
+DTSTART:20270410T020000Z
+DTEND:20270410T050000Z
+SUMMARY:Memphis Grizzlies @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-phoenix-suns-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270412T003000Z
+DTEND:20270412T033000Z
+SUMMARY:Phoenix Suns @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR

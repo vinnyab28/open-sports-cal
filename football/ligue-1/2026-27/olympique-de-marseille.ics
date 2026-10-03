@@ -1,0 +1,417 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//Ligue 1 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ligue 1 2026-27 - Olympique de Marseille
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ligue-1-2026-0@open-sports-cal
+DTSTART:20260821T184500Z
+DTEND:20260821T204500Z
+SUMMARY:RC Strasbourg Alsace @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nRC Strasbourg Alsace @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-17@open-sports-cal
+DTSTART:20260830T184500Z
+DTEND:20260830T204500Z
+SUMMARY:Olympique de Marseille @ AS Monaco
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ AS Monaco\nStade Louis II
+LOCATION:Stade Louis II
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-26@open-sports-cal
+DTSTART:20260906T184500Z
+DTEND:20260906T204500Z
+SUMMARY:Paris FC @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nParis FC @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-27@open-sports-cal
+DTSTART:20260911T184500Z
+DTEND:20260911T204500Z
+SUMMARY:Olympique de Marseille @ Stade Rennais FC
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ Stade Rennais FC\nRoazhon Park
+LOCATION:Roazhon Park
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-44@open-sports-cal
+DTSTART:20260920T184500Z
+DTEND:20260920T204500Z
+SUMMARY:Paris Saint-Germain @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nParis Saint-Germain @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-53@open-sports-cal
+DTSTART:20261011T184500Z
+DTEND:20261011T204500Z
+SUMMARY:Olympique de Marseille @ Estac Troyes
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ Estac Troyes\nStade de l'Aube
+LOCATION:Stade de l'Aube
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-58@open-sports-cal
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Olympique de Marseille @ Angers SCO
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ Angers SCO\nStade Raymond Kopa
+LOCATION:Stade Raymond Kopa
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-69@open-sports-cal
+DTSTART:20261025T161500Z
+DTEND:20261025T181500Z
+SUMMARY:Havre Athletic Club @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nHavre Athletic Club @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-80@open-sports-cal
+DTSTART:20261101T194500Z
+DTEND:20261101T214500Z
+SUMMARY:Toulouse FC @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nToulouse FC @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-89@open-sports-cal
+DTSTART:20261108T194500Z
+DTEND:20261108T214500Z
+SUMMARY:Olympique de Marseille @ RC Lens
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ RC Lens\nStade Bollaert-Delelis
+LOCATION:Stade Bollaert-Delelis
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-98@open-sports-cal
+DTSTART:20261122T194500Z
+DTEND:20261122T214500Z
+SUMMARY:Le Mans FC @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nLe Mans FC @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-105@open-sports-cal
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Olympique de Marseille @ AJ Auxerre
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ AJ Auxerre\nStade de l'Abbé-Deschamps
+LOCATION:Stade de l'Abbé-Deschamps
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-110@open-sports-cal
+DTSTART:20261204T230000Z
+DTEND:20261205T010000Z
+SUMMARY:OGC Nice @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nOGC Nice @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-122@open-sports-cal
+DTSTART:20261211T230000Z
+DTEND:20261212T010000Z
+SUMMARY:Olympique de Marseille @ Olympique Lyonnais
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ Olympique Lyonnais\nParc Olympique Lyonnais
+LOCATION:Parc Olympique Lyonnais
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-126@open-sports-cal
+DTSTART:20270101T230000Z
+DTEND:20270102T010000Z
+SUMMARY:Olympique de Marseille @ Stade Brestois 29
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ Stade Brestois 29\nStade Francis-Le Blé
+LOCATION:Stade Francis-Le Blé
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-138@open-sports-cal
+DTSTART:20270115T230000Z
+DTEND:20270116T010000Z
+SUMMARY:LOSC Lille @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nLOSC Lille @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-148@open-sports-cal
+DTSTART:20270122T230000Z
+DTEND:20270123T010000Z
+SUMMARY:Olympique de Marseille @ FC Lorient
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ FC Lorient\nStade du Moustoir
+LOCATION:Stade du Moustoir
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-157@open-sports-cal
+DTSTART:20270129T230000Z
+DTEND:20270130T010000Z
+SUMMARY:Estac Troyes @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nEstac Troyes @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-167@open-sports-cal
+DTSTART:20270205T230000Z
+DTEND:20270206T010000Z
+SUMMARY:Olympique de Marseille @ Paris Saint-Germain
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ Paris Saint-Germain\nParc des Princes
+LOCATION:Parc des Princes
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-177@open-sports-cal
+DTSTART:20270212T230000Z
+DTEND:20270213T010000Z
+SUMMARY:Angers SCO @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nAngers SCO @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-187@open-sports-cal
+DTSTART:20270219T230000Z
+DTEND:20270220T010000Z
+SUMMARY:Olympique de Marseille @ RC Strasbourg Alsace
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ RC Strasbourg Alsace\nStade de la Meinau
+LOCATION:Stade de la Meinau
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-194@open-sports-cal
+DTSTART:20270226T230000Z
+DTEND:20270227T010000Z
+SUMMARY:Stade Rennais FC @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nStade Rennais FC @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-201@open-sports-cal
+DTSTART:20270305T230000Z
+DTEND:20270306T010000Z
+SUMMARY:Olympique de Marseille @ LOSC Lille
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ LOSC Lille\nStade Pierre-Mauroy
+LOCATION:Stade Pierre-Mauroy
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-212@open-sports-cal
+DTSTART:20270312T230000Z
+DTEND:20270313T010000Z
+SUMMARY:AS Monaco @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nAS Monaco @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-219@open-sports-cal
+DTSTART:20270319T230000Z
+DTEND:20270320T010000Z
+SUMMARY:Olympique Lyonnais @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nOlympique Lyonnais @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-229@open-sports-cal
+DTSTART:20270402T220000Z
+DTEND:20270403T000000Z
+SUMMARY:Olympique de Marseille @ Le Mans FC
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ Le Mans FC\nStade Marie-Marvingt
+LOCATION:Stade Marie-Marvingt
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-238@open-sports-cal
+DTSTART:20270409T220000Z
+DTEND:20270410T000000Z
+SUMMARY:Stade Brestois 29 @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nStade Brestois 29 @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-246@open-sports-cal
+DTSTART:20270416T220000Z
+DTEND:20270417T000000Z
+SUMMARY:Olympique de Marseille @ Havre Athletic Club
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ Havre Athletic Club\nStade Océane
+LOCATION:Stade Océane
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-256@open-sports-cal
+DTSTART:20270423T220000Z
+DTEND:20270424T000000Z
+SUMMARY:AJ Auxerre @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nAJ Auxerre @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-268@open-sports-cal
+DTSTART:20270430T220000Z
+DTEND:20270501T000000Z
+SUMMARY:Olympique de Marseille @ Toulouse FC
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ Toulouse FC\nStadium de Toulouse
+LOCATION:Stadium de Toulouse
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-276@open-sports-cal
+DTSTART:20270507T220000Z
+DTEND:20270508T000000Z
+SUMMARY:Olympique de Marseille @ OGC Nice
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ OGC Nice\nAllianz Riviera
+LOCATION:Allianz Riviera
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-283@open-sports-cal
+DTSTART:20270515T220000Z
+DTEND:20270516T000000Z
+SUMMARY:RC Lens @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nRC Lens @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-294@open-sports-cal
+DTSTART:20270521T220000Z
+DTEND:20270522T000000Z
+SUMMARY:Olympique de Marseille @ Paris FC
+DESCRIPTION:Ligue 1 2026-27\nOlympique de Marseille @ Paris FC\nStade Charléty
+LOCATION:Stade Charléty
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue-1-2026-301@open-sports-cal
+DTSTART:20270528T220000Z
+DTEND:20270529T000000Z
+SUMMARY:FC Lorient @ Olympique de Marseille
+DESCRIPTION:Ligue 1 2026-27\nFC Lorient @ Olympique de Marseille\nStade Vélodrome
+LOCATION:Stade Vélodrome
+CATEGORIES:Football,Ligue 1,Ligue 1 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034535Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+END:VCALENDAR

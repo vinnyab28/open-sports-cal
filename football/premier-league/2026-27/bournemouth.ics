@@ -1,0 +1,465 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//Premier League 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Premier League 2026-27 - Bournemouth
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:epl-2026-7@open-sports-cal
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:Bournemouth @ Man City
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Man City\nEtihad Stadium
+LOCATION:Etihad Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-12@open-sports-cal
+DTSTART:20260829T140000Z
+DTEND:20260829T160000Z
+SUMMARY:Everton @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nEverton @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-21@open-sports-cal
+DTSTART:20260905T113000Z
+DTEND:20260905T133000Z
+SUMMARY:Bournemouth @ Newcastle
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Newcastle\nSt. James' Park
+LOCATION:St. James' Park
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-30@open-sports-cal
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:Brentford @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nBrentford @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-46@open-sports-cal
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Liverpool @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nLiverpool @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-52@open-sports-cal
+DTSTART:20261010T140000Z
+DTEND:20261010T160000Z
+SUMMARY:Bournemouth @ Chelsea
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Chelsea\nStamford Bridge
+LOCATION:Stamford Bridge
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-65@open-sports-cal
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Sunderland @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nSunderland @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-78@open-sports-cal
+DTSTART:20261025T140000Z
+DTEND:20261025T160000Z
+SUMMARY:Bournemouth @ Man Utd
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Man Utd\nOld Trafford
+LOCATION:Old Trafford
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-81@open-sports-cal
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Leeds @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nLeeds @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-97@open-sports-cal
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Bournemouth @ Ipswich
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Ipswich\nPortman Road
+LOCATION:Portman Road
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-101@open-sports-cal
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Nott'm Forest @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-117@open-sports-cal
+DTSTART:20261129T140500Z
+DTEND:20261129T160500Z
+SUMMARY:Bournemouth @ Fulham
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Fulham\nCraven Cottage
+LOCATION:Craven Cottage
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-120@open-sports-cal
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Brighton @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nBrighton @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-130@open-sports-cal
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Hull @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nHull @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-140@open-sports-cal
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Bournemouth @ Arsenal
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Arsenal\nEmirates Stadium
+LOCATION:Emirates Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-150@open-sports-cal
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Coventry @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nCoventry @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-164@open-sports-cal
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Bournemouth @ Spurs
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Spurs\nTottenham Hotspur Stadium
+LOCATION:Tottenham Hotspur Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-174@open-sports-cal
+DTSTART:20261230T193000Z
+DTEND:20261230T213000Z
+SUMMARY:Bournemouth @ Crystal Palace
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Crystal Palace\nSelhurst Park
+LOCATION:Selhurst Park
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-187@open-sports-cal
+DTSTART:20270102T173000Z
+DTEND:20270102T193000Z
+SUMMARY:Aston Villa @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nAston Villa @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-191@open-sports-cal
+DTSTART:20270105T193000Z
+DTEND:20270105T213000Z
+SUMMARY:Bournemouth @ Brighton
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Brighton\nAmerican Express Stadium
+LOCATION:American Express Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-200@open-sports-cal
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Ipswich @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nIpswich @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-218@open-sports-cal
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Bournemouth @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-220@open-sports-cal
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Fulham @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nFulham @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-236@open-sports-cal
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Bournemouth @ Leeds
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Leeds\nElland Road
+LOCATION:Elland Road
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-240@open-sports-cal
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Bournemouth @ Aston Villa
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Aston Villa\nVilla Park
+LOCATION:Villa Park
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-250@open-sports-cal
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Crystal Palace @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nCrystal Palace @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-261@open-sports-cal
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Bournemouth @ Coventry
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-270@open-sports-cal
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Spurs @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nSpurs @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-280@open-sports-cal
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Newcastle @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nNewcastle @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-291@open-sports-cal
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Bournemouth @ Brentford
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Brentford\nGtech Community Stadium
+LOCATION:Gtech Community Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-300@open-sports-cal
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Man City @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nMan City @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-313@open-sports-cal
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Bournemouth @ Everton
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Everton\nHill Dickinson Stadium
+LOCATION:Hill Dickinson Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-320@open-sports-cal
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Arsenal @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nArsenal @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-335@open-sports-cal
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Bournemouth @ Hull
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Hull\nMKM Stadium
+LOCATION:MKM Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-340@open-sports-cal
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Man Utd @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nMan Utd @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-359@open-sports-cal
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Bournemouth @ Sunderland
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-360@open-sports-cal
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Chelsea @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nChelsea @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-377@open-sports-cal
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Bournemouth @ Liverpool
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Liverpool\nAnfield
+LOCATION:Anfield
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+END:VCALENDAR

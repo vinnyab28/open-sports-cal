@@ -1,0 +1,465 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//Premier League 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Premier League 2026-27 - Nott'm Forest
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:epl-2026-4@open-sports-cal
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+SUMMARY:Leeds @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nLeeds @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-11@open-sports-cal
+DTSTART:20260829T113000Z
+DTEND:20260829T133000Z
+SUMMARY:Nott'm Forest @ Liverpool
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Liverpool\nAnfield
+LOCATION:Anfield
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-26@open-sports-cal
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Spurs @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nSpurs @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-31@open-sports-cal
+DTSTART:20260912T140000Z
+DTEND:20260912T160000Z
+SUMMARY:Nott'm Forest @ Aston Villa
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Aston Villa\nVilla Park
+LOCATION:Villa Park
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-45@open-sports-cal
+DTSTART:20260919T163000Z
+DTEND:20260919T183000Z
+SUMMARY:Coventry @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nCoventry @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-56@open-sports-cal
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Nott'm Forest @ Crystal Palace
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Crystal Palace\nSelhurst Park
+LOCATION:Selhurst Park
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-68@open-sports-cal
+DTSTART:20261018T153000Z
+DTEND:20261018T173000Z
+SUMMARY:Arsenal @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nArsenal @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-70@open-sports-cal
+DTSTART:20261023T190000Z
+DTEND:20261023T210000Z
+SUMMARY:Nott'm Forest @ Ipswich
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Ipswich\nPortman Road
+LOCATION:Portman Road
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-82@open-sports-cal
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Nott'm Forest @ Brentford
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Brentford\nGtech Community Stadium
+LOCATION:Gtech Community Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-94@open-sports-cal
+DTSTART:20261107T173000Z
+DTEND:20261107T193000Z
+SUMMARY:Man City @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nMan City @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-101@open-sports-cal
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Nott'm Forest @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-110@open-sports-cal
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+SUMMARY:Chelsea @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nChelsea @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-125@open-sports-cal
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Nott'm Forest @ Hull
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Hull\nMKM Stadium
+LOCATION:MKM Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-138@open-sports-cal
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Brighton @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nBrighton @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-149@open-sports-cal
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Nott'm Forest @ Sunderland
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-158@open-sports-cal
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Everton @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nEverton @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-168@open-sports-cal
+DTSTART:20261227T163000Z
+DTEND:20261227T183000Z
+SUMMARY:Nott'm Forest @ Man Utd
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Man Utd\nOld Trafford
+LOCATION:Old Trafford
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-177@open-sports-cal
+DTSTART:20261230T193000Z
+DTEND:20261230T213000Z
+SUMMARY:Nott'm Forest @ Newcastle
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Newcastle\nSt. James' Park
+LOCATION:St. James' Park
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-185@open-sports-cal
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Fulham @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nFulham @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-193@open-sports-cal
+DTSTART:20270105T193000Z
+DTEND:20270105T213000Z
+SUMMARY:Hull @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nHull @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-207@open-sports-cal
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Nott'm Forest @ Man City
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Man City\nEtihad Stadium
+LOCATION:Etihad Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-218@open-sports-cal
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Bournemouth @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-223@open-sports-cal
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Nott'm Forest @ Chelsea
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Chelsea\nStamford Bridge
+LOCATION:Stamford Bridge
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-238@open-sports-cal
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Brentford @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nBrentford @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-244@open-sports-cal
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Nott'm Forest @ Fulham
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Fulham\nCraven Cottage
+LOCATION:Craven Cottage
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-258@open-sports-cal
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Man Utd @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nMan Utd @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-263@open-sports-cal
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Nott'm Forest @ Everton
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Everton\nHill Dickinson Stadium
+LOCATION:Hill Dickinson Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-278@open-sports-cal
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Newcastle @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nNewcastle @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-289@open-sports-cal
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Nott'm Forest @ Spurs
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Spurs\nTottenham Hotspur Stadium
+LOCATION:Tottenham Hotspur Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-299@open-sports-cal
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Aston Villa @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nAston Villa @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-305@open-sports-cal
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Nott'm Forest @ Leeds
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Leeds\nElland Road
+LOCATION:Elland Road
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-319@open-sports-cal
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Liverpool @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nLiverpool @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-328@open-sports-cal
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Sunderland @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nSunderland @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-331@open-sports-cal
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Nott'm Forest @ Brighton
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Brighton\nAmerican Express Stadium
+LOCATION:American Express Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-348@open-sports-cal
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Crystal Palace @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nCrystal Palace @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-350@open-sports-cal
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Nott'm Forest @ Arsenal
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Arsenal\nEmirates Stadium
+LOCATION:Emirates Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-368@open-sports-cal
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Ipswich @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nIpswich @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-373@open-sports-cal
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Nott'm Forest @ Coventry
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+END:VCALENDAR

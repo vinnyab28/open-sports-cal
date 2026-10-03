@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Denver Nuggets
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-22-denver-nuggets-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261023T013000Z
+DTEND:20261023T043000Z
+SUMMARY:Denver Nuggets @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-24-new-orleans-pelicans-vs-denver-nuggets@open-sports-cal
+DTSTART:20261025T010000Z
+DTEND:20261025T040000Z
+SUMMARY:New Orleans Pelicans @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-26-golden-state-warriors-vs-denver-nuggets@open-sports-cal
+DTSTART:20261027T020000Z
+DTEND:20261027T050000Z
+SUMMARY:Golden State Warriors @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-28-denver-nuggets-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261029T000000Z
+DTEND:20261029T030000Z
+SUMMARY:Denver Nuggets @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-30-denver-nuggets-vs-phoenix-suns@open-sports-cal
+DTSTART:20261031T020000Z
+DTEND:20261031T050000Z
+SUMMARY:Denver Nuggets @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-portland-trail-blazers-vs-denver-nuggets@open-sports-cal
+DTSTART:20261103T020000Z
+DTEND:20261103T050000Z
+SUMMARY:Portland Trail Blazers @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-toronto-raptors-vs-denver-nuggets@open-sports-cal
+DTSTART:20261105T020000Z
+DTEND:20261105T050000Z
+SUMMARY:Toronto Raptors @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-07-denver-nuggets-vs-indiana-pacers@open-sports-cal
+DTSTART:20261107T220000Z
+DTEND:20261108T010000Z
+SUMMARY:Denver Nuggets @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Indiana Pacers\nArena CDMX
+LOCATION:Arena CDMX
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-09-denver-nuggets-vs-houston-rockets@open-sports-cal
+DTSTART:20261110T013000Z
+DTEND:20261110T043000Z
+SUMMARY:Denver Nuggets @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-11-denver-nuggets-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261112T010000Z
+DTEND:20261112T040000Z
+SUMMARY:Denver Nuggets @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-14-denver-nuggets-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+SUMMARY:Denver Nuggets @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-16-phoenix-suns-vs-denver-nuggets@open-sports-cal
+DTSTART:20261117T020000Z
+DTEND:20261117T050000Z
+SUMMARY:Phoenix Suns @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-boston-celtics-vs-denver-nuggets@open-sports-cal
+DTSTART:20261119T020000Z
+DTEND:20261119T050000Z
+SUMMARY:Boston Celtics @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-20-houston-rockets-vs-denver-nuggets@open-sports-cal
+DTSTART:20261121T030000Z
+DTEND:20261121T060000Z
+SUMMARY:Houston Rockets @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-22-denver-nuggets-vs-chicago-bulls@open-sports-cal
+DTSTART:20261123T000000Z
+DTEND:20261123T030000Z
+SUMMARY:Denver Nuggets @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-24-dallas-mavericks-vs-denver-nuggets@open-sports-cal
+DTSTART:20261125T030000Z
+DTEND:20261125T060000Z
+SUMMARY:Dallas Mavericks @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-27-denver-nuggets-vs-utah-jazz@open-sports-cal
+DTSTART:20261128T023000Z
+DTEND:20261128T053000Z
+SUMMARY:Denver Nuggets @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-29-denver-nuggets-vs-toronto-raptors@open-sports-cal
+DTSTART:20261129T230000Z
+DTEND:20261130T020000Z
+SUMMARY:Denver Nuggets @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-30-denver-nuggets-vs-detroit-pistons@open-sports-cal
+DTSTART:20261201T000000Z
+DTEND:20261201T030000Z
+SUMMARY:Denver Nuggets @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-02-denver-nuggets-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261203T000000Z
+DTEND:20261203T030000Z
+SUMMARY:Denver Nuggets @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-12-denver-nuggets-vs-utah-jazz@open-sports-cal
+DTSTART:20261213T023000Z
+DTEND:20261213T053000Z
+SUMMARY:Denver Nuggets @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-15-denver-nuggets-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261216T040000Z
+DTEND:20261216T070000Z
+SUMMARY:Denver Nuggets @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-17-atlanta-hawks-vs-denver-nuggets@open-sports-cal
+DTSTART:20261218T020000Z
+DTEND:20261218T050000Z
+SUMMARY:Atlanta Hawks @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-19-los-angeles-lakers-vs-denver-nuggets@open-sports-cal
+DTSTART:20261220T020000Z
+DTEND:20261220T050000Z
+SUMMARY:Los Angeles Lakers @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-21-denver-nuggets-vs-la-clippers@open-sports-cal
+DTSTART:20261222T033000Z
+DTEND:20261222T063000Z
+SUMMARY:Denver Nuggets @ LA Clippers
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-denver-nuggets-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20261224T030000Z
+DTEND:20261224T060000Z
+SUMMARY:Denver Nuggets @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-25-denver-nuggets-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261226T033000Z
+DTEND:20261226T063000Z
+SUMMARY:Denver Nuggets @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-27-indiana-pacers-vs-denver-nuggets@open-sports-cal
+DTSTART:20261228T010000Z
+DTEND:20261228T040000Z
+SUMMARY:Indiana Pacers @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-28-minnesota-timberwolves-vs-denver-nuggets@open-sports-cal
+DTSTART:20261229T033000Z
+DTEND:20261229T063000Z
+SUMMARY:Minnesota Timberwolves @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-31-denver-nuggets-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261231T210000Z
+DTEND:20270101T000000Z
+SUMMARY:Denver Nuggets @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-02-new-york-knicks-vs-denver-nuggets@open-sports-cal
+DTSTART:20270102T220000Z
+DTEND:20270103T010000Z
+SUMMARY:New York Knicks @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-03-detroit-pistons-vs-denver-nuggets@open-sports-cal
+DTSTART:20270103T220000Z
+DTEND:20270104T010000Z
+SUMMARY:Detroit Pistons @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-05-phoenix-suns-vs-denver-nuggets@open-sports-cal
+DTSTART:20270106T030000Z
+DTEND:20270106T060000Z
+SUMMARY:Phoenix Suns @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-denver-nuggets-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Denver Nuggets @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-09-denver-nuggets-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270109T220000Z
+DTEND:20270110T010000Z
+SUMMARY:Denver Nuggets @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-11-denver-nuggets-vs-new-york-knicks@open-sports-cal
+DTSTART:20270112T003000Z
+DTEND:20270112T033000Z
+SUMMARY:Denver Nuggets @ New York Knicks
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-12-denver-nuggets-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270113T010000Z
+DTEND:20270113T040000Z
+SUMMARY:Denver Nuggets @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-14-memphis-grizzlies-vs-denver-nuggets@open-sports-cal
+DTSTART:20270115T020000Z
+DTEND:20270115T050000Z
+SUMMARY:Memphis Grizzlies @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-16-charlotte-hornets-vs-denver-nuggets@open-sports-cal
+DTSTART:20270117T020000Z
+DTEND:20270117T050000Z
+SUMMARY:Charlotte Hornets @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-17-orlando-magic-vs-denver-nuggets@open-sports-cal
+DTSTART:20270118T010000Z
+DTEND:20270118T040000Z
+SUMMARY:Orlando Magic @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-19-utah-jazz-vs-denver-nuggets@open-sports-cal
+DTSTART:20270120T030000Z
+DTEND:20270120T060000Z
+SUMMARY:Utah Jazz @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-21-washington-wizards-vs-denver-nuggets@open-sports-cal
+DTSTART:20270122T020000Z
+DTEND:20270122T050000Z
+SUMMARY:Washington Wizards @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-23-milwaukee-bucks-vs-denver-nuggets@open-sports-cal
+DTSTART:20270124T020000Z
+DTEND:20270124T050000Z
+SUMMARY:Milwaukee Bucks @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-25-sacramento-kings-vs-denver-nuggets@open-sports-cal
+DTSTART:20270126T023000Z
+DTEND:20270126T053000Z
+SUMMARY:Sacramento Kings @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-27-denver-nuggets-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270128T023000Z
+DTEND:20270128T053000Z
+SUMMARY:Denver Nuggets @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-30-denver-nuggets-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270130T200000Z
+DTEND:20270130T230000Z
+SUMMARY:Denver Nuggets @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-31-portland-trail-blazers-vs-denver-nuggets@open-sports-cal
+DTSTART:20270201T010000Z
+DTEND:20270201T040000Z
+SUMMARY:Portland Trail Blazers @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-02-oklahoma-city-thunder-vs-denver-nuggets@open-sports-cal
+DTSTART:20270203T020000Z
+DTEND:20270203T050000Z
+SUMMARY:Oklahoma City Thunder @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-04-dallas-mavericks-vs-denver-nuggets@open-sports-cal
+DTSTART:20270205T030000Z
+DTEND:20270205T060000Z
+SUMMARY:Dallas Mavericks @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-05-la-clippers-vs-denver-nuggets@open-sports-cal
+DTSTART:20270206T020000Z
+DTEND:20270206T050000Z
+SUMMARY:LA Clippers @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-07-denver-nuggets-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270207T200000Z
+DTEND:20270207T230000Z
+SUMMARY:Denver Nuggets @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-09-denver-nuggets-vs-boston-celtics@open-sports-cal
+DTSTART:20270210T003000Z
+DTEND:20270210T033000Z
+SUMMARY:Denver Nuggets @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-11-chicago-bulls-vs-denver-nuggets@open-sports-cal
+DTSTART:20270212T020000Z
+DTEND:20270212T050000Z
+SUMMARY:Chicago Bulls @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-12-denver-nuggets-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270213T033000Z
+DTEND:20270213T063000Z
+SUMMARY:Denver Nuggets @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-14-denver-nuggets-vs-houston-rockets@open-sports-cal
+DTSTART:20270214T190000Z
+DTEND:20270214T220000Z
+SUMMARY:Denver Nuggets @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-utah-jazz-vs-denver-nuggets@open-sports-cal
+DTSTART:20270218T020000Z
+DTEND:20270218T050000Z
+SUMMARY:Utah Jazz @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-26-los-angeles-lakers-vs-denver-nuggets@open-sports-cal
+DTSTART:20270227T030000Z
+DTEND:20270227T060000Z
+SUMMARY:Los Angeles Lakers @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-28-denver-nuggets-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270228T180000Z
+DTEND:20270228T210000Z
+SUMMARY:Denver Nuggets @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ San Antonio Spurs\nMoody Center
+LOCATION:Moody Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-01-brooklyn-nets-vs-denver-nuggets@open-sports-cal
+DTSTART:20270302T020000Z
+DTEND:20270302T050000Z
+SUMMARY:Brooklyn Nets @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-03-san-antonio-spurs-vs-denver-nuggets@open-sports-cal
+DTSTART:20270304T030000Z
+DTEND:20270304T060000Z
+SUMMARY:San Antonio Spurs @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-07-minnesota-timberwolves-vs-denver-nuggets@open-sports-cal
+DTSTART:20270307T203000Z
+DTEND:20270307T233000Z
+SUMMARY:Minnesota Timberwolves @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-08-denver-nuggets-vs-sacramento-kings@open-sports-cal
+DTSTART:20270309T030000Z
+DTEND:20270309T060000Z
+SUMMARY:Denver Nuggets @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-10-denver-nuggets-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270311T030000Z
+DTEND:20270311T060000Z
+SUMMARY:Denver Nuggets @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-12-golden-state-warriors-vs-denver-nuggets@open-sports-cal
+DTSTART:20270313T030000Z
+DTEND:20270313T060000Z
+SUMMARY:Golden State Warriors @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-14-miami-heat-vs-denver-nuggets@open-sports-cal
+DTSTART:20270314T233000Z
+DTEND:20270315T023000Z
+SUMMARY:Miami Heat @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-16-denver-nuggets-vs-la-clippers@open-sports-cal
+DTSTART:20270317T030000Z
+DTEND:20270317T060000Z
+SUMMARY:Denver Nuggets @ LA Clippers
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-18-cleveland-cavaliers-vs-denver-nuggets@open-sports-cal
+DTSTART:20270319T010000Z
+DTEND:20270319T040000Z
+SUMMARY:Cleveland Cavaliers @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-20-denver-nuggets-vs-orlando-magic@open-sports-cal
+DTSTART:20270320T230000Z
+DTEND:20270321T020000Z
+SUMMARY:Denver Nuggets @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-21-denver-nuggets-vs-miami-heat@open-sports-cal
+DTSTART:20270321T220000Z
+DTEND:20270322T010000Z
+SUMMARY:Denver Nuggets @ Miami Heat
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-denver-nuggets-vs-washington-wizards@open-sports-cal
+DTSTART:20270324T230000Z
+DTEND:20270325T020000Z
+SUMMARY:Denver Nuggets @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-25-denver-nuggets-vs-brooklyn-nets@open-sports-cal
+DTSTART:20270325T233000Z
+DTEND:20270326T023000Z
+SUMMARY:Denver Nuggets @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-28-philadelphia-76ers-vs-denver-nuggets@open-sports-cal
+DTSTART:20270329T020000Z
+DTEND:20270329T050000Z
+SUMMARY:Philadelphia 76ers @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-29-denver-nuggets-vs-sacramento-kings@open-sports-cal
+DTSTART:20270330T020000Z
+DTEND:20270330T050000Z
+SUMMARY:Denver Nuggets @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-31-denver-nuggets-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270401T013000Z
+DTEND:20270401T043000Z
+SUMMARY:Denver Nuggets @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-02-denver-nuggets-vs-phoenix-suns@open-sports-cal
+DTSTART:20270403T020000Z
+DTEND:20270403T050000Z
+SUMMARY:Denver Nuggets @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-memphis-grizzlies-vs-denver-nuggets@open-sports-cal
+DTSTART:20270404T210000Z
+DTEND:20270405T000000Z
+SUMMARY:Memphis Grizzlies @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-06-new-orleans-pelicans-vs-denver-nuggets@open-sports-cal
+DTSTART:20270407T010000Z
+DTEND:20270407T040000Z
+SUMMARY:New Orleans Pelicans @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-08-la-clippers-vs-denver-nuggets@open-sports-cal
+DTSTART:20270409T010000Z
+DTEND:20270409T040000Z
+SUMMARY:LA Clippers @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-denver-nuggets-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270410T013000Z
+DTEND:20270410T043000Z
+SUMMARY:Denver Nuggets @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-oklahoma-city-thunder-vs-denver-nuggets@open-sports-cal
+DTSTART:20270412T003000Z
+DTEND:20270412T033000Z
+SUMMARY:Oklahoma City Thunder @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+END:VCALENDAR

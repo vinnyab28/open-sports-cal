@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Portland Trail Blazers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-21-phoenix-suns-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261022T020000Z
+DTEND:20261022T050000Z
+SUMMARY:Phoenix Suns @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-23-portland-trail-blazers-vs-sacramento-kings@open-sports-cal
+DTSTART:20261024T020000Z
+DTEND:20261024T050000Z
+SUMMARY:Portland Trail Blazers @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-27-portland-trail-blazers-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20261028T030000Z
+DTEND:20261028T060000Z
+SUMMARY:Portland Trail Blazers @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-29-memphis-grizzlies-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261030T020000Z
+DTEND:20261030T050000Z
+SUMMARY:Memphis Grizzlies @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-31-portland-trail-blazers-vs-utah-jazz@open-sports-cal
+DTSTART:20261031T190000Z
+DTEND:20261031T220000Z
+SUMMARY:Portland Trail Blazers @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-portland-trail-blazers-vs-denver-nuggets@open-sports-cal
+DTSTART:20261103T020000Z
+DTEND:20261103T050000Z
+SUMMARY:Portland Trail Blazers @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-portland-trail-blazers-vs-phoenix-suns@open-sports-cal
+DTSTART:20261105T020000Z
+DTEND:20261105T050000Z
+SUMMARY:Portland Trail Blazers @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-06-portland-trail-blazers-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20261107T030000Z
+DTEND:20261107T060000Z
+SUMMARY:Portland Trail Blazers @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-07-san-antonio-spurs-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261108T030000Z
+DTEND:20261108T060000Z
+SUMMARY:San Antonio Spurs @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-10-oklahoma-city-thunder-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261111T040000Z
+DTEND:20261111T070000Z
+SUMMARY:Oklahoma City Thunder @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-11-oklahoma-city-thunder-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261112T030000Z
+DTEND:20261112T060000Z
+SUMMARY:Oklahoma City Thunder @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-13-portland-trail-blazers-vs-sacramento-kings@open-sports-cal
+DTSTART:20261114T030000Z
+DTEND:20261114T060000Z
+SUMMARY:Portland Trail Blazers @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-16-portland-trail-blazers-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261117T010000Z
+DTEND:20261117T040000Z
+SUMMARY:Portland Trail Blazers @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-17-portland-trail-blazers-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261118T010000Z
+DTEND:20261118T040000Z
+SUMMARY:Portland Trail Blazers @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-19-portland-trail-blazers-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20261120T010000Z
+DTEND:20261120T040000Z
+SUMMARY:Portland Trail Blazers @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-21-portland-trail-blazers-vs-new-york-knicks@open-sports-cal
+DTSTART:20261122T003000Z
+DTEND:20261122T033000Z
+SUMMARY:Portland Trail Blazers @ New York Knicks
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-23-portland-trail-blazers-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261124T000000Z
+DTEND:20261124T030000Z
+SUMMARY:Portland Trail Blazers @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-25-san-antonio-spurs-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261126T030000Z
+DTEND:20261126T060000Z
+SUMMARY:San Antonio Spurs @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-27-golden-state-warriors-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261128T023000Z
+DTEND:20261128T053000Z
+SUMMARY:Golden State Warriors @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-29-new-orleans-pelicans-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261129T230000Z
+DTEND:20261130T020000Z
+SUMMARY:New Orleans Pelicans @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-01-minnesota-timberwolves-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261202T030000Z
+DTEND:20261202T060000Z
+SUMMARY:Minnesota Timberwolves @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-03-utah-jazz-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261204T030000Z
+DTEND:20261204T060000Z
+SUMMARY:Utah Jazz @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-12-atlanta-hawks-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261213T030000Z
+DTEND:20261213T060000Z
+SUMMARY:Atlanta Hawks @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-15-denver-nuggets-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261216T040000Z
+DTEND:20261216T070000Z
+SUMMARY:Denver Nuggets @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-17-portland-trail-blazers-vs-indiana-pacers@open-sports-cal
+DTSTART:20261218T000000Z
+DTEND:20261218T030000Z
+SUMMARY:Portland Trail Blazers @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-19-portland-trail-blazers-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261219T230000Z
+DTEND:20261220T020000Z
+SUMMARY:Portland Trail Blazers @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-21-portland-trail-blazers-vs-brooklyn-nets@open-sports-cal
+DTSTART:20261222T003000Z
+DTEND:20261222T033000Z
+SUMMARY:Portland Trail Blazers @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-portland-trail-blazers-vs-boston-celtics@open-sports-cal
+DTSTART:20261224T003000Z
+DTEND:20261224T033000Z
+SUMMARY:Portland Trail Blazers @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-26-portland-trail-blazers-vs-washington-wizards@open-sports-cal
+DTSTART:20261226T180000Z
+DTEND:20261226T210000Z
+SUMMARY:Portland Trail Blazers @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-27-portland-trail-blazers-vs-detroit-pistons@open-sports-cal
+DTSTART:20261228T000000Z
+DTEND:20261228T030000Z
+SUMMARY:Portland Trail Blazers @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-29-brooklyn-nets-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261230T030000Z
+DTEND:20261230T060000Z
+SUMMARY:Brooklyn Nets @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-02-boston-celtics-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270103T030000Z
+DTEND:20270103T060000Z
+SUMMARY:Boston Celtics @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-04-new-york-knicks-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270105T030000Z
+DTEND:20270105T060000Z
+SUMMARY:New York Knicks @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-06-portland-trail-blazers-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270107T010000Z
+DTEND:20270107T040000Z
+SUMMARY:Portland Trail Blazers @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-portland-trail-blazers-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270108T010000Z
+DTEND:20270108T040000Z
+SUMMARY:Portland Trail Blazers @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-09-charlotte-hornets-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270110T030000Z
+DTEND:20270110T060000Z
+SUMMARY:Charlotte Hornets @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-12-orlando-magic-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270113T030000Z
+DTEND:20270113T060000Z
+SUMMARY:Orlando Magic @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-13-los-angeles-lakers-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270114T030000Z
+DTEND:20270114T060000Z
+SUMMARY:Los Angeles Lakers @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-15-sacramento-kings-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270116T030000Z
+DTEND:20270116T060000Z
+SUMMARY:Sacramento Kings @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-17-portland-trail-blazers-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270117T203000Z
+DTEND:20270117T233000Z
+SUMMARY:Portland Trail Blazers @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-19-portland-trail-blazers-vs-miami-heat@open-sports-cal
+DTSTART:20270120T003000Z
+DTEND:20270120T033000Z
+SUMMARY:Portland Trail Blazers @ Miami Heat
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-20-portland-trail-blazers-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270121T000000Z
+DTEND:20270121T030000Z
+SUMMARY:Portland Trail Blazers @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-22-portland-trail-blazers-vs-orlando-magic@open-sports-cal
+DTSTART:20270123T000000Z
+DTEND:20270123T030000Z
+SUMMARY:Portland Trail Blazers @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-24-portland-trail-blazers-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270124T203000Z
+DTEND:20270124T233000Z
+SUMMARY:Portland Trail Blazers @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-26-washington-wizards-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270127T030000Z
+DTEND:20270127T060000Z
+SUMMARY:Washington Wizards @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-27-golden-state-warriors-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270128T030000Z
+DTEND:20270128T060000Z
+SUMMARY:Golden State Warriors @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-31-portland-trail-blazers-vs-denver-nuggets@open-sports-cal
+DTSTART:20270201T010000Z
+DTEND:20270201T040000Z
+SUMMARY:Portland Trail Blazers @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-02-minnesota-timberwolves-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270203T040000Z
+DTEND:20270203T070000Z
+SUMMARY:Minnesota Timberwolves @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-04-cleveland-cavaliers-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270205T030000Z
+DTEND:20270205T060000Z
+SUMMARY:Cleveland Cavaliers @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-06-portland-trail-blazers-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270206T223000Z
+DTEND:20270207T013000Z
+SUMMARY:Portland Trail Blazers @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-08-portland-trail-blazers-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270209T010000Z
+DTEND:20270209T040000Z
+SUMMARY:Portland Trail Blazers @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-09-portland-trail-blazers-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270210T010000Z
+DTEND:20270210T040000Z
+SUMMARY:Portland Trail Blazers @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-11-portland-trail-blazers-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270212T010000Z
+DTEND:20270212T040000Z
+SUMMARY:Portland Trail Blazers @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-13-detroit-pistons-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270213T203000Z
+DTEND:20270213T233000Z
+SUMMARY:Detroit Pistons @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-14-chicago-bulls-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270214T203000Z
+DTEND:20270214T233000Z
+SUMMARY:Chicago Bulls @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-16-new-orleans-pelicans-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270217T030000Z
+DTEND:20270217T060000Z
+SUMMARY:New Orleans Pelicans @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-18-indiana-pacers-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270219T030000Z
+DTEND:20270219T060000Z
+SUMMARY:Indiana Pacers @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-26-dallas-mavericks-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270227T030000Z
+DTEND:20270227T060000Z
+SUMMARY:Dallas Mavericks @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-28-portland-trail-blazers-vs-la-clippers@open-sports-cal
+DTSTART:20270301T033000Z
+DTEND:20270301T063000Z
+SUMMARY:Portland Trail Blazers @ LA Clippers
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-02-la-clippers-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270303T040000Z
+DTEND:20270303T070000Z
+SUMMARY:LA Clippers @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-04-portland-trail-blazers-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270305T000000Z
+DTEND:20270305T030000Z
+SUMMARY:Portland Trail Blazers @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-05-portland-trail-blazers-vs-toronto-raptors@open-sports-cal
+DTSTART:20270306T003000Z
+DTEND:20270306T033000Z
+SUMMARY:Portland Trail Blazers @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-07-portland-trail-blazers-vs-chicago-bulls@open-sports-cal
+DTSTART:20270307T220000Z
+DTEND:20270308T010000Z
+SUMMARY:Portland Trail Blazers @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-09-portland-trail-blazers-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270310T040000Z
+DTEND:20270310T070000Z
+SUMMARY:Portland Trail Blazers @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-10-denver-nuggets-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270311T030000Z
+DTEND:20270311T060000Z
+SUMMARY:Denver Nuggets @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-13-la-clippers-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270314T033000Z
+DTEND:20270314T063000Z
+SUMMARY:LA Clippers @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-16-los-angeles-lakers-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270317T020000Z
+DTEND:20270317T050000Z
+SUMMARY:Los Angeles Lakers @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-17-miami-heat-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270318T020000Z
+DTEND:20270318T050000Z
+SUMMARY:Miami Heat @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-19-portland-trail-blazers-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270320T020000Z
+DTEND:20270320T050000Z
+SUMMARY:Portland Trail Blazers @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-21-portland-trail-blazers-vs-phoenix-suns@open-sports-cal
+DTSTART:20270321T210000Z
+DTEND:20270322T000000Z
+SUMMARY:Portland Trail Blazers @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-23-toronto-raptors-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270324T020000Z
+DTEND:20270324T050000Z
+SUMMARY:Toronto Raptors @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-26-philadelphia-76ers-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270327T020000Z
+DTEND:20270327T050000Z
+SUMMARY:Philadelphia 76ers @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-27-milwaukee-bucks-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270328T020000Z
+DTEND:20270328T050000Z
+SUMMARY:Milwaukee Bucks @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-30-houston-rockets-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270331T030000Z
+DTEND:20270331T060000Z
+SUMMARY:Houston Rockets @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-31-houston-rockets-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270401T020000Z
+DTEND:20270401T050000Z
+SUMMARY:Houston Rockets @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-02-utah-jazz-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270403T020000Z
+DTEND:20270403T050000Z
+SUMMARY:Utah Jazz @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-portland-trail-blazers-vs-utah-jazz@open-sports-cal
+DTSTART:20270404T210000Z
+DTEND:20270405T000000Z
+SUMMARY:Portland Trail Blazers @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-07-dallas-mavericks-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270408T020000Z
+DTEND:20270408T050000Z
+SUMMARY:Dallas Mavericks @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-portland-trail-blazers-vs-houston-rockets@open-sports-cal
+DTSTART:20270410T003000Z
+DTEND:20270410T033000Z
+SUMMARY:Portland Trail Blazers @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-portland-trail-blazers-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270412T003000Z
+DTEND:20270412T033000Z
+SUMMARY:Portland Trail Blazers @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

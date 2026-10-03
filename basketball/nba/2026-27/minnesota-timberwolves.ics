@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Minnesota Timberwolves
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-21-minnesota-timberwolves-vs-miami-heat@open-sports-cal
+DTSTART:20261021T233000Z
+DTEND:20261022T023000Z
+SUMMARY:Minnesota Timberwolves @ Miami Heat
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-23-minnesota-timberwolves-vs-orlando-magic@open-sports-cal
+DTSTART:20261023T230000Z
+DTEND:20261024T020000Z
+SUMMARY:Minnesota Timberwolves @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-25-toronto-raptors-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261025T230000Z
+DTEND:20261026T020000Z
+SUMMARY:Toronto Raptors @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-26-minnesota-timberwolves-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261026T230000Z
+DTEND:20261027T020000Z
+SUMMARY:Minnesota Timberwolves @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-28-golden-state-warriors-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261029T000000Z
+DTEND:20261029T030000Z
+SUMMARY:Golden State Warriors @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-30-la-clippers-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261031T000000Z
+DTEND:20261031T030000Z
+SUMMARY:LA Clippers @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-31-minnesota-timberwolves-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261101T000000Z
+DTEND:20261101T030000Z
+SUMMARY:Minnesota Timberwolves @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-milwaukee-bucks-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261103T010000Z
+DTEND:20261103T040000Z
+SUMMARY:Milwaukee Bucks @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-minnesota-timberwolves-vs-houston-rockets@open-sports-cal
+DTSTART:20261105T013000Z
+DTEND:20261105T043000Z
+SUMMARY:Minnesota Timberwolves @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-06-minnesota-timberwolves-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:Minnesota Timberwolves @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-08-utah-jazz-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261109T000000Z
+DTEND:20261109T030000Z
+SUMMARY:Utah Jazz @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-12-dallas-mavericks-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261113T010000Z
+DTEND:20261113T040000Z
+SUMMARY:Dallas Mavericks @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-14-chicago-bulls-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261115T010000Z
+DTEND:20261115T040000Z
+SUMMARY:Chicago Bulls @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-16-portland-trail-blazers-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261117T010000Z
+DTEND:20261117T040000Z
+SUMMARY:Portland Trail Blazers @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-17-portland-trail-blazers-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261118T010000Z
+DTEND:20261118T040000Z
+SUMMARY:Portland Trail Blazers @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-19-new-york-knicks-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261120T010000Z
+DTEND:20261120T040000Z
+SUMMARY:New York Knicks @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-21-memphis-grizzlies-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261122T010000Z
+DTEND:20261122T040000Z
+SUMMARY:Memphis Grizzlies @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-23-brooklyn-nets-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261124T003000Z
+DTEND:20261124T033000Z
+SUMMARY:Brooklyn Nets @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-25-minnesota-timberwolves-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261126T003000Z
+DTEND:20261126T033000Z
+SUMMARY:Minnesota Timberwolves @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-27-memphis-grizzlies-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261128T013000Z
+DTEND:20261128T043000Z
+SUMMARY:Memphis Grizzlies @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-29-minnesota-timberwolves-vs-sacramento-kings@open-sports-cal
+DTSTART:20261130T020000Z
+DTEND:20261130T050000Z
+SUMMARY:Minnesota Timberwolves @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-01-minnesota-timberwolves-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261202T030000Z
+DTEND:20261202T060000Z
+SUMMARY:Minnesota Timberwolves @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-02-minnesota-timberwolves-vs-la-clippers@open-sports-cal
+DTSTART:20261203T033000Z
+DTEND:20261203T063000Z
+SUMMARY:Minnesota Timberwolves @ LA Clippers
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-12-minnesota-timberwolves-vs-phoenix-suns@open-sports-cal
+DTSTART:20261213T020000Z
+DTEND:20261213T050000Z
+SUMMARY:Minnesota Timberwolves @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-14-minnesota-timberwolves-vs-utah-jazz@open-sports-cal
+DTSTART:20261215T020000Z
+DTEND:20261215T050000Z
+SUMMARY:Minnesota Timberwolves @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-los-angeles-lakers-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261217T023000Z
+DTEND:20261217T053000Z
+SUMMARY:Los Angeles Lakers @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-18-los-angeles-lakers-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261219T010000Z
+DTEND:20261219T040000Z
+SUMMARY:Los Angeles Lakers @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-21-phoenix-suns-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261222T010000Z
+DTEND:20261222T040000Z
+SUMMARY:Phoenix Suns @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-minnesota-timberwolves-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20261224T010000Z
+DTEND:20261224T040000Z
+SUMMARY:Minnesota Timberwolves @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-25-oklahoma-city-thunder-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261226T010000Z
+DTEND:20261226T040000Z
+SUMMARY:Oklahoma City Thunder @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-27-minnesota-timberwolves-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261228T013000Z
+DTEND:20261228T043000Z
+SUMMARY:Minnesota Timberwolves @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-28-minnesota-timberwolves-vs-denver-nuggets@open-sports-cal
+DTSTART:20261229T033000Z
+DTEND:20261229T063000Z
+SUMMARY:Minnesota Timberwolves @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-31-denver-nuggets-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261231T210000Z
+DTEND:20270101T000000Z
+SUMMARY:Denver Nuggets @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-02-minnesota-timberwolves-vs-indiana-pacers@open-sports-cal
+DTSTART:20270103T000000Z
+DTEND:20270103T030000Z
+SUMMARY:Minnesota Timberwolves @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-03-san-antonio-spurs-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270104T000000Z
+DTEND:20270104T030000Z
+SUMMARY:San Antonio Spurs @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-05-minnesota-timberwolves-vs-houston-rockets@open-sports-cal
+DTSTART:20270106T010000Z
+DTEND:20270106T040000Z
+SUMMARY:Minnesota Timberwolves @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-minnesota-timberwolves-vs-toronto-raptors@open-sports-cal
+DTSTART:20270108T003000Z
+DTEND:20270108T033000Z
+SUMMARY:Minnesota Timberwolves @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-08-minnesota-timberwolves-vs-washington-wizards@open-sports-cal
+DTSTART:20270109T000000Z
+DTEND:20270109T030000Z
+SUMMARY:Minnesota Timberwolves @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-11-cleveland-cavaliers-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270112T010000Z
+DTEND:20270112T040000Z
+SUMMARY:Cleveland Cavaliers @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-14-minnesota-timberwolves-vs-chicago-bulls@open-sports-cal
+DTSTART:20270115T010000Z
+DTEND:20270115T040000Z
+SUMMARY:Minnesota Timberwolves @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-16-minnesota-timberwolves-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270116T173000Z
+DTEND:20270116T203000Z
+SUMMARY:Minnesota Timberwolves @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-18-minnesota-timberwolves-vs-new-york-knicks@open-sports-cal
+DTSTART:20270118T220000Z
+DTEND:20270119T010000Z
+SUMMARY:Minnesota Timberwolves @ New York Knicks
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-20-houston-rockets-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270121T010000Z
+DTEND:20270121T040000Z
+SUMMARY:Houston Rockets @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-22-minnesota-timberwolves-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270123T023000Z
+DTEND:20270123T053000Z
+SUMMARY:Minnesota Timberwolves @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-24-minnesota-timberwolves-vs-detroit-pistons@open-sports-cal
+DTSTART:20270124T230000Z
+DTEND:20270125T020000Z
+SUMMARY:Minnesota Timberwolves @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-25-minnesota-timberwolves-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270126T010000Z
+DTEND:20270126T040000Z
+SUMMARY:Minnesota Timberwolves @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-27-denver-nuggets-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270128T023000Z
+DTEND:20270128T053000Z
+SUMMARY:Denver Nuggets @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-29-charlotte-hornets-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270130T023000Z
+DTEND:20270130T053000Z
+SUMMARY:Charlotte Hornets @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-31-phoenix-suns-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270131T230000Z
+DTEND:20270201T020000Z
+SUMMARY:Phoenix Suns @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-02-minnesota-timberwolves-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270203T040000Z
+DTEND:20270203T070000Z
+SUMMARY:Minnesota Timberwolves @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-04-minnesota-timberwolves-vs-sacramento-kings@open-sports-cal
+DTSTART:20270205T030000Z
+DTEND:20270205T060000Z
+SUMMARY:Minnesota Timberwolves @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-06-miami-heat-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270206T200000Z
+DTEND:20270206T230000Z
+SUMMARY:Miami Heat @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-07-utah-jazz-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270207T203000Z
+DTEND:20270207T233000Z
+SUMMARY:Utah Jazz @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-09-minnesota-timberwolves-vs-brooklyn-nets@open-sports-cal
+DTSTART:20270210T003000Z
+DTEND:20270210T033000Z
+SUMMARY:Minnesota Timberwolves @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-12-minnesota-timberwolves-vs-boston-celtics@open-sports-cal
+DTSTART:20270213T010000Z
+DTEND:20270213T040000Z
+SUMMARY:Minnesota Timberwolves @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-15-minnesota-timberwolves-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270215T170000Z
+DTEND:20270215T200000Z
+SUMMARY:Minnesota Timberwolves @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-18-san-antonio-spurs-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270219T003000Z
+DTEND:20270219T033000Z
+SUMMARY:San Antonio Spurs @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-26-indiana-pacers-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270227T010000Z
+DTEND:20270227T040000Z
+SUMMARY:Indiana Pacers @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-28-boston-celtics-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270301T000000Z
+DTEND:20270301T030000Z
+SUMMARY:Boston Celtics @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-02-minnesota-timberwolves-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270303T010000Z
+DTEND:20270303T040000Z
+SUMMARY:Minnesota Timberwolves @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-05-minnesota-timberwolves-vs-phoenix-suns@open-sports-cal
+DTSTART:20270306T020000Z
+DTEND:20270306T050000Z
+SUMMARY:Minnesota Timberwolves @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-07-minnesota-timberwolves-vs-denver-nuggets@open-sports-cal
+DTSTART:20270307T203000Z
+DTEND:20270307T233000Z
+SUMMARY:Minnesota Timberwolves @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-08-new-orleans-pelicans-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270309T010000Z
+DTEND:20270309T040000Z
+SUMMARY:New Orleans Pelicans @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-10-atlanta-hawks-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270311T023000Z
+DTEND:20270311T053000Z
+SUMMARY:Atlanta Hawks @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-13-philadelphia-76ers-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270314T013000Z
+DTEND:20270314T043000Z
+SUMMARY:Philadelphia 76ers @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-14-washington-wizards-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270315T000000Z
+DTEND:20270315T030000Z
+SUMMARY:Washington Wizards @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-16-minnesota-timberwolves-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270317T000000Z
+DTEND:20270317T030000Z
+SUMMARY:Minnesota Timberwolves @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-18-minnesota-timberwolves-vs-utah-jazz@open-sports-cal
+DTSTART:20270319T010000Z
+DTEND:20270319T040000Z
+SUMMARY:Minnesota Timberwolves @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-22-detroit-pistons-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270323T013000Z
+DTEND:20270323T043000Z
+SUMMARY:Detroit Pistons @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-dallas-mavericks-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270325T000000Z
+DTEND:20270325T030000Z
+SUMMARY:Dallas Mavericks @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-26-orlando-magic-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270327T000000Z
+DTEND:20270327T030000Z
+SUMMARY:Orlando Magic @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-28-oklahoma-city-thunder-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270328T233000Z
+DTEND:20270329T023000Z
+SUMMARY:Oklahoma City Thunder @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-29-minnesota-timberwolves-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270329T230000Z
+DTEND:20270330T020000Z
+SUMMARY:Minnesota Timberwolves @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-31-sacramento-kings-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270401T000000Z
+DTEND:20270401T030000Z
+SUMMARY:Sacramento Kings @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-02-golden-state-warriors-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270402T233000Z
+DTEND:20270403T023000Z
+SUMMARY:Golden State Warriors @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-minnesota-timberwolves-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270404T190000Z
+DTEND:20270404T220000Z
+SUMMARY:Minnesota Timberwolves @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-06-minnesota-timberwolves-vs-la-clippers@open-sports-cal
+DTSTART:20270407T023000Z
+DTEND:20270407T053000Z
+SUMMARY:Minnesota Timberwolves @ LA Clippers
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-07-minnesota-timberwolves-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270408T020000Z
+DTEND:20270408T050000Z
+SUMMARY:Minnesota Timberwolves @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-minnesota-timberwolves-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270410T020000Z
+DTEND:20270410T050000Z
+SUMMARY:Minnesota Timberwolves @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-houston-rockets-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270412T003000Z
+DTEND:20270412T033000Z
+SUMMARY:Houston Rockets @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

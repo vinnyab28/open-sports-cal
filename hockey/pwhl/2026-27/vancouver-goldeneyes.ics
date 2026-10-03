@@ -1,0 +1,393 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//PWHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PWHL 2026-27 - Vancouver Goldeneyes
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-23-vancouver-goldeneyes-vs-minnesota-frost@open-sports-cal
+DTSTART:20261123T160000Z
+DTEND:20261123T190000Z
+SUMMARY:Vancouver Goldeneyes @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ Minnesota Frost\nAmerica First Center | Henderson, Henderson, NV
+LOCATION:America First Center | Henderson, Henderson, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-24-pwhl-las-vegas-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20261124T150000Z
+DTEND:20261124T180000Z
+SUMMARY:PWHL Las Vegas @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Vancouver Goldeneyes\nAmerica First Center | Henderson, Henderson, NV
+LOCATION:America First Center | Henderson, Henderson, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-05-seattle-torrent-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20261205T150000Z
+DTEND:20261205T180000Z
+SUMMARY:Seattle Torrent @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-12-pwhl-las-vegas-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20261212T210000Z
+DTEND:20261213T000000Z
+SUMMARY:PWHL Las Vegas @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-17-vancouver-goldeneyes-vs-minnesota-frost@open-sports-cal
+DTSTART:20261217T190000Z
+DTEND:20261217T220000Z
+SUMMARY:Vancouver Goldeneyes @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-19-vancouver-goldeneyes-vs-pwhl-detroit@open-sports-cal
+DTSTART:20261219T140000Z
+DTEND:20261219T170000Z
+SUMMARY:Vancouver Goldeneyes @ PWHL Detroit
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ PWHL Detroit\nLittle Caesars Arena | Detroit, Detroit, MI
+LOCATION:Little Caesars Arena | Detroit, Detroit, MI
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-22-boston-fleet-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20261222T213000Z
+DTEND:20261223T003000Z
+SUMMARY:Boston Fleet @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-02-new-york-sirens-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270102T190000Z
+DTEND:20270102T220000Z
+SUMMARY:New York Sirens @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-05-ottawa-charge-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270105T213000Z
+DTEND:20270106T003000Z
+SUMMARY:Ottawa Charge @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-07-vancouver-goldeneyes-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270107T190000Z
+DTEND:20270107T220000Z
+SUMMARY:Vancouver Goldeneyes @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-12-montreal-victoire-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270112T210000Z
+DTEND:20270113T000000Z
+SUMMARY:Montréal Victoire @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-16-pwhl-hamilton-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270116T150000Z
+DTEND:20270116T180000Z
+SUMMARY:PWHL Hamilton @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-23-minnesota-frost-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270123T190000Z
+DTEND:20270123T220000Z
+SUMMARY:Minnesota Frost @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ Vancouver Goldeneyes\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-28-toronto-sceptres-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270128T213000Z
+DTEND:20270129T003000Z
+SUMMARY:Toronto Sceptres @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-04-vancouver-goldeneyes-vs-seattle-torrent@open-sports-cal
+DTSTART:20270204T220000Z
+DTEND:20270205T010000Z
+SUMMARY:Vancouver Goldeneyes @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-07-pwhl-las-vegas-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270207T180000Z
+DTEND:20270207T210000Z
+SUMMARY:PWHL Las Vegas @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Vancouver Goldeneyes\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-10-minnesota-frost-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270210T213000Z
+DTEND:20270211T003000Z
+SUMMARY:Minnesota Frost @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-13-vancouver-goldeneyes-vs-pwhl-san-jose@open-sports-cal
+DTSTART:20270213T130000Z
+DTEND:20270213T160000Z
+SUMMARY:Vancouver Goldeneyes @ PWHL San Jose
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ PWHL San Jose\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-19-vancouver-goldeneyes-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270219T220000Z
+DTEND:20270220T010000Z
+SUMMARY:Vancouver Goldeneyes @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-24-vancouver-goldeneyes-vs-pwhl-detroit@open-sports-cal
+DTSTART:20270224T190000Z
+DTEND:20270224T220000Z
+SUMMARY:Vancouver Goldeneyes @ PWHL Detroit
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ PWHL Detroit\nLittle Caesars Arena | Detroit, Detroit, MI
+LOCATION:Little Caesars Arena | Detroit, Detroit, MI
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-27-vancouver-goldeneyes-vs-boston-fleet@open-sports-cal
+DTSTART:20270227T190000Z
+DTEND:20270227T220000Z
+SUMMARY:Vancouver Goldeneyes @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ Boston Fleet\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-10-seattle-torrent-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270310T213000Z
+DTEND:20270311T003000Z
+SUMMARY:Seattle Torrent @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-13-pwhl-san-jose-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270313T150000Z
+DTEND:20270313T180000Z
+SUMMARY:PWHL San Jose @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nPWHL San Jose @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-16-vancouver-goldeneyes-vs-montreal-victoire@open-sports-cal
+DTSTART:20270316T190000Z
+DTEND:20270316T220000Z
+SUMMARY:Vancouver Goldeneyes @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-21-vancouver-goldeneyes-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270321T163000Z
+DTEND:20270321T193000Z
+SUMMARY:Vancouver Goldeneyes @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ PWHL Las Vegas\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-24-vancouver-goldeneyes-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270324T190000Z
+DTEND:20270324T220000Z
+SUMMARY:Vancouver Goldeneyes @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-26-vancouver-goldeneyes-vs-ottawa-charge@open-sports-cal
+DTSTART:20270326T190000Z
+DTEND:20270326T220000Z
+SUMMARY:Vancouver Goldeneyes @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-28-vancouver-goldeneyes-vs-new-york-sirens@open-sports-cal
+DTSTART:20270328T170000Z
+DTEND:20270328T200000Z
+SUMMARY:Vancouver Goldeneyes @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-01-pwhl-san-jose-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270401T220000Z
+DTEND:20270402T010000Z
+SUMMARY:PWHL San Jose @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nPWHL San Jose @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-06-vancouver-goldeneyes-vs-seattle-torrent@open-sports-cal
+DTSTART:20270406T210000Z
+DTEND:20270407T000000Z
+SUMMARY:Vancouver Goldeneyes @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-09-vancouver-goldeneyes-vs-pwhl-san-jose@open-sports-cal
+DTSTART:20270409T220000Z
+DTEND:20270410T010000Z
+SUMMARY:Vancouver Goldeneyes @ PWHL San Jose
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ PWHL San Jose\nSAP Center | San Jose, San Jose, CA
+LOCATION:SAP Center | San Jose, San Jose, CA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-17-pwhl-detroit-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270417T000000Z
+DTEND:20270417T030000Z
+SUMMARY:PWHL Detroit @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nPWHL Detroit @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+END:VCALENDAR

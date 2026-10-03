@@ -1,0 +1,393 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//PWHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PWHL 2026-27 - New York Sirens
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-23-new-york-sirens-vs-boston-fleet@open-sports-cal
+DTSTART:20261123T180000Z
+DTEND:20261123T210000Z
+SUMMARY:New York Sirens @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Boston Fleet\nBoston Sports Institute | Wellesley, Wellesley, MA
+LOCATION:Boston Sports Institute | Wellesley, Wellesley, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-24-montreal-victoire-vs-new-york-sirens@open-sports-cal
+DTSTART:20261124T160000Z
+DTEND:20261124T190000Z
+SUMMARY:Montréal Victoire @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ New York Sirens\nBoston Sports Institute | Wellesley, Wellesley, MA
+LOCATION:Boston Sports Institute | Wellesley, Wellesley, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-06-boston-fleet-vs-new-york-sirens@open-sports-cal
+DTSTART:20261206T150000Z
+DTEND:20261206T180000Z
+SUMMARY:Boston Fleet @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-12-new-york-sirens-vs-pwhl-detroit@open-sports-cal
+DTSTART:20261212T120000Z
+DTEND:20261212T150000Z
+SUMMARY:New York Sirens @ PWHL Detroit
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ PWHL Detroit\nLittle Caesars Arena | Detroit, Detroit, MI
+LOCATION:Little Caesars Arena | Detroit, Detroit, MI
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-19-ottawa-charge-vs-new-york-sirens@open-sports-cal
+DTSTART:20261219T190000Z
+DTEND:20261219T220000Z
+SUMMARY:Ottawa Charge @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-22-new-york-sirens-vs-toronto-sceptres@open-sports-cal
+DTSTART:20261222T190000Z
+DTEND:20261222T220000Z
+SUMMARY:New York Sirens @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-27-new-york-sirens-vs-pwhl-san-jose@open-sports-cal
+DTSTART:20261227T160000Z
+DTEND:20261227T190000Z
+SUMMARY:New York Sirens @ PWHL San Jose
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ PWHL San Jose\nSAP Center | San Jose, San Jose, CA
+LOCATION:SAP Center | San Jose, San Jose, CA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-29-new-york-sirens-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20261229T220000Z
+DTEND:20261230T010000Z
+SUMMARY:New York Sirens @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-31-new-york-sirens-vs-seattle-torrent@open-sports-cal
+DTSTART:20261231T170000Z
+DTEND:20261231T200000Z
+SUMMARY:New York Sirens @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-02-new-york-sirens-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270102T190000Z
+DTEND:20270102T220000Z
+SUMMARY:New York Sirens @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-10-pwhl-hamilton-vs-new-york-sirens@open-sports-cal
+DTSTART:20270110T140000Z
+DTEND:20270110T170000Z
+SUMMARY:PWHL Hamilton @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-13-new-york-sirens-vs-boston-fleet@open-sports-cal
+DTSTART:20270113T190000Z
+DTEND:20270113T220000Z
+SUMMARY:New York Sirens @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-16-minnesota-frost-vs-new-york-sirens@open-sports-cal
+DTSTART:20270116T120000Z
+DTEND:20270116T150000Z
+SUMMARY:Minnesota Frost @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-23-pwhl-detroit-vs-new-york-sirens@open-sports-cal
+DTSTART:20270123T190000Z
+DTEND:20270123T220000Z
+SUMMARY:PWHL Detroit @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nPWHL Detroit @ New York Sirens\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-27-new-york-sirens-vs-ottawa-charge@open-sports-cal
+DTSTART:20270127T190000Z
+DTEND:20270127T220000Z
+SUMMARY:New York Sirens @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-31-montreal-victoire-vs-new-york-sirens@open-sports-cal
+DTSTART:20270131T130000Z
+DTEND:20270131T160000Z
+SUMMARY:Montréal Victoire @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ New York Sirens\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-04-pwhl-las-vegas-vs-new-york-sirens@open-sports-cal
+DTSTART:20270204T190000Z
+DTEND:20270204T220000Z
+SUMMARY:PWHL Las Vegas @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-07-seattle-torrent-vs-new-york-sirens@open-sports-cal
+DTSTART:20270207T153000Z
+DTEND:20270207T183000Z
+SUMMARY:Seattle Torrent @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ New York Sirens\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-09-pwhl-san-jose-vs-new-york-sirens@open-sports-cal
+DTSTART:20270209T190000Z
+DTEND:20270209T220000Z
+SUMMARY:PWHL San Jose @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nPWHL San Jose @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-15-toronto-sceptres-vs-new-york-sirens@open-sports-cal
+DTSTART:20270215T140000Z
+DTEND:20270215T170000Z
+SUMMARY:Toronto Sceptres @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-17-new-york-sirens-vs-minnesota-frost@open-sports-cal
+DTSTART:20270217T190000Z
+DTEND:20270217T220000Z
+SUMMARY:New York Sirens @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-23-new-york-sirens-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270223T190000Z
+DTEND:20270223T220000Z
+SUMMARY:New York Sirens @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-28-ottawa-charge-vs-new-york-sirens@open-sports-cal
+DTSTART:20270228T190000Z
+DTEND:20270228T220000Z
+SUMMARY:Ottawa Charge @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-09-new-york-sirens-vs-montreal-victoire@open-sports-cal
+DTSTART:20270309T190000Z
+DTEND:20270309T220000Z
+SUMMARY:New York Sirens @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-12-new-york-sirens-vs-ottawa-charge@open-sports-cal
+DTSTART:20270312T190000Z
+DTEND:20270312T220000Z
+SUMMARY:New York Sirens @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Ottawa Charge\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-14-pwhl-hamilton-vs-new-york-sirens@open-sports-cal
+DTSTART:20270314T130000Z
+DTEND:20270314T160000Z
+SUMMARY:PWHL Hamilton @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ New York Sirens\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-21-montreal-victoire-vs-new-york-sirens@open-sports-cal
+DTSTART:20270321T140000Z
+DTEND:20270321T170000Z
+SUMMARY:Montréal Victoire @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-28-vancouver-goldeneyes-vs-new-york-sirens@open-sports-cal
+DTSTART:20270328T170000Z
+DTEND:20270328T200000Z
+SUMMARY:Vancouver Goldeneyes @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-03-boston-fleet-vs-new-york-sirens@open-sports-cal
+DTSTART:20270403T193000Z
+DTEND:20270403T223000Z
+SUMMARY:Boston Fleet @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ New York Sirens\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-10-new-york-sirens-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270410T193000Z
+DTEND:20270410T223000Z
+SUMMARY:New York Sirens @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Toronto Sceptres\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-14-new-york-sirens-vs-boston-fleet@open-sports-cal
+DTSTART:20270414T190000Z
+DTEND:20270414T220000Z
+SUMMARY:New York Sirens @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-18-new-york-sirens-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270418T000000Z
+DTEND:20270418T030000Z
+SUMMARY:New York Sirens @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+END:VCALENDAR

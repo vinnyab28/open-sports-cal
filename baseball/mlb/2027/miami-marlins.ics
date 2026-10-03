@@ -1,0 +1,1791 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MLB 2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLB 2027 - Miami Marlins
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-25-new-york-mets-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:New York Mets @ Miami Marlins
+DESCRIPTION:MLB 2027\nNew York Mets @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-27-new-york-mets-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:New York Mets @ Miami Marlins
+DESCRIPTION:MLB 2027\nNew York Mets @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-28-new-york-mets-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:New York Mets @ Miami Marlins
+DESCRIPTION:MLB 2027\nNew York Mets @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-29-philadelphia-phillies-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Philadelphia Phillies @ Miami Marlins
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-30-philadelphia-phillies-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Philadelphia Phillies @ Miami Marlins
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-31-philadelphia-phillies-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Philadelphia Phillies @ Miami Marlins
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-02-miami-marlins-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Miami Marlins @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nMiami Marlins @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-03-miami-marlins-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Miami Marlins @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nMiami Marlins @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-04-miami-marlins-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Miami Marlins @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nMiami Marlins @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-05-miami-marlins-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Miami Marlins @ Colorado Rockies
+DESCRIPTION:MLB 2027\nMiami Marlins @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-06-miami-marlins-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Miami Marlins @ Colorado Rockies
+DESCRIPTION:MLB 2027\nMiami Marlins @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-07-miami-marlins-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Miami Marlins @ Colorado Rockies
+DESCRIPTION:MLB 2027\nMiami Marlins @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-09-atlanta-braves-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Atlanta Braves @ Miami Marlins
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-10-atlanta-braves-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Atlanta Braves @ Miami Marlins
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-11-atlanta-braves-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Atlanta Braves @ Miami Marlins
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-13-arizona-diamondbacks-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Arizona Diamondbacks @ Miami Marlins
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-14-arizona-diamondbacks-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Arizona Diamondbacks @ Miami Marlins
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-15-arizona-diamondbacks-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Arizona Diamondbacks @ Miami Marlins
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-16-miami-marlins-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Miami Marlins @ Atlanta Braves
+DESCRIPTION:MLB 2027\nMiami Marlins @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-17-miami-marlins-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Miami Marlins @ Atlanta Braves
+DESCRIPTION:MLB 2027\nMiami Marlins @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-18-miami-marlins-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Miami Marlins @ Atlanta Braves
+DESCRIPTION:MLB 2027\nMiami Marlins @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-19-cincinnati-reds-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Cincinnati Reds @ Miami Marlins
+DESCRIPTION:MLB 2027\nCincinnati Reds @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-20-cincinnati-reds-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Cincinnati Reds @ Miami Marlins
+DESCRIPTION:MLB 2027\nCincinnati Reds @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-21-cincinnati-reds-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Cincinnati Reds @ Miami Marlins
+DESCRIPTION:MLB 2027\nCincinnati Reds @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-23-miami-marlins-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Miami Marlins @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nMiami Marlins @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-24-miami-marlins-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Miami Marlins @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nMiami Marlins @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-25-miami-marlins-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Miami Marlins @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nMiami Marlins @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-26-miami-marlins-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Miami Marlins @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nMiami Marlins @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-27-miami-marlins-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Miami Marlins @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nMiami Marlins @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-28-miami-marlins-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Miami Marlins @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nMiami Marlins @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-30-houston-astros-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Houston Astros @ Miami Marlins
+DESCRIPTION:MLB 2027\nHouston Astros @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-01-houston-astros-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Houston Astros @ Miami Marlins
+DESCRIPTION:MLB 2027\nHouston Astros @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-02-houston-astros-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Houston Astros @ Miami Marlins
+DESCRIPTION:MLB 2027\nHouston Astros @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-03-washington-nationals-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Washington Nationals @ Miami Marlins
+DESCRIPTION:MLB 2027\nWashington Nationals @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-04-washington-nationals-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Washington Nationals @ Miami Marlins
+DESCRIPTION:MLB 2027\nWashington Nationals @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-05-washington-nationals-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Washington Nationals @ Miami Marlins
+DESCRIPTION:MLB 2027\nWashington Nationals @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-06-washington-nationals-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Washington Nationals @ Miami Marlins
+DESCRIPTION:MLB 2027\nWashington Nationals @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-07-new-york-yankees-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:New York Yankees @ Miami Marlins
+DESCRIPTION:MLB 2027\nNew York Yankees @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-08-new-york-yankees-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:New York Yankees @ Miami Marlins
+DESCRIPTION:MLB 2027\nNew York Yankees @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-09-new-york-yankees-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:New York Yankees @ Miami Marlins
+DESCRIPTION:MLB 2027\nNew York Yankees @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-11-miami-marlins-vs-chicago-cubs@open-sports-cal
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:Miami Marlins @ Chicago Cubs
+DESCRIPTION:MLB 2027\nMiami Marlins @ Chicago Cubs\nWrigley Field\nStart time TBD
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-12-miami-marlins-vs-chicago-cubs@open-sports-cal
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Miami Marlins @ Chicago Cubs
+DESCRIPTION:MLB 2027\nMiami Marlins @ Chicago Cubs\nWrigley Field\nStart time TBD
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-13-miami-marlins-vs-chicago-cubs@open-sports-cal
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Miami Marlins @ Chicago Cubs
+DESCRIPTION:MLB 2027\nMiami Marlins @ Chicago Cubs\nWrigley Field\nStart time TBD
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-14-miami-marlins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Miami Marlins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMiami Marlins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-15-miami-marlins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Miami Marlins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMiami Marlins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-16-miami-marlins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Miami Marlins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMiami Marlins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-17-miami-marlins-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Miami Marlins @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-18-miami-marlins-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Miami Marlins @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-19-miami-marlins-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Miami Marlins @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-21-milwaukee-brewers-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Milwaukee Brewers @ Miami Marlins
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-22-milwaukee-brewers-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Milwaukee Brewers @ Miami Marlins
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-23-milwaukee-brewers-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Milwaukee Brewers @ Miami Marlins
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-24-detroit-tigers-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Detroit Tigers @ Miami Marlins
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-25-detroit-tigers-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Detroit Tigers @ Miami Marlins
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-26-detroit-tigers-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Detroit Tigers @ Miami Marlins
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-28-miami-marlins-vs-washington-nationals@open-sports-cal
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Miami Marlins @ Washington Nationals
+DESCRIPTION:MLB 2027\nMiami Marlins @ Washington Nationals\nNationals Park\nStart time TBD
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-29-miami-marlins-vs-washington-nationals@open-sports-cal
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Miami Marlins @ Washington Nationals
+DESCRIPTION:MLB 2027\nMiami Marlins @ Washington Nationals\nNationals Park\nStart time TBD
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-30-miami-marlins-vs-washington-nationals@open-sports-cal
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Miami Marlins @ Washington Nationals
+DESCRIPTION:MLB 2027\nMiami Marlins @ Washington Nationals\nNationals Park\nStart time TBD
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-31-chicago-cubs-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Chicago Cubs @ Miami Marlins
+DESCRIPTION:MLB 2027\nChicago Cubs @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-01-chicago-cubs-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Chicago Cubs @ Miami Marlins
+DESCRIPTION:MLB 2027\nChicago Cubs @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-02-chicago-cubs-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Chicago Cubs @ Miami Marlins
+DESCRIPTION:MLB 2027\nChicago Cubs @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-03-miami-marlins-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:Miami Marlins @ New York Mets
+DESCRIPTION:MLB 2027\nMiami Marlins @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-04-miami-marlins-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Miami Marlins @ New York Mets
+DESCRIPTION:MLB 2027\nMiami Marlins @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-05-miami-marlins-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Miami Marlins @ New York Mets
+DESCRIPTION:MLB 2027\nMiami Marlins @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-06-miami-marlins-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Miami Marlins @ New York Mets
+DESCRIPTION:MLB 2027\nMiami Marlins @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-08-miami-marlins-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Miami Marlins @ Boston Red Sox
+DESCRIPTION:MLB 2027\nMiami Marlins @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-09-miami-marlins-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Miami Marlins @ Boston Red Sox
+DESCRIPTION:MLB 2027\nMiami Marlins @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-10-miami-marlins-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Miami Marlins @ Boston Red Sox
+DESCRIPTION:MLB 2027\nMiami Marlins @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-11-san-diego-padres-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:San Diego Padres @ Miami Marlins
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-12-san-diego-padres-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:San Diego Padres @ Miami Marlins
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-13-san-diego-padres-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:San Diego Padres @ Miami Marlins
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-14-toronto-blue-jays-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Toronto Blue Jays @ Miami Marlins
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-15-toronto-blue-jays-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Toronto Blue Jays @ Miami Marlins
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-16-toronto-blue-jays-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Toronto Blue Jays @ Miami Marlins
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-18-miami-marlins-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Miami Marlins @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nMiami Marlins @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-19-miami-marlins-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Miami Marlins @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nMiami Marlins @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-20-miami-marlins-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Miami Marlins @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nMiami Marlins @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-21-miami-marlins-vs-seattle-mariners@open-sports-cal
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Miami Marlins @ Seattle Mariners
+DESCRIPTION:MLB 2027\nMiami Marlins @ Seattle Mariners\nT-Mobile Park\nStart time TBD
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-22-miami-marlins-vs-seattle-mariners@open-sports-cal
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:Miami Marlins @ Seattle Mariners
+DESCRIPTION:MLB 2027\nMiami Marlins @ Seattle Mariners\nT-Mobile Park\nStart time TBD
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-23-miami-marlins-vs-seattle-mariners@open-sports-cal
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Miami Marlins @ Seattle Mariners
+DESCRIPTION:MLB 2027\nMiami Marlins @ Seattle Mariners\nT-Mobile Park\nStart time TBD
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-25-los-angeles-dodgers-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Los Angeles Dodgers @ Miami Marlins
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-26-los-angeles-dodgers-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Los Angeles Dodgers @ Miami Marlins
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-27-los-angeles-dodgers-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Los Angeles Dodgers @ Miami Marlins
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-28-st-louis-cardinals-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:St. Louis Cardinals @ Miami Marlins
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-29-st-louis-cardinals-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:St. Louis Cardinals @ Miami Marlins
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-30-st-louis-cardinals-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:St. Louis Cardinals @ Miami Marlins
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-01-pittsburgh-pirates-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Pittsburgh Pirates @ Miami Marlins
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-02-pittsburgh-pirates-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:Pittsburgh Pirates @ Miami Marlins
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-03-pittsburgh-pirates-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Pittsburgh Pirates @ Miami Marlins
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-04-pittsburgh-pirates-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Pittsburgh Pirates @ Miami Marlins
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-06-miami-marlins-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Miami Marlins @ New York Mets
+DESCRIPTION:MLB 2027\nMiami Marlins @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-07-miami-marlins-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Miami Marlins @ New York Mets
+DESCRIPTION:MLB 2027\nMiami Marlins @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-08-miami-marlins-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Miami Marlins @ New York Mets
+DESCRIPTION:MLB 2027\nMiami Marlins @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-09-miami-marlins-vs-pittsburgh-pirates@open-sports-cal
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Miami Marlins @ Pittsburgh Pirates
+DESCRIPTION:MLB 2027\nMiami Marlins @ Pittsburgh Pirates\nPNC Park\nStart time TBD
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-10-miami-marlins-vs-pittsburgh-pirates@open-sports-cal
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Miami Marlins @ Pittsburgh Pirates
+DESCRIPTION:MLB 2027\nMiami Marlins @ Pittsburgh Pirates\nPNC Park\nStart time TBD
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-11-miami-marlins-vs-pittsburgh-pirates@open-sports-cal
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Miami Marlins @ Pittsburgh Pirates
+DESCRIPTION:MLB 2027\nMiami Marlins @ Pittsburgh Pirates\nPNC Park\nStart time TBD
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-16-tampa-bay-rays-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Tampa Bay Rays @ Miami Marlins
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-17-tampa-bay-rays-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Tampa Bay Rays @ Miami Marlins
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-18-tampa-bay-rays-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Tampa Bay Rays @ Miami Marlins
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-19-washington-nationals-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:Washington Nationals @ Miami Marlins
+DESCRIPTION:MLB 2027\nWashington Nationals @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-20-washington-nationals-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Washington Nationals @ Miami Marlins
+DESCRIPTION:MLB 2027\nWashington Nationals @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-21-washington-nationals-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Washington Nationals @ Miami Marlins
+DESCRIPTION:MLB 2027\nWashington Nationals @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-22-miami-marlins-vs-milwaukee-brewers@open-sports-cal
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:Miami Marlins @ Milwaukee Brewers
+DESCRIPTION:MLB 2027\nMiami Marlins @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-23-miami-marlins-vs-milwaukee-brewers@open-sports-cal
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Miami Marlins @ Milwaukee Brewers
+DESCRIPTION:MLB 2027\nMiami Marlins @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-24-miami-marlins-vs-milwaukee-brewers@open-sports-cal
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:Miami Marlins @ Milwaukee Brewers
+DESCRIPTION:MLB 2027\nMiami Marlins @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-25-miami-marlins-vs-milwaukee-brewers@open-sports-cal
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Miami Marlins @ Milwaukee Brewers
+DESCRIPTION:MLB 2027\nMiami Marlins @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-26-miami-marlins-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Miami Marlins @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nMiami Marlins @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-27-miami-marlins-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Miami Marlins @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nMiami Marlins @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-28-miami-marlins-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:Miami Marlins @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nMiami Marlins @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-30-philadelphia-phillies-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Philadelphia Phillies @ Miami Marlins
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-31-philadelphia-phillies-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Philadelphia Phillies @ Miami Marlins
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-01-philadelphia-phillies-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Philadelphia Phillies @ Miami Marlins
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-03-athletics-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Athletics @ Miami Marlins
+DESCRIPTION:MLB 2027\nAthletics @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-04-athletics-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Athletics @ Miami Marlins
+DESCRIPTION:MLB 2027\nAthletics @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-05-athletics-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:Athletics @ Miami Marlins
+DESCRIPTION:MLB 2027\nAthletics @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-06-miami-marlins-vs-san-diego-padres@open-sports-cal
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:Miami Marlins @ San Diego Padres
+DESCRIPTION:MLB 2027\nMiami Marlins @ San Diego Padres\nPetco Park\nStart time TBD
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-07-miami-marlins-vs-san-diego-padres@open-sports-cal
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:Miami Marlins @ San Diego Padres
+DESCRIPTION:MLB 2027\nMiami Marlins @ San Diego Padres\nPetco Park\nStart time TBD
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-08-miami-marlins-vs-san-diego-padres@open-sports-cal
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:Miami Marlins @ San Diego Padres
+DESCRIPTION:MLB 2027\nMiami Marlins @ San Diego Padres\nPetco Park\nStart time TBD
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-09-miami-marlins-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:Miami Marlins @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nMiami Marlins @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-10-miami-marlins-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Miami Marlins @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nMiami Marlins @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-11-miami-marlins-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Miami Marlins @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nMiami Marlins @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-13-san-francisco-giants-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:San Francisco Giants @ Miami Marlins
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-14-san-francisco-giants-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:San Francisco Giants @ Miami Marlins
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-15-san-francisco-giants-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:San Francisco Giants @ Miami Marlins
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-16-atlanta-braves-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Atlanta Braves @ Miami Marlins
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-17-atlanta-braves-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Atlanta Braves @ Miami Marlins
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-18-atlanta-braves-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Atlanta Braves @ Miami Marlins
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-19-atlanta-braves-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:Atlanta Braves @ Miami Marlins
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-20-miami-marlins-vs-san-francisco-giants@open-sports-cal
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:Miami Marlins @ San Francisco Giants
+DESCRIPTION:MLB 2027\nMiami Marlins @ San Francisco Giants\nOracle Park\nStart time TBD
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-21-miami-marlins-vs-san-francisco-giants@open-sports-cal
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Miami Marlins @ San Francisco Giants
+DESCRIPTION:MLB 2027\nMiami Marlins @ San Francisco Giants\nOracle Park\nStart time TBD
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-22-miami-marlins-vs-san-francisco-giants@open-sports-cal
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Miami Marlins @ San Francisco Giants
+DESCRIPTION:MLB 2027\nMiami Marlins @ San Francisco Giants\nOracle Park\nStart time TBD
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-23-miami-marlins-vs-st-louis-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:Miami Marlins @ St. Louis Cardinals
+DESCRIPTION:MLB 2027\nMiami Marlins @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-24-miami-marlins-vs-st-louis-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Miami Marlins @ St. Louis Cardinals
+DESCRIPTION:MLB 2027\nMiami Marlins @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-25-miami-marlins-vs-st-louis-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Miami Marlins @ St. Louis Cardinals
+DESCRIPTION:MLB 2027\nMiami Marlins @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-27-kansas-city-royals-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Kansas City Royals @ Miami Marlins
+DESCRIPTION:MLB 2027\nKansas City Royals @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-28-kansas-city-royals-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Kansas City Royals @ Miami Marlins
+DESCRIPTION:MLB 2027\nKansas City Royals @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-29-kansas-city-royals-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Kansas City Royals @ Miami Marlins
+DESCRIPTION:MLB 2027\nKansas City Royals @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-31-new-york-mets-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:New York Mets @ Miami Marlins
+DESCRIPTION:MLB 2027\nNew York Mets @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-01-new-york-mets-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:New York Mets @ Miami Marlins
+DESCRIPTION:MLB 2027\nNew York Mets @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-02-new-york-mets-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:New York Mets @ Miami Marlins
+DESCRIPTION:MLB 2027\nNew York Mets @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-03-miami-marlins-vs-washington-nationals@open-sports-cal
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:Miami Marlins @ Washington Nationals
+DESCRIPTION:MLB 2027\nMiami Marlins @ Washington Nationals\nNationals Park\nStart time TBD
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-04-miami-marlins-vs-washington-nationals@open-sports-cal
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Miami Marlins @ Washington Nationals
+DESCRIPTION:MLB 2027\nMiami Marlins @ Washington Nationals\nNationals Park\nStart time TBD
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-05-miami-marlins-vs-washington-nationals@open-sports-cal
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:Miami Marlins @ Washington Nationals
+DESCRIPTION:MLB 2027\nMiami Marlins @ Washington Nationals\nNationals Park\nStart time TBD
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-06-miami-marlins-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Miami Marlins @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-07-miami-marlins-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Miami Marlins @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-08-miami-marlins-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Miami Marlins @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-09-miami-marlins-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:Miami Marlins @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-10-miami-marlins-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Miami Marlins @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nMiami Marlins @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-11-miami-marlins-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Miami Marlins @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nMiami Marlins @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-12-miami-marlins-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Miami Marlins @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nMiami Marlins @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-14-colorado-rockies-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Colorado Rockies @ Miami Marlins
+DESCRIPTION:MLB 2027\nColorado Rockies @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-15-colorado-rockies-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Colorado Rockies @ Miami Marlins
+DESCRIPTION:MLB 2027\nColorado Rockies @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-16-colorado-rockies-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Colorado Rockies @ Miami Marlins
+DESCRIPTION:MLB 2027\nColorado Rockies @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-17-minnesota-twins-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:Minnesota Twins @ Miami Marlins
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-18-minnesota-twins-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:Minnesota Twins @ Miami Marlins
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-19-minnesota-twins-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Minnesota Twins @ Miami Marlins
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-21-miami-marlins-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:Miami Marlins @ Texas Rangers
+DESCRIPTION:MLB 2027\nMiami Marlins @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-22-miami-marlins-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:Miami Marlins @ Texas Rangers
+DESCRIPTION:MLB 2027\nMiami Marlins @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-23-miami-marlins-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:Miami Marlins @ Texas Rangers
+DESCRIPTION:MLB 2027\nMiami Marlins @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-24-miami-marlins-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:Miami Marlins @ Atlanta Braves
+DESCRIPTION:MLB 2027\nMiami Marlins @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-25-miami-marlins-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Miami Marlins @ Atlanta Braves
+DESCRIPTION:MLB 2027\nMiami Marlins @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-26-miami-marlins-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Miami Marlins @ Atlanta Braves
+DESCRIPTION:MLB 2027\nMiami Marlins @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+END:VCALENDAR

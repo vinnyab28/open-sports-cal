@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-MLB 2026: full regeneration from statsapi.mlb.com.
+MLB 2027: full regeneration from statsapi.mlb.com.
 UIDs are date+team based (stable across reruns).
 """
 import json
@@ -12,7 +12,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 from common import slug, fmt_utc, make_vevent, make_calendar, DTSTAMP
 
-OUT_DIR = Path("baseball/mlb/2026")
+OUT_DIR = Path("baseball/mlb/2027")
 
 TEAM_TZ = {
     "Arizona Diamondbacks": "America/Phoenix",
@@ -49,9 +49,9 @@ TEAM_TZ = {
 
 
 def fetch_month(start, end):
-    fields = "dates,date,games,gamePk,gameDate,teams,away,home,team,name,venue"
+    fields = "dates,date,games,gamePk,gameDate,status,startTimeTBD,teams,away,home,team,name,venue"
     url = (f"https://statsapi.mlb.com/api/v1/schedule"
-           f"?sportId=1&season=2026&gameType=R"
+           f"?sportId=1&season=2027&gameType=R"
            f"&startDate={start}&endDate={end}&fields={fields}")
     with urllib.request.urlopen(url, timeout=30) as r:
         data = json.loads(r.read())
@@ -61,6 +61,7 @@ def fetch_month(start, end):
             games.append({
                 "date": date_obj["date"],
                 "dt_str": g["gameDate"],
+                "tbd": g.get("status", {}).get("startTimeTBD", False),
                 "away": g["teams"]["away"]["team"]["name"],
                 "home": g["teams"]["home"]["team"]["name"],
                 "venue": g.get("venue", {}).get("name", "TBD"),
@@ -69,16 +70,16 @@ def fetch_month(start, end):
 
 
 def main():
-    print("MLB: fetching 2026 schedule from statsapi.mlb.com...")
+    print("MLB: fetching 2027 schedule from statsapi.mlb.com...")
     months = [
-        ("2026-03-20", "2026-03-31"),
-        ("2026-04-01", "2026-04-30"),
-        ("2026-05-01", "2026-05-31"),
-        ("2026-06-01", "2026-06-30"),
-        ("2026-07-01", "2026-07-31"),
-        ("2026-08-01", "2026-08-31"),
-        ("2026-09-01", "2026-09-30"),
-        ("2026-10-01", "2026-10-05"),
+        ("2027-03-20", "2027-03-31"),
+        ("2027-04-01", "2027-04-30"),
+        ("2027-05-01", "2027-05-31"),
+        ("2027-06-01", "2027-06-30"),
+        ("2027-07-01", "2027-07-31"),
+        ("2027-08-01", "2027-08-31"),
+        ("2027-09-01", "2027-09-30"),
+        ("2027-10-01", "2027-10-05"),
     ]
 
     all_games = []
@@ -100,38 +101,62 @@ def main():
             continue
         away_s, home_s = slug(g["away"]), slug(g["home"])
         date_str = g["date"]
-        uid = f"mlb-2026-{date_str}-{away_s}-vs-{home_s}@open-sports-cal"
+        base_uid = f"mlb-2027-{date_str}-{away_s}-vs-{home_s}"
 
-        if uid in seen_uids:
-            continue
+        # Doubleheaders share date+teams — number the games so both are kept
+        game_no = 1
+        uid = f"{base_uid}@open-sports-cal"
+        while uid in seen_uids:
+            game_no += 1
+            uid = f"{base_uid}-g{game_no}@open-sports-cal"
         seen_uids.add(uid)
 
         summary = f"{g['away']} @ {g['home']}"
-        description = f"MLB 2026\\n{g['away']} @ {g['home']}\\n{g['venue']}"
+        if game_no > 1:
+            summary = f"{g['away']} @ {g['home']} (Game {game_no})"
+        description = f"MLB 2027\\n{g['away']} @ {g['home']}\\n{g['venue']}"
         tz = TEAM_TZ.get(g["home"], "America/New_York")
 
-        vevent = make_vevent(uid, summary, fmt_utc(dt), fmt_utc(dt + timedelta(hours=3)),
-                             g["venue"], description, "Baseball,MLB,MLB 2026", tz)
+        if g.get("tbd"):
+            # Start time not announced yet — emit as an all-day event on
+            # the scheduled date; the daily auto-update converts it to a
+            # timed event once MLB publishes real start times.
+            date_compact = date_str.replace("-", "")
+            end_compact = (datetime.fromisoformat(date_str).date() + timedelta(days=1)).strftime("%Y%m%d")
+            vevent = make_vevent(uid, summary, date_compact, end_compact,
+                                 g["venue"], description + "\\nStart time TBD",
+                                 "Baseball,MLB,MLB 2027", all_day=True)
+        else:
+            vevent = make_vevent(uid, summary, fmt_utc(dt), fmt_utc(dt + timedelta(hours=3)),
+                                 g["venue"], description, "Baseball,MLB,MLB 2027", tz)
         events.append(vevent)
 
         for ts in (away_s, home_s):
             team_events.setdefault(ts, []).append(vevent)
 
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+
     (OUT_DIR / "all-teams.ics").write_text(
-        make_calendar(events, "MLB 2026 - All Teams", "MLB 2026"),
+        make_calendar(events, "MLB 2027 - All Teams", "MLB 2027"),
         encoding="utf-8",
     )
     print(f"  Wrote all-teams.ics ({len(events)} events)")
 
-    team_files = [f for f in OUT_DIR.glob("*.ics") if f.name != "all-teams.ics"]
-    for team_file in sorted(team_files):
-        ts = team_file.stem
-        import re
-        existing = team_file.read_text(encoding="utf-8")
-        cal_name_m = re.search(r"X-WR-CALNAME:(.+)", existing)
-        cal_name = cal_name_m.group(1).strip() if cal_name_m else f"MLB 2026 - {ts}"
+    import re
+    slug_to_name = {}
+    for g in all_games:
+        slug_to_name.setdefault(slug(g["home"]), g["home"])
+        slug_to_name.setdefault(slug(g["away"]), g["away"])
+    for ts, team_name in sorted(slug_to_name.items()):
+        team_file = OUT_DIR / f"{ts}.ics"
+        cal_name = f"MLB 2027 - {team_name}"
+        if team_file.exists():
+            existing = team_file.read_text(encoding="utf-8")
+            cal_name_m = re.search(r"X-WR-CALNAME:(.+)", existing)
+            if cal_name_m:
+                cal_name = cal_name_m.group(1).strip()
         team_file.write_text(
-            make_calendar(team_events.get(ts, []), cal_name, "MLB 2026"),
+            make_calendar(team_events.get(ts, []), cal_name, "MLB 2027"),
             encoding="utf-8",
         )
 

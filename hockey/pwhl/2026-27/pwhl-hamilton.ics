@@ -1,0 +1,393 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//PWHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PWHL 2026-27 - PWHL Hamilton
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-23-toronto-sceptres-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20261123T173000Z
+DTEND:20261123T203000Z
+SUMMARY:Toronto Sceptres @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ PWHL Hamilton\nMorgan Firestone Arena | Ancaster, Ancaster, ON
+LOCATION:Morgan Firestone Arena | Ancaster, Ancaster, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-24-pwhl-hamilton-vs-pwhl-detroit@open-sports-cal
+DTSTART:20261124T133000Z
+DTEND:20261124T163000Z
+SUMMARY:PWHL Hamilton @ PWHL Detroit
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ PWHL Detroit\nMorgan Firestone Arena | Ancaster, Ancaster, ON
+LOCATION:Morgan Firestone Arena | Ancaster, Ancaster, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-05-pwhl-hamilton-vs-montreal-victoire@open-sports-cal
+DTSTART:20261205T190000Z
+DTEND:20261205T220000Z
+SUMMARY:PWHL Hamilton @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-08-pwhl-hamilton-vs-toronto-sceptres@open-sports-cal
+DTSTART:20261208T190000Z
+DTEND:20261208T220000Z
+SUMMARY:PWHL Hamilton @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-13-ottawa-charge-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20261213T140000Z
+DTEND:20261213T170000Z
+SUMMARY:Ottawa Charge @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-17-pwhl-san-jose-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20261217T190000Z
+DTEND:20261217T220000Z
+SUMMARY:PWHL San Jose @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nPWHL San Jose @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-26-toronto-sceptres-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20261226T190000Z
+DTEND:20261226T220000Z
+SUMMARY:Toronto Sceptres @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-29-pwhl-hamilton-vs-montreal-victoire@open-sports-cal
+DTSTART:20261229T190000Z
+DTEND:20261229T220000Z
+SUMMARY:PWHL Hamilton @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-31-pwhl-hamilton-vs-minnesota-frost@open-sports-cal
+DTSTART:20261231T200000Z
+DTEND:20261231T230000Z
+SUMMARY:PWHL Hamilton @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-03-pwhl-las-vegas-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270103T150000Z
+DTEND:20270103T180000Z
+SUMMARY:PWHL Las Vegas @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-05-pwhl-detroit-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270105T190000Z
+DTEND:20270105T220000Z
+SUMMARY:PWHL Detroit @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nPWHL Detroit @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-10-pwhl-hamilton-vs-new-york-sirens@open-sports-cal
+DTSTART:20270110T140000Z
+DTEND:20270110T170000Z
+SUMMARY:PWHL Hamilton @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-14-pwhl-hamilton-vs-seattle-torrent@open-sports-cal
+DTSTART:20270114T220000Z
+DTEND:20270115T010000Z
+SUMMARY:PWHL Hamilton @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-16-pwhl-hamilton-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270116T150000Z
+DTEND:20270116T180000Z
+SUMMARY:PWHL Hamilton @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-19-pwhl-hamilton-vs-pwhl-san-jose@open-sports-cal
+DTSTART:20270119T220000Z
+DTEND:20270120T010000Z
+SUMMARY:PWHL Hamilton @ PWHL San Jose
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ PWHL San Jose\nSAP Center | San Jose, San Jose, CA
+LOCATION:SAP Center | San Jose, San Jose, CA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-21-pwhl-hamilton-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270121T220000Z
+DTEND:20270122T010000Z
+SUMMARY:PWHL Hamilton @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-26-boston-fleet-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270126T190000Z
+DTEND:20270126T220000Z
+SUMMARY:Boston Fleet @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-28-seattle-torrent-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270128T190000Z
+DTEND:20270128T220000Z
+SUMMARY:Seattle Torrent @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-30-toronto-sceptres-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270130T140000Z
+DTEND:20270130T170000Z
+SUMMARY:Toronto Sceptres @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ PWHL Hamilton\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-03-pwhl-hamilton-vs-ottawa-charge@open-sports-cal
+DTSTART:20270203T183000Z
+DTEND:20270203T213000Z
+SUMMARY:PWHL Hamilton @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Ottawa Charge\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-10-boston-fleet-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270210T190000Z
+DTEND:20270210T220000Z
+SUMMARY:Boston Fleet @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-15-ottawa-charge-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270215T170000Z
+DTEND:20270215T200000Z
+SUMMARY:Ottawa Charge @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ PWHL Hamilton\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-19-pwhl-hamilton-vs-pwhl-detroit@open-sports-cal
+DTSTART:20270219T190000Z
+DTEND:20270219T220000Z
+SUMMARY:PWHL Hamilton @ PWHL Detroit
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ PWHL Detroit\nLittle Caesars Arena | Detroit, Detroit, MI
+LOCATION:Little Caesars Arena | Detroit, Detroit, MI
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-23-new-york-sirens-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270223T190000Z
+DTEND:20270223T220000Z
+SUMMARY:New York Sirens @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-28-montreal-victoire-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270228T130000Z
+DTEND:20270228T160000Z
+SUMMARY:Montréal Victoire @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-10-pwhl-hamilton-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270310T190000Z
+DTEND:20270310T220000Z
+SUMMARY:PWHL Hamilton @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-14-pwhl-hamilton-vs-new-york-sirens@open-sports-cal
+DTSTART:20270314T130000Z
+DTEND:20270314T160000Z
+SUMMARY:PWHL Hamilton @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ New York Sirens\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-24-vancouver-goldeneyes-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270324T190000Z
+DTEND:20270324T220000Z
+SUMMARY:Vancouver Goldeneyes @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-28-minnesota-frost-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270328T140000Z
+DTEND:20270328T170000Z
+SUMMARY:Minnesota Frost @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-03-pwhl-hamilton-vs-ottawa-charge@open-sports-cal
+DTSTART:20270403T140000Z
+DTEND:20270403T170000Z
+SUMMARY:PWHL Hamilton @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-10-pwhl-hamilton-vs-boston-fleet@open-sports-cal
+DTSTART:20270410T150000Z
+DTEND:20270410T180000Z
+SUMMARY:PWHL Hamilton @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-18-new-york-sirens-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270418T000000Z
+DTEND:20270418T030000Z
+SUMMARY:New York Sirens @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1791 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MLB 2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLB 2027 - Chicago White Sox
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-25-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2027\nChicago White Sox @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-27-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2027\nChicago White Sox @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-28-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2027\nChicago White Sox @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-29-chicago-white-sox-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Chicago White Sox @ Kansas City Royals
+DESCRIPTION:MLB 2027\nChicago White Sox @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-30-chicago-white-sox-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Chicago White Sox @ Kansas City Royals
+DESCRIPTION:MLB 2027\nChicago White Sox @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-31-chicago-white-sox-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Chicago White Sox @ Kansas City Royals
+DESCRIPTION:MLB 2027\nChicago White Sox @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-01-milwaukee-brewers-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Milwaukee Brewers @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-03-milwaukee-brewers-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Milwaukee Brewers @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-04-milwaukee-brewers-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Milwaukee Brewers @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-05-baltimore-orioles-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Baltimore Orioles @ Chicago White Sox
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-06-baltimore-orioles-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Baltimore Orioles @ Chicago White Sox
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-07-baltimore-orioles-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Baltimore Orioles @ Chicago White Sox
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-09-chicago-white-sox-vs-athletics@open-sports-cal
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Chicago White Sox @ Athletics
+DESCRIPTION:MLB 2027\nChicago White Sox @ Athletics\nSutter Health Park\nStart time TBD
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-10-chicago-white-sox-vs-athletics@open-sports-cal
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Chicago White Sox @ Athletics
+DESCRIPTION:MLB 2027\nChicago White Sox @ Athletics\nSutter Health Park\nStart time TBD
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-11-chicago-white-sox-vs-athletics@open-sports-cal
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Chicago White Sox @ Athletics
+DESCRIPTION:MLB 2027\nChicago White Sox @ Athletics\nSutter Health Park\nStart time TBD
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-13-chicago-white-sox-vs-seattle-mariners@open-sports-cal
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Chicago White Sox @ Seattle Mariners
+DESCRIPTION:MLB 2027\nChicago White Sox @ Seattle Mariners\nT-Mobile Park\nStart time TBD
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-14-chicago-white-sox-vs-seattle-mariners@open-sports-cal
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Chicago White Sox @ Seattle Mariners
+DESCRIPTION:MLB 2027\nChicago White Sox @ Seattle Mariners\nT-Mobile Park\nStart time TBD
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-15-chicago-white-sox-vs-seattle-mariners@open-sports-cal
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Chicago White Sox @ Seattle Mariners
+DESCRIPTION:MLB 2027\nChicago White Sox @ Seattle Mariners\nT-Mobile Park\nStart time TBD
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-16-san-francisco-giants-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:San Francisco Giants @ Chicago White Sox
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-17-san-francisco-giants-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:San Francisco Giants @ Chicago White Sox
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-18-san-francisco-giants-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:San Francisco Giants @ Chicago White Sox
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-19-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-20-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-21-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-22-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-23-chicago-white-sox-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Chicago White Sox @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nChicago White Sox @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-24-chicago-white-sox-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Chicago White Sox @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nChicago White Sox @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-25-chicago-white-sox-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Chicago White Sox @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nChicago White Sox @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-26-chicago-white-sox-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Chicago White Sox @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nChicago White Sox @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-27-chicago-white-sox-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Chicago White Sox @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nChicago White Sox @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-28-chicago-white-sox-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Chicago White Sox @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nChicago White Sox @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-30-los-angeles-angels-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Los Angeles Angels @ Chicago White Sox
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-01-los-angeles-angels-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Los Angeles Angels @ Chicago White Sox
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-02-los-angeles-angels-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Los Angeles Angels @ Chicago White Sox
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-03-st-louis-cardinals-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:St. Louis Cardinals @ Chicago White Sox
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-04-st-louis-cardinals-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:St. Louis Cardinals @ Chicago White Sox
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-05-st-louis-cardinals-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:St. Louis Cardinals @ Chicago White Sox
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-07-chicago-white-sox-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Chicago White Sox @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nChicago White Sox @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-08-chicago-white-sox-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Chicago White Sox @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nChicago White Sox @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-09-chicago-white-sox-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Chicago White Sox @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nChicago White Sox @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-11-chicago-white-sox-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:Chicago White Sox @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nChicago White Sox @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-12-chicago-white-sox-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Chicago White Sox @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nChicago White Sox @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-13-chicago-white-sox-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Chicago White Sox @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nChicago White Sox @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-14-miami-marlins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Miami Marlins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMiami Marlins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-15-miami-marlins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Miami Marlins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMiami Marlins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-16-miami-marlins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Miami Marlins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMiami Marlins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-17-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Cleveland Guardians @ Chicago White Sox
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-18-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Cleveland Guardians @ Chicago White Sox
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-19-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Cleveland Guardians @ Chicago White Sox
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-21-chicago-white-sox-vs-pittsburgh-pirates@open-sports-cal
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Chicago White Sox @ Pittsburgh Pirates
+DESCRIPTION:MLB 2027\nChicago White Sox @ Pittsburgh Pirates\nPNC Park\nStart time TBD
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-22-chicago-white-sox-vs-pittsburgh-pirates@open-sports-cal
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Chicago White Sox @ Pittsburgh Pirates
+DESCRIPTION:MLB 2027\nChicago White Sox @ Pittsburgh Pirates\nPNC Park\nStart time TBD
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-23-chicago-white-sox-vs-pittsburgh-pirates@open-sports-cal
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Chicago White Sox @ Pittsburgh Pirates
+DESCRIPTION:MLB 2027\nChicago White Sox @ Pittsburgh Pirates\nPNC Park\nStart time TBD
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-24-chicago-white-sox-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Chicago White Sox @ Boston Red Sox
+DESCRIPTION:MLB 2027\nChicago White Sox @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-25-chicago-white-sox-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Chicago White Sox @ Boston Red Sox
+DESCRIPTION:MLB 2027\nChicago White Sox @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-26-chicago-white-sox-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Chicago White Sox @ Boston Red Sox
+DESCRIPTION:MLB 2027\nChicago White Sox @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-28-seattle-mariners-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Seattle Mariners @ Chicago White Sox
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-29-seattle-mariners-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Seattle Mariners @ Chicago White Sox
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-30-seattle-mariners-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Seattle Mariners @ Chicago White Sox
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-31-tampa-bay-rays-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Tampa Bay Rays @ Chicago White Sox
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-01-tampa-bay-rays-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Tampa Bay Rays @ Chicago White Sox
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-02-tampa-bay-rays-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Tampa Bay Rays @ Chicago White Sox
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-04-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Chicago White Sox @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nChicago White Sox @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-05-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Chicago White Sox @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nChicago White Sox @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-06-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Chicago White Sox @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nChicago White Sox @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-07-philadelphia-phillies-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:Philadelphia Phillies @ Chicago White Sox
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-08-philadelphia-phillies-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Philadelphia Phillies @ Chicago White Sox
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-09-philadelphia-phillies-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Philadelphia Phillies @ Chicago White Sox
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-10-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago White Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-11-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago White Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-12-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago White Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-13-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago White Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-14-chicago-white-sox-vs-houston-astros@open-sports-cal
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Chicago White Sox @ Houston Astros
+DESCRIPTION:MLB 2027\nChicago White Sox @ Houston Astros\nDaikin Park\nStart time TBD
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-15-chicago-white-sox-vs-houston-astros@open-sports-cal
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Chicago White Sox @ Houston Astros
+DESCRIPTION:MLB 2027\nChicago White Sox @ Houston Astros\nDaikin Park\nStart time TBD
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-16-chicago-white-sox-vs-houston-astros@open-sports-cal
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Chicago White Sox @ Houston Astros
+DESCRIPTION:MLB 2027\nChicago White Sox @ Houston Astros\nDaikin Park\nStart time TBD
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-18-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-19-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-20-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-21-texas-rangers-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Texas Rangers @ Chicago White Sox
+DESCRIPTION:MLB 2027\nTexas Rangers @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-22-texas-rangers-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:Texas Rangers @ Chicago White Sox
+DESCRIPTION:MLB 2027\nTexas Rangers @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-23-texas-rangers-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Texas Rangers @ Chicago White Sox
+DESCRIPTION:MLB 2027\nTexas Rangers @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-24-kansas-city-royals-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Kansas City Royals @ Chicago White Sox
+DESCRIPTION:MLB 2027\nKansas City Royals @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-25-kansas-city-royals-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Kansas City Royals @ Chicago White Sox
+DESCRIPTION:MLB 2027\nKansas City Royals @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-26-kansas-city-royals-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Kansas City Royals @ Chicago White Sox
+DESCRIPTION:MLB 2027\nKansas City Royals @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-27-kansas-city-royals-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Kansas City Royals @ Chicago White Sox
+DESCRIPTION:MLB 2027\nKansas City Royals @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-29-chicago-white-sox-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Chicago White Sox @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nChicago White Sox @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-30-chicago-white-sox-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Chicago White Sox @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nChicago White Sox @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-01-chicago-white-sox-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Chicago White Sox @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nChicago White Sox @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-02-chicago-white-sox-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:Chicago White Sox @ Texas Rangers
+DESCRIPTION:MLB 2027\nChicago White Sox @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-03-chicago-white-sox-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Chicago White Sox @ Texas Rangers
+DESCRIPTION:MLB 2027\nChicago White Sox @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-04-chicago-white-sox-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Chicago White Sox @ Texas Rangers
+DESCRIPTION:MLB 2027\nChicago White Sox @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-06-new-york-yankees-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:New York Yankees @ Chicago White Sox
+DESCRIPTION:MLB 2027\nNew York Yankees @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-07-new-york-yankees-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:New York Yankees @ Chicago White Sox
+DESCRIPTION:MLB 2027\nNew York Yankees @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-08-new-york-yankees-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:New York Yankees @ Chicago White Sox
+DESCRIPTION:MLB 2027\nNew York Yankees @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-09-arizona-diamondbacks-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Arizona Diamondbacks @ Chicago White Sox
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-10-arizona-diamondbacks-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Arizona Diamondbacks @ Chicago White Sox
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-11-arizona-diamondbacks-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Arizona Diamondbacks @ Chicago White Sox
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-16-chicago-white-sox-vs-chicago-cubs@open-sports-cal
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Chicago White Sox @ Chicago Cubs
+DESCRIPTION:MLB 2027\nChicago White Sox @ Chicago Cubs\nWrigley Field\nStart time TBD
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-17-chicago-white-sox-vs-chicago-cubs@open-sports-cal
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Chicago White Sox @ Chicago Cubs
+DESCRIPTION:MLB 2027\nChicago White Sox @ Chicago Cubs\nWrigley Field\nStart time TBD
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-18-chicago-white-sox-vs-chicago-cubs@open-sports-cal
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Chicago White Sox @ Chicago Cubs
+DESCRIPTION:MLB 2027\nChicago White Sox @ Chicago Cubs\nWrigley Field\nStart time TBD
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-19-chicago-white-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:Chicago White Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nChicago White Sox @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-20-chicago-white-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Chicago White Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nChicago White Sox @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-21-chicago-white-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Chicago White Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nChicago White Sox @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-22-chicago-white-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:Chicago White Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nChicago White Sox @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-23-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Cleveland Guardians @ Chicago White Sox
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-24-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:Cleveland Guardians @ Chicago White Sox
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-25-cleveland-guardians-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Cleveland Guardians @ Chicago White Sox
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-26-kansas-city-royals-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Kansas City Royals @ Chicago White Sox
+DESCRIPTION:MLB 2027\nKansas City Royals @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-27-kansas-city-royals-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Kansas City Royals @ Chicago White Sox
+DESCRIPTION:MLB 2027\nKansas City Royals @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-28-kansas-city-royals-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:Kansas City Royals @ Chicago White Sox
+DESCRIPTION:MLB 2027\nKansas City Royals @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-29-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:Chicago White Sox @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nChicago White Sox @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-30-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Chicago White Sox @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nChicago White Sox @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-31-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Chicago White Sox @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nChicago White Sox @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-01-chicago-white-sox-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Chicago White Sox @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nChicago White Sox @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-03-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2027\nChicago White Sox @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-04-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2027\nChicago White Sox @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-05-chicago-white-sox-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:Chicago White Sox @ Detroit Tigers
+DESCRIPTION:MLB 2027\nChicago White Sox @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-06-chicago-cubs-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:Chicago Cubs @ Chicago White Sox
+DESCRIPTION:MLB 2027\nChicago Cubs @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-07-chicago-cubs-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:Chicago Cubs @ Chicago White Sox
+DESCRIPTION:MLB 2027\nChicago Cubs @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-08-chicago-cubs-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:Chicago Cubs @ Chicago White Sox
+DESCRIPTION:MLB 2027\nChicago Cubs @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-09-boston-red-sox-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:Boston Red Sox @ Chicago White Sox
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-10-boston-red-sox-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Boston Red Sox @ Chicago White Sox
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-11-boston-red-sox-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Boston Red Sox @ Chicago White Sox
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-13-chicago-white-sox-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Chicago White Sox @ Colorado Rockies
+DESCRIPTION:MLB 2027\nChicago White Sox @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-14-chicago-white-sox-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Chicago White Sox @ Colorado Rockies
+DESCRIPTION:MLB 2027\nChicago White Sox @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-15-chicago-white-sox-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Chicago White Sox @ Colorado Rockies
+DESCRIPTION:MLB 2027\nChicago White Sox @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-16-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago White Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-17-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago White Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-18-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago White Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-19-athletics-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:Athletics @ Chicago White Sox
+DESCRIPTION:MLB 2027\nAthletics @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-20-athletics-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:Athletics @ Chicago White Sox
+DESCRIPTION:MLB 2027\nAthletics @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-21-athletics-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Athletics @ Chicago White Sox
+DESCRIPTION:MLB 2027\nAthletics @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-22-athletics-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Athletics @ Chicago White Sox
+DESCRIPTION:MLB 2027\nAthletics @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-24-houston-astros-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Houston Astros @ Chicago White Sox
+DESCRIPTION:MLB 2027\nHouston Astros @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-25-houston-astros-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Houston Astros @ Chicago White Sox
+DESCRIPTION:MLB 2027\nHouston Astros @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-26-houston-astros-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:Houston Astros @ Chicago White Sox
+DESCRIPTION:MLB 2027\nHouston Astros @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-27-chicago-white-sox-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Chicago White Sox @ New York Mets
+DESCRIPTION:MLB 2027\nChicago White Sox @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-28-chicago-white-sox-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Chicago White Sox @ New York Mets
+DESCRIPTION:MLB 2027\nChicago White Sox @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-29-chicago-white-sox-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Chicago White Sox @ New York Mets
+DESCRIPTION:MLB 2027\nChicago White Sox @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-30-chicago-white-sox-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:Chicago White Sox @ Kansas City Royals
+DESCRIPTION:MLB 2027\nChicago White Sox @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-31-chicago-white-sox-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Chicago White Sox @ Kansas City Royals
+DESCRIPTION:MLB 2027\nChicago White Sox @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-01-chicago-white-sox-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Chicago White Sox @ Kansas City Royals
+DESCRIPTION:MLB 2027\nChicago White Sox @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-03-toronto-blue-jays-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:Toronto Blue Jays @ Chicago White Sox
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-04-toronto-blue-jays-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Toronto Blue Jays @ Chicago White Sox
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-05-toronto-blue-jays-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:Toronto Blue Jays @ Chicago White Sox
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-06-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-07-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-08-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-10-chicago-white-sox-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Chicago White Sox @ Atlanta Braves
+DESCRIPTION:MLB 2027\nChicago White Sox @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-11-chicago-white-sox-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Chicago White Sox @ Atlanta Braves
+DESCRIPTION:MLB 2027\nChicago White Sox @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-12-chicago-white-sox-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Chicago White Sox @ Atlanta Braves
+DESCRIPTION:MLB 2027\nChicago White Sox @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-14-chicago-white-sox-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Chicago White Sox @ New York Yankees
+DESCRIPTION:MLB 2027\nChicago White Sox @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-15-chicago-white-sox-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Chicago White Sox @ New York Yankees
+DESCRIPTION:MLB 2027\nChicago White Sox @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-16-chicago-white-sox-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Chicago White Sox @ New York Yankees
+DESCRIPTION:MLB 2027\nChicago White Sox @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-17-chicago-white-sox-vs-washington-nationals@open-sports-cal
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:Chicago White Sox @ Washington Nationals
+DESCRIPTION:MLB 2027\nChicago White Sox @ Washington Nationals\nNationals Park\nStart time TBD
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-18-chicago-white-sox-vs-washington-nationals@open-sports-cal
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:Chicago White Sox @ Washington Nationals
+DESCRIPTION:MLB 2027\nChicago White Sox @ Washington Nationals\nNationals Park\nStart time TBD
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-19-chicago-white-sox-vs-washington-nationals@open-sports-cal
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Chicago White Sox @ Washington Nationals
+DESCRIPTION:MLB 2027\nChicago White Sox @ Washington Nationals\nNationals Park\nStart time TBD
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-20-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270921
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-21-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-22-detroit-tigers-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:Detroit Tigers @ Chicago White Sox
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-24-san-diego-padres-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:San Diego Padres @ Chicago White Sox
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-25-san-diego-padres-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:San Diego Padres @ Chicago White Sox
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-26-san-diego-padres-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:San Diego Padres @ Chicago White Sox
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+END:VCALENDAR

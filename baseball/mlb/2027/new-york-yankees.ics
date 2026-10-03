@@ -1,0 +1,1791 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MLB 2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLB 2027 - New York Yankees
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-25-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-27-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-28-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-29-athletics-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Athletics @ New York Yankees
+DESCRIPTION:MLB 2027\nAthletics @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-30-athletics-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Athletics @ New York Yankees
+DESCRIPTION:MLB 2027\nAthletics @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-31-athletics-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Athletics @ New York Yankees
+DESCRIPTION:MLB 2027\nAthletics @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-01-new-york-yankees-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:New York Yankees @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nNew York Yankees @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-02-new-york-yankees-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:New York Yankees @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nNew York Yankees @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-03-new-york-yankees-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:New York Yankees @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nNew York Yankees @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-04-new-york-yankees-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:New York Yankees @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nNew York Yankees @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-05-new-york-yankees-vs-pittsburgh-pirates@open-sports-cal
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:New York Yankees @ Pittsburgh Pirates
+DESCRIPTION:MLB 2027\nNew York Yankees @ Pittsburgh Pirates\nPNC Park\nStart time TBD
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-06-new-york-yankees-vs-pittsburgh-pirates@open-sports-cal
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:New York Yankees @ Pittsburgh Pirates
+DESCRIPTION:MLB 2027\nNew York Yankees @ Pittsburgh Pirates\nPNC Park\nStart time TBD
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-07-new-york-yankees-vs-pittsburgh-pirates@open-sports-cal
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:New York Yankees @ Pittsburgh Pirates
+DESCRIPTION:MLB 2027\nNew York Yankees @ Pittsburgh Pirates\nPNC Park\nStart time TBD
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-09-arizona-diamondbacks-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Arizona Diamondbacks @ New York Yankees
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-10-arizona-diamondbacks-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Arizona Diamondbacks @ New York Yankees
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-11-arizona-diamondbacks-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Arizona Diamondbacks @ New York Yankees
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-13-new-york-yankees-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:New York Yankees @ Detroit Tigers
+DESCRIPTION:MLB 2027\nNew York Yankees @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-14-new-york-yankees-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:New York Yankees @ Detroit Tigers
+DESCRIPTION:MLB 2027\nNew York Yankees @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-15-new-york-yankees-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:New York Yankees @ Detroit Tigers
+DESCRIPTION:MLB 2027\nNew York Yankees @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-16-washington-nationals-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Washington Nationals @ New York Yankees
+DESCRIPTION:MLB 2027\nWashington Nationals @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-17-washington-nationals-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Washington Nationals @ New York Yankees
+DESCRIPTION:MLB 2027\nWashington Nationals @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-18-washington-nationals-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Washington Nationals @ New York Yankees
+DESCRIPTION:MLB 2027\nWashington Nationals @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-19-milwaukee-brewers-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Milwaukee Brewers @ New York Yankees
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-20-milwaukee-brewers-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Milwaukee Brewers @ New York Yankees
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-21-milwaukee-brewers-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Milwaukee Brewers @ New York Yankees
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-23-new-york-yankees-vs-houston-astros@open-sports-cal
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:New York Yankees @ Houston Astros
+DESCRIPTION:MLB 2027\nNew York Yankees @ Houston Astros\nDaikin Park\nStart time TBD
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-24-new-york-yankees-vs-houston-astros@open-sports-cal
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:New York Yankees @ Houston Astros
+DESCRIPTION:MLB 2027\nNew York Yankees @ Houston Astros\nDaikin Park\nStart time TBD
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-25-new-york-yankees-vs-houston-astros@open-sports-cal
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:New York Yankees @ Houston Astros
+DESCRIPTION:MLB 2027\nNew York Yankees @ Houston Astros\nDaikin Park\nStart time TBD
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-26-new-york-yankees-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:New York Yankees @ Kansas City Royals
+DESCRIPTION:MLB 2027\nNew York Yankees @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-27-new-york-yankees-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:New York Yankees @ Kansas City Royals
+DESCRIPTION:MLB 2027\nNew York Yankees @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-28-new-york-yankees-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:New York Yankees @ Kansas City Royals
+DESCRIPTION:MLB 2027\nNew York Yankees @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-30-chicago-cubs-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Chicago Cubs @ New York Yankees
+DESCRIPTION:MLB 2027\nChicago Cubs @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-01-chicago-cubs-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Chicago Cubs @ New York Yankees
+DESCRIPTION:MLB 2027\nChicago Cubs @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-02-chicago-cubs-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Chicago Cubs @ New York Yankees
+DESCRIPTION:MLB 2027\nChicago Cubs @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-03-tampa-bay-rays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Tampa Bay Rays @ New York Yankees
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-04-tampa-bay-rays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Tampa Bay Rays @ New York Yankees
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-05-tampa-bay-rays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Tampa Bay Rays @ New York Yankees
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-06-tampa-bay-rays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Tampa Bay Rays @ New York Yankees
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-07-new-york-yankees-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:New York Yankees @ Miami Marlins
+DESCRIPTION:MLB 2027\nNew York Yankees @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-08-new-york-yankees-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:New York Yankees @ Miami Marlins
+DESCRIPTION:MLB 2027\nNew York Yankees @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-09-new-york-yankees-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:New York Yankees @ Miami Marlins
+DESCRIPTION:MLB 2027\nNew York Yankees @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-10-new-york-yankees-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:New York Yankees @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nNew York Yankees @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-11-new-york-yankees-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:New York Yankees @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nNew York Yankees @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-12-new-york-yankees-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:New York Yankees @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nNew York Yankees @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-13-new-york-yankees-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:New York Yankees @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nNew York Yankees @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-14-philadelphia-phillies-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Philadelphia Phillies @ New York Yankees
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-15-philadelphia-phillies-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Philadelphia Phillies @ New York Yankees
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-16-philadelphia-phillies-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Philadelphia Phillies @ New York Yankees
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-18-los-angeles-angels-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Los Angeles Angels @ New York Yankees
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-19-los-angeles-angels-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Los Angeles Angels @ New York Yankees
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-20-los-angeles-angels-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Los Angeles Angels @ New York Yankees
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-21-san-francisco-giants-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:San Francisco Giants @ New York Yankees
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-22-san-francisco-giants-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:San Francisco Giants @ New York Yankees
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-23-san-francisco-giants-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:San Francisco Giants @ New York Yankees
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-25-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-26-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-27-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-28-new-york-yankees-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:New York Yankees @ New York Mets
+DESCRIPTION:MLB 2027\nNew York Yankees @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-29-new-york-yankees-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:New York Yankees @ New York Mets
+DESCRIPTION:MLB 2027\nNew York Yankees @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-30-new-york-yankees-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:New York Yankees @ New York Mets
+DESCRIPTION:MLB 2027\nNew York Yankees @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-31-kansas-city-royals-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Kansas City Royals @ New York Yankees
+DESCRIPTION:MLB 2027\nKansas City Royals @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-01-kansas-city-royals-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Kansas City Royals @ New York Yankees
+DESCRIPTION:MLB 2027\nKansas City Royals @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-02-kansas-city-royals-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Kansas City Royals @ New York Yankees
+DESCRIPTION:MLB 2027\nKansas City Royals @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-04-new-york-yankees-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:New York Yankees @ Boston Red Sox
+DESCRIPTION:MLB 2027\nNew York Yankees @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-05-new-york-yankees-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:New York Yankees @ Boston Red Sox
+DESCRIPTION:MLB 2027\nNew York Yankees @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-06-new-york-yankees-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:New York Yankees @ Boston Red Sox
+DESCRIPTION:MLB 2027\nNew York Yankees @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-07-new-york-yankees-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:New York Yankees @ Boston Red Sox
+DESCRIPTION:MLB 2027\nNew York Yankees @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-08-baltimore-orioles-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Baltimore Orioles @ New York Yankees
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-09-baltimore-orioles-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Baltimore Orioles @ New York Yankees
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-10-baltimore-orioles-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Baltimore Orioles @ New York Yankees
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-11-boston-red-sox-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Boston Red Sox @ New York Yankees
+DESCRIPTION:MLB 2027\nBoston Red Sox @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-12-boston-red-sox-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Boston Red Sox @ New York Yankees
+DESCRIPTION:MLB 2027\nBoston Red Sox @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-13-boston-red-sox-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Boston Red Sox @ New York Yankees
+DESCRIPTION:MLB 2027\nBoston Red Sox @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-15-new-york-yankees-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:New York Yankees @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-16-new-york-yankees-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:New York Yankees @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-17-new-york-yankees-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:New York Yankees @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-18-new-york-yankees-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:New York Yankees @ Atlanta Braves
+DESCRIPTION:MLB 2027\nNew York Yankees @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-19-new-york-yankees-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:New York Yankees @ Atlanta Braves
+DESCRIPTION:MLB 2027\nNew York Yankees @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-20-new-york-yankees-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:New York Yankees @ Atlanta Braves
+DESCRIPTION:MLB 2027\nNew York Yankees @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-21-new-york-yankees-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:New York Yankees @ Minnesota Twins
+DESCRIPTION:MLB 2027\nNew York Yankees @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-22-new-york-yankees-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:New York Yankees @ Minnesota Twins
+DESCRIPTION:MLB 2027\nNew York Yankees @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-23-new-york-yankees-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:New York Yankees @ Minnesota Twins
+DESCRIPTION:MLB 2027\nNew York Yankees @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-25-detroit-tigers-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Detroit Tigers @ New York Yankees
+DESCRIPTION:MLB 2027\nDetroit Tigers @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-26-detroit-tigers-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Detroit Tigers @ New York Yankees
+DESCRIPTION:MLB 2027\nDetroit Tigers @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-27-detroit-tigers-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Detroit Tigers @ New York Yankees
+DESCRIPTION:MLB 2027\nDetroit Tigers @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-28-seattle-mariners-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Seattle Mariners @ New York Yankees
+DESCRIPTION:MLB 2027\nSeattle Mariners @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-29-seattle-mariners-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Seattle Mariners @ New York Yankees
+DESCRIPTION:MLB 2027\nSeattle Mariners @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-30-seattle-mariners-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Seattle Mariners @ New York Yankees
+DESCRIPTION:MLB 2027\nSeattle Mariners @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-01-seattle-mariners-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Seattle Mariners @ New York Yankees
+DESCRIPTION:MLB 2027\nSeattle Mariners @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-02-houston-astros-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:Houston Astros @ New York Yankees
+DESCRIPTION:MLB 2027\nHouston Astros @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-03-houston-astros-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Houston Astros @ New York Yankees
+DESCRIPTION:MLB 2027\nHouston Astros @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-04-houston-astros-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Houston Astros @ New York Yankees
+DESCRIPTION:MLB 2027\nHouston Astros @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-06-new-york-yankees-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:New York Yankees @ Chicago White Sox
+DESCRIPTION:MLB 2027\nNew York Yankees @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-07-new-york-yankees-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:New York Yankees @ Chicago White Sox
+DESCRIPTION:MLB 2027\nNew York Yankees @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-08-new-york-yankees-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:New York Yankees @ Chicago White Sox
+DESCRIPTION:MLB 2027\nNew York Yankees @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-09-new-york-yankees-vs-st-louis-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:New York Yankees @ St. Louis Cardinals
+DESCRIPTION:MLB 2027\nNew York Yankees @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-10-new-york-yankees-vs-st-louis-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:New York Yankees @ St. Louis Cardinals
+DESCRIPTION:MLB 2027\nNew York Yankees @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-11-new-york-yankees-vs-st-louis-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:New York Yankees @ St. Louis Cardinals
+DESCRIPTION:MLB 2027\nNew York Yankees @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-16-new-york-mets-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:New York Mets @ New York Yankees
+DESCRIPTION:MLB 2027\nNew York Mets @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-17-new-york-mets-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:New York Mets @ New York Yankees
+DESCRIPTION:MLB 2027\nNew York Mets @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-18-new-york-mets-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:New York Mets @ New York Yankees
+DESCRIPTION:MLB 2027\nNew York Mets @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-19-cleveland-guardians-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:Cleveland Guardians @ New York Yankees
+DESCRIPTION:MLB 2027\nCleveland Guardians @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-20-cleveland-guardians-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Cleveland Guardians @ New York Yankees
+DESCRIPTION:MLB 2027\nCleveland Guardians @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-21-cleveland-guardians-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Cleveland Guardians @ New York Yankees
+DESCRIPTION:MLB 2027\nCleveland Guardians @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-23-new-york-yankees-vs-seattle-mariners@open-sports-cal
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:New York Yankees @ Seattle Mariners
+DESCRIPTION:MLB 2027\nNew York Yankees @ Seattle Mariners\nT-Mobile Park\nStart time TBD
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-24-new-york-yankees-vs-seattle-mariners@open-sports-cal
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:New York Yankees @ Seattle Mariners
+DESCRIPTION:MLB 2027\nNew York Yankees @ Seattle Mariners\nT-Mobile Park\nStart time TBD
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-25-new-york-yankees-vs-seattle-mariners@open-sports-cal
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:New York Yankees @ Seattle Mariners
+DESCRIPTION:MLB 2027\nNew York Yankees @ Seattle Mariners\nT-Mobile Park\nStart time TBD
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-26-new-york-yankees-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:New York Yankees @ Colorado Rockies
+DESCRIPTION:MLB 2027\nNew York Yankees @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-27-new-york-yankees-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:New York Yankees @ Colorado Rockies
+DESCRIPTION:MLB 2027\nNew York Yankees @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-28-new-york-yankees-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:New York Yankees @ Colorado Rockies
+DESCRIPTION:MLB 2027\nNew York Yankees @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-30-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-31-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-01-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-02-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-03-minnesota-twins-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Minnesota Twins @ New York Yankees
+DESCRIPTION:MLB 2027\nMinnesota Twins @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-04-minnesota-twins-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Minnesota Twins @ New York Yankees
+DESCRIPTION:MLB 2027\nMinnesota Twins @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-05-minnesota-twins-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:Minnesota Twins @ New York Yankees
+DESCRIPTION:MLB 2027\nMinnesota Twins @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-06-new-york-yankees-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:New York Yankees @ Boston Red Sox
+DESCRIPTION:MLB 2027\nNew York Yankees @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-07-new-york-yankees-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:New York Yankees @ Boston Red Sox
+DESCRIPTION:MLB 2027\nNew York Yankees @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-08-new-york-yankees-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:New York Yankees @ Boston Red Sox
+DESCRIPTION:MLB 2027\nNew York Yankees @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-09-new-york-yankees-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:New York Yankees @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-10-new-york-yankees-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:New York Yankees @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-11-new-york-yankees-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:New York Yankees @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-13-new-york-yankees-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:New York Yankees @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nNew York Yankees @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-14-new-york-yankees-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:New York Yankees @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nNew York Yankees @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-15-new-york-yankees-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:New York Yankees @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nNew York Yankees @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-16-baltimore-orioles-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Baltimore Orioles @ New York Yankees
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-17-baltimore-orioles-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Baltimore Orioles @ New York Yankees
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-18-baltimore-orioles-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Baltimore Orioles @ New York Yankees
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-20-texas-rangers-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:Texas Rangers @ New York Yankees
+DESCRIPTION:MLB 2027\nTexas Rangers @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-21-texas-rangers-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Texas Rangers @ New York Yankees
+DESCRIPTION:MLB 2027\nTexas Rangers @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-22-texas-rangers-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Texas Rangers @ New York Yankees
+DESCRIPTION:MLB 2027\nTexas Rangers @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-24-new-york-yankees-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:New York Yankees @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nNew York Yankees @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-25-new-york-yankees-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:New York Yankees @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nNew York Yankees @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-26-new-york-yankees-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:New York Yankees @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nNew York Yankees @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-27-new-york-yankees-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:New York Yankees @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nNew York Yankees @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-28-new-york-yankees-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:New York Yankees @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nNew York Yankees @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-29-new-york-yankees-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:New York Yankees @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nNew York Yankees @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-31-san-diego-padres-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:San Diego Padres @ New York Yankees
+DESCRIPTION:MLB 2027\nSan Diego Padres @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-01-san-diego-padres-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:San Diego Padres @ New York Yankees
+DESCRIPTION:MLB 2027\nSan Diego Padres @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-02-san-diego-padres-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:San Diego Padres @ New York Yankees
+DESCRIPTION:MLB 2027\nSan Diego Padres @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-03-tampa-bay-rays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:Tampa Bay Rays @ New York Yankees
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-04-tampa-bay-rays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Tampa Bay Rays @ New York Yankees
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-05-tampa-bay-rays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:Tampa Bay Rays @ New York Yankees
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-06-new-york-yankees-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:New York Yankees @ Texas Rangers
+DESCRIPTION:MLB 2027\nNew York Yankees @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-07-new-york-yankees-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:New York Yankees @ Texas Rangers
+DESCRIPTION:MLB 2027\nNew York Yankees @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-08-new-york-yankees-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:New York Yankees @ Texas Rangers
+DESCRIPTION:MLB 2027\nNew York Yankees @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-10-new-york-yankees-vs-athletics@open-sports-cal
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:New York Yankees @ Athletics
+DESCRIPTION:MLB 2027\nNew York Yankees @ Athletics\nSutter Health Park\nStart time TBD
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-11-new-york-yankees-vs-athletics@open-sports-cal
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:New York Yankees @ Athletics
+DESCRIPTION:MLB 2027\nNew York Yankees @ Athletics\nSutter Health Park\nStart time TBD
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-12-new-york-yankees-vs-athletics@open-sports-cal
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:New York Yankees @ Athletics
+DESCRIPTION:MLB 2027\nNew York Yankees @ Athletics\nSutter Health Park\nStart time TBD
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-14-chicago-white-sox-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Chicago White Sox @ New York Yankees
+DESCRIPTION:MLB 2027\nChicago White Sox @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-15-chicago-white-sox-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Chicago White Sox @ New York Yankees
+DESCRIPTION:MLB 2027\nChicago White Sox @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-16-chicago-white-sox-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Chicago White Sox @ New York Yankees
+DESCRIPTION:MLB 2027\nChicago White Sox @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-17-boston-red-sox-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:Boston Red Sox @ New York Yankees
+DESCRIPTION:MLB 2027\nBoston Red Sox @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-18-boston-red-sox-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:Boston Red Sox @ New York Yankees
+DESCRIPTION:MLB 2027\nBoston Red Sox @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-19-boston-red-sox-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Boston Red Sox @ New York Yankees
+DESCRIPTION:MLB 2027\nBoston Red Sox @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-21-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-22-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-23-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-24-new-york-yankees-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:New York Yankees @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nNew York Yankees @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-25-new-york-yankees-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:New York Yankees @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nNew York Yankees @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-26-new-york-yankees-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:New York Yankees @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nNew York Yankees @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+END:VCALENDAR

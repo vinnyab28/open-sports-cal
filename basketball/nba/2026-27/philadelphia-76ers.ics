@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Philadelphia 76ers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-20-philadelphia-76ers-vs-new-york-knicks@open-sports-cal
+DTSTART:20261020T230000Z
+DTEND:20261021T020000Z
+SUMMARY:Philadelphia 76ers @ New York Knicks
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-22-cleveland-cavaliers-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261022T230000Z
+DTEND:20261023T020000Z
+SUMMARY:Cleveland Cavaliers @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-24-milwaukee-bucks-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261024T233000Z
+DTEND:20261025T023000Z
+SUMMARY:Milwaukee Bucks @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-25-detroit-pistons-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261025T233000Z
+DTEND:20261026T023000Z
+SUMMARY:Detroit Pistons @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-28-philadelphia-76ers-vs-indiana-pacers@open-sports-cal
+DTSTART:20261028T230000Z
+DTEND:20261029T020000Z
+SUMMARY:Philadelphia 76ers @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-30-new-york-knicks-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261030T233000Z
+DTEND:20261031T023000Z
+SUMMARY:New York Knicks @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-31-philadelphia-76ers-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261031T220000Z
+DTEND:20261101T010000Z
+SUMMARY:Philadelphia 76ers @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-chicago-bulls-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261103T003000Z
+DTEND:20261103T033000Z
+SUMMARY:Chicago Bulls @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-philadelphia-76ers-vs-detroit-pistons@open-sports-cal
+DTSTART:20261105T000000Z
+DTEND:20261105T030000Z
+SUMMARY:Philadelphia 76ers @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-06-philadelphia-76ers-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261107T003000Z
+DTEND:20261107T033000Z
+SUMMARY:Philadelphia 76ers @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-08-philadelphia-76ers-vs-chicago-bulls@open-sports-cal
+DTSTART:20261108T203000Z
+DTEND:20261108T233000Z
+SUMMARY:Philadelphia 76ers @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-10-boston-celtics-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261111T010000Z
+DTEND:20261111T040000Z
+SUMMARY:Boston Celtics @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-12-toronto-raptors-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261113T000000Z
+DTEND:20261113T030000Z
+SUMMARY:Toronto Raptors @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-15-indiana-pacers-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Indiana Pacers @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-16-philadelphia-76ers-vs-brooklyn-nets@open-sports-cal
+DTSTART:20261117T003000Z
+DTEND:20261117T033000Z
+SUMMARY:Philadelphia 76ers @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-philadelphia-76ers-vs-orlando-magic@open-sports-cal
+DTSTART:20261119T000000Z
+DTEND:20261119T030000Z
+SUMMARY:Philadelphia 76ers @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-21-milwaukee-bucks-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261121T180000Z
+DTEND:20261121T210000Z
+SUMMARY:Milwaukee Bucks @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-23-portland-trail-blazers-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261124T000000Z
+DTEND:20261124T030000Z
+SUMMARY:Portland Trail Blazers @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-25-miami-heat-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261125T220000Z
+DTEND:20261126T010000Z
+SUMMARY:Miami Heat @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-27-philadelphia-76ers-vs-indiana-pacers@open-sports-cal
+DTSTART:20261128T003000Z
+DTEND:20261128T033000Z
+SUMMARY:Philadelphia 76ers @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-28-philadelphia-76ers-vs-houston-rockets@open-sports-cal
+DTSTART:20261129T013000Z
+DTEND:20261129T043000Z
+SUMMARY:Philadelphia 76ers @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-01-memphis-grizzlies-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261202T000000Z
+DTEND:20261202T030000Z
+SUMMARY:Memphis Grizzlies @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-02-denver-nuggets-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261203T000000Z
+DTEND:20261203T030000Z
+SUMMARY:Denver Nuggets @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-12-orlando-magic-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261213T003000Z
+DTEND:20261213T033000Z
+SUMMARY:Orlando Magic @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-14-philadelphia-76ers-vs-orlando-magic@open-sports-cal
+DTSTART:20261215T000000Z
+DTEND:20261215T030000Z
+SUMMARY:Philadelphia 76ers @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-17-dallas-mavericks-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261218T000000Z
+DTEND:20261218T030000Z
+SUMMARY:Dallas Mavericks @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-21-philadelphia-76ers-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261222T000000Z
+DTEND:20261222T030000Z
+SUMMARY:Philadelphia 76ers @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-houston-rockets-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261224T003000Z
+DTEND:20261224T033000Z
+SUMMARY:Houston Rockets @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-25-philadelphia-76ers-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20261225T220000Z
+DTEND:20261226T010000Z
+SUMMARY:Philadelphia 76ers @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-27-philadelphia-76ers-vs-la-clippers@open-sports-cal
+DTSTART:20261228T020000Z
+DTEND:20261228T050000Z
+SUMMARY:Philadelphia 76ers @ LA Clippers
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-29-philadelphia-76ers-vs-sacramento-kings@open-sports-cal
+DTSTART:20261230T030000Z
+DTEND:20261230T060000Z
+SUMMARY:Philadelphia 76ers @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-30-philadelphia-76ers-vs-phoenix-suns@open-sports-cal
+DTSTART:20261231T020000Z
+DTEND:20261231T050000Z
+SUMMARY:Philadelphia 76ers @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-01-philadelphia-76ers-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270102T010000Z
+DTEND:20270102T040000Z
+SUMMARY:Philadelphia 76ers @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-04-atlanta-hawks-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270105T000000Z
+DTEND:20270105T030000Z
+SUMMARY:Atlanta Hawks @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-06-oklahoma-city-thunder-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270107T003000Z
+DTEND:20270107T033000Z
+SUMMARY:Oklahoma City Thunder @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-08-miami-heat-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270109T000000Z
+DTEND:20270109T030000Z
+SUMMARY:Miami Heat @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-10-philadelphia-76ers-vs-toronto-raptors@open-sports-cal
+DTSTART:20270110T230000Z
+DTEND:20270111T020000Z
+SUMMARY:Philadelphia 76ers @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-12-washington-wizards-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270113T010000Z
+DTEND:20270113T040000Z
+SUMMARY:Washington Wizards @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-14-brooklyn-nets-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270115T000000Z
+DTEND:20270115T030000Z
+SUMMARY:Brooklyn Nets @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-16-minnesota-timberwolves-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270116T173000Z
+DTEND:20270116T203000Z
+SUMMARY:Minnesota Timberwolves @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-18-philadelphia-76ers-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270118T193000Z
+DTEND:20270118T223000Z
+SUMMARY:Philadelphia 76ers @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-19-indiana-pacers-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270120T000000Z
+DTEND:20270120T030000Z
+SUMMARY:Indiana Pacers @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-21-philadelphia-76ers-vs-boston-celtics@open-sports-cal
+DTSTART:20270122T003000Z
+DTEND:20270122T033000Z
+SUMMARY:Philadelphia 76ers @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-23-philadelphia-76ers-vs-chicago-bulls@open-sports-cal
+DTSTART:20270123T220000Z
+DTEND:20270124T010000Z
+SUMMARY:Philadelphia 76ers @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-25-la-clippers-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270126T000000Z
+DTEND:20270126T030000Z
+SUMMARY:LA Clippers @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-27-sacramento-kings-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270128T000000Z
+DTEND:20270128T030000Z
+SUMMARY:Sacramento Kings @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-28-philadelphia-76ers-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270129T010000Z
+DTEND:20270129T040000Z
+SUMMARY:Philadelphia 76ers @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-30-philadelphia-76ers-vs-miami-heat@open-sports-cal
+DTSTART:20270130T173000Z
+DTEND:20270130T203000Z
+SUMMARY:Philadelphia 76ers @ Miami Heat
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-01-new-orleans-pelicans-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270202T000000Z
+DTEND:20270202T030000Z
+SUMMARY:New Orleans Pelicans @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-03-philadelphia-76ers-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270204T010000Z
+DTEND:20270204T040000Z
+SUMMARY:Philadelphia 76ers @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-05-detroit-pistons-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270206T000000Z
+DTEND:20270206T030000Z
+SUMMARY:Detroit Pistons @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-07-boston-celtics-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270208T000000Z
+DTEND:20270208T030000Z
+SUMMARY:Boston Celtics @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-08-brooklyn-nets-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270209T000000Z
+DTEND:20270209T030000Z
+SUMMARY:Brooklyn Nets @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-11-new-york-knicks-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270212T000000Z
+DTEND:20270212T030000Z
+SUMMARY:New York Knicks @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-13-philadelphia-76ers-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270213T223000Z
+DTEND:20270214T013000Z
+SUMMARY:Philadelphia 76ers @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-15-philadelphia-76ers-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270215T193000Z
+DTEND:20270215T223000Z
+SUMMARY:Philadelphia 76ers @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-phoenix-suns-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270218T000000Z
+DTEND:20270218T030000Z
+SUMMARY:Phoenix Suns @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-25-philadelphia-76ers-vs-brooklyn-nets@open-sports-cal
+DTSTART:20270226T003000Z
+DTEND:20270226T033000Z
+SUMMARY:Philadelphia 76ers @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-27-philadelphia-76ers-vs-new-york-knicks@open-sports-cal
+DTSTART:20270228T013000Z
+DTEND:20270228T043000Z
+SUMMARY:Philadelphia 76ers @ New York Knicks
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-01-philadelphia-76ers-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270302T000000Z
+DTEND:20270302T030000Z
+SUMMARY:Philadelphia 76ers @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-03-charlotte-hornets-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270304T000000Z
+DTEND:20270304T030000Z
+SUMMARY:Charlotte Hornets @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-04-los-angeles-lakers-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270305T000000Z
+DTEND:20270305T030000Z
+SUMMARY:Los Angeles Lakers @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-07-philadelphia-76ers-vs-boston-celtics@open-sports-cal
+DTSTART:20270307T180000Z
+DTEND:20270307T210000Z
+SUMMARY:Philadelphia 76ers @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-08-utah-jazz-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270309T000000Z
+DTEND:20270309T030000Z
+SUMMARY:Utah Jazz @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-11-philadelphia-76ers-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270312T003000Z
+DTEND:20270312T033000Z
+SUMMARY:Philadelphia 76ers @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-13-philadelphia-76ers-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270314T013000Z
+DTEND:20270314T043000Z
+SUMMARY:Philadelphia 76ers @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-15-toronto-raptors-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270315T230000Z
+DTEND:20270316T020000Z
+SUMMARY:Toronto Raptors @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-17-chicago-bulls-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270317T230000Z
+DTEND:20270318T020000Z
+SUMMARY:Chicago Bulls @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-18-philadelphia-76ers-vs-washington-wizards@open-sports-cal
+DTSTART:20270318T230000Z
+DTEND:20270319T020000Z
+SUMMARY:Philadelphia 76ers @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-21-san-antonio-spurs-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270321T233000Z
+DTEND:20270322T023000Z
+SUMMARY:San Antonio Spurs @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-23-philadelphia-76ers-vs-utah-jazz@open-sports-cal
+DTSTART:20270324T010000Z
+DTEND:20270324T040000Z
+SUMMARY:Philadelphia 76ers @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-philadelphia-76ers-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270325T020000Z
+DTEND:20270325T050000Z
+SUMMARY:Philadelphia 76ers @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-26-philadelphia-76ers-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270327T020000Z
+DTEND:20270327T050000Z
+SUMMARY:Philadelphia 76ers @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-28-philadelphia-76ers-vs-denver-nuggets@open-sports-cal
+DTSTART:20270329T020000Z
+DTEND:20270329T050000Z
+SUMMARY:Philadelphia 76ers @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-31-golden-state-warriors-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270331T230000Z
+DTEND:20270401T020000Z
+SUMMARY:Golden State Warriors @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-02-philadelphia-76ers-vs-washington-wizards@open-sports-cal
+DTSTART:20270402T230000Z
+DTEND:20270403T020000Z
+SUMMARY:Philadelphia 76ers @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-atlanta-hawks-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270404T170000Z
+DTEND:20270404T200000Z
+SUMMARY:Atlanta Hawks @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-06-philadelphia-76ers-vs-toronto-raptors@open-sports-cal
+DTSTART:20270406T233000Z
+DTEND:20270407T023000Z
+SUMMARY:Philadelphia 76ers @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-08-philadelphia-76ers-vs-miami-heat@open-sports-cal
+DTSTART:20270408T230000Z
+DTEND:20270409T020000Z
+SUMMARY:Philadelphia 76ers @ Miami Heat
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-charlotte-hornets-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270411T220000Z
+DTEND:20270412T010000Z
+SUMMARY:Charlotte Hornets @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

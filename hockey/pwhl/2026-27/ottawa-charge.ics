@@ -1,0 +1,393 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//PWHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PWHL 2026-27 - Ottawa Charge
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-23-pwhl-detroit-vs-ottawa-charge@open-sports-cal
+DTSTART:20261123T133000Z
+DTEND:20261123T163000Z
+SUMMARY:PWHL Detroit @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nPWHL Detroit @ Ottawa Charge\nMorgan Firestone Arena | Ancaster, Ancaster, ON
+LOCATION:Morgan Firestone Arena | Ancaster, Ancaster, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-24-ottawa-charge-vs-toronto-sceptres@open-sports-cal
+DTSTART:20261124T190000Z
+DTEND:20261124T220000Z
+SUMMARY:Ottawa Charge @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Toronto Sceptres\nMattamy Athletic Centre | Toronto, Toronto, ON
+LOCATION:Mattamy Athletic Centre | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-06-toronto-sceptres-vs-ottawa-charge@open-sports-cal
+DTSTART:20261206T140000Z
+DTEND:20261206T170000Z
+SUMMARY:Toronto Sceptres @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-09-ottawa-charge-vs-boston-fleet@open-sports-cal
+DTSTART:20261209T190000Z
+DTEND:20261209T220000Z
+SUMMARY:Ottawa Charge @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-13-ottawa-charge-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20261213T140000Z
+DTEND:20261213T170000Z
+SUMMARY:Ottawa Charge @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-15-pwhl-san-jose-vs-ottawa-charge@open-sports-cal
+DTSTART:20261215T190000Z
+DTEND:20261215T220000Z
+SUMMARY:PWHL San Jose @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nPWHL San Jose @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-19-ottawa-charge-vs-new-york-sirens@open-sports-cal
+DTSTART:20261219T190000Z
+DTEND:20261219T220000Z
+SUMMARY:Ottawa Charge @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-23-pwhl-detroit-vs-ottawa-charge@open-sports-cal
+DTSTART:20261223T190000Z
+DTEND:20261223T220000Z
+SUMMARY:PWHL Detroit @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nPWHL Detroit @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-26-ottawa-charge-vs-montreal-victoire@open-sports-cal
+DTSTART:20261226T140000Z
+DTEND:20261226T170000Z
+SUMMARY:Ottawa Charge @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-02-ottawa-charge-vs-boston-fleet@open-sports-cal
+DTSTART:20270102T120000Z
+DTEND:20270102T150000Z
+SUMMARY:Ottawa Charge @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Boston Fleet\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-05-ottawa-charge-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270105T213000Z
+DTEND:20270106T003000Z
+SUMMARY:Ottawa Charge @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-08-ottawa-charge-vs-seattle-torrent@open-sports-cal
+DTSTART:20270108T220000Z
+DTEND:20270109T010000Z
+SUMMARY:Ottawa Charge @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-10-ottawa-charge-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270110T170000Z
+DTEND:20270110T200000Z
+SUMMARY:Ottawa Charge @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-17-boston-fleet-vs-ottawa-charge@open-sports-cal
+DTSTART:20270117T130000Z
+DTEND:20270117T160000Z
+SUMMARY:Boston Fleet @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-19-minnesota-frost-vs-ottawa-charge@open-sports-cal
+DTSTART:20270119T190000Z
+DTEND:20270119T220000Z
+SUMMARY:Minnesota Frost @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-27-new-york-sirens-vs-ottawa-charge@open-sports-cal
+DTSTART:20270127T190000Z
+DTEND:20270127T220000Z
+SUMMARY:New York Sirens @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-03-pwhl-hamilton-vs-ottawa-charge@open-sports-cal
+DTSTART:20270203T183000Z
+DTEND:20270203T213000Z
+SUMMARY:PWHL Hamilton @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Ottawa Charge\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-06-montreal-victoire-vs-ottawa-charge@open-sports-cal
+DTSTART:20270206T140000Z
+DTEND:20270206T170000Z
+SUMMARY:Montréal Victoire @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-09-ottawa-charge-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270209T190000Z
+DTEND:20270209T220000Z
+SUMMARY:Ottawa Charge @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-15-ottawa-charge-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270215T170000Z
+DTEND:20270215T200000Z
+SUMMARY:Ottawa Charge @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ PWHL Hamilton\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-17-ottawa-charge-vs-pwhl-san-jose@open-sports-cal
+DTSTART:20270217T220000Z
+DTEND:20270218T010000Z
+SUMMARY:Ottawa Charge @ PWHL San Jose
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ PWHL San Jose\nSAP Center | San Jose, San Jose, CA
+LOCATION:SAP Center | San Jose, San Jose, CA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-20-ottawa-charge-vs-minnesota-frost@open-sports-cal
+DTSTART:20270220T190000Z
+DTEND:20270220T220000Z
+SUMMARY:Ottawa Charge @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-24-seattle-torrent-vs-ottawa-charge@open-sports-cal
+DTSTART:20270224T190000Z
+DTEND:20270224T220000Z
+SUMMARY:Seattle Torrent @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-28-ottawa-charge-vs-new-york-sirens@open-sports-cal
+DTSTART:20270228T190000Z
+DTEND:20270228T220000Z
+SUMMARY:Ottawa Charge @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-12-new-york-sirens-vs-ottawa-charge@open-sports-cal
+DTSTART:20270312T190000Z
+DTEND:20270312T220000Z
+SUMMARY:New York Sirens @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Ottawa Charge\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-17-ottawa-charge-vs-pwhl-detroit@open-sports-cal
+DTSTART:20270317T190000Z
+DTEND:20270317T220000Z
+SUMMARY:Ottawa Charge @ PWHL Detroit
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ PWHL Detroit\nLittle Caesars Arena | Detroit, Detroit, MI
+LOCATION:Little Caesars Arena | Detroit, Detroit, MI
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-24-pwhl-las-vegas-vs-ottawa-charge@open-sports-cal
+DTSTART:20270324T110000Z
+DTEND:20270324T140000Z
+SUMMARY:PWHL Las Vegas @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-26-vancouver-goldeneyes-vs-ottawa-charge@open-sports-cal
+DTSTART:20270326T190000Z
+DTEND:20270326T220000Z
+SUMMARY:Vancouver Goldeneyes @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-03-pwhl-hamilton-vs-ottawa-charge@open-sports-cal
+DTSTART:20270403T140000Z
+DTEND:20270403T170000Z
+SUMMARY:PWHL Hamilton @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-09-ottawa-charge-vs-montreal-victoire@open-sports-cal
+DTSTART:20270409T193000Z
+DTEND:20270409T223000Z
+SUMMARY:Ottawa Charge @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-13-toronto-sceptres-vs-ottawa-charge@open-sports-cal
+DTSTART:20270413T190000Z
+DTEND:20270413T220000Z
+SUMMARY:Toronto Sceptres @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-18-montreal-victoire-vs-ottawa-charge@open-sports-cal
+DTSTART:20270418T000000Z
+DTEND:20270418T030000Z
+SUMMARY:Montréal Victoire @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+END:VCALENDAR

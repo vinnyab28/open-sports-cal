@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Charlotte Hornets
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-21-charlotte-hornets-vs-brooklyn-nets@open-sports-cal
+DTSTART:20261021T233000Z
+DTEND:20261022T023000Z
+SUMMARY:Charlotte Hornets @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-23-atlanta-hawks-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261023T230000Z
+DTEND:20261024T020000Z
+SUMMARY:Atlanta Hawks @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-24-miami-heat-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261024T220000Z
+DTEND:20261025T010000Z
+SUMMARY:Miami Heat @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-26-washington-wizards-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261026T230000Z
+DTEND:20261027T020000Z
+SUMMARY:Washington Wizards @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-28-charlotte-hornets-vs-detroit-pistons@open-sports-cal
+DTSTART:20261028T230000Z
+DTEND:20261029T020000Z
+SUMMARY:Charlotte Hornets @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-30-charlotte-hornets-vs-washington-wizards@open-sports-cal
+DTSTART:20261030T230000Z
+DTEND:20261031T020000Z
+SUMMARY:Charlotte Hornets @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-31-philadelphia-76ers-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261031T220000Z
+DTEND:20261101T010000Z
+SUMMARY:Philadelphia 76ers @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-detroit-pistons-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261103T003000Z
+DTEND:20261103T033000Z
+SUMMARY:Detroit Pistons @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-charlotte-hornets-vs-brooklyn-nets@open-sports-cal
+DTSTART:20261105T003000Z
+DTEND:20261105T033000Z
+SUMMARY:Charlotte Hornets @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-06-boston-celtics-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261107T000000Z
+DTEND:20261107T030000Z
+SUMMARY:Boston Celtics @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-09-cleveland-cavaliers-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261110T000000Z
+DTEND:20261110T030000Z
+SUMMARY:Cleveland Cavaliers @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-12-charlotte-hornets-vs-phoenix-suns@open-sports-cal
+DTSTART:20261113T020000Z
+DTEND:20261113T050000Z
+SUMMARY:Charlotte Hornets @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-15-charlotte-hornets-vs-la-clippers@open-sports-cal
+DTSTART:20261115T213000Z
+DTEND:20261116T003000Z
+SUMMARY:Charlotte Hornets @ LA Clippers
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-17-charlotte-hornets-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20261118T030000Z
+DTEND:20261118T060000Z
+SUMMARY:Charlotte Hornets @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-20-charlotte-hornets-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261121T000000Z
+DTEND:20261121T030000Z
+SUMMARY:Charlotte Hornets @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-23-memphis-grizzlies-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261124T000000Z
+DTEND:20261124T030000Z
+SUMMARY:Memphis Grizzlies @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-25-chicago-bulls-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:Chicago Bulls @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-28-brooklyn-nets-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261128T230000Z
+DTEND:20261129T020000Z
+SUMMARY:Brooklyn Nets @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-30-washington-wizards-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261201T000000Z
+DTEND:20261201T030000Z
+SUMMARY:Washington Wizards @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-02-charlotte-hornets-vs-boston-celtics@open-sports-cal
+DTSTART:20261203T003000Z
+DTEND:20261203T033000Z
+SUMMARY:Charlotte Hornets @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-12-charlotte-hornets-vs-washington-wizards@open-sports-cal
+DTSTART:20261213T000000Z
+DTEND:20261213T030000Z
+SUMMARY:Charlotte Hornets @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-14-toronto-raptors-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261215T000000Z
+DTEND:20261215T030000Z
+SUMMARY:Toronto Raptors @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-la-clippers-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261217T000000Z
+DTEND:20261217T030000Z
+SUMMARY:LA Clippers @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-18-oklahoma-city-thunder-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261219T000000Z
+DTEND:20261219T030000Z
+SUMMARY:Oklahoma City Thunder @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-19-portland-trail-blazers-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261219T230000Z
+DTEND:20261220T020000Z
+SUMMARY:Portland Trail Blazers @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-21-philadelphia-76ers-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261222T000000Z
+DTEND:20261222T030000Z
+SUMMARY:Philadelphia 76ers @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-charlotte-hornets-vs-orlando-magic@open-sports-cal
+DTSTART:20261224T000000Z
+DTEND:20261224T030000Z
+SUMMARY:Charlotte Hornets @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-26-charlotte-hornets-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261226T203000Z
+DTEND:20261226T233000Z
+SUMMARY:Charlotte Hornets @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-27-charlotte-hornets-vs-miami-heat@open-sports-cal
+DTSTART:20261227T230000Z
+DTEND:20261228T020000Z
+SUMMARY:Charlotte Hornets @ Miami Heat
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-29-orlando-magic-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261230T000000Z
+DTEND:20261230T030000Z
+SUMMARY:Orlando Magic @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-31-san-antonio-spurs-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261231T180000Z
+DTEND:20261231T210000Z
+SUMMARY:San Antonio Spurs @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-02-cleveland-cavaliers-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270102T180000Z
+DTEND:20270102T210000Z
+SUMMARY:Cleveland Cavaliers @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-03-charlotte-hornets-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270103T223000Z
+DTEND:20270104T013000Z
+SUMMARY:Charlotte Hornets @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-05-atlanta-hawks-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270106T000000Z
+DTEND:20270106T030000Z
+SUMMARY:Atlanta Hawks @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-denver-nuggets-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Denver Nuggets @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-09-charlotte-hornets-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270110T030000Z
+DTEND:20270110T060000Z
+SUMMARY:Charlotte Hornets @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-10-charlotte-hornets-vs-sacramento-kings@open-sports-cal
+DTSTART:20270111T020000Z
+DTEND:20270111T050000Z
+SUMMARY:Charlotte Hornets @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-13-charlotte-hornets-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270114T030000Z
+DTEND:20270114T060000Z
+SUMMARY:Charlotte Hornets @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-14-charlotte-hornets-vs-utah-jazz@open-sports-cal
+DTSTART:20270115T020000Z
+DTEND:20270115T050000Z
+SUMMARY:Charlotte Hornets @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-16-charlotte-hornets-vs-denver-nuggets@open-sports-cal
+DTSTART:20270117T020000Z
+DTEND:20270117T050000Z
+SUMMARY:Charlotte Hornets @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-19-charlotte-hornets-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270120T010000Z
+DTEND:20270120T040000Z
+SUMMARY:Charlotte Hornets @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-22-houston-rockets-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270123T000000Z
+DTEND:20270123T030000Z
+SUMMARY:Houston Rockets @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-23-charlotte-hornets-vs-boston-celtics@open-sports-cal
+DTSTART:20270124T000000Z
+DTEND:20270124T030000Z
+SUMMARY:Charlotte Hornets @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-25-orlando-magic-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270126T000000Z
+DTEND:20270126T030000Z
+SUMMARY:Orlando Magic @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-27-charlotte-hornets-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270128T010000Z
+DTEND:20270128T040000Z
+SUMMARY:Charlotte Hornets @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-29-charlotte-hornets-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270130T023000Z
+DTEND:20270130T053000Z
+SUMMARY:Charlotte Hornets @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-31-los-angeles-lakers-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270201T000000Z
+DTEND:20270201T030000Z
+SUMMARY:Los Angeles Lakers @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-02-charlotte-hornets-vs-miami-heat@open-sports-cal
+DTSTART:20270203T003000Z
+DTEND:20270203T033000Z
+SUMMARY:Charlotte Hornets @ Miami Heat
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-04-boston-celtics-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270205T003000Z
+DTEND:20270205T033000Z
+SUMMARY:Boston Celtics @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-05-golden-state-warriors-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270206T000000Z
+DTEND:20270206T030000Z
+SUMMARY:Golden State Warriors @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-07-charlotte-hornets-vs-toronto-raptors@open-sports-cal
+DTSTART:20270207T230000Z
+DTEND:20270208T020000Z
+SUMMARY:Charlotte Hornets @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-09-charlotte-hornets-vs-new-york-knicks@open-sports-cal
+DTSTART:20270210T003000Z
+DTEND:20270210T033000Z
+SUMMARY:Charlotte Hornets @ New York Knicks
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-11-milwaukee-bucks-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270212T000000Z
+DTEND:20270212T030000Z
+SUMMARY:Milwaukee Bucks @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-13-dallas-mavericks-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270213T200000Z
+DTEND:20270213T230000Z
+SUMMARY:Dallas Mavericks @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-15-minnesota-timberwolves-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270215T170000Z
+DTEND:20270215T200000Z
+SUMMARY:Minnesota Timberwolves @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-toronto-raptors-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270218T000000Z
+DTEND:20270218T030000Z
+SUMMARY:Toronto Raptors @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-25-charlotte-hornets-vs-orlando-magic@open-sports-cal
+DTSTART:20270226T000000Z
+DTEND:20270226T030000Z
+SUMMARY:Charlotte Hornets @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-26-charlotte-hornets-vs-houston-rockets@open-sports-cal
+DTSTART:20270227T013000Z
+DTEND:20270227T043000Z
+SUMMARY:Charlotte Hornets @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-28-sacramento-kings-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270301T000000Z
+DTEND:20270301T030000Z
+SUMMARY:Sacramento Kings @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-03-charlotte-hornets-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270304T000000Z
+DTEND:20270304T030000Z
+SUMMARY:Charlotte Hornets @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-06-charlotte-hornets-vs-chicago-bulls@open-sports-cal
+DTSTART:20270306T220000Z
+DTEND:20270307T010000Z
+SUMMARY:Charlotte Hornets @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-08-charlotte-hornets-vs-indiana-pacers@open-sports-cal
+DTSTART:20270309T000000Z
+DTEND:20270309T030000Z
+SUMMARY:Charlotte Hornets @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-10-new-orleans-pelicans-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270311T000000Z
+DTEND:20270311T030000Z
+SUMMARY:New Orleans Pelicans @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-11-indiana-pacers-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270312T000000Z
+DTEND:20270312T030000Z
+SUMMARY:Indiana Pacers @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-13-phoenix-suns-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270313T230000Z
+DTEND:20270314T020000Z
+SUMMARY:Phoenix Suns @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-16-charlotte-hornets-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270317T000000Z
+DTEND:20270317T030000Z
+SUMMARY:Charlotte Hornets @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-18-charlotte-hornets-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270319T000000Z
+DTEND:20270319T030000Z
+SUMMARY:Charlotte Hornets @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-20-charlotte-hornets-vs-detroit-pistons@open-sports-cal
+DTSTART:20270321T000000Z
+DTEND:20270321T030000Z
+SUMMARY:Charlotte Hornets @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-22-charlotte-hornets-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270323T000000Z
+DTEND:20270323T030000Z
+SUMMARY:Charlotte Hornets @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-detroit-pistons-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270324T230000Z
+DTEND:20270325T020000Z
+SUMMARY:Detroit Pistons @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-26-new-york-knicks-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270326T230000Z
+DTEND:20270327T020000Z
+SUMMARY:New York Knicks @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-28-utah-jazz-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270328T220000Z
+DTEND:20270329T010000Z
+SUMMARY:Utah Jazz @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-30-miami-heat-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270330T230000Z
+DTEND:20270331T020000Z
+SUMMARY:Miami Heat @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-01-charlotte-hornets-vs-new-york-knicks@open-sports-cal
+DTSTART:20270401T233000Z
+DTEND:20270402T023000Z
+SUMMARY:Charlotte Hornets @ New York Knicks
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-02-charlotte-hornets-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270403T000000Z
+DTEND:20270403T030000Z
+SUMMARY:Charlotte Hornets @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-charlotte-hornets-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270404T190000Z
+DTEND:20270404T220000Z
+SUMMARY:Charlotte Hornets @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-06-indiana-pacers-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270406T230000Z
+DTEND:20270407T020000Z
+SUMMARY:Indiana Pacers @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-07-charlotte-hornets-vs-chicago-bulls@open-sports-cal
+DTSTART:20270408T000000Z
+DTEND:20270408T030000Z
+SUMMARY:Charlotte Hornets @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-brooklyn-nets-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270409T230000Z
+DTEND:20270410T020000Z
+SUMMARY:Brooklyn Nets @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-charlotte-hornets-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270411T220000Z
+DTEND:20270412T010000Z
+SUMMARY:Charlotte Hornets @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

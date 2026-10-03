@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Chicago Bulls
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-21-chicago-bulls-vs-toronto-raptors@open-sports-cal
+DTSTART:20261021T233000Z
+DTEND:20261022T023000Z
+SUMMARY:Chicago Bulls @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-23-chicago-bulls-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20261024T000000Z
+DTEND:20261024T030000Z
+SUMMARY:Chicago Bulls @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-24-washington-wizards-vs-chicago-bulls@open-sports-cal
+DTSTART:20261025T000000Z
+DTEND:20261025T030000Z
+SUMMARY:Washington Wizards @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-26-chicago-bulls-vs-boston-celtics@open-sports-cal
+DTSTART:20261026T233000Z
+DTEND:20261027T023000Z
+SUMMARY:Chicago Bulls @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-28-new-york-knicks-vs-chicago-bulls@open-sports-cal
+DTSTART:20261029T000000Z
+DTEND:20261029T030000Z
+SUMMARY:New York Knicks @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-30-chicago-bulls-vs-boston-celtics@open-sports-cal
+DTSTART:20261030T233000Z
+DTEND:20261031T023000Z
+SUMMARY:Chicago Bulls @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-chicago-bulls-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261103T003000Z
+DTEND:20261103T033000Z
+SUMMARY:Chicago Bulls @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-chicago-bulls-vs-new-york-knicks@open-sports-cal
+DTSTART:20261105T003000Z
+DTEND:20261105T033000Z
+SUMMARY:Chicago Bulls @ New York Knicks
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-08-philadelphia-76ers-vs-chicago-bulls@open-sports-cal
+DTSTART:20261108T203000Z
+DTEND:20261108T233000Z
+SUMMARY:Philadelphia 76ers @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-11-san-antonio-spurs-vs-chicago-bulls@open-sports-cal
+DTSTART:20261112T010000Z
+DTEND:20261112T040000Z
+SUMMARY:San Antonio Spurs @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-13-atlanta-hawks-vs-chicago-bulls@open-sports-cal
+DTSTART:20261114T010000Z
+DTEND:20261114T040000Z
+SUMMARY:Atlanta Hawks @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-14-chicago-bulls-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261115T010000Z
+DTEND:20261115T040000Z
+SUMMARY:Chicago Bulls @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-16-chicago-bulls-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261117T000000Z
+DTEND:20261117T030000Z
+SUMMARY:Chicago Bulls @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-chicago-bulls-vs-brooklyn-nets@open-sports-cal
+DTSTART:20261119T003000Z
+DTEND:20261119T033000Z
+SUMMARY:Chicago Bulls @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-20-washington-wizards-vs-chicago-bulls@open-sports-cal
+DTSTART:20261121T010000Z
+DTEND:20261121T040000Z
+SUMMARY:Washington Wizards @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-22-denver-nuggets-vs-chicago-bulls@open-sports-cal
+DTSTART:20261123T000000Z
+DTEND:20261123T030000Z
+SUMMARY:Denver Nuggets @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-23-cleveland-cavaliers-vs-chicago-bulls@open-sports-cal
+DTSTART:20261124T010000Z
+DTEND:20261124T040000Z
+SUMMARY:Cleveland Cavaliers @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-25-chicago-bulls-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:Chicago Bulls @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-28-indiana-pacers-vs-chicago-bulls@open-sports-cal
+DTSTART:20261129T010000Z
+DTEND:20261129T040000Z
+SUMMARY:Indiana Pacers @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-01-new-york-knicks-vs-chicago-bulls@open-sports-cal
+DTSTART:20261202T010000Z
+DTEND:20261202T040000Z
+SUMMARY:New York Knicks @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-03-cleveland-cavaliers-vs-chicago-bulls@open-sports-cal
+DTSTART:20261204T010000Z
+DTEND:20261204T040000Z
+SUMMARY:Cleveland Cavaliers @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-13-houston-rockets-vs-chicago-bulls@open-sports-cal
+DTSTART:20261213T230000Z
+DTEND:20261214T020000Z
+SUMMARY:Houston Rockets @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-14-miami-heat-vs-chicago-bulls@open-sports-cal
+DTSTART:20261215T010000Z
+DTEND:20261215T040000Z
+SUMMARY:Miami Heat @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-utah-jazz-vs-chicago-bulls@open-sports-cal
+DTSTART:20261217T010000Z
+DTEND:20261217T040000Z
+SUMMARY:Utah Jazz @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-18-chicago-bulls-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261219T010000Z
+DTEND:20261219T040000Z
+SUMMARY:Chicago Bulls @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-19-chicago-bulls-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261220T010000Z
+DTEND:20261220T040000Z
+SUMMARY:Chicago Bulls @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-21-chicago-bulls-vs-miami-heat@open-sports-cal
+DTSTART:20261222T003000Z
+DTEND:20261222T033000Z
+SUMMARY:Chicago Bulls @ Miami Heat
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-chicago-bulls-vs-miami-heat@open-sports-cal
+DTSTART:20261224T003000Z
+DTEND:20261224T033000Z
+SUMMARY:Chicago Bulls @ Miami Heat
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-26-detroit-pistons-vs-chicago-bulls@open-sports-cal
+DTSTART:20261227T010000Z
+DTEND:20261227T040000Z
+SUMMARY:Detroit Pistons @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-29-chicago-bulls-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261230T000000Z
+DTEND:20261230T030000Z
+SUMMARY:Chicago Bulls @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-30-boston-celtics-vs-chicago-bulls@open-sports-cal
+DTSTART:20261231T010000Z
+DTEND:20261231T040000Z
+SUMMARY:Boston Celtics @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-02-los-angeles-lakers-vs-chicago-bulls@open-sports-cal
+DTSTART:20270103T010000Z
+DTEND:20270103T040000Z
+SUMMARY:Los Angeles Lakers @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-04-chicago-bulls-vs-indiana-pacers@open-sports-cal
+DTSTART:20270105T000000Z
+DTEND:20270105T030000Z
+SUMMARY:Chicago Bulls @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-05-milwaukee-bucks-vs-chicago-bulls@open-sports-cal
+DTSTART:20270106T010000Z
+DTEND:20270106T040000Z
+SUMMARY:Milwaukee Bucks @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-chicago-bulls-vs-sacramento-kings@open-sports-cal
+DTSTART:20270108T030000Z
+DTEND:20270108T060000Z
+SUMMARY:Chicago Bulls @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-09-chicago-bulls-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270110T013000Z
+DTEND:20270110T043000Z
+SUMMARY:Chicago Bulls @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-10-chicago-bulls-vs-phoenix-suns@open-sports-cal
+DTSTART:20270111T000000Z
+DTEND:20270111T030000Z
+SUMMARY:Chicago Bulls @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-12-chicago-bulls-vs-utah-jazz@open-sports-cal
+DTSTART:20270113T020000Z
+DTEND:20270113T050000Z
+SUMMARY:Chicago Bulls @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-14-minnesota-timberwolves-vs-chicago-bulls@open-sports-cal
+DTSTART:20270115T010000Z
+DTEND:20270115T040000Z
+SUMMARY:Minnesota Timberwolves @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-17-toronto-raptors-vs-chicago-bulls@open-sports-cal
+DTSTART:20270117T203000Z
+DTEND:20270117T233000Z
+SUMMARY:Toronto Raptors @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-19-chicago-bulls-vs-toronto-raptors@open-sports-cal
+DTSTART:20270120T000000Z
+DTEND:20270120T030000Z
+SUMMARY:Chicago Bulls @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-20-chicago-bulls-vs-brooklyn-nets@open-sports-cal
+DTSTART:20270121T000000Z
+DTEND:20270121T030000Z
+SUMMARY:Chicago Bulls @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-23-philadelphia-76ers-vs-chicago-bulls@open-sports-cal
+DTSTART:20270123T220000Z
+DTEND:20270124T010000Z
+SUMMARY:Philadelphia 76ers @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-25-dallas-mavericks-vs-chicago-bulls@open-sports-cal
+DTSTART:20270126T010000Z
+DTEND:20270126T040000Z
+SUMMARY:Dallas Mavericks @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-26-chicago-bulls-vs-indiana-pacers@open-sports-cal
+DTSTART:20270127T000000Z
+DTEND:20270127T030000Z
+SUMMARY:Chicago Bulls @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-28-chicago-bulls-vs-orlando-magic@open-sports-cal
+DTSTART:20270129T000000Z
+DTEND:20270129T030000Z
+SUMMARY:Chicago Bulls @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-31-chicago-bulls-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270131T230000Z
+DTEND:20270201T020000Z
+SUMMARY:Chicago Bulls @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-02-chicago-bulls-vs-detroit-pistons@open-sports-cal
+DTSTART:20270203T000000Z
+DTEND:20270203T030000Z
+SUMMARY:Chicago Bulls @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-04-oklahoma-city-thunder-vs-chicago-bulls@open-sports-cal
+DTSTART:20270205T010000Z
+DTEND:20270205T040000Z
+SUMMARY:Oklahoma City Thunder @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-06-new-orleans-pelicans-vs-chicago-bulls@open-sports-cal
+DTSTART:20270207T010000Z
+DTEND:20270207T040000Z
+SUMMARY:New Orleans Pelicans @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-08-chicago-bulls-vs-washington-wizards@open-sports-cal
+DTSTART:20270209T000000Z
+DTEND:20270209T030000Z
+SUMMARY:Chicago Bulls @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-09-golden-state-warriors-vs-chicago-bulls@open-sports-cal
+DTSTART:20270210T010000Z
+DTEND:20270210T040000Z
+SUMMARY:Golden State Warriors @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-11-chicago-bulls-vs-denver-nuggets@open-sports-cal
+DTSTART:20270212T020000Z
+DTEND:20270212T050000Z
+SUMMARY:Chicago Bulls @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-14-chicago-bulls-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270214T203000Z
+DTEND:20270214T233000Z
+SUMMARY:Chicago Bulls @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-16-chicago-bulls-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270217T030000Z
+DTEND:20270217T060000Z
+SUMMARY:Chicago Bulls @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-chicago-bulls-vs-la-clippers@open-sports-cal
+DTSTART:20270218T033000Z
+DTEND:20270218T063000Z
+SUMMARY:Chicago Bulls @ LA Clippers
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-25-atlanta-hawks-vs-chicago-bulls@open-sports-cal
+DTSTART:20270226T010000Z
+DTEND:20270226T040000Z
+SUMMARY:Atlanta Hawks @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-27-brooklyn-nets-vs-chicago-bulls@open-sports-cal
+DTSTART:20270228T010000Z
+DTEND:20270228T040000Z
+SUMMARY:Brooklyn Nets @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-01-chicago-bulls-vs-detroit-pistons@open-sports-cal
+DTSTART:20270302T000000Z
+DTEND:20270302T030000Z
+SUMMARY:Chicago Bulls @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-03-chicago-bulls-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270304T000000Z
+DTEND:20270304T030000Z
+SUMMARY:Chicago Bulls @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-06-charlotte-hornets-vs-chicago-bulls@open-sports-cal
+DTSTART:20270306T220000Z
+DTEND:20270307T010000Z
+SUMMARY:Charlotte Hornets @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-07-portland-trail-blazers-vs-chicago-bulls@open-sports-cal
+DTSTART:20270307T220000Z
+DTEND:20270308T010000Z
+SUMMARY:Portland Trail Blazers @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-09-boston-celtics-vs-chicago-bulls@open-sports-cal
+DTSTART:20270310T010000Z
+DTEND:20270310T040000Z
+SUMMARY:Boston Celtics @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-11-phoenix-suns-vs-chicago-bulls@open-sports-cal
+DTSTART:20270312T010000Z
+DTEND:20270312T040000Z
+SUMMARY:Phoenix Suns @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-13-memphis-grizzlies-vs-chicago-bulls@open-sports-cal
+DTSTART:20270314T010000Z
+DTEND:20270314T040000Z
+SUMMARY:Memphis Grizzlies @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-15-orlando-magic-vs-chicago-bulls@open-sports-cal
+DTSTART:20270316T000000Z
+DTEND:20270316T030000Z
+SUMMARY:Orlando Magic @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-17-chicago-bulls-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270317T230000Z
+DTEND:20270318T020000Z
+SUMMARY:Chicago Bulls @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-20-chicago-bulls-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270320T233000Z
+DTEND:20270321T023000Z
+SUMMARY:Chicago Bulls @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-22-sacramento-kings-vs-chicago-bulls@open-sports-cal
+DTSTART:20270323T000000Z
+DTEND:20270323T030000Z
+SUMMARY:Sacramento Kings @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-orlando-magic-vs-chicago-bulls@open-sports-cal
+DTSTART:20270325T000000Z
+DTEND:20270325T030000Z
+SUMMARY:Orlando Magic @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-25-chicago-bulls-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270326T000000Z
+DTEND:20270326T030000Z
+SUMMARY:Chicago Bulls @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-27-la-clippers-vs-chicago-bulls@open-sports-cal
+DTSTART:20270328T000000Z
+DTEND:20270328T030000Z
+SUMMARY:LA Clippers @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-29-indiana-pacers-vs-chicago-bulls@open-sports-cal
+DTSTART:20270330T000000Z
+DTEND:20270330T030000Z
+SUMMARY:Indiana Pacers @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-31-chicago-bulls-vs-washington-wizards@open-sports-cal
+DTSTART:20270331T230000Z
+DTEND:20270401T020000Z
+SUMMARY:Chicago Bulls @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-02-detroit-pistons-vs-chicago-bulls@open-sports-cal
+DTSTART:20270403T000000Z
+DTEND:20270403T030000Z
+SUMMARY:Detroit Pistons @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-chicago-bulls-vs-houston-rockets@open-sports-cal
+DTSTART:20270404T200000Z
+DTEND:20270404T230000Z
+SUMMARY:Chicago Bulls @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-06-chicago-bulls-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270407T000000Z
+DTEND:20270407T030000Z
+SUMMARY:Chicago Bulls @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-07-charlotte-hornets-vs-chicago-bulls@open-sports-cal
+DTSTART:20270408T000000Z
+DTEND:20270408T030000Z
+SUMMARY:Charlotte Hornets @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-milwaukee-bucks-vs-chicago-bulls@open-sports-cal
+DTSTART:20270410T000000Z
+DTEND:20270410T030000Z
+SUMMARY:Milwaukee Bucks @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-chicago-bulls-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270411T220000Z
+DTEND:20270412T010000Z
+SUMMARY:Chicago Bulls @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

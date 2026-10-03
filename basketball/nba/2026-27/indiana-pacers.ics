@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Indiana Pacers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-21-indiana-pacers-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261022T000000Z
+DTEND:20261022T030000Z
+SUMMARY:Indiana Pacers @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-23-dallas-mavericks-vs-indiana-pacers@open-sports-cal
+DTSTART:20261023T230000Z
+DTEND:20261024T020000Z
+SUMMARY:Dallas Mavericks @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-25-indiana-pacers-vs-brooklyn-nets@open-sports-cal
+DTSTART:20261025T220000Z
+DTEND:20261026T010000Z
+SUMMARY:Indiana Pacers @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-26-indiana-pacers-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20261027T000000Z
+DTEND:20261027T030000Z
+SUMMARY:Indiana Pacers @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-28-philadelphia-76ers-vs-indiana-pacers@open-sports-cal
+DTSTART:20261028T230000Z
+DTEND:20261029T020000Z
+SUMMARY:Philadelphia 76ers @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-30-indiana-pacers-vs-miami-heat@open-sports-cal
+DTSTART:20261031T000000Z
+DTEND:20261031T030000Z
+SUMMARY:Indiana Pacers @ Miami Heat
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-01-brooklyn-nets-vs-indiana-pacers@open-sports-cal
+DTSTART:20261101T220000Z
+DTEND:20261102T010000Z
+SUMMARY:Brooklyn Nets @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-atlanta-hawks-vs-indiana-pacers@open-sports-cal
+DTSTART:20261103T003000Z
+DTEND:20261103T033000Z
+SUMMARY:Atlanta Hawks @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-indiana-pacers-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261105T010000Z
+DTEND:20261105T040000Z
+SUMMARY:Indiana Pacers @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-07-denver-nuggets-vs-indiana-pacers@open-sports-cal
+DTSTART:20261107T220000Z
+DTEND:20261108T010000Z
+SUMMARY:Denver Nuggets @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Indiana Pacers\nArena CDMX
+LOCATION:Arena CDMX
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-09-indiana-pacers-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261110T010000Z
+DTEND:20261110T040000Z
+SUMMARY:Indiana Pacers @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-11-washington-wizards-vs-indiana-pacers@open-sports-cal
+DTSTART:20261112T000000Z
+DTEND:20261112T030000Z
+SUMMARY:Washington Wizards @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-13-new-york-knicks-vs-indiana-pacers@open-sports-cal
+DTSTART:20261114T000000Z
+DTEND:20261114T030000Z
+SUMMARY:New York Knicks @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-15-indiana-pacers-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Indiana Pacers @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-houston-rockets-vs-indiana-pacers@open-sports-cal
+DTSTART:20261119T000000Z
+DTEND:20261119T030000Z
+SUMMARY:Houston Rockets @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-20-indiana-pacers-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261121T003000Z
+DTEND:20261121T033000Z
+SUMMARY:Indiana Pacers @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-22-indiana-pacers-vs-new-york-knicks@open-sports-cal
+DTSTART:20261123T010000Z
+DTEND:20261123T040000Z
+SUMMARY:Indiana Pacers @ New York Knicks
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-23-oklahoma-city-thunder-vs-indiana-pacers@open-sports-cal
+DTSTART:20261124T003000Z
+DTEND:20261124T033000Z
+SUMMARY:Oklahoma City Thunder @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-27-philadelphia-76ers-vs-indiana-pacers@open-sports-cal
+DTSTART:20261128T003000Z
+DTEND:20261128T033000Z
+SUMMARY:Philadelphia 76ers @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-28-indiana-pacers-vs-chicago-bulls@open-sports-cal
+DTSTART:20261129T010000Z
+DTEND:20261129T040000Z
+SUMMARY:Indiana Pacers @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-01-indiana-pacers-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261202T000000Z
+DTEND:20261202T030000Z
+SUMMARY:Indiana Pacers @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-03-indiana-pacers-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261204T000000Z
+DTEND:20261204T030000Z
+SUMMARY:Indiana Pacers @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-13-detroit-pistons-vs-indiana-pacers@open-sports-cal
+DTSTART:20261213T220000Z
+DTEND:20261214T010000Z
+SUMMARY:Detroit Pistons @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-golden-state-warriors-vs-indiana-pacers@open-sports-cal
+DTSTART:20261217T000000Z
+DTEND:20261217T030000Z
+SUMMARY:Golden State Warriors @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-17-portland-trail-blazers-vs-indiana-pacers@open-sports-cal
+DTSTART:20261218T000000Z
+DTEND:20261218T030000Z
+SUMMARY:Portland Trail Blazers @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-20-indiana-pacers-vs-la-clippers@open-sports-cal
+DTSTART:20261221T030000Z
+DTEND:20261221T060000Z
+SUMMARY:Indiana Pacers @ LA Clippers
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-21-indiana-pacers-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20261222T030000Z
+DTEND:20261222T060000Z
+SUMMARY:Indiana Pacers @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-indiana-pacers-vs-phoenix-suns@open-sports-cal
+DTSTART:20261224T020000Z
+DTEND:20261224T050000Z
+SUMMARY:Indiana Pacers @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-26-indiana-pacers-vs-utah-jazz@open-sports-cal
+DTSTART:20261226T220000Z
+DTEND:20261227T010000Z
+SUMMARY:Indiana Pacers @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-27-indiana-pacers-vs-denver-nuggets@open-sports-cal
+DTSTART:20261228T010000Z
+DTEND:20261228T040000Z
+SUMMARY:Indiana Pacers @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-29-la-clippers-vs-indiana-pacers@open-sports-cal
+DTSTART:20261230T000000Z
+DTEND:20261230T030000Z
+SUMMARY:LA Clippers @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-31-orlando-magic-vs-indiana-pacers@open-sports-cal
+DTSTART:20261231T200000Z
+DTEND:20261231T230000Z
+SUMMARY:Orlando Magic @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-02-minnesota-timberwolves-vs-indiana-pacers@open-sports-cal
+DTSTART:20270103T000000Z
+DTEND:20270103T030000Z
+SUMMARY:Minnesota Timberwolves @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-04-chicago-bulls-vs-indiana-pacers@open-sports-cal
+DTSTART:20270105T000000Z
+DTEND:20270105T030000Z
+SUMMARY:Chicago Bulls @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-06-indiana-pacers-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270107T010000Z
+DTEND:20270107T040000Z
+SUMMARY:Indiana Pacers @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-indiana-pacers-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Indiana Pacers @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-09-milwaukee-bucks-vs-indiana-pacers@open-sports-cal
+DTSTART:20270110T000000Z
+DTEND:20270110T030000Z
+SUMMARY:Milwaukee Bucks @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-11-brooklyn-nets-vs-indiana-pacers@open-sports-cal
+DTSTART:20270112T000000Z
+DTEND:20270112T030000Z
+SUMMARY:Brooklyn Nets @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-13-milwaukee-bucks-vs-indiana-pacers@open-sports-cal
+DTSTART:20270114T000000Z
+DTEND:20270114T030000Z
+SUMMARY:Milwaukee Bucks @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-15-phoenix-suns-vs-indiana-pacers@open-sports-cal
+DTSTART:20270116T000000Z
+DTEND:20270116T030000Z
+SUMMARY:Phoenix Suns @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-17-indiana-pacers-vs-washington-wizards@open-sports-cal
+DTSTART:20270117T180000Z
+DTEND:20270117T210000Z
+SUMMARY:Indiana Pacers @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-19-indiana-pacers-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270120T000000Z
+DTEND:20270120T030000Z
+SUMMARY:Indiana Pacers @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-20-indiana-pacers-vs-boston-celtics@open-sports-cal
+DTSTART:20270121T003000Z
+DTEND:20270121T033000Z
+SUMMARY:Indiana Pacers @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-22-indiana-pacers-vs-detroit-pistons@open-sports-cal
+DTSTART:20270123T003000Z
+DTEND:20270123T033000Z
+SUMMARY:Indiana Pacers @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-26-chicago-bulls-vs-indiana-pacers@open-sports-cal
+DTSTART:20270127T000000Z
+DTEND:20270127T030000Z
+SUMMARY:Chicago Bulls @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-28-los-angeles-lakers-vs-indiana-pacers@open-sports-cal
+DTSTART:20270129T000000Z
+DTEND:20270129T030000Z
+SUMMARY:Los Angeles Lakers @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-30-washington-wizards-vs-indiana-pacers@open-sports-cal
+DTSTART:20270131T000000Z
+DTEND:20270131T030000Z
+SUMMARY:Washington Wizards @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-01-miami-heat-vs-indiana-pacers@open-sports-cal
+DTSTART:20270202T003000Z
+DTEND:20270202T033000Z
+SUMMARY:Miami Heat @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-03-atlanta-hawks-vs-indiana-pacers@open-sports-cal
+DTSTART:20270204T000000Z
+DTEND:20270204T030000Z
+SUMMARY:Atlanta Hawks @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-05-indiana-pacers-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270206T023000Z
+DTEND:20270206T053000Z
+SUMMARY:Indiana Pacers @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-08-new-orleans-pelicans-vs-indiana-pacers@open-sports-cal
+DTSTART:20270209T000000Z
+DTEND:20270209T030000Z
+SUMMARY:New Orleans Pelicans @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-10-cleveland-cavaliers-vs-indiana-pacers@open-sports-cal
+DTSTART:20270211T000000Z
+DTEND:20270211T030000Z
+SUMMARY:Cleveland Cavaliers @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-11-utah-jazz-vs-indiana-pacers@open-sports-cal
+DTSTART:20270212T000000Z
+DTEND:20270212T030000Z
+SUMMARY:Utah Jazz @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-13-sacramento-kings-vs-indiana-pacers@open-sports-cal
+DTSTART:20270213T190000Z
+DTEND:20270213T220000Z
+SUMMARY:Sacramento Kings @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-15-indiana-pacers-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270216T003000Z
+DTEND:20270216T033000Z
+SUMMARY:Indiana Pacers @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-indiana-pacers-vs-sacramento-kings@open-sports-cal
+DTSTART:20270218T030000Z
+DTEND:20270218T060000Z
+SUMMARY:Indiana Pacers @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-18-indiana-pacers-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270219T030000Z
+DTEND:20270219T060000Z
+SUMMARY:Indiana Pacers @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-26-indiana-pacers-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270227T010000Z
+DTEND:20270227T040000Z
+SUMMARY:Indiana Pacers @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-28-toronto-raptors-vs-indiana-pacers@open-sports-cal
+DTSTART:20270228T210000Z
+DTEND:20270301T000000Z
+SUMMARY:Toronto Raptors @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-02-boston-celtics-vs-indiana-pacers@open-sports-cal
+DTSTART:20270303T000000Z
+DTEND:20270303T030000Z
+SUMMARY:Boston Celtics @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-04-indiana-pacers-vs-orlando-magic@open-sports-cal
+DTSTART:20270305T000000Z
+DTEND:20270305T030000Z
+SUMMARY:Indiana Pacers @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-06-indiana-pacers-vs-miami-heat@open-sports-cal
+DTSTART:20270306T200000Z
+DTEND:20270306T230000Z
+SUMMARY:Indiana Pacers @ Miami Heat
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-08-charlotte-hornets-vs-indiana-pacers@open-sports-cal
+DTSTART:20270309T000000Z
+DTEND:20270309T030000Z
+SUMMARY:Charlotte Hornets @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-11-indiana-pacers-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270312T000000Z
+DTEND:20270312T030000Z
+SUMMARY:Indiana Pacers @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-13-indiana-pacers-vs-houston-rockets@open-sports-cal
+DTSTART:20270313T223000Z
+DTEND:20270314T013000Z
+SUMMARY:Indiana Pacers @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-15-indiana-pacers-vs-brooklyn-nets@open-sports-cal
+DTSTART:20270315T233000Z
+DTEND:20270316T023000Z
+SUMMARY:Indiana Pacers @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-16-detroit-pistons-vs-indiana-pacers@open-sports-cal
+DTSTART:20270317T000000Z
+DTEND:20270317T030000Z
+SUMMARY:Detroit Pistons @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-18-toronto-raptors-vs-indiana-pacers@open-sports-cal
+DTSTART:20270318T230000Z
+DTEND:20270319T020000Z
+SUMMARY:Toronto Raptors @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-20-indiana-pacers-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270321T000000Z
+DTEND:20270321T030000Z
+SUMMARY:Indiana Pacers @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-22-indiana-pacers-vs-orlando-magic@open-sports-cal
+DTSTART:20270322T230000Z
+DTEND:20270323T020000Z
+SUMMARY:Indiana Pacers @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-memphis-grizzlies-vs-indiana-pacers@open-sports-cal
+DTSTART:20270324T230000Z
+DTEND:20270325T020000Z
+SUMMARY:Memphis Grizzlies @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-25-san-antonio-spurs-vs-indiana-pacers@open-sports-cal
+DTSTART:20270325T230000Z
+DTEND:20270326T020000Z
+SUMMARY:San Antonio Spurs @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-29-indiana-pacers-vs-chicago-bulls@open-sports-cal
+DTSTART:20270330T000000Z
+DTEND:20270330T030000Z
+SUMMARY:Indiana Pacers @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-30-boston-celtics-vs-indiana-pacers@open-sports-cal
+DTSTART:20270331T000000Z
+DTEND:20270331T030000Z
+SUMMARY:Boston Celtics @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-01-orlando-magic-vs-indiana-pacers@open-sports-cal
+DTSTART:20270401T230000Z
+DTEND:20270402T020000Z
+SUMMARY:Orlando Magic @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-indiana-pacers-vs-toronto-raptors@open-sports-cal
+DTSTART:20270404T193000Z
+DTEND:20270404T223000Z
+SUMMARY:Indiana Pacers @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-06-indiana-pacers-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270406T230000Z
+DTEND:20270407T020000Z
+SUMMARY:Indiana Pacers @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-07-indiana-pacers-vs-detroit-pistons@open-sports-cal
+DTSTART:20270407T230000Z
+DTEND:20270408T020000Z
+SUMMARY:Indiana Pacers @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-cleveland-cavaliers-vs-indiana-pacers@open-sports-cal
+DTSTART:20270409T230000Z
+DTEND:20270410T020000Z
+SUMMARY:Cleveland Cavaliers @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-indiana-pacers-vs-new-york-knicks@open-sports-cal
+DTSTART:20270411T220000Z
+DTEND:20270412T010000Z
+SUMMARY:Indiana Pacers @ New York Knicks
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

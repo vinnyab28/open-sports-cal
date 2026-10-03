@@ -1,0 +1,393 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//PWHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PWHL 2026-27 - Seattle Torrent
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-29-seattle-torrent-vs-pwhl-san-jose@open-sports-cal
+DTSTART:20261129T200000Z
+DTEND:20261129T230000Z
+SUMMARY:Seattle Torrent @ PWHL San Jose
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ PWHL San Jose\nTech CU Arena | San Jose, San Jose, CA
+LOCATION:Tech CU Arena | San Jose, San Jose, CA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-30-pwhl-san-jose-vs-seattle-torrent@open-sports-cal
+DTSTART:20261130T160000Z
+DTEND:20261130T190000Z
+SUMMARY:PWHL San Jose @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nPWHL San Jose @ Seattle Torrent\nTech CU Arena | San Jose, San Jose, CA
+LOCATION:Tech CU Arena | San Jose, San Jose, CA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-05-seattle-torrent-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20261205T150000Z
+DTEND:20261205T180000Z
+SUMMARY:Seattle Torrent @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-09-seattle-torrent-vs-pwhl-san-jose@open-sports-cal
+DTSTART:20261209T220000Z
+DTEND:20261210T010000Z
+SUMMARY:Seattle Torrent @ PWHL San Jose
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ PWHL San Jose\nSAP Center | San Jose, San Jose, CA
+LOCATION:SAP Center | San Jose, San Jose, CA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-13-seattle-torrent-vs-minnesota-frost@open-sports-cal
+DTSTART:20261213T140000Z
+DTEND:20261213T170000Z
+SUMMARY:Seattle Torrent @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-20-pwhl-las-vegas-vs-seattle-torrent@open-sports-cal
+DTSTART:20261220T190000Z
+DTEND:20261220T220000Z
+SUMMARY:PWHL Las Vegas @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-23-boston-fleet-vs-seattle-torrent@open-sports-cal
+DTSTART:20261223T220000Z
+DTEND:20261224T010000Z
+SUMMARY:Boston Fleet @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-27-minnesota-frost-vs-seattle-torrent@open-sports-cal
+DTSTART:20261227T190000Z
+DTEND:20261227T220000Z
+SUMMARY:Minnesota Frost @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-31-new-york-sirens-vs-seattle-torrent@open-sports-cal
+DTSTART:20261231T170000Z
+DTEND:20261231T200000Z
+SUMMARY:New York Sirens @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-08-ottawa-charge-vs-seattle-torrent@open-sports-cal
+DTSTART:20270108T220000Z
+DTEND:20270109T010000Z
+SUMMARY:Ottawa Charge @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-10-montreal-victoire-vs-seattle-torrent@open-sports-cal
+DTSTART:20270110T203000Z
+DTEND:20270110T233000Z
+SUMMARY:Montréal Victoire @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-14-pwhl-hamilton-vs-seattle-torrent@open-sports-cal
+DTSTART:20270114T220000Z
+DTEND:20270115T010000Z
+SUMMARY:PWHL Hamilton @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-16-seattle-torrent-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270116T150000Z
+DTEND:20270116T180000Z
+SUMMARY:Seattle Torrent @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ PWHL Las Vegas\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-24-seattle-torrent-vs-pwhl-san-jose@open-sports-cal
+DTSTART:20270124T140000Z
+DTEND:20270124T170000Z
+SUMMARY:Seattle Torrent @ PWHL San Jose
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ PWHL San Jose\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-28-seattle-torrent-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270128T190000Z
+DTEND:20270128T220000Z
+SUMMARY:Seattle Torrent @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-04-vancouver-goldeneyes-vs-seattle-torrent@open-sports-cal
+DTSTART:20270204T220000Z
+DTEND:20270205T010000Z
+SUMMARY:Vancouver Goldeneyes @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-07-seattle-torrent-vs-new-york-sirens@open-sports-cal
+DTSTART:20270207T153000Z
+DTEND:20270207T183000Z
+SUMMARY:Seattle Torrent @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ New York Sirens\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-11-seattle-torrent-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270211T220000Z
+DTEND:20270212T010000Z
+SUMMARY:Seattle Torrent @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-13-pwhl-detroit-vs-seattle-torrent@open-sports-cal
+DTSTART:20270213T150000Z
+DTEND:20270213T180000Z
+SUMMARY:PWHL Detroit @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nPWHL Detroit @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-17-seattle-torrent-vs-boston-fleet@open-sports-cal
+DTSTART:20270217T190000Z
+DTEND:20270217T220000Z
+SUMMARY:Seattle Torrent @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-20-seattle-torrent-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270220T190000Z
+DTEND:20270220T220000Z
+SUMMARY:Seattle Torrent @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-24-seattle-torrent-vs-ottawa-charge@open-sports-cal
+DTSTART:20270224T190000Z
+DTEND:20270224T220000Z
+SUMMARY:Seattle Torrent @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-28-pwhl-las-vegas-vs-seattle-torrent@open-sports-cal
+DTSTART:20270228T190000Z
+DTEND:20270228T220000Z
+SUMMARY:PWHL Las Vegas @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-10-seattle-torrent-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270310T213000Z
+DTEND:20270311T003000Z
+SUMMARY:Seattle Torrent @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-13-pwhl-detroit-vs-seattle-torrent@open-sports-cal
+DTSTART:20270313T150000Z
+DTEND:20270313T180000Z
+SUMMARY:PWHL Detroit @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nPWHL Detroit @ Seattle Torrent\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-23-seattle-torrent-vs-montreal-victoire@open-sports-cal
+DTSTART:20270323T190000Z
+DTEND:20270323T220000Z
+SUMMARY:Seattle Torrent @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-26-seattle-torrent-vs-minnesota-frost@open-sports-cal
+DTSTART:20270326T190000Z
+DTEND:20270326T220000Z
+SUMMARY:Seattle Torrent @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-28-seattle-torrent-vs-pwhl-detroit@open-sports-cal
+DTSTART:20270328T140000Z
+DTEND:20270328T170000Z
+SUMMARY:Seattle Torrent @ PWHL Detroit
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ PWHL Detroit\nLittle Caesars Arena | Detroit, Detroit, MI
+LOCATION:Little Caesars Arena | Detroit, Detroit, MI
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-31-toronto-sceptres-vs-seattle-torrent@open-sports-cal
+DTSTART:20270331T220000Z
+DTEND:20270401T010000Z
+SUMMARY:Toronto Sceptres @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-06-vancouver-goldeneyes-vs-seattle-torrent@open-sports-cal
+DTSTART:20270406T210000Z
+DTEND:20270407T000000Z
+SUMMARY:Vancouver Goldeneyes @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-09-minnesota-frost-vs-seattle-torrent@open-sports-cal
+DTSTART:20270409T210000Z
+DTEND:20270410T000000Z
+SUMMARY:Minnesota Frost @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ Seattle Torrent\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-17-pwhl-san-jose-vs-seattle-torrent@open-sports-cal
+DTSTART:20270417T000000Z
+DTEND:20270417T030000Z
+SUMMARY:PWHL San Jose @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nPWHL San Jose @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR

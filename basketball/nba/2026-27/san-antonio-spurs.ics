@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - San Antonio Spurs
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-20-oklahoma-city-thunder-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261021T013000Z
+DTEND:20261021T043000Z
+SUMMARY:Oklahoma City Thunder @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-23-houston-rockets-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261024T013000Z
+DTEND:20261024T043000Z
+SUMMARY:Houston Rockets @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ San Antonio Spurs\nMoody Center
+LOCATION:Moody Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-24-san-antonio-spurs-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261025T000000Z
+DTEND:20261025T030000Z
+SUMMARY:San Antonio Spurs @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-27-sacramento-kings-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261028T000000Z
+DTEND:20261028T030000Z
+SUMMARY:Sacramento Kings @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-28-san-antonio-spurs-vs-utah-jazz@open-sports-cal
+DTSTART:20261029T010000Z
+DTEND:20261029T040000Z
+SUMMARY:San Antonio Spurs @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-31-minnesota-timberwolves-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261101T000000Z
+DTEND:20261101T030000Z
+SUMMARY:Minnesota Timberwolves @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-utah-jazz-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261103T013000Z
+DTEND:20261103T043000Z
+SUMMARY:Utah Jazz @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-dallas-mavericks-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261105T023000Z
+DTEND:20261105T053000Z
+SUMMARY:Dallas Mavericks @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-06-san-antonio-spurs-vs-sacramento-kings@open-sports-cal
+DTSTART:20261107T030000Z
+DTEND:20261107T060000Z
+SUMMARY:San Antonio Spurs @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-07-san-antonio-spurs-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261108T030000Z
+DTEND:20261108T060000Z
+SUMMARY:San Antonio Spurs @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-09-san-antonio-spurs-vs-phoenix-suns@open-sports-cal
+DTSTART:20261110T020000Z
+DTEND:20261110T050000Z
+SUMMARY:San Antonio Spurs @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-11-san-antonio-spurs-vs-chicago-bulls@open-sports-cal
+DTSTART:20261112T010000Z
+DTEND:20261112T040000Z
+SUMMARY:San Antonio Spurs @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-13-golden-state-warriors-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261114T023000Z
+DTEND:20261114T053000Z
+SUMMARY:Golden State Warriors @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-15-san-antonio-spurs-vs-utah-jazz@open-sports-cal
+DTSTART:20261115T220000Z
+DTEND:20261116T010000Z
+SUMMARY:San Antonio Spurs @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-17-detroit-pistons-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261118T010000Z
+DTEND:20261118T040000Z
+SUMMARY:Detroit Pistons @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-19-la-clippers-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261120T010000Z
+DTEND:20261120T040000Z
+SUMMARY:LA Clippers @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nLA Clippers @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-21-new-orleans-pelicans-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261122T010000Z
+DTEND:20261122T040000Z
+SUMMARY:New Orleans Pelicans @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-23-san-antonio-spurs-vs-sacramento-kings@open-sports-cal
+DTSTART:20261124T030000Z
+DTEND:20261124T060000Z
+SUMMARY:San Antonio Spurs @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-25-san-antonio-spurs-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261126T030000Z
+DTEND:20261126T060000Z
+SUMMARY:San Antonio Spurs @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-27-los-angeles-lakers-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261128T023000Z
+DTEND:20261128T053000Z
+SUMMARY:Los Angeles Lakers @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-29-boston-celtics-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261129T210000Z
+DTEND:20261130T000000Z
+SUMMARY:Boston Celtics @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-30-san-antonio-spurs-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20261201T010000Z
+DTEND:20261201T040000Z
+SUMMARY:San Antonio Spurs @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-03-toronto-raptors-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261204T010000Z
+DTEND:20261204T040000Z
+SUMMARY:Toronto Raptors @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-13-la-clippers-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261214T000000Z
+DTEND:20261214T030000Z
+SUMMARY:LA Clippers @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nLA Clippers @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-15-san-antonio-spurs-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261216T010000Z
+DTEND:20261216T040000Z
+SUMMARY:San Antonio Spurs @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-san-antonio-spurs-vs-toronto-raptors@open-sports-cal
+DTSTART:20261217T003000Z
+DTEND:20261217T033000Z
+SUMMARY:San Antonio Spurs @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-18-chicago-bulls-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261219T010000Z
+DTEND:20261219T040000Z
+SUMMARY:Chicago Bulls @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-20-san-antonio-spurs-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261221T000000Z
+DTEND:20261221T030000Z
+SUMMARY:San Antonio Spurs @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-21-milwaukee-bucks-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261222T010000Z
+DTEND:20261222T040000Z
+SUMMARY:Milwaukee Bucks @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-san-antonio-spurs-vs-brooklyn-nets@open-sports-cal
+DTSTART:20261224T003000Z
+DTEND:20261224T033000Z
+SUMMARY:San Antonio Spurs @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-25-san-antonio-spurs-vs-new-york-knicks@open-sports-cal
+DTSTART:20261225T170000Z
+DTEND:20261225T200000Z
+SUMMARY:San Antonio Spurs @ New York Knicks
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-27-atlanta-hawks-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261228T000000Z
+DTEND:20261228T030000Z
+SUMMARY:Atlanta Hawks @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-29-san-antonio-spurs-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261230T010000Z
+DTEND:20261230T040000Z
+SUMMARY:San Antonio Spurs @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-31-san-antonio-spurs-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261231T180000Z
+DTEND:20261231T210000Z
+SUMMARY:San Antonio Spurs @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-01-san-antonio-spurs-vs-washington-wizards@open-sports-cal
+DTSTART:20270101T220000Z
+DTEND:20270102T010000Z
+SUMMARY:San Antonio Spurs @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-03-san-antonio-spurs-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270104T000000Z
+DTEND:20270104T030000Z
+SUMMARY:San Antonio Spurs @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-06-indiana-pacers-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270107T010000Z
+DTEND:20270107T040000Z
+SUMMARY:Indiana Pacers @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-08-memphis-grizzlies-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270109T010000Z
+DTEND:20270109T040000Z
+SUMMARY:Memphis Grizzlies @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-10-san-antonio-spurs-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270110T200000Z
+DTEND:20270110T230000Z
+SUMMARY:San Antonio Spurs @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-14-new-orleans-pelicans-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270114T190000Z
+DTEND:20270114T220000Z
+SUMMARY:New Orleans Pelicans @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ San Antonio Spurs\nAccor Arena
+LOCATION:Accor Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-17-san-antonio-spurs-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270117T153000Z
+DTEND:20270117T183000Z
+SUMMARY:San Antonio Spurs @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ New Orleans Pelicans\nCo-op Live
+LOCATION:Co-op Live
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-20-miami-heat-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270121T023000Z
+DTEND:20270121T053000Z
+SUMMARY:Miami Heat @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nMiami Heat @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-22-minnesota-timberwolves-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270123T023000Z
+DTEND:20270123T053000Z
+SUMMARY:Minnesota Timberwolves @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-24-portland-trail-blazers-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270124T203000Z
+DTEND:20270124T233000Z
+SUMMARY:Portland Trail Blazers @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-26-houston-rockets-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270127T010000Z
+DTEND:20270127T040000Z
+SUMMARY:Houston Rockets @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-27-charlotte-hornets-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270128T010000Z
+DTEND:20270128T040000Z
+SUMMARY:Charlotte Hornets @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-30-san-antonio-spurs-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270130T223000Z
+DTEND:20270131T013000Z
+SUMMARY:San Antonio Spurs @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-01-san-antonio-spurs-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270202T030000Z
+DTEND:20270202T060000Z
+SUMMARY:San Antonio Spurs @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-02-san-antonio-spurs-vs-la-clippers@open-sports-cal
+DTSTART:20270203T033000Z
+DTEND:20270203T063000Z
+SUMMARY:San Antonio Spurs @ LA Clippers
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-04-orlando-magic-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270205T010000Z
+DTEND:20270205T040000Z
+SUMMARY:Orlando Magic @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-06-los-angeles-lakers-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270207T013000Z
+DTEND:20270207T043000Z
+SUMMARY:Los Angeles Lakers @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-09-san-antonio-spurs-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270210T010000Z
+DTEND:20270210T040000Z
+SUMMARY:San Antonio Spurs @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-11-san-antonio-spurs-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270212T023000Z
+DTEND:20270212T053000Z
+SUMMARY:San Antonio Spurs @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-13-san-antonio-spurs-vs-orlando-magic@open-sports-cal
+DTSTART:20270214T000000Z
+DTEND:20270214T030000Z
+SUMMARY:San Antonio Spurs @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-15-san-antonio-spurs-vs-miami-heat@open-sports-cal
+DTSTART:20270215T220000Z
+DTEND:20270216T010000Z
+SUMMARY:San Antonio Spurs @ Miami Heat
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-san-antonio-spurs-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270218T010000Z
+DTEND:20270218T040000Z
+SUMMARY:San Antonio Spurs @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-18-san-antonio-spurs-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270219T003000Z
+DTEND:20270219T033000Z
+SUMMARY:San Antonio Spurs @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-26-memphis-grizzlies-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270227T010000Z
+DTEND:20270227T040000Z
+SUMMARY:Memphis Grizzlies @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ San Antonio Spurs\nMoody Center
+LOCATION:Moody Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-28-denver-nuggets-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270228T180000Z
+DTEND:20270228T210000Z
+SUMMARY:Denver Nuggets @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ San Antonio Spurs\nMoody Center
+LOCATION:Moody Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-03-san-antonio-spurs-vs-denver-nuggets@open-sports-cal
+DTSTART:20270304T030000Z
+DTEND:20270304T060000Z
+SUMMARY:San Antonio Spurs @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-05-san-antonio-spurs-vs-houston-rockets@open-sports-cal
+DTSTART:20270306T023000Z
+DTEND:20270306T053000Z
+SUMMARY:San Antonio Spurs @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-07-new-york-knicks-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270308T003000Z
+DTEND:20270308T033000Z
+SUMMARY:New York Knicks @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-09-washington-wizards-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270310T010000Z
+DTEND:20270310T040000Z
+SUMMARY:Washington Wizards @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-11-philadelphia-76ers-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270312T003000Z
+DTEND:20270312T033000Z
+SUMMARY:Philadelphia 76ers @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-14-san-antonio-spurs-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270314T183000Z
+DTEND:20270314T213000Z
+SUMMARY:San Antonio Spurs @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-16-san-antonio-spurs-vs-houston-rockets@open-sports-cal
+DTSTART:20270317T003000Z
+DTEND:20270317T033000Z
+SUMMARY:San Antonio Spurs @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-18-brooklyn-nets-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270319T000000Z
+DTEND:20270319T030000Z
+SUMMARY:Brooklyn Nets @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-19-dallas-mavericks-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270320T000000Z
+DTEND:20270320T030000Z
+SUMMARY:Dallas Mavericks @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-21-san-antonio-spurs-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270321T233000Z
+DTEND:20270322T023000Z
+SUMMARY:San Antonio Spurs @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-san-antonio-spurs-vs-boston-celtics@open-sports-cal
+DTSTART:20270324T233000Z
+DTEND:20270325T023000Z
+SUMMARY:San Antonio Spurs @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-25-san-antonio-spurs-vs-indiana-pacers@open-sports-cal
+DTSTART:20270325T230000Z
+DTEND:20270326T020000Z
+SUMMARY:San Antonio Spurs @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-27-san-antonio-spurs-vs-detroit-pistons@open-sports-cal
+DTSTART:20270327T190000Z
+DTEND:20270327T220000Z
+SUMMARY:San Antonio Spurs @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-29-phoenix-suns-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270330T013000Z
+DTEND:20270330T043000Z
+SUMMARY:Phoenix Suns @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-31-phoenix-suns-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270401T000000Z
+DTEND:20270401T030000Z
+SUMMARY:Phoenix Suns @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-02-san-antonio-spurs-vs-la-clippers@open-sports-cal
+DTSTART:20270403T023000Z
+DTEND:20270403T053000Z
+SUMMARY:San Antonio Spurs @ LA Clippers
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-san-antonio-spurs-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270405T020000Z
+DTEND:20270405T050000Z
+SUMMARY:San Antonio Spurs @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-06-sacramento-kings-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270407T000000Z
+DTEND:20270407T030000Z
+SUMMARY:Sacramento Kings @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-07-cleveland-cavaliers-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270407T233000Z
+DTEND:20270408T023000Z
+SUMMARY:Cleveland Cavaliers @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-denver-nuggets-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270410T013000Z
+DTEND:20270410T043000Z
+SUMMARY:Denver Nuggets @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-portland-trail-blazers-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270412T003000Z
+DTEND:20270412T033000Z
+SUMMARY:Portland Trail Blazers @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

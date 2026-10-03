@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 """
-NBA 2025-26: keeps regular season events unchanged, refreshes playoffs from ESPN.
-Regular season uses sequential UIDs (nba-2025-N) that can't be safely regenerated.
+NBA 2026-27: full regeneration.
+Regular season (80 games per team) comes from fixturedownload.com;
+playoff games are refreshed from ESPN once the league releases the
+playoff schedule. Games with unconfirmed teams (e.g. in-season
+tournament placeholders) are skipped until participants are known.
+Regular season UIDs are date+team based (stable across reruns).
 """
 import json
 import re
@@ -10,12 +14,20 @@ import urllib.request
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 sys.path.insert(0, str(Path(__file__).parent))
-from common import slug, fmt_utc, make_vevent, make_calendar, extract_vevents, get_uid, DTSTAMP
+from common import slug, fmt_utc, make_vevent, make_calendar, DTSTAMP
 
-OUT_DIR = Path("basketball/nba/2025-26")
+OUT_DIR = Path("basketball/nba/2026-27")
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
+
+SEASON = "NBA 2026-27"
+UID_PREFIX = "nba-2026-27"
+CATEGORIES = "Basketball,NBA,NBA 2026-27"
+PLAYOFF_CATEGORIES = "Basketball,NBA,NBA Playoffs 2026-27"
+GAME_HOURS = 3
+FEED_URL = "https://fixturedownload.com/feed/json/nba-2026"
 
 TEAM_TZ = {
     "Atlanta Hawks": "America/New_York",
@@ -30,6 +42,7 @@ TEAM_TZ = {
     "Golden State Warriors": "America/Los_Angeles",
     "Houston Rockets": "America/Chicago",
     "Indiana Pacers": "America/Indiana/Indianapolis",
+    "LA Clippers": "America/Los_Angeles",
     "Los Angeles Clippers": "America/Los_Angeles",
     "Los Angeles Lakers": "America/Los_Angeles",
     "Memphis Grizzlies": "America/Chicago",
@@ -58,21 +71,48 @@ ROUND_NAMES = {
 }
 
 
-def fetch_espn_playoffs():
-    url = ("https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
-           "?dates=20260418-20260630&limit=300")
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
+def fetch_fixtures():
+    req = urllib.request.Request(FEED_URL, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=30) as r:
-        return json.loads(r.read()).get("events", [])
+        return json.loads(r.read())
 
 
-def is_playoff_event(vevent):
-    return "nba-2025-playoffs-" in get_uid(vevent)
+def fetch_espn_playoffs():
+    # ESPN's scoreboard endpoint no longer accepts date ranges — fetch
+    # day-by-day. The playoff window doesn't open until April 2027, so
+    # skip entirely before then to keep daily runs light.
+    from time import sleep
+    today = datetime.now(timezone.utc).date()
+    season_end = datetime(2027, 4, 13).date()  # regular season ends April 12, 2027
+    end = datetime(2027, 6, 30).date()
+    if today <= season_end:
+        print("  Regular season still running — skipping ESPN playoff fetch")
+        return []
+    start = max(today - timedelta(days=2), datetime(2027, 4, 13).date())
+    events = {}
+    d = start
+    while d <= end:
+        url = ("https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
+               f"?dates={d.strftime('%Y%m%d')}&limit=100")
+        req = urllib.request.Request(url, headers={"User-Agent": UA})
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                for e in json.loads(r.read()).get("events", []):
+                    events[e["id"]] = e
+        except Exception as e:
+            print(f"  Warning: ESPN fetch failed for {d}: {e}")
+        d += timedelta(days=1)
+        sleep(0.1)
+    return list(events.values())
 
 
 def build_playoff_events(espn_events):
     games = []
     for event in espn_events:
+        # Only post-season events (type 3) — the scoreboard window can
+        # also contain regular season finales around mid-April.
+        if event.get("season", {}).get("type") not in (3, "3"):
+            continue
         comp = event.get("competitions", [{}])[0]
         status = event.get("status", {}).get("type", {}).get("name", "")
         if status in ("STATUS_CANCELLED", "STATUS_POSTPONED"):
@@ -96,10 +136,9 @@ def build_playoff_events(espn_events):
         dt = datetime.fromisoformat(event["date"].replace("Z", "+00:00"))
         games.append({
             "date": dt,
-            "date_str": dt.strftime("%Y-%m-%d"),
+            "date_str": dt.astimezone(ZoneInfo(tz)).date().strftime("%Y-%m-%d"),
             "home": home_name, "away": away_name,
             "location": location, "tz": tz, "round_name": round_name,
-            "dtstart": fmt_utc(dt), "dtend": fmt_utc(dt + timedelta(hours=3)),
         })
 
     games.sort(key=lambda g: g["date"])
@@ -110,59 +149,89 @@ def build_playoff_events(espn_events):
         series_counts[series_key] += 1
         game_num = series_counts[series_key]
         away_s, home_s = slug(g["away"]), slug(g["home"])
-        uid = f"nba-2025-playoffs-{g['date_str']}-{away_s}-vs-{home_s}-g{game_num}@open-sports-cal"
+        uid = f"{UID_PREFIX}-playoffs-{g['date_str']}-{away_s}-vs-{home_s}-g{game_num}@open-sports-cal"
         summary = f"{g['away']} @ {g['home']} (Game {game_num})"
         description = (
-            f"NBA Playoffs 2025-26 — {g['round_name']}\\n"
+            f"NBA Playoffs 2026-27 — {g['round_name']}\\n"
             f"{g['away']} @ {g['home']} — Game {game_num}\\n"
             f"{g['location']}"
         )
-        g["uid"] = uid
         g["away_slug"] = away_s
         g["home_slug"] = home_s
-        g["vevent"] = make_vevent(uid, summary, g["dtstart"], g["dtend"],
-                                  g["location"], description,
-                                  "Basketball,NBA,NBA Playoffs 2025-26", g["tz"])
+        g["vevent"] = make_vevent(uid, summary,
+                                 fmt_utc(g["date"]), fmt_utc(g["date"] + timedelta(hours=GAME_HOURS)),
+                                 g["location"], description, PLAYOFF_CATEGORIES, g["tz"])
         result.append(g)
     return result
 
 
 def main():
-    print("NBA: fetching playoff data from ESPN...")
-    espn_events = fetch_espn_playoffs()
-    print(f"  ESPN returned {len(espn_events)} events")
+    print("NBA: fetching regular season from fixturedownload.com...")
+    fixtures = fetch_fixtures()
+    print(f"  Got {len(fixtures)} fixtures")
 
-    playoff_games = build_playoff_events(espn_events)
+    events = []
+    team_events = defaultdict(list)
+    skipped = 0
+
+    for g in fixtures:
+        date_utc = g.get("DateUtc", "")
+        home, away = g.get("HomeTeam", ""), g.get("AwayTeam", "")
+        if not date_utc or not home or not away:
+            continue
+        if "announced" in home.lower() or "announced" in away.lower() or "tbd" in home.lower() or "tbd" in away.lower():
+            skipped += 1
+            continue
+        try:
+            dt = datetime.strptime(date_utc, "%Y-%m-%d %H:%M:%SZ").replace(tzinfo=timezone.utc)
+        except ValueError:
+            continue
+
+        location = g.get("Location", "TBD")
+        tz = TEAM_TZ.get(home, "America/New_York")
+        local_date = dt.astimezone(ZoneInfo(tz)).date().strftime("%Y-%m-%d")
+        away_s, home_s = slug(away), slug(home)
+        uid = f"{UID_PREFIX}-{local_date}-{away_s}-vs-{home_s}@open-sports-cal"
+        summary = f"{away} @ {home}"
+        description = f"{SEASON}\\n{away} @ {home}\\n{location}"
+
+        vevent = make_vevent(uid, summary, fmt_utc(dt), fmt_utc(dt + timedelta(hours=GAME_HOURS)),
+                             location, description, CATEGORIES, tz)
+        events.append(vevent)
+        team_events[home_s].append((vevent, home))
+        team_events[away_s].append((vevent, away))
+    print(f"  Built {len(events)} regular season events (skipped {skipped} unconfirmed-team games)")
+
+    print("NBA: checking ESPN for playoff schedule...")
+    playoff_games = build_playoff_events(fetch_espn_playoffs())
     print(f"  Built {len(playoff_games)} playoff game events")
+    for g in playoff_games:
+        events.append(g["vevent"])
+        team_events[g["home_slug"]].append((g["vevent"], g["home"]))
+        team_events[g["away_slug"]].append((g["vevent"], g["away"]))
 
-    all_teams_path = OUT_DIR / "all-teams.ics"
-    existing = all_teams_path.read_text(encoding="utf-8")
-    reg_season = [ve for ve in extract_vevents(existing) if not is_playoff_event(ve)]
-    print(f"  Keeping {len(reg_season)} regular season events")
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    all_vevents = reg_season + [g["vevent"] for g in playoff_games]
-    all_teams_path.write_text(
-        make_calendar(all_vevents, "NBA 2025-26 - All Matches", "NBA 2025-26"),
+    all_events = sorted(events, key=lambda v: re.search(r"^DTSTART[^:]*:(.+)$", v, re.M).group(1))
+    (OUT_DIR / "all-teams.ics").write_text(
+        make_calendar(all_events, "NBA 2026-27 - All Matches", SEASON),
         encoding="utf-8",
     )
-    print(f"  Wrote all-teams.ics ({len(all_vevents)} events)")
+    print(f"  Wrote all-teams.ics ({len(all_events)} events)")
 
-    team_files = [f for f in OUT_DIR.glob("*.ics") if f.name != "all-teams.ics"]
-    updated = []
-    for team_file in sorted(team_files):
-        team_slug = team_file.stem
-        existing_tf = team_file.read_text(encoding="utf-8")
-        cal_name_m = re.search(r"X-WR-CALNAME:(.+)", existing_tf)
-        cal_name = cal_name_m.group(1).strip() if cal_name_m else f"NBA 2025-26 - {team_slug}"
-        reg = [ve for ve in extract_vevents(existing_tf) if not is_playoff_event(ve)]
-        playoffs = [g["vevent"] for g in playoff_games
-                    if g["away_slug"] == team_slug or g["home_slug"] == team_slug]
-        if playoffs:
-            updated.append(team_slug)
-        team_file.write_text(make_calendar(reg + playoffs, cal_name, "NBA 2025-26"),
-                             encoding="utf-8")
-
-    print(f"  Updated {len(updated)} team files with new playoff data")
+    teams = {ts: pairs[0][1] for ts, pairs in team_events.items()}
+    for ts, team_name in sorted(teams.items()):
+        team_path = OUT_DIR / f"{ts}.ics"
+        cal_name = f"{SEASON} - {team_name}"
+        if team_path.exists():
+            m = re.search(r"X-WR-CALNAME:(.+)", team_path.read_text(encoding="utf-8"))
+            if m:
+                cal_name = m.group(1).strip()
+        team_path.write_text(
+            make_calendar([ve for ve, _ in team_events[ts]], cal_name, SEASON),
+            encoding="utf-8",
+        )
+    print(f"  Wrote {len(teams)} team files")
     print("NBA: done.")
 
 

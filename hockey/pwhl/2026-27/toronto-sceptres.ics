@@ -1,0 +1,393 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//PWHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PWHL 2026-27 - Toronto Sceptres
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-23-toronto-sceptres-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20261123T173000Z
+DTEND:20261123T203000Z
+SUMMARY:Toronto Sceptres @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ PWHL Hamilton\nMorgan Firestone Arena | Ancaster, Ancaster, ON
+LOCATION:Morgan Firestone Arena | Ancaster, Ancaster, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-24-ottawa-charge-vs-toronto-sceptres@open-sports-cal
+DTSTART:20261124T190000Z
+DTEND:20261124T220000Z
+SUMMARY:Ottawa Charge @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Toronto Sceptres\nMattamy Athletic Centre | Toronto, Toronto, ON
+LOCATION:Mattamy Athletic Centre | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-06-toronto-sceptres-vs-ottawa-charge@open-sports-cal
+DTSTART:20261206T140000Z
+DTEND:20261206T170000Z
+SUMMARY:Toronto Sceptres @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-08-pwhl-hamilton-vs-toronto-sceptres@open-sports-cal
+DTSTART:20261208T190000Z
+DTEND:20261208T220000Z
+SUMMARY:PWHL Hamilton @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-12-boston-fleet-vs-toronto-sceptres@open-sports-cal
+DTSTART:20261212T190000Z
+DTEND:20261212T220000Z
+SUMMARY:Boston Fleet @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-20-pwhl-san-jose-vs-toronto-sceptres@open-sports-cal
+DTSTART:20261220T160000Z
+DTEND:20261220T190000Z
+SUMMARY:PWHL San Jose @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nPWHL San Jose @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-22-new-york-sirens-vs-toronto-sceptres@open-sports-cal
+DTSTART:20261222T190000Z
+DTEND:20261222T220000Z
+SUMMARY:New York Sirens @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-26-toronto-sceptres-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20261226T190000Z
+DTEND:20261226T220000Z
+SUMMARY:Toronto Sceptres @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-28-toronto-sceptres-vs-pwhl-detroit@open-sports-cal
+DTSTART:20261228T190000Z
+DTEND:20261228T220000Z
+SUMMARY:Toronto Sceptres @ PWHL Detroit
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ PWHL Detroit\nLittle Caesars Arena | Detroit, Detroit, MI
+LOCATION:Little Caesars Arena | Detroit, Detroit, MI
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-03-montreal-victoire-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Montréal Victoire @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-07-vancouver-goldeneyes-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270107T190000Z
+DTEND:20270107T220000Z
+SUMMARY:Vancouver Goldeneyes @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-09-toronto-sceptres-vs-boston-fleet@open-sports-cal
+DTSTART:20270109T140000Z
+DTEND:20270109T170000Z
+SUMMARY:Toronto Sceptres @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-17-pwhl-detroit-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270117T153000Z
+DTEND:20270117T183000Z
+SUMMARY:PWHL Detroit @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nPWHL Detroit @ Toronto Sceptres\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-22-toronto-sceptres-vs-pwhl-san-jose@open-sports-cal
+DTSTART:20270122T220000Z
+DTEND:20270123T010000Z
+SUMMARY:Toronto Sceptres @ PWHL San Jose
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ PWHL San Jose\nSAP Center | San Jose, San Jose, CA
+LOCATION:SAP Center | San Jose, San Jose, CA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-24-toronto-sceptres-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270124T160000Z
+DTEND:20270124T190000Z
+SUMMARY:Toronto Sceptres @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-28-toronto-sceptres-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270128T213000Z
+DTEND:20270129T003000Z
+SUMMARY:Toronto Sceptres @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-30-toronto-sceptres-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270130T140000Z
+DTEND:20270130T170000Z
+SUMMARY:Toronto Sceptres @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ PWHL Hamilton\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-02-boston-fleet-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270202T183000Z
+DTEND:20270202T213000Z
+SUMMARY:Boston Fleet @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Toronto Sceptres\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-09-ottawa-charge-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270209T190000Z
+DTEND:20270209T220000Z
+SUMMARY:Ottawa Charge @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-15-toronto-sceptres-vs-new-york-sirens@open-sports-cal
+DTSTART:20270215T140000Z
+DTEND:20270215T170000Z
+SUMMARY:Toronto Sceptres @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-17-toronto-sceptres-vs-montreal-victoire@open-sports-cal
+DTSTART:20270217T190000Z
+DTEND:20270217T220000Z
+SUMMARY:Toronto Sceptres @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-20-seattle-torrent-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270220T190000Z
+DTEND:20270220T220000Z
+SUMMARY:Seattle Torrent @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-27-minnesota-frost-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270227T140000Z
+DTEND:20270227T170000Z
+SUMMARY:Minnesota Frost @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-10-pwhl-hamilton-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270310T190000Z
+DTEND:20270310T220000Z
+SUMMARY:PWHL Hamilton @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-19-pwhl-las-vegas-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270319T190000Z
+DTEND:20270319T220000Z
+SUMMARY:PWHL Las Vegas @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-27-toronto-sceptres-vs-montreal-victoire@open-sports-cal
+DTSTART:20270327T140000Z
+DTEND:20270327T170000Z
+SUMMARY:Toronto Sceptres @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Montréal Victoire\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-31-toronto-sceptres-vs-seattle-torrent@open-sports-cal
+DTSTART:20270331T220000Z
+DTEND:20270401T010000Z
+SUMMARY:Toronto Sceptres @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-03-toronto-sceptres-vs-minnesota-frost@open-sports-cal
+DTSTART:20270403T150000Z
+DTEND:20270403T180000Z
+SUMMARY:Toronto Sceptres @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-07-montreal-victoire-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270407T190000Z
+DTEND:20270407T220000Z
+SUMMARY:Montréal Victoire @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-10-new-york-sirens-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270410T193000Z
+DTEND:20270410T223000Z
+SUMMARY:New York Sirens @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Toronto Sceptres\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-13-toronto-sceptres-vs-ottawa-charge@open-sports-cal
+DTSTART:20270413T190000Z
+DTEND:20270413T220000Z
+SUMMARY:Toronto Sceptres @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-17-toronto-sceptres-vs-boston-fleet@open-sports-cal
+DTSTART:20270417T000000Z
+DTEND:20270417T030000Z
+SUMMARY:Toronto Sceptres @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

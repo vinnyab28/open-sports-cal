@@ -1,0 +1,1791 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MLB 2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLB 2027 - Arizona Diamondbacks
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-25-arizona-diamondbacks-vs-san-diego-padres@open-sports-cal
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Arizona Diamondbacks @ San Diego Padres
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Diego Padres\nPetco Park\nStart time TBD
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-26-arizona-diamondbacks-vs-san-diego-padres@open-sports-cal
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Arizona Diamondbacks @ San Diego Padres
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Diego Padres\nPetco Park\nStart time TBD
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-27-arizona-diamondbacks-vs-san-diego-padres@open-sports-cal
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Arizona Diamondbacks @ San Diego Padres
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Diego Padres\nPetco Park\nStart time TBD
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-28-arizona-diamondbacks-vs-san-diego-padres@open-sports-cal
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Arizona Diamondbacks @ San Diego Padres
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Diego Padres\nPetco Park\nStart time TBD
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-29-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Arizona Diamondbacks @ San Francisco Giants
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Francisco Giants\nOracle Park\nStart time TBD
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-30-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Arizona Diamondbacks @ San Francisco Giants
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Francisco Giants\nOracle Park\nStart time TBD
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-31-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Arizona Diamondbacks @ San Francisco Giants
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Francisco Giants\nOracle Park\nStart time TBD
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-02-miami-marlins-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Miami Marlins @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nMiami Marlins @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-03-miami-marlins-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Miami Marlins @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nMiami Marlins @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-04-miami-marlins-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Miami Marlins @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nMiami Marlins @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-05-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Los Angeles Dodgers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-06-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Los Angeles Dodgers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-07-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Los Angeles Dodgers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-09-arizona-diamondbacks-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Arizona Diamondbacks @ New York Yankees
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-10-arizona-diamondbacks-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Arizona Diamondbacks @ New York Yankees
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-11-arizona-diamondbacks-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Arizona Diamondbacks @ New York Yankees
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-13-arizona-diamondbacks-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Arizona Diamondbacks @ Miami Marlins
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-14-arizona-diamondbacks-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Arizona Diamondbacks @ Miami Marlins
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-15-arizona-diamondbacks-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Arizona Diamondbacks @ Miami Marlins
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-16-san-diego-padres-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:San Diego Padres @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-17-san-diego-padres-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:San Diego Padres @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-18-san-diego-padres-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:San Diego Padres @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-19-chicago-cubs-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Chicago Cubs @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nChicago Cubs @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-20-chicago-cubs-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Chicago Cubs @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nChicago Cubs @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-21-chicago-cubs-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Chicago Cubs @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nChicago Cubs @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-23-arizona-diamondbacks-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Arizona Diamondbacks @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-24-arizona-diamondbacks-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Arizona Diamondbacks @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-25-arizona-diamondbacks-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Arizona Diamondbacks @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-26-arizona-diamondbacks-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Arizona Diamondbacks @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-27-arizona-diamondbacks-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Arizona Diamondbacks @ Detroit Tigers
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-28-arizona-diamondbacks-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Arizona Diamondbacks @ Detroit Tigers
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-29-arizona-diamondbacks-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Arizona Diamondbacks @ Detroit Tigers
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-30-cleveland-guardians-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Cleveland Guardians @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-01-cleveland-guardians-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Cleveland Guardians @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-02-cleveland-guardians-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Cleveland Guardians @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-03-baltimore-orioles-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Baltimore Orioles @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-04-baltimore-orioles-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Baltimore Orioles @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-05-baltimore-orioles-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Baltimore Orioles @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-07-texas-rangers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Texas Rangers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nTexas Rangers @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-08-texas-rangers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Texas Rangers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nTexas Rangers @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-09-texas-rangers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Texas Rangers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nTexas Rangers @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-11-arizona-diamondbacks-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:Arizona Diamondbacks @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-12-arizona-diamondbacks-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Arizona Diamondbacks @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-13-arizona-diamondbacks-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Arizona Diamondbacks @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-14-arizona-diamondbacks-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Arizona Diamondbacks @ Atlanta Braves
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-15-arizona-diamondbacks-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Arizona Diamondbacks @ Atlanta Braves
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-16-arizona-diamondbacks-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Arizona Diamondbacks @ Atlanta Braves
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-17-seattle-mariners-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Seattle Mariners @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-18-seattle-mariners-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Seattle Mariners @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-19-seattle-mariners-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Seattle Mariners @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-20-colorado-rockies-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Colorado Rockies @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nColorado Rockies @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-21-colorado-rockies-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Colorado Rockies @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nColorado Rockies @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-22-colorado-rockies-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Colorado Rockies @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nColorado Rockies @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-23-colorado-rockies-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Colorado Rockies @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nColorado Rockies @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-24-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Arizona Diamondbacks @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-25-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Arizona Diamondbacks @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-26-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Arizona Diamondbacks @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-28-arizona-diamondbacks-vs-milwaukee-brewers@open-sports-cal
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Arizona Diamondbacks @ Milwaukee Brewers
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-29-arizona-diamondbacks-vs-milwaukee-brewers@open-sports-cal
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Arizona Diamondbacks @ Milwaukee Brewers
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-30-arizona-diamondbacks-vs-milwaukee-brewers@open-sports-cal
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Arizona Diamondbacks @ Milwaukee Brewers
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-31-cincinnati-reds-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Cincinnati Reds @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nCincinnati Reds @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-01-cincinnati-reds-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Cincinnati Reds @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nCincinnati Reds @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-02-cincinnati-reds-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Cincinnati Reds @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nCincinnati Reds @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-04-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:San Francisco Giants @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-05-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:San Francisco Giants @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-06-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:San Francisco Giants @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-08-arizona-diamondbacks-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Arizona Diamondbacks @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-09-arizona-diamondbacks-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Arizona Diamondbacks @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-10-arizona-diamondbacks-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Arizona Diamondbacks @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-11-arizona-diamondbacks-vs-washington-nationals@open-sports-cal
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Arizona Diamondbacks @ Washington Nationals
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Washington Nationals\nNationals Park\nStart time TBD
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-12-arizona-diamondbacks-vs-washington-nationals@open-sports-cal
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Arizona Diamondbacks @ Washington Nationals
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Washington Nationals\nNationals Park\nStart time TBD
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-13-arizona-diamondbacks-vs-washington-nationals@open-sports-cal
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Arizona Diamondbacks @ Washington Nationals
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Washington Nationals\nNationals Park\nStart time TBD
+LOCATION:Nationals Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-14-atlanta-braves-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Atlanta Braves @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-15-atlanta-braves-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Atlanta Braves @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-16-atlanta-braves-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Atlanta Braves @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-18-boston-red-sox-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Boston Red Sox @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-19-boston-red-sox-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Boston Red Sox @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-20-boston-red-sox-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Boston Red Sox @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-21-arizona-diamondbacks-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Arizona Diamondbacks @ Colorado Rockies
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-22-arizona-diamondbacks-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:Arizona Diamondbacks @ Colorado Rockies
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-23-arizona-diamondbacks-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Arizona Diamondbacks @ Colorado Rockies
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-25-arizona-diamondbacks-vs-athletics@open-sports-cal
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Arizona Diamondbacks @ Athletics
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Athletics\nSutter Health Park\nStart time TBD
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-26-arizona-diamondbacks-vs-athletics@open-sports-cal
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Arizona Diamondbacks @ Athletics
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Athletics\nSutter Health Park\nStart time TBD
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-27-arizona-diamondbacks-vs-athletics@open-sports-cal
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Arizona Diamondbacks @ Athletics
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Athletics\nSutter Health Park\nStart time TBD
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-28-new-york-mets-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:New York Mets @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nNew York Mets @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-29-new-york-mets-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:New York Mets @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nNew York Mets @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-30-new-york-mets-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:New York Mets @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nNew York Mets @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-01-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:San Francisco Giants @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-02-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:San Francisco Giants @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-03-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:San Francisco Giants @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-04-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:San Francisco Giants @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-06-arizona-diamondbacks-vs-st-louis-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Arizona Diamondbacks @ St. Louis Cardinals
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-07-arizona-diamondbacks-vs-st-louis-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Arizona Diamondbacks @ St. Louis Cardinals
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-08-arizona-diamondbacks-vs-st-louis-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Arizona Diamondbacks @ St. Louis Cardinals
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-09-arizona-diamondbacks-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Arizona Diamondbacks @ Chicago White Sox
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-10-arizona-diamondbacks-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Arizona Diamondbacks @ Chicago White Sox
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-11-arizona-diamondbacks-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Arizona Diamondbacks @ Chicago White Sox
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-16-colorado-rockies-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Colorado Rockies @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nColorado Rockies @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-17-colorado-rockies-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Colorado Rockies @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nColorado Rockies @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-18-colorado-rockies-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Colorado Rockies @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nColorado Rockies @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-19-st-louis-cardinals-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:St. Louis Cardinals @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-20-st-louis-cardinals-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:St. Louis Cardinals @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-21-st-louis-cardinals-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:St. Louis Cardinals @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-23-arizona-diamondbacks-vs-pittsburgh-pirates@open-sports-cal
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Arizona Diamondbacks @ Pittsburgh Pirates
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Pittsburgh Pirates\nPNC Park\nStart time TBD
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-24-arizona-diamondbacks-vs-pittsburgh-pirates@open-sports-cal
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:Arizona Diamondbacks @ Pittsburgh Pirates
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Pittsburgh Pirates\nPNC Park\nStart time TBD
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-25-arizona-diamondbacks-vs-pittsburgh-pirates@open-sports-cal
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Arizona Diamondbacks @ Pittsburgh Pirates
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Pittsburgh Pirates\nPNC Park\nStart time TBD
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-26-arizona-diamondbacks-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Arizona Diamondbacks @ New York Mets
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-27-arizona-diamondbacks-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Arizona Diamondbacks @ New York Mets
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-28-arizona-diamondbacks-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:Arizona Diamondbacks @ New York Mets
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-30-arizona-diamondbacks-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Arizona Diamondbacks @ Texas Rangers
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-31-arizona-diamondbacks-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Arizona Diamondbacks @ Texas Rangers
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-01-arizona-diamondbacks-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Arizona Diamondbacks @ Texas Rangers
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-02-tampa-bay-rays-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Tampa Bay Rays @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-03-tampa-bay-rays-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Tampa Bay Rays @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-04-tampa-bay-rays-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Tampa Bay Rays @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-06-houston-astros-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:Houston Astros @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nHouston Astros @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-07-houston-astros-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:Houston Astros @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nHouston Astros @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-08-houston-astros-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:Houston Astros @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nHouston Astros @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-09-arizona-diamondbacks-vs-san-diego-padres@open-sports-cal
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:Arizona Diamondbacks @ San Diego Padres
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Diego Padres\nPetco Park\nStart time TBD
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-10-arizona-diamondbacks-vs-san-diego-padres@open-sports-cal
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Arizona Diamondbacks @ San Diego Padres
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Diego Padres\nPetco Park\nStart time TBD
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-11-arizona-diamondbacks-vs-san-diego-padres@open-sports-cal
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Arizona Diamondbacks @ San Diego Padres
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Diego Padres\nPetco Park\nStart time TBD
+LOCATION:Petco Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-12-milwaukee-brewers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:Milwaukee Brewers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-13-milwaukee-brewers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Milwaukee Brewers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-14-milwaukee-brewers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Milwaukee Brewers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-15-milwaukee-brewers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Milwaukee Brewers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-16-arizona-diamondbacks-vs-chicago-cubs@open-sports-cal
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Arizona Diamondbacks @ Chicago Cubs
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Chicago Cubs\nWrigley Field\nStart time TBD
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-17-arizona-diamondbacks-vs-chicago-cubs@open-sports-cal
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Arizona Diamondbacks @ Chicago Cubs
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Chicago Cubs\nWrigley Field\nStart time TBD
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-18-arizona-diamondbacks-vs-chicago-cubs@open-sports-cal
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Arizona Diamondbacks @ Chicago Cubs
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Chicago Cubs\nWrigley Field\nStart time TBD
+LOCATION:Wrigley Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-20-arizona-diamondbacks-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:Arizona Diamondbacks @ Colorado Rockies
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-21-arizona-diamondbacks-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Arizona Diamondbacks @ Colorado Rockies
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-22-arizona-diamondbacks-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Arizona Diamondbacks @ Colorado Rockies
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-23-washington-nationals-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:Washington Nationals @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nWashington Nationals @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-24-washington-nationals-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Washington Nationals @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nWashington Nationals @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-25-washington-nationals-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Washington Nationals @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nWashington Nationals @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-27-philadelphia-phillies-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Philadelphia Phillies @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-28-philadelphia-phillies-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Philadelphia Phillies @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-29-philadelphia-phillies-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Philadelphia Phillies @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-31-arizona-diamondbacks-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Arizona Diamondbacks @ Minnesota Twins
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-01-arizona-diamondbacks-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Arizona Diamondbacks @ Minnesota Twins
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-02-arizona-diamondbacks-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:Arizona Diamondbacks @ Minnesota Twins
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-03-arizona-diamondbacks-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:Arizona Diamondbacks @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-04-arizona-diamondbacks-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Arizona Diamondbacks @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-05-arizona-diamondbacks-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:Arizona Diamondbacks @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-06-pittsburgh-pirates-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Pittsburgh Pirates @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-07-pittsburgh-pirates-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Pittsburgh Pirates @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-08-pittsburgh-pirates-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Pittsburgh Pirates @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-10-kansas-city-royals-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Kansas City Royals @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nKansas City Royals @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-11-kansas-city-royals-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Kansas City Royals @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nKansas City Royals @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-12-kansas-city-royals-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Kansas City Royals @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nKansas City Royals @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-13-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+SUMMARY:Arizona Diamondbacks @ San Francisco Giants
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Francisco Giants\nOracle Park\nStart time TBD
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-14-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Arizona Diamondbacks @ San Francisco Giants
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Francisco Giants\nOracle Park\nStart time TBD
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-15-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Arizona Diamondbacks @ San Francisco Giants
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Francisco Giants\nOracle Park\nStart time TBD
+LOCATION:Oracle Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-16-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Arizona Diamondbacks @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-17-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:Arizona Diamondbacks @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-18-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:Arizona Diamondbacks @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-19-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Arizona Diamondbacks @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-21-san-diego-padres-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:San Diego Padres @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-22-san-diego-padres-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:San Diego Padres @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-23-san-diego-padres-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:San Diego Padres @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-24-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:Los Angeles Dodgers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-25-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Los Angeles Dodgers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-26-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Los Angeles Dodgers @ Arizona Diamondbacks
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field\nStart time TBD
+LOCATION:Chase Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+END:VCALENDAR

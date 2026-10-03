@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Oklahoma City Thunder
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-20-oklahoma-city-thunder-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261021T013000Z
+DTEND:20261021T043000Z
+SUMMARY:Oklahoma City Thunder @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-22-denver-nuggets-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261023T013000Z
+DTEND:20261023T043000Z
+SUMMARY:Denver Nuggets @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-25-la-clippers-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261025T230000Z
+DTEND:20261026T020000Z
+SUMMARY:LA Clippers @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-26-phoenix-suns-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261027T000000Z
+DTEND:20261027T030000Z
+SUMMARY:Phoenix Suns @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-28-oklahoma-city-thunder-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261029T013000Z
+DTEND:20261029T043000Z
+SUMMARY:Oklahoma City Thunder @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-31-oklahoma-city-thunder-vs-houston-rockets@open-sports-cal
+DTSTART:20261101T003000Z
+DTEND:20261101T033000Z
+SUMMARY:Oklahoma City Thunder @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-oklahoma-city-thunder-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261103T000000Z
+DTEND:20261103T030000Z
+SUMMARY:Oklahoma City Thunder @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-cleveland-cavaliers-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261105T010000Z
+DTEND:20261105T040000Z
+SUMMARY:Cleveland Cavaliers @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-06-oklahoma-city-thunder-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:Oklahoma City Thunder @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-07-washington-wizards-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261108T010000Z
+DTEND:20261108T040000Z
+SUMMARY:Washington Wizards @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-10-oklahoma-city-thunder-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261111T040000Z
+DTEND:20261111T070000Z
+SUMMARY:Oklahoma City Thunder @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-11-oklahoma-city-thunder-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261112T030000Z
+DTEND:20261112T060000Z
+SUMMARY:Oklahoma City Thunder @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-13-oklahoma-city-thunder-vs-la-clippers@open-sports-cal
+DTSTART:20261114T033000Z
+DTEND:20261114T063000Z
+SUMMARY:Oklahoma City Thunder @ LA Clippers
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-15-oklahoma-city-thunder-vs-sacramento-kings@open-sports-cal
+DTSTART:20261116T020000Z
+DTEND:20261116T050000Z
+SUMMARY:Oklahoma City Thunder @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-atlanta-hawks-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261119T010000Z
+DTEND:20261119T040000Z
+SUMMARY:Atlanta Hawks @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-20-new-orleans-pelicans-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261121T010000Z
+DTEND:20261121T040000Z
+SUMMARY:New Orleans Pelicans @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-22-oklahoma-city-thunder-vs-miami-heat@open-sports-cal
+DTSTART:20261122T230000Z
+DTEND:20261123T020000Z
+SUMMARY:Oklahoma City Thunder @ Miami Heat
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-23-oklahoma-city-thunder-vs-indiana-pacers@open-sports-cal
+DTSTART:20261124T003000Z
+DTEND:20261124T033000Z
+SUMMARY:Oklahoma City Thunder @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-25-minnesota-timberwolves-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261126T003000Z
+DTEND:20261126T033000Z
+SUMMARY:Minnesota Timberwolves @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-28-oklahoma-city-thunder-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20261129T010000Z
+DTEND:20261129T040000Z
+SUMMARY:Oklahoma City Thunder @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-30-oklahoma-city-thunder-vs-brooklyn-nets@open-sports-cal
+DTSTART:20261201T003000Z
+DTEND:20261201T033000Z
+SUMMARY:Oklahoma City Thunder @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-02-brooklyn-nets-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261203T010000Z
+DTEND:20261203T040000Z
+SUMMARY:Brooklyn Nets @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-13-toronto-raptors-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261213T203000Z
+DTEND:20261213T233000Z
+SUMMARY:Toronto Raptors @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-sacramento-kings-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261217T010000Z
+DTEND:20261217T040000Z
+SUMMARY:Sacramento Kings @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-18-oklahoma-city-thunder-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261219T000000Z
+DTEND:20261219T030000Z
+SUMMARY:Oklahoma City Thunder @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-20-oklahoma-city-thunder-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261221T000000Z
+DTEND:20261221T030000Z
+SUMMARY:Oklahoma City Thunder @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-22-detroit-pistons-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261223T010000Z
+DTEND:20261223T040000Z
+SUMMARY:Detroit Pistons @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-oklahoma-city-thunder-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261224T010000Z
+DTEND:20261224T040000Z
+SUMMARY:Oklahoma City Thunder @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-25-oklahoma-city-thunder-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261226T010000Z
+DTEND:20261226T040000Z
+SUMMARY:Oklahoma City Thunder @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-27-oklahoma-city-thunder-vs-houston-rockets@open-sports-cal
+DTSTART:20261227T203000Z
+DTEND:20261227T233000Z
+SUMMARY:Oklahoma City Thunder @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-29-milwaukee-bucks-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261230T010000Z
+DTEND:20261230T040000Z
+SUMMARY:Milwaukee Bucks @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-31-miami-heat-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270101T010000Z
+DTEND:20270101T040000Z
+SUMMARY:Miami Heat @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-02-utah-jazz-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270103T010000Z
+DTEND:20270103T040000Z
+SUMMARY:Utah Jazz @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-03-sacramento-kings-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270104T010000Z
+DTEND:20270104T040000Z
+SUMMARY:Sacramento Kings @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-06-oklahoma-city-thunder-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270107T003000Z
+DTEND:20270107T033000Z
+SUMMARY:Oklahoma City Thunder @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-oklahoma-city-thunder-vs-washington-wizards@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Oklahoma City Thunder @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-10-oklahoma-city-thunder-vs-orlando-magic@open-sports-cal
+DTSTART:20270110T230000Z
+DTEND:20270111T020000Z
+SUMMARY:Oklahoma City Thunder @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-13-houston-rockets-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270114T023000Z
+DTEND:20270114T053000Z
+SUMMARY:Houston Rockets @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-15-utah-jazz-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270116T010000Z
+DTEND:20270116T040000Z
+SUMMARY:Utah Jazz @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-17-portland-trail-blazers-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270117T203000Z
+DTEND:20270117T233000Z
+SUMMARY:Portland Trail Blazers @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-18-oklahoma-city-thunder-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270119T010000Z
+DTEND:20270119T040000Z
+SUMMARY:Oklahoma City Thunder @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-20-oklahoma-city-thunder-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270121T010000Z
+DTEND:20270121T040000Z
+SUMMARY:Oklahoma City Thunder @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-22-memphis-grizzlies-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270123T010000Z
+DTEND:20270123T040000Z
+SUMMARY:Memphis Grizzlies @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-24-oklahoma-city-thunder-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270125T013000Z
+DTEND:20270125T043000Z
+SUMMARY:Oklahoma City Thunder @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-26-oklahoma-city-thunder-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270127T040000Z
+DTEND:20270127T070000Z
+SUMMARY:Oklahoma City Thunder @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-28-memphis-grizzlies-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270129T010000Z
+DTEND:20270129T040000Z
+SUMMARY:Memphis Grizzlies @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-30-denver-nuggets-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270130T200000Z
+DTEND:20270130T230000Z
+SUMMARY:Denver Nuggets @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-31-chicago-bulls-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270131T230000Z
+DTEND:20270201T020000Z
+SUMMARY:Chicago Bulls @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-02-oklahoma-city-thunder-vs-denver-nuggets@open-sports-cal
+DTSTART:20270203T020000Z
+DTEND:20270203T050000Z
+SUMMARY:Oklahoma City Thunder @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-04-oklahoma-city-thunder-vs-chicago-bulls@open-sports-cal
+DTSTART:20270205T010000Z
+DTEND:20270205T040000Z
+SUMMARY:Oklahoma City Thunder @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-05-indiana-pacers-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270206T023000Z
+DTEND:20270206T053000Z
+SUMMARY:Indiana Pacers @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-07-new-york-knicks-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270208T023000Z
+DTEND:20270208T053000Z
+SUMMARY:New York Knicks @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-09-portland-trail-blazers-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270210T010000Z
+DTEND:20270210T040000Z
+SUMMARY:Portland Trail Blazers @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-11-san-antonio-spurs-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270212T023000Z
+DTEND:20270212T053000Z
+SUMMARY:San Antonio Spurs @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-13-philadelphia-76ers-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270213T223000Z
+DTEND:20270214T013000Z
+SUMMARY:Philadelphia 76ers @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-15-orlando-magic-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270216T010000Z
+DTEND:20270216T040000Z
+SUMMARY:Orlando Magic @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-boston-celtics-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270218T023000Z
+DTEND:20270218T053000Z
+SUMMARY:Boston Celtics @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-25-oklahoma-city-thunder-vs-new-york-knicks@open-sports-cal
+DTSTART:20270226T003000Z
+DTEND:20270226T033000Z
+SUMMARY:Oklahoma City Thunder @ New York Knicks
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-27-oklahoma-city-thunder-vs-detroit-pistons@open-sports-cal
+DTSTART:20270227T223000Z
+DTEND:20270228T013000Z
+SUMMARY:Oklahoma City Thunder @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-02-minnesota-timberwolves-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270303T010000Z
+DTEND:20270303T040000Z
+SUMMARY:Minnesota Timberwolves @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-04-oklahoma-city-thunder-vs-sacramento-kings@open-sports-cal
+DTSTART:20270305T030000Z
+DTEND:20270305T060000Z
+SUMMARY:Oklahoma City Thunder @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-06-oklahoma-city-thunder-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270307T013000Z
+DTEND:20270307T043000Z
+SUMMARY:Oklahoma City Thunder @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-08-dallas-mavericks-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270309T023000Z
+DTEND:20270309T053000Z
+SUMMARY:Dallas Mavericks @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-10-oklahoma-city-thunder-vs-toronto-raptors@open-sports-cal
+DTSTART:20270311T003000Z
+DTEND:20270311T033000Z
+SUMMARY:Oklahoma City Thunder @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-12-oklahoma-city-thunder-vs-boston-celtics@open-sports-cal
+DTSTART:20270313T003000Z
+DTEND:20270313T033000Z
+SUMMARY:Oklahoma City Thunder @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-14-san-antonio-spurs-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270314T183000Z
+DTEND:20270314T213000Z
+SUMMARY:San Antonio Spurs @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-16-charlotte-hornets-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270317T000000Z
+DTEND:20270317T030000Z
+SUMMARY:Charlotte Hornets @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-17-dallas-mavericks-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270317T233000Z
+DTEND:20270318T023000Z
+SUMMARY:Dallas Mavericks @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-20-oklahoma-city-thunder-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270321T000000Z
+DTEND:20270321T030000Z
+SUMMARY:Oklahoma City Thunder @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-23-oklahoma-city-thunder-vs-phoenix-suns@open-sports-cal
+DTSTART:20270324T030000Z
+DTEND:20270324T060000Z
+SUMMARY:Oklahoma City Thunder @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-oklahoma-city-thunder-vs-phoenix-suns@open-sports-cal
+DTSTART:20270325T020000Z
+DTEND:20270325T050000Z
+SUMMARY:Oklahoma City Thunder @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-26-la-clippers-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270327T000000Z
+DTEND:20270327T030000Z
+SUMMARY:LA Clippers @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-28-oklahoma-city-thunder-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270328T233000Z
+DTEND:20270329T023000Z
+SUMMARY:Oklahoma City Thunder @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-30-oklahoma-city-thunder-vs-utah-jazz@open-sports-cal
+DTSTART:20270331T010000Z
+DTEND:20270331T040000Z
+SUMMARY:Oklahoma City Thunder @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-01-los-angeles-lakers-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270402T013000Z
+DTEND:20270402T043000Z
+SUMMARY:Los Angeles Lakers @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-03-new-orleans-pelicans-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270403T210000Z
+DTEND:20270404T000000Z
+SUMMARY:New Orleans Pelicans @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-06-oklahoma-city-thunder-vs-utah-jazz@open-sports-cal
+DTSTART:20270407T010000Z
+DTEND:20270407T040000Z
+SUMMARY:Oklahoma City Thunder @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-08-golden-state-warriors-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270409T013000Z
+DTEND:20270409T043000Z
+SUMMARY:Golden State Warriors @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-golden-state-warriors-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270410T000000Z
+DTEND:20270410T030000Z
+SUMMARY:Golden State Warriors @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-oklahoma-city-thunder-vs-denver-nuggets@open-sports-cal
+DTSTART:20270412T003000Z
+DTEND:20270412T033000Z
+SUMMARY:Oklahoma City Thunder @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+END:VCALENDAR

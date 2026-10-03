@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Sacramento Kings
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-21-sacramento-kings-vs-la-clippers@open-sports-cal
+DTSTART:20261022T023000Z
+DTEND:20261022T053000Z
+SUMMARY:Sacramento Kings @ LA Clippers
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-23-portland-trail-blazers-vs-sacramento-kings@open-sports-cal
+DTSTART:20261024T020000Z
+DTEND:20261024T050000Z
+SUMMARY:Portland Trail Blazers @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-25-memphis-grizzlies-vs-sacramento-kings@open-sports-cal
+DTSTART:20261026T010000Z
+DTEND:20261026T040000Z
+SUMMARY:Memphis Grizzlies @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-27-sacramento-kings-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261028T000000Z
+DTEND:20261028T030000Z
+SUMMARY:Sacramento Kings @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-29-sacramento-kings-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261030T000000Z
+DTEND:20261030T030000Z
+SUMMARY:Sacramento Kings @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-31-sacramento-kings-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261101T000000Z
+DTEND:20261101T030000Z
+SUMMARY:Sacramento Kings @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-sacramento-kings-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261103T010000Z
+DTEND:20261103T040000Z
+SUMMARY:Sacramento Kings @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-los-angeles-lakers-vs-sacramento-kings@open-sports-cal
+DTSTART:20261105T030000Z
+DTEND:20261105T060000Z
+SUMMARY:Los Angeles Lakers @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-06-san-antonio-spurs-vs-sacramento-kings@open-sports-cal
+DTSTART:20261107T030000Z
+DTEND:20261107T060000Z
+SUMMARY:San Antonio Spurs @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-08-miami-heat-vs-sacramento-kings@open-sports-cal
+DTSTART:20261109T020000Z
+DTEND:20261109T050000Z
+SUMMARY:Miami Heat @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-10-orlando-magic-vs-sacramento-kings@open-sports-cal
+DTSTART:20261111T030000Z
+DTEND:20261111T060000Z
+SUMMARY:Orlando Magic @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-13-portland-trail-blazers-vs-sacramento-kings@open-sports-cal
+DTSTART:20261114T030000Z
+DTEND:20261114T060000Z
+SUMMARY:Portland Trail Blazers @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-15-oklahoma-city-thunder-vs-sacramento-kings@open-sports-cal
+DTSTART:20261116T020000Z
+DTEND:20261116T050000Z
+SUMMARY:Oklahoma City Thunder @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-phoenix-suns-vs-sacramento-kings@open-sports-cal
+DTSTART:20261119T030000Z
+DTEND:20261119T060000Z
+SUMMARY:Phoenix Suns @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-20-sacramento-kings-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20261121T030000Z
+DTEND:20261121T060000Z
+SUMMARY:Sacramento Kings @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-21-boston-celtics-vs-sacramento-kings@open-sports-cal
+DTSTART:20261122T030000Z
+DTEND:20261122T060000Z
+SUMMARY:Boston Celtics @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-23-san-antonio-spurs-vs-sacramento-kings@open-sports-cal
+DTSTART:20261124T030000Z
+DTEND:20261124T060000Z
+SUMMARY:San Antonio Spurs @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-25-sacramento-kings-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261126T030000Z
+DTEND:20261126T060000Z
+SUMMARY:Sacramento Kings @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-29-minnesota-timberwolves-vs-sacramento-kings@open-sports-cal
+DTSTART:20261130T020000Z
+DTEND:20261130T050000Z
+SUMMARY:Minnesota Timberwolves @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-30-new-orleans-pelicans-vs-sacramento-kings@open-sports-cal
+DTSTART:20261201T030000Z
+DTEND:20261201T060000Z
+SUMMARY:New Orleans Pelicans @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-02-sacramento-kings-vs-phoenix-suns@open-sports-cal
+DTSTART:20261203T020000Z
+DTEND:20261203T050000Z
+SUMMARY:Sacramento Kings @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-13-new-orleans-pelicans-vs-sacramento-kings@open-sports-cal
+DTSTART:20261214T020000Z
+DTEND:20261214T050000Z
+SUMMARY:New Orleans Pelicans @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-sacramento-kings-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261217T010000Z
+DTEND:20261217T040000Z
+SUMMARY:Sacramento Kings @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-18-sacramento-kings-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261219T010000Z
+DTEND:20261219T040000Z
+SUMMARY:Sacramento Kings @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-20-sacramento-kings-vs-miami-heat@open-sports-cal
+DTSTART:20261220T230000Z
+DTEND:20261221T020000Z
+SUMMARY:Sacramento Kings @ Miami Heat
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-21-sacramento-kings-vs-orlando-magic@open-sports-cal
+DTSTART:20261222T000000Z
+DTEND:20261222T030000Z
+SUMMARY:Sacramento Kings @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-dallas-mavericks-vs-sacramento-kings@open-sports-cal
+DTSTART:20261224T030000Z
+DTEND:20261224T060000Z
+SUMMARY:Dallas Mavericks @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-27-utah-jazz-vs-sacramento-kings@open-sports-cal
+DTSTART:20261227T230000Z
+DTEND:20261228T020000Z
+SUMMARY:Utah Jazz @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-29-philadelphia-76ers-vs-sacramento-kings@open-sports-cal
+DTSTART:20261230T030000Z
+DTEND:20261230T060000Z
+SUMMARY:Philadelphia 76ers @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-31-brooklyn-nets-vs-sacramento-kings@open-sports-cal
+DTSTART:20261231T230000Z
+DTEND:20270101T020000Z
+SUMMARY:Brooklyn Nets @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-02-sacramento-kings-vs-phoenix-suns@open-sports-cal
+DTSTART:20270103T020000Z
+DTEND:20270103T050000Z
+SUMMARY:Sacramento Kings @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-03-sacramento-kings-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270104T010000Z
+DTEND:20270104T040000Z
+SUMMARY:Sacramento Kings @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-05-detroit-pistons-vs-sacramento-kings@open-sports-cal
+DTSTART:20270106T030000Z
+DTEND:20270106T060000Z
+SUMMARY:Detroit Pistons @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-chicago-bulls-vs-sacramento-kings@open-sports-cal
+DTSTART:20270108T030000Z
+DTEND:20270108T060000Z
+SUMMARY:Chicago Bulls @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-08-new-york-knicks-vs-sacramento-kings@open-sports-cal
+DTSTART:20270109T030000Z
+DTEND:20270109T060000Z
+SUMMARY:New York Knicks @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-10-charlotte-hornets-vs-sacramento-kings@open-sports-cal
+DTSTART:20270111T020000Z
+DTEND:20270111T050000Z
+SUMMARY:Charlotte Hornets @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-12-sacramento-kings-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270113T040000Z
+DTEND:20270113T070000Z
+SUMMARY:Sacramento Kings @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-14-la-clippers-vs-sacramento-kings@open-sports-cal
+DTSTART:20270115T030000Z
+DTEND:20270115T060000Z
+SUMMARY:LA Clippers @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-15-sacramento-kings-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270116T030000Z
+DTEND:20270116T060000Z
+SUMMARY:Sacramento Kings @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-17-sacramento-kings-vs-utah-jazz@open-sports-cal
+DTSTART:20270117T220000Z
+DTEND:20270118T010000Z
+SUMMARY:Sacramento Kings @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-19-los-angeles-lakers-vs-sacramento-kings@open-sports-cal
+DTSTART:20270120T030000Z
+DTEND:20270120T060000Z
+SUMMARY:Los Angeles Lakers @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-20-milwaukee-bucks-vs-sacramento-kings@open-sports-cal
+DTSTART:20270121T030000Z
+DTEND:20270121T060000Z
+SUMMARY:Milwaukee Bucks @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-22-sacramento-kings-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270123T030000Z
+DTEND:20270123T060000Z
+SUMMARY:Sacramento Kings @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-25-sacramento-kings-vs-denver-nuggets@open-sports-cal
+DTSTART:20270126T023000Z
+DTEND:20270126T053000Z
+SUMMARY:Sacramento Kings @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-27-sacramento-kings-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270128T000000Z
+DTEND:20270128T030000Z
+SUMMARY:Sacramento Kings @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-28-sacramento-kings-vs-washington-wizards@open-sports-cal
+DTSTART:20270129T000000Z
+DTEND:20270129T030000Z
+SUMMARY:Sacramento Kings @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-31-sacramento-kings-vs-detroit-pistons@open-sports-cal
+DTSTART:20270131T200000Z
+DTEND:20270131T230000Z
+SUMMARY:Sacramento Kings @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-04-minnesota-timberwolves-vs-sacramento-kings@open-sports-cal
+DTSTART:20270205T030000Z
+DTEND:20270205T060000Z
+SUMMARY:Minnesota Timberwolves @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-06-phoenix-suns-vs-sacramento-kings@open-sports-cal
+DTSTART:20270207T030000Z
+DTEND:20270207T060000Z
+SUMMARY:Phoenix Suns @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-07-houston-rockets-vs-sacramento-kings@open-sports-cal
+DTSTART:20270208T033000Z
+DTEND:20270208T063000Z
+SUMMARY:Houston Rockets @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-09-sacramento-kings-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270210T010000Z
+DTEND:20270210T040000Z
+SUMMARY:Sacramento Kings @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-11-sacramento-kings-vs-houston-rockets@open-sports-cal
+DTSTART:20270212T013000Z
+DTEND:20270212T043000Z
+SUMMARY:Sacramento Kings @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-13-sacramento-kings-vs-indiana-pacers@open-sports-cal
+DTSTART:20270213T190000Z
+DTEND:20270213T220000Z
+SUMMARY:Sacramento Kings @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-14-sacramento-kings-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270214T180000Z
+DTEND:20270214T210000Z
+SUMMARY:Sacramento Kings @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-indiana-pacers-vs-sacramento-kings@open-sports-cal
+DTSTART:20270218T030000Z
+DTEND:20270218T060000Z
+SUMMARY:Indiana Pacers @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-25-sacramento-kings-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270226T000000Z
+DTEND:20270226T030000Z
+SUMMARY:Sacramento Kings @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-27-sacramento-kings-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270228T010000Z
+DTEND:20270228T040000Z
+SUMMARY:Sacramento Kings @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-28-sacramento-kings-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270301T000000Z
+DTEND:20270301T030000Z
+SUMMARY:Sacramento Kings @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-02-washington-wizards-vs-sacramento-kings@open-sports-cal
+DTSTART:20270303T030000Z
+DTEND:20270303T060000Z
+SUMMARY:Washington Wizards @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-04-oklahoma-city-thunder-vs-sacramento-kings@open-sports-cal
+DTSTART:20270305T030000Z
+DTEND:20270305T060000Z
+SUMMARY:Oklahoma City Thunder @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-06-la-clippers-vs-sacramento-kings@open-sports-cal
+DTSTART:20270307T030000Z
+DTEND:20270307T060000Z
+SUMMARY:LA Clippers @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-08-denver-nuggets-vs-sacramento-kings@open-sports-cal
+DTSTART:20270309T030000Z
+DTEND:20270309T060000Z
+SUMMARY:Denver Nuggets @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-10-golden-state-warriors-vs-sacramento-kings@open-sports-cal
+DTSTART:20270311T030000Z
+DTEND:20270311T060000Z
+SUMMARY:Golden State Warriors @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-12-sacramento-kings-vs-utah-jazz@open-sports-cal
+DTSTART:20270313T023000Z
+DTEND:20270313T053000Z
+SUMMARY:Sacramento Kings @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-14-cleveland-cavaliers-vs-sacramento-kings@open-sports-cal
+DTSTART:20270314T220000Z
+DTEND:20270315T010000Z
+SUMMARY:Cleveland Cavaliers @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-16-sacramento-kings-vs-boston-celtics@open-sports-cal
+DTSTART:20270316T233000Z
+DTEND:20270317T023000Z
+SUMMARY:Sacramento Kings @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-17-sacramento-kings-vs-new-york-knicks@open-sports-cal
+DTSTART:20270317T233000Z
+DTEND:20270318T023000Z
+SUMMARY:Sacramento Kings @ New York Knicks
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-19-sacramento-kings-vs-toronto-raptors@open-sports-cal
+DTSTART:20270319T233000Z
+DTEND:20270320T023000Z
+SUMMARY:Sacramento Kings @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-21-sacramento-kings-vs-brooklyn-nets@open-sports-cal
+DTSTART:20270321T190000Z
+DTEND:20270321T220000Z
+SUMMARY:Sacramento Kings @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-22-sacramento-kings-vs-chicago-bulls@open-sports-cal
+DTSTART:20270323T000000Z
+DTEND:20270323T030000Z
+SUMMARY:Sacramento Kings @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-atlanta-hawks-vs-sacramento-kings@open-sports-cal
+DTSTART:20270325T020000Z
+DTEND:20270325T050000Z
+SUMMARY:Atlanta Hawks @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-27-toronto-raptors-vs-sacramento-kings@open-sports-cal
+DTSTART:20270328T020000Z
+DTEND:20270328T050000Z
+SUMMARY:Toronto Raptors @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-29-denver-nuggets-vs-sacramento-kings@open-sports-cal
+DTSTART:20270330T020000Z
+DTEND:20270330T050000Z
+SUMMARY:Denver Nuggets @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-31-sacramento-kings-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270401T000000Z
+DTEND:20270401T030000Z
+SUMMARY:Sacramento Kings @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-02-sacramento-kings-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270403T000000Z
+DTEND:20270403T030000Z
+SUMMARY:Sacramento Kings @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-golden-state-warriors-vs-sacramento-kings@open-sports-cal
+DTSTART:20270404T220000Z
+DTEND:20270405T010000Z
+SUMMARY:Golden State Warriors @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-06-sacramento-kings-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270407T000000Z
+DTEND:20270407T030000Z
+SUMMARY:Sacramento Kings @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-07-sacramento-kings-vs-houston-rockets@open-sports-cal
+DTSTART:20270408T003000Z
+DTEND:20270408T033000Z
+SUMMARY:Sacramento Kings @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-dallas-mavericks-vs-sacramento-kings@open-sports-cal
+DTSTART:20270410T020000Z
+DTEND:20270410T050000Z
+SUMMARY:Dallas Mavericks @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-sacramento-kings-vs-la-clippers@open-sports-cal
+DTSTART:20270412T003000Z
+DTEND:20270412T033000Z
+SUMMARY:Sacramento Kings @ LA Clippers
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR

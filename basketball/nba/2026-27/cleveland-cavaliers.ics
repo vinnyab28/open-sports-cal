@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Cleveland Cavaliers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-22-cleveland-cavaliers-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261022T230000Z
+DTEND:20261023T020000Z
+SUMMARY:Cleveland Cavaliers @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-24-brooklyn-nets-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261024T233000Z
+DTEND:20261025T023000Z
+SUMMARY:Brooklyn Nets @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-26-minnesota-timberwolves-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261026T230000Z
+DTEND:20261027T020000Z
+SUMMARY:Minnesota Timberwolves @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-28-washington-wizards-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261028T230000Z
+DTEND:20261029T020000Z
+SUMMARY:Washington Wizards @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-29-cleveland-cavaliers-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261029T230000Z
+DTEND:20261030T020000Z
+SUMMARY:Cleveland Cavaliers @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-31-cleveland-cavaliers-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20261101T000000Z
+DTEND:20261101T030000Z
+SUMMARY:Cleveland Cavaliers @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-oklahoma-city-thunder-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261103T000000Z
+DTEND:20261103T030000Z
+SUMMARY:Oklahoma City Thunder @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-cleveland-cavaliers-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261105T010000Z
+DTEND:20261105T040000Z
+SUMMARY:Cleveland Cavaliers @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-06-philadelphia-76ers-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261107T003000Z
+DTEND:20261107T033000Z
+SUMMARY:Philadelphia 76ers @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-07-new-york-knicks-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261108T010000Z
+DTEND:20261108T040000Z
+SUMMARY:New York Knicks @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-09-cleveland-cavaliers-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261110T000000Z
+DTEND:20261110T030000Z
+SUMMARY:Cleveland Cavaliers @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-11-cleveland-cavaliers-vs-new-york-knicks@open-sports-cal
+DTSTART:20261112T000000Z
+DTEND:20261112T030000Z
+SUMMARY:Cleveland Cavaliers @ New York Knicks
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-13-cleveland-cavaliers-vs-miami-heat@open-sports-cal
+DTSTART:20261114T010000Z
+DTEND:20261114T040000Z
+SUMMARY:Cleveland Cavaliers @ Miami Heat
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-14-dallas-mavericks-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261115T003000Z
+DTEND:20261115T033000Z
+SUMMARY:Dallas Mavericks @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-16-chicago-bulls-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261117T000000Z
+DTEND:20261117T030000Z
+SUMMARY:Chicago Bulls @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-memphis-grizzlies-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261119T000000Z
+DTEND:20261119T030000Z
+SUMMARY:Memphis Grizzlies @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-20-indiana-pacers-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261121T003000Z
+DTEND:20261121T033000Z
+SUMMARY:Indiana Pacers @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-23-cleveland-cavaliers-vs-chicago-bulls@open-sports-cal
+DTSTART:20261124T010000Z
+DTEND:20261124T040000Z
+SUMMARY:Cleveland Cavaliers @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-25-cleveland-cavaliers-vs-new-york-knicks@open-sports-cal
+DTSTART:20261126T003000Z
+DTEND:20261126T033000Z
+SUMMARY:Cleveland Cavaliers @ New York Knicks
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-29-miami-heat-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261129T230000Z
+DTEND:20261130T020000Z
+SUMMARY:Miami Heat @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-01-indiana-pacers-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261202T000000Z
+DTEND:20261202T030000Z
+SUMMARY:Indiana Pacers @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-03-cleveland-cavaliers-vs-chicago-bulls@open-sports-cal
+DTSTART:20261204T010000Z
+DTEND:20261204T040000Z
+SUMMARY:Cleveland Cavaliers @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-12-golden-state-warriors-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261213T010000Z
+DTEND:20261213T040000Z
+SUMMARY:Golden State Warriors @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-15-san-antonio-spurs-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261216T010000Z
+DTEND:20261216T040000Z
+SUMMARY:San Antonio Spurs @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-cleveland-cavaliers-vs-orlando-magic@open-sports-cal
+DTSTART:20261217T000000Z
+DTEND:20261217T030000Z
+SUMMARY:Cleveland Cavaliers @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-18-cleveland-cavaliers-vs-detroit-pistons@open-sports-cal
+DTSTART:20261219T003000Z
+DTEND:20261219T033000Z
+SUMMARY:Cleveland Cavaliers @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-20-utah-jazz-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261220T230000Z
+DTEND:20261221T020000Z
+SUMMARY:Utah Jazz @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-21-new-york-knicks-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261222T000000Z
+DTEND:20261222T030000Z
+SUMMARY:New York Knicks @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-cleveland-cavaliers-vs-washington-wizards@open-sports-cal
+DTSTART:20261224T000000Z
+DTEND:20261224T030000Z
+SUMMARY:Cleveland Cavaliers @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-27-washington-wizards-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261227T230000Z
+DTEND:20261228T020000Z
+SUMMARY:Washington Wizards @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-28-cleveland-cavaliers-vs-boston-celtics@open-sports-cal
+DTSTART:20261229T010000Z
+DTEND:20261229T040000Z
+SUMMARY:Cleveland Cavaliers @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-31-la-clippers-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261231T200000Z
+DTEND:20261231T230000Z
+SUMMARY:LA Clippers @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-02-cleveland-cavaliers-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270102T180000Z
+DTEND:20270102T210000Z
+SUMMARY:Cleveland Cavaliers @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-03-cleveland-cavaliers-vs-houston-rockets@open-sports-cal
+DTSTART:20270104T000000Z
+DTEND:20270104T030000Z
+SUMMARY:Cleveland Cavaliers @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-05-toronto-raptors-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270106T000000Z
+DTEND:20270106T030000Z
+SUMMARY:Toronto Raptors @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-cleveland-cavaliers-vs-orlando-magic@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Cleveland Cavaliers @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-09-denver-nuggets-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270109T220000Z
+DTEND:20270110T010000Z
+SUMMARY:Denver Nuggets @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-11-cleveland-cavaliers-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270112T010000Z
+DTEND:20270112T040000Z
+SUMMARY:Cleveland Cavaliers @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-13-cleveland-cavaliers-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270114T000000Z
+DTEND:20270114T030000Z
+SUMMARY:Cleveland Cavaliers @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-15-cleveland-cavaliers-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270116T010000Z
+DTEND:20270116T040000Z
+SUMMARY:Cleveland Cavaliers @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-16-cleveland-cavaliers-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270117T010000Z
+DTEND:20270117T040000Z
+SUMMARY:Cleveland Cavaliers @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-18-detroit-pistons-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270118T170000Z
+DTEND:20270118T200000Z
+SUMMARY:Detroit Pistons @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-21-cleveland-cavaliers-vs-brooklyn-nets@open-sports-cal
+DTSTART:20270122T003000Z
+DTEND:20270122T033000Z
+SUMMARY:Cleveland Cavaliers @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-23-cleveland-cavaliers-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270124T010000Z
+DTEND:20270124T040000Z
+SUMMARY:Cleveland Cavaliers @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-25-cleveland-cavaliers-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270126T010000Z
+DTEND:20270126T040000Z
+SUMMARY:Cleveland Cavaliers @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-27-detroit-pistons-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270128T000000Z
+DTEND:20270128T030000Z
+SUMMARY:Detroit Pistons @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-29-cleveland-cavaliers-vs-toronto-raptors@open-sports-cal
+DTSTART:20270130T000000Z
+DTEND:20270130T030000Z
+SUMMARY:Cleveland Cavaliers @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-30-new-orleans-pelicans-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270131T003000Z
+DTEND:20270131T033000Z
+SUMMARY:New Orleans Pelicans @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-01-cleveland-cavaliers-vs-utah-jazz@open-sports-cal
+DTSTART:20270202T020000Z
+DTEND:20270202T050000Z
+SUMMARY:Cleveland Cavaliers @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-03-cleveland-cavaliers-vs-phoenix-suns@open-sports-cal
+DTSTART:20270204T020000Z
+DTEND:20270204T050000Z
+SUMMARY:Cleveland Cavaliers @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-04-cleveland-cavaliers-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270205T030000Z
+DTEND:20270205T060000Z
+SUMMARY:Cleveland Cavaliers @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-06-orlando-magic-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270207T003000Z
+DTEND:20270207T033000Z
+SUMMARY:Orlando Magic @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-09-toronto-raptors-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270210T000000Z
+DTEND:20270210T030000Z
+SUMMARY:Toronto Raptors @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-10-cleveland-cavaliers-vs-indiana-pacers@open-sports-cal
+DTSTART:20270211T000000Z
+DTEND:20270211T030000Z
+SUMMARY:Cleveland Cavaliers @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-12-cleveland-cavaliers-vs-toronto-raptors@open-sports-cal
+DTSTART:20270213T003000Z
+DTEND:20270213T033000Z
+SUMMARY:Cleveland Cavaliers @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-14-phoenix-suns-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270214T180000Z
+DTEND:20270214T210000Z
+SUMMARY:Phoenix Suns @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-16-milwaukee-bucks-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270217T000000Z
+DTEND:20270217T030000Z
+SUMMARY:Milwaukee Bucks @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-milwaukee-bucks-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270218T000000Z
+DTEND:20270218T030000Z
+SUMMARY:Milwaukee Bucks @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-25-sacramento-kings-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270226T000000Z
+DTEND:20270226T030000Z
+SUMMARY:Sacramento Kings @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-26-cleveland-cavaliers-vs-boston-celtics@open-sports-cal
+DTSTART:20270227T003000Z
+DTEND:20270227T033000Z
+SUMMARY:Cleveland Cavaliers @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-01-philadelphia-76ers-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270302T000000Z
+DTEND:20270302T030000Z
+SUMMARY:Philadelphia 76ers @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-04-portland-trail-blazers-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270305T000000Z
+DTEND:20270305T030000Z
+SUMMARY:Portland Trail Blazers @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-06-atlanta-hawks-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270306T223000Z
+DTEND:20270307T013000Z
+SUMMARY:Atlanta Hawks @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-09-cleveland-cavaliers-vs-detroit-pistons@open-sports-cal
+DTSTART:20270310T010000Z
+DTEND:20270310T040000Z
+SUMMARY:Cleveland Cavaliers @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-11-cleveland-cavaliers-vs-la-clippers@open-sports-cal
+DTSTART:20270312T033000Z
+DTEND:20270312T063000Z
+SUMMARY:Cleveland Cavaliers @ LA Clippers
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-12-cleveland-cavaliers-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270313T030000Z
+DTEND:20270313T060000Z
+SUMMARY:Cleveland Cavaliers @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-14-cleveland-cavaliers-vs-sacramento-kings@open-sports-cal
+DTSTART:20270314T220000Z
+DTEND:20270315T010000Z
+SUMMARY:Cleveland Cavaliers @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-16-cleveland-cavaliers-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270317T020000Z
+DTEND:20270317T050000Z
+SUMMARY:Cleveland Cavaliers @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-18-cleveland-cavaliers-vs-denver-nuggets@open-sports-cal
+DTSTART:20270319T010000Z
+DTEND:20270319T040000Z
+SUMMARY:Cleveland Cavaliers @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-20-chicago-bulls-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270320T233000Z
+DTEND:20270321T023000Z
+SUMMARY:Chicago Bulls @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-22-houston-rockets-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270322T230000Z
+DTEND:20270323T020000Z
+SUMMARY:Houston Rockets @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-25-los-angeles-lakers-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270325T230000Z
+DTEND:20270326T020000Z
+SUMMARY:Los Angeles Lakers @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-29-miami-heat-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270329T230000Z
+DTEND:20270330T020000Z
+SUMMARY:Miami Heat @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-31-cleveland-cavaliers-vs-brooklyn-nets@open-sports-cal
+DTSTART:20270331T233000Z
+DTEND:20270401T023000Z
+SUMMARY:Cleveland Cavaliers @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-01-boston-celtics-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270401T230000Z
+DTEND:20270402T020000Z
+SUMMARY:Boston Celtics @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-charlotte-hornets-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270404T190000Z
+DTEND:20270404T220000Z
+SUMMARY:Charlotte Hornets @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-05-brooklyn-nets-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270405T230000Z
+DTEND:20270406T020000Z
+SUMMARY:Brooklyn Nets @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-07-cleveland-cavaliers-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270407T233000Z
+DTEND:20270408T023000Z
+SUMMARY:Cleveland Cavaliers @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-cleveland-cavaliers-vs-indiana-pacers@open-sports-cal
+DTSTART:20270409T230000Z
+DTEND:20270410T020000Z
+SUMMARY:Cleveland Cavaliers @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-atlanta-hawks-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270411T220000Z
+DTEND:20270412T010000Z
+SUMMARY:Atlanta Hawks @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

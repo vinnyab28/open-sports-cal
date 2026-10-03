@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - New Orleans Pelicans
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-21-indiana-pacers-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261022T000000Z
+DTEND:20261022T030000Z
+SUMMARY:Indiana Pacers @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-23-new-orleans-pelicans-vs-utah-jazz@open-sports-cal
+DTSTART:20261024T013000Z
+DTEND:20261024T043000Z
+SUMMARY:New Orleans Pelicans @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-24-new-orleans-pelicans-vs-denver-nuggets@open-sports-cal
+DTSTART:20261025T010000Z
+DTEND:20261025T040000Z
+SUMMARY:New Orleans Pelicans @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-28-denver-nuggets-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261029T000000Z
+DTEND:20261029T030000Z
+SUMMARY:Denver Nuggets @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-29-sacramento-kings-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261030T000000Z
+DTEND:20261030T030000Z
+SUMMARY:Sacramento Kings @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-31-atlanta-hawks-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261031T230000Z
+DTEND:20261101T020000Z
+SUMMARY:Atlanta Hawks @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-new-orleans-pelicans-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261103T010000Z
+DTEND:20261103T040000Z
+SUMMARY:New Orleans Pelicans @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-utah-jazz-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261105T010000Z
+DTEND:20261105T040000Z
+SUMMARY:Utah Jazz @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-06-minnesota-timberwolves-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:Minnesota Timberwolves @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-08-new-orleans-pelicans-vs-la-clippers@open-sports-cal
+DTSTART:20261109T020000Z
+DTEND:20261109T050000Z
+SUMMARY:New Orleans Pelicans @ LA Clippers
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-09-new-orleans-pelicans-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261110T030000Z
+DTEND:20261110T060000Z
+SUMMARY:New Orleans Pelicans @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-11-brooklyn-nets-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261112T010000Z
+DTEND:20261112T040000Z
+SUMMARY:Brooklyn Nets @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-13-memphis-grizzlies-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261114T010000Z
+DTEND:20261114T040000Z
+SUMMARY:Memphis Grizzlies @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-14-denver-nuggets-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+SUMMARY:Denver Nuggets @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-16-golden-state-warriors-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261117T010000Z
+DTEND:20261117T040000Z
+SUMMARY:Golden State Warriors @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-detroit-pistons-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261119T010000Z
+DTEND:20261119T040000Z
+SUMMARY:Detroit Pistons @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-20-new-orleans-pelicans-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261121T010000Z
+DTEND:20261121T040000Z
+SUMMARY:New Orleans Pelicans @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-21-new-orleans-pelicans-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261122T010000Z
+DTEND:20261122T040000Z
+SUMMARY:New Orleans Pelicans @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-23-phoenix-suns-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261124T010000Z
+DTEND:20261124T040000Z
+SUMMARY:Phoenix Suns @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-27-new-orleans-pelicans-vs-la-clippers@open-sports-cal
+DTSTART:20261128T023000Z
+DTEND:20261128T053000Z
+SUMMARY:New Orleans Pelicans @ LA Clippers
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-29-new-orleans-pelicans-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261129T230000Z
+DTEND:20261130T020000Z
+SUMMARY:New Orleans Pelicans @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-30-new-orleans-pelicans-vs-sacramento-kings@open-sports-cal
+DTSTART:20261201T030000Z
+DTEND:20261201T060000Z
+SUMMARY:New Orleans Pelicans @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-02-los-angeles-lakers-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261203T010000Z
+DTEND:20261203T040000Z
+SUMMARY:Los Angeles Lakers @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-13-new-orleans-pelicans-vs-sacramento-kings@open-sports-cal
+DTSTART:20261214T020000Z
+DTEND:20261214T050000Z
+SUMMARY:New Orleans Pelicans @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-14-new-orleans-pelicans-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20261215T030000Z
+DTEND:20261215T060000Z
+SUMMARY:New Orleans Pelicans @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-new-york-knicks-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261217T010000Z
+DTEND:20261217T040000Z
+SUMMARY:New York Knicks @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-18-sacramento-kings-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261219T010000Z
+DTEND:20261219T040000Z
+SUMMARY:Sacramento Kings @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-20-san-antonio-spurs-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261221T000000Z
+DTEND:20261221T030000Z
+SUMMARY:San Antonio Spurs @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-21-memphis-grizzlies-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261222T010000Z
+DTEND:20261222T040000Z
+SUMMARY:Memphis Grizzlies @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-oklahoma-city-thunder-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261224T010000Z
+DTEND:20261224T040000Z
+SUMMARY:Oklahoma City Thunder @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-26-new-orleans-pelicans-vs-brooklyn-nets@open-sports-cal
+DTSTART:20261226T230000Z
+DTEND:20261227T020000Z
+SUMMARY:New Orleans Pelicans @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-28-new-orleans-pelicans-vs-toronto-raptors@open-sports-cal
+DTSTART:20261229T003000Z
+DTEND:20261229T033000Z
+SUMMARY:New Orleans Pelicans @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-30-new-orleans-pelicans-vs-detroit-pistons@open-sports-cal
+DTSTART:20261231T000000Z
+DTEND:20261231T030000Z
+SUMMARY:New Orleans Pelicans @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-31-los-angeles-lakers-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270101T010000Z
+DTEND:20270101T040000Z
+SUMMARY:Los Angeles Lakers @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-02-miami-heat-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270103T000000Z
+DTEND:20270103T030000Z
+SUMMARY:Miami Heat @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nMiami Heat @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-04-dallas-mavericks-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270105T010000Z
+DTEND:20270105T040000Z
+SUMMARY:Dallas Mavericks @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-06-portland-trail-blazers-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270107T010000Z
+DTEND:20270107T040000Z
+SUMMARY:Portland Trail Blazers @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-08-orlando-magic-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270109T010000Z
+DTEND:20270109T040000Z
+SUMMARY:Orlando Magic @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-10-new-orleans-pelicans-vs-miami-heat@open-sports-cal
+DTSTART:20270110T230000Z
+DTEND:20270111T020000Z
+SUMMARY:New Orleans Pelicans @ Miami Heat
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-14-new-orleans-pelicans-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270114T190000Z
+DTEND:20270114T220000Z
+SUMMARY:New Orleans Pelicans @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ San Antonio Spurs\nAccor Arena
+LOCATION:Accor Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-17-san-antonio-spurs-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270117T153000Z
+DTEND:20270117T183000Z
+SUMMARY:San Antonio Spurs @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ New Orleans Pelicans\nCo-op Live
+LOCATION:Co-op Live
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-20-oklahoma-city-thunder-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270121T010000Z
+DTEND:20270121T040000Z
+SUMMARY:Oklahoma City Thunder @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-22-dallas-mavericks-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270123T010000Z
+DTEND:20270123T040000Z
+SUMMARY:Dallas Mavericks @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-25-cleveland-cavaliers-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270126T010000Z
+DTEND:20270126T040000Z
+SUMMARY:Cleveland Cavaliers @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-27-new-orleans-pelicans-vs-houston-rockets@open-sports-cal
+DTSTART:20270128T013000Z
+DTEND:20270128T043000Z
+SUMMARY:New Orleans Pelicans @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-28-philadelphia-76ers-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270129T010000Z
+DTEND:20270129T040000Z
+SUMMARY:Philadelphia 76ers @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-30-new-orleans-pelicans-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270131T003000Z
+DTEND:20270131T033000Z
+SUMMARY:New Orleans Pelicans @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-01-new-orleans-pelicans-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270202T000000Z
+DTEND:20270202T030000Z
+SUMMARY:New Orleans Pelicans @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-02-new-orleans-pelicans-vs-orlando-magic@open-sports-cal
+DTSTART:20270203T000000Z
+DTEND:20270203T030000Z
+SUMMARY:New Orleans Pelicans @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-04-new-orleans-pelicans-vs-washington-wizards@open-sports-cal
+DTSTART:20270205T000000Z
+DTEND:20270205T030000Z
+SUMMARY:New Orleans Pelicans @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-06-new-orleans-pelicans-vs-chicago-bulls@open-sports-cal
+DTSTART:20270207T010000Z
+DTEND:20270207T040000Z
+SUMMARY:New Orleans Pelicans @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-08-new-orleans-pelicans-vs-indiana-pacers@open-sports-cal
+DTSTART:20270209T000000Z
+DTEND:20270209T030000Z
+SUMMARY:New Orleans Pelicans @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-10-new-orleans-pelicans-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270211T000000Z
+DTEND:20270211T030000Z
+SUMMARY:New Orleans Pelicans @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-12-houston-rockets-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270213T010000Z
+DTEND:20270213T040000Z
+SUMMARY:Houston Rockets @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-14-la-clippers-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270214T190000Z
+DTEND:20270214T220000Z
+SUMMARY:LA Clippers @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nLA Clippers @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-16-new-orleans-pelicans-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270217T030000Z
+DTEND:20270217T060000Z
+SUMMARY:New Orleans Pelicans @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-new-orleans-pelicans-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270218T030000Z
+DTEND:20270218T060000Z
+SUMMARY:New Orleans Pelicans @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-25-phoenix-suns-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270226T010000Z
+DTEND:20270226T040000Z
+SUMMARY:Phoenix Suns @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-27-new-orleans-pelicans-vs-phoenix-suns@open-sports-cal
+DTSTART:20270228T020000Z
+DTEND:20270228T050000Z
+SUMMARY:New Orleans Pelicans @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-01-utah-jazz-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270302T010000Z
+DTEND:20270302T040000Z
+SUMMARY:Utah Jazz @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-03-new-orleans-pelicans-vs-houston-rockets@open-sports-cal
+DTSTART:20270304T013000Z
+DTEND:20270304T043000Z
+SUMMARY:New Orleans Pelicans @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-05-milwaukee-bucks-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270306T010000Z
+DTEND:20270306T040000Z
+SUMMARY:Milwaukee Bucks @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-06-new-orleans-pelicans-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270307T010000Z
+DTEND:20270307T040000Z
+SUMMARY:New Orleans Pelicans @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-08-new-orleans-pelicans-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270309T010000Z
+DTEND:20270309T040000Z
+SUMMARY:New Orleans Pelicans @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-10-new-orleans-pelicans-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270311T000000Z
+DTEND:20270311T030000Z
+SUMMARY:New Orleans Pelicans @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-12-toronto-raptors-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270313T010000Z
+DTEND:20270313T040000Z
+SUMMARY:Toronto Raptors @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-13-new-orleans-pelicans-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270314T010000Z
+DTEND:20270314T040000Z
+SUMMARY:New Orleans Pelicans @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-16-minnesota-timberwolves-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270317T000000Z
+DTEND:20270317T030000Z
+SUMMARY:Minnesota Timberwolves @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-18-charlotte-hornets-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270319T000000Z
+DTEND:20270319T030000Z
+SUMMARY:Charlotte Hornets @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-19-houston-rockets-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270320T000000Z
+DTEND:20270320T030000Z
+SUMMARY:Houston Rockets @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-21-new-orleans-pelicans-vs-boston-celtics@open-sports-cal
+DTSTART:20270321T190000Z
+DTEND:20270321T220000Z
+SUMMARY:New Orleans Pelicans @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-23-new-orleans-pelicans-vs-new-york-knicks@open-sports-cal
+DTSTART:20270323T233000Z
+DTEND:20270324T023000Z
+SUMMARY:New Orleans Pelicans @ New York Knicks
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-26-new-orleans-pelicans-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270327T000000Z
+DTEND:20270327T030000Z
+SUMMARY:New Orleans Pelicans @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-28-boston-celtics-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270328T230000Z
+DTEND:20270329T020000Z
+SUMMARY:Boston Celtics @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-31-new-orleans-pelicans-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270401T000000Z
+DTEND:20270401T030000Z
+SUMMARY:New Orleans Pelicans @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-03-new-orleans-pelicans-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270403T210000Z
+DTEND:20270404T000000Z
+SUMMARY:New Orleans Pelicans @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-05-washington-wizards-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270406T000000Z
+DTEND:20270406T030000Z
+SUMMARY:Washington Wizards @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-06-new-orleans-pelicans-vs-denver-nuggets@open-sports-cal
+DTSTART:20270407T010000Z
+DTEND:20270407T040000Z
+SUMMARY:New Orleans Pelicans @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-08-new-orleans-pelicans-vs-utah-jazz@open-sports-cal
+DTSTART:20270409T010000Z
+DTEND:20270409T040000Z
+SUMMARY:New Orleans Pelicans @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-chicago-bulls-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270411T220000Z
+DTEND:20270412T010000Z
+SUMMARY:Chicago Bulls @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

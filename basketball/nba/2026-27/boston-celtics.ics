@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Boston Celtics
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-20-boston-celtics-vs-detroit-pistons@open-sports-cal
+DTSTART:20261020T190000Z
+DTEND:20261020T220000Z
+SUMMARY:Boston Celtics @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-23-new-york-knicks-vs-boston-celtics@open-sports-cal
+DTSTART:20261023T230000Z
+DTEND:20261024T020000Z
+SUMMARY:New York Knicks @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-26-chicago-bulls-vs-boston-celtics@open-sports-cal
+DTSTART:20261026T233000Z
+DTEND:20261027T023000Z
+SUMMARY:Chicago Bulls @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-27-brooklyn-nets-vs-boston-celtics@open-sports-cal
+DTSTART:20261027T233000Z
+DTEND:20261028T023000Z
+SUMMARY:Brooklyn Nets @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-30-chicago-bulls-vs-boston-celtics@open-sports-cal
+DTSTART:20261030T233000Z
+DTEND:20261031T023000Z
+SUMMARY:Chicago Bulls @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-01-boston-celtics-vs-orlando-magic@open-sports-cal
+DTSTART:20261101T203000Z
+DTEND:20261101T233000Z
+SUMMARY:Boston Celtics @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-boston-celtics-vs-houston-rockets@open-sports-cal
+DTSTART:20261103T013000Z
+DTEND:20261103T043000Z
+SUMMARY:Boston Celtics @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-milwaukee-bucks-vs-boston-celtics@open-sports-cal
+DTSTART:20261105T003000Z
+DTEND:20261105T033000Z
+SUMMARY:Milwaukee Bucks @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-06-boston-celtics-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261107T000000Z
+DTEND:20261107T030000Z
+SUMMARY:Boston Celtics @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-08-boston-celtics-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20261109T010000Z
+DTEND:20261109T040000Z
+SUMMARY:Boston Celtics @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-10-boston-celtics-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261111T010000Z
+DTEND:20261111T040000Z
+SUMMARY:Boston Celtics @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-11-boston-celtics-vs-toronto-raptors@open-sports-cal
+DTSTART:20261112T000000Z
+DTEND:20261112T030000Z
+SUMMARY:Boston Celtics @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-15-dallas-mavericks-vs-boston-celtics@open-sports-cal
+DTSTART:20261115T230000Z
+DTEND:20261116T020000Z
+SUMMARY:Dallas Mavericks @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-16-orlando-magic-vs-boston-celtics@open-sports-cal
+DTSTART:20261117T000000Z
+DTEND:20261117T030000Z
+SUMMARY:Orlando Magic @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-boston-celtics-vs-denver-nuggets@open-sports-cal
+DTSTART:20261119T020000Z
+DTEND:20261119T050000Z
+SUMMARY:Boston Celtics @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-21-boston-celtics-vs-sacramento-kings@open-sports-cal
+DTSTART:20261122T030000Z
+DTEND:20261122T060000Z
+SUMMARY:Boston Celtics @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-22-boston-celtics-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261123T013000Z
+DTEND:20261123T043000Z
+SUMMARY:Boston Celtics @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-24-boston-celtics-vs-washington-wizards@open-sports-cal
+DTSTART:20261125T010000Z
+DTEND:20261125T040000Z
+SUMMARY:Boston Celtics @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-27-atlanta-hawks-vs-boston-celtics@open-sports-cal
+DTSTART:20261128T010000Z
+DTEND:20261128T040000Z
+SUMMARY:Atlanta Hawks @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-29-boston-celtics-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261129T210000Z
+DTEND:20261130T000000Z
+SUMMARY:Boston Celtics @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-30-boston-celtics-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261201T010000Z
+DTEND:20261201T040000Z
+SUMMARY:Boston Celtics @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-02-charlotte-hornets-vs-boston-celtics@open-sports-cal
+DTSTART:20261203T003000Z
+DTEND:20261203T033000Z
+SUMMARY:Charlotte Hornets @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-13-boston-celtics-vs-brooklyn-nets@open-sports-cal
+DTSTART:20261213T200000Z
+DTEND:20261213T230000Z
+SUMMARY:Boston Celtics @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-14-washington-wizards-vs-boston-celtics@open-sports-cal
+DTSTART:20261215T003000Z
+DTEND:20261215T033000Z
+SUMMARY:Washington Wizards @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-washington-wizards-vs-boston-celtics@open-sports-cal
+DTSTART:20261217T000000Z
+DTEND:20261217T030000Z
+SUMMARY:Washington Wizards @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-18-utah-jazz-vs-boston-celtics@open-sports-cal
+DTSTART:20261219T003000Z
+DTEND:20261219T033000Z
+SUMMARY:Utah Jazz @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-20-detroit-pistons-vs-boston-celtics@open-sports-cal
+DTSTART:20261221T010000Z
+DTEND:20261221T040000Z
+SUMMARY:Detroit Pistons @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-portland-trail-blazers-vs-boston-celtics@open-sports-cal
+DTSTART:20261224T003000Z
+DTEND:20261224T033000Z
+SUMMARY:Portland Trail Blazers @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-25-miami-heat-vs-boston-celtics@open-sports-cal
+DTSTART:20261225T193000Z
+DTEND:20261225T223000Z
+SUMMARY:Miami Heat @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-28-cleveland-cavaliers-vs-boston-celtics@open-sports-cal
+DTSTART:20261229T010000Z
+DTEND:20261229T040000Z
+SUMMARY:Cleveland Cavaliers @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-30-boston-celtics-vs-chicago-bulls@open-sports-cal
+DTSTART:20261231T010000Z
+DTEND:20261231T040000Z
+SUMMARY:Boston Celtics @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-01-boston-celtics-vs-utah-jazz@open-sports-cal
+DTSTART:20270102T023000Z
+DTEND:20270102T053000Z
+SUMMARY:Boston Celtics @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-02-boston-celtics-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270103T030000Z
+DTEND:20270103T060000Z
+SUMMARY:Boston Celtics @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-04-boston-celtics-vs-phoenix-suns@open-sports-cal
+DTSTART:20270105T020000Z
+DTEND:20270105T050000Z
+SUMMARY:Boston Celtics @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-boston-celtics-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270108T030000Z
+DTEND:20270108T060000Z
+SUMMARY:Boston Celtics @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-09-boston-celtics-vs-la-clippers@open-sports-cal
+DTSTART:20270110T033000Z
+DTEND:20270110T063000Z
+SUMMARY:Boston Celtics @ LA Clippers
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-11-houston-rockets-vs-boston-celtics@open-sports-cal
+DTSTART:20270112T003000Z
+DTEND:20270112T033000Z
+SUMMARY:Houston Rockets @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-13-new-york-knicks-vs-boston-celtics@open-sports-cal
+DTSTART:20270114T000000Z
+DTEND:20270114T030000Z
+SUMMARY:New York Knicks @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-16-brooklyn-nets-vs-boston-celtics@open-sports-cal
+DTSTART:20270117T000000Z
+DTEND:20270117T030000Z
+SUMMARY:Brooklyn Nets @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-18-boston-celtics-vs-washington-wizards@open-sports-cal
+DTSTART:20270118T200000Z
+DTEND:20270118T230000Z
+SUMMARY:Boston Celtics @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-20-indiana-pacers-vs-boston-celtics@open-sports-cal
+DTSTART:20270121T003000Z
+DTEND:20270121T033000Z
+SUMMARY:Indiana Pacers @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-21-philadelphia-76ers-vs-boston-celtics@open-sports-cal
+DTSTART:20270122T003000Z
+DTEND:20270122T033000Z
+SUMMARY:Philadelphia 76ers @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-23-charlotte-hornets-vs-boston-celtics@open-sports-cal
+DTSTART:20270124T000000Z
+DTEND:20270124T030000Z
+SUMMARY:Charlotte Hornets @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-25-toronto-raptors-vs-boston-celtics@open-sports-cal
+DTSTART:20270126T000000Z
+DTEND:20270126T030000Z
+SUMMARY:Toronto Raptors @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-27-la-clippers-vs-boston-celtics@open-sports-cal
+DTSTART:20270128T003000Z
+DTEND:20270128T033000Z
+SUMMARY:LA Clippers @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-29-phoenix-suns-vs-boston-celtics@open-sports-cal
+DTSTART:20270130T003000Z
+DTEND:20270130T033000Z
+SUMMARY:Phoenix Suns @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-31-boston-celtics-vs-toronto-raptors@open-sports-cal
+DTSTART:20270131T230000Z
+DTEND:20270201T020000Z
+SUMMARY:Boston Celtics @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-02-los-angeles-lakers-vs-boston-celtics@open-sports-cal
+DTSTART:20270203T010000Z
+DTEND:20270203T040000Z
+SUMMARY:Los Angeles Lakers @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-04-boston-celtics-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270205T003000Z
+DTEND:20270205T033000Z
+SUMMARY:Boston Celtics @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-05-boston-celtics-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270206T000000Z
+DTEND:20270206T030000Z
+SUMMARY:Boston Celtics @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-07-boston-celtics-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270208T000000Z
+DTEND:20270208T030000Z
+SUMMARY:Boston Celtics @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-09-denver-nuggets-vs-boston-celtics@open-sports-cal
+DTSTART:20270210T003000Z
+DTEND:20270210T033000Z
+SUMMARY:Denver Nuggets @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-10-golden-state-warriors-vs-boston-celtics@open-sports-cal
+DTSTART:20270211T003000Z
+DTEND:20270211T033000Z
+SUMMARY:Golden State Warriors @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-12-minnesota-timberwolves-vs-boston-celtics@open-sports-cal
+DTSTART:20270213T010000Z
+DTEND:20270213T040000Z
+SUMMARY:Minnesota Timberwolves @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-14-toronto-raptors-vs-boston-celtics@open-sports-cal
+DTSTART:20270214T180000Z
+DTEND:20270214T210000Z
+SUMMARY:Toronto Raptors @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-boston-celtics-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270218T023000Z
+DTEND:20270218T053000Z
+SUMMARY:Boston Celtics @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-18-boston-celtics-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270219T010000Z
+DTEND:20270219T040000Z
+SUMMARY:Boston Celtics @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-26-cleveland-cavaliers-vs-boston-celtics@open-sports-cal
+DTSTART:20270227T003000Z
+DTEND:20270227T033000Z
+SUMMARY:Cleveland Cavaliers @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-28-boston-celtics-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270301T000000Z
+DTEND:20270301T030000Z
+SUMMARY:Boston Celtics @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-02-boston-celtics-vs-indiana-pacers@open-sports-cal
+DTSTART:20270303T000000Z
+DTEND:20270303T030000Z
+SUMMARY:Boston Celtics @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-05-boston-celtics-vs-detroit-pistons@open-sports-cal
+DTSTART:20270306T000000Z
+DTEND:20270306T030000Z
+SUMMARY:Boston Celtics @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-07-philadelphia-76ers-vs-boston-celtics@open-sports-cal
+DTSTART:20270307T180000Z
+DTEND:20270307T210000Z
+SUMMARY:Philadelphia 76ers @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-09-boston-celtics-vs-chicago-bulls@open-sports-cal
+DTSTART:20270310T010000Z
+DTEND:20270310T040000Z
+SUMMARY:Boston Celtics @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-11-memphis-grizzlies-vs-boston-celtics@open-sports-cal
+DTSTART:20270312T003000Z
+DTEND:20270312T033000Z
+SUMMARY:Memphis Grizzlies @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-12-oklahoma-city-thunder-vs-boston-celtics@open-sports-cal
+DTSTART:20270313T003000Z
+DTEND:20270313T033000Z
+SUMMARY:Oklahoma City Thunder @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-14-boston-celtics-vs-new-york-knicks@open-sports-cal
+DTSTART:20270314T160000Z
+DTEND:20270314T190000Z
+SUMMARY:Boston Celtics @ New York Knicks
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-16-sacramento-kings-vs-boston-celtics@open-sports-cal
+DTSTART:20270316T233000Z
+DTEND:20270317T023000Z
+SUMMARY:Sacramento Kings @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-18-orlando-magic-vs-boston-celtics@open-sports-cal
+DTSTART:20270318T233000Z
+DTEND:20270319T023000Z
+SUMMARY:Orlando Magic @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-21-new-orleans-pelicans-vs-boston-celtics@open-sports-cal
+DTSTART:20270321T190000Z
+DTEND:20270321T220000Z
+SUMMARY:New Orleans Pelicans @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-23-boston-celtics-vs-brooklyn-nets@open-sports-cal
+DTSTART:20270323T233000Z
+DTEND:20270324T023000Z
+SUMMARY:Boston Celtics @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-san-antonio-spurs-vs-boston-celtics@open-sports-cal
+DTSTART:20270324T233000Z
+DTEND:20270325T023000Z
+SUMMARY:San Antonio Spurs @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-27-boston-celtics-vs-miami-heat@open-sports-cal
+DTSTART:20270328T000000Z
+DTEND:20270328T030000Z
+SUMMARY:Boston Celtics @ Miami Heat
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-28-boston-celtics-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270328T230000Z
+DTEND:20270329T020000Z
+SUMMARY:Boston Celtics @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-30-boston-celtics-vs-indiana-pacers@open-sports-cal
+DTSTART:20270331T000000Z
+DTEND:20270331T030000Z
+SUMMARY:Boston Celtics @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-01-boston-celtics-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270401T230000Z
+DTEND:20270402T020000Z
+SUMMARY:Boston Celtics @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-02-miami-heat-vs-boston-celtics@open-sports-cal
+DTSTART:20270402T233000Z
+DTEND:20270403T023000Z
+SUMMARY:Miami Heat @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-boston-celtics-vs-new-york-knicks@open-sports-cal
+DTSTART:20270404T233000Z
+DTEND:20270405T023000Z
+SUMMARY:Boston Celtics @ New York Knicks
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-07-boston-celtics-vs-orlando-magic@open-sports-cal
+DTSTART:20270407T230000Z
+DTEND:20270408T020000Z
+SUMMARY:Boston Celtics @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-boston-celtics-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270409T230000Z
+DTEND:20270410T020000Z
+SUMMARY:Boston Celtics @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-milwaukee-bucks-vs-boston-celtics@open-sports-cal
+DTSTART:20270411T220000Z
+DTEND:20270412T010000Z
+SUMMARY:Milwaukee Bucks @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

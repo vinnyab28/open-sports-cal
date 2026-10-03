@@ -1,0 +1,1791 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MLB 2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLB 2027 - Minnesota Twins
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-25-minnesota-twins-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Minnesota Twins @ Kansas City Royals
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-27-minnesota-twins-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Minnesota Twins @ Kansas City Royals
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-28-minnesota-twins-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Minnesota Twins @ Kansas City Royals
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-29-minnesota-twins-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Minnesota Twins @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-30-minnesota-twins-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Minnesota Twins @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-31-minnesota-twins-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Minnesota Twins @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-02-tampa-bay-rays-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Tampa Bay Rays @ Minnesota Twins
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-03-tampa-bay-rays-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Tampa Bay Rays @ Minnesota Twins
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-04-tampa-bay-rays-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Tampa Bay Rays @ Minnesota Twins
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-05-tampa-bay-rays-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Tampa Bay Rays @ Minnesota Twins
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-06-washington-nationals-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Washington Nationals @ Minnesota Twins
+DESCRIPTION:MLB 2027\nWashington Nationals @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-07-washington-nationals-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Washington Nationals @ Minnesota Twins
+DESCRIPTION:MLB 2027\nWashington Nationals @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-08-washington-nationals-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:Washington Nationals @ Minnesota Twins
+DESCRIPTION:MLB 2027\nWashington Nationals @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-09-minnesota-twins-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Minnesota Twins @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-10-minnesota-twins-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Minnesota Twins @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-11-minnesota-twins-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Minnesota Twins @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-13-minnesota-twins-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Minnesota Twins @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-14-minnesota-twins-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Minnesota Twins @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-15-minnesota-twins-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Minnesota Twins @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-16-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-17-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-18-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-19-minnesota-twins-vs-st-louis-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Minnesota Twins @ St. Louis Cardinals
+DESCRIPTION:MLB 2027\nMinnesota Twins @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-20-minnesota-twins-vs-st-louis-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Minnesota Twins @ St. Louis Cardinals
+DESCRIPTION:MLB 2027\nMinnesota Twins @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-21-minnesota-twins-vs-st-louis-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Minnesota Twins @ St. Louis Cardinals
+DESCRIPTION:MLB 2027\nMinnesota Twins @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-23-san-diego-padres-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:San Diego Padres @ Minnesota Twins
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-24-san-diego-padres-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:San Diego Padres @ Minnesota Twins
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-25-san-diego-padres-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:San Diego Padres @ Minnesota Twins
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-27-athletics-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Athletics @ Minnesota Twins
+DESCRIPTION:MLB 2027\nAthletics @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-28-athletics-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Athletics @ Minnesota Twins
+DESCRIPTION:MLB 2027\nAthletics @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-29-athletics-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Athletics @ Minnesota Twins
+DESCRIPTION:MLB 2027\nAthletics @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-30-minnesota-twins-vs-seattle-mariners@open-sports-cal
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Minnesota Twins @ Seattle Mariners
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Seattle Mariners\nT-Mobile Park\nStart time TBD
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-01-minnesota-twins-vs-seattle-mariners@open-sports-cal
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Minnesota Twins @ Seattle Mariners
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Seattle Mariners\nT-Mobile Park\nStart time TBD
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-02-minnesota-twins-vs-seattle-mariners@open-sports-cal
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Minnesota Twins @ Seattle Mariners
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Seattle Mariners\nT-Mobile Park\nStart time TBD
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-03-minnesota-twins-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Minnesota Twins @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-04-minnesota-twins-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Minnesota Twins @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-05-minnesota-twins-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Minnesota Twins @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-06-minnesota-twins-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Minnesota Twins @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-07-pittsburgh-pirates-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Pittsburgh Pirates @ Minnesota Twins
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-08-pittsburgh-pirates-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Pittsburgh Pirates @ Minnesota Twins
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-09-pittsburgh-pirates-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Pittsburgh Pirates @ Minnesota Twins
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-10-houston-astros-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:Houston Astros @ Minnesota Twins
+DESCRIPTION:MLB 2027\nHouston Astros @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-11-houston-astros-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:Houston Astros @ Minnesota Twins
+DESCRIPTION:MLB 2027\nHouston Astros @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-12-houston-astros-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Houston Astros @ Minnesota Twins
+DESCRIPTION:MLB 2027\nHouston Astros @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-14-minnesota-twins-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Minnesota Twins @ Colorado Rockies
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-15-minnesota-twins-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Minnesota Twins @ Colorado Rockies
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-16-minnesota-twins-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Minnesota Twins @ Colorado Rockies
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-17-minnesota-twins-vs-athletics@open-sports-cal
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Minnesota Twins @ Athletics
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Athletics\nSutter Health Park\nStart time TBD
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-18-minnesota-twins-vs-athletics@open-sports-cal
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Minnesota Twins @ Athletics
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Athletics\nSutter Health Park\nStart time TBD
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-19-minnesota-twins-vs-athletics@open-sports-cal
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Minnesota Twins @ Athletics
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Athletics\nSutter Health Park\nStart time TBD
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-21-new-york-mets-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:New York Mets @ Minnesota Twins
+DESCRIPTION:MLB 2027\nNew York Mets @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-22-new-york-mets-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:New York Mets @ Minnesota Twins
+DESCRIPTION:MLB 2027\nNew York Mets @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-23-new-york-mets-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:New York Mets @ Minnesota Twins
+DESCRIPTION:MLB 2027\nNew York Mets @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-24-texas-rangers-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Texas Rangers @ Minnesota Twins
+DESCRIPTION:MLB 2027\nTexas Rangers @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-25-texas-rangers-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Texas Rangers @ Minnesota Twins
+DESCRIPTION:MLB 2027\nTexas Rangers @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-26-texas-rangers-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Texas Rangers @ Minnesota Twins
+DESCRIPTION:MLB 2027\nTexas Rangers @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-28-minnesota-twins-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Minnesota Twins @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-29-minnesota-twins-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Minnesota Twins @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-30-minnesota-twins-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Minnesota Twins @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-31-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-01-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-02-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-04-minnesota-twins-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Minnesota Twins @ Atlanta Braves
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-05-minnesota-twins-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Minnesota Twins @ Atlanta Braves
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-06-minnesota-twins-vs-atlanta-braves@open-sports-cal
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Minnesota Twins @ Atlanta Braves
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Atlanta Braves\nTruist Park\nStart time TBD
+LOCATION:Truist Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-07-los-angeles-angels-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:Los Angeles Angels @ Minnesota Twins
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-08-los-angeles-angels-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Los Angeles Angels @ Minnesota Twins
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-09-los-angeles-angels-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Los Angeles Angels @ Minnesota Twins
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-10-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago White Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-11-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago White Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-12-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago White Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-13-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago White Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-14-minnesota-twins-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Minnesota Twins @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-15-minnesota-twins-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Minnesota Twins @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-16-minnesota-twins-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Minnesota Twins @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-18-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-19-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-20-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-21-new-york-yankees-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:New York Yankees @ Minnesota Twins
+DESCRIPTION:MLB 2027\nNew York Yankees @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-22-new-york-yankees-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:New York Yankees @ Minnesota Twins
+DESCRIPTION:MLB 2027\nNew York Yankees @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-23-new-york-yankees-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:New York Yankees @ Minnesota Twins
+DESCRIPTION:MLB 2027\nNew York Yankees @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-24-cleveland-guardians-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Cleveland Guardians @ Minnesota Twins
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-25-cleveland-guardians-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Cleveland Guardians @ Minnesota Twins
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-26-cleveland-guardians-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Cleveland Guardians @ Minnesota Twins
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-27-cleveland-guardians-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Cleveland Guardians @ Minnesota Twins
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-29-minnesota-twins-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Minnesota Twins @ Boston Red Sox
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-30-minnesota-twins-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Minnesota Twins @ Boston Red Sox
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-01-minnesota-twins-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Minnesota Twins @ Boston Red Sox
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-02-minnesota-twins-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:Minnesota Twins @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-03-minnesota-twins-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Minnesota Twins @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-04-minnesota-twins-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Minnesota Twins @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-06-kansas-city-royals-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Kansas City Royals @ Minnesota Twins
+DESCRIPTION:MLB 2027\nKansas City Royals @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-07-kansas-city-royals-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Kansas City Royals @ Minnesota Twins
+DESCRIPTION:MLB 2027\nKansas City Royals @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-08-kansas-city-royals-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Kansas City Royals @ Minnesota Twins
+DESCRIPTION:MLB 2027\nKansas City Royals @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-09-boston-red-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Boston Red Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-10-boston-red-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Boston Red Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-11-boston-red-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Boston Red Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-16-minnesota-twins-vs-milwaukee-brewers@open-sports-cal
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Minnesota Twins @ Milwaukee Brewers
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-17-minnesota-twins-vs-milwaukee-brewers@open-sports-cal
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Minnesota Twins @ Milwaukee Brewers
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-18-minnesota-twins-vs-milwaukee-brewers@open-sports-cal
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Minnesota Twins @ Milwaukee Brewers
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+LOCATION:American Family Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-19-minnesota-twins-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:Minnesota Twins @ Texas Rangers
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-20-minnesota-twins-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Minnesota Twins @ Texas Rangers
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-21-minnesota-twins-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Minnesota Twins @ Texas Rangers
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-23-chicago-cubs-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Chicago Cubs @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago Cubs @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-24-chicago-cubs-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:Chicago Cubs @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago Cubs @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-25-chicago-cubs-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Chicago Cubs @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago Cubs @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-26-toronto-blue-jays-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Toronto Blue Jays @ Minnesota Twins
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-27-toronto-blue-jays-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Toronto Blue Jays @ Minnesota Twins
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-28-toronto-blue-jays-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:Toronto Blue Jays @ Minnesota Twins
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-29-minnesota-twins-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:Minnesota Twins @ Kansas City Royals
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-30-minnesota-twins-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Minnesota Twins @ Kansas City Royals
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-31-minnesota-twins-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Minnesota Twins @ Kansas City Royals
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-01-minnesota-twins-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Minnesota Twins @ Kansas City Royals
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-03-minnesota-twins-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Minnesota Twins @ New York Yankees
+DESCRIPTION:MLB 2027\nMinnesota Twins @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-04-minnesota-twins-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Minnesota Twins @ New York Yankees
+DESCRIPTION:MLB 2027\nMinnesota Twins @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-05-minnesota-twins-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:Minnesota Twins @ New York Yankees
+DESCRIPTION:MLB 2027\nMinnesota Twins @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-06-cleveland-guardians-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:Cleveland Guardians @ Minnesota Twins
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-07-cleveland-guardians-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:Cleveland Guardians @ Minnesota Twins
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-08-cleveland-guardians-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:Cleveland Guardians @ Minnesota Twins
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-09-kansas-city-royals-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:Kansas City Royals @ Minnesota Twins
+DESCRIPTION:MLB 2027\nKansas City Royals @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-10-kansas-city-royals-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Kansas City Royals @ Minnesota Twins
+DESCRIPTION:MLB 2027\nKansas City Royals @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-11-kansas-city-royals-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Kansas City Royals @ Minnesota Twins
+DESCRIPTION:MLB 2027\nKansas City Royals @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-13-minnesota-twins-vs-houston-astros@open-sports-cal
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Minnesota Twins @ Houston Astros
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Houston Astros\nDaikin Park\nStart time TBD
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-14-minnesota-twins-vs-houston-astros@open-sports-cal
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Minnesota Twins @ Houston Astros
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Houston Astros\nDaikin Park\nStart time TBD
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-15-minnesota-twins-vs-houston-astros@open-sports-cal
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Minnesota Twins @ Houston Astros
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Houston Astros\nDaikin Park\nStart time TBD
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-16-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago White Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-17-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago White Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-18-chicago-white-sox-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Chicago White Sox @ Minnesota Twins
+DESCRIPTION:MLB 2027\nChicago White Sox @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-20-seattle-mariners-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:Seattle Mariners @ Minnesota Twins
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-21-seattle-mariners-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Seattle Mariners @ Minnesota Twins
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-22-seattle-mariners-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Seattle Mariners @ Minnesota Twins
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-23-minnesota-twins-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:Minnesota Twins @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-24-minnesota-twins-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Minnesota Twins @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-25-minnesota-twins-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Minnesota Twins @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-27-minnesota-twins-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Minnesota Twins @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-28-minnesota-twins-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Minnesota Twins @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-29-minnesota-twins-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Minnesota Twins @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-31-arizona-diamondbacks-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Arizona Diamondbacks @ Minnesota Twins
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-01-arizona-diamondbacks-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Arizona Diamondbacks @ Minnesota Twins
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-02-arizona-diamondbacks-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:Arizona Diamondbacks @ Minnesota Twins
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-03-baltimore-orioles-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:Baltimore Orioles @ Minnesota Twins
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-04-baltimore-orioles-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Baltimore Orioles @ Minnesota Twins
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-05-baltimore-orioles-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:Baltimore Orioles @ Minnesota Twins
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-06-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-07-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-08-minnesota-twins-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Minnesota Twins @ Chicago White Sox
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-10-milwaukee-brewers-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Milwaukee Brewers @ Minnesota Twins
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-11-milwaukee-brewers-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Milwaukee Brewers @ Minnesota Twins
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-12-milwaukee-brewers-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Milwaukee Brewers @ Minnesota Twins
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-13-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-14-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-15-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-16-minnesota-twins-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Minnesota Twins @ Detroit Tigers
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-17-minnesota-twins-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:Minnesota Twins @ Miami Marlins
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-18-minnesota-twins-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:Minnesota Twins @ Miami Marlins
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-19-minnesota-twins-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Minnesota Twins @ Miami Marlins
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-21-san-francisco-giants-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:San Francisco Giants @ Minnesota Twins
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-22-san-francisco-giants-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:San Francisco Giants @ Minnesota Twins
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-23-san-francisco-giants-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:San Francisco Giants @ Minnesota Twins
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-24-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-25-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-26-detroit-tigers-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Detroit Tigers @ Minnesota Twins
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+END:VCALENDAR

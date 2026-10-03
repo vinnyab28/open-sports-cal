@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Atlanta Hawks
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-21-atlanta-hawks-vs-orlando-magic@open-sports-cal
+DTSTART:20261021T230000Z
+DTEND:20261022T020000Z
+SUMMARY:Atlanta Hawks @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-23-atlanta-hawks-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261023T230000Z
+DTEND:20261024T020000Z
+SUMMARY:Atlanta Hawks @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-24-houston-rockets-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261025T000000Z
+DTEND:20261025T030000Z
+SUMMARY:Houston Rockets @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-26-atlanta-hawks-vs-houston-rockets@open-sports-cal
+DTSTART:20261027T003000Z
+DTEND:20261027T033000Z
+SUMMARY:Atlanta Hawks @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-28-miami-heat-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261028T230000Z
+DTEND:20261029T020000Z
+SUMMARY:Miami Heat @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-29-cleveland-cavaliers-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261029T230000Z
+DTEND:20261030T020000Z
+SUMMARY:Cleveland Cavaliers @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-31-atlanta-hawks-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261031T230000Z
+DTEND:20261101T020000Z
+SUMMARY:Atlanta Hawks @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-atlanta-hawks-vs-indiana-pacers@open-sports-cal
+DTSTART:20261103T003000Z
+DTEND:20261103T033000Z
+SUMMARY:Atlanta Hawks @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-atlanta-hawks-vs-washington-wizards@open-sports-cal
+DTSTART:20261105T000000Z
+DTEND:20261105T030000Z
+SUMMARY:Atlanta Hawks @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-06-washington-wizards-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261107T000000Z
+DTEND:20261107T030000Z
+SUMMARY:Washington Wizards @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-07-brooklyn-nets-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261108T003000Z
+DTEND:20261108T033000Z
+SUMMARY:Brooklyn Nets @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-09-los-angeles-lakers-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261110T000000Z
+DTEND:20261110T030000Z
+SUMMARY:Los Angeles Lakers @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-13-atlanta-hawks-vs-chicago-bulls@open-sports-cal
+DTSTART:20261114T010000Z
+DTEND:20261114T040000Z
+SUMMARY:Atlanta Hawks @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-15-atlanta-hawks-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20261116T010000Z
+DTEND:20261116T040000Z
+SUMMARY:Atlanta Hawks @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-atlanta-hawks-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261119T010000Z
+DTEND:20261119T040000Z
+SUMMARY:Atlanta Hawks @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-20-charlotte-hornets-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261121T000000Z
+DTEND:20261121T030000Z
+SUMMARY:Charlotte Hornets @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-22-detroit-pistons-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261122T203000Z
+DTEND:20261122T233000Z
+SUMMARY:Detroit Pistons @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-27-atlanta-hawks-vs-boston-celtics@open-sports-cal
+DTSTART:20261128T010000Z
+DTEND:20261128T040000Z
+SUMMARY:Atlanta Hawks @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-29-atlanta-hawks-vs-new-york-knicks@open-sports-cal
+DTSTART:20261129T230000Z
+DTEND:20261130T020000Z
+SUMMARY:Atlanta Hawks @ New York Knicks
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-01-atlanta-hawks-vs-miami-heat@open-sports-cal
+DTSTART:20261202T003000Z
+DTEND:20261202T033000Z
+SUMMARY:Atlanta Hawks @ Miami Heat
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-03-indiana-pacers-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261204T000000Z
+DTEND:20261204T030000Z
+SUMMARY:Indiana Pacers @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-12-atlanta-hawks-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261213T030000Z
+DTEND:20261213T060000Z
+SUMMARY:Atlanta Hawks @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-14-atlanta-hawks-vs-phoenix-suns@open-sports-cal
+DTSTART:20261215T020000Z
+DTEND:20261215T050000Z
+SUMMARY:Atlanta Hawks @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-17-atlanta-hawks-vs-denver-nuggets@open-sports-cal
+DTSTART:20261218T020000Z
+DTEND:20261218T050000Z
+SUMMARY:Atlanta Hawks @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-19-orlando-magic-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261220T000000Z
+DTEND:20261220T030000Z
+SUMMARY:Orlando Magic @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-20-oklahoma-city-thunder-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261221T000000Z
+DTEND:20261221T030000Z
+SUMMARY:Oklahoma City Thunder @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-detroit-pistons-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261224T000000Z
+DTEND:20261224T030000Z
+SUMMARY:Detroit Pistons @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-26-charlotte-hornets-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261226T203000Z
+DTEND:20261226T233000Z
+SUMMARY:Charlotte Hornets @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-27-atlanta-hawks-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261228T000000Z
+DTEND:20261228T030000Z
+SUMMARY:Atlanta Hawks @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-29-chicago-bulls-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261230T000000Z
+DTEND:20261230T030000Z
+SUMMARY:Chicago Bulls @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-31-milwaukee-bucks-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261231T200000Z
+DTEND:20261231T230000Z
+SUMMARY:Milwaukee Bucks @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-02-dallas-mavericks-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270103T003000Z
+DTEND:20270103T033000Z
+SUMMARY:Dallas Mavericks @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-04-atlanta-hawks-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270105T000000Z
+DTEND:20270105T030000Z
+SUMMARY:Atlanta Hawks @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-05-atlanta-hawks-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270106T000000Z
+DTEND:20270106T030000Z
+SUMMARY:Atlanta Hawks @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-indiana-pacers-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Indiana Pacers @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-10-san-antonio-spurs-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270110T200000Z
+DTEND:20270110T230000Z
+SUMMARY:San Antonio Spurs @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-11-atlanta-hawks-vs-washington-wizards@open-sports-cal
+DTSTART:20270112T000000Z
+DTEND:20270112T030000Z
+SUMMARY:Atlanta Hawks @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-13-cleveland-cavaliers-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270114T000000Z
+DTEND:20270114T030000Z
+SUMMARY:Cleveland Cavaliers @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-15-golden-state-warriors-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270116T000000Z
+DTEND:20270116T030000Z
+SUMMARY:Golden State Warriors @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-18-philadelphia-76ers-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270118T193000Z
+DTEND:20270118T223000Z
+SUMMARY:Philadelphia 76ers @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-20-portland-trail-blazers-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270121T000000Z
+DTEND:20270121T030000Z
+SUMMARY:Portland Trail Blazers @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-22-new-york-knicks-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270123T000000Z
+DTEND:20270123T030000Z
+SUMMARY:New York Knicks @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-23-atlanta-hawks-vs-miami-heat@open-sports-cal
+DTSTART:20270124T010000Z
+DTEND:20270124T040000Z
+SUMMARY:Atlanta Hawks @ Miami Heat
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-26-atlanta-hawks-vs-detroit-pistons@open-sports-cal
+DTSTART:20270127T000000Z
+DTEND:20270127T030000Z
+SUMMARY:Atlanta Hawks @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-28-atlanta-hawks-vs-new-york-knicks@open-sports-cal
+DTSTART:20270129T000000Z
+DTEND:20270129T030000Z
+SUMMARY:Atlanta Hawks @ New York Knicks
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-30-atlanta-hawks-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270131T010000Z
+DTEND:20270131T040000Z
+SUMMARY:Atlanta Hawks @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-01-washington-wizards-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270202T000000Z
+DTEND:20270202T030000Z
+SUMMARY:Washington Wizards @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-03-atlanta-hawks-vs-indiana-pacers@open-sports-cal
+DTSTART:20270204T000000Z
+DTEND:20270204T030000Z
+SUMMARY:Atlanta Hawks @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-05-boston-celtics-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270206T000000Z
+DTEND:20270206T030000Z
+SUMMARY:Boston Celtics @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-07-denver-nuggets-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270207T200000Z
+DTEND:20270207T230000Z
+SUMMARY:Denver Nuggets @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-08-miami-heat-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270209T000000Z
+DTEND:20270209T030000Z
+SUMMARY:Miami Heat @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-10-new-orleans-pelicans-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270211T000000Z
+DTEND:20270211T030000Z
+SUMMARY:New Orleans Pelicans @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-12-phoenix-suns-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270213T000000Z
+DTEND:20270213T030000Z
+SUMMARY:Phoenix Suns @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-14-sacramento-kings-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270214T180000Z
+DTEND:20270214T210000Z
+SUMMARY:Sacramento Kings @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-16-toronto-raptors-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270217T010000Z
+DTEND:20270217T040000Z
+SUMMARY:Toronto Raptors @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-atlanta-hawks-vs-brooklyn-nets@open-sports-cal
+DTSTART:20270218T003000Z
+DTEND:20270218T033000Z
+SUMMARY:Atlanta Hawks @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-25-atlanta-hawks-vs-chicago-bulls@open-sports-cal
+DTSTART:20270226T010000Z
+DTEND:20270226T040000Z
+SUMMARY:Atlanta Hawks @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-26-atlanta-hawks-vs-toronto-raptors@open-sports-cal
+DTSTART:20270227T003000Z
+DTEND:20270227T033000Z
+SUMMARY:Atlanta Hawks @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-28-atlanta-hawks-vs-orlando-magic@open-sports-cal
+DTSTART:20270228T213000Z
+DTEND:20270301T003000Z
+SUMMARY:Atlanta Hawks @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-03-chicago-bulls-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270304T000000Z
+DTEND:20270304T030000Z
+SUMMARY:Chicago Bulls @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-04-memphis-grizzlies-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270305T003000Z
+DTEND:20270305T033000Z
+SUMMARY:Memphis Grizzlies @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-06-atlanta-hawks-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270306T223000Z
+DTEND:20270307T013000Z
+SUMMARY:Atlanta Hawks @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-08-atlanta-hawks-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270309T010000Z
+DTEND:20270309T040000Z
+SUMMARY:Atlanta Hawks @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-10-atlanta-hawks-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270311T023000Z
+DTEND:20270311T053000Z
+SUMMARY:Atlanta Hawks @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-11-brooklyn-nets-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270312T010000Z
+DTEND:20270312T040000Z
+SUMMARY:Brooklyn Nets @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-13-orlando-magic-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270313T200000Z
+DTEND:20270313T230000Z
+SUMMARY:Orlando Magic @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-15-atlanta-hawks-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270316T013000Z
+DTEND:20270316T043000Z
+SUMMARY:Atlanta Hawks @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-17-atlanta-hawks-vs-utah-jazz@open-sports-cal
+DTSTART:20270318T010000Z
+DTEND:20270318T040000Z
+SUMMARY:Atlanta Hawks @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-19-atlanta-hawks-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270320T020000Z
+DTEND:20270320T050000Z
+SUMMARY:Atlanta Hawks @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-20-atlanta-hawks-vs-la-clippers@open-sports-cal
+DTSTART:20270321T023000Z
+DTEND:20270321T053000Z
+SUMMARY:Atlanta Hawks @ LA Clippers
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-22-atlanta-hawks-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270323T020000Z
+DTEND:20270323T050000Z
+SUMMARY:Atlanta Hawks @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-atlanta-hawks-vs-sacramento-kings@open-sports-cal
+DTSTART:20270325T020000Z
+DTEND:20270325T050000Z
+SUMMARY:Atlanta Hawks @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-27-utah-jazz-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270327T230000Z
+DTEND:20270328T020000Z
+SUMMARY:Utah Jazz @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-29-minnesota-timberwolves-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270329T230000Z
+DTEND:20270330T020000Z
+SUMMARY:Minnesota Timberwolves @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-31-la-clippers-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270331T230000Z
+DTEND:20270401T020000Z
+SUMMARY:LA Clippers @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-02-atlanta-hawks-vs-toronto-raptors@open-sports-cal
+DTSTART:20270403T003000Z
+DTEND:20270403T033000Z
+SUMMARY:Atlanta Hawks @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-atlanta-hawks-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270404T170000Z
+DTEND:20270404T200000Z
+SUMMARY:Atlanta Hawks @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-06-new-york-knicks-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270407T000000Z
+DTEND:20270407T030000Z
+SUMMARY:New York Knicks @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-boston-celtics-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270409T230000Z
+DTEND:20270410T020000Z
+SUMMARY:Boston Celtics @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-atlanta-hawks-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270411T220000Z
+DTEND:20270412T010000Z
+SUMMARY:Atlanta Hawks @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

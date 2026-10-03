@@ -1,0 +1,465 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//Premier League 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Premier League 2026-27 - Sunderland
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:epl-2026-3@open-sports-cal
+DTSTART:20260822T140000Z
+DTEND:20260822T160000Z
+SUMMARY:Sunderland @ Ipswich
+DESCRIPTION:Premier League 2026-27\nSunderland @ Ipswich\nPortman Road
+LOCATION:Portman Road
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-17@open-sports-cal
+DTSTART:20260830T130000Z
+DTEND:20260830T150000Z
+SUMMARY:Fulham @ Sunderland
+DESCRIPTION:Premier League 2026-27\nFulham @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-22@open-sports-cal
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Sunderland @ Brentford
+DESCRIPTION:Premier League 2026-27\nSunderland @ Brentford\nGtech Community Stadium
+LOCATION:Gtech Community Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-36@open-sports-cal
+DTSTART:20260912T190000Z
+DTEND:20260912T210000Z
+SUMMARY:Arsenal @ Sunderland
+DESCRIPTION:Premier League 2026-27\nArsenal @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-48@open-sports-cal
+DTSTART:20260920T130000Z
+DTEND:20260920T150000Z
+SUMMARY:Sunderland @ Man City
+DESCRIPTION:Premier League 2026-27\nSunderland @ Man City\nEtihad Stadium
+LOCATION:Etihad Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-54@open-sports-cal
+DTSTART:20261010T140000Z
+DTEND:20261010T160000Z
+SUMMARY:Brighton @ Sunderland
+DESCRIPTION:Premier League 2026-27\nBrighton @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-65@open-sports-cal
+DTSTART:20261018T130000Z
+DTEND:20261018T150000Z
+SUMMARY:Sunderland @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nSunderland @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-79@open-sports-cal
+DTSTART:20261025T163000Z
+DTEND:20261025T183000Z
+SUMMARY:Leeds @ Sunderland
+DESCRIPTION:Premier League 2026-27\nLeeds @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-83@open-sports-cal
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Sunderland @ Coventry
+DESCRIPTION:Premier League 2026-27\nSunderland @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-98@open-sports-cal
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Chelsea @ Sunderland
+DESCRIPTION:Premier League 2026-27\nChelsea @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-102@open-sports-cal
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Sunderland @ Aston Villa
+DESCRIPTION:Premier League 2026-27\nSunderland @ Aston Villa\nVilla Park
+LOCATION:Villa Park
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-118@open-sports-cal
+DTSTART:20261129T140500Z
+DTEND:20261129T160500Z
+SUMMARY:Spurs @ Sunderland
+DESCRIPTION:Premier League 2026-27\nSpurs @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-126@open-sports-cal
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Sunderland @ Liverpool
+DESCRIPTION:Premier League 2026-27\nSunderland @ Liverpool\nAnfield
+LOCATION:Anfield
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-137@open-sports-cal
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Sunderland @ Newcastle
+DESCRIPTION:Premier League 2026-27\nSunderland @ Newcastle\nSt. James' Park
+LOCATION:St. James' Park
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-149@open-sports-cal
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Nott'm Forest @ Sunderland
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-159@open-sports-cal
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Crystal Palace @ Sunderland
+DESCRIPTION:Premier League 2026-27\nCrystal Palace @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-161@open-sports-cal
+DTSTART:20261226T150000Z
+DTEND:20261226T170000Z
+SUMMARY:Sunderland @ Everton
+DESCRIPTION:Premier League 2026-27\nSunderland @ Everton\nHill Dickinson Stadium
+LOCATION:Hill Dickinson Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-176@open-sports-cal
+DTSTART:20261230T193000Z
+DTEND:20261230T213000Z
+SUMMARY:Sunderland @ Man Utd
+DESCRIPTION:Premier League 2026-27\nSunderland @ Man Utd\nOld Trafford
+LOCATION:Old Trafford
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-186@open-sports-cal
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Hull @ Sunderland
+DESCRIPTION:Premier League 2026-27\nHull @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-194@open-sports-cal
+DTSTART:20270105T201500Z
+DTEND:20270105T221500Z
+SUMMARY:Liverpool @ Sunderland
+DESCRIPTION:Premier League 2026-27\nLiverpool @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-203@open-sports-cal
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Sunderland @ Chelsea
+DESCRIPTION:Premier League 2026-27\nSunderland @ Chelsea\nStamford Bridge
+LOCATION:Stamford Bridge
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-219@open-sports-cal
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Coventry @ Sunderland
+DESCRIPTION:Premier League 2026-27\nCoventry @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-229@open-sports-cal
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Sunderland @ Spurs
+DESCRIPTION:Premier League 2026-27\nSunderland @ Spurs\nTottenham Hotspur Stadium
+LOCATION:Tottenham Hotspur Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-239@open-sports-cal
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Aston Villa @ Sunderland
+DESCRIPTION:Premier League 2026-27\nAston Villa @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-245@open-sports-cal
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Sunderland @ Hull
+DESCRIPTION:Premier League 2026-27\nSunderland @ Hull\nMKM Stadium
+LOCATION:MKM Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-259@open-sports-cal
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Everton @ Sunderland
+DESCRIPTION:Premier League 2026-27\nEverton @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-262@open-sports-cal
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Sunderland @ Crystal Palace
+DESCRIPTION:Premier League 2026-27\nSunderland @ Crystal Palace\nSelhurst Park
+LOCATION:Selhurst Park
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-279@open-sports-cal
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Man Utd @ Sunderland
+DESCRIPTION:Premier League 2026-27\nMan Utd @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-288@open-sports-cal
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Brentford @ Sunderland
+DESCRIPTION:Premier League 2026-27\nBrentford @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-290@open-sports-cal
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Sunderland @ Arsenal
+DESCRIPTION:Premier League 2026-27\nSunderland @ Arsenal\nEmirates Stadium
+LOCATION:Emirates Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-308@open-sports-cal
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Ipswich @ Sunderland
+DESCRIPTION:Premier League 2026-27\nIpswich @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-314@open-sports-cal
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Sunderland @ Fulham
+DESCRIPTION:Premier League 2026-27\nSunderland @ Fulham\nCraven Cottage
+LOCATION:Craven Cottage
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-328@open-sports-cal
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Sunderland @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nSunderland @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-339@open-sports-cal
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Newcastle @ Sunderland
+DESCRIPTION:Premier League 2026-27\nNewcastle @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-342@open-sports-cal
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Sunderland @ Brighton
+DESCRIPTION:Premier League 2026-27\nSunderland @ Brighton\nAmerican Express Stadium
+LOCATION:American Express Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-359@open-sports-cal
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Bournemouth @ Sunderland
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-365@open-sports-cal
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Sunderland @ Leeds
+DESCRIPTION:Premier League 2026-27\nSunderland @ Leeds\nElland Road
+LOCATION:Elland Road
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-379@open-sports-cal
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Man City @ Sunderland
+DESCRIPTION:Premier League 2026-27\nMan City @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+END:VCALENDAR

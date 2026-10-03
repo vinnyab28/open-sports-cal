@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Detroit Pistons
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-20-boston-celtics-vs-detroit-pistons@open-sports-cal
+DTSTART:20261020T190000Z
+DTEND:20261020T220000Z
+SUMMARY:Boston Celtics @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-23-detroit-pistons-vs-miami-heat@open-sports-cal
+DTSTART:20261024T000000Z
+DTEND:20261024T030000Z
+SUMMARY:Detroit Pistons @ Miami Heat
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-25-detroit-pistons-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261025T233000Z
+DTEND:20261026T023000Z
+SUMMARY:Detroit Pistons @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-27-detroit-pistons-vs-new-york-knicks@open-sports-cal
+DTSTART:20261028T000000Z
+DTEND:20261028T030000Z
+SUMMARY:Detroit Pistons @ New York Knicks
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-28-charlotte-hornets-vs-detroit-pistons@open-sports-cal
+DTSTART:20261028T230000Z
+DTEND:20261029T020000Z
+SUMMARY:Charlotte Hornets @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-30-detroit-pistons-vs-brooklyn-nets@open-sports-cal
+DTSTART:20261030T233000Z
+DTEND:20261031T023000Z
+SUMMARY:Detroit Pistons @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-detroit-pistons-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261103T003000Z
+DTEND:20261103T033000Z
+SUMMARY:Detroit Pistons @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-philadelphia-76ers-vs-detroit-pistons@open-sports-cal
+DTSTART:20261105T000000Z
+DTEND:20261105T030000Z
+SUMMARY:Philadelphia 76ers @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-08-los-angeles-lakers-vs-detroit-pistons@open-sports-cal
+DTSTART:20261108T230000Z
+DTEND:20261109T020000Z
+SUMMARY:Los Angeles Lakers @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-09-washington-wizards-vs-detroit-pistons@open-sports-cal
+DTSTART:20261110T000000Z
+DTEND:20261110T030000Z
+SUMMARY:Washington Wizards @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-12-detroit-pistons-vs-washington-wizards@open-sports-cal
+DTSTART:20261113T000000Z
+DTEND:20261113T030000Z
+SUMMARY:Detroit Pistons @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-14-detroit-pistons-vs-miami-heat@open-sports-cal
+DTSTART:20261115T010000Z
+DTEND:20261115T040000Z
+SUMMARY:Detroit Pistons @ Miami Heat
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-17-detroit-pistons-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261118T010000Z
+DTEND:20261118T040000Z
+SUMMARY:Detroit Pistons @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-detroit-pistons-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261119T010000Z
+DTEND:20261119T040000Z
+SUMMARY:Detroit Pistons @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-20-toronto-raptors-vs-detroit-pistons@open-sports-cal
+DTSTART:20261121T003000Z
+DTEND:20261121T033000Z
+SUMMARY:Toronto Raptors @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-22-detroit-pistons-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261122T203000Z
+DTEND:20261122T233000Z
+SUMMARY:Detroit Pistons @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-24-detroit-pistons-vs-orlando-magic@open-sports-cal
+DTSTART:20261125T000000Z
+DTEND:20261125T030000Z
+SUMMARY:Detroit Pistons @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-27-milwaukee-bucks-vs-detroit-pistons@open-sports-cal
+DTSTART:20261128T003000Z
+DTEND:20261128T033000Z
+SUMMARY:Milwaukee Bucks @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-29-orlando-magic-vs-detroit-pistons@open-sports-cal
+DTSTART:20261129T230000Z
+DTEND:20261130T020000Z
+SUMMARY:Orlando Magic @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-30-denver-nuggets-vs-detroit-pistons@open-sports-cal
+DTSTART:20261201T000000Z
+DTEND:20261201T030000Z
+SUMMARY:Denver Nuggets @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-02-memphis-grizzlies-vs-detroit-pistons@open-sports-cal
+DTSTART:20261203T000000Z
+DTEND:20261203T030000Z
+SUMMARY:Memphis Grizzlies @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-13-detroit-pistons-vs-indiana-pacers@open-sports-cal
+DTSTART:20261213T220000Z
+DTEND:20261214T010000Z
+SUMMARY:Detroit Pistons @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-14-brooklyn-nets-vs-detroit-pistons@open-sports-cal
+DTSTART:20261215T000000Z
+DTEND:20261215T030000Z
+SUMMARY:Brooklyn Nets @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-phoenix-suns-vs-detroit-pistons@open-sports-cal
+DTSTART:20261217T000000Z
+DTEND:20261217T030000Z
+SUMMARY:Phoenix Suns @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-18-cleveland-cavaliers-vs-detroit-pistons@open-sports-cal
+DTSTART:20261219T003000Z
+DTEND:20261219T033000Z
+SUMMARY:Cleveland Cavaliers @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-20-detroit-pistons-vs-boston-celtics@open-sports-cal
+DTSTART:20261221T010000Z
+DTEND:20261221T040000Z
+SUMMARY:Detroit Pistons @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-22-detroit-pistons-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261223T010000Z
+DTEND:20261223T040000Z
+SUMMARY:Detroit Pistons @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-detroit-pistons-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261224T000000Z
+DTEND:20261224T030000Z
+SUMMARY:Detroit Pistons @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-26-detroit-pistons-vs-chicago-bulls@open-sports-cal
+DTSTART:20261227T010000Z
+DTEND:20261227T040000Z
+SUMMARY:Detroit Pistons @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-27-portland-trail-blazers-vs-detroit-pistons@open-sports-cal
+DTSTART:20261228T000000Z
+DTEND:20261228T030000Z
+SUMMARY:Portland Trail Blazers @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-30-new-orleans-pelicans-vs-detroit-pistons@open-sports-cal
+DTSTART:20261231T000000Z
+DTEND:20261231T030000Z
+SUMMARY:New Orleans Pelicans @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-01-orlando-magic-vs-detroit-pistons@open-sports-cal
+DTSTART:20270102T003000Z
+DTEND:20270102T033000Z
+SUMMARY:Orlando Magic @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-03-detroit-pistons-vs-denver-nuggets@open-sports-cal
+DTSTART:20270103T220000Z
+DTEND:20270104T010000Z
+SUMMARY:Detroit Pistons @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-05-detroit-pistons-vs-sacramento-kings@open-sports-cal
+DTSTART:20270106T030000Z
+DTEND:20270106T060000Z
+SUMMARY:Detroit Pistons @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-detroit-pistons-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270108T030000Z
+DTEND:20270108T060000Z
+SUMMARY:Detroit Pistons @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-08-detroit-pistons-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270109T030000Z
+DTEND:20270109T060000Z
+SUMMARY:Detroit Pistons @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-10-utah-jazz-vs-detroit-pistons@open-sports-cal
+DTSTART:20270110T230000Z
+DTEND:20270111T020000Z
+SUMMARY:Utah Jazz @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-12-detroit-pistons-vs-toronto-raptors@open-sports-cal
+DTSTART:20270113T003000Z
+DTEND:20270113T033000Z
+SUMMARY:Detroit Pistons @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-14-dallas-mavericks-vs-detroit-pistons@open-sports-cal
+DTSTART:20270115T000000Z
+DTEND:20270115T030000Z
+SUMMARY:Dallas Mavericks @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-16-detroit-pistons-vs-houston-rockets@open-sports-cal
+DTSTART:20270117T013000Z
+DTEND:20270117T043000Z
+SUMMARY:Detroit Pistons @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-18-detroit-pistons-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270118T170000Z
+DTEND:20270118T200000Z
+SUMMARY:Detroit Pistons @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-22-indiana-pacers-vs-detroit-pistons@open-sports-cal
+DTSTART:20270123T003000Z
+DTEND:20270123T033000Z
+SUMMARY:Indiana Pacers @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-24-minnesota-timberwolves-vs-detroit-pistons@open-sports-cal
+DTSTART:20270124T230000Z
+DTEND:20270125T020000Z
+SUMMARY:Minnesota Timberwolves @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-26-atlanta-hawks-vs-detroit-pistons@open-sports-cal
+DTSTART:20270127T000000Z
+DTEND:20270127T030000Z
+SUMMARY:Atlanta Hawks @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-27-detroit-pistons-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270128T000000Z
+DTEND:20270128T030000Z
+SUMMARY:Detroit Pistons @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-29-detroit-pistons-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270130T010000Z
+DTEND:20270130T040000Z
+SUMMARY:Detroit Pistons @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-31-sacramento-kings-vs-detroit-pistons@open-sports-cal
+DTSTART:20270131T200000Z
+DTEND:20270131T230000Z
+SUMMARY:Sacramento Kings @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-02-chicago-bulls-vs-detroit-pistons@open-sports-cal
+DTSTART:20270203T000000Z
+DTEND:20270203T030000Z
+SUMMARY:Chicago Bulls @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-03-new-york-knicks-vs-detroit-pistons@open-sports-cal
+DTSTART:20270204T000000Z
+DTEND:20270204T030000Z
+SUMMARY:New York Knicks @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-05-detroit-pistons-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270206T000000Z
+DTEND:20270206T030000Z
+SUMMARY:Detroit Pistons @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-07-golden-state-warriors-vs-detroit-pistons@open-sports-cal
+DTSTART:20270207T200000Z
+DTEND:20270207T230000Z
+SUMMARY:Golden State Warriors @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-09-detroit-pistons-vs-la-clippers@open-sports-cal
+DTSTART:20270210T033000Z
+DTEND:20270210T063000Z
+SUMMARY:Detroit Pistons @ LA Clippers
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-10-detroit-pistons-vs-phoenix-suns@open-sports-cal
+DTSTART:20270211T020000Z
+DTEND:20270211T050000Z
+SUMMARY:Detroit Pistons @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-13-detroit-pistons-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270213T203000Z
+DTEND:20270213T233000Z
+SUMMARY:Detroit Pistons @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-15-detroit-pistons-vs-utah-jazz@open-sports-cal
+DTSTART:20270216T020000Z
+DTEND:20270216T050000Z
+SUMMARY:Detroit Pistons @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-new-york-knicks-vs-detroit-pistons@open-sports-cal
+DTSTART:20270218T000000Z
+DTEND:20270218T030000Z
+SUMMARY:New York Knicks @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-25-miami-heat-vs-detroit-pistons@open-sports-cal
+DTSTART:20270226T000000Z
+DTEND:20270226T030000Z
+SUMMARY:Miami Heat @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-27-oklahoma-city-thunder-vs-detroit-pistons@open-sports-cal
+DTSTART:20270227T223000Z
+DTEND:20270228T013000Z
+SUMMARY:Oklahoma City Thunder @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-01-chicago-bulls-vs-detroit-pistons@open-sports-cal
+DTSTART:20270302T000000Z
+DTEND:20270302T030000Z
+SUMMARY:Chicago Bulls @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-02-detroit-pistons-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270303T010000Z
+DTEND:20270303T040000Z
+SUMMARY:Detroit Pistons @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-05-boston-celtics-vs-detroit-pistons@open-sports-cal
+DTSTART:20270306T000000Z
+DTEND:20270306T030000Z
+SUMMARY:Boston Celtics @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-09-cleveland-cavaliers-vs-detroit-pistons@open-sports-cal
+DTSTART:20270310T010000Z
+DTEND:20270310T040000Z
+SUMMARY:Cleveland Cavaliers @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-11-milwaukee-bucks-vs-detroit-pistons@open-sports-cal
+DTSTART:20270312T000000Z
+DTEND:20270312T030000Z
+SUMMARY:Milwaukee Bucks @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-13-brooklyn-nets-vs-detroit-pistons@open-sports-cal
+DTSTART:20270313T200000Z
+DTEND:20270313T230000Z
+SUMMARY:Brooklyn Nets @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-14-detroit-pistons-vs-toronto-raptors@open-sports-cal
+DTSTART:20270314T210000Z
+DTEND:20270315T000000Z
+SUMMARY:Detroit Pistons @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-16-detroit-pistons-vs-indiana-pacers@open-sports-cal
+DTSTART:20270317T000000Z
+DTEND:20270317T030000Z
+SUMMARY:Detroit Pistons @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-18-detroit-pistons-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270319T000000Z
+DTEND:20270319T030000Z
+SUMMARY:Detroit Pistons @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-20-charlotte-hornets-vs-detroit-pistons@open-sports-cal
+DTSTART:20270321T000000Z
+DTEND:20270321T030000Z
+SUMMARY:Charlotte Hornets @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-22-detroit-pistons-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270323T013000Z
+DTEND:20270323T043000Z
+SUMMARY:Detroit Pistons @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-detroit-pistons-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270324T230000Z
+DTEND:20270325T020000Z
+SUMMARY:Detroit Pistons @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-25-houston-rockets-vs-detroit-pistons@open-sports-cal
+DTSTART:20270325T230000Z
+DTEND:20270326T020000Z
+SUMMARY:Houston Rockets @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-27-san-antonio-spurs-vs-detroit-pistons@open-sports-cal
+DTSTART:20270327T190000Z
+DTEND:20270327T220000Z
+SUMMARY:San Antonio Spurs @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-29-la-clippers-vs-detroit-pistons@open-sports-cal
+DTSTART:20270329T230000Z
+DTEND:20270330T020000Z
+SUMMARY:LA Clippers @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-31-toronto-raptors-vs-detroit-pistons@open-sports-cal
+DTSTART:20270331T230000Z
+DTEND:20270401T020000Z
+SUMMARY:Toronto Raptors @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-02-detroit-pistons-vs-chicago-bulls@open-sports-cal
+DTSTART:20270403T000000Z
+DTEND:20270403T030000Z
+SUMMARY:Detroit Pistons @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-miami-heat-vs-detroit-pistons@open-sports-cal
+DTSTART:20270404T190000Z
+DTEND:20270404T220000Z
+SUMMARY:Miami Heat @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-06-detroit-pistons-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270407T000000Z
+DTEND:20270407T030000Z
+SUMMARY:Detroit Pistons @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-07-indiana-pacers-vs-detroit-pistons@open-sports-cal
+DTSTART:20270407T230000Z
+DTEND:20270408T020000Z
+SUMMARY:Indiana Pacers @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-detroit-pistons-vs-new-york-knicks@open-sports-cal
+DTSTART:20270409T230000Z
+DTEND:20270410T020000Z
+SUMMARY:Detroit Pistons @ New York Knicks
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-detroit-pistons-vs-washington-wizards@open-sports-cal
+DTSTART:20270411T220000Z
+DTEND:20270412T010000Z
+SUMMARY:Detroit Pistons @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

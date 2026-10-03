@@ -1,0 +1,393 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//PWHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PWHL 2026-27 - PWHL Las Vegas
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-22-minnesota-frost-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20261122T215000Z
+DTEND:20261123T005000Z
+SUMMARY:Minnesota Frost @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ PWHL Las Vegas\nAmerica First Center | Henderson, Henderson, NV
+LOCATION:America First Center | Henderson, Henderson, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-24-pwhl-las-vegas-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20261124T150000Z
+DTEND:20261124T180000Z
+SUMMARY:PWHL Las Vegas @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Vancouver Goldeneyes\nAmerica First Center | Henderson, Henderson, NV
+LOCATION:America First Center | Henderson, Henderson, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-06-pwhl-detroit-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20261206T200000Z
+DTEND:20261206T230000Z
+SUMMARY:PWHL Detroit @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nPWHL Detroit @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-10-minnesota-frost-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20261210T220000Z
+DTEND:20261211T010000Z
+SUMMARY:Minnesota Frost @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-12-pwhl-las-vegas-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20261212T210000Z
+DTEND:20261213T000000Z
+SUMMARY:PWHL Las Vegas @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-20-pwhl-las-vegas-vs-seattle-torrent@open-sports-cal
+DTSTART:20261220T190000Z
+DTEND:20261220T220000Z
+SUMMARY:PWHL Las Vegas @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-26-boston-fleet-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20261226T190000Z
+DTEND:20261226T220000Z
+SUMMARY:Boston Fleet @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-29-new-york-sirens-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20261229T220000Z
+DTEND:20261230T010000Z
+SUMMARY:New York Sirens @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-03-pwhl-las-vegas-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270103T150000Z
+DTEND:20270103T180000Z
+SUMMARY:PWHL Las Vegas @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-06-pwhl-las-vegas-vs-montreal-victoire@open-sports-cal
+DTSTART:20270106T190000Z
+DTEND:20270106T220000Z
+SUMMARY:PWHL Las Vegas @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-10-ottawa-charge-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270110T170000Z
+DTEND:20270110T200000Z
+SUMMARY:Ottawa Charge @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-13-pwhl-las-vegas-vs-pwhl-san-jose@open-sports-cal
+DTSTART:20270113T220000Z
+DTEND:20270114T010000Z
+SUMMARY:PWHL Las Vegas @ PWHL San Jose
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ PWHL San Jose\nSAP Center | San Jose, San Jose, CA
+LOCATION:SAP Center | San Jose, San Jose, CA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-16-seattle-torrent-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270116T150000Z
+DTEND:20270116T180000Z
+SUMMARY:Seattle Torrent @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ PWHL Las Vegas\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-21-pwhl-hamilton-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270121T220000Z
+DTEND:20270122T010000Z
+SUMMARY:PWHL Hamilton @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-24-toronto-sceptres-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270124T160000Z
+DTEND:20270124T190000Z
+SUMMARY:Toronto Sceptres @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-27-pwhl-san-jose-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270127T220000Z
+DTEND:20270128T010000Z
+SUMMARY:PWHL San Jose @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nPWHL San Jose @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-02-pwhl-las-vegas-vs-minnesota-frost@open-sports-cal
+DTSTART:20270202T190000Z
+DTEND:20270202T220000Z
+SUMMARY:PWHL Las Vegas @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-04-pwhl-las-vegas-vs-new-york-sirens@open-sports-cal
+DTSTART:20270204T190000Z
+DTEND:20270204T220000Z
+SUMMARY:PWHL Las Vegas @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-07-pwhl-las-vegas-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270207T180000Z
+DTEND:20270207T210000Z
+SUMMARY:PWHL Las Vegas @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Vancouver Goldeneyes\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-11-seattle-torrent-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270211T220000Z
+DTEND:20270212T010000Z
+SUMMARY:Seattle Torrent @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-19-vancouver-goldeneyes-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270219T220000Z
+DTEND:20270220T010000Z
+SUMMARY:Vancouver Goldeneyes @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-23-montreal-victoire-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270223T220000Z
+DTEND:20270224T010000Z
+SUMMARY:Montréal Victoire @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-26-pwhl-las-vegas-vs-pwhl-detroit@open-sports-cal
+DTSTART:20270226T190000Z
+DTEND:20270226T220000Z
+SUMMARY:PWHL Las Vegas @ PWHL Detroit
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ PWHL Detroit\nLittle Caesars Arena | Detroit, Detroit, MI
+LOCATION:Little Caesars Arena | Detroit, Detroit, MI
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-28-pwhl-las-vegas-vs-seattle-torrent@open-sports-cal
+DTSTART:20270228T190000Z
+DTEND:20270228T220000Z
+SUMMARY:PWHL Las Vegas @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-10-pwhl-las-vegas-vs-pwhl-detroit@open-sports-cal
+DTSTART:20270310T190000Z
+DTEND:20270310T220000Z
+SUMMARY:PWHL Las Vegas @ PWHL Detroit
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ PWHL Detroit\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-19-pwhl-las-vegas-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270319T190000Z
+DTEND:20270319T220000Z
+SUMMARY:PWHL Las Vegas @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-21-vancouver-goldeneyes-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270321T163000Z
+DTEND:20270321T193000Z
+SUMMARY:Vancouver Goldeneyes @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ PWHL Las Vegas\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-24-pwhl-las-vegas-vs-ottawa-charge@open-sports-cal
+DTSTART:20270324T110000Z
+DTEND:20270324T140000Z
+SUMMARY:PWHL Las Vegas @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-27-pwhl-las-vegas-vs-boston-fleet@open-sports-cal
+DTSTART:20270327T150000Z
+DTEND:20270327T180000Z
+SUMMARY:PWHL Las Vegas @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-07-pwhl-san-jose-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270407T220000Z
+DTEND:20270408T010000Z
+SUMMARY:PWHL San Jose @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nPWHL San Jose @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-13-pwhl-detroit-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270413T220000Z
+DTEND:20270414T010000Z
+SUMMARY:PWHL Detroit @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nPWHL Detroit @ PWHL Las Vegas\nLee's Family Forum | Henderson, Henderson
+LOCATION:Lee's Family Forum | Henderson, Henderson
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-16-pwhl-las-vegas-vs-minnesota-frost@open-sports-cal
+DTSTART:20270416T000000Z
+DTEND:20270416T030000Z
+SUMMARY:PWHL Las Vegas @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,393 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//PWHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PWHL 2026-27 - Boston Fleet
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-23-new-york-sirens-vs-boston-fleet@open-sports-cal
+DTSTART:20261123T180000Z
+DTEND:20261123T210000Z
+SUMMARY:New York Sirens @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Boston Fleet\nBoston Sports Institute | Wellesley, Wellesley, MA
+LOCATION:Boston Sports Institute | Wellesley, Wellesley, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-25-boston-fleet-vs-montreal-victoire@open-sports-cal
+DTSTART:20261125T130000Z
+DTEND:20261125T160000Z
+SUMMARY:Boston Fleet @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Montréal Victoire\nBoston Sports Institute | Wellesley, Wellesley, MA
+LOCATION:Boston Sports Institute | Wellesley, Wellesley, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-06-boston-fleet-vs-new-york-sirens@open-sports-cal
+DTSTART:20261206T150000Z
+DTEND:20261206T180000Z
+SUMMARY:Boston Fleet @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-09-ottawa-charge-vs-boston-fleet@open-sports-cal
+DTSTART:20261209T190000Z
+DTEND:20261209T220000Z
+SUMMARY:Ottawa Charge @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-12-boston-fleet-vs-toronto-sceptres@open-sports-cal
+DTSTART:20261212T190000Z
+DTEND:20261212T220000Z
+SUMMARY:Boston Fleet @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-16-montreal-victoire-vs-boston-fleet@open-sports-cal
+DTSTART:20261216T190000Z
+DTEND:20261216T220000Z
+SUMMARY:Montréal Victoire @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-22-boston-fleet-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20261222T213000Z
+DTEND:20261223T003000Z
+SUMMARY:Boston Fleet @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-23-boston-fleet-vs-seattle-torrent@open-sports-cal
+DTSTART:20261223T220000Z
+DTEND:20261224T010000Z
+SUMMARY:Boston Fleet @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-26-boston-fleet-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20261226T190000Z
+DTEND:20261226T220000Z
+SUMMARY:Boston Fleet @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-30-boston-fleet-vs-pwhl-san-jose@open-sports-cal
+DTSTART:20261230T220000Z
+DTEND:20261231T010000Z
+SUMMARY:Boston Fleet @ PWHL San Jose
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ PWHL San Jose\nSAP Center | San Jose, San Jose, CA
+LOCATION:SAP Center | San Jose, San Jose, CA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-02-ottawa-charge-vs-boston-fleet@open-sports-cal
+DTSTART:20270102T120000Z
+DTEND:20270102T150000Z
+SUMMARY:Ottawa Charge @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Boston Fleet\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-09-toronto-sceptres-vs-boston-fleet@open-sports-cal
+DTSTART:20270109T140000Z
+DTEND:20270109T170000Z
+SUMMARY:Toronto Sceptres @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-13-new-york-sirens-vs-boston-fleet@open-sports-cal
+DTSTART:20270113T190000Z
+DTEND:20270113T220000Z
+SUMMARY:New York Sirens @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-17-boston-fleet-vs-ottawa-charge@open-sports-cal
+DTSTART:20270117T130000Z
+DTEND:20270117T160000Z
+SUMMARY:Boston Fleet @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-23-boston-fleet-vs-montreal-victoire@open-sports-cal
+DTSTART:20270123T140000Z
+DTEND:20270123T170000Z
+SUMMARY:Boston Fleet @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Montréal Victoire\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-26-boston-fleet-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270126T190000Z
+DTEND:20270126T220000Z
+SUMMARY:Boston Fleet @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-29-boston-fleet-vs-minnesota-frost@open-sports-cal
+DTSTART:20270129T190000Z
+DTEND:20270129T220000Z
+SUMMARY:Boston Fleet @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-02-boston-fleet-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270202T183000Z
+DTEND:20270202T213000Z
+SUMMARY:Boston Fleet @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Toronto Sceptres\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-06-pwhl-detroit-vs-boston-fleet@open-sports-cal
+DTSTART:20270206T190000Z
+DTEND:20270206T220000Z
+SUMMARY:PWHL Detroit @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nPWHL Detroit @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-10-boston-fleet-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270210T190000Z
+DTEND:20270210T220000Z
+SUMMARY:Boston Fleet @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-12-boston-fleet-vs-montreal-victoire@open-sports-cal
+DTSTART:20270212T190000Z
+DTEND:20270212T220000Z
+SUMMARY:Boston Fleet @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-17-seattle-torrent-vs-boston-fleet@open-sports-cal
+DTSTART:20270217T190000Z
+DTEND:20270217T220000Z
+SUMMARY:Seattle Torrent @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-20-montreal-victoire-vs-boston-fleet@open-sports-cal
+DTSTART:20270220T150000Z
+DTEND:20270220T180000Z
+SUMMARY:Montréal Victoire @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Boston Fleet\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-27-vancouver-goldeneyes-vs-boston-fleet@open-sports-cal
+DTSTART:20270227T190000Z
+DTEND:20270227T220000Z
+SUMMARY:Vancouver Goldeneyes @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ Boston Fleet\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-14-minnesota-frost-vs-boston-fleet@open-sports-cal
+DTSTART:20270314T130000Z
+DTEND:20270314T160000Z
+SUMMARY:Minnesota Frost @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-21-pwhl-san-jose-vs-boston-fleet@open-sports-cal
+DTSTART:20270321T130000Z
+DTEND:20270321T160000Z
+SUMMARY:PWHL San Jose @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nPWHL San Jose @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-27-pwhl-las-vegas-vs-boston-fleet@open-sports-cal
+DTSTART:20270327T150000Z
+DTEND:20270327T180000Z
+SUMMARY:PWHL Las Vegas @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-03-boston-fleet-vs-new-york-sirens@open-sports-cal
+DTSTART:20270403T193000Z
+DTEND:20270403T223000Z
+SUMMARY:Boston Fleet @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ New York Sirens\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-08-boston-fleet-vs-pwhl-detroit@open-sports-cal
+DTSTART:20270408T190000Z
+DTEND:20270408T220000Z
+SUMMARY:Boston Fleet @ PWHL Detroit
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ PWHL Detroit\nLittle Caesars Arena | Detroit, Detroit, MI
+LOCATION:Little Caesars Arena | Detroit, Detroit, MI
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-10-pwhl-hamilton-vs-boston-fleet@open-sports-cal
+DTSTART:20270410T150000Z
+DTEND:20270410T180000Z
+SUMMARY:PWHL Hamilton @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-14-new-york-sirens-vs-boston-fleet@open-sports-cal
+DTSTART:20270414T190000Z
+DTEND:20270414T220000Z
+SUMMARY:New York Sirens @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-17-toronto-sceptres-vs-boston-fleet@open-sports-cal
+DTSTART:20270417T000000Z
+DTEND:20270417T030000Z
+SUMMARY:Toronto Sceptres @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

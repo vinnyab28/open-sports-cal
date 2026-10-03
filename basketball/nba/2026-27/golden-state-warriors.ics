@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Golden State Warriors
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-21-golden-state-warriors-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20261022T020000Z
+DTEND:20261022T050000Z
+SUMMARY:Golden State Warriors @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-23-memphis-grizzlies-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261024T020000Z
+DTEND:20261024T050000Z
+SUMMARY:Memphis Grizzlies @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-24-golden-state-warriors-vs-phoenix-suns@open-sports-cal
+DTSTART:20261025T020000Z
+DTEND:20261025T050000Z
+SUMMARY:Golden State Warriors @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-26-golden-state-warriors-vs-denver-nuggets@open-sports-cal
+DTSTART:20261027T020000Z
+DTEND:20261027T050000Z
+SUMMARY:Golden State Warriors @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-28-golden-state-warriors-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261029T000000Z
+DTEND:20261029T030000Z
+SUMMARY:Golden State Warriors @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-30-los-angeles-lakers-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261031T020000Z
+DTEND:20261031T050000Z
+SUMMARY:Los Angeles Lakers @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-01-la-clippers-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261102T013000Z
+DTEND:20261102T043000Z
+SUMMARY:LA Clippers @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-phoenix-suns-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261103T030000Z
+DTEND:20261103T060000Z
+SUMMARY:Phoenix Suns @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-05-miami-heat-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261106T030000Z
+DTEND:20261106T060000Z
+SUMMARY:Miami Heat @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-07-orlando-magic-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261108T013000Z
+DTEND:20261108T043000Z
+SUMMARY:Orlando Magic @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-09-new-orleans-pelicans-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261110T030000Z
+DTEND:20261110T060000Z
+SUMMARY:New Orleans Pelicans @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-11-golden-state-warriors-vs-houston-rockets@open-sports-cal
+DTSTART:20261112T023000Z
+DTEND:20261112T053000Z
+SUMMARY:Golden State Warriors @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-13-golden-state-warriors-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261114T023000Z
+DTEND:20261114T053000Z
+SUMMARY:Golden State Warriors @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-16-golden-state-warriors-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261117T010000Z
+DTEND:20261117T040000Z
+SUMMARY:Golden State Warriors @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-golden-state-warriors-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261119T023000Z
+DTEND:20261119T053000Z
+SUMMARY:Golden State Warriors @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-19-golden-state-warriors-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261120T010000Z
+DTEND:20261120T040000Z
+SUMMARY:Golden State Warriors @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-22-boston-celtics-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261123T013000Z
+DTEND:20261123T043000Z
+SUMMARY:Boston Celtics @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-25-sacramento-kings-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261126T030000Z
+DTEND:20261126T060000Z
+SUMMARY:Sacramento Kings @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-27-golden-state-warriors-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261128T023000Z
+DTEND:20261128T053000Z
+SUMMARY:Golden State Warriors @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-29-la-clippers-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261130T013000Z
+DTEND:20261130T043000Z
+SUMMARY:LA Clippers @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-01-utah-jazz-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261202T040000Z
+DTEND:20261202T070000Z
+SUMMARY:Utah Jazz @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-12-golden-state-warriors-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261213T010000Z
+DTEND:20261213T040000Z
+SUMMARY:Golden State Warriors @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-14-golden-state-warriors-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261215T010000Z
+DTEND:20261215T040000Z
+SUMMARY:Golden State Warriors @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-golden-state-warriors-vs-indiana-pacers@open-sports-cal
+DTSTART:20261217T000000Z
+DTEND:20261217T030000Z
+SUMMARY:Golden State Warriors @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-18-golden-state-warriors-vs-toronto-raptors@open-sports-cal
+DTSTART:20261219T003000Z
+DTEND:20261219T033000Z
+SUMMARY:Golden State Warriors @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-20-golden-state-warriors-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20261221T010000Z
+DTEND:20261221T040000Z
+SUMMARY:Golden State Warriors @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-22-dallas-mavericks-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261223T033000Z
+DTEND:20261223T063000Z
+SUMMARY:Dallas Mavericks @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-golden-state-warriors-vs-la-clippers@open-sports-cal
+DTSTART:20261224T033000Z
+DTEND:20261224T063000Z
+SUMMARY:Golden State Warriors @ LA Clippers
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-25-denver-nuggets-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261226T033000Z
+DTEND:20261226T063000Z
+SUMMARY:Denver Nuggets @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-27-minnesota-timberwolves-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261228T013000Z
+DTEND:20261228T043000Z
+SUMMARY:Minnesota Timberwolves @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-28-golden-state-warriors-vs-phoenix-suns@open-sports-cal
+DTSTART:20261229T020000Z
+DTEND:20261229T050000Z
+SUMMARY:Golden State Warriors @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-30-houston-rockets-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261231T030000Z
+DTEND:20261231T060000Z
+SUMMARY:Houston Rockets @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-02-brooklyn-nets-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270103T013000Z
+DTEND:20270103T043000Z
+SUMMARY:Brooklyn Nets @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-06-new-york-knicks-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270107T030000Z
+DTEND:20270107T060000Z
+SUMMARY:New York Knicks @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-detroit-pistons-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270108T030000Z
+DTEND:20270108T060000Z
+SUMMARY:Detroit Pistons @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-09-chicago-bulls-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270110T013000Z
+DTEND:20270110T043000Z
+SUMMARY:Chicago Bulls @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-12-sacramento-kings-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270113T040000Z
+DTEND:20270113T070000Z
+SUMMARY:Sacramento Kings @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-13-charlotte-hornets-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270114T030000Z
+DTEND:20270114T060000Z
+SUMMARY:Charlotte Hornets @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-15-golden-state-warriors-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270116T000000Z
+DTEND:20270116T030000Z
+SUMMARY:Golden State Warriors @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-17-golden-state-warriors-vs-miami-heat@open-sports-cal
+DTSTART:20270117T230000Z
+DTEND:20270118T020000Z
+SUMMARY:Golden State Warriors @ Miami Heat
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-19-golden-state-warriors-vs-orlando-magic@open-sports-cal
+DTSTART:20270120T000000Z
+DTEND:20270120T030000Z
+SUMMARY:Golden State Warriors @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-21-los-angeles-lakers-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270122T030000Z
+DTEND:20270122T060000Z
+SUMMARY:Los Angeles Lakers @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-22-milwaukee-bucks-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270123T030000Z
+DTEND:20270123T060000Z
+SUMMARY:Milwaukee Bucks @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-24-oklahoma-city-thunder-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270125T013000Z
+DTEND:20270125T043000Z
+SUMMARY:Oklahoma City Thunder @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-27-golden-state-warriors-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270128T030000Z
+DTEND:20270128T060000Z
+SUMMARY:Golden State Warriors @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-28-golden-state-warriors-vs-utah-jazz@open-sports-cal
+DTSTART:20270129T020000Z
+DTEND:20270129T050000Z
+SUMMARY:Golden State Warriors @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-30-san-antonio-spurs-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270130T223000Z
+DTEND:20270131T013000Z
+SUMMARY:San Antonio Spurs @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-01-san-antonio-spurs-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270202T030000Z
+DTEND:20270202T060000Z
+SUMMARY:San Antonio Spurs @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-03-golden-state-warriors-vs-la-clippers@open-sports-cal
+DTSTART:20270204T033000Z
+DTEND:20270204T063000Z
+SUMMARY:Golden State Warriors @ LA Clippers
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-05-golden-state-warriors-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270206T000000Z
+DTEND:20270206T030000Z
+SUMMARY:Golden State Warriors @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-07-golden-state-warriors-vs-detroit-pistons@open-sports-cal
+DTSTART:20270207T200000Z
+DTEND:20270207T230000Z
+SUMMARY:Golden State Warriors @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-09-golden-state-warriors-vs-chicago-bulls@open-sports-cal
+DTSTART:20270210T010000Z
+DTEND:20270210T040000Z
+SUMMARY:Golden State Warriors @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-10-golden-state-warriors-vs-boston-celtics@open-sports-cal
+DTSTART:20270211T003000Z
+DTEND:20270211T033000Z
+SUMMARY:Golden State Warriors @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-13-golden-state-warriors-vs-new-york-knicks@open-sports-cal
+DTSTART:20270214T013000Z
+DTEND:20270214T043000Z
+SUMMARY:Golden State Warriors @ New York Knicks
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-15-indiana-pacers-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270216T003000Z
+DTEND:20270216T033000Z
+SUMMARY:Indiana Pacers @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-new-orleans-pelicans-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270218T030000Z
+DTEND:20270218T060000Z
+SUMMARY:New Orleans Pelicans @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-25-dallas-mavericks-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270226T030000Z
+DTEND:20270226T060000Z
+SUMMARY:Dallas Mavericks @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-01-golden-state-warriors-vs-houston-rockets@open-sports-cal
+DTSTART:20270302T013000Z
+DTEND:20270302T043000Z
+SUMMARY:Golden State Warriors @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-02-golden-state-warriors-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270303T010000Z
+DTEND:20270303T040000Z
+SUMMARY:Golden State Warriors @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-04-washington-wizards-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270305T030000Z
+DTEND:20270305T060000Z
+SUMMARY:Washington Wizards @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-07-houston-rockets-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270308T030000Z
+DTEND:20270308T060000Z
+SUMMARY:Houston Rockets @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-09-portland-trail-blazers-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270310T040000Z
+DTEND:20270310T070000Z
+SUMMARY:Portland Trail Blazers @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-10-golden-state-warriors-vs-sacramento-kings@open-sports-cal
+DTSTART:20270311T030000Z
+DTEND:20270311T060000Z
+SUMMARY:Golden State Warriors @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-12-golden-state-warriors-vs-denver-nuggets@open-sports-cal
+DTSTART:20270313T030000Z
+DTEND:20270313T060000Z
+SUMMARY:Golden State Warriors @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-14-golden-state-warriors-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270315T020000Z
+DTEND:20270315T050000Z
+SUMMARY:Golden State Warriors @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-16-cleveland-cavaliers-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270317T020000Z
+DTEND:20270317T050000Z
+SUMMARY:Cleveland Cavaliers @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-17-memphis-grizzlies-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270318T020000Z
+DTEND:20270318T050000Z
+SUMMARY:Memphis Grizzlies @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-19-portland-trail-blazers-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270320T020000Z
+DTEND:20270320T050000Z
+SUMMARY:Portland Trail Blazers @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-22-atlanta-hawks-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270323T020000Z
+DTEND:20270323T050000Z
+SUMMARY:Atlanta Hawks @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-philadelphia-76ers-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270325T020000Z
+DTEND:20270325T050000Z
+SUMMARY:Philadelphia 76ers @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-25-toronto-raptors-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270326T020000Z
+DTEND:20270326T050000Z
+SUMMARY:Toronto Raptors @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-27-golden-state-warriors-vs-washington-wizards@open-sports-cal
+DTSTART:20270327T230000Z
+DTEND:20270328T020000Z
+SUMMARY:Golden State Warriors @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-29-golden-state-warriors-vs-brooklyn-nets@open-sports-cal
+DTSTART:20270329T233000Z
+DTEND:20270330T023000Z
+SUMMARY:Golden State Warriors @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-31-golden-state-warriors-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270331T230000Z
+DTEND:20270401T020000Z
+SUMMARY:Golden State Warriors @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-02-golden-state-warriors-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270402T233000Z
+DTEND:20270403T023000Z
+SUMMARY:Golden State Warriors @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-golden-state-warriors-vs-sacramento-kings@open-sports-cal
+DTSTART:20270404T220000Z
+DTEND:20270405T010000Z
+SUMMARY:Golden State Warriors @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-06-phoenix-suns-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270407T030000Z
+DTEND:20270407T060000Z
+SUMMARY:Phoenix Suns @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-08-golden-state-warriors-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270409T013000Z
+DTEND:20270409T043000Z
+SUMMARY:Golden State Warriors @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-golden-state-warriors-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270410T000000Z
+DTEND:20270410T030000Z
+SUMMARY:Golden State Warriors @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-utah-jazz-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270412T003000Z
+DTEND:20270412T033000Z
+SUMMARY:Utah Jazz @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR

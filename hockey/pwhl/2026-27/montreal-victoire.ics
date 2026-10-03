@@ -1,0 +1,393 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//PWHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PWHL 2026-27 - Montréal Victoire
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-24-montreal-victoire-vs-new-york-sirens@open-sports-cal
+DTSTART:20261124T160000Z
+DTEND:20261124T190000Z
+SUMMARY:Montréal Victoire @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ New York Sirens\nBoston Sports Institute | Wellesley, Wellesley, MA
+LOCATION:Boston Sports Institute | Wellesley, Wellesley, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-25-boston-fleet-vs-montreal-victoire@open-sports-cal
+DTSTART:20261125T130000Z
+DTEND:20261125T160000Z
+SUMMARY:Boston Fleet @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Montréal Victoire\nBoston Sports Institute | Wellesley, Wellesley, MA
+LOCATION:Boston Sports Institute | Wellesley, Wellesley, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-05-pwhl-hamilton-vs-montreal-victoire@open-sports-cal
+DTSTART:20261205T190000Z
+DTEND:20261205T220000Z
+SUMMARY:PWHL Hamilton @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-12-pwhl-san-jose-vs-montreal-victoire@open-sports-cal
+DTSTART:20261212T140000Z
+DTEND:20261212T170000Z
+SUMMARY:PWHL San Jose @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nPWHL San Jose @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-16-montreal-victoire-vs-boston-fleet@open-sports-cal
+DTSTART:20261216T190000Z
+DTEND:20261216T220000Z
+SUMMARY:Montréal Victoire @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-20-montreal-victoire-vs-minnesota-frost@open-sports-cal
+DTSTART:20261220T140000Z
+DTEND:20261220T170000Z
+SUMMARY:Montréal Victoire @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-26-ottawa-charge-vs-montreal-victoire@open-sports-cal
+DTSTART:20261226T140000Z
+DTEND:20261226T170000Z
+SUMMARY:Ottawa Charge @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-29-pwhl-hamilton-vs-montreal-victoire@open-sports-cal
+DTSTART:20261229T190000Z
+DTEND:20261229T220000Z
+SUMMARY:PWHL Hamilton @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-03-montreal-victoire-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Montréal Victoire @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-06-pwhl-las-vegas-vs-montreal-victoire@open-sports-cal
+DTSTART:20270106T190000Z
+DTEND:20270106T220000Z
+SUMMARY:PWHL Las Vegas @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-10-montreal-victoire-vs-seattle-torrent@open-sports-cal
+DTSTART:20270110T203000Z
+DTEND:20270110T233000Z
+SUMMARY:Montréal Victoire @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-12-montreal-victoire-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270112T210000Z
+DTEND:20270113T000000Z
+SUMMARY:Montréal Victoire @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-16-montreal-victoire-vs-pwhl-san-jose@open-sports-cal
+DTSTART:20270116T190000Z
+DTEND:20270116T220000Z
+SUMMARY:Montréal Victoire @ PWHL San Jose
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ PWHL San Jose\nSAP Center | San Jose, San Jose, CA
+LOCATION:SAP Center | San Jose, San Jose, CA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-20-montreal-victoire-vs-pwhl-detroit@open-sports-cal
+DTSTART:20270120T190000Z
+DTEND:20270120T220000Z
+SUMMARY:Montréal Victoire @ PWHL Detroit
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ PWHL Detroit\nLittle Caesars Arena | Detroit, Detroit, MI
+LOCATION:Little Caesars Arena | Detroit, Detroit, MI
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-23-boston-fleet-vs-montreal-victoire@open-sports-cal
+DTSTART:20270123T140000Z
+DTEND:20270123T170000Z
+SUMMARY:Boston Fleet @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Montréal Victoire\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-31-montreal-victoire-vs-new-york-sirens@open-sports-cal
+DTSTART:20270131T130000Z
+DTEND:20270131T160000Z
+SUMMARY:Montréal Victoire @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ New York Sirens\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-06-montreal-victoire-vs-ottawa-charge@open-sports-cal
+DTSTART:20270206T140000Z
+DTEND:20270206T170000Z
+SUMMARY:Montréal Victoire @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-12-boston-fleet-vs-montreal-victoire@open-sports-cal
+DTSTART:20270212T190000Z
+DTEND:20270212T220000Z
+SUMMARY:Boston Fleet @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-17-toronto-sceptres-vs-montreal-victoire@open-sports-cal
+DTSTART:20270217T190000Z
+DTEND:20270217T220000Z
+SUMMARY:Toronto Sceptres @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-20-montreal-victoire-vs-boston-fleet@open-sports-cal
+DTSTART:20270220T150000Z
+DTEND:20270220T180000Z
+SUMMARY:Montréal Victoire @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Boston Fleet\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-23-montreal-victoire-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20270223T220000Z
+DTEND:20270224T010000Z
+SUMMARY:Montréal Victoire @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-28-montreal-victoire-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270228T130000Z
+DTEND:20270228T160000Z
+SUMMARY:Montréal Victoire @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-09-new-york-sirens-vs-montreal-victoire@open-sports-cal
+DTSTART:20270309T190000Z
+DTEND:20270309T220000Z
+SUMMARY:New York Sirens @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-12-minnesota-frost-vs-montreal-victoire@open-sports-cal
+DTSTART:20270312T190000Z
+DTEND:20270312T220000Z
+SUMMARY:Minnesota Frost @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-16-vancouver-goldeneyes-vs-montreal-victoire@open-sports-cal
+DTSTART:20270316T190000Z
+DTEND:20270316T220000Z
+SUMMARY:Vancouver Goldeneyes @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-21-montreal-victoire-vs-new-york-sirens@open-sports-cal
+DTSTART:20270321T140000Z
+DTEND:20270321T170000Z
+SUMMARY:Montréal Victoire @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-23-seattle-torrent-vs-montreal-victoire@open-sports-cal
+DTSTART:20270323T190000Z
+DTEND:20270323T220000Z
+SUMMARY:Seattle Torrent @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-27-toronto-sceptres-vs-montreal-victoire@open-sports-cal
+DTSTART:20270327T140000Z
+DTEND:20270327T170000Z
+SUMMARY:Toronto Sceptres @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Montréal Victoire\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-03-pwhl-detroit-vs-montreal-victoire@open-sports-cal
+DTSTART:20270403T190000Z
+DTEND:20270403T220000Z
+SUMMARY:PWHL Detroit @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nPWHL Detroit @ Montréal Victoire\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-07-montreal-victoire-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270407T190000Z
+DTEND:20270407T220000Z
+SUMMARY:Montréal Victoire @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-09-ottawa-charge-vs-montreal-victoire@open-sports-cal
+DTSTART:20270409T193000Z
+DTEND:20270409T223000Z
+SUMMARY:Ottawa Charge @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-18-montreal-victoire-vs-ottawa-charge@open-sports-cal
+DTSTART:20270418T000000Z
+DTEND:20270418T030000Z
+SUMMARY:Montréal Victoire @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+END:VCALENDAR

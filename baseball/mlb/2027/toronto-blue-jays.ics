@@ -1,0 +1,1792 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//MLB 2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLB 2027 - Toronto Blue Jays
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-25-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-27-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-28-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-29-toronto-blue-jays-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Toronto Blue Jays @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-03-31-toronto-blue-jays-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Toronto Blue Jays @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-01-toronto-blue-jays-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Toronto Blue Jays @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-02-seattle-mariners-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Seattle Mariners @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-03-seattle-mariners-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Seattle Mariners @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-04-seattle-mariners-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Seattle Mariners @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-05-milwaukee-brewers-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Milwaukee Brewers @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-06-milwaukee-brewers-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Milwaukee Brewers @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-07-milwaukee-brewers-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Milwaukee Brewers @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-09-toronto-blue-jays-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Toronto Blue Jays @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-10-toronto-blue-jays-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Toronto Blue Jays @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-11-toronto-blue-jays-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Toronto Blue Jays @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-13-toronto-blue-jays-vs-houston-astros@open-sports-cal
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Toronto Blue Jays @ Houston Astros
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Houston Astros\nDaikin Park\nStart time TBD
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-14-toronto-blue-jays-vs-houston-astros@open-sports-cal
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Toronto Blue Jays @ Houston Astros
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Houston Astros\nDaikin Park\nStart time TBD
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-15-toronto-blue-jays-vs-houston-astros@open-sports-cal
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Toronto Blue Jays @ Houston Astros
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Houston Astros\nDaikin Park\nStart time TBD
+LOCATION:Daikin Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-16-athletics-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Athletics @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nAthletics @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-17-athletics-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Athletics @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nAthletics @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-18-athletics-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Athletics @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nAthletics @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-20-cleveland-guardians-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Cleveland Guardians @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-21-cleveland-guardians-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Cleveland Guardians @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-22-cleveland-guardians-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Cleveland Guardians @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-23-toronto-blue-jays-vs-st-louis-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Toronto Blue Jays @ St. Louis Cardinals
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-24-toronto-blue-jays-vs-st-louis-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Toronto Blue Jays @ St. Louis Cardinals
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-25-toronto-blue-jays-vs-st-louis-cardinals@open-sports-cal
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Toronto Blue Jays @ St. Louis Cardinals
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+LOCATION:Busch Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-26-toronto-blue-jays-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Toronto Blue Jays @ New York Mets
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-27-toronto-blue-jays-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Toronto Blue Jays @ New York Mets
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-28-toronto-blue-jays-vs-new-york-mets@open-sports-cal
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Toronto Blue Jays @ New York Mets
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Mets\nCiti Field\nStart time TBD
+LOCATION:Citi Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-04-30-tampa-bay-rays-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Tampa Bay Rays @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-01-tampa-bay-rays-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Tampa Bay Rays @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-02-tampa-bay-rays-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Tampa Bay Rays @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-03-toronto-blue-jays-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-04-toronto-blue-jays-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-05-toronto-blue-jays-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-07-toronto-blue-jays-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Toronto Blue Jays @ Kansas City Royals
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-08-toronto-blue-jays-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Toronto Blue Jays @ Kansas City Royals
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-09-toronto-blue-jays-vs-kansas-city-royals@open-sports-cal
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Toronto Blue Jays @ Kansas City Royals
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Kansas City Royals\nKauffman Stadium\nStart time TBD
+LOCATION:Kauffman Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-10-boston-red-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-11-boston-red-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-12-boston-red-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-13-boston-red-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-14-baltimore-orioles-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Baltimore Orioles @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-15-baltimore-orioles-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Baltimore Orioles @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-16-baltimore-orioles-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Baltimore Orioles @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-17-baltimore-orioles-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Baltimore Orioles @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-18-toronto-blue-jays-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Toronto Blue Jays @ Texas Rangers
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-19-toronto-blue-jays-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Toronto Blue Jays @ Texas Rangers
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-20-toronto-blue-jays-vs-texas-rangers@open-sports-cal
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Toronto Blue Jays @ Texas Rangers
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Texas Rangers\nGlobe Life Field\nStart time TBD
+LOCATION:Globe Life Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-21-toronto-blue-jays-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Toronto Blue Jays @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-22-toronto-blue-jays-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Toronto Blue Jays @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-23-toronto-blue-jays-vs-cincinnati-reds@open-sports-cal
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Toronto Blue Jays @ Cincinnati Reds
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+LOCATION:Great American Ball Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-25-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-26-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-27-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-28-minnesota-twins-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Minnesota Twins @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-29-minnesota-twins-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Minnesota Twins @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-30-minnesota-twins-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Minnesota Twins @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-05-31-toronto-blue-jays-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Toronto Blue Jays @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-01-toronto-blue-jays-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Toronto Blue Jays @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-02-toronto-blue-jays-vs-philadelphia-phillies@open-sports-cal
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Toronto Blue Jays @ Philadelphia Phillies
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+LOCATION:Citizens Bank Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-04-toronto-blue-jays-vs-pittsburgh-pirates@open-sports-cal
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Toronto Blue Jays @ Pittsburgh Pirates
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Pittsburgh Pirates\nPNC Park\nStart time TBD
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-05-toronto-blue-jays-vs-pittsburgh-pirates@open-sports-cal
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Toronto Blue Jays @ Pittsburgh Pirates
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Pittsburgh Pirates\nPNC Park\nStart time TBD
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-06-toronto-blue-jays-vs-pittsburgh-pirates@open-sports-cal
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Toronto Blue Jays @ Pittsburgh Pirates
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Pittsburgh Pirates\nPNC Park\nStart time TBD
+LOCATION:PNC Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-08-arizona-diamondbacks-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Arizona Diamondbacks @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-09-arizona-diamondbacks-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Arizona Diamondbacks @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-10-arizona-diamondbacks-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Arizona Diamondbacks @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-11-philadelphia-phillies-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Philadelphia Phillies @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-12-philadelphia-phillies-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Philadelphia Phillies @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-13-philadelphia-phillies-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Philadelphia Phillies @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-14-toronto-blue-jays-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Toronto Blue Jays @ Miami Marlins
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-15-toronto-blue-jays-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Toronto Blue Jays @ Miami Marlins
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-16-toronto-blue-jays-vs-miami-marlins@open-sports-cal
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Toronto Blue Jays @ Miami Marlins
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Miami Marlins\nloanDepot park\nStart time TBD
+LOCATION:loanDepot park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-18-toronto-blue-jays-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Toronto Blue Jays @ Detroit Tigers
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-19-toronto-blue-jays-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Toronto Blue Jays @ Detroit Tigers
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-20-toronto-blue-jays-vs-detroit-tigers@open-sports-cal
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Toronto Blue Jays @ Detroit Tigers
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Detroit Tigers\nComerica Park\nStart time TBD
+LOCATION:Comerica Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-21-san-francisco-giants-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:San Francisco Giants @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-22-san-francisco-giants-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:San Francisco Giants @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-23-san-francisco-giants-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:San Francisco Giants @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-25-san-diego-padres-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:San Diego Padres @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-26-san-diego-padres-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:San Diego Padres @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-27-san-diego-padres-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:San Diego Padres @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-29-los-angeles-angels-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Los Angeles Angels @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-06-30-los-angeles-angels-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Los Angeles Angels @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-01-los-angeles-angels-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Los Angeles Angels @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-02-toronto-blue-jays-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:Toronto Blue Jays @ Colorado Rockies
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-03-toronto-blue-jays-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Toronto Blue Jays @ Colorado Rockies
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-04-toronto-blue-jays-vs-colorado-rockies@open-sports-cal
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Toronto Blue Jays @ Colorado Rockies
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Colorado Rockies\nCoors Field\nStart time TBD
+LOCATION:Coors Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-05-toronto-blue-jays-vs-athletics@open-sports-cal
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:Toronto Blue Jays @ Athletics
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Athletics\nSutter Health Park\nStart time TBD
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-06-toronto-blue-jays-vs-athletics@open-sports-cal
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Toronto Blue Jays @ Athletics
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Athletics\nSutter Health Park\nStart time TBD
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-07-toronto-blue-jays-vs-athletics@open-sports-cal
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Toronto Blue Jays @ Athletics
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Athletics\nSutter Health Park\nStart time TBD
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-08-toronto-blue-jays-vs-athletics@open-sports-cal
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Toronto Blue Jays @ Athletics
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Athletics\nSutter Health Park\nStart time TBD
+LOCATION:Sutter Health Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-09-toronto-blue-jays-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Toronto Blue Jays @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-10-toronto-blue-jays-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Toronto Blue Jays @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-11-toronto-blue-jays-vs-los-angeles-angels@open-sports-cal
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Toronto Blue Jays @ Los Angeles Angels
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Los Angeles Angels\nAngel Stadium\nStart time TBD
+LOCATION:Angel Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-16-detroit-tigers-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Detroit Tigers @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-17-detroit-tigers-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Detroit Tigers @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-18-detroit-tigers-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Detroit Tigers @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-19-chicago-white-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:Chicago White Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nChicago White Sox @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-20-chicago-white-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Chicago White Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nChicago White Sox @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-21-chicago-white-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Chicago White Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nChicago White Sox @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-22-chicago-white-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:Chicago White Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nChicago White Sox @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-23-texas-rangers-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Texas Rangers @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nTexas Rangers @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-24-texas-rangers-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:Texas Rangers @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nTexas Rangers @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-25-texas-rangers-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Texas Rangers @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nTexas Rangers @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-26-toronto-blue-jays-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Toronto Blue Jays @ Minnesota Twins
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-27-toronto-blue-jays-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Toronto Blue Jays @ Minnesota Twins
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-28-toronto-blue-jays-vs-minnesota-twins@open-sports-cal
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:Toronto Blue Jays @ Minnesota Twins
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Minnesota Twins\nTarget Field\nStart time TBD
+LOCATION:Target Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-30-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-07-31-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-01-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-02-toronto-blue-jays-vs-new-york-yankees@open-sports-cal
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Toronto Blue Jays @ New York Yankees
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Yankees\nYankee Stadium\nStart time TBD
+LOCATION:Yankee Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-03-toronto-blue-jays-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Toronto Blue Jays @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-04-toronto-blue-jays-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Toronto Blue Jays @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-05-toronto-blue-jays-vs-baltimore-orioles@open-sports-cal
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:Toronto Blue Jays @ Baltimore Orioles
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+LOCATION:Oriole Park at Camden Yards
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-06-atlanta-braves-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:Atlanta Braves @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-07-atlanta-braves-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:Atlanta Braves @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-08-atlanta-braves-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:Atlanta Braves @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-10-washington-nationals-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Washington Nationals @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nWashington Nationals @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-11-washington-nationals-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Washington Nationals @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nWashington Nationals @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-12-washington-nationals-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:Washington Nationals @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nWashington Nationals @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-13-toronto-blue-jays-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Toronto Blue Jays @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-14-toronto-blue-jays-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Toronto Blue Jays @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-15-toronto-blue-jays-vs-cleveland-guardians@open-sports-cal
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Toronto Blue Jays @ Cleveland Guardians
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Cleveland Guardians\nProgressive Field\nStart time TBD
+LOCATION:Progressive Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-16-toronto-blue-jays-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-17-toronto-blue-jays-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-18-toronto-blue-jays-vs-boston-red-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Boston Red Sox\nFenway Park\nStart time TBD
+LOCATION:Fenway Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-19-chicago-cubs-vs-toronto-blue-jays@open-sports-cal
+DTSTART:20270819T231000Z
+DTEND:20270820T021000Z
+SUMMARY:Chicago Cubs @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nChicago Cubs @ Toronto Blue Jays\nJourney Bank Ballpark
+LOCATION:Journey Bank Ballpark
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-21-chicago-cubs-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Chicago Cubs @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nChicago Cubs @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-22-chicago-cubs-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Chicago Cubs @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nChicago Cubs @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-24-kansas-city-royals-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Kansas City Royals @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nKansas City Royals @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-25-kansas-city-royals-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Kansas City Royals @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nKansas City Royals @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-26-kansas-city-royals-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:Kansas City Royals @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nKansas City Royals @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-27-baltimore-orioles-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Baltimore Orioles @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-28-baltimore-orioles-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Baltimore Orioles @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-29-baltimore-orioles-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Baltimore Orioles @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-30-toronto-blue-jays-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:Toronto Blue Jays @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-08-31-toronto-blue-jays-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Toronto Blue Jays @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-01-toronto-blue-jays-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Toronto Blue Jays @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-02-toronto-blue-jays-vs-tampa-bay-rays@open-sports-cal
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:Toronto Blue Jays @ Tampa Bay Rays
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Tampa Bay Rays\nTropicana Field\nStart time TBD
+LOCATION:Tropicana Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-03-toronto-blue-jays-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:Toronto Blue Jays @ Chicago White Sox
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-04-toronto-blue-jays-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Toronto Blue Jays @ Chicago White Sox
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-05-toronto-blue-jays-vs-chicago-white-sox@open-sports-cal
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:Toronto Blue Jays @ Chicago White Sox
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Chicago White Sox\nRate Field\nStart time TBD
+LOCATION:Rate Field
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-06-boston-red-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-07-boston-red-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-08-boston-red-sox-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-10-houston-astros-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Houston Astros @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nHouston Astros @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-11-houston-astros-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Houston Astros @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nHouston Astros @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-12-houston-astros-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Houston Astros @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nHouston Astros @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-13-toronto-blue-jays-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+SUMMARY:Toronto Blue Jays @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-14-toronto-blue-jays-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Toronto Blue Jays @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-15-toronto-blue-jays-vs-los-angeles-dodgers@open-sports-cal
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Toronto Blue Jays @ Los Angeles Dodgers
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Los Angeles Dodgers\nUNIQLO Field at Dodger Stadium\nStart time TBD
+LOCATION:UNIQLO Field at Dodger Stadium
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-17-toronto-blue-jays-vs-seattle-mariners@open-sports-cal
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:Toronto Blue Jays @ Seattle Mariners
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Seattle Mariners\nT-Mobile Park\nStart time TBD
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-18-toronto-blue-jays-vs-seattle-mariners@open-sports-cal
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:Toronto Blue Jays @ Seattle Mariners
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Seattle Mariners\nT-Mobile Park\nStart time TBD
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-19-toronto-blue-jays-vs-seattle-mariners@open-sports-cal
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Toronto Blue Jays @ Seattle Mariners
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Seattle Mariners\nT-Mobile Park\nStart time TBD
+LOCATION:T-Mobile Park
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-21-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-22-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-23-new-york-yankees-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:New York Yankees @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nNew York Yankees @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-24-tampa-bay-rays-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:Tampa Bay Rays @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-25-tampa-bay-rays-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Tampa Bay Rays @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mlb-2027-2027-09-26-tampa-bay-rays-vs-toronto-blue-jays@open-sports-cal
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Tampa Bay Rays @ Toronto Blue Jays
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Toronto Blue Jays\nRogers Centre\nStart time TBD
+LOCATION:Rogers Centre
+CATEGORIES:Baseball,MLB,MLB 2027
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,465 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//Premier League 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Premier League 2026-27 - Coventry
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:epl-2026-0@open-sports-cal
+DTSTART:20260821T190000Z
+DTEND:20260821T210000Z
+SUMMARY:Coventry @ Arsenal
+DESCRIPTION:Premier League 2026-27\nCoventry @ Arsenal\nEmirates Stadium
+LOCATION:Emirates Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-13@open-sports-cal
+DTSTART:20260829T140000Z
+DTEND:20260829T160000Z
+SUMMARY:Hull @ Coventry
+DESCRIPTION:Premier League 2026-27\nHull @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-25@open-sports-cal
+DTSTART:20260905T140000Z
+DTEND:20260905T160000Z
+SUMMARY:Coventry @ Man City
+DESCRIPTION:Premier League 2026-27\nCoventry @ Man City\nEtihad Stadium
+LOCATION:Etihad Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-37@open-sports-cal
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:Brighton @ Coventry
+DESCRIPTION:Premier League 2026-27\nBrighton @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-45@open-sports-cal
+DTSTART:20260919T163000Z
+DTEND:20260919T183000Z
+SUMMARY:Coventry @ Nott'm Forest
+DESCRIPTION:Premier League 2026-27\nCoventry @ Nott'm Forest\nThe City Ground
+LOCATION:The City Ground
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-59@open-sports-cal
+DTSTART:20261012T190000Z
+DTEND:20261012T210000Z
+SUMMARY:Newcastle @ Coventry
+DESCRIPTION:Premier League 2026-27\nNewcastle @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-69@open-sports-cal
+DTSTART:20261019T190000Z
+DTEND:20261019T210000Z
+SUMMARY:Coventry @ Spurs
+DESCRIPTION:Premier League 2026-27\nCoventry @ Spurs\nTottenham Hotspur Stadium
+LOCATION:Tottenham Hotspur Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-73@open-sports-cal
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Fulham @ Coventry
+DESCRIPTION:Premier League 2026-27\nFulham @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-83@open-sports-cal
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Sunderland @ Coventry
+DESCRIPTION:Premier League 2026-27\nSunderland @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-90@open-sports-cal
+DTSTART:20261106T200000Z
+DTEND:20261106T220000Z
+SUMMARY:Coventry @ Everton
+DESCRIPTION:Premier League 2026-27\nCoventry @ Everton\nHill Dickinson Stadium
+LOCATION:Hill Dickinson Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-104@open-sports-cal
+DTSTART:20261121T150000Z
+DTEND:20261121T170000Z
+SUMMARY:Crystal Palace @ Coventry
+DESCRIPTION:Premier League 2026-27\nCrystal Palace @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-111@open-sports-cal
+DTSTART:20261128T150000Z
+DTEND:20261128T170000Z
+SUMMARY:Coventry @ Leeds
+DESCRIPTION:Premier League 2026-27\nCoventry @ Leeds\nElland Road
+LOCATION:Elland Road
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-124@open-sports-cal
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Ipswich @ Coventry
+DESCRIPTION:Premier League 2026-27\nIpswich @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-136@open-sports-cal
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Coventry @ Man Utd
+DESCRIPTION:Premier League 2026-27\nCoventry @ Man Utd\nOld Trafford
+LOCATION:Old Trafford
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-142@open-sports-cal
+DTSTART:20261212T150000Z
+DTEND:20261212T170000Z
+SUMMARY:Aston Villa @ Coventry
+DESCRIPTION:Premier League 2026-27\nAston Villa @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-150@open-sports-cal
+DTSTART:20261219T150000Z
+DTEND:20261219T170000Z
+SUMMARY:Coventry @ Bournemouth
+DESCRIPTION:Premier League 2026-27\nCoventry @ Bournemouth\nVitality Stadium
+LOCATION:Vitality Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-167@open-sports-cal
+DTSTART:20261227T140000Z
+DTEND:20261227T160000Z
+SUMMARY:Chelsea @ Coventry
+DESCRIPTION:Premier League 2026-27\nChelsea @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-173@open-sports-cal
+DTSTART:20261230T193000Z
+DTEND:20261230T213000Z
+SUMMARY:Brentford @ Coventry
+DESCRIPTION:Premier League 2026-27\nBrentford @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-184@open-sports-cal
+DTSTART:20270102T150000Z
+DTEND:20270102T170000Z
+SUMMARY:Coventry @ Liverpool
+DESCRIPTION:Premier League 2026-27\nCoventry @ Liverpool\nAnfield
+LOCATION:Anfield
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-197@open-sports-cal
+DTSTART:20270106T193000Z
+DTEND:20270106T213000Z
+SUMMARY:Coventry @ Ipswich
+DESCRIPTION:Premier League 2026-27\nCoventry @ Ipswich\nPortman Road
+LOCATION:Portman Road
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-204@open-sports-cal
+DTSTART:20270116T150000Z
+DTEND:20270116T170000Z
+SUMMARY:Everton @ Coventry
+DESCRIPTION:Premier League 2026-27\nEverton @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-219@open-sports-cal
+DTSTART:20270123T150000Z
+DTEND:20270123T170000Z
+SUMMARY:Coventry @ Sunderland
+DESCRIPTION:Premier League 2026-27\nCoventry @ Sunderland\nStadium of Light
+LOCATION:Stadium of Light
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-224@open-sports-cal
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:Leeds @ Coventry
+DESCRIPTION:Premier League 2026-27\nLeeds @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-232@open-sports-cal
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:Coventry @ Crystal Palace
+DESCRIPTION:Premier League 2026-27\nCoventry @ Crystal Palace\nSelhurst Park
+LOCATION:Selhurst Park
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-241@open-sports-cal
+DTSTART:20270210T200000Z
+DTEND:20270210T220000Z
+SUMMARY:Liverpool @ Coventry
+DESCRIPTION:Premier League 2026-27\nLiverpool @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-252@open-sports-cal
+DTSTART:20270220T150000Z
+DTEND:20270220T170000Z
+SUMMARY:Coventry @ Brentford
+DESCRIPTION:Premier League 2026-27\nCoventry @ Brentford\nGtech Community Stadium
+LOCATION:Gtech Community Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-261@open-sports-cal
+DTSTART:20270227T150000Z
+DTEND:20270227T170000Z
+SUMMARY:Bournemouth @ Coventry
+DESCRIPTION:Premier League 2026-27\nBournemouth @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-274@open-sports-cal
+DTSTART:20270303T200000Z
+DTEND:20270303T220000Z
+SUMMARY:Coventry @ Chelsea
+DESCRIPTION:Premier League 2026-27\nCoventry @ Chelsea\nStamford Bridge
+LOCATION:Stamford Bridge
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-283@open-sports-cal
+DTSTART:20270313T150000Z
+DTEND:20270313T170000Z
+SUMMARY:Man City @ Coventry
+DESCRIPTION:Premier League 2026-27\nMan City @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-292@open-sports-cal
+DTSTART:20270320T150000Z
+DTEND:20270320T170000Z
+SUMMARY:Coventry @ Brighton
+DESCRIPTION:Premier League 2026-27\nCoventry @ Brighton\nAmerican Express Stadium
+LOCATION:American Express Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-303@open-sports-cal
+DTSTART:20270410T140000Z
+DTEND:20270410T160000Z
+SUMMARY:Arsenal @ Coventry
+DESCRIPTION:Premier League 2026-27\nArsenal @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-315@open-sports-cal
+DTSTART:20270417T140000Z
+DTEND:20270417T160000Z
+SUMMARY:Coventry @ Hull
+DESCRIPTION:Premier League 2026-27\nCoventry @ Hull\nMKM Stadium
+LOCATION:MKM Stadium
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-321@open-sports-cal
+DTSTART:20270424T140000Z
+DTEND:20270424T160000Z
+SUMMARY:Coventry @ Aston Villa
+DESCRIPTION:Premier League 2026-27\nCoventry @ Aston Villa\nVilla Park
+LOCATION:Villa Park
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-332@open-sports-cal
+DTSTART:20270501T140000Z
+DTEND:20270501T160000Z
+SUMMARY:Man Utd @ Coventry
+DESCRIPTION:Premier League 2026-27\nMan Utd @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-347@open-sports-cal
+DTSTART:20270508T140000Z
+DTEND:20270508T160000Z
+SUMMARY:Coventry @ Newcastle
+DESCRIPTION:Premier League 2026-27\nCoventry @ Newcastle\nSt. James' Park
+LOCATION:St. James' Park
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-353@open-sports-cal
+DTSTART:20270515T140000Z
+DTEND:20270515T160000Z
+SUMMARY:Spurs @ Coventry
+DESCRIPTION:Premier League 2026-27\nSpurs @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-364@open-sports-cal
+DTSTART:20270523T140000Z
+DTEND:20270523T160000Z
+SUMMARY:Coventry @ Fulham
+DESCRIPTION:Premier League 2026-27\nCoventry @ Fulham\nCraven Cottage
+LOCATION:Craven Cottage
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-2026-373@open-sports-cal
+DTSTART:20270530T150000Z
+DTEND:20270530T170000Z
+SUMMARY:Nott'm Forest @ Coventry
+DESCRIPTION:Premier League 2026-27\nNott'm Forest @ Coventry\nCoventry Building Society Arena
+LOCATION:Coventry Building Society Arena
+CATEGORIES:Football,Premier League,Premier League 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034530Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+END:VCALENDAR

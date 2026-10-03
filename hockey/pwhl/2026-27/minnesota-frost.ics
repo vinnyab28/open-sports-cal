@@ -1,0 +1,393 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//PWHL 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PWHL 2026-27 - Minnesota Frost
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-22-minnesota-frost-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20261122T215000Z
+DTEND:20261123T005000Z
+SUMMARY:Minnesota Frost @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ PWHL Las Vegas\nAmerica First Center | Henderson, Henderson, NV
+LOCATION:America First Center | Henderson, Henderson, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-11-23-vancouver-goldeneyes-vs-minnesota-frost@open-sports-cal
+DTSTART:20261123T160000Z
+DTEND:20261123T190000Z
+SUMMARY:Vancouver Goldeneyes @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ Minnesota Frost\nAmerica First Center | Henderson, Henderson, NV
+LOCATION:America First Center | Henderson, Henderson, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-05-minnesota-frost-vs-pwhl-san-jose@open-sports-cal
+DTSTART:20261205T190000Z
+DTEND:20261205T220000Z
+SUMMARY:Minnesota Frost @ PWHL San Jose
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ PWHL San Jose\nSAP Center | San Jose, San Jose, CA
+LOCATION:SAP Center | San Jose, San Jose, CA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-10-minnesota-frost-vs-pwhl-las-vegas@open-sports-cal
+DTSTART:20261210T220000Z
+DTEND:20261211T010000Z
+SUMMARY:Minnesota Frost @ PWHL Las Vegas
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ PWHL Las Vegas\nT-Mobile Arena | Las Vegas, Las Vegas, NV
+LOCATION:T-Mobile Arena | Las Vegas, Las Vegas, NV
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-13-seattle-torrent-vs-minnesota-frost@open-sports-cal
+DTSTART:20261213T140000Z
+DTEND:20261213T170000Z
+SUMMARY:Seattle Torrent @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-17-vancouver-goldeneyes-vs-minnesota-frost@open-sports-cal
+DTSTART:20261217T190000Z
+DTEND:20261217T220000Z
+SUMMARY:Vancouver Goldeneyes @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nVancouver Goldeneyes @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-20-montreal-victoire-vs-minnesota-frost@open-sports-cal
+DTSTART:20261220T140000Z
+DTEND:20261220T170000Z
+SUMMARY:Montréal Victoire @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nMontréal Victoire @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-27-minnesota-frost-vs-seattle-torrent@open-sports-cal
+DTSTART:20261227T190000Z
+DTEND:20261227T220000Z
+SUMMARY:Minnesota Frost @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ Seattle Torrent\nClimate Pledge Arena | Seattle, Seattle, WA
+LOCATION:Climate Pledge Arena | Seattle, Seattle, WA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2026-12-31-pwhl-hamilton-vs-minnesota-frost@open-sports-cal
+DTSTART:20261231T200000Z
+DTEND:20261231T230000Z
+SUMMARY:PWHL Hamilton @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nPWHL Hamilton @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-03-pwhl-san-jose-vs-minnesota-frost@open-sports-cal
+DTSTART:20270103T140000Z
+DTEND:20270103T170000Z
+SUMMARY:PWHL San Jose @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nPWHL San Jose @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-09-pwhl-detroit-vs-minnesota-frost@open-sports-cal
+DTSTART:20270109T190000Z
+DTEND:20270109T220000Z
+SUMMARY:PWHL Detroit @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nPWHL Detroit @ Minnesota Frost\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-16-minnesota-frost-vs-new-york-sirens@open-sports-cal
+DTSTART:20270116T120000Z
+DTEND:20270116T150000Z
+SUMMARY:Minnesota Frost @ New York Sirens
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ New York Sirens\nPrudential Center | Newark, Newark, NJ
+LOCATION:Prudential Center | Newark, Newark, NJ
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-19-minnesota-frost-vs-ottawa-charge@open-sports-cal
+DTSTART:20270119T190000Z
+DTEND:20270119T220000Z
+SUMMARY:Minnesota Frost @ Ottawa Charge
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ Ottawa Charge\nCanadian Tire Centre | Ottawa, Ottawa, ON
+LOCATION:Canadian Tire Centre | Ottawa, Ottawa, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-23-minnesota-frost-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270123T190000Z
+DTEND:20270123T220000Z
+SUMMARY:Minnesota Frost @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ Vancouver Goldeneyes\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-01-29-boston-fleet-vs-minnesota-frost@open-sports-cal
+DTSTART:20270129T190000Z
+DTEND:20270129T220000Z
+SUMMARY:Boston Fleet @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nBoston Fleet @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-02-pwhl-las-vegas-vs-minnesota-frost@open-sports-cal
+DTSTART:20270202T190000Z
+DTEND:20270202T220000Z
+SUMMARY:PWHL Las Vegas @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-04-minnesota-frost-vs-pwhl-detroit@open-sports-cal
+DTSTART:20270204T190000Z
+DTEND:20270204T220000Z
+SUMMARY:Minnesota Frost @ PWHL Detroit
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ PWHL Detroit\nLittle Caesars Arena | Detroit, Detroit, MI
+LOCATION:Little Caesars Arena | Detroit, Detroit, MI
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-06-pwhl-san-jose-vs-minnesota-frost@open-sports-cal
+DTSTART:20270206T123000Z
+DTEND:20270206T153000Z
+SUMMARY:PWHL San Jose @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nPWHL San Jose @ Minnesota Frost\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-10-minnesota-frost-vs-vancouver-goldeneyes@open-sports-cal
+DTSTART:20270210T213000Z
+DTEND:20270211T003000Z
+SUMMARY:Minnesota Frost @ Vancouver Goldeneyes
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ Vancouver Goldeneyes\nPacific Coliseum | Vancouver, Vancouver, BC
+LOCATION:Pacific Coliseum | Vancouver, Vancouver, BC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Vancouver
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-17-new-york-sirens-vs-minnesota-frost@open-sports-cal
+DTSTART:20270217T190000Z
+DTEND:20270217T220000Z
+SUMMARY:New York Sirens @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nNew York Sirens @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-20-ottawa-charge-vs-minnesota-frost@open-sports-cal
+DTSTART:20270220T190000Z
+DTEND:20270220T220000Z
+SUMMARY:Ottawa Charge @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nOttawa Charge @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-02-27-minnesota-frost-vs-toronto-sceptres@open-sports-cal
+DTSTART:20270227T140000Z
+DTEND:20270227T170000Z
+SUMMARY:Minnesota Frost @ Toronto Sceptres
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ Toronto Sceptres\nCoca-Cola Coliseum | Toronto, Toronto, ON
+LOCATION:Coca-Cola Coliseum | Toronto, Toronto, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-12-minnesota-frost-vs-montreal-victoire@open-sports-cal
+DTSTART:20270312T190000Z
+DTEND:20270312T220000Z
+SUMMARY:Minnesota Frost @ Montréal Victoire
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ Montréal Victoire\nPlace Bell | Laval, Laval, QC
+LOCATION:Place Bell | Laval, Laval, QC
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-14-minnesota-frost-vs-boston-fleet@open-sports-cal
+DTSTART:20270314T130000Z
+DTEND:20270314T160000Z
+SUMMARY:Minnesota Frost @ Boston Fleet
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ Boston Fleet\nAgganis Arena | Boston, Boston, MA
+LOCATION:Agganis Arena | Boston, Boston, MA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-18-minnesota-frost-vs-pwhl-san-jose@open-sports-cal
+DTSTART:20270318T220000Z
+DTEND:20270319T010000Z
+SUMMARY:Minnesota Frost @ PWHL San Jose
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ PWHL San Jose\nSAP Center | San Jose, San Jose, CA
+LOCATION:SAP Center | San Jose, San Jose, CA
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-20-pwhl-detroit-vs-minnesota-frost@open-sports-cal
+DTSTART:20270320T150000Z
+DTEND:20270320T180000Z
+SUMMARY:PWHL Detroit @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nPWHL Detroit @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-26-seattle-torrent-vs-minnesota-frost@open-sports-cal
+DTSTART:20270326T190000Z
+DTEND:20270326T220000Z
+SUMMARY:Seattle Torrent @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nSeattle Torrent @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-03-28-minnesota-frost-vs-pwhl-hamilton@open-sports-cal
+DTSTART:20270328T140000Z
+DTEND:20270328T170000Z
+SUMMARY:Minnesota Frost @ PWHL Hamilton
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ PWHL Hamilton\nTD Coliseum | Hamilton, Hamilton, ON
+LOCATION:TD Coliseum | Hamilton, Hamilton, ON
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-03-toronto-sceptres-vs-minnesota-frost@open-sports-cal
+DTSTART:20270403T150000Z
+DTEND:20270403T180000Z
+SUMMARY:Toronto Sceptres @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nToronto Sceptres @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-09-minnesota-frost-vs-seattle-torrent@open-sports-cal
+DTSTART:20270409T210000Z
+DTEND:20270410T000000Z
+SUMMARY:Minnesota Frost @ Seattle Torrent
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ Seattle Torrent\nTBD
+LOCATION:TBD
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-11-minnesota-frost-vs-pwhl-detroit@open-sports-cal
+DTSTART:20270411T130000Z
+DTEND:20270411T160000Z
+SUMMARY:Minnesota Frost @ PWHL Detroit
+DESCRIPTION:PWHL 2026-27\nMinnesota Frost @ PWHL Detroit\nLittle Caesars Arena | Detroit, Detroit, MI
+LOCATION:Little Caesars Arena | Detroit, Detroit, MI
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:pwhl-2026-27-2027-04-16-pwhl-las-vegas-vs-minnesota-frost@open-sports-cal
+DTSTART:20270416T000000Z
+DTEND:20270416T030000Z
+SUMMARY:PWHL Las Vegas @ Minnesota Frost
+DESCRIPTION:PWHL 2026-27\nPWHL Las Vegas @ Minnesota Frost\nGrand Casino Arena | St. Paul, St. Paul, MN
+LOCATION:Grand Casino Arena | St. Paul, St. Paul, MN
+CATEGORIES:Hockey,PWHL,PWHL 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034538Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

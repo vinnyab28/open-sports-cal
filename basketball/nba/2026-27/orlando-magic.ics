@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Orlando Magic
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-21-atlanta-hawks-vs-orlando-magic@open-sports-cal
+DTSTART:20261021T230000Z
+DTEND:20261022T020000Z
+SUMMARY:Atlanta Hawks @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-23-minnesota-timberwolves-vs-orlando-magic@open-sports-cal
+DTSTART:20261023T230000Z
+DTEND:20261024T020000Z
+SUMMARY:Minnesota Timberwolves @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-25-orlando-magic-vs-new-york-knicks@open-sports-cal
+DTSTART:20261025T230000Z
+DTEND:20261026T020000Z
+SUMMARY:Orlando Magic @ New York Knicks
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-28-orlando-magic-vs-toronto-raptors@open-sports-cal
+DTSTART:20261028T233000Z
+DTEND:20261029T023000Z
+SUMMARY:Orlando Magic @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-30-orlando-magic-vs-toronto-raptors@open-sports-cal
+DTSTART:20261030T233000Z
+DTEND:20261031T023000Z
+SUMMARY:Orlando Magic @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-01-boston-celtics-vs-orlando-magic@open-sports-cal
+DTSTART:20261101T203000Z
+DTEND:20261101T233000Z
+SUMMARY:Boston Celtics @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-washington-wizards-vs-orlando-magic@open-sports-cal
+DTSTART:20261103T003000Z
+DTEND:20261103T033000Z
+SUMMARY:Washington Wizards @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-05-orlando-magic-vs-phoenix-suns@open-sports-cal
+DTSTART:20261106T020000Z
+DTEND:20261106T050000Z
+SUMMARY:Orlando Magic @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-07-orlando-magic-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261108T013000Z
+DTEND:20261108T043000Z
+SUMMARY:Orlando Magic @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-10-orlando-magic-vs-sacramento-kings@open-sports-cal
+DTSTART:20261111T030000Z
+DTEND:20261111T060000Z
+SUMMARY:Orlando Magic @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-11-orlando-magic-vs-utah-jazz@open-sports-cal
+DTSTART:20261112T020000Z
+DTEND:20261112T050000Z
+SUMMARY:Orlando Magic @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-13-milwaukee-bucks-vs-orlando-magic@open-sports-cal
+DTSTART:20261114T000000Z
+DTEND:20261114T030000Z
+SUMMARY:Milwaukee Bucks @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-16-orlando-magic-vs-boston-celtics@open-sports-cal
+DTSTART:20261117T000000Z
+DTEND:20261117T030000Z
+SUMMARY:Orlando Magic @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-philadelphia-76ers-vs-orlando-magic@open-sports-cal
+DTSTART:20261119T000000Z
+DTEND:20261119T030000Z
+SUMMARY:Philadelphia 76ers @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-20-orlando-magic-vs-brooklyn-nets@open-sports-cal
+DTSTART:20261121T003000Z
+DTEND:20261121T033000Z
+SUMMARY:Orlando Magic @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-22-orlando-magic-vs-washington-wizards@open-sports-cal
+DTSTART:20261123T000000Z
+DTEND:20261123T030000Z
+SUMMARY:Orlando Magic @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-24-detroit-pistons-vs-orlando-magic@open-sports-cal
+DTSTART:20261125T000000Z
+DTEND:20261125T030000Z
+SUMMARY:Detroit Pistons @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-28-orlando-magic-vs-washington-wizards@open-sports-cal
+DTSTART:20261128T220000Z
+DTEND:20261129T010000Z
+SUMMARY:Orlando Magic @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-29-orlando-magic-vs-detroit-pistons@open-sports-cal
+DTSTART:20261129T230000Z
+DTEND:20261130T020000Z
+SUMMARY:Orlando Magic @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-02-orlando-magic-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261203T010000Z
+DTEND:20261203T040000Z
+SUMMARY:Orlando Magic @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-12-orlando-magic-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261213T003000Z
+DTEND:20261213T033000Z
+SUMMARY:Orlando Magic @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-14-philadelphia-76ers-vs-orlando-magic@open-sports-cal
+DTSTART:20261215T000000Z
+DTEND:20261215T030000Z
+SUMMARY:Philadelphia 76ers @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-cleveland-cavaliers-vs-orlando-magic@open-sports-cal
+DTSTART:20261217T000000Z
+DTEND:20261217T030000Z
+SUMMARY:Cleveland Cavaliers @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-18-orlando-magic-vs-brooklyn-nets@open-sports-cal
+DTSTART:20261219T003000Z
+DTEND:20261219T033000Z
+SUMMARY:Orlando Magic @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-19-orlando-magic-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261220T000000Z
+DTEND:20261220T030000Z
+SUMMARY:Orlando Magic @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-21-sacramento-kings-vs-orlando-magic@open-sports-cal
+DTSTART:20261222T000000Z
+DTEND:20261222T030000Z
+SUMMARY:Sacramento Kings @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-charlotte-hornets-vs-orlando-magic@open-sports-cal
+DTSTART:20261224T000000Z
+DTEND:20261224T030000Z
+SUMMARY:Charlotte Hornets @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-26-toronto-raptors-vs-orlando-magic@open-sports-cal
+DTSTART:20261227T000000Z
+DTEND:20261227T030000Z
+SUMMARY:Toronto Raptors @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-27-milwaukee-bucks-vs-orlando-magic@open-sports-cal
+DTSTART:20261227T230000Z
+DTEND:20261228T020000Z
+SUMMARY:Milwaukee Bucks @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-29-orlando-magic-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261230T000000Z
+DTEND:20261230T030000Z
+SUMMARY:Orlando Magic @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-31-orlando-magic-vs-indiana-pacers@open-sports-cal
+DTSTART:20261231T200000Z
+DTEND:20261231T230000Z
+SUMMARY:Orlando Magic @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-01-orlando-magic-vs-detroit-pistons@open-sports-cal
+DTSTART:20270102T003000Z
+DTEND:20270102T033000Z
+SUMMARY:Orlando Magic @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-03-memphis-grizzlies-vs-orlando-magic@open-sports-cal
+DTSTART:20270103T230000Z
+DTEND:20270104T020000Z
+SUMMARY:Memphis Grizzlies @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-05-la-clippers-vs-orlando-magic@open-sports-cal
+DTSTART:20270106T000000Z
+DTEND:20270106T030000Z
+SUMMARY:LA Clippers @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-cleveland-cavaliers-vs-orlando-magic@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Cleveland Cavaliers @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-08-orlando-magic-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270109T010000Z
+DTEND:20270109T040000Z
+SUMMARY:Orlando Magic @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-10-oklahoma-city-thunder-vs-orlando-magic@open-sports-cal
+DTSTART:20270110T230000Z
+DTEND:20270111T020000Z
+SUMMARY:Oklahoma City Thunder @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-12-orlando-magic-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270113T030000Z
+DTEND:20270113T060000Z
+SUMMARY:Orlando Magic @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-14-orlando-magic-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270115T030000Z
+DTEND:20270115T060000Z
+SUMMARY:Orlando Magic @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-15-orlando-magic-vs-la-clippers@open-sports-cal
+DTSTART:20270116T033000Z
+DTEND:20270116T063000Z
+SUMMARY:Orlando Magic @ LA Clippers
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-17-orlando-magic-vs-denver-nuggets@open-sports-cal
+DTSTART:20270118T010000Z
+DTEND:20270118T040000Z
+SUMMARY:Orlando Magic @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-19-golden-state-warriors-vs-orlando-magic@open-sports-cal
+DTSTART:20270120T000000Z
+DTEND:20270120T030000Z
+SUMMARY:Golden State Warriors @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-22-portland-trail-blazers-vs-orlando-magic@open-sports-cal
+DTSTART:20270123T000000Z
+DTEND:20270123T030000Z
+SUMMARY:Portland Trail Blazers @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-24-houston-rockets-vs-orlando-magic@open-sports-cal
+DTSTART:20270124T230000Z
+DTEND:20270125T020000Z
+SUMMARY:Houston Rockets @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-25-orlando-magic-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270126T000000Z
+DTEND:20270126T030000Z
+SUMMARY:Orlando Magic @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-28-chicago-bulls-vs-orlando-magic@open-sports-cal
+DTSTART:20270129T000000Z
+DTEND:20270129T030000Z
+SUMMARY:Chicago Bulls @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-29-orlando-magic-vs-houston-rockets@open-sports-cal
+DTSTART:20270130T013000Z
+DTEND:20270130T043000Z
+SUMMARY:Orlando Magic @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-31-brooklyn-nets-vs-orlando-magic@open-sports-cal
+DTSTART:20270131T230000Z
+DTEND:20270201T020000Z
+SUMMARY:Brooklyn Nets @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-02-new-orleans-pelicans-vs-orlando-magic@open-sports-cal
+DTSTART:20270203T000000Z
+DTEND:20270203T030000Z
+SUMMARY:New Orleans Pelicans @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-04-orlando-magic-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270205T010000Z
+DTEND:20270205T040000Z
+SUMMARY:Orlando Magic @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-06-orlando-magic-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20270207T003000Z
+DTEND:20270207T033000Z
+SUMMARY:Orlando Magic @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-08-orlando-magic-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270209T010000Z
+DTEND:20270209T040000Z
+SUMMARY:Orlando Magic @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-10-orlando-magic-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270211T010000Z
+DTEND:20270211T040000Z
+SUMMARY:Orlando Magic @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-12-miami-heat-vs-orlando-magic@open-sports-cal
+DTSTART:20270213T000000Z
+DTEND:20270213T030000Z
+SUMMARY:Miami Heat @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-13-san-antonio-spurs-vs-orlando-magic@open-sports-cal
+DTSTART:20270214T000000Z
+DTEND:20270214T030000Z
+SUMMARY:San Antonio Spurs @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-15-orlando-magic-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270216T010000Z
+DTEND:20270216T040000Z
+SUMMARY:Orlando Magic @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-dallas-mavericks-vs-orlando-magic@open-sports-cal
+DTSTART:20270218T000000Z
+DTEND:20270218T030000Z
+SUMMARY:Dallas Mavericks @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-25-charlotte-hornets-vs-orlando-magic@open-sports-cal
+DTSTART:20270226T000000Z
+DTEND:20270226T030000Z
+SUMMARY:Charlotte Hornets @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-28-atlanta-hawks-vs-orlando-magic@open-sports-cal
+DTSTART:20270228T213000Z
+DTEND:20270301T003000Z
+SUMMARY:Atlanta Hawks @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-02-los-angeles-lakers-vs-orlando-magic@open-sports-cal
+DTSTART:20270303T000000Z
+DTEND:20270303T030000Z
+SUMMARY:Los Angeles Lakers @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-04-indiana-pacers-vs-orlando-magic@open-sports-cal
+DTSTART:20270305T000000Z
+DTEND:20270305T030000Z
+SUMMARY:Indiana Pacers @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-05-utah-jazz-vs-orlando-magic@open-sports-cal
+DTSTART:20270306T000000Z
+DTEND:20270306T030000Z
+SUMMARY:Utah Jazz @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-09-phoenix-suns-vs-orlando-magic@open-sports-cal
+DTSTART:20270310T000000Z
+DTEND:20270310T030000Z
+SUMMARY:Phoenix Suns @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-10-orlando-magic-vs-miami-heat@open-sports-cal
+DTSTART:20270311T000000Z
+DTEND:20270311T030000Z
+SUMMARY:Orlando Magic @ Miami Heat
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-13-orlando-magic-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270313T200000Z
+DTEND:20270313T230000Z
+SUMMARY:Orlando Magic @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-15-orlando-magic-vs-chicago-bulls@open-sports-cal
+DTSTART:20270316T000000Z
+DTEND:20270316T030000Z
+SUMMARY:Orlando Magic @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-16-orlando-magic-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270317T000000Z
+DTEND:20270317T030000Z
+SUMMARY:Orlando Magic @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-18-orlando-magic-vs-boston-celtics@open-sports-cal
+DTSTART:20270318T233000Z
+DTEND:20270319T023000Z
+SUMMARY:Orlando Magic @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-20-denver-nuggets-vs-orlando-magic@open-sports-cal
+DTSTART:20270320T230000Z
+DTEND:20270321T020000Z
+SUMMARY:Denver Nuggets @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-22-indiana-pacers-vs-orlando-magic@open-sports-cal
+DTSTART:20270322T230000Z
+DTEND:20270323T020000Z
+SUMMARY:Indiana Pacers @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-orlando-magic-vs-chicago-bulls@open-sports-cal
+DTSTART:20270325T000000Z
+DTEND:20270325T030000Z
+SUMMARY:Orlando Magic @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-26-orlando-magic-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270327T000000Z
+DTEND:20270327T030000Z
+SUMMARY:Orlando Magic @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-28-new-york-knicks-vs-orlando-magic@open-sports-cal
+DTSTART:20270328T163000Z
+DTEND:20270328T193000Z
+SUMMARY:New York Knicks @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-30-new-york-knicks-vs-orlando-magic@open-sports-cal
+DTSTART:20270331T000000Z
+DTEND:20270331T030000Z
+SUMMARY:New York Knicks @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-01-orlando-magic-vs-indiana-pacers@open-sports-cal
+DTSTART:20270401T230000Z
+DTEND:20270402T020000Z
+SUMMARY:Orlando Magic @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-03-washington-wizards-vs-orlando-magic@open-sports-cal
+DTSTART:20270403T230000Z
+DTEND:20270404T020000Z
+SUMMARY:Washington Wizards @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-05-miami-heat-vs-orlando-magic@open-sports-cal
+DTSTART:20270405T230000Z
+DTEND:20270406T020000Z
+SUMMARY:Miami Heat @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-07-boston-celtics-vs-orlando-magic@open-sports-cal
+DTSTART:20270407T230000Z
+DTEND:20270408T020000Z
+SUMMARY:Boston Celtics @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-toronto-raptors-vs-orlando-magic@open-sports-cal
+DTSTART:20270409T230000Z
+DTEND:20270410T020000Z
+SUMMARY:Toronto Raptors @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-orlando-magic-vs-miami-heat@open-sports-cal
+DTSTART:20270411T220000Z
+DTEND:20270412T010000Z
+SUMMARY:Orlando Magic @ Miami Heat
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

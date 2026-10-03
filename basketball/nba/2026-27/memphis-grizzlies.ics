@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Memphis Grizzlies
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-21-utah-jazz-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261022T000000Z
+DTEND:20261022T030000Z
+SUMMARY:Utah Jazz @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-23-memphis-grizzlies-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261024T020000Z
+DTEND:20261024T050000Z
+SUMMARY:Memphis Grizzlies @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-25-memphis-grizzlies-vs-sacramento-kings@open-sports-cal
+DTSTART:20261026T010000Z
+DTEND:20261026T040000Z
+SUMMARY:Memphis Grizzlies @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-26-memphis-grizzlies-vs-utah-jazz@open-sports-cal
+DTSTART:20261027T010000Z
+DTEND:20261027T040000Z
+SUMMARY:Memphis Grizzlies @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-29-memphis-grizzlies-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20261030T020000Z
+DTEND:20261030T050000Z
+SUMMARY:Memphis Grizzlies @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-31-sacramento-kings-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261101T000000Z
+DTEND:20261101T030000Z
+SUMMARY:Sacramento Kings @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-new-orleans-pelicans-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261103T010000Z
+DTEND:20261103T040000Z
+SUMMARY:New Orleans Pelicans @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-indiana-pacers-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261105T010000Z
+DTEND:20261105T040000Z
+SUMMARY:Indiana Pacers @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-06-oklahoma-city-thunder-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:Oklahoma City Thunder @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-09-memphis-grizzlies-vs-toronto-raptors@open-sports-cal
+DTSTART:20261110T003000Z
+DTEND:20261110T033000Z
+SUMMARY:Memphis Grizzlies @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-11-denver-nuggets-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261112T010000Z
+DTEND:20261112T040000Z
+SUMMARY:Denver Nuggets @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-13-memphis-grizzlies-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261114T010000Z
+DTEND:20261114T040000Z
+SUMMARY:Memphis Grizzlies @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-14-brooklyn-nets-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261115T010000Z
+DTEND:20261115T040000Z
+SUMMARY:Brooklyn Nets @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-16-memphis-grizzlies-vs-washington-wizards@open-sports-cal
+DTSTART:20261117T000000Z
+DTEND:20261117T030000Z
+SUMMARY:Memphis Grizzlies @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-memphis-grizzlies-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261119T000000Z
+DTEND:20261119T030000Z
+SUMMARY:Memphis Grizzlies @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-19-golden-state-warriors-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261120T010000Z
+DTEND:20261120T040000Z
+SUMMARY:Golden State Warriors @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-21-memphis-grizzlies-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261122T010000Z
+DTEND:20261122T040000Z
+SUMMARY:Memphis Grizzlies @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-23-memphis-grizzlies-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261124T000000Z
+DTEND:20261124T030000Z
+SUMMARY:Memphis Grizzlies @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-25-la-clippers-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261126T010000Z
+DTEND:20261126T040000Z
+SUMMARY:LA Clippers @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-27-memphis-grizzlies-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261128T013000Z
+DTEND:20261128T043000Z
+SUMMARY:Memphis Grizzlies @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-29-los-angeles-lakers-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261129T210000Z
+DTEND:20261130T000000Z
+SUMMARY:Los Angeles Lakers @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-01-memphis-grizzlies-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261202T000000Z
+DTEND:20261202T030000Z
+SUMMARY:Memphis Grizzlies @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-02-memphis-grizzlies-vs-detroit-pistons@open-sports-cal
+DTSTART:20261203T000000Z
+DTEND:20261203T030000Z
+SUMMARY:Memphis Grizzlies @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-12-milwaukee-bucks-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261212T220000Z
+DTEND:20261213T010000Z
+SUMMARY:Milwaukee Bucks @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-14-golden-state-warriors-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261215T010000Z
+DTEND:20261215T040000Z
+SUMMARY:Golden State Warriors @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-miami-heat-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261217T010000Z
+DTEND:20261217T040000Z
+SUMMARY:Miami Heat @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-18-houston-rockets-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261219T010000Z
+DTEND:20261219T040000Z
+SUMMARY:Houston Rockets @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-20-phoenix-suns-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261220T210000Z
+DTEND:20261221T000000Z
+SUMMARY:Phoenix Suns @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-21-memphis-grizzlies-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20261222T010000Z
+DTEND:20261222T040000Z
+SUMMARY:Memphis Grizzlies @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-toronto-raptors-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261224T010000Z
+DTEND:20261224T040000Z
+SUMMARY:Toronto Raptors @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-26-memphis-grizzlies-vs-la-clippers@open-sports-cal
+DTSTART:20261227T033000Z
+DTEND:20261227T063000Z
+SUMMARY:Memphis Grizzlies @ LA Clippers
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-27-memphis-grizzlies-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20261228T020000Z
+DTEND:20261228T050000Z
+SUMMARY:Memphis Grizzlies @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-29-san-antonio-spurs-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20261230T010000Z
+DTEND:20261230T040000Z
+SUMMARY:San Antonio Spurs @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-03-memphis-grizzlies-vs-orlando-magic@open-sports-cal
+DTSTART:20270103T230000Z
+DTEND:20270104T020000Z
+SUMMARY:Memphis Grizzlies @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-05-memphis-grizzlies-vs-miami-heat@open-sports-cal
+DTSTART:20270106T003000Z
+DTEND:20270106T033000Z
+SUMMARY:Memphis Grizzlies @ Miami Heat
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-memphis-grizzlies-vs-houston-rockets@open-sports-cal
+DTSTART:20270108T013000Z
+DTEND:20270108T043000Z
+SUMMARY:Memphis Grizzlies @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-08-memphis-grizzlies-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270109T010000Z
+DTEND:20270109T040000Z
+SUMMARY:Memphis Grizzlies @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-10-dallas-mavericks-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270110T230000Z
+DTEND:20270111T020000Z
+SUMMARY:Dallas Mavericks @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-12-dallas-mavericks-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270113T010000Z
+DTEND:20270113T040000Z
+SUMMARY:Dallas Mavericks @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-14-memphis-grizzlies-vs-denver-nuggets@open-sports-cal
+DTSTART:20270115T020000Z
+DTEND:20270115T050000Z
+SUMMARY:Memphis Grizzlies @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-16-cleveland-cavaliers-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270117T010000Z
+DTEND:20270117T040000Z
+SUMMARY:Cleveland Cavaliers @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-18-houston-rockets-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270119T003000Z
+DTEND:20270119T033000Z
+SUMMARY:Houston Rockets @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-20-memphis-grizzlies-vs-phoenix-suns@open-sports-cal
+DTSTART:20270121T020000Z
+DTEND:20270121T050000Z
+SUMMARY:Memphis Grizzlies @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-22-memphis-grizzlies-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270123T010000Z
+DTEND:20270123T040000Z
+SUMMARY:Memphis Grizzlies @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-25-minnesota-timberwolves-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270126T010000Z
+DTEND:20270126T040000Z
+SUMMARY:Minnesota Timberwolves @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-28-memphis-grizzlies-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270129T010000Z
+DTEND:20270129T040000Z
+SUMMARY:Memphis Grizzlies @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-30-memphis-grizzlies-vs-utah-jazz@open-sports-cal
+DTSTART:20270131T023000Z
+DTEND:20270131T053000Z
+SUMMARY:Memphis Grizzlies @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-01-memphis-grizzlies-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270202T010000Z
+DTEND:20270202T040000Z
+SUMMARY:Memphis Grizzlies @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-03-philadelphia-76ers-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270204T010000Z
+DTEND:20270204T040000Z
+SUMMARY:Philadelphia 76ers @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-06-portland-trail-blazers-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270206T223000Z
+DTEND:20270207T013000Z
+SUMMARY:Portland Trail Blazers @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-08-portland-trail-blazers-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270209T010000Z
+DTEND:20270209T040000Z
+SUMMARY:Portland Trail Blazers @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-10-orlando-magic-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270211T010000Z
+DTEND:20270211T040000Z
+SUMMARY:Orlando Magic @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-12-la-clippers-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270213T010000Z
+DTEND:20270213T040000Z
+SUMMARY:LA Clippers @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-15-new-york-knicks-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270216T010000Z
+DTEND:20270216T040000Z
+SUMMARY:New York Knicks @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-san-antonio-spurs-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270218T010000Z
+DTEND:20270218T040000Z
+SUMMARY:San Antonio Spurs @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-18-boston-celtics-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270219T010000Z
+DTEND:20270219T040000Z
+SUMMARY:Boston Celtics @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-26-memphis-grizzlies-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270227T010000Z
+DTEND:20270227T040000Z
+SUMMARY:Memphis Grizzlies @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ San Antonio Spurs\nMoody Center
+LOCATION:Moody Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-27-sacramento-kings-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270228T010000Z
+DTEND:20270228T040000Z
+SUMMARY:Sacramento Kings @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-02-memphis-grizzlies-vs-new-york-knicks@open-sports-cal
+DTSTART:20270303T003000Z
+DTEND:20270303T033000Z
+SUMMARY:Memphis Grizzlies @ New York Knicks
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-04-memphis-grizzlies-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270305T003000Z
+DTEND:20270305T033000Z
+SUMMARY:Memphis Grizzlies @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-06-new-orleans-pelicans-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270307T010000Z
+DTEND:20270307T040000Z
+SUMMARY:New Orleans Pelicans @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-08-atlanta-hawks-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270309T010000Z
+DTEND:20270309T040000Z
+SUMMARY:Atlanta Hawks @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-09-memphis-grizzlies-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270310T010000Z
+DTEND:20270310T040000Z
+SUMMARY:Memphis Grizzlies @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-11-memphis-grizzlies-vs-boston-celtics@open-sports-cal
+DTSTART:20270312T003000Z
+DTEND:20270312T033000Z
+SUMMARY:Memphis Grizzlies @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-13-memphis-grizzlies-vs-chicago-bulls@open-sports-cal
+DTSTART:20270314T010000Z
+DTEND:20270314T040000Z
+SUMMARY:Memphis Grizzlies @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-15-phoenix-suns-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270316T000000Z
+DTEND:20270316T030000Z
+SUMMARY:Phoenix Suns @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-17-memphis-grizzlies-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270318T020000Z
+DTEND:20270318T050000Z
+SUMMARY:Memphis Grizzlies @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-18-memphis-grizzlies-vs-la-clippers@open-sports-cal
+DTSTART:20270319T023000Z
+DTEND:20270319T053000Z
+SUMMARY:Memphis Grizzlies @ LA Clippers
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-20-oklahoma-city-thunder-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270321T000000Z
+DTEND:20270321T030000Z
+SUMMARY:Oklahoma City Thunder @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-22-charlotte-hornets-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270323T000000Z
+DTEND:20270323T030000Z
+SUMMARY:Charlotte Hornets @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-memphis-grizzlies-vs-indiana-pacers@open-sports-cal
+DTSTART:20270324T230000Z
+DTEND:20270325T020000Z
+SUMMARY:Memphis Grizzlies @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-25-chicago-bulls-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270326T000000Z
+DTEND:20270326T030000Z
+SUMMARY:Chicago Bulls @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-28-memphis-grizzlies-vs-brooklyn-nets@open-sports-cal
+DTSTART:20270328T190000Z
+DTEND:20270328T220000Z
+SUMMARY:Memphis Grizzlies @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-30-los-angeles-lakers-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270331T000000Z
+DTEND:20270331T030000Z
+SUMMARY:Los Angeles Lakers @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-02-memphis-grizzlies-vs-houston-rockets@open-sports-cal
+DTSTART:20270403T003000Z
+DTEND:20270403T033000Z
+SUMMARY:Memphis Grizzlies @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-memphis-grizzlies-vs-denver-nuggets@open-sports-cal
+DTSTART:20270404T210000Z
+DTEND:20270405T000000Z
+SUMMARY:Memphis Grizzlies @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-06-detroit-pistons-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270407T000000Z
+DTEND:20270407T030000Z
+SUMMARY:Detroit Pistons @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-07-washington-wizards-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270408T000000Z
+DTEND:20270408T030000Z
+SUMMARY:Washington Wizards @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-memphis-grizzlies-vs-phoenix-suns@open-sports-cal
+DTSTART:20270410T020000Z
+DTEND:20270410T050000Z
+SUMMARY:Memphis Grizzlies @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-memphis-grizzlies-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270412T003000Z
+DTEND:20270412T033000Z
+SUMMARY:Memphis Grizzlies @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

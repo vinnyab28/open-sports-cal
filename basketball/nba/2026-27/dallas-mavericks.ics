@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Dallas Mavericks
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-21-dallas-mavericks-vs-houston-rockets@open-sports-cal
+DTSTART:20261022T003000Z
+DTEND:20261022T033000Z
+SUMMARY:Dallas Mavericks @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-23-dallas-mavericks-vs-indiana-pacers@open-sports-cal
+DTSTART:20261023T230000Z
+DTEND:20261024T020000Z
+SUMMARY:Dallas Mavericks @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-24-san-antonio-spurs-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261025T000000Z
+DTEND:20261025T030000Z
+SUMMARY:San Antonio Spurs @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-26-dallas-mavericks-vs-miami-heat@open-sports-cal
+DTSTART:20261026T233000Z
+DTEND:20261027T023000Z
+SUMMARY:Dallas Mavericks @ Miami Heat
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-28-oklahoma-city-thunder-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261029T013000Z
+DTEND:20261029T043000Z
+SUMMARY:Oklahoma City Thunder @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-30-houston-rockets-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261031T000000Z
+DTEND:20261031T030000Z
+SUMMARY:Houston Rockets @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-sacramento-kings-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261103T010000Z
+DTEND:20261103T040000Z
+SUMMARY:Sacramento Kings @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-dallas-mavericks-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20261105T023000Z
+DTEND:20261105T053000Z
+SUMMARY:Dallas Mavericks @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-06-utah-jazz-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:Utah Jazz @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-08-brooklyn-nets-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261109T003000Z
+DTEND:20261109T033000Z
+SUMMARY:Brooklyn Nets @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-09-indiana-pacers-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261110T010000Z
+DTEND:20261110T040000Z
+SUMMARY:Indiana Pacers @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-12-dallas-mavericks-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20261113T010000Z
+DTEND:20261113T040000Z
+SUMMARY:Dallas Mavericks @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-14-dallas-mavericks-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261115T003000Z
+DTEND:20261115T033000Z
+SUMMARY:Dallas Mavericks @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-15-dallas-mavericks-vs-boston-celtics@open-sports-cal
+DTSTART:20261115T230000Z
+DTEND:20261116T020000Z
+SUMMARY:Dallas Mavericks @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-golden-state-warriors-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261119T023000Z
+DTEND:20261119T053000Z
+SUMMARY:Golden State Warriors @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-21-la-clippers-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261122T010000Z
+DTEND:20261122T040000Z
+SUMMARY:LA Clippers @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-22-dallas-mavericks-vs-utah-jazz@open-sports-cal
+DTSTART:20261123T000000Z
+DTEND:20261123T030000Z
+SUMMARY:Dallas Mavericks @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-24-dallas-mavericks-vs-denver-nuggets@open-sports-cal
+DTSTART:20261125T030000Z
+DTEND:20261125T060000Z
+SUMMARY:Dallas Mavericks @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-27-dallas-mavericks-vs-phoenix-suns@open-sports-cal
+DTSTART:20261128T020000Z
+DTEND:20261128T050000Z
+SUMMARY:Dallas Mavericks @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-30-boston-celtics-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261201T010000Z
+DTEND:20261201T040000Z
+SUMMARY:Boston Celtics @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-02-orlando-magic-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261203T010000Z
+DTEND:20261203T040000Z
+SUMMARY:Orlando Magic @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-14-milwaukee-bucks-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261215T010000Z
+DTEND:20261215T040000Z
+SUMMARY:Milwaukee Bucks @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-dallas-mavericks-vs-brooklyn-nets@open-sports-cal
+DTSTART:20261217T003000Z
+DTEND:20261217T033000Z
+SUMMARY:Dallas Mavericks @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-17-dallas-mavericks-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20261218T000000Z
+DTEND:20261218T030000Z
+SUMMARY:Dallas Mavericks @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-19-chicago-bulls-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261220T010000Z
+DTEND:20261220T040000Z
+SUMMARY:Chicago Bulls @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-22-dallas-mavericks-vs-golden-state-warriors@open-sports-cal
+DTSTART:20261223T033000Z
+DTEND:20261223T063000Z
+SUMMARY:Dallas Mavericks @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-dallas-mavericks-vs-sacramento-kings@open-sports-cal
+DTSTART:20261224T030000Z
+DTEND:20261224T060000Z
+SUMMARY:Dallas Mavericks @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-26-phoenix-suns-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261227T010000Z
+DTEND:20261227T040000Z
+SUMMARY:Phoenix Suns @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-29-miami-heat-vs-dallas-mavericks@open-sports-cal
+DTSTART:20261230T010000Z
+DTEND:20261230T040000Z
+SUMMARY:Miami Heat @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-01-dallas-mavericks-vs-houston-rockets@open-sports-cal
+DTSTART:20270102T013000Z
+DTEND:20270102T043000Z
+SUMMARY:Dallas Mavericks @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-02-dallas-mavericks-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270103T003000Z
+DTEND:20270103T033000Z
+SUMMARY:Dallas Mavericks @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-04-dallas-mavericks-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270105T010000Z
+DTEND:20270105T040000Z
+SUMMARY:Dallas Mavericks @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-portland-trail-blazers-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270108T010000Z
+DTEND:20270108T040000Z
+SUMMARY:Portland Trail Blazers @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-08-phoenix-suns-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270109T023000Z
+DTEND:20270109T053000Z
+SUMMARY:Phoenix Suns @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-10-dallas-mavericks-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270110T230000Z
+DTEND:20270111T020000Z
+SUMMARY:Dallas Mavericks @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-12-dallas-mavericks-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270113T010000Z
+DTEND:20270113T040000Z
+SUMMARY:Dallas Mavericks @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-14-dallas-mavericks-vs-detroit-pistons@open-sports-cal
+DTSTART:20270115T000000Z
+DTEND:20270115T030000Z
+SUMMARY:Dallas Mavericks @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-16-dallas-mavericks-vs-new-york-knicks@open-sports-cal
+DTSTART:20270117T003000Z
+DTEND:20270117T033000Z
+SUMMARY:Dallas Mavericks @ New York Knicks
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-18-oklahoma-city-thunder-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270119T010000Z
+DTEND:20270119T040000Z
+SUMMARY:Oklahoma City Thunder @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-19-charlotte-hornets-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270120T010000Z
+DTEND:20270120T040000Z
+SUMMARY:Charlotte Hornets @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-22-dallas-mavericks-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270123T010000Z
+DTEND:20270123T040000Z
+SUMMARY:Dallas Mavericks @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-23-cleveland-cavaliers-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270124T010000Z
+DTEND:20270124T040000Z
+SUMMARY:Cleveland Cavaliers @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-25-dallas-mavericks-vs-chicago-bulls@open-sports-cal
+DTSTART:20270126T010000Z
+DTEND:20270126T040000Z
+SUMMARY:Dallas Mavericks @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-27-dallas-mavericks-vs-toronto-raptors@open-sports-cal
+DTSTART:20270128T003000Z
+DTEND:20270128T033000Z
+SUMMARY:Dallas Mavericks @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-29-detroit-pistons-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270130T010000Z
+DTEND:20270130T040000Z
+SUMMARY:Detroit Pistons @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-31-houston-rockets-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270201T013000Z
+DTEND:20270201T043000Z
+SUMMARY:Houston Rockets @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-02-toronto-raptors-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270203T010000Z
+DTEND:20270203T040000Z
+SUMMARY:Toronto Raptors @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-04-dallas-mavericks-vs-denver-nuggets@open-sports-cal
+DTSTART:20270205T030000Z
+DTEND:20270205T060000Z
+SUMMARY:Dallas Mavericks @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-06-utah-jazz-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270206T200000Z
+DTEND:20270206T230000Z
+SUMMARY:Utah Jazz @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-07-la-clippers-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270207T213000Z
+DTEND:20270208T003000Z
+SUMMARY:LA Clippers @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-09-san-antonio-spurs-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270210T010000Z
+DTEND:20270210T040000Z
+SUMMARY:San Antonio Spurs @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-11-portland-trail-blazers-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270212T010000Z
+DTEND:20270212T040000Z
+SUMMARY:Portland Trail Blazers @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-13-dallas-mavericks-vs-charlotte-hornets@open-sports-cal
+DTSTART:20270213T200000Z
+DTEND:20270213T230000Z
+SUMMARY:Dallas Mavericks @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-15-philadelphia-76ers-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270215T193000Z
+DTEND:20270215T223000Z
+SUMMARY:Philadelphia 76ers @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-dallas-mavericks-vs-orlando-magic@open-sports-cal
+DTSTART:20270218T000000Z
+DTEND:20270218T030000Z
+SUMMARY:Dallas Mavericks @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-25-dallas-mavericks-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270226T030000Z
+DTEND:20270226T060000Z
+SUMMARY:Dallas Mavericks @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-26-dallas-mavericks-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270227T030000Z
+DTEND:20270227T060000Z
+SUMMARY:Dallas Mavericks @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-28-los-angeles-lakers-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270228T203000Z
+DTEND:20270228T233000Z
+SUMMARY:Los Angeles Lakers @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-02-golden-state-warriors-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270303T010000Z
+DTEND:20270303T040000Z
+SUMMARY:Golden State Warriors @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-04-new-york-knicks-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270305T023000Z
+DTEND:20270305T053000Z
+SUMMARY:New York Knicks @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-08-dallas-mavericks-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270309T023000Z
+DTEND:20270309T053000Z
+SUMMARY:Dallas Mavericks @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-09-memphis-grizzlies-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270310T010000Z
+DTEND:20270310T040000Z
+SUMMARY:Memphis Grizzlies @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-11-washington-wizards-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270312T010000Z
+DTEND:20270312T040000Z
+SUMMARY:Washington Wizards @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-13-new-orleans-pelicans-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270314T010000Z
+DTEND:20270314T040000Z
+SUMMARY:New Orleans Pelicans @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-15-atlanta-hawks-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270316T013000Z
+DTEND:20270316T043000Z
+SUMMARY:Atlanta Hawks @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-17-dallas-mavericks-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20270317T233000Z
+DTEND:20270318T023000Z
+SUMMARY:Dallas Mavericks @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-19-dallas-mavericks-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270320T000000Z
+DTEND:20270320T030000Z
+SUMMARY:Dallas Mavericks @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-21-dallas-mavericks-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270322T020000Z
+DTEND:20270322T050000Z
+SUMMARY:Dallas Mavericks @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-22-dallas-mavericks-vs-la-clippers@open-sports-cal
+DTSTART:20270323T023000Z
+DTEND:20270323T053000Z
+SUMMARY:Dallas Mavericks @ LA Clippers
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-dallas-mavericks-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270325T000000Z
+DTEND:20270325T030000Z
+SUMMARY:Dallas Mavericks @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-26-new-orleans-pelicans-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270327T000000Z
+DTEND:20270327T030000Z
+SUMMARY:New Orleans Pelicans @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-28-dallas-mavericks-vs-washington-wizards@open-sports-cal
+DTSTART:20270328T220000Z
+DTEND:20270329T010000Z
+SUMMARY:Dallas Mavericks @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-29-dallas-mavericks-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270330T000000Z
+DTEND:20270330T030000Z
+SUMMARY:Dallas Mavericks @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-31-denver-nuggets-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270401T013000Z
+DTEND:20270401T043000Z
+SUMMARY:Denver Nuggets @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-02-sacramento-kings-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270403T000000Z
+DTEND:20270403T030000Z
+SUMMARY:Sacramento Kings @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-04-minnesota-timberwolves-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270404T190000Z
+DTEND:20270404T220000Z
+SUMMARY:Minnesota Timberwolves @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-06-dallas-mavericks-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270407T020000Z
+DTEND:20270407T050000Z
+SUMMARY:Dallas Mavericks @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-07-dallas-mavericks-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270408T020000Z
+DTEND:20270408T050000Z
+SUMMARY:Dallas Mavericks @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-dallas-mavericks-vs-sacramento-kings@open-sports-cal
+DTSTART:20270410T020000Z
+DTEND:20270410T050000Z
+SUMMARY:Dallas Mavericks @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-memphis-grizzlies-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270412T003000Z
+DTEND:20270412T033000Z
+SUMMARY:Memphis Grizzlies @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

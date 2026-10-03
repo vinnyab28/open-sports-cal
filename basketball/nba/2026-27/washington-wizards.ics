@@ -1,0 +1,969 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NBA 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NBA 2026-27 - Washington Wizards
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-21-milwaukee-bucks-vs-washington-wizards@open-sports-cal
+DTSTART:20261021T230000Z
+DTEND:20261022T020000Z
+SUMMARY:Milwaukee Bucks @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-23-toronto-raptors-vs-washington-wizards@open-sports-cal
+DTSTART:20261023T230000Z
+DTEND:20261024T020000Z
+SUMMARY:Toronto Raptors @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-24-washington-wizards-vs-chicago-bulls@open-sports-cal
+DTSTART:20261025T000000Z
+DTEND:20261025T030000Z
+SUMMARY:Washington Wizards @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-26-washington-wizards-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261026T230000Z
+DTEND:20261027T020000Z
+SUMMARY:Washington Wizards @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-28-washington-wizards-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261028T230000Z
+DTEND:20261029T020000Z
+SUMMARY:Washington Wizards @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-10-30-charlotte-hornets-vs-washington-wizards@open-sports-cal
+DTSTART:20261030T230000Z
+DTEND:20261031T020000Z
+SUMMARY:Charlotte Hornets @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-02-washington-wizards-vs-orlando-magic@open-sports-cal
+DTSTART:20261103T003000Z
+DTEND:20261103T033000Z
+SUMMARY:Washington Wizards @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-04-atlanta-hawks-vs-washington-wizards@open-sports-cal
+DTSTART:20261105T000000Z
+DTEND:20261105T030000Z
+SUMMARY:Atlanta Hawks @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-06-washington-wizards-vs-atlanta-hawks@open-sports-cal
+DTSTART:20261107T000000Z
+DTEND:20261107T030000Z
+SUMMARY:Washington Wizards @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-07-washington-wizards-vs-oklahoma-city-thunder@open-sports-cal
+DTSTART:20261108T010000Z
+DTEND:20261108T040000Z
+SUMMARY:Washington Wizards @ Oklahoma City Thunder
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Oklahoma City Thunder\nPaycom Center
+LOCATION:Paycom Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-09-washington-wizards-vs-detroit-pistons@open-sports-cal
+DTSTART:20261110T000000Z
+DTEND:20261110T030000Z
+SUMMARY:Washington Wizards @ Detroit Pistons
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Detroit Pistons\nLittle Caesars Arena
+LOCATION:Little Caesars Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-11-washington-wizards-vs-indiana-pacers@open-sports-cal
+DTSTART:20261112T000000Z
+DTEND:20261112T030000Z
+SUMMARY:Washington Wizards @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-12-detroit-pistons-vs-washington-wizards@open-sports-cal
+DTSTART:20261113T000000Z
+DTEND:20261113T030000Z
+SUMMARY:Detroit Pistons @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-15-houston-rockets-vs-washington-wizards@open-sports-cal
+DTSTART:20261116T000000Z
+DTEND:20261116T030000Z
+SUMMARY:Houston Rockets @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-16-memphis-grizzlies-vs-washington-wizards@open-sports-cal
+DTSTART:20261117T000000Z
+DTEND:20261117T030000Z
+SUMMARY:Memphis Grizzlies @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-18-washington-wizards-vs-toronto-raptors@open-sports-cal
+DTSTART:20261119T003000Z
+DTEND:20261119T033000Z
+SUMMARY:Washington Wizards @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-20-washington-wizards-vs-chicago-bulls@open-sports-cal
+DTSTART:20261121T010000Z
+DTEND:20261121T040000Z
+SUMMARY:Washington Wizards @ Chicago Bulls
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Chicago Bulls\nUnited Center
+LOCATION:United Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-22-orlando-magic-vs-washington-wizards@open-sports-cal
+DTSTART:20261123T000000Z
+DTEND:20261123T030000Z
+SUMMARY:Orlando Magic @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-24-boston-celtics-vs-washington-wizards@open-sports-cal
+DTSTART:20261125T010000Z
+DTEND:20261125T040000Z
+SUMMARY:Boston Celtics @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-28-orlando-magic-vs-washington-wizards@open-sports-cal
+DTSTART:20261128T220000Z
+DTEND:20261129T010000Z
+SUMMARY:Orlando Magic @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-11-30-washington-wizards-vs-charlotte-hornets@open-sports-cal
+DTSTART:20261201T000000Z
+DTEND:20261201T030000Z
+SUMMARY:Washington Wizards @ Charlotte Hornets
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Charlotte Hornets\nSpectrum Center
+LOCATION:Spectrum Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-03-washington-wizards-vs-miami-heat@open-sports-cal
+DTSTART:20261204T003000Z
+DTEND:20261204T033000Z
+SUMMARY:Washington Wizards @ Miami Heat
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-12-charlotte-hornets-vs-washington-wizards@open-sports-cal
+DTSTART:20261213T000000Z
+DTEND:20261213T030000Z
+SUMMARY:Charlotte Hornets @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-14-washington-wizards-vs-boston-celtics@open-sports-cal
+DTSTART:20261215T003000Z
+DTEND:20261215T033000Z
+SUMMARY:Washington Wizards @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-16-washington-wizards-vs-boston-celtics@open-sports-cal
+DTSTART:20261217T000000Z
+DTEND:20261217T030000Z
+SUMMARY:Washington Wizards @ Boston Celtics
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Boston Celtics\nTD Garden
+LOCATION:TD Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-18-new-york-knicks-vs-washington-wizards@open-sports-cal
+DTSTART:20261219T000000Z
+DTEND:20261219T030000Z
+SUMMARY:New York Knicks @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-20-washington-wizards-vs-brooklyn-nets@open-sports-cal
+DTSTART:20261220T200000Z
+DTEND:20261220T230000Z
+SUMMARY:Washington Wizards @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-22-toronto-raptors-vs-washington-wizards@open-sports-cal
+DTSTART:20261223T000000Z
+DTEND:20261223T030000Z
+SUMMARY:Toronto Raptors @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-23-cleveland-cavaliers-vs-washington-wizards@open-sports-cal
+DTSTART:20261224T000000Z
+DTEND:20261224T030000Z
+SUMMARY:Cleveland Cavaliers @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-26-portland-trail-blazers-vs-washington-wizards@open-sports-cal
+DTSTART:20261226T180000Z
+DTEND:20261226T210000Z
+SUMMARY:Portland Trail Blazers @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-27-washington-wizards-vs-cleveland-cavaliers@open-sports-cal
+DTSTART:20261227T230000Z
+DTEND:20261228T020000Z
+SUMMARY:Washington Wizards @ Cleveland Cavaliers
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Cleveland Cavaliers\nRocket Arena
+LOCATION:Rocket Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2026-12-30-washington-wizards-vs-toronto-raptors@open-sports-cal
+DTSTART:20261231T003000Z
+DTEND:20261231T033000Z
+SUMMARY:Washington Wizards @ Toronto Raptors
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Toronto Raptors\nScotiabank Arena
+LOCATION:Scotiabank Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Toronto
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-01-san-antonio-spurs-vs-washington-wizards@open-sports-cal
+DTSTART:20270101T220000Z
+DTEND:20270102T010000Z
+SUMMARY:San Antonio Spurs @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-03-la-clippers-vs-washington-wizards@open-sports-cal
+DTSTART:20270104T000000Z
+DTEND:20270104T030000Z
+SUMMARY:LA Clippers @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-05-los-angeles-lakers-vs-washington-wizards@open-sports-cal
+DTSTART:20270106T000000Z
+DTEND:20270106T030000Z
+SUMMARY:Los Angeles Lakers @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-07-oklahoma-city-thunder-vs-washington-wizards@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Oklahoma City Thunder @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-08-minnesota-timberwolves-vs-washington-wizards@open-sports-cal
+DTSTART:20270109T000000Z
+DTEND:20270109T030000Z
+SUMMARY:Minnesota Timberwolves @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-11-atlanta-hawks-vs-washington-wizards@open-sports-cal
+DTSTART:20270112T000000Z
+DTEND:20270112T030000Z
+SUMMARY:Atlanta Hawks @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-12-washington-wizards-vs-philadelphia-76ers@open-sports-cal
+DTSTART:20270113T010000Z
+DTEND:20270113T040000Z
+SUMMARY:Washington Wizards @ Philadelphia 76ers
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Philadelphia 76ers\nXfinity Mobile Arena
+LOCATION:Xfinity Mobile Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-15-washington-wizards-vs-houston-rockets@open-sports-cal
+DTSTART:20270116T013000Z
+DTEND:20270116T043000Z
+SUMMARY:Washington Wizards @ Houston Rockets
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Houston Rockets\nToyota Center
+LOCATION:Toyota Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-17-indiana-pacers-vs-washington-wizards@open-sports-cal
+DTSTART:20270117T180000Z
+DTEND:20270117T210000Z
+SUMMARY:Indiana Pacers @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-18-boston-celtics-vs-washington-wizards@open-sports-cal
+DTSTART:20270118T200000Z
+DTEND:20270118T230000Z
+SUMMARY:Boston Celtics @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-21-washington-wizards-vs-denver-nuggets@open-sports-cal
+DTSTART:20270122T020000Z
+DTEND:20270122T050000Z
+SUMMARY:Washington Wizards @ Denver Nuggets
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Denver Nuggets\nBall Arena
+LOCATION:Ball Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-22-washington-wizards-vs-la-clippers@open-sports-cal
+DTSTART:20270123T033000Z
+DTEND:20270123T063000Z
+SUMMARY:Washington Wizards @ LA Clippers
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ LA Clippers\nIntuit Dome
+LOCATION:Intuit Dome
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-24-washington-wizards-vs-los-angeles-lakers@open-sports-cal
+DTSTART:20270124T210000Z
+DTEND:20270125T000000Z
+SUMMARY:Washington Wizards @ Los Angeles Lakers
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Los Angeles Lakers\nCrypto.com Arena
+LOCATION:Crypto.com Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-26-washington-wizards-vs-portland-trail-blazers@open-sports-cal
+DTSTART:20270127T030000Z
+DTEND:20270127T060000Z
+SUMMARY:Washington Wizards @ Portland Trail Blazers
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Portland Trail Blazers\nModa Center
+LOCATION:Moda Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-28-sacramento-kings-vs-washington-wizards@open-sports-cal
+DTSTART:20270129T000000Z
+DTEND:20270129T030000Z
+SUMMARY:Sacramento Kings @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-01-30-washington-wizards-vs-indiana-pacers@open-sports-cal
+DTSTART:20270131T000000Z
+DTEND:20270131T030000Z
+SUMMARY:Washington Wizards @ Indiana Pacers
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Indiana Pacers\nGainbridge Fieldhouse
+LOCATION:Gainbridge Fieldhouse
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Indiana/Indianapolis
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-01-washington-wizards-vs-atlanta-hawks@open-sports-cal
+DTSTART:20270202T000000Z
+DTEND:20270202T030000Z
+SUMMARY:Washington Wizards @ Atlanta Hawks
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Atlanta Hawks\nState Farm Arena
+LOCATION:State Farm Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-04-new-orleans-pelicans-vs-washington-wizards@open-sports-cal
+DTSTART:20270205T000000Z
+DTEND:20270205T030000Z
+SUMMARY:New Orleans Pelicans @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-06-washington-wizards-vs-brooklyn-nets@open-sports-cal
+DTSTART:20270206T230000Z
+DTEND:20270207T020000Z
+SUMMARY:Washington Wizards @ Brooklyn Nets
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Brooklyn Nets\nBarclays Center
+LOCATION:Barclays Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-08-chicago-bulls-vs-washington-wizards@open-sports-cal
+DTSTART:20270209T000000Z
+DTEND:20270209T030000Z
+SUMMARY:Chicago Bulls @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-10-miami-heat-vs-washington-wizards@open-sports-cal
+DTSTART:20270211T000000Z
+DTEND:20270211T030000Z
+SUMMARY:Miami Heat @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-12-brooklyn-nets-vs-washington-wizards@open-sports-cal
+DTSTART:20270213T000000Z
+DTEND:20270213T030000Z
+SUMMARY:Brooklyn Nets @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-13-milwaukee-bucks-vs-washington-wizards@open-sports-cal
+DTSTART:20270214T000000Z
+DTEND:20270214T030000Z
+SUMMARY:Milwaukee Bucks @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-15-phoenix-suns-vs-washington-wizards@open-sports-cal
+DTSTART:20270216T000000Z
+DTEND:20270216T030000Z
+SUMMARY:Phoenix Suns @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-17-miami-heat-vs-washington-wizards@open-sports-cal
+DTSTART:20270218T000000Z
+DTEND:20270218T030000Z
+SUMMARY:Miami Heat @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-25-washington-wizards-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270226T010000Z
+DTEND:20270226T040000Z
+SUMMARY:Washington Wizards @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-02-27-washington-wizards-vs-utah-jazz@open-sports-cal
+DTSTART:20270227T200000Z
+DTEND:20270227T230000Z
+SUMMARY:Washington Wizards @ Utah Jazz
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Utah Jazz\nDelta Center
+LOCATION:Delta Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-01-washington-wizards-vs-phoenix-suns@open-sports-cal
+DTSTART:20270302T023000Z
+DTEND:20270302T053000Z
+SUMMARY:Washington Wizards @ Phoenix Suns
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Phoenix Suns\nMortgage Matchup Center
+LOCATION:Mortgage Matchup Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-02-washington-wizards-vs-sacramento-kings@open-sports-cal
+DTSTART:20270303T030000Z
+DTEND:20270303T060000Z
+SUMMARY:Washington Wizards @ Sacramento Kings
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Sacramento Kings\nGolden 1 Center
+LOCATION:Golden 1 Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-04-washington-wizards-vs-golden-state-warriors@open-sports-cal
+DTSTART:20270305T030000Z
+DTEND:20270305T060000Z
+SUMMARY:Washington Wizards @ Golden State Warriors
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Golden State Warriors\nChase Center
+LOCATION:Chase Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-06-utah-jazz-vs-washington-wizards@open-sports-cal
+DTSTART:20270307T000000Z
+DTEND:20270307T030000Z
+SUMMARY:Utah Jazz @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-09-washington-wizards-vs-san-antonio-spurs@open-sports-cal
+DTSTART:20270310T010000Z
+DTEND:20270310T040000Z
+SUMMARY:Washington Wizards @ San Antonio Spurs
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ San Antonio Spurs\nFrost Bank Center
+LOCATION:Frost Bank Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-11-washington-wizards-vs-dallas-mavericks@open-sports-cal
+DTSTART:20270312T010000Z
+DTEND:20270312T040000Z
+SUMMARY:Washington Wizards @ Dallas Mavericks
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Dallas Mavericks\nAmerican Airlines Center
+LOCATION:American Airlines Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-14-washington-wizards-vs-minnesota-timberwolves@open-sports-cal
+DTSTART:20270315T000000Z
+DTEND:20270315T030000Z
+SUMMARY:Washington Wizards @ Minnesota Timberwolves
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Minnesota Timberwolves\nTarget Center
+LOCATION:Target Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-16-new-york-knicks-vs-washington-wizards@open-sports-cal
+DTSTART:20270316T230000Z
+DTEND:20270317T020000Z
+SUMMARY:New York Knicks @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-18-philadelphia-76ers-vs-washington-wizards@open-sports-cal
+DTSTART:20270318T230000Z
+DTEND:20270319T020000Z
+SUMMARY:Philadelphia 76ers @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-20-washington-wizards-vs-new-york-knicks@open-sports-cal
+DTSTART:20270320T170000Z
+DTEND:20270320T200000Z
+SUMMARY:Washington Wizards @ New York Knicks
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ New York Knicks\nMadison Square Garden
+LOCATION:Madison Square Garden
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-22-washington-wizards-vs-milwaukee-bucks@open-sports-cal
+DTSTART:20270323T000000Z
+DTEND:20270323T030000Z
+SUMMARY:Washington Wizards @ Milwaukee Bucks
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Milwaukee Bucks\nFiserv Forum
+LOCATION:Fiserv Forum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-24-denver-nuggets-vs-washington-wizards@open-sports-cal
+DTSTART:20270324T230000Z
+DTEND:20270325T020000Z
+SUMMARY:Denver Nuggets @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-27-golden-state-warriors-vs-washington-wizards@open-sports-cal
+DTSTART:20270327T230000Z
+DTEND:20270328T020000Z
+SUMMARY:Golden State Warriors @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-28-dallas-mavericks-vs-washington-wizards@open-sports-cal
+DTSTART:20270328T220000Z
+DTEND:20270329T010000Z
+SUMMARY:Dallas Mavericks @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-03-31-chicago-bulls-vs-washington-wizards@open-sports-cal
+DTSTART:20270331T230000Z
+DTEND:20270401T020000Z
+SUMMARY:Chicago Bulls @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-02-philadelphia-76ers-vs-washington-wizards@open-sports-cal
+DTSTART:20270402T230000Z
+DTEND:20270403T020000Z
+SUMMARY:Philadelphia 76ers @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-03-washington-wizards-vs-orlando-magic@open-sports-cal
+DTSTART:20270403T230000Z
+DTEND:20270404T020000Z
+SUMMARY:Washington Wizards @ Orlando Magic
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Orlando Magic\nKia Center
+LOCATION:Kia Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-05-washington-wizards-vs-new-orleans-pelicans@open-sports-cal
+DTSTART:20270406T000000Z
+DTEND:20270406T030000Z
+SUMMARY:Washington Wizards @ New Orleans Pelicans
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ New Orleans Pelicans\nSmoothie King Center
+LOCATION:Smoothie King Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-07-washington-wizards-vs-memphis-grizzlies@open-sports-cal
+DTSTART:20270408T000000Z
+DTEND:20270408T030000Z
+SUMMARY:Washington Wizards @ Memphis Grizzlies
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Memphis Grizzlies\nFedExForum
+LOCATION:FedExForum
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-09-washington-wizards-vs-miami-heat@open-sports-cal
+DTSTART:20270410T000000Z
+DTEND:20270410T030000Z
+SUMMARY:Washington Wizards @ Miami Heat
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Miami Heat\nKaseya Center
+LOCATION:Kaseya Center
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:nba-2026-27-2027-04-11-detroit-pistons-vs-washington-wizards@open-sports-cal
+DTSTART:20270411T220000Z
+DTEND:20270412T010000Z
+SUMMARY:Detroit Pistons @ Washington Wizards
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Washington Wizards\nCapital One Arena
+LOCATION:Capital One Arena
+CATEGORIES:Basketball,NBA,NBA 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261003T034536Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR
