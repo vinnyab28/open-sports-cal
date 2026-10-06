@@ -74,7 +74,7 @@ Edit the file directly. All READMEs follow the same structure — see any existi
 
 **Completed seasons:**
 - Never delete a completed season folder — subscriptions keep resolving to it and the website flags it as "Completed" automatically (derived from the last event date in `generate_manifest.py`)
-- When a league's new season is added, repoint its `scripts/update_<league>.py` and the `auto-update.yml` matrix entry at the new folder; leave the old season files untouched
+- When a league's new season is added, repoint its `scripts/update_<league>.py` at the new folder; leave the old season files untouched. To add a league to the daily auto-update for the first time, add its script name (underscore form) to the league list in `.github/workflows/auto-update.yml`
 
 **Timezone:**
 - Use `TZID=Asia/Kolkata` only for IPL; use UTC (`Z` suffix) for everything else

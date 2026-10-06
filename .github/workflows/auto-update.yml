@@ -8,21 +8,6 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      matrix:
-        include:
-          - { league: nba,        dir: basketball/nba/2026-27 }
-          - { league: nhl,        dir: hockey/nhl/2026-27 }
-          - { league: nfl,        dir: american-football/nfl/2026 }
-          - { league: mlb,        dir: baseball/mlb/2027 }
-          - { league: pwhl,       dir: hockey/pwhl/2026-27 }
-          - { league: epl,        dir: football/premier-league/2026-27 }
-          - { league: la-liga,    dir: football/la-liga/2026-27 }
-          - { league: bundesliga, dir: football/bundesliga/2026-27 }
-          - { league: serie-a,    dir: football/serie-a/2026-27 }
-          - { league: ligue-1,    dir: football/ligue-1/2026-27 }
-          - { league: f1,         dir: motorsport/formula-1/2026 }
 
     permissions:
       contents: write
@@ -34,35 +19,18 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Update ${{ matrix.league }}
-        run: python3 scripts/update_${{ matrix.league }}.py
-
-      - uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: ${{ matrix.league }}
-          path: ${{ matrix.dir }}
-          if-no-files-found: warn
-
-  commit:
-    needs: update
-    if: always()
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/download-artifact@v4
-        with:
-          path: .
-          merge-multiple: true
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+      - name: Update leagues
+        run: |
+          failed=""
+          for league in nba nhl nfl mlb pwhl epl la_liga bundesliga serie_a ligue_1 f1; do
+            echo "::group::Update $league"
+            if ! python3 "scripts/update_${league}.py"; then
+              echo "::warning::update_${league}.py failed — continuing with other leagues"
+              failed="$failed $league"
+            fi
+            echo "::endgroup::"
+          done
+          echo "FAILED_LEAGUES=$failed" >> "$GITHUB_ENV"
 
       - name: Validate
         run: python3 validate.py
@@ -75,3 +43,9 @@ jobs:
           git diff --cached --quiet && echo "No changes." && exit 0
           git commit -m "chore: auto-update schedules [skip ci]"
           git push
+
+      - name: Fail if any league update failed
+        if: env.FAILED_LEAGUES != ''
+        run: |
+          echo "::error::League update script(s) failed:${FAILED_LEAGUES}"
+          exit 1
