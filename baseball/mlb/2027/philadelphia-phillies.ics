@@ -15,7 +15,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Washington Nationals\nNationals Pa
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-27-philadelphia-phillies-vs-washington-nationals@open-sports-cal
@@ -26,7 +26,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Washington Nationals\nNationals Pa
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-28-philadelphia-phillies-vs-washington-nationals@open-sports-cal
@@ -37,7 +37,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Washington Nationals\nNationals Pa
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-29-philadelphia-phillies-vs-miami-marlins@open-sports-cal
@@ -48,7 +48,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Miami Marlins\nloanDepot park\nSta
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-30-philadelphia-phillies-vs-miami-marlins@open-sports-cal
@@ -59,7 +59,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Miami Marlins\nloanDepot park\nSta
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-31-philadelphia-phillies-vs-miami-marlins@open-sports-cal
@@ -70,84 +70,91 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Miami Marlins\nloanDepot park\nSta
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-01-washington-nationals-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270402
+DTSTART:20270401T190500Z
+DTEND:20270401T220500Z
 SUMMARY:Washington Nationals @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nWashington Nationals @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-02-washington-nationals-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270403
+DTSTART:20270402T224000Z
+DTEND:20270403T014000Z
 SUMMARY:Washington Nationals @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nWashington Nationals @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-03-washington-nationals-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270403
-DTEND;VALUE=DATE:20270404
+DTSTART:20270403T170500Z
+DTEND:20270403T200500Z
 SUMMARY:Washington Nationals @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nWashington Nationals @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-04-washington-nationals-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270404
-DTEND;VALUE=DATE:20270405
+DTSTART:20270404T173500Z
+DTEND:20270404T203500Z
 SUMMARY:Washington Nationals @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nWashington Nationals @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-06-detroit-tigers-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270406
-DTEND;VALUE=DATE:20270407
+DTSTART:20270406T224000Z
+DTEND:20270407T014000Z
 SUMMARY:Detroit Tigers @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nDetroit Tigers @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-07-detroit-tigers-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
+DTSTART:20270407T224000Z
+DTEND:20270408T014000Z
 SUMMARY:Detroit Tigers @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nDetroit Tigers @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-08-detroit-tigers-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270408
-DTEND;VALUE=DATE:20270409
+DTSTART:20270408T170500Z
+DTEND:20270408T200500Z
 SUMMARY:Detroit Tigers @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nDetroit Tigers @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-09-philadelphia-phillies-vs-milwaukee-brewers@open-sports-cal
@@ -158,7 +165,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Milwaukee Brewers\nAmerican Family
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-10-philadelphia-phillies-vs-milwaukee-brewers@open-sports-cal
@@ -169,7 +176,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Milwaukee Brewers\nAmerican Family
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-11-philadelphia-phillies-vs-milwaukee-brewers@open-sports-cal
@@ -180,7 +187,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Milwaukee Brewers\nAmerican Family
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-13-philadelphia-phillies-vs-chicago-cubs@open-sports-cal
@@ -191,7 +198,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Chicago Cubs\nWrigley Field\nStart
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-14-philadelphia-phillies-vs-chicago-cubs@open-sports-cal
@@ -202,7 +209,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Chicago Cubs\nWrigley Field\nStart
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-15-philadelphia-phillies-vs-chicago-cubs@open-sports-cal
@@ -213,117 +220,127 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Chicago Cubs\nWrigley Field\nStart
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-16-milwaukee-brewers-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270416
-DTEND;VALUE=DATE:20270417
+DTSTART:20270416T224000Z
+DTEND:20270417T014000Z
 SUMMARY:Milwaukee Brewers @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-17-milwaukee-brewers-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270417
-DTEND;VALUE=DATE:20270418
+DTSTART:20270417T220500Z
+DTEND:20270418T010500Z
 SUMMARY:Milwaukee Brewers @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-18-milwaukee-brewers-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270418
-DTEND;VALUE=DATE:20270419
+DTSTART:20270418T173500Z
+DTEND:20270418T203500Z
 SUMMARY:Milwaukee Brewers @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-20-los-angeles-dodgers-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270420
-DTEND;VALUE=DATE:20270421
+DTSTART:20270420T224000Z
+DTEND:20270421T014000Z
 SUMMARY:Los Angeles Dodgers @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-21-los-angeles-dodgers-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270421
-DTEND;VALUE=DATE:20270422
+DTSTART:20270421T224000Z
+DTEND:20270422T014000Z
 SUMMARY:Los Angeles Dodgers @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-22-los-angeles-dodgers-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270422
-DTEND;VALUE=DATE:20270423
+DTSTART:20270422T220500Z
+DTEND:20270423T010500Z
 SUMMARY:Los Angeles Dodgers @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-23-arizona-diamondbacks-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270423
-DTEND;VALUE=DATE:20270424
+DTSTART:20270423T224000Z
+DTEND:20270424T014000Z
 SUMMARY:Arizona Diamondbacks @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-24-arizona-diamondbacks-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270425
+DTSTART:20270424T170500Z
+DTEND:20270424T200500Z
 SUMMARY:Arizona Diamondbacks @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-25-arizona-diamondbacks-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270425
-DTEND;VALUE=DATE:20270426
+DTSTART:20270425T173500Z
+DTEND:20270425T203500Z
 SUMMARY:Arizona Diamondbacks @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-26-arizona-diamondbacks-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270426
-DTEND;VALUE=DATE:20270427
+DTSTART:20270426T170500Z
+DTEND:20270426T200500Z
 SUMMARY:Arizona Diamondbacks @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-27-philadelphia-phillies-vs-san-diego-padres@open-sports-cal
@@ -334,7 +351,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ San Diego Padres\nPetco Park\nStar
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-28-philadelphia-phillies-vs-san-diego-padres@open-sports-cal
@@ -345,7 +362,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ San Diego Padres\nPetco Park\nStar
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-29-philadelphia-phillies-vs-san-diego-padres@open-sports-cal
@@ -356,7 +373,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ San Diego Padres\nPetco Park\nStar
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-30-philadelphia-phillies-vs-san-francisco-giants@open-sports-cal
@@ -367,7 +384,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ San Francisco Giants\nOracle Park\
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-01-philadelphia-phillies-vs-san-francisco-giants@open-sports-cal
@@ -378,7 +395,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ San Francisco Giants\nOracle Park\
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-02-philadelphia-phillies-vs-san-francisco-giants@open-sports-cal
@@ -389,73 +406,79 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ San Francisco Giants\nOracle Park\
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-04-new-york-mets-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270505
+DTSTART:20270504T224000Z
+DTEND:20270505T014000Z
 SUMMARY:New York Mets @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-05-new-york-mets-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270505
-DTEND;VALUE=DATE:20270506
+DTSTART:20270505T224000Z
+DTEND:20270506T014000Z
 SUMMARY:New York Mets @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-06-new-york-mets-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270506
-DTEND;VALUE=DATE:20270507
+DTSTART:20270506T220500Z
+DTEND:20270507T010500Z
 SUMMARY:New York Mets @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-07-atlanta-braves-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270508
+DTSTART:20270507T224000Z
+DTEND:20270508T014000Z
 SUMMARY:Atlanta Braves @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-08-atlanta-braves-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+DTSTART:20270508T220500Z
+DTEND:20270509T010500Z
 SUMMARY:Atlanta Braves @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-09-atlanta-braves-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T173500Z
+DTEND:20270509T203500Z
 SUMMARY:Atlanta Braves @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-11-philadelphia-phillies-vs-new-york-mets@open-sports-cal
@@ -466,7 +489,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Mets\nCiti Field\nStart t
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-12-philadelphia-phillies-vs-new-york-mets@open-sports-cal
@@ -477,7 +500,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Mets\nCiti Field\nStart t
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-13-philadelphia-phillies-vs-new-york-mets@open-sports-cal
@@ -488,7 +511,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Mets\nCiti Field\nStart t
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-14-philadelphia-phillies-vs-new-york-yankees@open-sports-cal
@@ -499,7 +522,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Yankees\nYankee Stadium\n
 LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-15-philadelphia-phillies-vs-new-york-yankees@open-sports-cal
@@ -510,7 +533,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Yankees\nYankee Stadium\n
 LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-16-philadelphia-phillies-vs-new-york-yankees@open-sports-cal
@@ -521,73 +544,79 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Yankees\nYankee Stadium\n
 LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-17-miami-marlins-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270517
-DTEND;VALUE=DATE:20270518
+DTSTART:20270517T224000Z
+DTEND:20270518T014000Z
 SUMMARY:Miami Marlins @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-18-miami-marlins-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270518
-DTEND;VALUE=DATE:20270519
+DTSTART:20270518T224000Z
+DTEND:20270519T014000Z
 SUMMARY:Miami Marlins @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-19-miami-marlins-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270519
-DTEND;VALUE=DATE:20270520
+DTSTART:20270519T173500Z
+DTEND:20270519T203500Z
 SUMMARY:Miami Marlins @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-21-los-angeles-angels-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270521
-DTEND;VALUE=DATE:20270522
+DTSTART:20270521T224000Z
+DTEND:20270522T014000Z
 SUMMARY:Los Angeles Angels @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-22-los-angeles-angels-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270522
-DTEND;VALUE=DATE:20270523
+DTSTART:20270522T200500Z
+DTEND:20270522T230500Z
 SUMMARY:Los Angeles Angels @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-23-los-angeles-angels-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270523
-DTEND;VALUE=DATE:20270524
+DTSTART:20270523T173500Z
+DTEND:20270523T203500Z
 SUMMARY:Los Angeles Angels @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-25-philadelphia-phillies-vs-tampa-bay-rays@open-sports-cal
@@ -598,7 +627,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Tampa Bay Rays\nTropicana Field\nS
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-26-philadelphia-phillies-vs-tampa-bay-rays@open-sports-cal
@@ -609,7 +638,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Tampa Bay Rays\nTropicana Field\nS
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-27-philadelphia-phillies-vs-tampa-bay-rays@open-sports-cal
@@ -620,7 +649,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Tampa Bay Rays\nTropicana Field\nS
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-28-philadelphia-phillies-vs-texas-rangers@open-sports-cal
@@ -631,7 +660,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Texas Rangers\nGlobe Life Field\nS
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-29-philadelphia-phillies-vs-texas-rangers@open-sports-cal
@@ -642,7 +671,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Texas Rangers\nGlobe Life Field\nS
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-30-philadelphia-phillies-vs-texas-rangers@open-sports-cal
@@ -653,73 +682,79 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Texas Rangers\nGlobe Life Field\nS
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-31-toronto-blue-jays-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270531
-DTEND;VALUE=DATE:20270601
+DTSTART:20270531T220500Z
+DTEND:20270601T010500Z
 SUMMARY:Toronto Blue Jays @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nToronto Blue Jays @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-01-toronto-blue-jays-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270601
-DTEND;VALUE=DATE:20270602
+DTSTART:20270601T224000Z
+DTEND:20270602T014000Z
 SUMMARY:Toronto Blue Jays @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nToronto Blue Jays @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-02-toronto-blue-jays-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270602
-DTEND;VALUE=DATE:20270603
+DTSTART:20270602T224000Z
+DTEND:20270603T014000Z
 SUMMARY:Toronto Blue Jays @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nToronto Blue Jays @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-04-baltimore-orioles-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270604
-DTEND;VALUE=DATE:20270605
+DTSTART:20270604T224000Z
+DTEND:20270605T014000Z
 SUMMARY:Baltimore Orioles @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nBaltimore Orioles @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-05-baltimore-orioles-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270605
-DTEND;VALUE=DATE:20270606
+DTSTART:20270605T200500Z
+DTEND:20270605T230500Z
 SUMMARY:Baltimore Orioles @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nBaltimore Orioles @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-06-baltimore-orioles-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270606
-DTEND;VALUE=DATE:20270607
+DTSTART:20270606T173500Z
+DTEND:20270606T203500Z
 SUMMARY:Baltimore Orioles @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nBaltimore Orioles @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-07-philadelphia-phillies-vs-chicago-white-sox@open-sports-cal
@@ -730,7 +765,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Chicago White Sox\nRate Field\nSta
 LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-08-philadelphia-phillies-vs-chicago-white-sox@open-sports-cal
@@ -741,7 +776,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Chicago White Sox\nRate Field\nSta
 LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-09-philadelphia-phillies-vs-chicago-white-sox@open-sports-cal
@@ -752,7 +787,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Chicago White Sox\nRate Field\nSta
 LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-11-philadelphia-phillies-vs-toronto-blue-jays@open-sports-cal
@@ -763,7 +798,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Toronto Blue Jays\nRogers Centre\n
 LOCATION:Rogers Centre
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-12-philadelphia-phillies-vs-toronto-blue-jays@open-sports-cal
@@ -774,7 +809,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Toronto Blue Jays\nRogers Centre\n
 LOCATION:Rogers Centre
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-13-philadelphia-phillies-vs-toronto-blue-jays@open-sports-cal
@@ -785,73 +820,79 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Toronto Blue Jays\nRogers Centre\n
 LOCATION:Rogers Centre
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-14-minnesota-twins-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270614
-DTEND;VALUE=DATE:20270615
+DTSTART:20270614T224000Z
+DTEND:20270615T014000Z
 SUMMARY:Minnesota Twins @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nMinnesota Twins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-15-minnesota-twins-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270615
-DTEND;VALUE=DATE:20270616
+DTSTART:20270615T224000Z
+DTEND:20270616T014000Z
 SUMMARY:Minnesota Twins @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nMinnesota Twins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-16-minnesota-twins-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270616
-DTEND;VALUE=DATE:20270617
+DTSTART:20270616T220500Z
+DTEND:20270617T010500Z
 SUMMARY:Minnesota Twins @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nMinnesota Twins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-18-san-francisco-giants-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270618
-DTEND;VALUE=DATE:20270619
+DTSTART:20270618T224000Z
+DTEND:20270619T014000Z
 SUMMARY:San Francisco Giants @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-19-san-francisco-giants-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270619
-DTEND;VALUE=DATE:20270620
+DTSTART:20270619T200500Z
+DTEND:20270619T230500Z
 SUMMARY:San Francisco Giants @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-20-san-francisco-giants-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270620
-DTEND;VALUE=DATE:20270621
+DTSTART:20270620T173500Z
+DTEND:20270620T203500Z
 SUMMARY:San Francisco Giants @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-21-philadelphia-phillies-vs-atlanta-braves@open-sports-cal
@@ -862,7 +903,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Atlanta Braves\nTruist Park\nStart
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-22-philadelphia-phillies-vs-atlanta-braves@open-sports-cal
@@ -873,7 +914,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Atlanta Braves\nTruist Park\nStart
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-23-philadelphia-phillies-vs-atlanta-braves@open-sports-cal
@@ -884,7 +925,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Atlanta Braves\nTruist Park\nStart
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-24-philadelphia-phillies-vs-atlanta-braves@open-sports-cal
@@ -895,7 +936,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Atlanta Braves\nTruist Park\nStart
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-25-philadelphia-phillies-vs-pittsburgh-pirates@open-sports-cal
@@ -906,7 +947,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Pittsburgh Pirates\nPNC Park\nStar
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-26-philadelphia-phillies-vs-pittsburgh-pirates@open-sports-cal
@@ -917,7 +958,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Pittsburgh Pirates\nPNC Park\nStar
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-27-philadelphia-phillies-vs-pittsburgh-pirates@open-sports-cal
@@ -928,73 +969,79 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Pittsburgh Pirates\nPNC Park\nStar
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-29-colorado-rockies-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270629
-DTEND;VALUE=DATE:20270630
+DTSTART:20270629T224000Z
+DTEND:20270630T014000Z
 SUMMARY:Colorado Rockies @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nColorado Rockies @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-30-colorado-rockies-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270630
-DTEND;VALUE=DATE:20270701
+DTSTART:20270630T224000Z
+DTEND:20270701T014000Z
 SUMMARY:Colorado Rockies @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nColorado Rockies @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-01-colorado-rockies-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270701
-DTEND;VALUE=DATE:20270702
+DTSTART:20270701T163500Z
+DTEND:20270701T193500Z
 SUMMARY:Colorado Rockies @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nColorado Rockies @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-02-seattle-mariners-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270702
-DTEND;VALUE=DATE:20270703
+DTSTART:20270702T224000Z
+DTEND:20270703T014000Z
 SUMMARY:Seattle Mariners @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nSeattle Mariners @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-03-seattle-mariners-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270703
-DTEND;VALUE=DATE:20270704
+DTSTART:20270703T220500Z
+DTEND:20270704T010500Z
 SUMMARY:Seattle Mariners @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nSeattle Mariners @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-04-seattle-mariners-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270704
-DTEND;VALUE=DATE:20270705
+DTSTART:20270704T173500Z
+DTEND:20270704T203500Z
 SUMMARY:Seattle Mariners @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nSeattle Mariners @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-05-philadelphia-phillies-vs-cleveland-guardians@open-sports-cal
@@ -1005,7 +1052,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Cleveland Guardians\nProgressive F
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-06-philadelphia-phillies-vs-cleveland-guardians@open-sports-cal
@@ -1016,7 +1063,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Cleveland Guardians\nProgressive F
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-07-philadelphia-phillies-vs-cleveland-guardians@open-sports-cal
@@ -1027,7 +1074,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Cleveland Guardians\nProgressive F
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-09-philadelphia-phillies-vs-washington-nationals@open-sports-cal
@@ -1038,7 +1085,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Washington Nationals\nNationals Pa
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-10-philadelphia-phillies-vs-washington-nationals@open-sports-cal
@@ -1049,7 +1096,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Washington Nationals\nNationals Pa
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-11-philadelphia-phillies-vs-washington-nationals@open-sports-cal
@@ -1060,40 +1107,43 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Washington Nationals\nNationals Pa
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-16-pittsburgh-pirates-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270716
-DTEND;VALUE=DATE:20270717
+DTSTART:20270716T224000Z
+DTEND:20270717T014000Z
 SUMMARY:Pittsburgh Pirates @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-17-pittsburgh-pirates-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270717
-DTEND;VALUE=DATE:20270718
+DTSTART:20270717T220500Z
+DTEND:20270718T010500Z
 SUMMARY:Pittsburgh Pirates @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-18-pittsburgh-pirates-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270718
-DTEND;VALUE=DATE:20270719
+DTSTART:20270718T173500Z
+DTEND:20270718T203500Z
 SUMMARY:Pittsburgh Pirates @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-19-philadelphia-phillies-vs-atlanta-braves@open-sports-cal
@@ -1104,7 +1154,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Atlanta Braves\nTruist Park\nStart
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-20-philadelphia-phillies-vs-atlanta-braves@open-sports-cal
@@ -1115,7 +1165,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Atlanta Braves\nTruist Park\nStart
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-21-philadelphia-phillies-vs-atlanta-braves@open-sports-cal
@@ -1126,7 +1176,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Atlanta Braves\nTruist Park\nStart
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-22-philadelphia-phillies-vs-new-york-mets@open-sports-cal
@@ -1137,7 +1187,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Mets\nCiti Field\nStart t
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-23-philadelphia-phillies-vs-new-york-mets@open-sports-cal
@@ -1148,7 +1198,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Mets\nCiti Field\nStart t
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-24-philadelphia-phillies-vs-new-york-mets@open-sports-cal
@@ -1159,7 +1209,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Mets\nCiti Field\nStart t
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-25-philadelphia-phillies-vs-new-york-mets@open-sports-cal
@@ -1170,40 +1220,43 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Mets\nCiti Field\nStart t
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-27-boston-red-sox-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270727
-DTEND;VALUE=DATE:20270728
+DTSTART:20270727T224000Z
+DTEND:20270728T014000Z
 SUMMARY:Boston Red Sox @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nBoston Red Sox @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-28-boston-red-sox-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270728
-DTEND;VALUE=DATE:20270729
+DTSTART:20270728T224000Z
+DTEND:20270729T014000Z
 SUMMARY:Boston Red Sox @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nBoston Red Sox @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-29-boston-red-sox-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270729
-DTEND;VALUE=DATE:20270730
+DTSTART:20270729T163500Z
+DTEND:20270729T193500Z
 SUMMARY:Boston Red Sox @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nBoston Red Sox @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-30-philadelphia-phillies-vs-miami-marlins@open-sports-cal
@@ -1214,7 +1267,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Miami Marlins\nloanDepot park\nSta
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-31-philadelphia-phillies-vs-miami-marlins@open-sports-cal
@@ -1225,7 +1278,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Miami Marlins\nloanDepot park\nSta
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-01-philadelphia-phillies-vs-miami-marlins@open-sports-cal
@@ -1236,73 +1289,79 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Miami Marlins\nloanDepot park\nSta
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-02-st-louis-cardinals-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270802
-DTEND;VALUE=DATE:20270803
+DTSTART:20270802T224000Z
+DTEND:20270803T014000Z
 SUMMARY:St. Louis Cardinals @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-03-st-louis-cardinals-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270803
-DTEND;VALUE=DATE:20270804
+DTSTART:20270803T224000Z
+DTEND:20270804T014000Z
 SUMMARY:St. Louis Cardinals @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-04-st-louis-cardinals-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270804
-DTEND;VALUE=DATE:20270805
+DTSTART:20270804T220500Z
+DTEND:20270805T010500Z
 SUMMARY:St. Louis Cardinals @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-06-kansas-city-royals-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270806
-DTEND;VALUE=DATE:20270807
+DTSTART:20270806T224000Z
+DTEND:20270807T014000Z
 SUMMARY:Kansas City Royals @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nKansas City Royals @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nKansas City Royals @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-07-kansas-city-royals-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270807
-DTEND;VALUE=DATE:20270808
+DTSTART:20270807T220500Z
+DTEND:20270808T010500Z
 SUMMARY:Kansas City Royals @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nKansas City Royals @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nKansas City Royals @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-08-kansas-city-royals-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270808
-DTEND;VALUE=DATE:20270809
+DTSTART:20270808T173500Z
+DTEND:20270808T203500Z
 SUMMARY:Kansas City Royals @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nKansas City Royals @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nKansas City Royals @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-09-philadelphia-phillies-vs-colorado-rockies@open-sports-cal
@@ -1313,7 +1372,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Colorado Rockies\nCoors Field\nSta
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-10-philadelphia-phillies-vs-colorado-rockies@open-sports-cal
@@ -1324,7 +1383,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Colorado Rockies\nCoors Field\nSta
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-11-philadelphia-phillies-vs-colorado-rockies@open-sports-cal
@@ -1335,7 +1394,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Colorado Rockies\nCoors Field\nSta
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-12-philadelphia-phillies-vs-colorado-rockies@open-sports-cal
@@ -1346,7 +1405,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Colorado Rockies\nCoors Field\nSta
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-13-philadelphia-phillies-vs-los-angeles-dodgers@open-sports-cal
@@ -1357,7 +1416,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Los Angeles Dodgers\nUNIQLO Field 
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-14-philadelphia-phillies-vs-los-angeles-dodgers@open-sports-cal
@@ -1368,7 +1427,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Los Angeles Dodgers\nUNIQLO Field 
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-15-philadelphia-phillies-vs-los-angeles-dodgers@open-sports-cal
@@ -1379,73 +1438,79 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Los Angeles Dodgers\nUNIQLO Field 
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-17-san-diego-padres-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270817
-DTEND;VALUE=DATE:20270818
+DTSTART:20270817T224000Z
+DTEND:20270818T014000Z
 SUMMARY:San Diego Padres @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nSan Diego Padres @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-18-san-diego-padres-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270818
-DTEND;VALUE=DATE:20270819
+DTSTART:20270818T224000Z
+DTEND:20270819T014000Z
 SUMMARY:San Diego Padres @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nSan Diego Padres @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-19-san-diego-padres-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270819
-DTEND;VALUE=DATE:20270820
+DTSTART:20270819T163500Z
+DTEND:20270819T193500Z
 SUMMARY:San Diego Padres @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nSan Diego Padres @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-20-cincinnati-reds-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270820
-DTEND;VALUE=DATE:20270821
+DTSTART:20270820T224000Z
+DTEND:20270821T014000Z
 SUMMARY:Cincinnati Reds @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nCincinnati Reds @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-21-cincinnati-reds-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270821
-DTEND;VALUE=DATE:20270822
+DTSTART:20270821T220500Z
+DTEND:20270822T010500Z
 SUMMARY:Cincinnati Reds @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nCincinnati Reds @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-22-cincinnati-reds-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270822
-DTEND;VALUE=DATE:20270823
+DTSTART:20270822T173500Z
+DTEND:20270822T203500Z
 SUMMARY:Cincinnati Reds @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nCincinnati Reds @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-24-philadelphia-phillies-vs-athletics@open-sports-cal
@@ -1456,7 +1521,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Athletics\nSutter Health Park\nSta
 LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-25-philadelphia-phillies-vs-athletics@open-sports-cal
@@ -1467,7 +1532,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Athletics\nSutter Health Park\nSta
 LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-26-philadelphia-phillies-vs-athletics@open-sports-cal
@@ -1478,7 +1543,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Athletics\nSutter Health Park\nSta
 LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-27-philadelphia-phillies-vs-arizona-diamondbacks@open-sports-cal
@@ -1489,7 +1554,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Arizona Diamondbacks\nChase Field\
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-28-philadelphia-phillies-vs-arizona-diamondbacks@open-sports-cal
@@ -1500,7 +1565,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Arizona Diamondbacks\nChase Field\
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-29-philadelphia-phillies-vs-arizona-diamondbacks@open-sports-cal
@@ -1511,73 +1576,79 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Arizona Diamondbacks\nChase Field\
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-31-atlanta-braves-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270831
-DTEND;VALUE=DATE:20270901
+DTSTART:20270831T224000Z
+DTEND:20270901T014000Z
 SUMMARY:Atlanta Braves @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-01-atlanta-braves-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270901
-DTEND;VALUE=DATE:20270902
+DTSTART:20270901T224000Z
+DTEND:20270902T014000Z
 SUMMARY:Atlanta Braves @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-02-atlanta-braves-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270902
-DTEND;VALUE=DATE:20270903
+DTSTART:20270902T224000Z
+DTEND:20270903T014000Z
 SUMMARY:Atlanta Braves @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-03-new-york-mets-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270903
-DTEND;VALUE=DATE:20270904
+DTSTART:20270903T224000Z
+DTEND:20270904T014000Z
 SUMMARY:New York Mets @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-04-new-york-mets-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270904
-DTEND;VALUE=DATE:20270905
+DTSTART:20270904T220500Z
+DTEND:20270905T010500Z
 SUMMARY:New York Mets @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-05-new-york-mets-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270905
-DTEND;VALUE=DATE:20270906
+DTSTART:20270905T173500Z
+DTEND:20270905T203500Z
 SUMMARY:New York Mets @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-06-miami-marlins-vs-philadelphia-phillies@open-sports-cal
@@ -1588,40 +1659,43 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park\
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-07-miami-marlins-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270907
-DTEND;VALUE=DATE:20270908
+DTSTART:20270907T224000Z
+DTEND:20270908T014000Z
 SUMMARY:Miami Marlins @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-08-miami-marlins-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270908
-DTEND;VALUE=DATE:20270909
+DTSTART:20270908T224000Z
+DTEND:20270909T014000Z
 SUMMARY:Miami Marlins @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-09-miami-marlins-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270909
-DTEND;VALUE=DATE:20270910
+DTSTART:20270909T170500Z
+DTEND:20270909T200500Z
 SUMMARY:Miami Marlins @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMiami Marlins @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-10-philadelphia-phillies-vs-st-louis-cardinals@open-sports-cal
@@ -1632,7 +1706,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-11-philadelphia-phillies-vs-st-louis-cardinals@open-sports-cal
@@ -1643,7 +1717,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-12-philadelphia-phillies-vs-st-louis-cardinals@open-sports-cal
@@ -1654,7 +1728,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-14-philadelphia-phillies-vs-cincinnati-reds@open-sports-cal
@@ -1665,7 +1739,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Cincinnati Reds\nGreat American Ba
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-15-philadelphia-phillies-vs-cincinnati-reds@open-sports-cal
@@ -1676,7 +1750,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Cincinnati Reds\nGreat American Ba
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-16-philadelphia-phillies-vs-cincinnati-reds@open-sports-cal
@@ -1687,7 +1761,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Cincinnati Reds\nGreat American Ba
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-17-philadelphia-phillies-vs-houston-astros@open-sports-cal
@@ -1698,7 +1772,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Houston Astros\nDaikin Park\nStart
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-18-philadelphia-phillies-vs-houston-astros@open-sports-cal
@@ -1709,7 +1783,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Houston Astros\nDaikin Park\nStart
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-19-philadelphia-phillies-vs-houston-astros@open-sports-cal
@@ -1720,72 +1794,78 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Houston Astros\nDaikin Park\nStart
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-21-chicago-cubs-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270921
-DTEND;VALUE=DATE:20270922
+DTSTART:20270921T224000Z
+DTEND:20270922T014000Z
 SUMMARY:Chicago Cubs @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nChicago Cubs @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-22-chicago-cubs-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270922
-DTEND;VALUE=DATE:20270923
+DTSTART:20270922T224000Z
+DTEND:20270923T014000Z
 SUMMARY:Chicago Cubs @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nChicago Cubs @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-23-chicago-cubs-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270923
-DTEND;VALUE=DATE:20270924
+DTSTART:20270923T220500Z
+DTEND:20270924T010500Z
 SUMMARY:Chicago Cubs @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nChicago Cubs @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-24-washington-nationals-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270924
-DTEND;VALUE=DATE:20270925
+DTSTART:20270924T224000Z
+DTEND:20270925T014000Z
 SUMMARY:Washington Nationals @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nWashington Nationals @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-25-washington-nationals-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270925
-DTEND;VALUE=DATE:20270926
+DTSTART:20270925T220500Z
+DTEND:20270926T010500Z
 SUMMARY:Washington Nationals @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nWashington Nationals @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-26-washington-nationals-vs-philadelphia-phillies@open-sports-cal
-DTSTART;VALUE=DATE:20270926
-DTEND;VALUE=DATE:20270927
+DTSTART:20270926T190500Z
+DTEND:20270926T220500Z
 SUMMARY:Washington Nationals @ Philadelphia Phillies
-DESCRIPTION:MLB 2027\nWashington Nationals @ Philadelphia Phillies\nCitizens Bank Park\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261019T124448Z
+DTSTAMP:20261020T111525Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR
