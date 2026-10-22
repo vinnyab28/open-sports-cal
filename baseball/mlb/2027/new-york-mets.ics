@@ -15,7 +15,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Miami Marlins\nloanDepot park\nStart time 
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-27-new-york-mets-vs-miami-marlins@open-sports-cal
@@ -26,7 +26,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Miami Marlins\nloanDepot park\nStart time 
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-28-new-york-mets-vs-miami-marlins@open-sports-cal
@@ -37,40 +37,43 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Miami Marlins\nloanDepot park\nStart time 
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-29-new-york-mets-vs-washington-nationals@open-sports-cal
-DTSTART;VALUE=DATE:20270329
-DTEND;VALUE=DATE:20270330
+DTSTART:20270329T224500Z
+DTEND:20270330T014500Z
 SUMMARY:New York Mets @ Washington Nationals
-DESCRIPTION:MLB 2027\nNew York Mets @ Washington Nationals\nNationals Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-30-new-york-mets-vs-washington-nationals@open-sports-cal
-DTSTART;VALUE=DATE:20270330
-DTEND;VALUE=DATE:20270331
+DTSTART:20270330T224500Z
+DTEND:20270331T014500Z
 SUMMARY:New York Mets @ Washington Nationals
-DESCRIPTION:MLB 2027\nNew York Mets @ Washington Nationals\nNationals Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-31-new-york-mets-vs-washington-nationals@open-sports-cal
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
+DTSTART:20270331T170500Z
+DTEND:20270331T200500Z
 SUMMARY:New York Mets @ Washington Nationals
-DESCRIPTION:MLB 2027\nNew York Mets @ Washington Nationals\nNationals Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-02-san-francisco-giants-vs-new-york-mets@open-sports-cal
@@ -81,7 +84,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ New York Mets\nCiti Field\nStart ti
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-03-san-francisco-giants-vs-new-york-mets@open-sports-cal
@@ -92,7 +95,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ New York Mets\nCiti Field\nStart ti
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-04-san-francisco-giants-vs-new-york-mets@open-sports-cal
@@ -103,7 +106,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ New York Mets\nCiti Field\nStart ti
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-05-cincinnati-reds-vs-new-york-mets@open-sports-cal
@@ -114,7 +117,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ New York Mets\nCiti Field\nStart time TB
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-06-cincinnati-reds-vs-new-york-mets@open-sports-cal
@@ -125,7 +128,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ New York Mets\nCiti Field\nStart time TB
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-07-cincinnati-reds-vs-new-york-mets@open-sports-cal
@@ -136,7 +139,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ New York Mets\nCiti Field\nStart time TB
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-08-cincinnati-reds-vs-new-york-mets@open-sports-cal
@@ -147,7 +150,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ New York Mets\nCiti Field\nStart time TB
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-09-new-york-mets-vs-detroit-tigers@open-sports-cal
@@ -158,7 +161,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Detroit Tigers\nComerica Park\nStart time 
 LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-10-new-york-mets-vs-detroit-tigers@open-sports-cal
@@ -169,7 +172,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Detroit Tigers\nComerica Park\nStart time 
 LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-11-new-york-mets-vs-detroit-tigers@open-sports-cal
@@ -180,7 +183,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Detroit Tigers\nComerica Park\nStart time 
 LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-13-los-angeles-angels-vs-new-york-mets@open-sports-cal
@@ -191,7 +194,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ New York Mets\nCiti Field\nStart time
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-14-los-angeles-angels-vs-new-york-mets@open-sports-cal
@@ -202,7 +205,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ New York Mets\nCiti Field\nStart time
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-15-los-angeles-angels-vs-new-york-mets@open-sports-cal
@@ -213,7 +216,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ New York Mets\nCiti Field\nStart time
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-16-new-york-mets-vs-colorado-rockies@open-sports-cal
@@ -224,7 +227,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Colorado Rockies\nCoors Field\nStart time 
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-17-new-york-mets-vs-colorado-rockies@open-sports-cal
@@ -235,7 +238,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Colorado Rockies\nCoors Field\nStart time 
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-18-new-york-mets-vs-colorado-rockies@open-sports-cal
@@ -246,7 +249,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Colorado Rockies\nCoors Field\nStart time 
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-19-new-york-mets-vs-athletics@open-sports-cal
@@ -257,7 +260,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Athletics\nSutter Health Park\nStart time 
 LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-20-new-york-mets-vs-athletics@open-sports-cal
@@ -268,7 +271,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Athletics\nSutter Health Park\nStart time 
 LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-21-new-york-mets-vs-athletics@open-sports-cal
@@ -279,7 +282,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Athletics\nSutter Health Park\nStart time 
 LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-23-texas-rangers-vs-new-york-mets@open-sports-cal
@@ -290,7 +293,7 @@ DESCRIPTION:MLB 2027\nTexas Rangers @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-24-texas-rangers-vs-new-york-mets@open-sports-cal
@@ -301,7 +304,7 @@ DESCRIPTION:MLB 2027\nTexas Rangers @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-25-texas-rangers-vs-new-york-mets@open-sports-cal
@@ -312,7 +315,7 @@ DESCRIPTION:MLB 2027\nTexas Rangers @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-26-toronto-blue-jays-vs-new-york-mets@open-sports-cal
@@ -323,7 +326,7 @@ DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Mets\nCiti Field\nStart time 
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-27-toronto-blue-jays-vs-new-york-mets@open-sports-cal
@@ -334,7 +337,7 @@ DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Mets\nCiti Field\nStart time 
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-28-toronto-blue-jays-vs-new-york-mets@open-sports-cal
@@ -345,7 +348,7 @@ DESCRIPTION:MLB 2027\nToronto Blue Jays @ New York Mets\nCiti Field\nStart time 
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-29-new-york-mets-vs-atlanta-braves@open-sports-cal
@@ -356,7 +359,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Atlanta Braves\nTruist Park\nStart time TB
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-30-new-york-mets-vs-atlanta-braves@open-sports-cal
@@ -367,7 +370,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Atlanta Braves\nTruist Park\nStart time TB
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-01-new-york-mets-vs-atlanta-braves@open-sports-cal
@@ -378,7 +381,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Atlanta Braves\nTruist Park\nStart time TB
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-02-new-york-mets-vs-atlanta-braves@open-sports-cal
@@ -389,7 +392,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Atlanta Braves\nTruist Park\nStart time TB
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-04-new-york-mets-vs-philadelphia-phillies@open-sports-cal
@@ -400,7 +403,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -412,7 +415,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -424,7 +427,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -436,7 +439,7 @@ DESCRIPTION:MLB 2027\nTampa Bay Rays @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-08-tampa-bay-rays-vs-new-york-mets@open-sports-cal
@@ -447,7 +450,7 @@ DESCRIPTION:MLB 2027\nTampa Bay Rays @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-09-tampa-bay-rays-vs-new-york-mets@open-sports-cal
@@ -458,7 +461,7 @@ DESCRIPTION:MLB 2027\nTampa Bay Rays @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-11-philadelphia-phillies-vs-new-york-mets@open-sports-cal
@@ -469,7 +472,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Mets\nCiti Field\nStart t
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-12-philadelphia-phillies-vs-new-york-mets@open-sports-cal
@@ -480,7 +483,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Mets\nCiti Field\nStart t
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-13-philadelphia-phillies-vs-new-york-mets@open-sports-cal
@@ -491,7 +494,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Mets\nCiti Field\nStart t
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-14-new-york-mets-vs-milwaukee-brewers@open-sports-cal
@@ -502,7 +505,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Milwaukee Brewers\nAmerican Family Field\n
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-15-new-york-mets-vs-milwaukee-brewers@open-sports-cal
@@ -513,7 +516,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Milwaukee Brewers\nAmerican Family Field\n
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-16-new-york-mets-vs-milwaukee-brewers@open-sports-cal
@@ -524,7 +527,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Milwaukee Brewers\nAmerican Family Field\n
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-17-new-york-mets-vs-san-diego-padres@open-sports-cal
@@ -535,7 +538,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ San Diego Padres\nPetco Park\nStart time T
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-18-new-york-mets-vs-san-diego-padres@open-sports-cal
@@ -546,7 +549,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ San Diego Padres\nPetco Park\nStart time T
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-19-new-york-mets-vs-san-diego-padres@open-sports-cal
@@ -557,7 +560,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ San Diego Padres\nPetco Park\nStart time T
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-21-new-york-mets-vs-minnesota-twins@open-sports-cal
@@ -568,7 +571,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Minnesota Twins\nTarget Field
 LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -580,7 +583,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Minnesota Twins\nTarget Field
 LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -592,7 +595,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Minnesota Twins\nTarget Field
 LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -604,7 +607,7 @@ DESCRIPTION:MLB 2027\nAtlanta Braves @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-25-atlanta-braves-vs-new-york-mets@open-sports-cal
@@ -615,7 +618,7 @@ DESCRIPTION:MLB 2027\nAtlanta Braves @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-26-atlanta-braves-vs-new-york-mets@open-sports-cal
@@ -626,7 +629,7 @@ DESCRIPTION:MLB 2027\nAtlanta Braves @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-28-new-york-yankees-vs-new-york-mets@open-sports-cal
@@ -637,7 +640,7 @@ DESCRIPTION:MLB 2027\nNew York Yankees @ New York Mets\nCiti Field\nStart time T
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-29-new-york-yankees-vs-new-york-mets@open-sports-cal
@@ -648,7 +651,7 @@ DESCRIPTION:MLB 2027\nNew York Yankees @ New York Mets\nCiti Field\nStart time T
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-30-new-york-yankees-vs-new-york-mets@open-sports-cal
@@ -659,7 +662,7 @@ DESCRIPTION:MLB 2027\nNew York Yankees @ New York Mets\nCiti Field\nStart time T
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-31-new-york-mets-vs-baltimore-orioles@open-sports-cal
@@ -670,7 +673,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Baltimore Orioles\nOriole Park at Camden Y
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-01-new-york-mets-vs-baltimore-orioles@open-sports-cal
@@ -681,7 +684,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Baltimore Orioles\nOriole Park at Camden Y
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-02-new-york-mets-vs-baltimore-orioles@open-sports-cal
@@ -692,7 +695,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Baltimore Orioles\nOriole Park at Camden Y
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-03-miami-marlins-vs-new-york-mets@open-sports-cal
@@ -703,7 +706,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-04-miami-marlins-vs-new-york-mets@open-sports-cal
@@ -714,7 +717,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-05-miami-marlins-vs-new-york-mets@open-sports-cal
@@ -725,7 +728,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-06-miami-marlins-vs-new-york-mets@open-sports-cal
@@ -736,7 +739,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-07-new-york-mets-vs-kansas-city-royals@open-sports-cal
@@ -747,7 +750,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Kansas City Royals\nKauffman Stadium\nStar
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-08-new-york-mets-vs-kansas-city-royals@open-sports-cal
@@ -758,7 +761,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Kansas City Royals\nKauffman Stadium\nStar
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-09-new-york-mets-vs-kansas-city-royals@open-sports-cal
@@ -769,7 +772,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Kansas City Royals\nKauffman Stadium\nStar
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-11-new-york-mets-vs-san-francisco-giants@open-sports-cal
@@ -780,7 +783,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ San Francisco Giants\nOracle Park\nStart t
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-12-new-york-mets-vs-san-francisco-giants@open-sports-cal
@@ -791,7 +794,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ San Francisco Giants\nOracle Park\nStart t
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-13-new-york-mets-vs-san-francisco-giants@open-sports-cal
@@ -802,7 +805,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ San Francisco Giants\nOracle Park\nStart t
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-15-san-diego-padres-vs-new-york-mets@open-sports-cal
@@ -813,7 +816,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ New York Mets\nCiti Field\nStart time T
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-16-san-diego-padres-vs-new-york-mets@open-sports-cal
@@ -824,7 +827,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ New York Mets\nCiti Field\nStart time T
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-17-san-diego-padres-vs-new-york-mets@open-sports-cal
@@ -835,7 +838,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ New York Mets\nCiti Field\nStart time T
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-18-washington-nationals-vs-new-york-mets@open-sports-cal
@@ -846,7 +849,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ New York Mets\nCiti Field\nStart ti
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-19-washington-nationals-vs-new-york-mets@open-sports-cal
@@ -857,7 +860,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ New York Mets\nCiti Field\nStart ti
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-20-washington-nationals-vs-new-york-mets@open-sports-cal
@@ -868,7 +871,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ New York Mets\nCiti Field\nStart ti
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-21-milwaukee-brewers-vs-new-york-mets@open-sports-cal
@@ -879,7 +882,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ New York Mets\nCiti Field\nStart time 
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-22-milwaukee-brewers-vs-new-york-mets@open-sports-cal
@@ -890,7 +893,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ New York Mets\nCiti Field\nStart time 
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-23-milwaukee-brewers-vs-new-york-mets@open-sports-cal
@@ -901,7 +904,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ New York Mets\nCiti Field\nStart time 
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-25-new-york-mets-vs-st-louis-cardinals@open-sports-cal
@@ -912,7 +915,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ St. Louis Cardinals\nBusch Stadium\nStart 
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-26-new-york-mets-vs-st-louis-cardinals@open-sports-cal
@@ -923,7 +926,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ St. Louis Cardinals\nBusch Stadium\nStart 
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-27-new-york-mets-vs-st-louis-cardinals@open-sports-cal
@@ -934,7 +937,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ St. Louis Cardinals\nBusch Stadium\nStart 
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-28-new-york-mets-vs-arizona-diamondbacks@open-sports-cal
@@ -945,7 +948,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Arizona Diamondbacks\nChase Field\nStart t
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-29-new-york-mets-vs-arizona-diamondbacks@open-sports-cal
@@ -956,7 +959,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Arizona Diamondbacks\nChase Field\nStart t
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-30-new-york-mets-vs-arizona-diamondbacks@open-sports-cal
@@ -967,7 +970,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Arizona Diamondbacks\nChase Field\nStart t
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-01-new-york-mets-vs-los-angeles-dodgers@open-sports-cal
@@ -978,7 +981,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Los Angeles Dodgers\nUNIQLO Field at Dodge
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-02-new-york-mets-vs-los-angeles-dodgers@open-sports-cal
@@ -989,7 +992,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Los Angeles Dodgers\nUNIQLO Field at Dodge
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-03-new-york-mets-vs-los-angeles-dodgers@open-sports-cal
@@ -1000,7 +1003,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Los Angeles Dodgers\nUNIQLO Field at Dodge
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-04-new-york-mets-vs-los-angeles-dodgers@open-sports-cal
@@ -1011,7 +1014,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Los Angeles Dodgers\nUNIQLO Field at Dodge
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-06-miami-marlins-vs-new-york-mets@open-sports-cal
@@ -1022,7 +1025,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-07-miami-marlins-vs-new-york-mets@open-sports-cal
@@ -1033,7 +1036,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-08-miami-marlins-vs-new-york-mets@open-sports-cal
@@ -1044,7 +1047,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-09-los-angeles-dodgers-vs-new-york-mets@open-sports-cal
@@ -1055,7 +1058,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ New York Mets\nCiti Field\nStart tim
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-10-los-angeles-dodgers-vs-new-york-mets@open-sports-cal
@@ -1066,7 +1069,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ New York Mets\nCiti Field\nStart tim
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-11-los-angeles-dodgers-vs-new-york-mets@open-sports-cal
@@ -1077,7 +1080,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ New York Mets\nCiti Field\nStart tim
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-16-new-york-mets-vs-new-york-yankees@open-sports-cal
@@ -1088,7 +1091,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ New York Yankees\nYankee Stadium\nStart ti
 LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-17-new-york-mets-vs-new-york-yankees@open-sports-cal
@@ -1099,7 +1102,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ New York Yankees\nYankee Stadium\nStart ti
 LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-18-new-york-mets-vs-new-york-yankees@open-sports-cal
@@ -1110,7 +1113,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ New York Yankees\nYankee Stadium\nStart ti
 LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-19-new-york-mets-vs-boston-red-sox@open-sports-cal
@@ -1121,7 +1124,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Boston Red Sox\nFenway Park\nStart time TB
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-20-new-york-mets-vs-boston-red-sox@open-sports-cal
@@ -1132,7 +1135,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Boston Red Sox\nFenway Park\nStart time TB
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-21-new-york-mets-vs-boston-red-sox@open-sports-cal
@@ -1143,7 +1146,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Boston Red Sox\nFenway Park\nStart time TB
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-22-philadelphia-phillies-vs-new-york-mets@open-sports-cal
@@ -1154,7 +1157,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Mets\nCiti Field\nStart t
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-23-philadelphia-phillies-vs-new-york-mets@open-sports-cal
@@ -1165,7 +1168,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Mets\nCiti Field\nStart t
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-24-philadelphia-phillies-vs-new-york-mets@open-sports-cal
@@ -1176,7 +1179,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Mets\nCiti Field\nStart t
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-25-philadelphia-phillies-vs-new-york-mets@open-sports-cal
@@ -1187,7 +1190,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ New York Mets\nCiti Field\nStart t
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-26-arizona-diamondbacks-vs-new-york-mets@open-sports-cal
@@ -1198,7 +1201,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ New York Mets\nCiti Field\nStart ti
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-27-arizona-diamondbacks-vs-new-york-mets@open-sports-cal
@@ -1209,7 +1212,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ New York Mets\nCiti Field\nStart ti
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-28-arizona-diamondbacks-vs-new-york-mets@open-sports-cal
@@ -1220,7 +1223,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ New York Mets\nCiti Field\nStart ti
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-30-new-york-mets-vs-pittsburgh-pirates@open-sports-cal
@@ -1231,7 +1234,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Pittsburgh Pirates\nPNC Park\nStart time T
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-31-new-york-mets-vs-pittsburgh-pirates@open-sports-cal
@@ -1242,7 +1245,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Pittsburgh Pirates\nPNC Park\nStart time T
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-01-new-york-mets-vs-pittsburgh-pirates@open-sports-cal
@@ -1253,7 +1256,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Pittsburgh Pirates\nPNC Park\nStart time T
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-02-new-york-mets-vs-cincinnati-reds@open-sports-cal
@@ -1264,7 +1267,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Cincinnati Reds\nGreat American Ball Park\
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-03-new-york-mets-vs-cincinnati-reds@open-sports-cal
@@ -1275,7 +1278,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Cincinnati Reds\nGreat American Ball Park\
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-04-new-york-mets-vs-cincinnati-reds@open-sports-cal
@@ -1286,7 +1289,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Cincinnati Reds\nGreat American Ball Park\
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-06-washington-nationals-vs-new-york-mets@open-sports-cal
@@ -1297,7 +1300,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ New York Mets\nCiti Field\nStart ti
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-07-washington-nationals-vs-new-york-mets@open-sports-cal
@@ -1308,7 +1311,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ New York Mets\nCiti Field\nStart ti
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-08-washington-nationals-vs-new-york-mets@open-sports-cal
@@ -1319,7 +1322,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ New York Mets\nCiti Field\nStart ti
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-09-atlanta-braves-vs-new-york-mets@open-sports-cal
@@ -1330,7 +1333,7 @@ DESCRIPTION:MLB 2027\nAtlanta Braves @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-10-atlanta-braves-vs-new-york-mets@open-sports-cal
@@ -1341,7 +1344,7 @@ DESCRIPTION:MLB 2027\nAtlanta Braves @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-11-atlanta-braves-vs-new-york-mets@open-sports-cal
@@ -1352,7 +1355,7 @@ DESCRIPTION:MLB 2027\nAtlanta Braves @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-13-st-louis-cardinals-vs-new-york-mets@open-sports-cal
@@ -1363,7 +1366,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ New York Mets\nCiti Field\nStart tim
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-14-st-louis-cardinals-vs-new-york-mets@open-sports-cal
@@ -1374,7 +1377,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ New York Mets\nCiti Field\nStart tim
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-15-st-louis-cardinals-vs-new-york-mets@open-sports-cal
@@ -1385,7 +1388,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ New York Mets\nCiti Field\nStart tim
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-17-new-york-mets-vs-houston-astros@open-sports-cal
@@ -1396,7 +1399,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Houston Astros\nDaikin Park\nStart time TB
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-18-new-york-mets-vs-houston-astros@open-sports-cal
@@ -1407,7 +1410,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Houston Astros\nDaikin Park\nStart time TB
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-19-new-york-mets-vs-houston-astros@open-sports-cal
@@ -1418,7 +1421,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Houston Astros\nDaikin Park\nStart time TB
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-20-new-york-mets-vs-atlanta-braves@open-sports-cal
@@ -1429,7 +1432,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Atlanta Braves\nTruist Park\nStart time TB
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-21-new-york-mets-vs-atlanta-braves@open-sports-cal
@@ -1440,7 +1443,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Atlanta Braves\nTruist Park\nStart time TB
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-22-new-york-mets-vs-atlanta-braves@open-sports-cal
@@ -1451,7 +1454,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Atlanta Braves\nTruist Park\nStart time TB
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-24-colorado-rockies-vs-new-york-mets@open-sports-cal
@@ -1462,7 +1465,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ New York Mets\nCiti Field\nStart time T
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-25-colorado-rockies-vs-new-york-mets@open-sports-cal
@@ -1473,7 +1476,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ New York Mets\nCiti Field\nStart time T
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-26-colorado-rockies-vs-new-york-mets@open-sports-cal
@@ -1484,7 +1487,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ New York Mets\nCiti Field\nStart time T
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-27-chicago-white-sox-vs-new-york-mets@open-sports-cal
@@ -1495,7 +1498,7 @@ DESCRIPTION:MLB 2027\nChicago White Sox @ New York Mets\nCiti Field\nStart time 
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-28-chicago-white-sox-vs-new-york-mets@open-sports-cal
@@ -1506,7 +1509,7 @@ DESCRIPTION:MLB 2027\nChicago White Sox @ New York Mets\nCiti Field\nStart time 
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-29-chicago-white-sox-vs-new-york-mets@open-sports-cal
@@ -1517,7 +1520,7 @@ DESCRIPTION:MLB 2027\nChicago White Sox @ New York Mets\nCiti Field\nStart time 
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-31-new-york-mets-vs-miami-marlins@open-sports-cal
@@ -1528,7 +1531,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Miami Marlins\nloanDepot park\nStart time 
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-01-new-york-mets-vs-miami-marlins@open-sports-cal
@@ -1539,7 +1542,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Miami Marlins\nloanDepot park\nStart time 
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-02-new-york-mets-vs-miami-marlins@open-sports-cal
@@ -1550,7 +1553,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Miami Marlins\nloanDepot park\nStart time 
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-03-new-york-mets-vs-philadelphia-phillies@open-sports-cal
@@ -1561,7 +1564,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1573,7 +1576,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1585,7 +1588,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1597,7 +1600,7 @@ DESCRIPTION:MLB 2027\nSeattle Mariners @ New York Mets\nCiti Field\nStart time T
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-07-seattle-mariners-vs-new-york-mets@open-sports-cal
@@ -1608,7 +1611,7 @@ DESCRIPTION:MLB 2027\nSeattle Mariners @ New York Mets\nCiti Field\nStart time T
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-08-seattle-mariners-vs-new-york-mets@open-sports-cal
@@ -1619,7 +1622,7 @@ DESCRIPTION:MLB 2027\nSeattle Mariners @ New York Mets\nCiti Field\nStart time T
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-10-cleveland-guardians-vs-new-york-mets@open-sports-cal
@@ -1630,7 +1633,7 @@ DESCRIPTION:MLB 2027\nCleveland Guardians @ New York Mets\nCiti Field\nStart tim
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-11-cleveland-guardians-vs-new-york-mets@open-sports-cal
@@ -1641,7 +1644,7 @@ DESCRIPTION:MLB 2027\nCleveland Guardians @ New York Mets\nCiti Field\nStart tim
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-12-cleveland-guardians-vs-new-york-mets@open-sports-cal
@@ -1652,51 +1655,55 @@ DESCRIPTION:MLB 2027\nCleveland Guardians @ New York Mets\nCiti Field\nStart tim
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-13-new-york-mets-vs-washington-nationals@open-sports-cal
-DTSTART;VALUE=DATE:20270913
-DTEND;VALUE=DATE:20270914
+DTSTART:20270913T224500Z
+DTEND:20270914T014500Z
 SUMMARY:New York Mets @ Washington Nationals
-DESCRIPTION:MLB 2027\nNew York Mets @ Washington Nationals\nNationals Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-14-new-york-mets-vs-washington-nationals@open-sports-cal
-DTSTART;VALUE=DATE:20270914
-DTEND;VALUE=DATE:20270915
+DTSTART:20270914T224500Z
+DTEND:20270915T014500Z
 SUMMARY:New York Mets @ Washington Nationals
-DESCRIPTION:MLB 2027\nNew York Mets @ Washington Nationals\nNationals Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-15-new-york-mets-vs-washington-nationals@open-sports-cal
-DTSTART;VALUE=DATE:20270915
-DTEND;VALUE=DATE:20270916
+DTSTART:20270915T224500Z
+DTEND:20270916T014500Z
 SUMMARY:New York Mets @ Washington Nationals
-DESCRIPTION:MLB 2027\nNew York Mets @ Washington Nationals\nNationals Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-16-new-york-mets-vs-washington-nationals@open-sports-cal
-DTSTART;VALUE=DATE:20270916
-DTEND;VALUE=DATE:20270917
+DTSTART:20270916T170500Z
+DTEND:20270916T200500Z
 SUMMARY:New York Mets @ Washington Nationals
-DESCRIPTION:MLB 2027\nNew York Mets @ Washington Nationals\nNationals Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-17-new-york-mets-vs-chicago-cubs@open-sports-cal
@@ -1707,7 +1714,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Chicago Cubs\nWrigley Field\nStart time TB
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-18-new-york-mets-vs-chicago-cubs@open-sports-cal
@@ -1718,7 +1725,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Chicago Cubs\nWrigley Field\nStart time TB
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-19-new-york-mets-vs-chicago-cubs@open-sports-cal
@@ -1729,7 +1736,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Chicago Cubs\nWrigley Field\nStart time TB
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-21-pittsburgh-pirates-vs-new-york-mets@open-sports-cal
@@ -1740,7 +1747,7 @@ DESCRIPTION:MLB 2027\nPittsburgh Pirates @ New York Mets\nCiti Field\nStart time
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-22-pittsburgh-pirates-vs-new-york-mets@open-sports-cal
@@ -1751,7 +1758,7 @@ DESCRIPTION:MLB 2027\nPittsburgh Pirates @ New York Mets\nCiti Field\nStart time
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-23-pittsburgh-pirates-vs-new-york-mets@open-sports-cal
@@ -1762,7 +1769,7 @@ DESCRIPTION:MLB 2027\nPittsburgh Pirates @ New York Mets\nCiti Field\nStart time
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-24-chicago-cubs-vs-new-york-mets@open-sports-cal
@@ -1773,7 +1780,7 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-25-chicago-cubs-vs-new-york-mets@open-sports-cal
@@ -1784,7 +1791,7 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-26-chicago-cubs-vs-new-york-mets@open-sports-cal
@@ -1795,6 +1802,6 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ New York Mets\nCiti Field\nStart time TBD
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261021T113132Z
+DTSTAMP:20261022T113153Z
 END:VEVENT
 END:VCALENDAR
