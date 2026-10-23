@@ -15,7 +15,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-27-colorado-rockies-vs-san-francisco-giants@open-sports-cal
@@ -26,7 +26,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-28-colorado-rockies-vs-san-francisco-giants@open-sports-cal
@@ -37,40 +37,43 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-29-colorado-rockies-vs-san-diego-padres@open-sports-cal
-DTSTART;VALUE=DATE:20270329
-DTEND;VALUE=DATE:20270330
+DTSTART:20270330T014000Z
+DTEND:20270330T044000Z
 SUMMARY:Colorado Rockies @ San Diego Padres
-DESCRIPTION:MLB 2027\nColorado Rockies @ San Diego Padres\nPetco Park\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-30-colorado-rockies-vs-san-diego-padres@open-sports-cal
-DTSTART;VALUE=DATE:20270330
-DTEND;VALUE=DATE:20270331
+DTSTART:20270331T014000Z
+DTEND:20270331T044000Z
 SUMMARY:Colorado Rockies @ San Diego Padres
-DESCRIPTION:MLB 2027\nColorado Rockies @ San Diego Padres\nPetco Park\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-31-colorado-rockies-vs-san-diego-padres@open-sports-cal
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
+DTSTART:20270331T201000Z
+DTEND:20270331T231000Z
 SUMMARY:Colorado Rockies @ San Diego Padres
-DESCRIPTION:MLB 2027\nColorado Rockies @ San Diego Padres\nPetco Park\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-01-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
@@ -81,7 +84,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-02-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
@@ -92,7 +95,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-03-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
@@ -103,7 +106,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-04-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
@@ -114,7 +117,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-05-miami-marlins-vs-colorado-rockies@open-sports-cal
@@ -125,7 +128,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ Colorado Rockies\nCoors Field\nStart time 
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-06-miami-marlins-vs-colorado-rockies@open-sports-cal
@@ -136,7 +139,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ Colorado Rockies\nCoors Field\nStart time 
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-07-miami-marlins-vs-colorado-rockies@open-sports-cal
@@ -147,7 +150,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ Colorado Rockies\nCoors Field\nStart time 
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-09-colorado-rockies-vs-seattle-mariners@open-sports-cal
@@ -158,7 +161,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Seattle Mariners\nT-Mobile Park\nStart 
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-10-colorado-rockies-vs-seattle-mariners@open-sports-cal
@@ -169,7 +172,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Seattle Mariners\nT-Mobile Park\nStart 
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-11-colorado-rockies-vs-seattle-mariners@open-sports-cal
@@ -180,7 +183,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Seattle Mariners\nT-Mobile Park\nStart 
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-13-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
@@ -191,7 +194,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-14-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
@@ -202,7 +205,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-15-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
@@ -213,7 +216,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-16-new-york-mets-vs-colorado-rockies@open-sports-cal
@@ -224,7 +227,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Colorado Rockies\nCoors Field\nStart time 
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-17-new-york-mets-vs-colorado-rockies@open-sports-cal
@@ -235,7 +238,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Colorado Rockies\nCoors Field\nStart time 
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-18-new-york-mets-vs-colorado-rockies@open-sports-cal
@@ -246,7 +249,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Colorado Rockies\nCoors Field\nStart time 
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-20-san-diego-padres-vs-colorado-rockies@open-sports-cal
@@ -257,7 +260,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ Colorado Rockies\nCoors Field\nStart ti
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-21-san-diego-padres-vs-colorado-rockies@open-sports-cal
@@ -268,7 +271,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ Colorado Rockies\nCoors Field\nStart ti
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-22-san-diego-padres-vs-colorado-rockies@open-sports-cal
@@ -279,7 +282,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ Colorado Rockies\nCoors Field\nStart ti
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-23-colorado-rockies-vs-milwaukee-brewers@open-sports-cal
@@ -290,7 +293,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Milwaukee Brewers\nAmerican Family Fiel
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-24-colorado-rockies-vs-milwaukee-brewers@open-sports-cal
@@ -301,7 +304,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Milwaukee Brewers\nAmerican Family Fiel
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-25-colorado-rockies-vs-milwaukee-brewers@open-sports-cal
@@ -312,7 +315,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Milwaukee Brewers\nAmerican Family Fiel
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-26-colorado-rockies-vs-cleveland-guardians@open-sports-cal
@@ -323,7 +326,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Cleveland Guardians\nProgressive Field\
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-27-colorado-rockies-vs-cleveland-guardians@open-sports-cal
@@ -334,7 +337,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Cleveland Guardians\nProgressive Field\
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-28-colorado-rockies-vs-cleveland-guardians@open-sports-cal
@@ -345,7 +348,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Cleveland Guardians\nProgressive Field\
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-30-athletics-vs-colorado-rockies@open-sports-cal
@@ -356,7 +359,7 @@ DESCRIPTION:MLB 2027\nAthletics @ Colorado Rockies\nCoors Field\nStart time TBD
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-01-athletics-vs-colorado-rockies@open-sports-cal
@@ -367,7 +370,7 @@ DESCRIPTION:MLB 2027\nAthletics @ Colorado Rockies\nCoors Field\nStart time TBD
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-02-athletics-vs-colorado-rockies@open-sports-cal
@@ -378,7 +381,7 @@ DESCRIPTION:MLB 2027\nAthletics @ Colorado Rockies\nCoors Field\nStart time TBD
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-03-detroit-tigers-vs-colorado-rockies@open-sports-cal
@@ -389,7 +392,7 @@ DESCRIPTION:MLB 2027\nDetroit Tigers @ Colorado Rockies\nCoors Field\nStart time
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-04-detroit-tigers-vs-colorado-rockies@open-sports-cal
@@ -400,7 +403,7 @@ DESCRIPTION:MLB 2027\nDetroit Tigers @ Colorado Rockies\nCoors Field\nStart time
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-05-detroit-tigers-vs-colorado-rockies@open-sports-cal
@@ -411,7 +414,7 @@ DESCRIPTION:MLB 2027\nDetroit Tigers @ Colorado Rockies\nCoors Field\nStart time
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-06-colorado-rockies-vs-cincinnati-reds@open-sports-cal
@@ -422,7 +425,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Cincinnati Reds\nGreat American Ball Pa
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-07-colorado-rockies-vs-cincinnati-reds@open-sports-cal
@@ -433,7 +436,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Cincinnati Reds\nGreat American Ball Pa
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-08-colorado-rockies-vs-cincinnati-reds@open-sports-cal
@@ -444,7 +447,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Cincinnati Reds\nGreat American Ball Pa
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-09-colorado-rockies-vs-cincinnati-reds@open-sports-cal
@@ -455,7 +458,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Cincinnati Reds\nGreat American Ball Pa
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-11-colorado-rockies-vs-washington-nationals@open-sports-cal
@@ -466,7 +469,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -478,7 +481,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -490,7 +493,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -502,7 +505,7 @@ DESCRIPTION:MLB 2027\nMinnesota Twins @ Colorado Rockies\nCoors Field\nStart tim
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-15-minnesota-twins-vs-colorado-rockies@open-sports-cal
@@ -513,7 +516,7 @@ DESCRIPTION:MLB 2027\nMinnesota Twins @ Colorado Rockies\nCoors Field\nStart tim
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-16-minnesota-twins-vs-colorado-rockies@open-sports-cal
@@ -524,7 +527,7 @@ DESCRIPTION:MLB 2027\nMinnesota Twins @ Colorado Rockies\nCoors Field\nStart tim
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-17-pittsburgh-pirates-vs-colorado-rockies@open-sports-cal
@@ -535,7 +538,7 @@ DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Colorado Rockies\nCoors Field\nStart 
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-18-pittsburgh-pirates-vs-colorado-rockies@open-sports-cal
@@ -546,7 +549,7 @@ DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Colorado Rockies\nCoors Field\nStart 
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-19-pittsburgh-pirates-vs-colorado-rockies@open-sports-cal
@@ -557,7 +560,7 @@ DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Colorado Rockies\nCoors Field\nStart 
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-20-colorado-rockies-vs-arizona-diamondbacks@open-sports-cal
@@ -568,7 +571,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Arizona Diamondbacks\nChase Field\nStar
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-21-colorado-rockies-vs-arizona-diamondbacks@open-sports-cal
@@ -579,7 +582,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Arizona Diamondbacks\nChase Field\nStar
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-22-colorado-rockies-vs-arizona-diamondbacks@open-sports-cal
@@ -590,7 +593,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Arizona Diamondbacks\nChase Field\nStar
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-23-colorado-rockies-vs-arizona-diamondbacks@open-sports-cal
@@ -601,7 +604,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Arizona Diamondbacks\nChase Field\nStar
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-25-houston-astros-vs-colorado-rockies@open-sports-cal
@@ -612,7 +615,7 @@ DESCRIPTION:MLB 2027\nHouston Astros @ Colorado Rockies\nCoors Field\nStart time
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-26-houston-astros-vs-colorado-rockies@open-sports-cal
@@ -623,7 +626,7 @@ DESCRIPTION:MLB 2027\nHouston Astros @ Colorado Rockies\nCoors Field\nStart time
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-27-houston-astros-vs-colorado-rockies@open-sports-cal
@@ -634,7 +637,7 @@ DESCRIPTION:MLB 2027\nHouston Astros @ Colorado Rockies\nCoors Field\nStart time
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-28-colorado-rockies-vs-baltimore-orioles@open-sports-cal
@@ -645,7 +648,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Baltimore Orioles\nOriole Park at Camde
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-29-colorado-rockies-vs-baltimore-orioles@open-sports-cal
@@ -656,7 +659,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Baltimore Orioles\nOriole Park at Camde
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-30-colorado-rockies-vs-baltimore-orioles@open-sports-cal
@@ -667,7 +670,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Baltimore Orioles\nOriole Park at Camde
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-31-colorado-rockies-vs-atlanta-braves@open-sports-cal
@@ -678,7 +681,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Atlanta Braves\nTruist Park\nStart time
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-01-colorado-rockies-vs-atlanta-braves@open-sports-cal
@@ -689,7 +692,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Atlanta Braves\nTruist Park\nStart time
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-02-colorado-rockies-vs-atlanta-braves@open-sports-cal
@@ -700,7 +703,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Atlanta Braves\nTruist Park\nStart time
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-04-st-louis-cardinals-vs-colorado-rockies@open-sports-cal
@@ -711,7 +714,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-05-st-louis-cardinals-vs-colorado-rockies@open-sports-cal
@@ -722,7 +725,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-06-st-louis-cardinals-vs-colorado-rockies@open-sports-cal
@@ -733,7 +736,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-07-atlanta-braves-vs-colorado-rockies@open-sports-cal
@@ -744,7 +747,7 @@ DESCRIPTION:MLB 2027\nAtlanta Braves @ Colorado Rockies\nCoors Field\nStart time
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-08-atlanta-braves-vs-colorado-rockies@open-sports-cal
@@ -755,7 +758,7 @@ DESCRIPTION:MLB 2027\nAtlanta Braves @ Colorado Rockies\nCoors Field\nStart time
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-09-atlanta-braves-vs-colorado-rockies@open-sports-cal
@@ -766,7 +769,7 @@ DESCRIPTION:MLB 2027\nAtlanta Braves @ Colorado Rockies\nCoors Field\nStart time
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-11-colorado-rockies-vs-chicago-cubs@open-sports-cal
@@ -777,7 +780,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Chicago Cubs\nWrigley Field\nStart time
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-12-colorado-rockies-vs-chicago-cubs@open-sports-cal
@@ -788,7 +791,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Chicago Cubs\nWrigley Field\nStart time
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-13-colorado-rockies-vs-chicago-cubs@open-sports-cal
@@ -799,7 +802,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Chicago Cubs\nWrigley Field\nStart time
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-14-colorado-rockies-vs-texas-rangers@open-sports-cal
@@ -810,7 +813,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Texas Rangers\nGlobe Life Field\nStart 
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-15-colorado-rockies-vs-texas-rangers@open-sports-cal
@@ -821,7 +824,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Texas Rangers\nGlobe Life Field\nStart 
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-16-colorado-rockies-vs-texas-rangers@open-sports-cal
@@ -832,7 +835,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Texas Rangers\nGlobe Life Field\nStart 
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-18-chicago-cubs-vs-colorado-rockies@open-sports-cal
@@ -843,7 +846,7 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ Colorado Rockies\nCoors Field\nStart time T
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-19-chicago-cubs-vs-colorado-rockies@open-sports-cal
@@ -854,7 +857,7 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ Colorado Rockies\nCoors Field\nStart time T
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-20-chicago-cubs-vs-colorado-rockies@open-sports-cal
@@ -865,7 +868,7 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ Colorado Rockies\nCoors Field\nStart time T
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-21-arizona-diamondbacks-vs-colorado-rockies@open-sports-cal
@@ -876,7 +879,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-22-arizona-diamondbacks-vs-colorado-rockies@open-sports-cal
@@ -887,7 +890,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-23-arizona-diamondbacks-vs-colorado-rockies@open-sports-cal
@@ -898,7 +901,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-25-colorado-rockies-vs-boston-red-sox@open-sports-cal
@@ -909,7 +912,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Boston Red Sox\nFenway Park\nStart time
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-26-colorado-rockies-vs-boston-red-sox@open-sports-cal
@@ -920,7 +923,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Boston Red Sox\nFenway Park\nStart time
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-27-colorado-rockies-vs-boston-red-sox@open-sports-cal
@@ -931,7 +934,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Boston Red Sox\nFenway Park\nStart time
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-29-colorado-rockies-vs-philadelphia-phillies@open-sports-cal
@@ -942,7 +945,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Philadelphia Phillies\nCitizens Bank Pa
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -954,7 +957,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Philadelphia Phillies\nCitizens Bank Pa
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -966,7 +969,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Philadelphia Phillies\nCitizens Bank Pa
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -978,7 +981,7 @@ DESCRIPTION:MLB 2027\nToronto Blue Jays @ Colorado Rockies\nCoors Field\nStart t
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-03-toronto-blue-jays-vs-colorado-rockies@open-sports-cal
@@ -989,7 +992,7 @@ DESCRIPTION:MLB 2027\nToronto Blue Jays @ Colorado Rockies\nCoors Field\nStart t
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-04-toronto-blue-jays-vs-colorado-rockies@open-sports-cal
@@ -1000,7 +1003,7 @@ DESCRIPTION:MLB 2027\nToronto Blue Jays @ Colorado Rockies\nCoors Field\nStart t
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-06-san-francisco-giants-vs-colorado-rockies@open-sports-cal
@@ -1011,7 +1014,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-07-san-francisco-giants-vs-colorado-rockies@open-sports-cal
@@ -1022,7 +1025,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-08-san-francisco-giants-vs-colorado-rockies@open-sports-cal
@@ -1033,7 +1036,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-09-san-diego-padres-vs-colorado-rockies@open-sports-cal
@@ -1044,7 +1047,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ Colorado Rockies\nCoors Field\nStart ti
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-10-san-diego-padres-vs-colorado-rockies@open-sports-cal
@@ -1055,7 +1058,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ Colorado Rockies\nCoors Field\nStart ti
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-10-san-diego-padres-vs-colorado-rockies-g2@open-sports-cal
@@ -1066,7 +1069,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ Colorado Rockies\nCoors Field\nStart ti
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-11-san-diego-padres-vs-colorado-rockies@open-sports-cal
@@ -1077,7 +1080,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ Colorado Rockies\nCoors Field\nStart ti
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-16-colorado-rockies-vs-arizona-diamondbacks@open-sports-cal
@@ -1088,7 +1091,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Arizona Diamondbacks\nChase Field\nStar
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-17-colorado-rockies-vs-arizona-diamondbacks@open-sports-cal
@@ -1099,7 +1102,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Arizona Diamondbacks\nChase Field\nStar
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-18-colorado-rockies-vs-arizona-diamondbacks@open-sports-cal
@@ -1110,7 +1113,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Arizona Diamondbacks\nChase Field\nStar
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-19-colorado-rockies-vs-san-francisco-giants@open-sports-cal
@@ -1121,7 +1124,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-20-colorado-rockies-vs-san-francisco-giants@open-sports-cal
@@ -1132,7 +1135,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-21-colorado-rockies-vs-san-francisco-giants@open-sports-cal
@@ -1143,7 +1146,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-22-colorado-rockies-vs-san-francisco-giants@open-sports-cal
@@ -1154,7 +1157,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-23-colorado-rockies-vs-houston-astros@open-sports-cal
@@ -1165,7 +1168,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Houston Astros\nDaikin Park\nStart time
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-24-colorado-rockies-vs-houston-astros@open-sports-cal
@@ -1176,7 +1179,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Houston Astros\nDaikin Park\nStart time
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-25-colorado-rockies-vs-houston-astros@open-sports-cal
@@ -1187,7 +1190,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Houston Astros\nDaikin Park\nStart time
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-26-new-york-yankees-vs-colorado-rockies@open-sports-cal
@@ -1198,7 +1201,7 @@ DESCRIPTION:MLB 2027\nNew York Yankees @ Colorado Rockies\nCoors Field\nStart ti
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-27-new-york-yankees-vs-colorado-rockies@open-sports-cal
@@ -1209,7 +1212,7 @@ DESCRIPTION:MLB 2027\nNew York Yankees @ Colorado Rockies\nCoors Field\nStart ti
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-28-new-york-yankees-vs-colorado-rockies@open-sports-cal
@@ -1220,7 +1223,7 @@ DESCRIPTION:MLB 2027\nNew York Yankees @ Colorado Rockies\nCoors Field\nStart ti
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-30-milwaukee-brewers-vs-colorado-rockies@open-sports-cal
@@ -1231,7 +1234,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Colorado Rockies\nCoors Field\nStart t
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-31-milwaukee-brewers-vs-colorado-rockies@open-sports-cal
@@ -1242,7 +1245,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Colorado Rockies\nCoors Field\nStart t
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-01-milwaukee-brewers-vs-colorado-rockies@open-sports-cal
@@ -1253,7 +1256,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Colorado Rockies\nCoors Field\nStart t
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-03-colorado-rockies-vs-kansas-city-royals@open-sports-cal
@@ -1264,7 +1267,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Kansas City Royals\nKauffman Stadium\nS
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-04-colorado-rockies-vs-kansas-city-royals@open-sports-cal
@@ -1275,7 +1278,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Kansas City Royals\nKauffman Stadium\nS
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-05-colorado-rockies-vs-kansas-city-royals@open-sports-cal
@@ -1286,7 +1289,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Kansas City Royals\nKauffman Stadium\nS
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-06-colorado-rockies-vs-st-louis-cardinals@open-sports-cal
@@ -1297,7 +1300,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ St. Louis Cardinals\nBusch Stadium\nSta
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-07-colorado-rockies-vs-st-louis-cardinals@open-sports-cal
@@ -1308,7 +1311,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ St. Louis Cardinals\nBusch Stadium\nSta
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-08-colorado-rockies-vs-st-louis-cardinals@open-sports-cal
@@ -1319,7 +1322,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ St. Louis Cardinals\nBusch Stadium\nSta
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-09-philadelphia-phillies-vs-colorado-rockies@open-sports-cal
@@ -1330,7 +1333,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Colorado Rockies\nCoors Field\nSta
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-10-philadelphia-phillies-vs-colorado-rockies@open-sports-cal
@@ -1341,7 +1344,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Colorado Rockies\nCoors Field\nSta
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-11-philadelphia-phillies-vs-colorado-rockies@open-sports-cal
@@ -1352,7 +1355,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Colorado Rockies\nCoors Field\nSta
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-12-philadelphia-phillies-vs-colorado-rockies@open-sports-cal
@@ -1363,7 +1366,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Colorado Rockies\nCoors Field\nSta
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-13-chicago-white-sox-vs-colorado-rockies@open-sports-cal
@@ -1374,7 +1377,7 @@ DESCRIPTION:MLB 2027\nChicago White Sox @ Colorado Rockies\nCoors Field\nStart t
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-14-chicago-white-sox-vs-colorado-rockies@open-sports-cal
@@ -1385,7 +1388,7 @@ DESCRIPTION:MLB 2027\nChicago White Sox @ Colorado Rockies\nCoors Field\nStart t
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-15-chicago-white-sox-vs-colorado-rockies@open-sports-cal
@@ -1396,7 +1399,7 @@ DESCRIPTION:MLB 2027\nChicago White Sox @ Colorado Rockies\nCoors Field\nStart t
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-16-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
@@ -1407,7 +1410,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-17-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
@@ -1418,7 +1421,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-18-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
@@ -1429,7 +1432,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-20-arizona-diamondbacks-vs-colorado-rockies@open-sports-cal
@@ -1440,7 +1443,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-21-arizona-diamondbacks-vs-colorado-rockies@open-sports-cal
@@ -1451,7 +1454,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-22-arizona-diamondbacks-vs-colorado-rockies@open-sports-cal
@@ -1462,7 +1465,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-24-colorado-rockies-vs-new-york-mets@open-sports-cal
@@ -1473,7 +1476,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ New York Mets\nCiti Field\nStart time T
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-25-colorado-rockies-vs-new-york-mets@open-sports-cal
@@ -1484,7 +1487,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ New York Mets\nCiti Field\nStart time T
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-26-colorado-rockies-vs-new-york-mets@open-sports-cal
@@ -1495,7 +1498,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ New York Mets\nCiti Field\nStart time T
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-27-colorado-rockies-vs-pittsburgh-pirates@open-sports-cal
@@ -1506,7 +1509,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Pittsburgh Pirates\nPNC Park\nStart tim
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-28-colorado-rockies-vs-pittsburgh-pirates@open-sports-cal
@@ -1517,7 +1520,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Pittsburgh Pirates\nPNC Park\nStart tim
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-29-colorado-rockies-vs-pittsburgh-pirates@open-sports-cal
@@ -1528,7 +1531,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Pittsburgh Pirates\nPNC Park\nStart tim
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-31-los-angeles-angels-vs-colorado-rockies@open-sports-cal
@@ -1539,7 +1542,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Colorado Rockies\nCoors Field\nStart 
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-01-los-angeles-angels-vs-colorado-rockies@open-sports-cal
@@ -1550,7 +1553,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Colorado Rockies\nCoors Field\nStart 
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-02-los-angeles-angels-vs-colorado-rockies@open-sports-cal
@@ -1561,40 +1564,43 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Colorado Rockies\nCoors Field\nStart 
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-03-colorado-rockies-vs-san-diego-padres@open-sports-cal
-DTSTART;VALUE=DATE:20270903
-DTEND;VALUE=DATE:20270904
+DTSTART:20270904T014000Z
+DTEND:20270904T044000Z
 SUMMARY:Colorado Rockies @ San Diego Padres
-DESCRIPTION:MLB 2027\nColorado Rockies @ San Diego Padres\nPetco Park\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-04-colorado-rockies-vs-san-diego-padres@open-sports-cal
-DTSTART;VALUE=DATE:20270904
-DTEND;VALUE=DATE:20270905
+DTSTART:20270905T004000Z
+DTEND:20270905T034000Z
 SUMMARY:Colorado Rockies @ San Diego Padres
-DESCRIPTION:MLB 2027\nColorado Rockies @ San Diego Padres\nPetco Park\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-05-colorado-rockies-vs-san-diego-padres@open-sports-cal
-DTSTART;VALUE=DATE:20270905
-DTEND;VALUE=DATE:20270906
+DTSTART:20270905T201000Z
+DTEND:20270905T231000Z
 SUMMARY:Colorado Rockies @ San Diego Padres
-DESCRIPTION:MLB 2027\nColorado Rockies @ San Diego Padres\nPetco Park\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-06-cincinnati-reds-vs-colorado-rockies@open-sports-cal
@@ -1605,7 +1611,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Colorado Rockies\nCoors Field\nStart tim
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-07-cincinnati-reds-vs-colorado-rockies@open-sports-cal
@@ -1616,7 +1622,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Colorado Rockies\nCoors Field\nStart tim
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-08-cincinnati-reds-vs-colorado-rockies@open-sports-cal
@@ -1627,7 +1633,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Colorado Rockies\nCoors Field\nStart tim
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-10-washington-nationals-vs-colorado-rockies@open-sports-cal
@@ -1638,7 +1644,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-11-washington-nationals-vs-colorado-rockies@open-sports-cal
@@ -1649,7 +1655,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-12-washington-nationals-vs-colorado-rockies@open-sports-cal
@@ -1660,7 +1666,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-14-colorado-rockies-vs-miami-marlins@open-sports-cal
@@ -1671,7 +1677,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Miami Marlins\nloanDepot park\nStart ti
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-15-colorado-rockies-vs-miami-marlins@open-sports-cal
@@ -1682,7 +1688,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Miami Marlins\nloanDepot park\nStart ti
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-16-colorado-rockies-vs-miami-marlins@open-sports-cal
@@ -1693,7 +1699,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Miami Marlins\nloanDepot park\nStart ti
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-17-colorado-rockies-vs-tampa-bay-rays@open-sports-cal
@@ -1704,7 +1710,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Tampa Bay Rays\nTropicana Field\nStart 
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-18-colorado-rockies-vs-tampa-bay-rays@open-sports-cal
@@ -1715,7 +1721,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Tampa Bay Rays\nTropicana Field\nStart 
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-19-colorado-rockies-vs-tampa-bay-rays@open-sports-cal
@@ -1726,7 +1732,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Tampa Bay Rays\nTropicana Field\nStart 
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-21-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
@@ -1737,7 +1743,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-22-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
@@ -1748,7 +1754,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-23-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
@@ -1759,7 +1765,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-24-san-francisco-giants-vs-colorado-rockies@open-sports-cal
@@ -1770,7 +1776,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-25-san-francisco-giants-vs-colorado-rockies@open-sports-cal
@@ -1781,7 +1787,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-26-san-francisco-giants-vs-colorado-rockies@open-sports-cal
@@ -1792,6 +1798,6 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 END:VCALENDAR

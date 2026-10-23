@@ -15,7 +15,7 @@ DESCRIPTION:MLB 2027\nAtlanta Braves @ Los Angeles Dodgers\nUNIQLO Field at Dodg
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-27-atlanta-braves-vs-los-angeles-dodgers@open-sports-cal
@@ -26,7 +26,7 @@ DESCRIPTION:MLB 2027\nAtlanta Braves @ Los Angeles Dodgers\nUNIQLO Field at Dodg
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-28-atlanta-braves-vs-los-angeles-dodgers@open-sports-cal
@@ -37,7 +37,7 @@ DESCRIPTION:MLB 2027\nAtlanta Braves @ Los Angeles Dodgers\nUNIQLO Field at Dodg
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-29-minnesota-twins-vs-los-angeles-dodgers@open-sports-cal
@@ -48,7 +48,7 @@ DESCRIPTION:MLB 2027\nMinnesota Twins @ Los Angeles Dodgers\nUNIQLO Field at Dod
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-30-minnesota-twins-vs-los-angeles-dodgers@open-sports-cal
@@ -59,7 +59,7 @@ DESCRIPTION:MLB 2027\nMinnesota Twins @ Los Angeles Dodgers\nUNIQLO Field at Dod
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-31-minnesota-twins-vs-los-angeles-dodgers@open-sports-cal
@@ -70,7 +70,7 @@ DESCRIPTION:MLB 2027\nMinnesota Twins @ Los Angeles Dodgers\nUNIQLO Field at Dod
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-01-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
@@ -81,7 +81,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-02-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
@@ -92,7 +92,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-03-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
@@ -103,7 +103,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-04-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
@@ -114,7 +114,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-05-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
@@ -125,7 +125,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field\nS
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-06-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
@@ -136,7 +136,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field\nS
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-07-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
@@ -147,40 +147,43 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field\nS
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-09-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
-DTSTART;VALUE=DATE:20270409
-DTEND;VALUE=DATE:20270410
+DTSTART:20270410T014000Z
+DTEND:20270410T044000Z
 SUMMARY:Los Angeles Dodgers @ San Diego Padres
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Diego Padres\nPetco Park\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-10-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
-DTSTART;VALUE=DATE:20270410
-DTEND;VALUE=DATE:20270411
+DTSTART:20270411T004000Z
+DTEND:20270411T034000Z
 SUMMARY:Los Angeles Dodgers @ San Diego Padres
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Diego Padres\nPetco Park\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-11-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
-DTSTART;VALUE=DATE:20270411
-DTEND;VALUE=DATE:20270412
+DTSTART:20270411T201000Z
+DTEND:20270411T231000Z
 SUMMARY:Los Angeles Dodgers @ San Diego Padres
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Diego Padres\nPetco Park\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-13-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
@@ -191,7 +194,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-14-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
@@ -202,7 +205,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-15-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
@@ -213,7 +216,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-16-chicago-cubs-vs-los-angeles-dodgers@open-sports-cal
@@ -224,7 +227,7 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ Los Angeles Dodgers\nUNIQLO Field at Dodger
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-17-chicago-cubs-vs-los-angeles-dodgers@open-sports-cal
@@ -235,7 +238,7 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ Los Angeles Dodgers\nUNIQLO Field at Dodger
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-18-chicago-cubs-vs-los-angeles-dodgers@open-sports-cal
@@ -246,7 +249,7 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ Los Angeles Dodgers\nUNIQLO Field at Dodger
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-20-los-angeles-dodgers-vs-philadelphia-phillies@open-sports-cal
@@ -257,7 +260,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Philadelphia Phillies\nCitizens Bank
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -269,7 +272,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Philadelphia Phillies\nCitizens Bank
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -281,7 +284,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Philadelphia Phillies\nCitizens Bank
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -293,7 +296,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -305,7 +308,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -317,7 +320,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -329,7 +332,7 @@ DESCRIPTION:MLB 2027\nChicago White Sox @ Los Angeles Dodgers\nUNIQLO Field at D
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-27-chicago-white-sox-vs-los-angeles-dodgers@open-sports-cal
@@ -340,7 +343,7 @@ DESCRIPTION:MLB 2027\nChicago White Sox @ Los Angeles Dodgers\nUNIQLO Field at D
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-28-chicago-white-sox-vs-los-angeles-dodgers@open-sports-cal
@@ -351,7 +354,7 @@ DESCRIPTION:MLB 2027\nChicago White Sox @ Los Angeles Dodgers\nUNIQLO Field at D
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-30-detroit-tigers-vs-los-angeles-dodgers@open-sports-cal
@@ -362,7 +365,7 @@ DESCRIPTION:MLB 2027\nDetroit Tigers @ Los Angeles Dodgers\nUNIQLO Field at Dodg
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-01-detroit-tigers-vs-los-angeles-dodgers@open-sports-cal
@@ -373,7 +376,7 @@ DESCRIPTION:MLB 2027\nDetroit Tigers @ Los Angeles Dodgers\nUNIQLO Field at Dodg
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-02-detroit-tigers-vs-los-angeles-dodgers@open-sports-cal
@@ -384,7 +387,7 @@ DESCRIPTION:MLB 2027\nDetroit Tigers @ Los Angeles Dodgers\nUNIQLO Field at Dodg
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-03-los-angeles-dodgers-vs-seattle-mariners@open-sports-cal
@@ -395,7 +398,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Seattle Mariners\nT-Mobile Park\nSta
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-04-los-angeles-dodgers-vs-seattle-mariners@open-sports-cal
@@ -406,7 +409,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Seattle Mariners\nT-Mobile Park\nSta
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-05-los-angeles-dodgers-vs-seattle-mariners@open-sports-cal
@@ -417,7 +420,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Seattle Mariners\nT-Mobile Park\nSta
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-06-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
@@ -428,7 +431,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-07-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
@@ -439,7 +442,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-08-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
@@ -450,7 +453,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-09-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
@@ -461,7 +464,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-11-los-angeles-dodgers-vs-cleveland-guardians@open-sports-cal
@@ -472,7 +475,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Cleveland Guardians\nProgressive Fie
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-12-los-angeles-dodgers-vs-cleveland-guardians@open-sports-cal
@@ -483,7 +486,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Cleveland Guardians\nProgressive Fie
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-13-los-angeles-dodgers-vs-cleveland-guardians@open-sports-cal
@@ -494,7 +497,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Cleveland Guardians\nProgressive Fie
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-14-los-angeles-dodgers-vs-boston-red-sox@open-sports-cal
@@ -505,7 +508,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Boston Red Sox\nFenway Park\nStart t
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-15-los-angeles-dodgers-vs-boston-red-sox@open-sports-cal
@@ -516,7 +519,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Boston Red Sox\nFenway Park\nStart t
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-16-los-angeles-dodgers-vs-boston-red-sox@open-sports-cal
@@ -527,7 +530,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Boston Red Sox\nFenway Park\nStart t
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-17-cincinnati-reds-vs-los-angeles-dodgers@open-sports-cal
@@ -538,7 +541,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Los Angeles Dodgers\nUNIQLO Field at Dod
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-18-cincinnati-reds-vs-los-angeles-dodgers@open-sports-cal
@@ -549,7 +552,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Los Angeles Dodgers\nUNIQLO Field at Dod
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-19-cincinnati-reds-vs-los-angeles-dodgers@open-sports-cal
@@ -560,7 +563,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Los Angeles Dodgers\nUNIQLO Field at Dod
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-21-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
@@ -571,7 +574,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-22-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
@@ -582,7 +585,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-23-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
@@ -593,7 +596,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-24-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
@@ -604,7 +607,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-25-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
@@ -615,7 +618,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-26-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
@@ -626,7 +629,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-28-los-angeles-dodgers-vs-los-angeles-angels@open-sports-cal
@@ -637,7 +640,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Los Angeles Angels\nAngel Stadium\nS
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-29-los-angeles-dodgers-vs-los-angeles-angels@open-sports-cal
@@ -648,7 +651,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Los Angeles Angels\nAngel Stadium\nS
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-30-los-angeles-dodgers-vs-los-angeles-angels@open-sports-cal
@@ -659,7 +662,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Los Angeles Angels\nAngel Stadium\nS
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-31-los-angeles-dodgers-vs-milwaukee-brewers@open-sports-cal
@@ -670,7 +673,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Milwaukee Brewers\nAmerican Family F
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-01-los-angeles-dodgers-vs-milwaukee-brewers@open-sports-cal
@@ -681,7 +684,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Milwaukee Brewers\nAmerican Family F
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-02-los-angeles-dodgers-vs-milwaukee-brewers@open-sports-cal
@@ -692,7 +695,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Milwaukee Brewers\nAmerican Family F
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-03-los-angeles-dodgers-vs-chicago-cubs@open-sports-cal
@@ -703,7 +706,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Chicago Cubs\nWrigley Field\nStart t
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-04-los-angeles-dodgers-vs-chicago-cubs@open-sports-cal
@@ -714,7 +717,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Chicago Cubs\nWrigley Field\nStart t
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-05-los-angeles-dodgers-vs-chicago-cubs@open-sports-cal
@@ -725,7 +728,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Chicago Cubs\nWrigley Field\nStart t
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-06-los-angeles-dodgers-vs-chicago-cubs@open-sports-cal
@@ -736,7 +739,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Chicago Cubs\nWrigley Field\nStart t
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-07-milwaukee-brewers-vs-los-angeles-dodgers@open-sports-cal
@@ -747,7 +750,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Los Angeles Dodgers\nUNIQLO Field at D
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-08-milwaukee-brewers-vs-los-angeles-dodgers@open-sports-cal
@@ -758,7 +761,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Los Angeles Dodgers\nUNIQLO Field at D
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-09-milwaukee-brewers-vs-los-angeles-dodgers@open-sports-cal
@@ -769,7 +772,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Los Angeles Dodgers\nUNIQLO Field at D
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-11-pittsburgh-pirates-vs-los-angeles-dodgers@open-sports-cal
@@ -780,7 +783,7 @@ DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Los Angeles Dodgers\nUNIQLO Field at 
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-12-pittsburgh-pirates-vs-los-angeles-dodgers@open-sports-cal
@@ -791,7 +794,7 @@ DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Los Angeles Dodgers\nUNIQLO Field at 
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-13-pittsburgh-pirates-vs-los-angeles-dodgers@open-sports-cal
@@ -802,7 +805,7 @@ DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Los Angeles Dodgers\nUNIQLO Field at 
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-14-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
@@ -813,7 +816,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-15-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
@@ -824,7 +827,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-16-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
@@ -835,7 +838,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-18-miami-marlins-vs-los-angeles-dodgers@open-sports-cal
@@ -846,7 +849,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ Los Angeles Dodgers\nUNIQLO Field at Dodge
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-19-miami-marlins-vs-los-angeles-dodgers@open-sports-cal
@@ -857,7 +860,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ Los Angeles Dodgers\nUNIQLO Field at Dodge
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-20-miami-marlins-vs-los-angeles-dodgers@open-sports-cal
@@ -868,7 +871,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ Los Angeles Dodgers\nUNIQLO Field at Dodge
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-22-los-angeles-dodgers-vs-tampa-bay-rays@open-sports-cal
@@ -879,7 +882,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Tampa Bay Rays\nTropicana Field\nSta
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-23-los-angeles-dodgers-vs-tampa-bay-rays@open-sports-cal
@@ -890,7 +893,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Tampa Bay Rays\nTropicana Field\nSta
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-24-los-angeles-dodgers-vs-tampa-bay-rays@open-sports-cal
@@ -901,7 +904,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Tampa Bay Rays\nTropicana Field\nSta
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-25-los-angeles-dodgers-vs-miami-marlins@open-sports-cal
@@ -912,7 +915,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Miami Marlins\nloanDepot park\nStart
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-26-los-angeles-dodgers-vs-miami-marlins@open-sports-cal
@@ -923,7 +926,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Miami Marlins\nloanDepot park\nStart
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-27-los-angeles-dodgers-vs-miami-marlins@open-sports-cal
@@ -934,7 +937,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Miami Marlins\nloanDepot park\nStart
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-28-washington-nationals-vs-los-angeles-dodgers@open-sports-cal
@@ -945,7 +948,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-29-washington-nationals-vs-los-angeles-dodgers@open-sports-cal
@@ -956,7 +959,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-30-washington-nationals-vs-los-angeles-dodgers@open-sports-cal
@@ -967,7 +970,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-01-new-york-mets-vs-los-angeles-dodgers@open-sports-cal
@@ -978,7 +981,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Los Angeles Dodgers\nUNIQLO Field at Dodge
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-02-new-york-mets-vs-los-angeles-dodgers@open-sports-cal
@@ -989,7 +992,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Los Angeles Dodgers\nUNIQLO Field at Dodge
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-03-new-york-mets-vs-los-angeles-dodgers@open-sports-cal
@@ -1000,7 +1003,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Los Angeles Dodgers\nUNIQLO Field at Dodge
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-04-new-york-mets-vs-los-angeles-dodgers@open-sports-cal
@@ -1011,7 +1014,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ Los Angeles Dodgers\nUNIQLO Field at Dodge
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-06-los-angeles-dodgers-vs-pittsburgh-pirates@open-sports-cal
@@ -1022,7 +1025,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Pittsburgh Pirates\nPNC Park\nStart 
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-07-los-angeles-dodgers-vs-pittsburgh-pirates@open-sports-cal
@@ -1033,7 +1036,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Pittsburgh Pirates\nPNC Park\nStart 
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-08-los-angeles-dodgers-vs-pittsburgh-pirates@open-sports-cal
@@ -1044,7 +1047,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Pittsburgh Pirates\nPNC Park\nStart 
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-09-los-angeles-dodgers-vs-new-york-mets@open-sports-cal
@@ -1055,7 +1058,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ New York Mets\nCiti Field\nStart tim
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-10-los-angeles-dodgers-vs-new-york-mets@open-sports-cal
@@ -1066,7 +1069,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ New York Mets\nCiti Field\nStart tim
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-11-los-angeles-dodgers-vs-new-york-mets@open-sports-cal
@@ -1077,7 +1080,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ New York Mets\nCiti Field\nStart tim
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-16-los-angeles-angels-vs-los-angeles-dodgers@open-sports-cal
@@ -1088,7 +1091,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Los Angeles Dodgers\nUNIQLO Field at 
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-17-los-angeles-angels-vs-los-angeles-dodgers@open-sports-cal
@@ -1099,7 +1102,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Los Angeles Dodgers\nUNIQLO Field at 
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-18-los-angeles-angels-vs-los-angeles-dodgers@open-sports-cal
@@ -1110,7 +1113,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Los Angeles Dodgers\nUNIQLO Field at 
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-19-athletics-vs-los-angeles-dodgers@open-sports-cal
@@ -1121,7 +1124,7 @@ DESCRIPTION:MLB 2027\nAthletics @ Los Angeles Dodgers\nUNIQLO Field at Dodger St
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-20-athletics-vs-los-angeles-dodgers@open-sports-cal
@@ -1132,7 +1135,7 @@ DESCRIPTION:MLB 2027\nAthletics @ Los Angeles Dodgers\nUNIQLO Field at Dodger St
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-21-athletics-vs-los-angeles-dodgers@open-sports-cal
@@ -1143,7 +1146,7 @@ DESCRIPTION:MLB 2027\nAthletics @ Los Angeles Dodgers\nUNIQLO Field at Dodger St
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-23-los-angeles-dodgers-vs-st-louis-cardinals@open-sports-cal
@@ -1154,7 +1157,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ St. Louis Cardinals\nBusch Stadium\n
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-24-los-angeles-dodgers-vs-st-louis-cardinals@open-sports-cal
@@ -1165,7 +1168,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ St. Louis Cardinals\nBusch Stadium\n
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-25-los-angeles-dodgers-vs-st-louis-cardinals@open-sports-cal
@@ -1176,51 +1179,55 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ St. Louis Cardinals\nBusch Stadium\n
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-26-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
-DTSTART;VALUE=DATE:20270726
-DTEND;VALUE=DATE:20270727
+DTSTART:20270726T103300Z
+DTEND:20270726T133300Z
 SUMMARY:Los Angeles Dodgers @ San Diego Padres
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Diego Padres\nPetco Park\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-27-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
-DTSTART;VALUE=DATE:20270727
-DTEND;VALUE=DATE:20270728
+DTSTART:20270728T014000Z
+DTEND:20270728T044000Z
 SUMMARY:Los Angeles Dodgers @ San Diego Padres
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Diego Padres\nPetco Park\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-28-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
-DTSTART;VALUE=DATE:20270728
-DTEND;VALUE=DATE:20270729
+DTSTART:20270729T014000Z
+DTEND:20270729T044000Z
 SUMMARY:Los Angeles Dodgers @ San Diego Padres
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Diego Padres\nPetco Park\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-29-los-angeles-dodgers-vs-san-diego-padres@open-sports-cal
-DTSTART;VALUE=DATE:20270729
-DTEND;VALUE=DATE:20270730
+DTSTART:20270729T201000Z
+DTEND:20270729T231000Z
 SUMMARY:Los Angeles Dodgers @ San Diego Padres
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Diego Padres\nPetco Park\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
+X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-30-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
@@ -1231,7 +1238,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-31-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
@@ -1242,7 +1249,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-01-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
@@ -1253,7 +1260,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-03-houston-astros-vs-los-angeles-dodgers@open-sports-cal
@@ -1264,7 +1271,7 @@ DESCRIPTION:MLB 2027\nHouston Astros @ Los Angeles Dodgers\nUNIQLO Field at Dodg
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-04-houston-astros-vs-los-angeles-dodgers@open-sports-cal
@@ -1275,7 +1282,7 @@ DESCRIPTION:MLB 2027\nHouston Astros @ Los Angeles Dodgers\nUNIQLO Field at Dodg
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-05-houston-astros-vs-los-angeles-dodgers@open-sports-cal
@@ -1286,7 +1293,7 @@ DESCRIPTION:MLB 2027\nHouston Astros @ Los Angeles Dodgers\nUNIQLO Field at Dodg
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-06-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
@@ -1297,7 +1304,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-07-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
@@ -1308,7 +1315,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-08-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
@@ -1319,7 +1326,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-09-los-angeles-dodgers-vs-texas-rangers@open-sports-cal
@@ -1330,7 +1337,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Texas Rangers\nGlobe Life Field\nSta
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-10-los-angeles-dodgers-vs-texas-rangers@open-sports-cal
@@ -1341,7 +1348,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Texas Rangers\nGlobe Life Field\nSta
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-11-los-angeles-dodgers-vs-texas-rangers@open-sports-cal
@@ -1352,7 +1359,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Texas Rangers\nGlobe Life Field\nSta
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-13-philadelphia-phillies-vs-los-angeles-dodgers@open-sports-cal
@@ -1363,7 +1370,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Los Angeles Dodgers\nUNIQLO Field 
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-14-philadelphia-phillies-vs-los-angeles-dodgers@open-sports-cal
@@ -1374,7 +1381,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Los Angeles Dodgers\nUNIQLO Field 
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-15-philadelphia-phillies-vs-los-angeles-dodgers@open-sports-cal
@@ -1385,7 +1392,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Los Angeles Dodgers\nUNIQLO Field 
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-16-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
@@ -1396,7 +1403,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-17-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
@@ -1407,7 +1414,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-18-colorado-rockies-vs-los-angeles-dodgers@open-sports-cal
@@ -1418,7 +1425,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-20-los-angeles-dodgers-vs-baltimore-orioles@open-sports-cal
@@ -1429,7 +1436,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Baltimore Orioles\nOriole Park at Ca
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-21-los-angeles-dodgers-vs-baltimore-orioles@open-sports-cal
@@ -1440,7 +1447,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Baltimore Orioles\nOriole Park at Ca
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-22-los-angeles-dodgers-vs-baltimore-orioles@open-sports-cal
@@ -1451,7 +1458,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Baltimore Orioles\nOriole Park at Ca
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-23-los-angeles-dodgers-vs-cincinnati-reds@open-sports-cal
@@ -1462,7 +1469,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Cincinnati Reds\nGreat American Ball
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-24-los-angeles-dodgers-vs-cincinnati-reds@open-sports-cal
@@ -1473,7 +1480,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Cincinnati Reds\nGreat American Ball
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-25-los-angeles-dodgers-vs-cincinnati-reds@open-sports-cal
@@ -1484,7 +1491,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Cincinnati Reds\nGreat American Ball
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-27-new-york-yankees-vs-los-angeles-dodgers@open-sports-cal
@@ -1495,7 +1502,7 @@ DESCRIPTION:MLB 2027\nNew York Yankees @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-28-new-york-yankees-vs-los-angeles-dodgers@open-sports-cal
@@ -1506,7 +1513,7 @@ DESCRIPTION:MLB 2027\nNew York Yankees @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-29-new-york-yankees-vs-los-angeles-dodgers@open-sports-cal
@@ -1517,7 +1524,7 @@ DESCRIPTION:MLB 2027\nNew York Yankees @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-30-st-louis-cardinals-vs-los-angeles-dodgers@open-sports-cal
@@ -1528,7 +1535,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Los Angeles Dodgers\nUNIQLO Field at
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-31-st-louis-cardinals-vs-los-angeles-dodgers@open-sports-cal
@@ -1539,7 +1546,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Los Angeles Dodgers\nUNIQLO Field at
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-01-st-louis-cardinals-vs-los-angeles-dodgers@open-sports-cal
@@ -1550,7 +1557,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Los Angeles Dodgers\nUNIQLO Field at
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-03-los-angeles-dodgers-vs-kansas-city-royals@open-sports-cal
@@ -1561,7 +1568,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Kansas City Royals\nKauffman Stadium
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-04-los-angeles-dodgers-vs-kansas-city-royals@open-sports-cal
@@ -1572,7 +1579,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Kansas City Royals\nKauffman Stadium
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-05-los-angeles-dodgers-vs-kansas-city-royals@open-sports-cal
@@ -1583,7 +1590,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Kansas City Royals\nKauffman Stadium
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-06-los-angeles-dodgers-vs-atlanta-braves@open-sports-cal
@@ -1594,7 +1601,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Atlanta Braves\nTruist Park\nStart t
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-07-los-angeles-dodgers-vs-atlanta-braves@open-sports-cal
@@ -1605,7 +1612,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Atlanta Braves\nTruist Park\nStart t
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-08-los-angeles-dodgers-vs-atlanta-braves@open-sports-cal
@@ -1616,7 +1623,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Atlanta Braves\nTruist Park\nStart t
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-10-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
@@ -1627,7 +1634,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-11-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
@@ -1638,7 +1645,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-12-san-diego-padres-vs-los-angeles-dodgers@open-sports-cal
@@ -1649,7 +1656,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ Los Angeles Dodgers\nUNIQLO Field at Do
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-13-toronto-blue-jays-vs-los-angeles-dodgers@open-sports-cal
@@ -1660,7 +1667,7 @@ DESCRIPTION:MLB 2027\nToronto Blue Jays @ Los Angeles Dodgers\nUNIQLO Field at D
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-14-toronto-blue-jays-vs-los-angeles-dodgers@open-sports-cal
@@ -1671,7 +1678,7 @@ DESCRIPTION:MLB 2027\nToronto Blue Jays @ Los Angeles Dodgers\nUNIQLO Field at D
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-15-toronto-blue-jays-vs-los-angeles-dodgers@open-sports-cal
@@ -1682,7 +1689,7 @@ DESCRIPTION:MLB 2027\nToronto Blue Jays @ Los Angeles Dodgers\nUNIQLO Field at D
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-16-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
@@ -1693,7 +1700,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-17-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
@@ -1704,7 +1711,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-18-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
@@ -1715,7 +1722,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-19-arizona-diamondbacks-vs-los-angeles-dodgers@open-sports-cal
@@ -1726,7 +1733,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-21-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
@@ -1737,7 +1744,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-22-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
@@ -1748,7 +1755,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-23-los-angeles-dodgers-vs-colorado-rockies@open-sports-cal
@@ -1759,7 +1766,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-24-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
@@ -1770,7 +1777,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field\nS
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-25-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
@@ -1781,7 +1788,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field\nS
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-26-los-angeles-dodgers-vs-arizona-diamondbacks@open-sports-cal
@@ -1792,6 +1799,6 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Arizona Diamondbacks\nChase Field\nS
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261022T113153Z
+DTSTAMP:20261023T112117Z
 END:VEVENT
 END:VCALENDAR
