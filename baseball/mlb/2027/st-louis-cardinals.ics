@@ -15,7 +15,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-27-st-louis-cardinals-vs-cincinnati-reds@open-sports-cal
@@ -26,7 +26,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-28-st-louis-cardinals-vs-cincinnati-reds@open-sports-cal
@@ -37,7 +37,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-29-st-louis-cardinals-vs-chicago-cubs@open-sports-cal
@@ -48,7 +48,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Chicago Cubs\nWrigley Field\nStart t
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-30-st-louis-cardinals-vs-chicago-cubs@open-sports-cal
@@ -59,7 +59,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Chicago Cubs\nWrigley Field\nStart t
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-31-st-louis-cardinals-vs-chicago-cubs@open-sports-cal
@@ -70,73 +70,79 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Chicago Cubs\nWrigley Field\nStart t
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-01-kansas-city-royals-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270402
+DTSTART:20270401T201500Z
+DTEND:20270401T231500Z
 SUMMARY:Kansas City Royals @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nKansas City Royals @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nKansas City Royals @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-03-kansas-city-royals-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270403
-DTEND;VALUE=DATE:20270404
+DTSTART:20270403T181500Z
+DTEND:20270403T211500Z
 SUMMARY:Kansas City Royals @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nKansas City Royals @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nKansas City Royals @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-04-kansas-city-royals-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270404
-DTEND;VALUE=DATE:20270405
+DTSTART:20270404T181500Z
+DTEND:20270404T211500Z
 SUMMARY:Kansas City Royals @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nKansas City Royals @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nKansas City Royals @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-05-san-diego-padres-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270405
-DTEND;VALUE=DATE:20270406
+DTSTART:20270405T234500Z
+DTEND:20270406T024500Z
 SUMMARY:San Diego Padres @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nSan Diego Padres @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Diego Padres @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-06-san-diego-padres-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270406
-DTEND;VALUE=DATE:20270407
+DTSTART:20270406T234500Z
+DTEND:20270407T024500Z
 SUMMARY:San Diego Padres @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nSan Diego Padres @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Diego Padres @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-07-san-diego-padres-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
+DTSTART:20270407T171500Z
+DTEND:20270407T201500Z
 SUMMARY:San Diego Padres @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nSan Diego Padres @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Diego Padres @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-09-st-louis-cardinals-vs-san-francisco-giants@open-sports-cal
@@ -147,7 +153,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-10-st-louis-cardinals-vs-san-francisco-giants@open-sports-cal
@@ -158,7 +164,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-11-st-louis-cardinals-vs-san-francisco-giants@open-sports-cal
@@ -169,7 +175,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-12-st-louis-cardinals-vs-san-diego-padres@open-sports-cal
@@ -180,7 +186,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -192,7 +198,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -204,7 +210,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -216,7 +222,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -228,7 +234,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Texas Rangers\nGlobe Life Field\nSta
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-17-st-louis-cardinals-vs-texas-rangers@open-sports-cal
@@ -239,7 +245,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Texas Rangers\nGlobe Life Field\nSta
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-18-st-louis-cardinals-vs-texas-rangers@open-sports-cal
@@ -250,106 +256,115 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Texas Rangers\nGlobe Life Field\nSta
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-19-minnesota-twins-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270419
-DTEND;VALUE=DATE:20270420
+DTSTART:20270419T234500Z
+DTEND:20270420T024500Z
 SUMMARY:Minnesota Twins @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nMinnesota Twins @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nMinnesota Twins @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-20-minnesota-twins-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270420
-DTEND;VALUE=DATE:20270421
+DTSTART:20270420T234500Z
+DTEND:20270421T024500Z
 SUMMARY:Minnesota Twins @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nMinnesota Twins @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nMinnesota Twins @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-21-minnesota-twins-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270421
-DTEND;VALUE=DATE:20270422
+DTSTART:20270421T171500Z
+DTEND:20270421T201500Z
 SUMMARY:Minnesota Twins @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nMinnesota Twins @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nMinnesota Twins @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-23-toronto-blue-jays-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270423
-DTEND;VALUE=DATE:20270424
+DTSTART:20270424T001500Z
+DTEND:20270424T031500Z
 SUMMARY:Toronto Blue Jays @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nToronto Blue Jays @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-24-toronto-blue-jays-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270425
+DTSTART:20270424T201500Z
+DTEND:20270424T231500Z
 SUMMARY:Toronto Blue Jays @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nToronto Blue Jays @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-25-toronto-blue-jays-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270425
-DTEND;VALUE=DATE:20270426
+DTSTART:20270425T181500Z
+DTEND:20270425T211500Z
 SUMMARY:Toronto Blue Jays @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nToronto Blue Jays @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-26-atlanta-braves-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270426
-DTEND;VALUE=DATE:20270427
+DTSTART:20270426T234500Z
+DTEND:20270427T024500Z
 SUMMARY:Atlanta Braves @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nAtlanta Braves @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nAtlanta Braves @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-27-atlanta-braves-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270427
-DTEND;VALUE=DATE:20270428
+DTSTART:20270427T234500Z
+DTEND:20270428T024500Z
 SUMMARY:Atlanta Braves @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nAtlanta Braves @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nAtlanta Braves @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-28-atlanta-braves-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270429
+DTSTART:20270428T171500Z
+DTEND:20270428T201500Z
 SUMMARY:Atlanta Braves @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nAtlanta Braves @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nAtlanta Braves @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-30-st-louis-cardinals-vs-boston-red-sox@open-sports-cal
@@ -360,7 +375,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Boston Red Sox\nFenway Park\nStart t
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-01-st-louis-cardinals-vs-boston-red-sox@open-sports-cal
@@ -371,7 +386,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Boston Red Sox\nFenway Park\nStart t
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-02-st-louis-cardinals-vs-boston-red-sox@open-sports-cal
@@ -382,7 +397,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Boston Red Sox\nFenway Park\nStart t
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-03-st-louis-cardinals-vs-chicago-white-sox@open-sports-cal
@@ -393,7 +408,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Chicago White Sox\nRate Field\nStart
 LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-04-st-louis-cardinals-vs-chicago-white-sox@open-sports-cal
@@ -404,7 +419,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Chicago White Sox\nRate Field\nStart
 LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-05-st-louis-cardinals-vs-chicago-white-sox@open-sports-cal
@@ -415,84 +430,91 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Chicago White Sox\nRate Field\nStart
 LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-06-milwaukee-brewers-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270506
-DTEND;VALUE=DATE:20270507
+DTSTART:20270506T234500Z
+DTEND:20270507T024500Z
 SUMMARY:Milwaukee Brewers @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-07-milwaukee-brewers-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270508
+DTSTART:20270508T001500Z
+DTEND:20270508T031500Z
 SUMMARY:Milwaukee Brewers @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-08-milwaukee-brewers-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+DTSTART:20270508T181500Z
+DTEND:20270508T211500Z
 SUMMARY:Milwaukee Brewers @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-09-milwaukee-brewers-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T181500Z
+DTEND:20270509T211500Z
 SUMMARY:Milwaukee Brewers @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-11-athletics-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270511
-DTEND;VALUE=DATE:20270512
+DTSTART:20270511T234500Z
+DTEND:20270512T024500Z
 SUMMARY:Athletics @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nAthletics @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nAthletics @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-12-athletics-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270513
+DTSTART:20270512T234500Z
+DTEND:20270513T024500Z
 SUMMARY:Athletics @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nAthletics @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nAthletics @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-13-athletics-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270513
-DTEND;VALUE=DATE:20270514
+DTSTART:20270513T171500Z
+DTEND:20270513T201500Z
 SUMMARY:Athletics @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nAthletics @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nAthletics @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-14-st-louis-cardinals-vs-tampa-bay-rays@open-sports-cal
@@ -503,7 +525,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Tampa Bay Rays\nTropicana Field\nSta
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-15-st-louis-cardinals-vs-tampa-bay-rays@open-sports-cal
@@ -514,7 +536,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Tampa Bay Rays\nTropicana Field\nSta
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-16-st-louis-cardinals-vs-tampa-bay-rays@open-sports-cal
@@ -525,51 +547,55 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Tampa Bay Rays\nTropicana Field\nSta
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-18-st-louis-cardinals-vs-baltimore-orioles@open-sports-cal
-DTSTART;VALUE=DATE:20270518
-DTEND;VALUE=DATE:20270519
+DTSTART:20270518T223500Z
+DTEND:20270519T013500Z
 SUMMARY:St. Louis Cardinals @ Baltimore Orioles
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Baltimore Orioles\nOriole Park at Camden Yards
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-19-st-louis-cardinals-vs-baltimore-orioles@open-sports-cal
-DTSTART;VALUE=DATE:20270519
-DTEND;VALUE=DATE:20270520
+DTSTART:20270519T223500Z
+DTEND:20270520T013500Z
 SUMMARY:St. Louis Cardinals @ Baltimore Orioles
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Baltimore Orioles\nOriole Park at Camden Yards
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-20-st-louis-cardinals-vs-baltimore-orioles@open-sports-cal
-DTSTART;VALUE=DATE:20270520
-DTEND;VALUE=DATE:20270521
+DTSTART:20270520T163500Z
+DTEND:20270520T193500Z
 SUMMARY:St. Louis Cardinals @ Baltimore Orioles
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Baltimore Orioles\nOriole Park at Camden Yards\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Baltimore Orioles\nOriole Park at Camden Yards
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-21-detroit-tigers-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270521
-DTEND;VALUE=DATE:20270522
+DTSTART:20270522T001500Z
+DTEND:20270522T031500Z
 SUMMARY:Detroit Tigers @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nDetroit Tigers @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nDetroit Tigers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-22-detroit-tigers-vs-st-louis-cardinals@open-sports-cal
@@ -580,18 +606,19 @@ DESCRIPTION:MLB 2027\nDetroit Tigers @ St. Louis Cardinals\nBusch Stadium\nStart
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-23-detroit-tigers-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270523
-DTEND;VALUE=DATE:20270524
+DTSTART:20270523T181500Z
+DTEND:20270523T211500Z
 SUMMARY:Detroit Tigers @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nDetroit Tigers @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nDetroit Tigers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-24-st-louis-cardinals-vs-pittsburgh-pirates@open-sports-cal
@@ -602,7 +629,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Pittsburgh Pirates\nPNC Park\nStart 
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-25-st-louis-cardinals-vs-pittsburgh-pirates@open-sports-cal
@@ -613,7 +640,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Pittsburgh Pirates\nPNC Park\nStart 
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-26-st-louis-cardinals-vs-pittsburgh-pirates@open-sports-cal
@@ -624,7 +651,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Pittsburgh Pirates\nPNC Park\nStart 
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-27-st-louis-cardinals-vs-pittsburgh-pirates@open-sports-cal
@@ -635,18 +662,19 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Pittsburgh Pirates\nPNC Park\nStart 
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-28-chicago-cubs-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270528
-DTEND;VALUE=DATE:20270529
+DTSTART:20270529T001500Z
+DTEND:20270529T031500Z
 SUMMARY:Chicago Cubs @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nChicago Cubs @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-29-chicago-cubs-vs-st-louis-cardinals@open-sports-cal
@@ -657,51 +685,55 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ St. Louis Cardinals\nBusch Stadium\nStart t
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-30-chicago-cubs-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270530
-DTEND;VALUE=DATE:20270531
+DTSTART:20270530T181500Z
+DTEND:20270530T211500Z
 SUMMARY:Chicago Cubs @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nChicago Cubs @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-31-pittsburgh-pirates-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270531
-DTEND;VALUE=DATE:20270601
+DTSTART:20270531T181500Z
+DTEND:20270531T211500Z
 SUMMARY:Pittsburgh Pirates @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-01-pittsburgh-pirates-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270601
-DTEND;VALUE=DATE:20270602
+DTSTART:20270601T234500Z
+DTEND:20270602T024500Z
 SUMMARY:Pittsburgh Pirates @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-02-pittsburgh-pirates-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270602
-DTEND;VALUE=DATE:20270603
+DTSTART:20270602T181500Z
+DTEND:20270602T211500Z
 SUMMARY:Pittsburgh Pirates @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-04-st-louis-cardinals-vs-colorado-rockies@open-sports-cal
@@ -712,7 +744,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-05-st-louis-cardinals-vs-colorado-rockies@open-sports-cal
@@ -723,7 +755,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-06-st-louis-cardinals-vs-colorado-rockies@open-sports-cal
@@ -734,7 +766,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Colorado Rockies\nCoors Field\nStart
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-07-st-louis-cardinals-vs-seattle-mariners@open-sports-cal
@@ -745,7 +777,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Seattle Mariners\nT-Mobile Park\nSta
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-08-st-louis-cardinals-vs-seattle-mariners@open-sports-cal
@@ -756,7 +788,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Seattle Mariners\nT-Mobile Park\nSta
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-09-st-louis-cardinals-vs-seattle-mariners@open-sports-cal
@@ -767,7 +799,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Seattle Mariners\nT-Mobile Park\nSta
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-11-st-louis-cardinals-vs-milwaukee-brewers@open-sports-cal
@@ -778,7 +810,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family F
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-12-st-louis-cardinals-vs-milwaukee-brewers@open-sports-cal
@@ -789,7 +821,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family F
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-13-st-louis-cardinals-vs-milwaukee-brewers@open-sports-cal
@@ -800,62 +832,67 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family F
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-14-washington-nationals-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270614
-DTEND;VALUE=DATE:20270615
+DTSTART:20270614T234500Z
+DTEND:20270615T024500Z
 SUMMARY:Washington Nationals @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nWashington Nationals @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-15-washington-nationals-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270615
-DTEND;VALUE=DATE:20270616
+DTSTART:20270615T234500Z
+DTEND:20270616T024500Z
 SUMMARY:Washington Nationals @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nWashington Nationals @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-16-washington-nationals-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270616
-DTEND;VALUE=DATE:20270617
+DTSTART:20270616T234500Z
+DTEND:20270617T024500Z
 SUMMARY:Washington Nationals @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nWashington Nationals @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-17-washington-nationals-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270617
-DTEND;VALUE=DATE:20270618
+DTSTART:20270617T211500Z
+DTEND:20270618T001500Z
 SUMMARY:Washington Nationals @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nWashington Nationals @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-18-cincinnati-reds-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270618
-DTEND;VALUE=DATE:20270619
+DTSTART:20270619T001500Z
+DTEND:20270619T031500Z
 SUMMARY:Cincinnati Reds @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-19-cincinnati-reds-vs-st-louis-cardinals@open-sports-cal
@@ -866,18 +903,19 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium\nStar
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-20-cincinnati-reds-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270620
-DTEND;VALUE=DATE:20270621
+DTSTART:20270620T181500Z
+DTEND:20270620T211500Z
 SUMMARY:Cincinnati Reds @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-22-st-louis-cardinals-vs-washington-nationals@open-sports-cal
@@ -888,7 +926,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -900,7 +938,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -912,19 +950,20 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-25-new-york-mets-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270625
-DTEND;VALUE=DATE:20270626
+DTSTART:20270626T001500Z
+DTEND:20270626T031500Z
 SUMMARY:New York Mets @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nNew York Mets @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-26-new-york-mets-vs-st-louis-cardinals@open-sports-cal
@@ -935,18 +974,19 @@ DESCRIPTION:MLB 2027\nNew York Mets @ St. Louis Cardinals\nBusch Stadium\nStart 
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-27-new-york-mets-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270627
-DTEND;VALUE=DATE:20270628
+DTSTART:20270627T181500Z
+DTEND:20270627T211500Z
 SUMMARY:New York Mets @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nNew York Mets @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-28-st-louis-cardinals-vs-miami-marlins@open-sports-cal
@@ -957,7 +997,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Miami Marlins\nloanDepot park\nStart
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-29-st-louis-cardinals-vs-miami-marlins@open-sports-cal
@@ -968,7 +1008,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Miami Marlins\nloanDepot park\nStart
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-30-st-louis-cardinals-vs-miami-marlins@open-sports-cal
@@ -979,7 +1019,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Miami Marlins\nloanDepot park\nStart
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-01-st-louis-cardinals-vs-chicago-cubs@open-sports-cal
@@ -990,7 +1030,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Chicago Cubs\nWrigley Field\nStart t
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-02-st-louis-cardinals-vs-chicago-cubs@open-sports-cal
@@ -1001,7 +1041,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Chicago Cubs\nWrigley Field\nStart t
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-03-st-louis-cardinals-vs-chicago-cubs@open-sports-cal
@@ -1012,7 +1052,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Chicago Cubs\nWrigley Field\nStart t
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-04-st-louis-cardinals-vs-chicago-cubs@open-sports-cal
@@ -1023,51 +1063,55 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Chicago Cubs\nWrigley Field\nStart t
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-06-arizona-diamondbacks-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270706
-DTEND;VALUE=DATE:20270707
+DTSTART:20270706T234500Z
+DTEND:20270707T024500Z
 SUMMARY:Arizona Diamondbacks @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nArizona Diamondbacks @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-07-arizona-diamondbacks-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270707
-DTEND;VALUE=DATE:20270708
+DTSTART:20270707T234500Z
+DTEND:20270708T024500Z
 SUMMARY:Arizona Diamondbacks @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nArizona Diamondbacks @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-08-arizona-diamondbacks-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270708
-DTEND;VALUE=DATE:20270709
+DTSTART:20270708T234500Z
+DTEND:20270709T024500Z
 SUMMARY:Arizona Diamondbacks @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nArizona Diamondbacks @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-09-new-york-yankees-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270709
-DTEND;VALUE=DATE:20270710
+DTSTART:20270710T001500Z
+DTEND:20270710T031500Z
 SUMMARY:New York Yankees @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nNew York Yankees @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Yankees @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-10-new-york-yankees-vs-st-louis-cardinals@open-sports-cal
@@ -1078,18 +1122,19 @@ DESCRIPTION:MLB 2027\nNew York Yankees @ St. Louis Cardinals\nBusch Stadium\nSta
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-11-new-york-yankees-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270711
-DTEND;VALUE=DATE:20270712
+DTSTART:20270711T181500Z
+DTEND:20270711T211500Z
 SUMMARY:New York Yankees @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nNew York Yankees @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Yankees @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-16-st-louis-cardinals-vs-kansas-city-royals@open-sports-cal
@@ -1100,7 +1145,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Kansas City Royals\nKauffman Stadium
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-17-st-louis-cardinals-vs-kansas-city-royals@open-sports-cal
@@ -1111,7 +1156,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Kansas City Royals\nKauffman Stadium
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-18-st-louis-cardinals-vs-kansas-city-royals@open-sports-cal
@@ -1122,7 +1167,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Kansas City Royals\nKauffman Stadium
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-19-st-louis-cardinals-vs-arizona-diamondbacks@open-sports-cal
@@ -1133,7 +1178,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Arizona Diamondbacks\nChase Field\nS
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-20-st-louis-cardinals-vs-arizona-diamondbacks@open-sports-cal
@@ -1144,7 +1189,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Arizona Diamondbacks\nChase Field\nS
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-21-st-louis-cardinals-vs-arizona-diamondbacks@open-sports-cal
@@ -1155,84 +1200,91 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Arizona Diamondbacks\nChase Field\nS
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-23-los-angeles-dodgers-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270723
-DTEND;VALUE=DATE:20270724
+DTSTART:20270724T001500Z
+DTEND:20270724T031500Z
 SUMMARY:Los Angeles Dodgers @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-24-los-angeles-dodgers-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270724
-DTEND;VALUE=DATE:20270725
+DTSTART:20270724T231500Z
+DTEND:20270725T021500Z
 SUMMARY:Los Angeles Dodgers @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-25-los-angeles-dodgers-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270725
-DTEND;VALUE=DATE:20270726
+DTSTART:20270725T181500Z
+DTEND:20270725T211500Z
 SUMMARY:Los Angeles Dodgers @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-26-cincinnati-reds-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270726
-DTEND;VALUE=DATE:20270727
+DTSTART:20270726T234500Z
+DTEND:20270727T024500Z
 SUMMARY:Cincinnati Reds @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-27-cincinnati-reds-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270727
-DTEND;VALUE=DATE:20270728
+DTSTART:20270727T234500Z
+DTEND:20270728T024500Z
 SUMMARY:Cincinnati Reds @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-28-cincinnati-reds-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270728
-DTEND;VALUE=DATE:20270729
+DTSTART:20270728T234500Z
+DTEND:20270729T024500Z
 SUMMARY:Cincinnati Reds @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-29-cincinnati-reds-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270729
-DTEND;VALUE=DATE:20270730
+DTSTART:20270729T181500Z
+DTEND:20270729T211500Z
 SUMMARY:Cincinnati Reds @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-30-st-louis-cardinals-vs-atlanta-braves@open-sports-cal
@@ -1243,7 +1295,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Atlanta Braves\nTruist Park
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1255,7 +1307,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Atlanta Braves\nTruist Park
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1267,7 +1319,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Atlanta Braves\nTruist Park
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1279,7 +1331,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Philadelphia Phillies\nCitizens Bank
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1291,7 +1343,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Philadelphia Phillies\nCitizens Bank
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1303,74 +1355,80 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Philadelphia Phillies\nCitizens Bank
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-06-colorado-rockies-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270806
-DTEND;VALUE=DATE:20270807
+DTSTART:20270807T001500Z
+DTEND:20270807T031500Z
 SUMMARY:Colorado Rockies @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nColorado Rockies @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-07-colorado-rockies-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270807
-DTEND;VALUE=DATE:20270808
+DTSTART:20270807T231500Z
+DTEND:20270808T021500Z
 SUMMARY:Colorado Rockies @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nColorado Rockies @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-08-colorado-rockies-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270808
-DTEND;VALUE=DATE:20270809
+DTSTART:20270808T181500Z
+DTEND:20270808T211500Z
 SUMMARY:Colorado Rockies @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nColorado Rockies @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-09-chicago-cubs-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270809
-DTEND;VALUE=DATE:20270810
+DTSTART:20270809T234500Z
+DTEND:20270810T024500Z
 SUMMARY:Chicago Cubs @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nChicago Cubs @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-10-chicago-cubs-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270810
-DTEND;VALUE=DATE:20270811
+DTSTART:20270810T234500Z
+DTEND:20270811T024500Z
 SUMMARY:Chicago Cubs @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nChicago Cubs @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-11-chicago-cubs-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270811
-DTEND;VALUE=DATE:20270812
+DTSTART:20270811T181500Z
+DTEND:20270811T211500Z
 SUMMARY:Chicago Cubs @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nChicago Cubs @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-13-st-louis-cardinals-vs-new-york-mets@open-sports-cal
@@ -1381,7 +1439,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ New York Mets\nCiti Field\nStart tim
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-14-st-louis-cardinals-vs-new-york-mets@open-sports-cal
@@ -1392,7 +1450,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ New York Mets\nCiti Field\nStart tim
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-15-st-louis-cardinals-vs-new-york-mets@open-sports-cal
@@ -1403,7 +1461,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ New York Mets\nCiti Field\nStart tim
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-16-st-louis-cardinals-vs-cleveland-guardians@open-sports-cal
@@ -1414,7 +1472,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cleveland Guardians\nProgressive Fie
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-17-st-louis-cardinals-vs-cleveland-guardians@open-sports-cal
@@ -1425,7 +1483,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cleveland Guardians\nProgressive Fie
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-18-st-louis-cardinals-vs-cleveland-guardians@open-sports-cal
@@ -1436,73 +1494,79 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cleveland Guardians\nProgressive Fie
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-20-los-angeles-angels-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270820
-DTEND;VALUE=DATE:20270821
+DTSTART:20270821T001500Z
+DTEND:20270821T031500Z
 SUMMARY:Los Angeles Angels @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-21-los-angeles-angels-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270821
-DTEND;VALUE=DATE:20270822
+DTSTART:20270821T231500Z
+DTEND:20270822T021500Z
 SUMMARY:Los Angeles Angels @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-22-los-angeles-angels-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270822
-DTEND;VALUE=DATE:20270823
+DTSTART:20270822T181500Z
+DTEND:20270822T211500Z
 SUMMARY:Los Angeles Angels @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-23-miami-marlins-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270823
-DTEND;VALUE=DATE:20270824
+DTSTART:20270823T234500Z
+DTEND:20270824T024500Z
 SUMMARY:Miami Marlins @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nMiami Marlins @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nMiami Marlins @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-24-miami-marlins-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270824
-DTEND;VALUE=DATE:20270825
+DTSTART:20270824T234500Z
+DTEND:20270825T024500Z
 SUMMARY:Miami Marlins @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nMiami Marlins @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nMiami Marlins @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-25-miami-marlins-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270825
-DTEND;VALUE=DATE:20270826
+DTSTART:20270825T234500Z
+DTEND:20270826T024500Z
 SUMMARY:Miami Marlins @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nMiami Marlins @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nMiami Marlins @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-27-st-louis-cardinals-vs-milwaukee-brewers@open-sports-cal
@@ -1513,7 +1577,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family F
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-28-st-louis-cardinals-vs-milwaukee-brewers@open-sports-cal
@@ -1524,7 +1588,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family F
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-29-st-louis-cardinals-vs-milwaukee-brewers@open-sports-cal
@@ -1535,7 +1599,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family F
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-30-st-louis-cardinals-vs-los-angeles-dodgers@open-sports-cal
@@ -1546,7 +1610,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Los Angeles Dodgers\nUNIQLO Field at
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-31-st-louis-cardinals-vs-los-angeles-dodgers@open-sports-cal
@@ -1557,7 +1621,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Los Angeles Dodgers\nUNIQLO Field at
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-01-st-louis-cardinals-vs-los-angeles-dodgers@open-sports-cal
@@ -1568,106 +1632,115 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Los Angeles Dodgers\nUNIQLO Field at
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-03-san-francisco-giants-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270903
-DTEND;VALUE=DATE:20270904
+DTSTART:20270904T001500Z
+DTEND:20270904T031500Z
 SUMMARY:San Francisco Giants @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-04-san-francisco-giants-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270904
-DTEND;VALUE=DATE:20270905
+DTSTART:20270904T231500Z
+DTEND:20270905T021500Z
 SUMMARY:San Francisco Giants @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-05-san-francisco-giants-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270905
-DTEND;VALUE=DATE:20270906
+DTSTART:20270905T181500Z
+DTEND:20270905T211500Z
 SUMMARY:San Francisco Giants @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-06-houston-astros-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270906
-DTEND;VALUE=DATE:20270907
+DTSTART:20270906T181500Z
+DTEND:20270906T211500Z
 SUMMARY:Houston Astros @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nHouston Astros @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nHouston Astros @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-07-houston-astros-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270907
-DTEND;VALUE=DATE:20270908
+DTSTART:20270907T234500Z
+DTEND:20270908T024500Z
 SUMMARY:Houston Astros @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nHouston Astros @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nHouston Astros @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-08-houston-astros-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270908
-DTEND;VALUE=DATE:20270909
+DTSTART:20270908T171500Z
+DTEND:20270908T201500Z
 SUMMARY:Houston Astros @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nHouston Astros @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nHouston Astros @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-10-philadelphia-phillies-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270910
-DTEND;VALUE=DATE:20270911
+DTSTART:20270911T001500Z
+DTEND:20270911T031500Z
 SUMMARY:Philadelphia Phillies @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-11-philadelphia-phillies-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270911
-DTEND;VALUE=DATE:20270912
+DTSTART:20270911T231500Z
+DTEND:20270912T021500Z
 SUMMARY:Philadelphia Phillies @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-12-philadelphia-phillies-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270912
-DTEND;VALUE=DATE:20270913
+DTSTART:20270912T181500Z
+DTEND:20270912T211500Z
 SUMMARY:Philadelphia Phillies @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-14-st-louis-cardinals-vs-pittsburgh-pirates@open-sports-cal
@@ -1678,7 +1751,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Pittsburgh Pirates\nPNC Park\nStart 
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-15-st-louis-cardinals-vs-pittsburgh-pirates@open-sports-cal
@@ -1689,7 +1762,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Pittsburgh Pirates\nPNC Park\nStart 
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-16-st-louis-cardinals-vs-pittsburgh-pirates@open-sports-cal
@@ -1700,7 +1773,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Pittsburgh Pirates\nPNC Park\nStart 
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-17-st-louis-cardinals-vs-cincinnati-reds@open-sports-cal
@@ -1711,7 +1784,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-18-st-louis-cardinals-vs-cincinnati-reds@open-sports-cal
@@ -1722,7 +1795,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-19-st-louis-cardinals-vs-cincinnati-reds@open-sports-cal
@@ -1733,72 +1806,78 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-20-milwaukee-brewers-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270920
-DTEND;VALUE=DATE:20270921
+DTSTART:20270920T234500Z
+DTEND:20270921T024500Z
 SUMMARY:Milwaukee Brewers @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-21-milwaukee-brewers-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270921
-DTEND;VALUE=DATE:20270922
+DTSTART:20270921T234500Z
+DTEND:20270922T024500Z
 SUMMARY:Milwaukee Brewers @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-22-milwaukee-brewers-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270922
-DTEND;VALUE=DATE:20270923
+DTSTART:20270922T171500Z
+DTEND:20270922T201500Z
 SUMMARY:Milwaukee Brewers @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-24-pittsburgh-pirates-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270924
-DTEND;VALUE=DATE:20270925
+DTSTART:20270925T001500Z
+DTEND:20270925T031500Z
 SUMMARY:Pittsburgh Pirates @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-25-pittsburgh-pirates-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270925
-DTEND;VALUE=DATE:20270926
+DTSTART:20270925T231500Z
+DTEND:20270926T021500Z
 SUMMARY:Pittsburgh Pirates @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-26-pittsburgh-pirates-vs-st-louis-cardinals@open-sports-cal
-DTSTART;VALUE=DATE:20270926
-DTEND;VALUE=DATE:20270927
+DTSTART:20270926T181500Z
+DTEND:20270926T211500Z
 SUMMARY:Pittsburgh Pirates @ St. Louis Cardinals
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261027T115440Z
+DTSTAMP:20261028T123059Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR
