@@ -15,7 +15,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-27-colorado-rockies-vs-san-francisco-giants@open-sports-cal
@@ -26,7 +26,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-28-colorado-rockies-vs-san-francisco-giants@open-sports-cal
@@ -37,7 +37,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-29-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
@@ -48,7 +48,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Francisco Giants\nOracle Park\n
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-30-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
@@ -59,7 +59,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Francisco Giants\nOracle Park\n
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-31-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
@@ -70,40 +70,43 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Francisco Giants\nOracle Park\n
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-02-san-francisco-giants-vs-new-york-mets@open-sports-cal
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270403
+DTSTART:20270402T191000Z
+DTEND:20270402T221000Z
 SUMMARY:San Francisco Giants @ New York Mets
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ New York Mets\nCiti Field\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ New York Mets\nCiti Field
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-03-san-francisco-giants-vs-new-york-mets@open-sports-cal
-DTSTART;VALUE=DATE:20270403
-DTEND;VALUE=DATE:20270404
+DTSTART:20270403T231000Z
+DTEND:20270404T021000Z
 SUMMARY:San Francisco Giants @ New York Mets
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ New York Mets\nCiti Field\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ New York Mets\nCiti Field
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-04-san-francisco-giants-vs-new-york-mets@open-sports-cal
-DTSTART;VALUE=DATE:20270404
-DTEND;VALUE=DATE:20270405
+DTSTART:20270404T174000Z
+DTEND:20270404T204000Z
 SUMMARY:San Francisco Giants @ New York Mets
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ New York Mets\nCiti Field\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ New York Mets\nCiti Field
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-05-san-francisco-giants-vs-atlanta-braves@open-sports-cal
@@ -114,7 +117,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Atlanta Braves\nTruist Park
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -126,7 +129,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Atlanta Braves\nTruist Park
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -138,7 +141,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Atlanta Braves\nTruist Park
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -150,7 +153,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Atlanta Braves\nTruist Park
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -162,7 +165,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-10-st-louis-cardinals-vs-san-francisco-giants@open-sports-cal
@@ -173,7 +176,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-11-st-louis-cardinals-vs-san-francisco-giants@open-sports-cal
@@ -184,7 +187,7 @@ DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-13-baltimore-orioles-vs-san-francisco-giants@open-sports-cal
@@ -195,7 +198,7 @@ DESCRIPTION:MLB 2027\nBaltimore Orioles @ San Francisco Giants\nOracle Park\nSta
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-14-baltimore-orioles-vs-san-francisco-giants@open-sports-cal
@@ -206,7 +209,7 @@ DESCRIPTION:MLB 2027\nBaltimore Orioles @ San Francisco Giants\nOracle Park\nSta
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-15-baltimore-orioles-vs-san-francisco-giants@open-sports-cal
@@ -217,7 +220,7 @@ DESCRIPTION:MLB 2027\nBaltimore Orioles @ San Francisco Giants\nOracle Park\nSta
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-16-san-francisco-giants-vs-chicago-white-sox@open-sports-cal
@@ -228,7 +231,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Chicago White Sox\nRate Field\nStar
 LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-17-san-francisco-giants-vs-chicago-white-sox@open-sports-cal
@@ -239,7 +242,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Chicago White Sox\nRate Field\nStar
 LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-18-san-francisco-giants-vs-chicago-white-sox@open-sports-cal
@@ -250,7 +253,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Chicago White Sox\nRate Field\nStar
 LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-20-san-francisco-giants-vs-pittsburgh-pirates@open-sports-cal
@@ -261,7 +264,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Pittsburgh Pirates\nPNC Park\nStart
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-21-san-francisco-giants-vs-pittsburgh-pirates@open-sports-cal
@@ -272,7 +275,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Pittsburgh Pirates\nPNC Park\nStart
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-22-san-francisco-giants-vs-pittsburgh-pirates@open-sports-cal
@@ -283,40 +286,43 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Pittsburgh Pirates\nPNC Park\nStart
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-23-san-francisco-giants-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270423
-DTEND;VALUE=DATE:20270424
+DTSTART:20270423T224000Z
+DTEND:20270424T014000Z
 SUMMARY:San Francisco Giants @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-24-san-francisco-giants-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270425
+DTSTART:20270424T224000Z
+DTEND:20270425T014000Z
 SUMMARY:San Francisco Giants @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-25-san-francisco-giants-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270425
-DTEND;VALUE=DATE:20270426
+DTSTART:20270425T174000Z
+DTEND:20270425T204000Z
 SUMMARY:San Francisco Giants @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-26-seattle-mariners-vs-san-francisco-giants@open-sports-cal
@@ -327,7 +333,7 @@ DESCRIPTION:MLB 2027\nSeattle Mariners @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-27-seattle-mariners-vs-san-francisco-giants@open-sports-cal
@@ -338,7 +344,7 @@ DESCRIPTION:MLB 2027\nSeattle Mariners @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-28-seattle-mariners-vs-san-francisco-giants@open-sports-cal
@@ -349,7 +355,7 @@ DESCRIPTION:MLB 2027\nSeattle Mariners @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-30-philadelphia-phillies-vs-san-francisco-giants@open-sports-cal
@@ -360,7 +366,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ San Francisco Giants\nOracle Park\
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-01-philadelphia-phillies-vs-san-francisco-giants@open-sports-cal
@@ -371,7 +377,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ San Francisco Giants\nOracle Park\
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-02-philadelphia-phillies-vs-san-francisco-giants@open-sports-cal
@@ -382,7 +388,7 @@ DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ San Francisco Giants\nOracle Park\
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-03-san-francisco-giants-vs-milwaukee-brewers@open-sports-cal
@@ -393,7 +399,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Milwaukee Brewers\nAmerican Family 
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-04-san-francisco-giants-vs-milwaukee-brewers@open-sports-cal
@@ -404,7 +410,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Milwaukee Brewers\nAmerican Family 
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-05-san-francisco-giants-vs-milwaukee-brewers@open-sports-cal
@@ -415,7 +421,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Milwaukee Brewers\nAmerican Family 
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-06-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
@@ -426,7 +432,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-07-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
@@ -437,7 +443,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-08-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
@@ -448,7 +454,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-09-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
@@ -459,7 +465,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-11-texas-rangers-vs-san-francisco-giants@open-sports-cal
@@ -470,7 +476,7 @@ DESCRIPTION:MLB 2027\nTexas Rangers @ San Francisco Giants\nOracle Park\nStart t
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-12-texas-rangers-vs-san-francisco-giants@open-sports-cal
@@ -481,7 +487,7 @@ DESCRIPTION:MLB 2027\nTexas Rangers @ San Francisco Giants\nOracle Park\nStart t
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-13-texas-rangers-vs-san-francisco-giants@open-sports-cal
@@ -492,7 +498,7 @@ DESCRIPTION:MLB 2027\nTexas Rangers @ San Francisco Giants\nOracle Park\nStart t
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-14-kansas-city-royals-vs-san-francisco-giants@open-sports-cal
@@ -503,7 +509,7 @@ DESCRIPTION:MLB 2027\nKansas City Royals @ San Francisco Giants\nOracle Park\nSt
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-15-kansas-city-royals-vs-san-francisco-giants@open-sports-cal
@@ -514,7 +520,7 @@ DESCRIPTION:MLB 2027\nKansas City Royals @ San Francisco Giants\nOracle Park\nSt
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-16-kansas-city-royals-vs-san-francisco-giants@open-sports-cal
@@ -525,7 +531,7 @@ DESCRIPTION:MLB 2027\nKansas City Royals @ San Francisco Giants\nOracle Park\nSt
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-18-san-francisco-giants-vs-detroit-tigers@open-sports-cal
@@ -536,7 +542,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Detroit Tigers\nComerica Park\nStar
 LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-19-san-francisco-giants-vs-detroit-tigers@open-sports-cal
@@ -547,7 +553,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Detroit Tigers\nComerica Park\nStar
 LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-20-san-francisco-giants-vs-detroit-tigers@open-sports-cal
@@ -558,7 +564,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Detroit Tigers\nComerica Park\nStar
 LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-21-san-francisco-giants-vs-new-york-yankees@open-sports-cal
@@ -569,7 +575,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ New York Yankees\nYankee Stadium
 LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -581,7 +587,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ New York Yankees\nYankee Stadium
 LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -593,7 +599,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ New York Yankees\nYankee Stadium
 LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -605,7 +611,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-25-san-diego-padres-vs-san-francisco-giants@open-sports-cal
@@ -616,7 +622,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-26-san-diego-padres-vs-san-francisco-giants@open-sports-cal
@@ -627,7 +633,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-27-san-diego-padres-vs-san-francisco-giants@open-sports-cal
@@ -638,7 +644,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-28-cincinnati-reds-vs-san-francisco-giants@open-sports-cal
@@ -649,7 +655,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ San Francisco Giants\nOracle Park\nStart
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-29-cincinnati-reds-vs-san-francisco-giants@open-sports-cal
@@ -660,7 +666,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ San Francisco Giants\nOracle Park\nStart
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-30-cincinnati-reds-vs-san-francisco-giants@open-sports-cal
@@ -671,7 +677,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ San Francisco Giants\nOracle Park\nStart
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-31-washington-nationals-vs-san-francisco-giants@open-sports-cal
@@ -682,7 +688,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ San Francisco Giants\nOracle Park\n
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-01-washington-nationals-vs-san-francisco-giants@open-sports-cal
@@ -693,7 +699,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ San Francisco Giants\nOracle Park\n
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-02-washington-nationals-vs-san-francisco-giants@open-sports-cal
@@ -704,7 +710,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ San Francisco Giants\nOracle Park\n
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-04-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
@@ -715,7 +721,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field\n
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-05-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
@@ -726,7 +732,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field\n
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-06-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
@@ -737,7 +743,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field\n
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-07-san-francisco-giants-vs-san-diego-padres@open-sports-cal
@@ -748,7 +754,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -760,7 +766,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -772,7 +778,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -784,7 +790,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ San Francisco Giants\nOracle Park\nStart t
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-12-new-york-mets-vs-san-francisco-giants@open-sports-cal
@@ -795,7 +801,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ San Francisco Giants\nOracle Park\nStart t
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-13-new-york-mets-vs-san-francisco-giants@open-sports-cal
@@ -806,7 +812,7 @@ DESCRIPTION:MLB 2027\nNew York Mets @ San Francisco Giants\nOracle Park\nStart t
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-14-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
@@ -817,7 +823,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-15-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
@@ -828,7 +834,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-16-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
@@ -839,7 +845,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-18-san-francisco-giants-vs-philadelphia-phillies@open-sports-cal
@@ -850,7 +856,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Philadelphia Phillies\nCitizens Ban
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -862,7 +868,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Philadelphia Phillies\nCitizens Ban
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -874,7 +880,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Philadelphia Phillies\nCitizens Ban
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -886,7 +892,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Toronto Blue Jays\nRogers Centre\nS
 LOCATION:Rogers Centre
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-22-san-francisco-giants-vs-toronto-blue-jays@open-sports-cal
@@ -897,7 +903,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Toronto Blue Jays\nRogers Centre\nS
 LOCATION:Rogers Centre
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-23-san-francisco-giants-vs-toronto-blue-jays@open-sports-cal
@@ -908,7 +914,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Toronto Blue Jays\nRogers Centre\nS
 LOCATION:Rogers Centre
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-24-chicago-cubs-vs-san-francisco-giants@open-sports-cal
@@ -919,7 +925,7 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ San Francisco Giants\nOracle Park\nStart ti
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-25-chicago-cubs-vs-san-francisco-giants@open-sports-cal
@@ -930,7 +936,7 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ San Francisco Giants\nOracle Park\nStart ti
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-26-chicago-cubs-vs-san-francisco-giants@open-sports-cal
@@ -941,7 +947,7 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ San Francisco Giants\nOracle Park\nStart ti
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-27-chicago-cubs-vs-san-francisco-giants@open-sports-cal
@@ -952,7 +958,7 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ San Francisco Giants\nOracle Park\nStart ti
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-28-tampa-bay-rays-vs-san-francisco-giants@open-sports-cal
@@ -963,7 +969,7 @@ DESCRIPTION:MLB 2027\nTampa Bay Rays @ San Francisco Giants\nOracle Park\nStart 
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-29-tampa-bay-rays-vs-san-francisco-giants@open-sports-cal
@@ -974,7 +980,7 @@ DESCRIPTION:MLB 2027\nTampa Bay Rays @ San Francisco Giants\nOracle Park\nStart 
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-30-tampa-bay-rays-vs-san-francisco-giants@open-sports-cal
@@ -985,7 +991,7 @@ DESCRIPTION:MLB 2027\nTampa Bay Rays @ San Francisco Giants\nOracle Park\nStart 
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-01-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
@@ -996,7 +1002,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field\n
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-02-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
@@ -1007,7 +1013,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field\n
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-03-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
@@ -1018,7 +1024,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field\n
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-04-san-francisco-giants-vs-arizona-diamondbacks@open-sports-cal
@@ -1029,7 +1035,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Arizona Diamondbacks\nChase Field\n
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-06-san-francisco-giants-vs-colorado-rockies@open-sports-cal
@@ -1040,7 +1046,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-07-san-francisco-giants-vs-colorado-rockies@open-sports-cal
@@ -1051,7 +1057,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-08-san-francisco-giants-vs-colorado-rockies@open-sports-cal
@@ -1062,7 +1068,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-09-san-francisco-giants-vs-houston-astros@open-sports-cal
@@ -1073,7 +1079,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Houston Astros\nDaikin Park\nStart 
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-10-san-francisco-giants-vs-houston-astros@open-sports-cal
@@ -1084,7 +1090,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Houston Astros\nDaikin Park\nStart 
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-11-san-francisco-giants-vs-houston-astros@open-sports-cal
@@ -1095,7 +1101,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Houston Astros\nDaikin Park\nStart 
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-16-athletics-vs-san-francisco-giants@open-sports-cal
@@ -1106,7 +1112,7 @@ DESCRIPTION:MLB 2027\nAthletics @ San Francisco Giants\nOracle Park\nStart time 
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-17-athletics-vs-san-francisco-giants@open-sports-cal
@@ -1117,7 +1123,7 @@ DESCRIPTION:MLB 2027\nAthletics @ San Francisco Giants\nOracle Park\nStart time 
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-18-athletics-vs-san-francisco-giants@open-sports-cal
@@ -1128,7 +1134,7 @@ DESCRIPTION:MLB 2027\nAthletics @ San Francisco Giants\nOracle Park\nStart time 
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-19-colorado-rockies-vs-san-francisco-giants@open-sports-cal
@@ -1139,7 +1145,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-20-colorado-rockies-vs-san-francisco-giants@open-sports-cal
@@ -1150,7 +1156,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-21-colorado-rockies-vs-san-francisco-giants@open-sports-cal
@@ -1161,7 +1167,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-22-colorado-rockies-vs-san-francisco-giants@open-sports-cal
@@ -1172,7 +1178,7 @@ DESCRIPTION:MLB 2027\nColorado Rockies @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-23-san-diego-padres-vs-san-francisco-giants@open-sports-cal
@@ -1183,7 +1189,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-24-san-diego-padres-vs-san-francisco-giants@open-sports-cal
@@ -1194,7 +1200,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-25-san-diego-padres-vs-san-francisco-giants@open-sports-cal
@@ -1205,7 +1211,7 @@ DESCRIPTION:MLB 2027\nSan Diego Padres @ San Francisco Giants\nOracle Park\nStar
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-26-san-francisco-giants-vs-los-angeles-angels@open-sports-cal
@@ -1216,7 +1222,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Angels\nAngel Stadium\n
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-27-san-francisco-giants-vs-los-angeles-angels@open-sports-cal
@@ -1227,7 +1233,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Angels\nAngel Stadium\n
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-28-san-francisco-giants-vs-los-angeles-angels@open-sports-cal
@@ -1238,7 +1244,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Angels\nAngel Stadium\n
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-30-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
@@ -1249,7 +1255,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-31-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
@@ -1260,7 +1266,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-01-san-francisco-giants-vs-los-angeles-dodgers@open-sports-cal
@@ -1271,7 +1277,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Dodgers\nUNIQLO Field a
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-02-san-francisco-giants-vs-chicago-cubs@open-sports-cal
@@ -1282,7 +1288,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Chicago Cubs\nWrigley Field\nStart 
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-03-san-francisco-giants-vs-chicago-cubs@open-sports-cal
@@ -1293,7 +1299,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Chicago Cubs\nWrigley Field\nStart 
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-04-san-francisco-giants-vs-chicago-cubs@open-sports-cal
@@ -1304,7 +1310,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Chicago Cubs\nWrigley Field\nStart 
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-06-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
@@ -1315,7 +1321,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-07-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
@@ -1326,7 +1332,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-08-los-angeles-dodgers-vs-san-francisco-giants@open-sports-cal
@@ -1337,7 +1343,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-09-milwaukee-brewers-vs-san-francisco-giants@open-sports-cal
@@ -1348,7 +1354,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ San Francisco Giants\nOracle Park\nSta
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-10-milwaukee-brewers-vs-san-francisco-giants@open-sports-cal
@@ -1359,7 +1365,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ San Francisco Giants\nOracle Park\nSta
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-11-milwaukee-brewers-vs-san-francisco-giants@open-sports-cal
@@ -1370,7 +1376,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ San Francisco Giants\nOracle Park\nSta
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-13-san-francisco-giants-vs-miami-marlins@open-sports-cal
@@ -1381,7 +1387,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Miami Marlins\nloanDepot park\nStar
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-14-san-francisco-giants-vs-miami-marlins@open-sports-cal
@@ -1392,7 +1398,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Miami Marlins\nloanDepot park\nStar
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-15-san-francisco-giants-vs-miami-marlins@open-sports-cal
@@ -1403,7 +1409,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Miami Marlins\nloanDepot park\nStar
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-17-san-francisco-giants-vs-washington-nationals@open-sports-cal
@@ -1414,7 +1420,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Washington Nationals\nNationals Par
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1426,7 +1432,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Washington Nationals\nNationals Par
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1438,7 +1444,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Washington Nationals\nNationals Par
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1450,7 +1456,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ San Francisco Giants\nOracle Park\nStart t
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-21-miami-marlins-vs-san-francisco-giants@open-sports-cal
@@ -1461,7 +1467,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ San Francisco Giants\nOracle Park\nStart t
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-22-miami-marlins-vs-san-francisco-giants@open-sports-cal
@@ -1472,7 +1478,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ San Francisco Giants\nOracle Park\nStart t
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-24-boston-red-sox-vs-san-francisco-giants@open-sports-cal
@@ -1483,7 +1489,7 @@ DESCRIPTION:MLB 2027\nBoston Red Sox @ San Francisco Giants\nOracle Park\nStart 
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-25-boston-red-sox-vs-san-francisco-giants@open-sports-cal
@@ -1494,7 +1500,7 @@ DESCRIPTION:MLB 2027\nBoston Red Sox @ San Francisco Giants\nOracle Park\nStart 
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-26-boston-red-sox-vs-san-francisco-giants@open-sports-cal
@@ -1505,7 +1511,7 @@ DESCRIPTION:MLB 2027\nBoston Red Sox @ San Francisco Giants\nOracle Park\nStart 
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-27-san-francisco-giants-vs-athletics@open-sports-cal
@@ -1516,7 +1522,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Athletics\nSutter Health Park\nStar
 LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-28-san-francisco-giants-vs-athletics@open-sports-cal
@@ -1527,7 +1533,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Athletics\nSutter Health Park\nStar
 LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-29-san-francisco-giants-vs-athletics@open-sports-cal
@@ -1538,7 +1544,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Athletics\nSutter Health Park\nStar
 LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-30-cleveland-guardians-vs-san-francisco-giants@open-sports-cal
@@ -1549,7 +1555,7 @@ DESCRIPTION:MLB 2027\nCleveland Guardians @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-31-cleveland-guardians-vs-san-francisco-giants@open-sports-cal
@@ -1560,7 +1566,7 @@ DESCRIPTION:MLB 2027\nCleveland Guardians @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-01-cleveland-guardians-vs-san-francisco-giants@open-sports-cal
@@ -1571,7 +1577,7 @@ DESCRIPTION:MLB 2027\nCleveland Guardians @ San Francisco Giants\nOracle Park\nS
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-03-san-francisco-giants-vs-st-louis-cardinals@open-sports-cal
@@ -1582,7 +1588,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -1594,7 +1600,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -1606,7 +1612,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -1618,7 +1624,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -1630,7 +1636,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -1642,7 +1648,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -1654,7 +1660,7 @@ DESCRIPTION:MLB 2027\nPittsburgh Pirates @ San Francisco Giants\nOracle Park\nSt
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-11-pittsburgh-pirates-vs-san-francisco-giants@open-sports-cal
@@ -1665,7 +1671,7 @@ DESCRIPTION:MLB 2027\nPittsburgh Pirates @ San Francisco Giants\nOracle Park\nSt
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-12-pittsburgh-pirates-vs-san-francisco-giants@open-sports-cal
@@ -1676,7 +1682,7 @@ DESCRIPTION:MLB 2027\nPittsburgh Pirates @ San Francisco Giants\nOracle Park\nSt
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-13-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
@@ -1687,7 +1693,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Francisco Giants\nOracle Park\n
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-14-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
@@ -1698,7 +1704,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Francisco Giants\nOracle Park\n
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-15-arizona-diamondbacks-vs-san-francisco-giants@open-sports-cal
@@ -1709,7 +1715,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ San Francisco Giants\nOracle Park\n
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-17-atlanta-braves-vs-san-francisco-giants@open-sports-cal
@@ -1720,7 +1726,7 @@ DESCRIPTION:MLB 2027\nAtlanta Braves @ San Francisco Giants\nOracle Park\nStart 
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-18-atlanta-braves-vs-san-francisco-giants@open-sports-cal
@@ -1731,7 +1737,7 @@ DESCRIPTION:MLB 2027\nAtlanta Braves @ San Francisco Giants\nOracle Park\nStart 
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-19-atlanta-braves-vs-san-francisco-giants@open-sports-cal
@@ -1742,7 +1748,7 @@ DESCRIPTION:MLB 2027\nAtlanta Braves @ San Francisco Giants\nOracle Park\nStart 
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-21-san-francisco-giants-vs-minnesota-twins@open-sports-cal
@@ -1753,7 +1759,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Minnesota Twins\nTarget Field
 LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -1765,7 +1771,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Minnesota Twins\nTarget Field
 LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -1777,7 +1783,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Minnesota Twins\nTarget Field
 LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -1789,7 +1795,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-25-san-francisco-giants-vs-colorado-rockies@open-sports-cal
@@ -1800,7 +1806,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-26-san-francisco-giants-vs-colorado-rockies@open-sports-cal
@@ -1811,6 +1817,6 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Colorado Rockies\nCoors Field\nStar
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 END:VCALENDAR

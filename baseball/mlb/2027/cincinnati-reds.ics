@@ -8,69 +8,75 @@ X-WR-TIMEZONE:UTC
 X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-25-st-louis-cardinals-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270325
-DTEND;VALUE=DATE:20270326
+DTSTART:20270325T201000Z
+DTEND:20270325T231000Z
 SUMMARY:St. Louis Cardinals @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-27-st-louis-cardinals-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270328
+DTSTART:20270327T201000Z
+DTEND:20270327T231000Z
 SUMMARY:St. Louis Cardinals @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-28-st-louis-cardinals-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270328
-DTEND;VALUE=DATE:20270329
+DTSTART:20270328T174000Z
+DTEND:20270328T204000Z
 SUMMARY:St. Louis Cardinals @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-29-pittsburgh-pirates-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270329
-DTEND;VALUE=DATE:20270330
+DTSTART:20270329T224000Z
+DTEND:20270330T014000Z
 SUMMARY:Pittsburgh Pirates @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-30-pittsburgh-pirates-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270330
-DTEND;VALUE=DATE:20270331
+DTSTART:20270330T224000Z
+DTEND:20270331T014000Z
 SUMMARY:Pittsburgh Pirates @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-31-pittsburgh-pirates-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
+DTSTART:20270331T164000Z
+DTEND:20270331T194000Z
 SUMMARY:Pittsburgh Pirates @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-01-cincinnati-reds-vs-boston-red-sox@open-sports-cal
@@ -81,7 +87,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Boston Red Sox\nFenway Park\nStart time 
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-03-cincinnati-reds-vs-boston-red-sox@open-sports-cal
@@ -92,7 +98,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Boston Red Sox\nFenway Park\nStart time 
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-04-cincinnati-reds-vs-boston-red-sox@open-sports-cal
@@ -103,29 +109,31 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Boston Red Sox\nFenway Park\nStart time 
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-05-cincinnati-reds-vs-new-york-mets@open-sports-cal
-DTSTART;VALUE=DATE:20270405
-DTEND;VALUE=DATE:20270406
+DTSTART:20270405T231000Z
+DTEND:20270406T021000Z
 SUMMARY:Cincinnati Reds @ New York Mets
-DESCRIPTION:MLB 2027\nCincinnati Reds @ New York Mets\nCiti Field\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ New York Mets\nCiti Field
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-06-cincinnati-reds-vs-new-york-mets@open-sports-cal
-DTSTART;VALUE=DATE:20270406
-DTEND;VALUE=DATE:20270407
+DTSTART:20270406T231000Z
+DTEND:20270407T021000Z
 SUMMARY:Cincinnati Reds @ New York Mets
-DESCRIPTION:MLB 2027\nCincinnati Reds @ New York Mets\nCiti Field\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ New York Mets\nCiti Field
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-07-cincinnati-reds-vs-new-york-mets@open-sports-cal
@@ -136,7 +144,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ New York Mets\nCiti Field\nStart time TB
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-08-cincinnati-reds-vs-new-york-mets@open-sports-cal
@@ -147,73 +155,79 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ New York Mets\nCiti Field\nStart time TB
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-09-minnesota-twins-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270409
-DTEND;VALUE=DATE:20270410
+DTSTART:20270409T224000Z
+DTEND:20270410T014000Z
 SUMMARY:Minnesota Twins @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nMinnesota Twins @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-10-minnesota-twins-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270410
-DTEND;VALUE=DATE:20270411
+DTSTART:20270410T224000Z
+DTEND:20270411T014000Z
 SUMMARY:Minnesota Twins @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nMinnesota Twins @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-11-minnesota-twins-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270411
-DTEND;VALUE=DATE:20270412
+DTSTART:20270411T174000Z
+DTEND:20270411T204000Z
 SUMMARY:Minnesota Twins @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nMinnesota Twins @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-13-texas-rangers-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270413
-DTEND;VALUE=DATE:20270414
+DTSTART:20270413T224000Z
+DTEND:20270414T014000Z
 SUMMARY:Texas Rangers @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nTexas Rangers @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nTexas Rangers @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-14-texas-rangers-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270415
+DTSTART:20270414T224000Z
+DTEND:20270415T014000Z
 SUMMARY:Texas Rangers @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nTexas Rangers @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nTexas Rangers @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-15-texas-rangers-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270415
-DTEND;VALUE=DATE:20270416
+DTSTART:20270415T164000Z
+DTEND:20270415T194000Z
 SUMMARY:Texas Rangers @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nTexas Rangers @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nTexas Rangers @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-16-cincinnati-reds-vs-pittsburgh-pirates@open-sports-cal
@@ -224,7 +238,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Pittsburgh Pirates\nPNC Park\nStart time
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-17-cincinnati-reds-vs-pittsburgh-pirates@open-sports-cal
@@ -235,7 +249,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Pittsburgh Pirates\nPNC Park\nStart time
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-18-cincinnati-reds-vs-pittsburgh-pirates@open-sports-cal
@@ -246,7 +260,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Pittsburgh Pirates\nPNC Park\nStart time
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-19-cincinnati-reds-vs-miami-marlins@open-sports-cal
@@ -257,7 +271,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Miami Marlins\nloanDepot park\nStart tim
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-20-cincinnati-reds-vs-miami-marlins@open-sports-cal
@@ -268,7 +282,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Miami Marlins\nloanDepot park\nStart tim
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-21-cincinnati-reds-vs-miami-marlins@open-sports-cal
@@ -279,73 +293,79 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Miami Marlins\nloanDepot park\nStart tim
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-23-san-francisco-giants-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270423
-DTEND;VALUE=DATE:20270424
+DTSTART:20270423T224000Z
+DTEND:20270424T014000Z
 SUMMARY:San Francisco Giants @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-24-san-francisco-giants-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270425
+DTSTART:20270424T224000Z
+DTEND:20270425T014000Z
 SUMMARY:San Francisco Giants @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-25-san-francisco-giants-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270425
-DTEND;VALUE=DATE:20270426
+DTSTART:20270425T174000Z
+DTEND:20270425T204000Z
 SUMMARY:San Francisco Giants @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-26-miami-marlins-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270426
-DTEND;VALUE=DATE:20270427
+DTSTART:20270426T224000Z
+DTEND:20270427T014000Z
 SUMMARY:Miami Marlins @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nMiami Marlins @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMiami Marlins @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-27-miami-marlins-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270427
-DTEND;VALUE=DATE:20270428
+DTSTART:20270427T224000Z
+DTEND:20270428T014000Z
 SUMMARY:Miami Marlins @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nMiami Marlins @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMiami Marlins @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-28-miami-marlins-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270429
+DTSTART:20270428T214000Z
+DTEND:20270429T004000Z
 SUMMARY:Miami Marlins @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nMiami Marlins @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMiami Marlins @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-30-cincinnati-reds-vs-milwaukee-brewers@open-sports-cal
@@ -356,7 +376,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-01-cincinnati-reds-vs-milwaukee-brewers@open-sports-cal
@@ -367,7 +387,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-02-cincinnati-reds-vs-milwaukee-brewers@open-sports-cal
@@ -378,7 +398,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-03-cincinnati-reds-vs-kansas-city-royals@open-sports-cal
@@ -389,7 +409,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Kansas City Royals\nKauffman Stadium\nSt
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-04-cincinnati-reds-vs-kansas-city-royals@open-sports-cal
@@ -400,7 +420,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Kansas City Royals\nKauffman Stadium\nSt
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-05-cincinnati-reds-vs-kansas-city-royals@open-sports-cal
@@ -411,84 +431,91 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Kansas City Royals\nKauffman Stadium\nSt
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-06-colorado-rockies-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270506
-DTEND;VALUE=DATE:20270507
+DTSTART:20270506T224000Z
+DTEND:20270507T014000Z
 SUMMARY:Colorado Rockies @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nColorado Rockies @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-07-colorado-rockies-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270508
+DTSTART:20270507T224000Z
+DTEND:20270508T014000Z
 SUMMARY:Colorado Rockies @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nColorado Rockies @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-08-colorado-rockies-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+DTSTART:20270508T224000Z
+DTEND:20270509T014000Z
 SUMMARY:Colorado Rockies @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nColorado Rockies @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-09-colorado-rockies-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270509
-DTEND;VALUE=DATE:20270510
+DTSTART:20270509T174000Z
+DTEND:20270509T204000Z
 SUMMARY:Colorado Rockies @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nColorado Rockies @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-11-arizona-diamondbacks-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270511
-DTEND;VALUE=DATE:20270512
+DTSTART:20270511T224000Z
+DTEND:20270512T014000Z
 SUMMARY:Arizona Diamondbacks @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-12-arizona-diamondbacks-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270513
+DTSTART:20270512T224000Z
+DTEND:20270513T014000Z
 SUMMARY:Arizona Diamondbacks @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-13-arizona-diamondbacks-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270513
-DTEND;VALUE=DATE:20270514
+DTSTART:20270513T164000Z
+DTEND:20270513T194000Z
 SUMMARY:Arizona Diamondbacks @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-14-cincinnati-reds-vs-san-diego-padres@open-sports-cal
@@ -499,7 +526,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -511,7 +538,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -523,7 +550,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -535,7 +562,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Los Angeles Dodgers\nUNIQLO Field at Dod
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-18-cincinnati-reds-vs-los-angeles-dodgers@open-sports-cal
@@ -546,7 +573,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Los Angeles Dodgers\nUNIQLO Field at Dod
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-19-cincinnati-reds-vs-los-angeles-dodgers@open-sports-cal
@@ -557,73 +584,79 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Los Angeles Dodgers\nUNIQLO Field at Dod
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-21-toronto-blue-jays-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270521
-DTEND;VALUE=DATE:20270522
+DTSTART:20270521T224000Z
+DTEND:20270522T014000Z
 SUMMARY:Toronto Blue Jays @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nToronto Blue Jays @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-22-toronto-blue-jays-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270522
-DTEND;VALUE=DATE:20270523
+DTSTART:20270522T201000Z
+DTEND:20270522T231000Z
 SUMMARY:Toronto Blue Jays @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nToronto Blue Jays @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-23-toronto-blue-jays-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270523
-DTEND;VALUE=DATE:20270524
+DTSTART:20270523T174000Z
+DTEND:20270523T204000Z
 SUMMARY:Toronto Blue Jays @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nToronto Blue Jays @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nToronto Blue Jays @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-25-milwaukee-brewers-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270526
+DTSTART:20270525T224000Z
+DTEND:20270526T014000Z
 SUMMARY:Milwaukee Brewers @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-26-milwaukee-brewers-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270527
+DTSTART:20270526T224000Z
+DTEND:20270527T014000Z
 SUMMARY:Milwaukee Brewers @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-27-milwaukee-brewers-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270527
-DTEND;VALUE=DATE:20270528
+DTSTART:20270527T164000Z
+DTEND:20270527T194000Z
 SUMMARY:Milwaukee Brewers @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-28-cincinnati-reds-vs-san-francisco-giants@open-sports-cal
@@ -634,7 +667,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ San Francisco Giants\nOracle Park\nStart
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-29-cincinnati-reds-vs-san-francisco-giants@open-sports-cal
@@ -645,7 +678,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ San Francisco Giants\nOracle Park\nStart
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-30-cincinnati-reds-vs-san-francisco-giants@open-sports-cal
@@ -656,7 +689,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ San Francisco Giants\nOracle Park\nStart
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-31-cincinnati-reds-vs-arizona-diamondbacks@open-sports-cal
@@ -667,7 +700,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Arizona Diamondbacks\nChase Field\nStart
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-01-cincinnati-reds-vs-arizona-diamondbacks@open-sports-cal
@@ -678,7 +711,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Arizona Diamondbacks\nChase Field\nStart
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-02-cincinnati-reds-vs-arizona-diamondbacks@open-sports-cal
@@ -689,7 +722,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Arizona Diamondbacks\nChase Field\nStart
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-03-cincinnati-reds-vs-athletics@open-sports-cal
@@ -700,7 +733,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Athletics\nLas Vegas Ballpark\nStart tim
 LOCATION:Las Vegas Ballpark
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-04-cincinnati-reds-vs-athletics@open-sports-cal
@@ -711,7 +744,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Athletics\nLas Vegas Ballpark\nStart tim
 LOCATION:Las Vegas Ballpark
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-05-cincinnati-reds-vs-athletics@open-sports-cal
@@ -722,73 +755,79 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Athletics\nLas Vegas Ballpark\nStart tim
 LOCATION:Las Vegas Ballpark
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-07-chicago-cubs-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270607
-DTEND;VALUE=DATE:20270608
+DTSTART:20270607T231000Z
+DTEND:20270608T021000Z
 SUMMARY:Chicago Cubs @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nChicago Cubs @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-08-chicago-cubs-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270608
-DTEND;VALUE=DATE:20270609
+DTSTART:20270608T231000Z
+DTEND:20270609T021000Z
 SUMMARY:Chicago Cubs @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nChicago Cubs @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-09-chicago-cubs-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270609
-DTEND;VALUE=DATE:20270610
+DTSTART:20270609T164000Z
+DTEND:20270609T194000Z
 SUMMARY:Chicago Cubs @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nChicago Cubs @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-11-seattle-mariners-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270611
-DTEND;VALUE=DATE:20270612
+DTSTART:20270611T231000Z
+DTEND:20270612T021000Z
 SUMMARY:Seattle Mariners @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSeattle Mariners @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-12-seattle-mariners-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270612
-DTEND;VALUE=DATE:20270613
+DTSTART:20270612T201000Z
+DTEND:20270612T231000Z
 SUMMARY:Seattle Mariners @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSeattle Mariners @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-13-seattle-mariners-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270613
-DTEND;VALUE=DATE:20270614
+DTSTART:20270613T174000Z
+DTEND:20270613T204000Z
 SUMMARY:Seattle Mariners @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSeattle Mariners @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSeattle Mariners @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-14-cincinnati-reds-vs-chicago-cubs@open-sports-cal
@@ -799,7 +838,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Chicago Cubs\nWrigley Field\nStart time 
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-15-cincinnati-reds-vs-chicago-cubs@open-sports-cal
@@ -810,7 +849,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Chicago Cubs\nWrigley Field\nStart time 
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-16-cincinnati-reds-vs-chicago-cubs@open-sports-cal
@@ -821,7 +860,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Chicago Cubs\nWrigley Field\nStart time 
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-18-cincinnati-reds-vs-st-louis-cardinals@open-sports-cal
@@ -832,7 +871,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -844,7 +883,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium\nStar
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-20-cincinnati-reds-vs-st-louis-cardinals@open-sports-cal
@@ -855,7 +894,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -867,7 +906,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Los Angeles Angels\nAngel Stadium\nStart
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-22-cincinnati-reds-vs-los-angeles-angels@open-sports-cal
@@ -878,7 +917,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Los Angeles Angels\nAngel Stadium\nStart
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-23-cincinnati-reds-vs-los-angeles-angels@open-sports-cal
@@ -889,117 +928,127 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Los Angeles Angels\nAngel Stadium\nStart
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-25-atlanta-braves-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270625
-DTEND;VALUE=DATE:20270626
+DTSTART:20270625T231000Z
+DTEND:20270626T021000Z
 SUMMARY:Atlanta Braves @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nAtlanta Braves @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-26-atlanta-braves-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270626
-DTEND;VALUE=DATE:20270627
+DTSTART:20270626T201000Z
+DTEND:20270626T231000Z
 SUMMARY:Atlanta Braves @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nAtlanta Braves @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-27-atlanta-braves-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270627
-DTEND;VALUE=DATE:20270628
+DTSTART:20270627T174000Z
+DTEND:20270627T204000Z
 SUMMARY:Atlanta Braves @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nAtlanta Braves @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-29-chicago-white-sox-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270629
-DTEND;VALUE=DATE:20270630
+DTSTART:20270629T231000Z
+DTEND:20270630T021000Z
 SUMMARY:Chicago White Sox @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nChicago White Sox @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago White Sox @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-30-chicago-white-sox-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270630
-DTEND;VALUE=DATE:20270701
+DTSTART:20270630T231000Z
+DTEND:20270701T021000Z
 SUMMARY:Chicago White Sox @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nChicago White Sox @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago White Sox @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-01-chicago-white-sox-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270701
-DTEND;VALUE=DATE:20270702
+DTSTART:20270701T221000Z
+DTEND:20270702T011000Z
 SUMMARY:Chicago White Sox @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nChicago White Sox @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago White Sox @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-02-milwaukee-brewers-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270702
-DTEND;VALUE=DATE:20270703
+DTSTART:20270702T231000Z
+DTEND:20270703T021000Z
 SUMMARY:Milwaukee Brewers @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-03-milwaukee-brewers-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270703
-DTEND;VALUE=DATE:20270704
+DTSTART:20270703T231000Z
+DTEND:20270704T021000Z
 SUMMARY:Milwaukee Brewers @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-04-milwaukee-brewers-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270704
-DTEND;VALUE=DATE:20270705
+DTSTART:20270704T174000Z
+DTEND:20270704T204000Z
 SUMMARY:Milwaukee Brewers @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-05-milwaukee-brewers-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270705
-DTEND;VALUE=DATE:20270706
+DTSTART:20270705T164000Z
+DTEND:20270705T194000Z
 SUMMARY:Milwaukee Brewers @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-06-cincinnati-reds-vs-houston-astros@open-sports-cal
@@ -1010,7 +1059,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Houston Astros\nDaikin Park\nStart time 
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-07-cincinnati-reds-vs-houston-astros@open-sports-cal
@@ -1021,7 +1070,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Houston Astros\nDaikin Park\nStart time 
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-08-cincinnati-reds-vs-houston-astros@open-sports-cal
@@ -1032,7 +1081,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Houston Astros\nDaikin Park\nStart time 
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-09-cincinnati-reds-vs-atlanta-braves@open-sports-cal
@@ -1043,7 +1092,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Atlanta Braves\nTruist Park
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1055,7 +1104,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Atlanta Braves\nTruist Park
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1067,74 +1116,80 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Atlanta Braves\nTruist Park
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-16-cleveland-guardians-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270716
-DTEND;VALUE=DATE:20270717
+DTSTART:20270716T231000Z
+DTEND:20270717T021000Z
 SUMMARY:Cleveland Guardians @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nCleveland Guardians @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-17-cleveland-guardians-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270717
-DTEND;VALUE=DATE:20270718
+DTSTART:20270717T231000Z
+DTEND:20270718T021000Z
 SUMMARY:Cleveland Guardians @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nCleveland Guardians @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-18-cleveland-guardians-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270718
-DTEND;VALUE=DATE:20270719
+DTSTART:20270718T174000Z
+DTEND:20270718T204000Z
 SUMMARY:Cleveland Guardians @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nCleveland Guardians @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nCleveland Guardians @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-19-tampa-bay-rays-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270719
-DTEND;VALUE=DATE:20270720
+DTSTART:20270719T221000Z
+DTEND:20270720T011000Z
 SUMMARY:Tampa Bay Rays @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nTampa Bay Rays @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-20-tampa-bay-rays-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270720
-DTEND;VALUE=DATE:20270721
+DTSTART:20270720T231000Z
+DTEND:20270721T021000Z
 SUMMARY:Tampa Bay Rays @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nTampa Bay Rays @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-21-tampa-bay-rays-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270721
-DTEND;VALUE=DATE:20270722
+DTSTART:20270721T164000Z
+DTEND:20270721T194000Z
 SUMMARY:Tampa Bay Rays @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nTampa Bay Rays @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nTampa Bay Rays @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-23-cincinnati-reds-vs-detroit-tigers@open-sports-cal
@@ -1145,7 +1200,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Detroit Tigers\nComerica Park\nStart tim
 LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-24-cincinnati-reds-vs-detroit-tigers@open-sports-cal
@@ -1156,7 +1211,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Detroit Tigers\nComerica Park\nStart tim
 LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-25-cincinnati-reds-vs-detroit-tigers@open-sports-cal
@@ -1167,7 +1222,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Detroit Tigers\nComerica Park\nStart tim
 LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-26-cincinnati-reds-vs-st-louis-cardinals@open-sports-cal
@@ -1178,7 +1233,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -1190,7 +1245,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -1202,7 +1257,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -1214,74 +1269,80 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-30-washington-nationals-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270730
-DTEND;VALUE=DATE:20270731
+DTSTART:20270730T231000Z
+DTEND:20270731T021000Z
 SUMMARY:Washington Nationals @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nWashington Nationals @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-31-washington-nationals-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270731
-DTEND;VALUE=DATE:20270801
+DTSTART:20270731T201000Z
+DTEND:20270731T231000Z
 SUMMARY:Washington Nationals @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nWashington Nationals @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-01-washington-nationals-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270801
-DTEND;VALUE=DATE:20270802
+DTSTART:20270801T174000Z
+DTEND:20270801T204000Z
 SUMMARY:Washington Nationals @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nWashington Nationals @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-02-new-york-mets-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270802
-DTEND;VALUE=DATE:20270803
+DTSTART:20270802T224000Z
+DTEND:20270803T014000Z
 SUMMARY:New York Mets @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nNew York Mets @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-03-new-york-mets-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270803
-DTEND;VALUE=DATE:20270804
+DTSTART:20270803T224000Z
+DTEND:20270804T014000Z
 SUMMARY:New York Mets @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nNew York Mets @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-04-new-york-mets-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270804
-DTEND;VALUE=DATE:20270805
+DTSTART:20270804T224000Z
+DTEND:20270805T014000Z
 SUMMARY:New York Mets @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nNew York Mets @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-06-cincinnati-reds-vs-milwaukee-brewers@open-sports-cal
@@ -1292,7 +1353,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-07-cincinnati-reds-vs-milwaukee-brewers@open-sports-cal
@@ -1303,7 +1364,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-08-cincinnati-reds-vs-milwaukee-brewers@open-sports-cal
@@ -1314,7 +1375,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-09-cincinnati-reds-vs-pittsburgh-pirates@open-sports-cal
@@ -1325,7 +1386,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Pittsburgh Pirates\nPNC Park\nStart time
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-10-cincinnati-reds-vs-pittsburgh-pirates@open-sports-cal
@@ -1336,7 +1397,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Pittsburgh Pirates\nPNC Park\nStart time
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-11-cincinnati-reds-vs-pittsburgh-pirates@open-sports-cal
@@ -1347,84 +1408,91 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Pittsburgh Pirates\nPNC Park\nStart time
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-13-new-york-yankees-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270813
-DTEND;VALUE=DATE:20270814
+DTSTART:20270813T224000Z
+DTEND:20270814T014000Z
 SUMMARY:New York Yankees @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nNew York Yankees @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Yankees @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-14-new-york-yankees-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270814
-DTEND;VALUE=DATE:20270815
+DTSTART:20270814T224000Z
+DTEND:20270815T014000Z
 SUMMARY:New York Yankees @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nNew York Yankees @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Yankees @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-15-new-york-yankees-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270815
-DTEND;VALUE=DATE:20270816
+DTSTART:20270815T174000Z
+DTEND:20270815T204000Z
 SUMMARY:New York Yankees @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nNew York Yankees @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Yankees @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-16-pittsburgh-pirates-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270816
-DTEND;VALUE=DATE:20270817
+DTSTART:20270816T224000Z
+DTEND:20270817T014000Z
 SUMMARY:Pittsburgh Pirates @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-17-pittsburgh-pirates-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270817
-DTEND;VALUE=DATE:20270818
+DTSTART:20270817T224000Z
+DTEND:20270818T014000Z
 SUMMARY:Pittsburgh Pirates @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-18-pittsburgh-pirates-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270818
-DTEND;VALUE=DATE:20270819
+DTSTART:20270818T224000Z
+DTEND:20270819T014000Z
 SUMMARY:Pittsburgh Pirates @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-19-pittsburgh-pirates-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270819
-DTEND;VALUE=DATE:20270820
+DTSTART:20270819T164000Z
+DTEND:20270819T194000Z
 SUMMARY:Pittsburgh Pirates @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-20-cincinnati-reds-vs-philadelphia-phillies@open-sports-cal
@@ -1435,7 +1503,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Philadelphia Phillies\nCitizens Bank Par
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1447,7 +1515,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Philadelphia Phillies\nCitizens Bank Par
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1459,74 +1527,80 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Philadelphia Phillies\nCitizens Bank Par
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-23-los-angeles-dodgers-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270823
-DTEND;VALUE=DATE:20270824
+DTSTART:20270823T224000Z
+DTEND:20270824T014000Z
 SUMMARY:Los Angeles Dodgers @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-24-los-angeles-dodgers-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270824
-DTEND;VALUE=DATE:20270825
+DTSTART:20270824T224000Z
+DTEND:20270825T014000Z
 SUMMARY:Los Angeles Dodgers @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-25-los-angeles-dodgers-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270825
-DTEND;VALUE=DATE:20270826
+DTSTART:20270825T214000Z
+DTEND:20270826T004000Z
 SUMMARY:Los Angeles Dodgers @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-27-san-diego-padres-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270827
-DTEND;VALUE=DATE:20270828
+DTSTART:20270827T224000Z
+DTEND:20270828T014000Z
 SUMMARY:San Diego Padres @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSan Diego Padres @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-28-san-diego-padres-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270828
-DTEND;VALUE=DATE:20270829
+DTSTART:20270828T201000Z
+DTEND:20270828T231000Z
 SUMMARY:San Diego Padres @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSan Diego Padres @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-29-san-diego-padres-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270829
-DTEND;VALUE=DATE:20270830
+DTSTART:20270829T174000Z
+DTEND:20270829T204000Z
 SUMMARY:San Diego Padres @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSan Diego Padres @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-30-cincinnati-reds-vs-washington-nationals@open-sports-cal
@@ -1537,7 +1611,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1549,7 +1623,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1561,41 +1635,44 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-03-chicago-cubs-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270903
-DTEND;VALUE=DATE:20270904
+DTSTART:20270903T224000Z
+DTEND:20270904T014000Z
 SUMMARY:Chicago Cubs @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nChicago Cubs @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-04-chicago-cubs-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270904
-DTEND;VALUE=DATE:20270905
+DTSTART:20270904T221000Z
+DTEND:20270905T011000Z
 SUMMARY:Chicago Cubs @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nChicago Cubs @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-05-chicago-cubs-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270905
-DTEND;VALUE=DATE:20270906
+DTSTART:20270905T161000Z
+DTEND:20270905T191000Z
 SUMMARY:Chicago Cubs @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nChicago Cubs @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-06-cincinnati-reds-vs-colorado-rockies@open-sports-cal
@@ -1606,7 +1683,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Colorado Rockies\nCoors Field\nStart tim
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-07-cincinnati-reds-vs-colorado-rockies@open-sports-cal
@@ -1617,7 +1694,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Colorado Rockies\nCoors Field\nStart tim
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-08-cincinnati-reds-vs-colorado-rockies@open-sports-cal
@@ -1628,7 +1705,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Colorado Rockies\nCoors Field\nStart tim
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-09-cincinnati-reds-vs-chicago-cubs@open-sports-cal
@@ -1639,7 +1716,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Chicago Cubs\nWrigley Field\nStart time 
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-10-cincinnati-reds-vs-chicago-cubs@open-sports-cal
@@ -1650,7 +1727,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Chicago Cubs\nWrigley Field\nStart time 
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-11-cincinnati-reds-vs-chicago-cubs@open-sports-cal
@@ -1661,7 +1738,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Chicago Cubs\nWrigley Field\nStart time 
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-12-cincinnati-reds-vs-chicago-cubs@open-sports-cal
@@ -1672,73 +1749,79 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Chicago Cubs\nWrigley Field\nStart time 
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-14-philadelphia-phillies-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270914
-DTEND;VALUE=DATE:20270915
+DTSTART:20270914T224000Z
+DTEND:20270915T014000Z
 SUMMARY:Philadelphia Phillies @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-15-philadelphia-phillies-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270915
-DTEND;VALUE=DATE:20270916
+DTSTART:20270915T224000Z
+DTEND:20270916T014000Z
 SUMMARY:Philadelphia Phillies @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-16-philadelphia-phillies-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270916
-DTEND;VALUE=DATE:20270917
+DTSTART:20270916T164000Z
+DTEND:20270916T194000Z
 SUMMARY:Philadelphia Phillies @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-17-st-louis-cardinals-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270917
-DTEND;VALUE=DATE:20270918
+DTSTART:20270917T224000Z
+DTEND:20270918T014000Z
 SUMMARY:St. Louis Cardinals @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-18-st-louis-cardinals-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270918
-DTEND;VALUE=DATE:20270919
+DTSTART:20270918T224000Z
+DTEND:20270919T014000Z
 SUMMARY:St. Louis Cardinals @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-19-st-louis-cardinals-vs-cincinnati-reds@open-sports-cal
-DTSTART;VALUE=DATE:20270919
-DTEND;VALUE=DATE:20270920
+DTSTART:20270919T174000Z
+DTEND:20270919T204000Z
 SUMMARY:St. Louis Cardinals @ Cincinnati Reds
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball Park\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Cincinnati Reds\nGreat American Ball Park
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
+X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-21-cincinnati-reds-vs-baltimore-orioles@open-sports-cal
@@ -1749,7 +1832,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Baltimore Orioles\nOriole Park at Camden
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1761,7 +1844,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Baltimore Orioles\nOriole Park at Camden
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1773,7 +1856,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Baltimore Orioles\nOriole Park at Camden
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1785,7 +1868,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Cleveland Guardians\nProgressive Field\n
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-25-cincinnati-reds-vs-cleveland-guardians@open-sports-cal
@@ -1796,7 +1879,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Cleveland Guardians\nProgressive Field\n
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-26-cincinnati-reds-vs-cleveland-guardians@open-sports-cal
@@ -1807,6 +1890,6 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Cleveland Guardians\nProgressive Field\n
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261102T152114Z
+DTSTAMP:20261103T135631Z
 END:VEVENT
 END:VCALENDAR
