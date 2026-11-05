@@ -8,69 +8,75 @@ X-WR-TIMEZONE:UTC
 X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-25-los-angeles-angels-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270325
-DTEND;VALUE=DATE:20270326
+DTSTART:20270325T181000Z
+DTEND:20270325T211000Z
 SUMMARY:Los Angeles Angels @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-27-los-angeles-angels-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270328
+DTSTART:20270327T231000Z
+DTEND:20270328T021000Z
 SUMMARY:Los Angeles Angels @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-28-los-angeles-angels-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270328
-DTEND;VALUE=DATE:20270329
+DTSTART:20270328T181000Z
+DTEND:20270328T211000Z
 SUMMARY:Los Angeles Angels @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-29-atlanta-braves-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270329
-DTEND;VALUE=DATE:20270330
+DTSTART:20270329T234000Z
+DTEND:20270330T024000Z
 SUMMARY:Atlanta Braves @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nAtlanta Braves @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-30-atlanta-braves-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270330
-DTEND;VALUE=DATE:20270331
+DTSTART:20270330T234000Z
+DTEND:20270331T024000Z
 SUMMARY:Atlanta Braves @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nAtlanta Braves @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-31-atlanta-braves-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
+DTSTART:20270331T174000Z
+DTEND:20270331T204000Z
 SUMMARY:Atlanta Braves @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nAtlanta Braves @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nAtlanta Braves @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-01-milwaukee-brewers-vs-chicago-white-sox@open-sports-cal
@@ -81,7 +87,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Chicago White Sox\nRate Field\nStart t
 LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-03-milwaukee-brewers-vs-chicago-white-sox@open-sports-cal
@@ -92,7 +98,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Chicago White Sox\nRate Field\nStart t
 LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-04-milwaukee-brewers-vs-chicago-white-sox@open-sports-cal
@@ -103,7 +109,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Chicago White Sox\nRate Field\nStart t
 LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-05-milwaukee-brewers-vs-toronto-blue-jays@open-sports-cal
@@ -114,7 +120,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Toronto Blue Jays\nRogers Centre\nStar
 LOCATION:Rogers Centre
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-06-milwaukee-brewers-vs-toronto-blue-jays@open-sports-cal
@@ -125,7 +131,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Toronto Blue Jays\nRogers Centre\nStar
 LOCATION:Rogers Centre
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-07-milwaukee-brewers-vs-toronto-blue-jays@open-sports-cal
@@ -136,84 +142,91 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Toronto Blue Jays\nRogers Centre\nStar
 LOCATION:Rogers Centre
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-09-philadelphia-phillies-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270409
-DTEND;VALUE=DATE:20270410
+DTSTART:20270409T234000Z
+DTEND:20270410T024000Z
 SUMMARY:Philadelphia Phillies @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-10-philadelphia-phillies-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270410
-DTEND;VALUE=DATE:20270411
+DTSTART:20270410T201000Z
+DTEND:20270410T231000Z
 SUMMARY:Philadelphia Phillies @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-11-philadelphia-phillies-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270411
-DTEND;VALUE=DATE:20270412
+DTSTART:20270411T181000Z
+DTEND:20270411T211000Z
 SUMMARY:Philadelphia Phillies @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nPhiladelphia Phillies @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-12-pittsburgh-pirates-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270412
-DTEND;VALUE=DATE:20270413
+DTSTART:20270412T234000Z
+DTEND:20270413T024000Z
 SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-13-pittsburgh-pirates-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270413
-DTEND;VALUE=DATE:20270414
+DTSTART:20270413T234000Z
+DTEND:20270414T024000Z
 SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-14-pittsburgh-pirates-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270415
+DTSTART:20270414T234000Z
+DTEND:20270415T024000Z
 SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-15-pittsburgh-pirates-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270415
-DTEND;VALUE=DATE:20270416
+DTSTART:20270415T174000Z
+DTEND:20270415T204000Z
 SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-16-milwaukee-brewers-vs-philadelphia-phillies@open-sports-cal
@@ -224,19 +237,19 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Philadelphia Phillies\nCitizens Bank P
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-17-milwaukee-brewers-vs-philadelphia-phillies@open-sports-cal
-DTSTART:20270417T220500Z
-DTEND:20270418T010500Z
+DTSTART:20270417T231500Z
+DTEND:20270418T021500Z
 SUMMARY:Milwaukee Brewers @ Philadelphia Phillies
 DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Philadelphia Phillies\nCitizens Bank Park
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -248,7 +261,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Philadelphia Phillies\nCitizens Bank P
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -260,7 +273,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ New York Yankees\nYankee Stadium
 LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,7 +285,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ New York Yankees\nYankee Stadium
 LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -284,41 +297,44 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ New York Yankees\nYankee Stadium
 LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-23-colorado-rockies-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270423
-DTEND;VALUE=DATE:20270424
+DTSTART:20270423T234000Z
+DTEND:20270424T024000Z
 SUMMARY:Colorado Rockies @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nColorado Rockies @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-24-colorado-rockies-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270425
+DTSTART:20270424T231000Z
+DTEND:20270425T021000Z
 SUMMARY:Colorado Rockies @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nColorado Rockies @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-25-colorado-rockies-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270425
-DTEND;VALUE=DATE:20270426
+DTSTART:20270425T181000Z
+DTEND:20270425T211000Z
 SUMMARY:Colorado Rockies @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nColorado Rockies @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nColorado Rockies @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-26-milwaukee-brewers-vs-chicago-cubs@open-sports-cal
@@ -329,7 +345,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Chicago Cubs\nWrigley Field\nStart tim
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-27-milwaukee-brewers-vs-chicago-cubs@open-sports-cal
@@ -340,7 +356,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Chicago Cubs\nWrigley Field\nStart tim
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-28-milwaukee-brewers-vs-chicago-cubs@open-sports-cal
@@ -351,73 +367,79 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Chicago Cubs\nWrigley Field\nStart tim
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-30-cincinnati-reds-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270430
-DTEND;VALUE=DATE:20270501
+DTSTART:20270430T234000Z
+DTEND:20270501T024000Z
 SUMMARY:Cincinnati Reds @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-01-cincinnati-reds-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270501
-DTEND;VALUE=DATE:20270502
+DTSTART:20270501T231000Z
+DTEND:20270502T021000Z
 SUMMARY:Cincinnati Reds @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-02-cincinnati-reds-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270502
-DTEND;VALUE=DATE:20270503
+DTSTART:20270502T181000Z
+DTEND:20270502T211000Z
 SUMMARY:Cincinnati Reds @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-03-san-francisco-giants-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270503
-DTEND;VALUE=DATE:20270504
+DTSTART:20270503T234000Z
+DTEND:20270504T024000Z
 SUMMARY:San Francisco Giants @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-04-san-francisco-giants-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270505
+DTSTART:20270504T234000Z
+DTEND:20270505T024000Z
 SUMMARY:San Francisco Giants @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-05-san-francisco-giants-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270505
-DTEND;VALUE=DATE:20270506
+DTSTART:20270505T174000Z
+DTEND:20270505T204000Z
 SUMMARY:San Francisco Giants @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nSan Francisco Giants @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Francisco Giants @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-06-milwaukee-brewers-vs-st-louis-cardinals@open-sports-cal
@@ -428,7 +450,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -440,7 +462,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -452,7 +474,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -464,7 +486,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -476,7 +498,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Pittsburgh Pirates\nPNC Park\nStart ti
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-12-milwaukee-brewers-vs-pittsburgh-pirates@open-sports-cal
@@ -487,7 +509,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Pittsburgh Pirates\nPNC Park\nStart ti
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-13-milwaukee-brewers-vs-pittsburgh-pirates@open-sports-cal
@@ -498,84 +520,91 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Pittsburgh Pirates\nPNC Park\nStart ti
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-14-new-york-mets-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270514
-DTEND;VALUE=DATE:20270515
+DTSTART:20270514T234000Z
+DTEND:20270515T024000Z
 SUMMARY:New York Mets @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nNew York Mets @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-15-new-york-mets-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270515
-DTEND;VALUE=DATE:20270516
+DTSTART:20270515T231000Z
+DTEND:20270516T021000Z
 SUMMARY:New York Mets @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nNew York Mets @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-16-new-york-mets-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270516
-DTEND;VALUE=DATE:20270517
+DTSTART:20270516T181000Z
+DTEND:20270516T211000Z
 SUMMARY:New York Mets @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nNew York Mets @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nNew York Mets @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-17-chicago-cubs-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270517
-DTEND;VALUE=DATE:20270518
+DTSTART:20270517T234000Z
+DTEND:20270518T024000Z
 SUMMARY:Chicago Cubs @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nChicago Cubs @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-18-chicago-cubs-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270518
-DTEND;VALUE=DATE:20270519
+DTSTART:20270518T174000Z
+DTEND:20270518T204000Z
 SUMMARY:Chicago Cubs @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nChicago Cubs @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-19-chicago-cubs-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270519
-DTEND;VALUE=DATE:20270520
+DTSTART:20270519T234000Z
+DTEND:20270520T024000Z
 SUMMARY:Chicago Cubs @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nChicago Cubs @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-20-chicago-cubs-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270520
-DTEND;VALUE=DATE:20270521
+DTSTART:20270520T174000Z
+DTEND:20270520T204000Z
 SUMMARY:Chicago Cubs @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nChicago Cubs @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-21-milwaukee-brewers-vs-miami-marlins@open-sports-cal
@@ -586,7 +615,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Miami Marlins\nloanDepot park\nStart t
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-22-milwaukee-brewers-vs-miami-marlins@open-sports-cal
@@ -597,7 +626,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Miami Marlins\nloanDepot park\nStart t
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-23-milwaukee-brewers-vs-miami-marlins@open-sports-cal
@@ -608,7 +637,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Miami Marlins\nloanDepot park\nStart t
 LOCATION:loanDepot park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-25-milwaukee-brewers-vs-cincinnati-reds@open-sports-cal
@@ -619,7 +648,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball P
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -631,7 +660,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball P
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -643,74 +672,80 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball P
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-28-arizona-diamondbacks-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270528
-DTEND;VALUE=DATE:20270529
+DTSTART:20270528T234000Z
+DTEND:20270529T024000Z
 SUMMARY:Arizona Diamondbacks @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-29-arizona-diamondbacks-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270529
-DTEND;VALUE=DATE:20270530
+DTSTART:20270529T201000Z
+DTEND:20270529T231000Z
 SUMMARY:Arizona Diamondbacks @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-30-arizona-diamondbacks-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270530
-DTEND;VALUE=DATE:20270531
+DTSTART:20270530T181000Z
+DTEND:20270530T211000Z
 SUMMARY:Arizona Diamondbacks @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-31-los-angeles-dodgers-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270531
-DTEND;VALUE=DATE:20270601
+DTSTART:20270531T181000Z
+DTEND:20270531T211000Z
 SUMMARY:Los Angeles Dodgers @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-01-los-angeles-dodgers-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270601
-DTEND;VALUE=DATE:20270602
+DTSTART:20270601T234000Z
+DTEND:20270602T024000Z
 SUMMARY:Los Angeles Dodgers @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-02-los-angeles-dodgers-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270602
-DTEND;VALUE=DATE:20270603
+DTSTART:20270602T174000Z
+DTEND:20270602T204000Z
 SUMMARY:Los Angeles Dodgers @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-04-milwaukee-brewers-vs-san-diego-padres@open-sports-cal
@@ -721,7 +756,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -733,7 +768,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -745,7 +780,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -757,7 +792,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Los Angeles Dodgers\nUNIQLO Field at D
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-08-milwaukee-brewers-vs-los-angeles-dodgers@open-sports-cal
@@ -768,7 +803,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Los Angeles Dodgers\nUNIQLO Field at D
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-09-milwaukee-brewers-vs-los-angeles-dodgers@open-sports-cal
@@ -779,73 +814,79 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Los Angeles Dodgers\nUNIQLO Field at D
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-11-st-louis-cardinals-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270611
-DTEND;VALUE=DATE:20270612
+DTSTART:20270611T234000Z
+DTEND:20270612T024000Z
 SUMMARY:St. Louis Cardinals @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-12-st-louis-cardinals-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270612
-DTEND;VALUE=DATE:20270613
+DTSTART:20270612T201000Z
+DTEND:20270612T231000Z
 SUMMARY:St. Louis Cardinals @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-13-st-louis-cardinals-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270613
-DTEND;VALUE=DATE:20270614
+DTSTART:20270613T181000Z
+DTEND:20270613T211000Z
 SUMMARY:St. Louis Cardinals @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-14-kansas-city-royals-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270614
-DTEND;VALUE=DATE:20270615
+DTSTART:20270614T234000Z
+DTEND:20270615T024000Z
 SUMMARY:Kansas City Royals @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nKansas City Royals @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nKansas City Royals @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-15-kansas-city-royals-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270615
-DTEND;VALUE=DATE:20270616
+DTSTART:20270615T234000Z
+DTEND:20270616T024000Z
 SUMMARY:Kansas City Royals @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nKansas City Royals @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nKansas City Royals @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-16-kansas-city-royals-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270616
-DTEND;VALUE=DATE:20270617
+DTSTART:20270616T181000Z
+DTEND:20270616T211000Z
 SUMMARY:Kansas City Royals @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nKansas City Royals @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nKansas City Royals @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-18-milwaukee-brewers-vs-tampa-bay-rays@open-sports-cal
@@ -856,7 +897,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Tampa Bay Rays\nTropicana Field\nStart
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-19-milwaukee-brewers-vs-tampa-bay-rays@open-sports-cal
@@ -867,7 +908,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Tampa Bay Rays\nTropicana Field\nStart
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-20-milwaukee-brewers-vs-tampa-bay-rays@open-sports-cal
@@ -878,7 +919,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Tampa Bay Rays\nTropicana Field\nStart
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-21-milwaukee-brewers-vs-new-york-mets@open-sports-cal
@@ -889,7 +930,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ New York Mets\nCiti Field
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -901,7 +942,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ New York Mets\nCiti Field
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -913,74 +954,80 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ New York Mets\nCiti Field
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-25-washington-nationals-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270625
-DTEND;VALUE=DATE:20270626
+DTSTART:20270625T234000Z
+DTEND:20270626T024000Z
 SUMMARY:Washington Nationals @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nWashington Nationals @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-26-washington-nationals-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270626
-DTEND;VALUE=DATE:20270627
+DTSTART:20270626T201000Z
+DTEND:20270626T231000Z
 SUMMARY:Washington Nationals @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nWashington Nationals @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-27-washington-nationals-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270627
-DTEND;VALUE=DATE:20270628
+DTSTART:20270627T181000Z
+DTEND:20270627T211000Z
 SUMMARY:Washington Nationals @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nWashington Nationals @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nWashington Nationals @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-28-pittsburgh-pirates-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270628
-DTEND;VALUE=DATE:20270629
+DTSTART:20270628T234000Z
+DTEND:20270629T024000Z
 SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-29-pittsburgh-pirates-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270629
-DTEND;VALUE=DATE:20270630
+DTSTART:20270629T234000Z
+DTEND:20270630T024000Z
 SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-30-pittsburgh-pirates-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270630
-DTEND;VALUE=DATE:20270701
+DTSTART:20270630T181000Z
+DTEND:20270630T211000Z
 SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-02-milwaukee-brewers-vs-cincinnati-reds@open-sports-cal
@@ -991,7 +1038,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball P
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1003,7 +1050,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball P
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1015,7 +1062,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball P
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1027,7 +1074,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cincinnati Reds\nGreat American Ball P
 LOCATION:Great American Ball Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1039,7 +1086,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1051,7 +1098,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1063,7 +1110,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Washington Nationals\nNationals Park
 LOCATION:Nationals Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1075,7 +1122,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cleveland Guardians\nProgressive Field
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-10-milwaukee-brewers-vs-cleveland-guardians@open-sports-cal
@@ -1086,7 +1133,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cleveland Guardians\nProgressive Field
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-11-milwaukee-brewers-vs-cleveland-guardians@open-sports-cal
@@ -1097,117 +1144,127 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Cleveland Guardians\nProgressive Field
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-16-minnesota-twins-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270716
-DTEND;VALUE=DATE:20270717
+DTSTART:20270716T234000Z
+DTEND:20270717T024000Z
 SUMMARY:Minnesota Twins @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nMinnesota Twins @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-17-minnesota-twins-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270717
-DTEND;VALUE=DATE:20270718
+DTSTART:20270717T231000Z
+DTEND:20270718T021000Z
 SUMMARY:Minnesota Twins @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nMinnesota Twins @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-18-minnesota-twins-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270718
-DTEND;VALUE=DATE:20270719
+DTSTART:20270718T181000Z
+DTEND:20270718T211000Z
 SUMMARY:Minnesota Twins @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nMinnesota Twins @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nMinnesota Twins @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-19-detroit-tigers-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270719
-DTEND;VALUE=DATE:20270720
+DTSTART:20270719T234000Z
+DTEND:20270720T024000Z
 SUMMARY:Detroit Tigers @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nDetroit Tigers @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-20-detroit-tigers-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270720
-DTEND;VALUE=DATE:20270721
+DTSTART:20270720T234000Z
+DTEND:20270721T024000Z
 SUMMARY:Detroit Tigers @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nDetroit Tigers @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-21-detroit-tigers-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270721
-DTEND;VALUE=DATE:20270722
+DTSTART:20270721T181000Z
+DTEND:20270721T211000Z
 SUMMARY:Detroit Tigers @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nDetroit Tigers @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nDetroit Tigers @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-22-miami-marlins-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270722
-DTEND;VALUE=DATE:20270723
+DTSTART:20270722T234000Z
+DTEND:20270723T024000Z
 SUMMARY:Miami Marlins @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nMiami Marlins @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nMiami Marlins @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-23-miami-marlins-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270723
-DTEND;VALUE=DATE:20270724
+DTSTART:20270723T234000Z
+DTEND:20270724T024000Z
 SUMMARY:Miami Marlins @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nMiami Marlins @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nMiami Marlins @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-24-miami-marlins-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270724
-DTEND;VALUE=DATE:20270725
+DTSTART:20270724T231000Z
+DTEND:20270725T021000Z
 SUMMARY:Miami Marlins @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nMiami Marlins @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nMiami Marlins @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-25-miami-marlins-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270725
-DTEND;VALUE=DATE:20270726
+DTSTART:20270725T181000Z
+DTEND:20270725T211000Z
 SUMMARY:Miami Marlins @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nMiami Marlins @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nMiami Marlins @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-27-milwaukee-brewers-vs-seattle-mariners@open-sports-cal
@@ -1218,7 +1275,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Seattle Mariners\nT-Mobile Park\nStart
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-28-milwaukee-brewers-vs-seattle-mariners@open-sports-cal
@@ -1229,7 +1286,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Seattle Mariners\nT-Mobile Park\nStart
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-29-milwaukee-brewers-vs-seattle-mariners@open-sports-cal
@@ -1240,106 +1297,115 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Seattle Mariners\nT-Mobile Park\nStart
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-30-milwaukee-brewers-vs-colorado-rockies@open-sports-cal
-DTSTART;VALUE=DATE:20270730
-DTEND;VALUE=DATE:20270731
+DTSTART:20270731T004000Z
+DTEND:20270731T034000Z
 SUMMARY:Milwaukee Brewers @ Colorado Rockies
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Colorado Rockies\nCoors Field\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Colorado Rockies\nCoors Field
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-31-milwaukee-brewers-vs-colorado-rockies@open-sports-cal
-DTSTART;VALUE=DATE:20270731
-DTEND;VALUE=DATE:20270801
+DTSTART:20270801T001000Z
+DTEND:20270801T031000Z
 SUMMARY:Milwaukee Brewers @ Colorado Rockies
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Colorado Rockies\nCoors Field\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Colorado Rockies\nCoors Field
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-01-milwaukee-brewers-vs-colorado-rockies@open-sports-cal
-DTSTART;VALUE=DATE:20270801
-DTEND;VALUE=DATE:20270802
+DTSTART:20270801T191000Z
+DTEND:20270801T221000Z
 SUMMARY:Milwaukee Brewers @ Colorado Rockies
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Colorado Rockies\nCoors Field\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Colorado Rockies\nCoors Field
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-02-san-diego-padres-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270802
-DTEND;VALUE=DATE:20270803
+DTSTART:20270802T234000Z
+DTEND:20270803T024000Z
 SUMMARY:San Diego Padres @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nSan Diego Padres @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-03-san-diego-padres-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270803
-DTEND;VALUE=DATE:20270804
+DTSTART:20270803T234000Z
+DTEND:20270804T024000Z
 SUMMARY:San Diego Padres @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nSan Diego Padres @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-04-san-diego-padres-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270804
-DTEND;VALUE=DATE:20270805
+DTSTART:20270804T181000Z
+DTEND:20270804T211000Z
 SUMMARY:San Diego Padres @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nSan Diego Padres @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nSan Diego Padres @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-06-cincinnati-reds-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270806
-DTEND;VALUE=DATE:20270807
+DTSTART:20270806T234000Z
+DTEND:20270807T024000Z
 SUMMARY:Cincinnati Reds @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-07-cincinnati-reds-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270807
-DTEND;VALUE=DATE:20270808
+DTSTART:20270807T231000Z
+DTEND:20270808T021000Z
 SUMMARY:Cincinnati Reds @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-08-cincinnati-reds-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270808
-DTEND;VALUE=DATE:20270809
+DTSTART:20270808T181000Z
+DTEND:20270808T211000Z
 SUMMARY:Cincinnati Reds @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nCincinnati Reds @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-09-milwaukee-brewers-vs-san-francisco-giants@open-sports-cal
@@ -1350,7 +1416,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ San Francisco Giants\nOracle Park\nSta
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-10-milwaukee-brewers-vs-san-francisco-giants@open-sports-cal
@@ -1361,7 +1427,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ San Francisco Giants\nOracle Park\nSta
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-11-milwaukee-brewers-vs-san-francisco-giants@open-sports-cal
@@ -1372,7 +1438,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ San Francisco Giants\nOracle Park\nSta
 LOCATION:Oracle Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-12-milwaukee-brewers-vs-arizona-diamondbacks@open-sports-cal
@@ -1383,7 +1449,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Arizona Diamondbacks\nChase Field\nSta
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-13-milwaukee-brewers-vs-arizona-diamondbacks@open-sports-cal
@@ -1394,7 +1460,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Arizona Diamondbacks\nChase Field\nSta
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-14-milwaukee-brewers-vs-arizona-diamondbacks@open-sports-cal
@@ -1405,7 +1471,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Arizona Diamondbacks\nChase Field\nSta
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-15-milwaukee-brewers-vs-arizona-diamondbacks@open-sports-cal
@@ -1416,73 +1482,79 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Arizona Diamondbacks\nChase Field\nSta
 LOCATION:Chase Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-16-athletics-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270816
-DTEND;VALUE=DATE:20270817
+DTSTART:20270816T234000Z
+DTEND:20270817T024000Z
 SUMMARY:Athletics @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nAthletics @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nAthletics @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-17-athletics-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270817
-DTEND;VALUE=DATE:20270818
+DTSTART:20270817T234000Z
+DTEND:20270818T024000Z
 SUMMARY:Athletics @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nAthletics @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nAthletics @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-18-athletics-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270818
-DTEND;VALUE=DATE:20270819
+DTSTART:20270818T191000Z
+DTEND:20270818T221000Z
 SUMMARY:Athletics @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nAthletics @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nAthletics @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-20-houston-astros-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270820
-DTEND;VALUE=DATE:20270821
+DTSTART:20270820T234000Z
+DTEND:20270821T024000Z
 SUMMARY:Houston Astros @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nHouston Astros @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nHouston Astros @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-21-houston-astros-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270821
-DTEND;VALUE=DATE:20270822
+DTSTART:20270821T231000Z
+DTEND:20270822T021000Z
 SUMMARY:Houston Astros @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nHouston Astros @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nHouston Astros @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-22-houston-astros-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270822
-DTEND;VALUE=DATE:20270823
+DTSTART:20270822T181000Z
+DTEND:20270822T211000Z
 SUMMARY:Houston Astros @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nHouston Astros @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nHouston Astros @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-23-milwaukee-brewers-vs-atlanta-braves@open-sports-cal
@@ -1493,7 +1565,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Atlanta Braves\nTruist Park
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1505,7 +1577,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Atlanta Braves\nTruist Park
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1517,41 +1589,44 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Atlanta Braves\nTruist Park
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-27-st-louis-cardinals-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270827
-DTEND;VALUE=DATE:20270828
+DTSTART:20270827T234000Z
+DTEND:20270828T024000Z
 SUMMARY:St. Louis Cardinals @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-28-st-louis-cardinals-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270828
-DTEND;VALUE=DATE:20270829
+DTSTART:20270828T201000Z
+DTEND:20270828T231000Z
 SUMMARY:St. Louis Cardinals @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-29-st-louis-cardinals-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270829
-DTEND;VALUE=DATE:20270830
+DTSTART:20270829T181000Z
+DTEND:20270829T211000Z
 SUMMARY:St. Louis Cardinals @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nSt. Louis Cardinals @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-30-milwaukee-brewers-vs-chicago-cubs@open-sports-cal
@@ -1562,7 +1637,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Chicago Cubs\nWrigley Field\nStart tim
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-31-milwaukee-brewers-vs-chicago-cubs@open-sports-cal
@@ -1573,7 +1648,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Chicago Cubs\nWrigley Field\nStart tim
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-01-milwaukee-brewers-vs-chicago-cubs@open-sports-cal
@@ -1584,7 +1659,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Chicago Cubs\nWrigley Field\nStart tim
 LOCATION:Wrigley Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-03-milwaukee-brewers-vs-pittsburgh-pirates@open-sports-cal
@@ -1595,7 +1670,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Pittsburgh Pirates\nPNC Park\nStart ti
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-04-milwaukee-brewers-vs-pittsburgh-pirates@open-sports-cal
@@ -1606,7 +1681,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Pittsburgh Pirates\nPNC Park\nStart ti
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-05-milwaukee-brewers-vs-pittsburgh-pirates@open-sports-cal
@@ -1617,40 +1692,43 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Pittsburgh Pirates\nPNC Park\nStart ti
 LOCATION:PNC Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-06-chicago-cubs-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270906
-DTEND;VALUE=DATE:20270907
+DTSTART:20270906T181000Z
+DTEND:20270906T211000Z
 SUMMARY:Chicago Cubs @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nChicago Cubs @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-07-chicago-cubs-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270907
-DTEND;VALUE=DATE:20270908
+DTSTART:20270907T234000Z
+DTEND:20270908T024000Z
 SUMMARY:Chicago Cubs @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nChicago Cubs @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-08-chicago-cubs-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270908
-DTEND;VALUE=DATE:20270909
+DTSTART:20270908T174000Z
+DTEND:20270908T204000Z
 SUMMARY:Chicago Cubs @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nChicago Cubs @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nChicago Cubs @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-10-milwaukee-brewers-vs-minnesota-twins@open-sports-cal
@@ -1661,7 +1739,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Minnesota Twins\nTarget Field
 LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -1673,7 +1751,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Minnesota Twins\nTarget Field
 LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -1685,74 +1763,80 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Minnesota Twins\nTarget Field
 LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-14-boston-red-sox-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270914
-DTEND;VALUE=DATE:20270915
+DTSTART:20270914T234000Z
+DTEND:20270915T024000Z
 SUMMARY:Boston Red Sox @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nBoston Red Sox @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-15-boston-red-sox-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270915
-DTEND;VALUE=DATE:20270916
+DTSTART:20270915T234000Z
+DTEND:20270916T024000Z
 SUMMARY:Boston Red Sox @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nBoston Red Sox @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-16-boston-red-sox-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270916
-DTEND;VALUE=DATE:20270917
+DTSTART:20270916T174000Z
+DTEND:20270916T204000Z
 SUMMARY:Boston Red Sox @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nBoston Red Sox @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nBoston Red Sox @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-17-baltimore-orioles-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270917
-DTEND;VALUE=DATE:20270918
+DTSTART:20270917T234000Z
+DTEND:20270918T024000Z
 SUMMARY:Baltimore Orioles @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nBaltimore Orioles @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-18-baltimore-orioles-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270918
-DTEND;VALUE=DATE:20270919
+DTSTART:20270918T231000Z
+DTEND:20270919T021000Z
 SUMMARY:Baltimore Orioles @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nBaltimore Orioles @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-19-baltimore-orioles-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270919
-DTEND;VALUE=DATE:20270920
+DTSTART:20270919T181000Z
+DTEND:20270919T211000Z
 SUMMARY:Baltimore Orioles @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nBaltimore Orioles @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nBaltimore Orioles @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-20-milwaukee-brewers-vs-st-louis-cardinals@open-sports-cal
@@ -1763,7 +1847,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -1775,7 +1859,7 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -1787,40 +1871,43 @@ DESCRIPTION:MLB 2027\nMilwaukee Brewers @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-24-milwaukee-brewers-vs-texas-rangers@open-sports-cal
-DTSTART;VALUE=DATE:20270924
-DTEND;VALUE=DATE:20270925
+DTSTART:20270925T001000Z
+DTEND:20270925T031000Z
 SUMMARY:Milwaukee Brewers @ Texas Rangers
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Texas Rangers\nGlobe Life Field\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Texas Rangers\nGlobe Life Field
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-25-milwaukee-brewers-vs-texas-rangers@open-sports-cal
-DTSTART;VALUE=DATE:20270925
-DTEND;VALUE=DATE:20270926
+DTSTART:20270925T231000Z
+DTEND:20270926T021000Z
 SUMMARY:Milwaukee Brewers @ Texas Rangers
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Texas Rangers\nGlobe Life Field\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Texas Rangers\nGlobe Life Field
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-26-milwaukee-brewers-vs-texas-rangers@open-sports-cal
-DTSTART;VALUE=DATE:20270926
-DTEND;VALUE=DATE:20270927
+DTSTART:20270926T191000Z
+DTEND:20270926T221000Z
 SUMMARY:Milwaukee Brewers @ Texas Rangers
-DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Texas Rangers\nGlobe Life Field\nStart time TBD
+DESCRIPTION:MLB 2027\nMilwaukee Brewers @ Texas Rangers\nGlobe Life Field
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

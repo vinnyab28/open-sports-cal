@@ -8,36 +8,39 @@ X-WR-TIMEZONE:UTC
 X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-25-los-angeles-angels-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270325
-DTEND;VALUE=DATE:20270326
+DTSTART:20270325T181000Z
+DTEND:20270325T211000Z
 SUMMARY:Los Angeles Angels @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-27-los-angeles-angels-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270328
+DTSTART:20270327T231000Z
+DTEND:20270328T021000Z
 SUMMARY:Los Angeles Angels @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-28-los-angeles-angels-vs-milwaukee-brewers@open-sports-cal
-DTSTART;VALUE=DATE:20270328
-DTEND;VALUE=DATE:20270329
+DTSTART:20270328T181000Z
+DTEND:20270328T211000Z
 SUMMARY:Los Angeles Angels @ Milwaukee Brewers
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Milwaukee Brewers\nAmerican Family Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Milwaukee Brewers\nAmerican Family Field
 LOCATION:American Family Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-29-los-angeles-angels-vs-tampa-bay-rays@open-sports-cal
@@ -48,7 +51,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Tampa Bay Rays\nTropicana Field\nStar
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-30-los-angeles-angels-vs-tampa-bay-rays@open-sports-cal
@@ -59,7 +62,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Tampa Bay Rays\nTropicana Field\nStar
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-03-31-los-angeles-angels-vs-tampa-bay-rays@open-sports-cal
@@ -70,7 +73,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Tampa Bay Rays\nTropicana Field\nStar
 LOCATION:Tropicana Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-02-chicago-cubs-vs-los-angeles-angels@open-sports-cal
@@ -81,7 +84,7 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ Los Angeles Angels\nAngel Stadium\nStart ti
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-03-chicago-cubs-vs-los-angeles-angels@open-sports-cal
@@ -92,7 +95,7 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ Los Angeles Angels\nAngel Stadium\nStart ti
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-04-chicago-cubs-vs-los-angeles-angels@open-sports-cal
@@ -103,7 +106,7 @@ DESCRIPTION:MLB 2027\nChicago Cubs @ Los Angeles Angels\nAngel Stadium\nStart ti
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-05-kansas-city-royals-vs-los-angeles-angels@open-sports-cal
@@ -114,7 +117,7 @@ DESCRIPTION:MLB 2027\nKansas City Royals @ Los Angeles Angels\nAngel Stadium\nSt
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-06-kansas-city-royals-vs-los-angeles-angels@open-sports-cal
@@ -125,7 +128,7 @@ DESCRIPTION:MLB 2027\nKansas City Royals @ Los Angeles Angels\nAngel Stadium\nSt
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-07-kansas-city-royals-vs-los-angeles-angels@open-sports-cal
@@ -136,7 +139,7 @@ DESCRIPTION:MLB 2027\nKansas City Royals @ Los Angeles Angels\nAngel Stadium\nSt
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-09-los-angeles-angels-vs-baltimore-orioles@open-sports-cal
@@ -147,7 +150,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Baltimore Orioles\nOriole Park at Cam
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -159,7 +162,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Baltimore Orioles\nOriole Park at Cam
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -171,7 +174,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Baltimore Orioles\nOriole Park at Cam
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -183,7 +186,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Baltimore Orioles\nOriole Park at Cam
 LOCATION:Oriole Park at Camden Yards
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -195,7 +198,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ New York Mets\nCiti Field
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,7 +210,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ New York Mets\nCiti Field
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -219,7 +222,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ New York Mets\nCiti Field
 LOCATION:Citi Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -231,7 +234,7 @@ DESCRIPTION:MLB 2027\nBaltimore Orioles @ Los Angeles Angels\nAngel Stadium\nSta
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-17-baltimore-orioles-vs-los-angeles-angels@open-sports-cal
@@ -242,7 +245,7 @@ DESCRIPTION:MLB 2027\nBaltimore Orioles @ Los Angeles Angels\nAngel Stadium\nSta
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-18-baltimore-orioles-vs-los-angeles-angels@open-sports-cal
@@ -253,7 +256,7 @@ DESCRIPTION:MLB 2027\nBaltimore Orioles @ Los Angeles Angels\nAngel Stadium\nSta
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-19-houston-astros-vs-los-angeles-angels@open-sports-cal
@@ -264,7 +267,7 @@ DESCRIPTION:MLB 2027\nHouston Astros @ Los Angeles Angels\nAngel Stadium\nStart 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-20-houston-astros-vs-los-angeles-angels@open-sports-cal
@@ -275,7 +278,7 @@ DESCRIPTION:MLB 2027\nHouston Astros @ Los Angeles Angels\nAngel Stadium\nStart 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-21-houston-astros-vs-los-angeles-angels@open-sports-cal
@@ -286,7 +289,7 @@ DESCRIPTION:MLB 2027\nHouston Astros @ Los Angeles Angels\nAngel Stadium\nStart 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-23-chicago-white-sox-vs-los-angeles-angels@open-sports-cal
@@ -297,7 +300,7 @@ DESCRIPTION:MLB 2027\nChicago White Sox @ Los Angeles Angels\nAngel Stadium\nSta
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-24-chicago-white-sox-vs-los-angeles-angels@open-sports-cal
@@ -308,7 +311,7 @@ DESCRIPTION:MLB 2027\nChicago White Sox @ Los Angeles Angels\nAngel Stadium\nSta
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-25-chicago-white-sox-vs-los-angeles-angels@open-sports-cal
@@ -319,7 +322,7 @@ DESCRIPTION:MLB 2027\nChicago White Sox @ Los Angeles Angels\nAngel Stadium\nSta
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-26-los-angeles-angels-vs-houston-astros@open-sports-cal
@@ -330,7 +333,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Houston Astros\nDaikin Park\nStart ti
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-27-los-angeles-angels-vs-houston-astros@open-sports-cal
@@ -341,7 +344,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Houston Astros\nDaikin Park\nStart ti
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-28-los-angeles-angels-vs-houston-astros@open-sports-cal
@@ -352,7 +355,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Houston Astros\nDaikin Park\nStart ti
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-04-30-los-angeles-angels-vs-chicago-white-sox@open-sports-cal
@@ -363,7 +366,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Chicago White Sox\nRate Field\nStart 
 LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-01-los-angeles-angels-vs-chicago-white-sox@open-sports-cal
@@ -374,7 +377,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Chicago White Sox\nRate Field\nStart 
 LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-02-los-angeles-angels-vs-chicago-white-sox@open-sports-cal
@@ -385,7 +388,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Chicago White Sox\nRate Field\nStart 
 LOCATION:Rate Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-03-minnesota-twins-vs-los-angeles-angels@open-sports-cal
@@ -396,7 +399,7 @@ DESCRIPTION:MLB 2027\nMinnesota Twins @ Los Angeles Angels\nAngel Stadium\nStart
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-04-minnesota-twins-vs-los-angeles-angels@open-sports-cal
@@ -407,7 +410,7 @@ DESCRIPTION:MLB 2027\nMinnesota Twins @ Los Angeles Angels\nAngel Stadium\nStart
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-05-minnesota-twins-vs-los-angeles-angels@open-sports-cal
@@ -418,7 +421,7 @@ DESCRIPTION:MLB 2027\nMinnesota Twins @ Los Angeles Angels\nAngel Stadium\nStart
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-06-minnesota-twins-vs-los-angeles-angels@open-sports-cal
@@ -429,7 +432,7 @@ DESCRIPTION:MLB 2027\nMinnesota Twins @ Los Angeles Angels\nAngel Stadium\nStart
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-07-los-angeles-angels-vs-athletics@open-sports-cal
@@ -440,7 +443,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Athletics\nSutter Health Park\nStart 
 LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-08-los-angeles-angels-vs-athletics@open-sports-cal
@@ -451,7 +454,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Athletics\nSutter Health Park\nStart 
 LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-09-los-angeles-angels-vs-athletics@open-sports-cal
@@ -462,7 +465,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Athletics\nSutter Health Park\nStart 
 LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-10-seattle-mariners-vs-los-angeles-angels@open-sports-cal
@@ -473,7 +476,7 @@ DESCRIPTION:MLB 2027\nSeattle Mariners @ Los Angeles Angels\nAngel Stadium\nStar
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-11-seattle-mariners-vs-los-angeles-angels@open-sports-cal
@@ -484,7 +487,7 @@ DESCRIPTION:MLB 2027\nSeattle Mariners @ Los Angeles Angels\nAngel Stadium\nStar
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-12-seattle-mariners-vs-los-angeles-angels@open-sports-cal
@@ -495,7 +498,7 @@ DESCRIPTION:MLB 2027\nSeattle Mariners @ Los Angeles Angels\nAngel Stadium\nStar
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-14-athletics-vs-los-angeles-angels@open-sports-cal
@@ -506,7 +509,7 @@ DESCRIPTION:MLB 2027\nAthletics @ Los Angeles Angels\nAngel Stadium\nStart time 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-15-athletics-vs-los-angeles-angels@open-sports-cal
@@ -517,7 +520,7 @@ DESCRIPTION:MLB 2027\nAthletics @ Los Angeles Angels\nAngel Stadium\nStart time 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-16-athletics-vs-los-angeles-angels@open-sports-cal
@@ -528,7 +531,7 @@ DESCRIPTION:MLB 2027\nAthletics @ Los Angeles Angels\nAngel Stadium\nStart time 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-18-los-angeles-angels-vs-new-york-yankees@open-sports-cal
@@ -539,7 +542,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ New York Yankees\nYankee Stadium
 LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -551,7 +554,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ New York Yankees\nYankee Stadium
 LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -563,7 +566,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ New York Yankees\nYankee Stadium
 LOCATION:Yankee Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -575,7 +578,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Philadelphia Phillies\nCitizens Bank 
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -587,7 +590,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Philadelphia Phillies\nCitizens Bank 
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -599,7 +602,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Philadelphia Phillies\nCitizens Bank 
 LOCATION:Citizens Bank Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -611,7 +614,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Cleveland Guardians\nProgressive Fiel
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-25-los-angeles-angels-vs-cleveland-guardians@open-sports-cal
@@ -622,7 +625,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Cleveland Guardians\nProgressive Fiel
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-26-los-angeles-angels-vs-cleveland-guardians@open-sports-cal
@@ -633,7 +636,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Cleveland Guardians\nProgressive Fiel
 LOCATION:Progressive Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-28-los-angeles-dodgers-vs-los-angeles-angels@open-sports-cal
@@ -644,7 +647,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Los Angeles Angels\nAngel Stadium\nS
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-29-los-angeles-dodgers-vs-los-angeles-angels@open-sports-cal
@@ -655,7 +658,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Los Angeles Angels\nAngel Stadium\nS
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-30-los-angeles-dodgers-vs-los-angeles-angels@open-sports-cal
@@ -666,7 +669,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Dodgers @ Los Angeles Angels\nAngel Stadium\nS
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-05-31-boston-red-sox-vs-los-angeles-angels@open-sports-cal
@@ -677,7 +680,7 @@ DESCRIPTION:MLB 2027\nBoston Red Sox @ Los Angeles Angels\nAngel Stadium\nStart 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-01-boston-red-sox-vs-los-angeles-angels@open-sports-cal
@@ -688,7 +691,7 @@ DESCRIPTION:MLB 2027\nBoston Red Sox @ Los Angeles Angels\nAngel Stadium\nStart 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-02-boston-red-sox-vs-los-angeles-angels@open-sports-cal
@@ -699,7 +702,7 @@ DESCRIPTION:MLB 2027\nBoston Red Sox @ Los Angeles Angels\nAngel Stadium\nStart 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-04-texas-rangers-vs-los-angeles-angels@open-sports-cal
@@ -710,7 +713,7 @@ DESCRIPTION:MLB 2027\nTexas Rangers @ Los Angeles Angels\nAngel Stadium\nStart t
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-05-texas-rangers-vs-los-angeles-angels@open-sports-cal
@@ -721,7 +724,7 @@ DESCRIPTION:MLB 2027\nTexas Rangers @ Los Angeles Angels\nAngel Stadium\nStart t
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-06-texas-rangers-vs-los-angeles-angels@open-sports-cal
@@ -732,7 +735,7 @@ DESCRIPTION:MLB 2027\nTexas Rangers @ Los Angeles Angels\nAngel Stadium\nStart t
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-07-los-angeles-angels-vs-minnesota-twins@open-sports-cal
@@ -743,7 +746,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Minnesota Twins\nTarget Field
 LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -755,7 +758,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Minnesota Twins\nTarget Field
 LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -767,41 +770,44 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Minnesota Twins\nTarget Field
 LOCATION:Target Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-11-los-angeles-angels-vs-texas-rangers@open-sports-cal
-DTSTART;VALUE=DATE:20270611
-DTEND;VALUE=DATE:20270612
+DTSTART:20270612T001000Z
+DTEND:20270612T031000Z
 SUMMARY:Los Angeles Angels @ Texas Rangers
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-12-los-angeles-angels-vs-texas-rangers@open-sports-cal
-DTSTART;VALUE=DATE:20270612
-DTEND;VALUE=DATE:20270613
+DTSTART:20270612T201000Z
+DTEND:20270612T231000Z
 SUMMARY:Los Angeles Angels @ Texas Rangers
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-13-los-angeles-angels-vs-texas-rangers@open-sports-cal
-DTSTART;VALUE=DATE:20270613
-DTEND;VALUE=DATE:20270614
+DTSTART:20270613T184000Z
+DTEND:20270613T214000Z
 SUMMARY:Los Angeles Angels @ Texas Rangers
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-14-pittsburgh-pirates-vs-los-angeles-angels@open-sports-cal
@@ -812,7 +818,7 @@ DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Los Angeles Angels\nAngel Stadium\nSt
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-15-pittsburgh-pirates-vs-los-angeles-angels@open-sports-cal
@@ -823,7 +829,7 @@ DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Los Angeles Angels\nAngel Stadium\nSt
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-16-pittsburgh-pirates-vs-los-angeles-angels@open-sports-cal
@@ -834,7 +840,7 @@ DESCRIPTION:MLB 2027\nPittsburgh Pirates @ Los Angeles Angels\nAngel Stadium\nSt
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-17-los-angeles-angels-vs-seattle-mariners@open-sports-cal
@@ -845,7 +851,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Seattle Mariners\nT-Mobile Park\nStar
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-18-los-angeles-angels-vs-seattle-mariners@open-sports-cal
@@ -856,7 +862,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Seattle Mariners\nT-Mobile Park\nStar
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-19-los-angeles-angels-vs-seattle-mariners@open-sports-cal
@@ -867,7 +873,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Seattle Mariners\nT-Mobile Park\nStar
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-20-los-angeles-angels-vs-seattle-mariners@open-sports-cal
@@ -878,7 +884,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Seattle Mariners\nT-Mobile Park\nStar
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-21-cincinnati-reds-vs-los-angeles-angels@open-sports-cal
@@ -889,7 +895,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Los Angeles Angels\nAngel Stadium\nStart
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-22-cincinnati-reds-vs-los-angeles-angels@open-sports-cal
@@ -900,7 +906,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Los Angeles Angels\nAngel Stadium\nStart
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-23-cincinnati-reds-vs-los-angeles-angels@open-sports-cal
@@ -911,7 +917,7 @@ DESCRIPTION:MLB 2027\nCincinnati Reds @ Los Angeles Angels\nAngel Stadium\nStart
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-25-tampa-bay-rays-vs-los-angeles-angels@open-sports-cal
@@ -922,7 +928,7 @@ DESCRIPTION:MLB 2027\nTampa Bay Rays @ Los Angeles Angels\nAngel Stadium\nStart 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-26-tampa-bay-rays-vs-los-angeles-angels@open-sports-cal
@@ -933,7 +939,7 @@ DESCRIPTION:MLB 2027\nTampa Bay Rays @ Los Angeles Angels\nAngel Stadium\nStart 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-27-tampa-bay-rays-vs-los-angeles-angels@open-sports-cal
@@ -944,7 +950,7 @@ DESCRIPTION:MLB 2027\nTampa Bay Rays @ Los Angeles Angels\nAngel Stadium\nStart 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-29-los-angeles-angels-vs-toronto-blue-jays@open-sports-cal
@@ -955,7 +961,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Toronto Blue Jays\nRogers Centre\nSta
 LOCATION:Rogers Centre
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-06-30-los-angeles-angels-vs-toronto-blue-jays@open-sports-cal
@@ -966,7 +972,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Toronto Blue Jays\nRogers Centre\nSta
 LOCATION:Rogers Centre
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-01-los-angeles-angels-vs-toronto-blue-jays@open-sports-cal
@@ -977,7 +983,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Toronto Blue Jays\nRogers Centre\nSta
 LOCATION:Rogers Centre
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-02-los-angeles-angels-vs-atlanta-braves@open-sports-cal
@@ -988,7 +994,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Atlanta Braves\nTruist Park
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1000,7 +1006,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Atlanta Braves\nTruist Park
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1012,7 +1018,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Atlanta Braves\nTruist Park
 LOCATION:Truist Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -1024,7 +1030,7 @@ DESCRIPTION:MLB 2027\nTexas Rangers @ Los Angeles Angels\nAngel Stadium\nStart t
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-06-texas-rangers-vs-los-angeles-angels@open-sports-cal
@@ -1035,7 +1041,7 @@ DESCRIPTION:MLB 2027\nTexas Rangers @ Los Angeles Angels\nAngel Stadium\nStart t
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-07-texas-rangers-vs-los-angeles-angels@open-sports-cal
@@ -1046,7 +1052,7 @@ DESCRIPTION:MLB 2027\nTexas Rangers @ Los Angeles Angels\nAngel Stadium\nStart t
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-08-texas-rangers-vs-los-angeles-angels@open-sports-cal
@@ -1057,7 +1063,7 @@ DESCRIPTION:MLB 2027\nTexas Rangers @ Los Angeles Angels\nAngel Stadium\nStart t
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-09-toronto-blue-jays-vs-los-angeles-angels@open-sports-cal
@@ -1068,7 +1074,7 @@ DESCRIPTION:MLB 2027\nToronto Blue Jays @ Los Angeles Angels\nAngel Stadium\nSta
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-10-toronto-blue-jays-vs-los-angeles-angels@open-sports-cal
@@ -1079,7 +1085,7 @@ DESCRIPTION:MLB 2027\nToronto Blue Jays @ Los Angeles Angels\nAngel Stadium\nSta
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-11-toronto-blue-jays-vs-los-angeles-angels@open-sports-cal
@@ -1090,7 +1096,7 @@ DESCRIPTION:MLB 2027\nToronto Blue Jays @ Los Angeles Angels\nAngel Stadium\nSta
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-16-los-angeles-angels-vs-los-angeles-dodgers@open-sports-cal
@@ -1101,7 +1107,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Los Angeles Dodgers\nUNIQLO Field at 
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-17-los-angeles-angels-vs-los-angeles-dodgers@open-sports-cal
@@ -1112,7 +1118,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Los Angeles Dodgers\nUNIQLO Field at 
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-18-los-angeles-angels-vs-los-angeles-dodgers@open-sports-cal
@@ -1123,7 +1129,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Los Angeles Dodgers\nUNIQLO Field at 
 LOCATION:UNIQLO Field at Dodger Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-19-los-angeles-angels-vs-san-diego-padres@open-sports-cal
@@ -1134,7 +1140,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -1146,7 +1152,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -1158,7 +1164,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ San Diego Padres\nPetco Park
 LOCATION:Petco Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -1170,7 +1176,7 @@ DESCRIPTION:MLB 2027\nAthletics @ Los Angeles Angels\nAngel Stadium\nStart time 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-23-athletics-vs-los-angeles-angels@open-sports-cal
@@ -1181,7 +1187,7 @@ DESCRIPTION:MLB 2027\nAthletics @ Los Angeles Angels\nAngel Stadium\nStart time 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-24-athletics-vs-los-angeles-angels@open-sports-cal
@@ -1192,7 +1198,7 @@ DESCRIPTION:MLB 2027\nAthletics @ Los Angeles Angels\nAngel Stadium\nStart time 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-25-athletics-vs-los-angeles-angels@open-sports-cal
@@ -1203,7 +1209,7 @@ DESCRIPTION:MLB 2027\nAthletics @ Los Angeles Angels\nAngel Stadium\nStart time 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-26-san-francisco-giants-vs-los-angeles-angels@open-sports-cal
@@ -1214,7 +1220,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Angels\nAngel Stadium\n
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-27-san-francisco-giants-vs-los-angeles-angels@open-sports-cal
@@ -1225,7 +1231,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Angels\nAngel Stadium\n
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-28-san-francisco-giants-vs-los-angeles-angels@open-sports-cal
@@ -1236,7 +1242,7 @@ DESCRIPTION:MLB 2027\nSan Francisco Giants @ Los Angeles Angels\nAngel Stadium\n
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-30-los-angeles-angels-vs-detroit-tigers@open-sports-cal
@@ -1247,7 +1253,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Detroit Tigers\nComerica Park\nStart 
 LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-07-31-los-angeles-angels-vs-detroit-tigers@open-sports-cal
@@ -1258,7 +1264,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Detroit Tigers\nComerica Park\nStart 
 LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-01-los-angeles-angels-vs-detroit-tigers@open-sports-cal
@@ -1269,7 +1275,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Detroit Tigers\nComerica Park\nStart 
 LOCATION:Comerica Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-02-los-angeles-angels-vs-boston-red-sox@open-sports-cal
@@ -1280,7 +1286,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Boston Red Sox\nFenway Park\nStart ti
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-03-los-angeles-angels-vs-boston-red-sox@open-sports-cal
@@ -1291,7 +1297,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Boston Red Sox\nFenway Park\nStart ti
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-04-los-angeles-angels-vs-boston-red-sox@open-sports-cal
@@ -1302,7 +1308,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Boston Red Sox\nFenway Park\nStart ti
 LOCATION:Fenway Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-06-detroit-tigers-vs-los-angeles-angels@open-sports-cal
@@ -1313,7 +1319,7 @@ DESCRIPTION:MLB 2027\nDetroit Tigers @ Los Angeles Angels\nAngel Stadium\nStart 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-07-detroit-tigers-vs-los-angeles-angels@open-sports-cal
@@ -1324,7 +1330,7 @@ DESCRIPTION:MLB 2027\nDetroit Tigers @ Los Angeles Angels\nAngel Stadium\nStart 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-08-detroit-tigers-vs-los-angeles-angels@open-sports-cal
@@ -1335,7 +1341,7 @@ DESCRIPTION:MLB 2027\nDetroit Tigers @ Los Angeles Angels\nAngel Stadium\nStart 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-09-miami-marlins-vs-los-angeles-angels@open-sports-cal
@@ -1346,7 +1352,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ Los Angeles Angels\nAngel Stadium\nStart t
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-10-miami-marlins-vs-los-angeles-angels@open-sports-cal
@@ -1357,7 +1363,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ Los Angeles Angels\nAngel Stadium\nStart t
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-11-miami-marlins-vs-los-angeles-angels@open-sports-cal
@@ -1368,7 +1374,7 @@ DESCRIPTION:MLB 2027\nMiami Marlins @ Los Angeles Angels\nAngel Stadium\nStart t
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-13-los-angeles-angels-vs-athletics@open-sports-cal
@@ -1379,7 +1385,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Athletics\nSutter Health Park\nStart 
 LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-14-los-angeles-angels-vs-athletics@open-sports-cal
@@ -1390,7 +1396,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Athletics\nSutter Health Park\nStart 
 LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-15-los-angeles-angels-vs-athletics@open-sports-cal
@@ -1401,7 +1407,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Athletics\nSutter Health Park\nStart 
 LOCATION:Sutter Health Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-16-los-angeles-angels-vs-seattle-mariners@open-sports-cal
@@ -1412,7 +1418,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Seattle Mariners\nT-Mobile Park\nStar
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-17-los-angeles-angels-vs-seattle-mariners@open-sports-cal
@@ -1423,7 +1429,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Seattle Mariners\nT-Mobile Park\nStar
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-18-los-angeles-angels-vs-seattle-mariners@open-sports-cal
@@ -1434,7 +1440,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Seattle Mariners\nT-Mobile Park\nStar
 LOCATION:T-Mobile Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-20-los-angeles-angels-vs-st-louis-cardinals@open-sports-cal
@@ -1445,7 +1451,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -1457,7 +1463,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -1469,7 +1475,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ St. Louis Cardinals\nBusch Stadium
 LOCATION:Busch Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -1481,7 +1487,7 @@ DESCRIPTION:MLB 2027\nNew York Yankees @ Los Angeles Angels\nAngel Stadium\nStar
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-25-new-york-yankees-vs-los-angeles-angels@open-sports-cal
@@ -1492,7 +1498,7 @@ DESCRIPTION:MLB 2027\nNew York Yankees @ Los Angeles Angels\nAngel Stadium\nStar
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-26-new-york-yankees-vs-los-angeles-angels@open-sports-cal
@@ -1503,7 +1509,7 @@ DESCRIPTION:MLB 2027\nNew York Yankees @ Los Angeles Angels\nAngel Stadium\nStar
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-27-cleveland-guardians-vs-los-angeles-angels@open-sports-cal
@@ -1514,7 +1520,7 @@ DESCRIPTION:MLB 2027\nCleveland Guardians @ Los Angeles Angels\nAngel Stadium\nS
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-28-cleveland-guardians-vs-los-angeles-angels@open-sports-cal
@@ -1525,7 +1531,7 @@ DESCRIPTION:MLB 2027\nCleveland Guardians @ Los Angeles Angels\nAngel Stadium\nS
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-29-cleveland-guardians-vs-los-angeles-angels@open-sports-cal
@@ -1536,40 +1542,43 @@ DESCRIPTION:MLB 2027\nCleveland Guardians @ Los Angeles Angels\nAngel Stadium\nS
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-08-31-los-angeles-angels-vs-colorado-rockies@open-sports-cal
-DTSTART;VALUE=DATE:20270831
-DTEND;VALUE=DATE:20270901
+DTSTART:20270901T004000Z
+DTEND:20270901T034000Z
 SUMMARY:Los Angeles Angels @ Colorado Rockies
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Colorado Rockies\nCoors Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Colorado Rockies\nCoors Field
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-01-los-angeles-angels-vs-colorado-rockies@open-sports-cal
-DTSTART;VALUE=DATE:20270901
-DTEND;VALUE=DATE:20270902
+DTSTART:20270902T004000Z
+DTEND:20270902T034000Z
 SUMMARY:Los Angeles Angels @ Colorado Rockies
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Colorado Rockies\nCoors Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Colorado Rockies\nCoors Field
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-02-los-angeles-angels-vs-colorado-rockies@open-sports-cal
-DTSTART;VALUE=DATE:20270902
-DTEND;VALUE=DATE:20270903
+DTSTART:20270902T191000Z
+DTEND:20270902T221000Z
 SUMMARY:Los Angeles Angels @ Colorado Rockies
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Colorado Rockies\nCoors Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Colorado Rockies\nCoors Field
 LOCATION:Coors Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-03-arizona-diamondbacks-vs-los-angeles-angels@open-sports-cal
@@ -1580,7 +1589,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Angels\nAngel Stadium\n
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-04-arizona-diamondbacks-vs-los-angeles-angels@open-sports-cal
@@ -1591,7 +1600,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Angels\nAngel Stadium\n
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-05-arizona-diamondbacks-vs-los-angeles-angels@open-sports-cal
@@ -1602,7 +1611,7 @@ DESCRIPTION:MLB 2027\nArizona Diamondbacks @ Los Angeles Angels\nAngel Stadium\n
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-06-washington-nationals-vs-los-angeles-angels@open-sports-cal
@@ -1613,7 +1622,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ Los Angeles Angels\nAngel Stadium\n
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-07-washington-nationals-vs-los-angeles-angels@open-sports-cal
@@ -1624,7 +1633,7 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ Los Angeles Angels\nAngel Stadium\n
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-08-washington-nationals-vs-los-angeles-angels@open-sports-cal
@@ -1635,40 +1644,43 @@ DESCRIPTION:MLB 2027\nWashington Nationals @ Los Angeles Angels\nAngel Stadium\n
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-10-los-angeles-angels-vs-texas-rangers@open-sports-cal
-DTSTART;VALUE=DATE:20270910
-DTEND;VALUE=DATE:20270911
+DTSTART:20270911T001000Z
+DTEND:20270911T031000Z
 SUMMARY:Los Angeles Angels @ Texas Rangers
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-11-los-angeles-angels-vs-texas-rangers@open-sports-cal
-DTSTART;VALUE=DATE:20270911
-DTEND;VALUE=DATE:20270912
+DTSTART:20270911T231000Z
+DTEND:20270912T021000Z
 SUMMARY:Los Angeles Angels @ Texas Rangers
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-12-los-angeles-angels-vs-texas-rangers@open-sports-cal
-DTSTART;VALUE=DATE:20270912
-DTEND;VALUE=DATE:20270913
+DTSTART:20270912T184000Z
+DTEND:20270912T214000Z
 SUMMARY:Los Angeles Angels @ Texas Rangers
-DESCRIPTION:MLB 2027\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field\nStart time TBD
+DESCRIPTION:MLB 2027\nLos Angeles Angels @ Texas Rangers\nGlobe Life Field
 LOCATION:Globe Life Field
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
+X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-13-los-angeles-angels-vs-houston-astros@open-sports-cal
@@ -1679,7 +1691,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Houston Astros\nDaikin Park\nStart ti
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-14-los-angeles-angels-vs-houston-astros@open-sports-cal
@@ -1690,7 +1702,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Houston Astros\nDaikin Park\nStart ti
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-15-los-angeles-angels-vs-houston-astros@open-sports-cal
@@ -1701,7 +1713,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Houston Astros\nDaikin Park\nStart ti
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-16-los-angeles-angels-vs-houston-astros@open-sports-cal
@@ -1712,7 +1724,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Houston Astros\nDaikin Park\nStart ti
 LOCATION:Daikin Park
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-17-los-angeles-angels-vs-kansas-city-royals@open-sports-cal
@@ -1723,7 +1735,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Kansas City Royals\nKauffman Stadium\
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-18-los-angeles-angels-vs-kansas-city-royals@open-sports-cal
@@ -1734,7 +1746,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Kansas City Royals\nKauffman Stadium\
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-19-los-angeles-angels-vs-kansas-city-royals@open-sports-cal
@@ -1745,7 +1757,7 @@ DESCRIPTION:MLB 2027\nLos Angeles Angels @ Kansas City Royals\nKauffman Stadium\
 LOCATION:Kauffman Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-21-seattle-mariners-vs-los-angeles-angels@open-sports-cal
@@ -1756,7 +1768,7 @@ DESCRIPTION:MLB 2027\nSeattle Mariners @ Los Angeles Angels\nAngel Stadium\nStar
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-22-seattle-mariners-vs-los-angeles-angels@open-sports-cal
@@ -1767,7 +1779,7 @@ DESCRIPTION:MLB 2027\nSeattle Mariners @ Los Angeles Angels\nAngel Stadium\nStar
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-23-seattle-mariners-vs-los-angeles-angels@open-sports-cal
@@ -1778,7 +1790,7 @@ DESCRIPTION:MLB 2027\nSeattle Mariners @ Los Angeles Angels\nAngel Stadium\nStar
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-24-houston-astros-vs-los-angeles-angels@open-sports-cal
@@ -1789,7 +1801,7 @@ DESCRIPTION:MLB 2027\nHouston Astros @ Los Angeles Angels\nAngel Stadium\nStart 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-25-houston-astros-vs-los-angeles-angels@open-sports-cal
@@ -1800,7 +1812,7 @@ DESCRIPTION:MLB 2027\nHouston Astros @ Los Angeles Angels\nAngel Stadium\nStart 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 BEGIN:VEVENT
 UID:mlb-2027-2027-09-26-houston-astros-vs-los-angeles-angels@open-sports-cal
@@ -1811,6 +1823,6 @@ DESCRIPTION:MLB 2027\nHouston Astros @ Los Angeles Angels\nAngel Stadium\nStart 
 LOCATION:Angel Stadium
 CATEGORIES:Baseball,MLB,MLB 2027
 STATUS:CONFIRMED
-DTSTAMP:20261104T140926Z
+DTSTAMP:20261105T142550Z
 END:VEVENT
 END:VCALENDAR
