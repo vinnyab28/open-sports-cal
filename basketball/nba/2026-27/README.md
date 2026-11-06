@@ -19,21 +19,21 @@ All times are in **UTC**. Each game is blocked for **3 hours**.
 
 | Team | Download | | Team | Download |
 |------|----------|-|------|----------|
-| Atlanta Hawks | [atlanta-hawks.ics](atlanta-hawks.ics) | | | Miami Heat | [miami-heat.ics](miami-heat.ics) |
-| Boston Celtics | [boston-celtics.ics](boston-celtics.ics) | | | Milwaukee Bucks | [milwaukee-bucks.ics](milwaukee-bucks.ics) |
-| Brooklyn Nets | [brooklyn-nets.ics](brooklyn-nets.ics) | | | Minnesota Timberwolves | [minnesota-timberwolves.ics](minnesota-timberwolves.ics) |
-| Charlotte Hornets | [charlotte-hornets.ics](charlotte-hornets.ics) | | | New Orleans Pelicans | [new-orleans-pelicans.ics](new-orleans-pelicans.ics) |
-| Chicago Bulls | [chicago-bulls.ics](chicago-bulls.ics) | | | New York Knicks | [new-york-knicks.ics](new-york-knicks.ics) |
-| Cleveland Cavaliers | [cleveland-cavaliers.ics](cleveland-cavaliers.ics) | | | Oklahoma City Thunder | [oklahoma-city-thunder.ics](oklahoma-city-thunder.ics) |
-| Dallas Mavericks | [dallas-mavericks.ics](dallas-mavericks.ics) | | | Orlando Magic | [orlando-magic.ics](orlando-magic.ics) |
-| Denver Nuggets | [denver-nuggets.ics](denver-nuggets.ics) | | | Philadelphia 76ers | [philadelphia-76ers.ics](philadelphia-76ers.ics) |
-| Detroit Pistons | [detroit-pistons.ics](detroit-pistons.ics) | | | Phoenix Suns | [phoenix-suns.ics](phoenix-suns.ics) |
-| Golden State Warriors | [golden-state-warriors.ics](golden-state-warriors.ics) | | | Portland Trail Blazers | [portland-trail-blazers.ics](portland-trail-blazers.ics) |
-| Houston Rockets | [houston-rockets.ics](houston-rockets.ics) | | | Sacramento Kings | [sacramento-kings.ics](sacramento-kings.ics) |
-| Indiana Pacers | [indiana-pacers.ics](indiana-pacers.ics) | | | San Antonio Spurs | [san-antonio-spurs.ics](san-antonio-spurs.ics) |
-| LA Clippers | [la-clippers.ics](la-clippers.ics) | | | Toronto Raptors | [toronto-raptors.ics](toronto-raptors.ics) |
-| Los Angeles Lakers | [los-angeles-lakers.ics](los-angeles-lakers.ics) | | | Utah Jazz | [utah-jazz.ics](utah-jazz.ics) |
-| Memphis Grizzlies | [memphis-grizzlies.ics](memphis-grizzlies.ics) | | | Washington Wizards | [washington-wizards.ics](washington-wizards.ics) |
+| Atlanta Hawks | [atlanta-hawks.ics](atlanta-hawks.ics) | | Miami Heat | [miami-heat.ics](miami-heat.ics) |
+| Boston Celtics | [boston-celtics.ics](boston-celtics.ics) | | Milwaukee Bucks | [milwaukee-bucks.ics](milwaukee-bucks.ics) |
+| Brooklyn Nets | [brooklyn-nets.ics](brooklyn-nets.ics) | | Minnesota Timberwolves | [minnesota-timberwolves.ics](minnesota-timberwolves.ics) |
+| Charlotte Hornets | [charlotte-hornets.ics](charlotte-hornets.ics) | | New Orleans Pelicans | [new-orleans-pelicans.ics](new-orleans-pelicans.ics) |
+| Chicago Bulls | [chicago-bulls.ics](chicago-bulls.ics) | | New York Knicks | [new-york-knicks.ics](new-york-knicks.ics) |
+| Cleveland Cavaliers | [cleveland-cavaliers.ics](cleveland-cavaliers.ics) | | Oklahoma City Thunder | [oklahoma-city-thunder.ics](oklahoma-city-thunder.ics) |
+| Dallas Mavericks | [dallas-mavericks.ics](dallas-mavericks.ics) | | Orlando Magic | [orlando-magic.ics](orlando-magic.ics) |
+| Denver Nuggets | [denver-nuggets.ics](denver-nuggets.ics) | | Philadelphia 76ers | [philadelphia-76ers.ics](philadelphia-76ers.ics) |
+| Detroit Pistons | [detroit-pistons.ics](detroit-pistons.ics) | | Phoenix Suns | [phoenix-suns.ics](phoenix-suns.ics) |
+| Golden State Warriors | [golden-state-warriors.ics](golden-state-warriors.ics) | | Portland Trail Blazers | [portland-trail-blazers.ics](portland-trail-blazers.ics) |
+| Houston Rockets | [houston-rockets.ics](houston-rockets.ics) | | Sacramento Kings | [sacramento-kings.ics](sacramento-kings.ics) |
+| Indiana Pacers | [indiana-pacers.ics](indiana-pacers.ics) | | San Antonio Spurs | [san-antonio-spurs.ics](san-antonio-spurs.ics) |
+| LA Clippers | [la-clippers.ics](la-clippers.ics) | | Toronto Raptors | [toronto-raptors.ics](toronto-raptors.ics) |
+| Los Angeles Lakers | [los-angeles-lakers.ics](los-angeles-lakers.ics) | | Utah Jazz | [utah-jazz.ics](utah-jazz.ics) |
+| Memphis Grizzlies | [memphis-grizzlies.ics](memphis-grizzlies.ics) | | Washington Wizards | [washington-wizards.ics](washington-wizards.ics) |
 
 ---
 
